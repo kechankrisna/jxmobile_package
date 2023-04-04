@@ -1,0 +1,4 @@
+nActType	szDes
+1	Thăm Hỏi Hảo Hữu\nSau khi sai phái, Môn Khách sẽ đến thăm hỏi Gia Viên hảo hữu [FFFE0D]ngẫu nhiên[-].\nThưởng Sai Phái: [FFFE0D]Chân Khí[-].\nSự kiện thêm:\nHảo Hữu [FFFE0D]trả lời đúng[-], hai bên nhận [FFFE0D]30 thân mật[-] và [FFFE0D]200 Chân Khí[-].
+2	Du Ngoạn\nSau khi sai phái, Môn Khách tạm rời Gia Viên.\nPhái thưởng: [FFFE0D]Thủy Tinh, Khoáng Thạch[-].\nSự kiện thêm:\n([FFFE0D]Tỉ lệ kích hoạt Môn Khách A trở lên[-])\n1. Tại các bản đồ [FFFE0D]gặp Môn Khách[-], đối thoại sẽ nhận [FFFE0D]30 thân mật[-].\n2. Môn Khách gặp nạn sẽ gửi lời mời [FFFE0D]giúp đỡ[-], hoàn thành nhận [FFFE0D]nhiều EXP và Bạc.[-]
+3	Tu Luyện Tịnh Tâm\nSau khi được phái, Môn Khách vào trạng thái Tịnh Tâm.\nPhái thưởng: [FFFE0D]Nguyên khí[-].\nSự kiện thêm:\n([FFFE0D]Tỉ lệ kích hoạt Môn Khách Cấp S trở lên[-])\nMôn Khách tẩu hỏa nhập ma, Bang Hội có thể giúp đỡ [FFFE0D]khắc chế Tâm Ma[-], nếu thành công tất cả nhận [FFFE0D]EXP và Nguyên Khí[-].

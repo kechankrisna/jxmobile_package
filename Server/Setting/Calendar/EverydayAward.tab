@@ -1,0 +1,33 @@
+StringKey	Name	LevelMin1	LevelMax1	Times1	Count1	LevelMin2	LevelMax2	Times2	Count2	LevelMin3	LevelMax3	Times3	Count3	LevelMin4	LevelMax4	Times4	Count4	LevelMin5	LevelMax5	Times5	Count5
+Rank	Võ Thần Điện	20	29	3	10	30	39	3	10	40	49	3	10	50	69	3	10	70	200	3	10
+ActivityQuestion	Vấn Đáp	20	29			30	39			40	49			50	69			70	200		
+CangBaoTu	Tàng Bảo Đồ	20	29	2	10	30	39	2	10	40	49			50	69			70	200		
+EquipEnhance	Cường Hóa Trang Bị	20	29	5	10	30	39			40	49			50	69			70	200		
+TeamFuben	Bí Cảnh Tổ Đội	20	29	1	10	30	39			40	49			50	69			70	200		
+PunishTask	Nhiệm Vụ Trừng Ác	20	29	3	10	30	39	3	10	40	49	3	10	50	69	3	10	70	200	3	10
+ExplorationFuben	Tìm Kho Báu	20	29	5	10	30	39	5	10	40	49	5	10	50	68	5	10	70	200		
+Boss	Khiêu chiến Minh Chủ Võ Lâm	20	29	1	10	30	39	1	10	40	49	1	10	50	69	1	10	70	200	1	10
+RandomFuben	Lăng Tuyệt Phong	20	29			30	39	1	10	40	49	1	10	50	69	1	10	70	200	1	10
+Battle	Chiến Trường	20	29			30	39	1	10	40	49	1	10	50	69	1	10	70	200	1	10
+CommerceTask	Nhiệm Vụ Thương Hội	20	29			30	39			40	49	1	10	50	69	1	10	70	200	1	10
+KinDonate	Góp Bang Hội	20	29	5	10	30	39	5	10	40	49	5	10	50	69	5	10	70	200	5	10
+ChuanGong	Bang Hội Truyền Công	20	29			30	39	1	10	40	49	1	10	50	69			70	200		
+EquipRefinement	Tẩy Luyện Trang Bị	20	29	5	10	30	39	2	10	40	49			50	69			70	200		
+XiuLian	Luyện Công Ngoài Thành	20	29	1	10	30	39	1	10	40	49			50	69			70	200		
+WhiteTigerFuben	Bạch Hổ Đường	20	29			30	39			40	49	1	10	50	69	1	10	70	200	1	10
+FieldBoss	Danh Tướng	20	29			30	39			40	49			50	69			70	200		
+KinGiftBox	Hộp Quà Bang Hội	20	29			30	39			40	49			50	69			70	200		
+KinGather	Lửa Trại Bang Hội	20	29	1	10	30	39	1	10	40	49	1	10	50	69	1	10	70	200	1	10
+EquipStone	Khảm Đá Hồn	20	29	2	10	30	39			40	49			50	69			70	200		
+TeamBattle	Thông Thiên Tháp	20	29			30	39			40	49	1	20	50	69	1	20	70	200	1	20
+KinFuben	Thí Luyện Bang Hội	20	29			30	39			40	49	1	20	50	69	1	20	70	200	1	20
+FactionBattle	Thi Đấu Môn Phái	20	29			30	39			40	49	1	20	50	69	1	20	70	200	1	20
+RechargeGift	Nhận thưởng 7 ngày hoặc 30 ngày	20	29	1	10	30	39	1	10	40	49	1	10	50	69	1	10	70	200	1	10
+DailyRechargeGift	Mua Quà Mỗi Ngày tùy ý	20	29	1	10	30	39	1	10	40	49	1	10	50	69	1	10	70	200	1	10
+DomainBattle	Công Thành Chiến	20	29			30	39			40	49			50	69	1	20	70	200	1	20
+HeroChallenge	Khiêu Chiến Anh Hùng	20	29			30	39			40	49			69	69	3	10	70	200	3	10
+InDifferBattle	Tâm Ma Ảo Cảnh	20	29			30	39			40	49			50	69	1	10	70	200	1	10
+Muse	Ngồi Thiền Tịnh Tâm	20	29			30	39			40	49			50	69	1	10	70	200	1	10
+QunYingHui	Quần Anh Hội	20	29			30	39			40	49			50	69			80	200	1	20
+KinSecretFuben	Bí Cảnh Bang Hội	20	29			30	39			40	49			50	69			70	200	1	20
+KinDefendFuben	Bảo Vệ Bang Hội	20	29			30	39			40	49			50	69			80	200	1	20

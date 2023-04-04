@@ -1,0 +1,609 @@
+szKind	nCount	nPoint	szAward		nKinMsg	nWorldMsg	szName	szDesc
+SignIn_1	1	3	Gold|500				Hiệp Khách Hành 1	Tích lũy điểm danh 1 ngày
+SignIn_1	2	3	Gold|1000;item|9608|1				Hiệp Khách Hành 2	Tích lũy điểm danh 2 ngày
+SignIn_1	3	3	Gold|1000				Hiệp Khách Hành 3	Tích lũy điểm danh 3 ngày
+SignIn_1	4	3	Gold|1000				Hiệp Khách Hành 4	Tích lũy điểm danh 4 ngày
+SignIn_1	5	3	Gold|1000				Hiệp Khách Hành 5	Tích lũy điểm danh 5 ngày
+SignIn_1	7	3	Gold|1000				Hiệp Khách Hành 6	Tích lũy điểm danh 7 ngày
+SignIn_1	10	3	Gold|2000				Hiệp Khách Hành 7	Tích lũy điểm danh 10 ngày
+SignIn_1	30	50	Gold|3000				Kiếm Tâm Bất Lão 1	Tích lũy điểm danh 30 ngày
+SignIn_1	100	100	Gold|5000;item|9599|1		1		Kiếm Tâm Bất Lão 2	Tích lũy điểm danh 100 ngày
+SignIn_1	200	150	Gold|5000;item|9579|1;item|9600|1		1		Kiếm Tâm Bất Lão 3	Tích lũy điểm danh 200 ngày
+SignIn_1	500	200	Gold|5000;item|9601|1		1	1	Kiếm Tâm Bất Lão 4	Tích lũy điểm danh 500 ngày
+SignIn_1	1000	300	Gold|5000;item|9602|1		1	1	Kiếm Tâm Bất Lão 5	Tích lũy điểm danh 1000 ngày
+PerfectDay_1	100	5	Gold|1000				Ngày Hoàn Mỹ 1	Năng động đạt 100
+PerfectDay_3	1	10	Gold|2000				Ngày Hoàn Mỹ 2	Liên tục 3 ngày đạt 100 điểm năng động
+PerfectDay_2	1	20	Gold|3000				Ngày Hoàn Mỹ 3	Liên tục 7 ngày đạt 100 điểm năng động
+PerfectDay_4	1	40	Gold|3000				Ngày Hoàn Mỹ 4	Liên tục 15 ngày đạt 100 điểm năng động
+PerfectDay_5	1	70	Gold|5000;item|9603|1				Ngày Hoàn Mỹ 5	Liên tục 30 ngày đạt 100 điểm năng động
+PerfectMonth	1	60	Gold|2000				Tháng Hoàn Mỹ 1	Trong 1 tháng nhận tất cả thưởng điểm danh
+PerfectMonth	2	80	Gold|3000				Tháng Hoàn Mỹ 2	Tích lũy 2 lần trong 1 tháng nhận tất cả thưởng điểm danh
+PerfectMonth	5	100	Gold|10000;item|9604|1		1		Tháng Hoàn Mỹ 3	Tích lũy 5 lần trong 1 tháng nhận tất cả thưởng điểm danh
+AchievementPoint	1000	20	Gold|10000;item|9604|1				Công Thành Danh Toại 1	Điểm thành tựu đột phá 1000
+AchievementPoint	3000	50	Gold|20000				Công Thành Danh Toại 2	Điểm thành tựu đột phá 3000
+AchievementPoint	5000	80	Gold|30000;item|9573|1;item|9605|1		1		Công Thành Danh Toại 3	Điểm thành tựu đột phá 5000
+AchievementPoint	7500	100	Gold|50000;item|7507|1;item|9606|1;item|7508|1		1		Công Thành Danh Toại 4	Điểm thành tựu đột phá 7500
+AchievementPoint	10000	150	Gold|80000;item|9607|1		1	1	Công Thành Danh Toại 5	Điểm thành tựu đột phá 10000
+AchievementPoint	12000	200	Gold|100000;item|9608|1		1	1	Công Thành Danh Toại 6	Điểm thành tựu đột phá 12000
+PlayerLevel	20	5	Gold|1000				Sơ Nhập Giang Hồ	Đạt Lv20
+PlayerLevel	40	5	Gold|1000				Tiểu Thí Ngưu Đao	Đẳng cấp đạt Lv40
+PlayerLevel	60	5	Gold|2000				Nhân Tài Võ Lâm	Đẳng cấp đạt Lv60
+PlayerLevel	80	5	Gold|2000				Võ Lâm Hào Kiệt	Đẳng cấp đạt Lv80
+PlayerLevel	100	10	Gold|5000				Độc Bộ Võ Lâm	Đẳng cấp đạt Lv100
+PlayerLevel	120	10	Gold|5000				Võ Lâm Danh Túc	Đẳng cấp đạt Lv120
+PlayerLevel	140	20	Gold|10000				Võ Lâm Thái Đẩu	Đẳng cấp đạt Lv140
+PlayerLevel	160	20	Gold|10000				Võ Lâm Thiên Đỉnh	Đẳng cấp đạt Lv160
+HonorLevel_1	1	3	Gold|1000				Quân Hàm Giang Hồ	Nhận 1 Quân Hàm
+Label	1	3	Gold|1000				Siêu Phàm Nhập Thánh	Quân Hàm tăng đến Siêu Phàm
+Label	2	3	Gold|1000				Xuất Trần Thoát Tục	Quân Hàm tăng đến Xuất Trần
+Label	3	3	Gold|1000				Phiên Nhã Kinh Hồng	Quân Hàm tăng đến Kinh Hồng
+Label	4	3	Gold|1000				Đại Chí Lăng Vân	Quân Hàm tăng đến Lăng Vân
+Label	5	3	Gold|1000				Ngự Kiếm Đương Không	Quân Hàm tăng đến Ngự Không
+Label	6	5	Gold|2000				Tiềm Long Vật Dụng	Quân Hàm tăng đến Tiềm Long
+Label	7	5	Gold|2000				Ngạo Thế Khinh Vật	Quân Hàm tăng đến Ngạo Thế
+Label	8	10	Gold|5000				Ỷ Thiên Đồ Long	Quân Hàm tăng đến Ỷ Thiên
+Label	9	10	Gold|5000				Võ Lâm Chí Tôn	Quân Hàm tăng đến Chí Tôn
+Label	12	20	Gold|10000				Võ Lâm Thánh Giả	Quân Hàm tăng đến Võ Thánh
+Label	15	30	Gold|10000				Cử Thế Vô Song	Quân Hàm tăng đến Vô Song
+Label	20	40	Gold|10000				Truyền Thuyết Võ Lâm	Quân Hàm tăng đến Truyền thuyết
+Label	21	50	Gold|10000				Võ Lâm Thần Thoại	Quân Hàm tăng đến Thần Thoại
+Title_Normal	1	3	Gold|1000				Tiểu Hữu Danh Thanh	Nhận 1 danh hiệu
+Title_Purple	1	5	Gold|3000				Thanh Danh	Nhận 1 Danh hiệu Tím
+Title_Pink	1	10	Gold|5000				Danh Tiếng Vang Xa	Nhận 1 Danh hiệu Hồng
+Title_Orange	1	20	Gold|10000		1		Thanh Danh Hiển Hách	Nhận 1 Danh hiệu Cam
+Title_Gold	1	40	Gold|30000;item|9573|1;item|9605|1		1		Danh Chấn Giang Hồ	Nhận 1 Danh hiệu Vàng
+Title_Collector	10	3	Gold|1000				Sưu Tầm Danh Hiệu 1	Nhận 10 Danh hiệu Tím trở lên
+Title_Collector	20	5	Gold|2000				Sưu Tầm Danh Hiệu 2	Nhận 20 Danh hiệu Tím trở lên
+Title_Collector	40	10	Gold|3000				Sưu Tầm Danh Hiệu 3	Nhận 40 Danh hiệu Tím trở lên
+Title_Collector	60	20	Gold|5000		1		Sưu Tầm Danh Hiệu 4	Nhận 60 Danh hiệu Tím trở lên
+Title_Collector	100	50	Gold|10000		1	1	Sưu Tầm Danh Hiệu 5	Nhận 100 Danh hiệu Tím trở lên
+Task_1	1	5	Gold|1000				Phiêu Bạt Giang Hồ 1	Hoàn thành Chương 1 Nguyệt Ảnh Truyền Thuyết: Ánh Sáng Hi Vọng
+Task_2	1	5	Gold|1000				Phiêu Bạt Giang Hồ 2	Hoàn thành Chương 2 Nguyệt Ảnh Truyền Thuyết: Quân Tử Báo Thù
+Task_3	1	5	Gold|1000				Phiêu Bạt Giang Hồ 3	Hoàn thành Chương 3 Nguyệt Ảnh Truyền Thuyết: Võ Lâm Bá Đồ
+Task_4	1	5	Gold|1000				Phiêu Bạt Giang Hồ 4	Hoàn thành tất cả chương Nguyệt Ảnh Truyền Thuyết
+Task_5	1	5	Gold|2000				Phiêu Bạt Giang Hồ 5	Hoàn thành Chương 1 Võ Lâm Truyền Kỳ-Nhất: Người Xưa Còn Đâu
+Task_6	1	5	Gold|2000				Phiêu Bạt Giang Hồ 6	Hoàn thành Chương 2 Võ Lâm Truyền Kỳ-Nhất: Rời Đảo Hành Hiệp
+Task_7	1	5	Gold|2000				Phiêu Bạt Giang Hồ 7	Hoàn thành Chương 3 Võ Lâm Truyền Kỳ-Nhất: Sóng Gió Cửu Châu
+Task_8	1	5	Gold|2000				Phiêu Bạt Giang Hồ 8	Hoàn thành Chương 4 Võ Lâm Truyền Kỳ-Nhất: Ân Oán Truyền Đời
+Task_9	1	5	Gold|2000				Phiêu Bạt Giang Hồ 9	Hoàn thành Chương 5 Võ Lâm Truyền Kỳ-Nhất: Thiên Ma Giải Thể
+Task_10	1	5	Gold|2000				Phiêu Bạt Giang Hồ 10	Hoàn thành Chương 6 Võ Lâm Truyền Kỳ-Nhất: Hoa Tuyết Tình Sen
+Task_11	1	5	Gold|2000				Phiêu Bạt Giang Hồ 11	Hoàn thành Chương 7 Võ Lâm Truyền Kỳ-Nhất: Nghĩa Tình Huynh Đệ
+Task_12	1	5	Gold|2000				Phiêu Bạt Giang Hồ 12	Hoàn thành Chương 8 Võ Lâm Truyền Kỳ-Nhất: Tấm Lòng Hiệp Khách
+Task_13	1	5	Gold|2000				Phiêu Bạt Giang Hồ 13	Hoàn thành tất cả chương Võ Lâm Truyền Kỳ-Nhất
+Equip_1	1	5	Gold|1000				Tinh Phẩm-Sơ	Nhận 1 Trang Bị Tím
+Equip_2	1	10	Gold|3000				Thượng Phẩm-Sơ	Nhận 1 Trang Bị Cam
+Equip_3	1	20	Gold|5000				Cực Phẩm-Sơ	Nhận 1 Trang Bị Hoàng Kim
+InsetOnce_1	1	3	Gold|500				Nhập môn Khảm	Khảm 1 Đá Hồn trên trang bị
+InsetMaster_1	1	5	Gold|2000				Nhập Môn Khảm Nạm	Khảm 20 Đá Hồn trên Lv1
+InsetMaster_2	1	5	Gold|3000				Chuyên Gia Khảm Nạm	Khảm 20 Đá Hồn trên Lv2
+InsetMaster_3	1	10	Gold|5000				Cao Thủ Khảm Nạm	Khảm 20 Đá Hồn trên Lv3
+InsetMaster_4	1	20	Gold|5000;item|9609|1		1		Thợ Khảm	Khảm 20 Đá Hồn trên Lv4
+InsetMaster_5	1	40	Gold|10000;item|9610|1		1		Bậc Thầy Khảm Nạm	Khảm 20 Đá Hồn trên Lv5
+InsetMaster_6	1	80	Gold|50000;item|4249|1		1		Khảm Thánh Tượng	Khảm 40 Đá Hồn trên Lv6
+EquipRefinement_1	1	3	Gold|100				Nhập môn Tẩy Luyện	Hoàn thành 1 lần Tẩy Luyện Trang Bị
+EquipRefinement_2	1	5	Gold|2000				Thuộc tính đủ	Tẩy luyện 1 trang bị trên người đến 6 dòng thuộc tính
+EquipRefinement_3	1	10	Gold|3000				Thuộc tính đỉnh	Tẩy luyện 1 thuộc tính Cam cho trang bị
+EquipRefinement_4	1	20	Gold|4000;item|9611|1		1		Cầu Tinh	Tẩy 1 trang bị trên người đến 6 hoặc trên 6 thuộc tính Tím
+EquipRefinement_5	1	40	Gold|5000;item|9612|1		1		Binh Kiên Giáp Lợi	Trang bị trên người tẩy luyện đến 6 hoặc trên 6 thuộc tính Tím
+EnhanceOnce_1	1	3	Gold|500				Nhập môn Cường Hóa	Xong 1 lần cường hóa trang bị
+EnhanceMaster_1	10	5	Gold|500				Nhập Môn Cường Hóa	Cường hóa trang bị toàn thân +5 trở lên
+EnhanceMaster_2	10	5	Gold|2000				Chuyên Gia Cường Hóa	Cường hóa trang bị toàn thân +20 trở lên
+EnhanceMaster_3	10	10	Gold|4000;item|9611|1				Cao Thủ Cường Hóa	Cường hóa trang bị toàn thân +40 trở lên
+EnhanceMaster_4	10	10	Gold|6000;item|9613|1		1		Cao Thủ Cường Hóa	Cường hóa trang bị toàn thân +60 trở lên
+EnhanceMaster_5	10	20	Gold|8000;item|9614|1		1		Bậc Thầy Cường Hóa	Cường hóa trang bị toàn thân +80 trở lên
+EnhanceMaster_6	10	50	Gold|10000;item|4247|1		1		Cường Hóa Thánh Tượng	Trang bị toàn thân cường hóa +100 trở lên
+EnhanceFailure_1	1	5	Gold|1000				Xui Xẻo 1	Cường hóa trang bị thất bại liên tục 3 lần
+EnhanceFailure_2	1	10	Gold|3000				Xui Xẻo 2	Cường hóa trang bị thất bại liên tục 4 lần
+EnhanceFailure_3	1	20	Gold|3000				Xui Xẻo 3	Cường hóa trang bị thất bại liên tục 5 lần
+EnhanceFailure_4	1	30	Gold|5000				Xui Xẻo 4	Cường hóa trang bị thất bại liên tục 6 lần
+EnhanceFailure_5	1	50	Gold|10000;item|9578|1		1		Quá Xui Xẻo	Cường hóa trang bị thất bại liên tục 7 lần
+EnhanceFailure_6	1	10	Gold|5000				Trời Muốn Diệt Ta	Cường hóa thất bại khi tỉ lệ thành công đạt 90% trở lên
+Partner_1	1	3	Gold|500				Chiêu Binh Mãi Mã	Nhận Đồng Hành lần đầu
+Partner_4	1	5	Gold|3000				Cường Viện Xuất Hiện	Lần đầu nhận Đồng Hành S trở lên
+Partner_6	1	10	Gold|5000				Danh Sĩ Tương Trợ	Lần đầu nhận Đồng Hành SS trở lên
+Partner_8	1	20	Gold|10000				Phụ Tá Đắc Lực	Lần đầu nhận Đồng Hành SSS
+Partner_3	1	5	Gold|1000				Đội Ngũ Chỉnh Tề	Xuất chiến đủ 4 Đồng Hành
+Partner_5	1	10	Gold|10000;item|9615|1		1		Đắc Đạo 1	Xuất chiến 4 đồng hành cấp S trở lên
+Partner_7	1	20	Gold|10000		1		Đắc Đạo 2	Xuất chiến 4 đồng hành cấp SS trở lên
+Partner_Skill1	1	5	Gold|1000				Kỹ Bất Áp Thân 1	Cho 1 Đồng Hành học 5 kỹ năng Trắng trở lên
+Partner_Skill2	1	10	Gold|2000				Kỹ Bất Áp Thân 2	Cho 1 Đồng Hành học 5 kỹ năng Lục trở lên
+Partner_Skill3	1	20	Gold|3000				Kỹ Bất Áp Thân 3	Cho 1 Đồng Hành học 5 kỹ năng Lam trở lên
+Partner_Skill4	1	30	Gold|5000				Kỹ Bất Áp Thân 4	Cho 1 Đồng Hành học 5 kỹ năng Tím trở lên
+Partner_Equip	1	5	Gold|2000				Ban Cho Thần Khí 1	Cho 1 Đồng Hành trang bị vũ Khí Bổn Mạng
+Partner_Equip	2	10	Gold|5000				Ban Cho Thần Khí 2	Cho 2 Đồng Hành trang bị vũ Khí Bổn Mạng
+Partner_Equip	3	20	Gold|5000				Ban Cho Thần Khí 3	Cho 3 Đồng Hành trang bị vũ Khí Bổn Mạng
+Partner_Equip	4	30	Gold|10000		1		Ban Cho Thần Khí 4	Cho 4 Đồng Hành trang bị vũ Khí Bổn Mạng
+Partner_Awaken	1	10	Gold|5000				Thức Tỉnh 1	Thức tỉnh 1 Đồng Hành
+Partner_Awaken	2	20	Gold|5000				Thức Tỉnh 2	Thức tỉnh 2 Đồng Hành
+Partner_Awaken	3	30	Gold|10000				Thức Tỉnh 3	Thức tỉnh 3 Đồng Hành
+Partner_Awaken	4	50	Gold|20000;item|9616|1		1		Thức Tỉnh 4	Thức tỉnh 4 Đồng Hành
+Partner_CE	20000	5	Gold|2000				Binh Mã Cường Tráng 1	Đồng Hành ra trận lực chiến đạt 20000
+Partner_CE	40000	10	Gold|5000				Binh Mã Cường Tráng 2	Đồng Hành ra trận lực chiến đạt 40000
+Partner_CE	100000	20	Gold|10000				Binh Mã Cường Tráng 3	Đồng Hành ra trận lực chiến đạt 100000
+Partner_CE	300000	50	Gold|20000		1		Binh Mã Cường Tráng 4	Đồng Hành ra trận lực chiến đạt 300000
+Guest_Amount	1	5	Gold|2000				Dưỡng Sĩ 1	Cho 1 Đồng Hành xuất trận 5 Môn Khách
+Guest_Amount	4	10	Gold|5000				Dưỡng Sĩ 2	Cho 4 Đồng Hành xuất trận 5 Môn Khách
+Guest_Property	1	5	Gold|1000				Hỗ Trợ 1	Kích hoạt thuộc tính Hộ Chủ của 1 Môn Khách
+Guest_Property	4	10	Gold|5000				Hỗ Trợ 2	Kích hoạt thuộc tính Hộ Chủ của 4 Môn Khách
+Guest_Combination	1	5	Gold|2000				Tương Trợ 1	Kích hoạt thuộc tính tổ hợp của 1 nhóm Môn Khách
+Guest_Combination	5	10	Gold|5000				Tương Trợ 2	Kích hoạt thuộc tính tổ hợp của 5 nhóm Môn Khách
+Guest_Combination	8	20	Gold|10000		1		Tương Trợ 3	Kích hoạt thuộc tính tổ hợp của 8 nhóm Môn Khách
+Guest_Defend	1	10	Gold|2000				Hộ Viện	Có 4 Môn Khách vào ở Gia Viên của mình
+Guest_Fealty	1	5	Gold|2000				Trung Thành 1	1 Môn Khách có độ hảo hữu đạt 5 sao
+Guest_Fealty	5	10	Gold|3000				Trung Thành 2	5 Môn Khách có độ hảo hữu đạt 5 sao
+Guest_Fealty	10	20	Gold|5000				Trung Thành 3	10 Môn Khách có độ hảo hữu đạt 5 sao
+Guest_Fealty	25	50	Gold|10000		1		Trung Thành 4	25 Môn Khách có độ hảo hữu đạt 5 sao
+Guest_Task1	1	5	Gold|1000				Ngộ Môn Khách	Phó bản Ngày gặp Môn Khách của bản thân và hoàn thành đối thoại
+Guest_Task2	1	5	Gold|1000				Giúp Đỡ	Giúp đỡ Môn Khách hoàn thành 1 lần du ngoạn phó bản Bí Cảnh
+Guest_Task3	1	5	Gold|1000				Ghé Thăm	Gặp Môn Khách của Hảo Hữu đến thăm hỏi và trả lời câu hỏi của hắn
+Guest_Task4	1	10	Gold|2000				Kìm Cương Vực Thẳm	Trong vòng 5 phút cùng Bang Hội hợp sức chế ngự Tâm Ma của bản thân
+Meridian	1	3	Gold|1000				Đả Thông	Lần đầu xung huyệt thành công
+Meridian_Qugu1	1	5	Gold|1000				Nhâm Mạch Tinh Thông 1	Lần đầu đả thông huyệt vị Khúc Cốt
+Meridian_Changqiang1	1	5	Gold|1000				Đốc Mạch Tinh Thông 1	Lần đầu đả thông huyệt vị Trường Cường
+Meridian_Youmen1	1	5	Gold|1000				Xung Mạch Tinh Thông 1	Lần đầu đả thông huyệt vị U Môn
+Meridian_Jingming1	1	5	Gold|1000				Dương Khiêu Tinh Thông 1	Lần đầu đả thông huyệt vị Tinh Minh
+Meridian_Qugu1	5	10	Gold|2000				Nhâm Mạch Tinh Thông 2	Huyệt vị Khúc Cốt tăng đến tầng thứ 5
+Meridian_Changqiang1	5	10	Gold|2000				Đốc Mạch Tinh Thông 3	Huyệt vị Trường Cường tăng đến tầng thứ 5
+Meridian_Youmen1	5	10	Gold|2000				Xung Mạch Tinh Thông 2	Huyệt vị U Môn tăng đến tầng 5
+Meridian_Jingming1	5	10	Gold|2000				Dương Khiêu Tinh Thông 2	Huyệt vị Tinh Minh tăng đến tầng thứ 5
+Meridian_Qugu1	10	20	Gold|3000				Nhâm Mạch Tinh Thông 3	Huyệt vị Khúc Cốt tăng đến tầng thứ 10
+Meridian_Changqiang1	10	20	Gold|3000				Đốc Mạch Tinh Thông 2	Huyệt vị Trường Cường tăng đến tầng thứ 10
+Meridian_Youmen1	10	20	Gold|3000				Xung Mạch Tinh Thông 3	Huyệt vị U Môn tăng đến tầng 10
+Meridian_Jingming1	10	20	Gold|3000				Dương Khiêu Tinh Thông 3	Huyệt vị Tinh Minh tăng đến tầng thứ 10
+Meridian_Qugu1	20	50	Gold|5000				Nhâm Mạch Tinh Thông 4	Huyệt vị Khúc Cốt tăng đến tầng thứ 20
+Meridian_Changqiang1	20	50	Gold|5000				Đốc Mạch Tinh Thông 4	Huyệt vị Trường Cường tăng đến tầng thứ 20
+Meridian_Youmen1	20	50	Gold|5000				Xung Mạch Tinh Thông 4	Huyệt vị U Môn tăng đến tầng 20
+Meridian_Jingming1	20	50	Gold|5000				Dương Khiêu Tinh Thông 4	Huyệt vị Tinh Minh tăng đến tầng thứ 20
+Meridian_Failure_1	3	5	Gold|2000				Khó Hơn Lên Trời 1	Xung huyệt 1 huyệt vị thất bại liên tiếp 3 lần
+Meridian_Failure_1	4	10	Gold|3000				Khó Hơn Lên Trời 2	Xung huyệt 1 huyệt vị thất bại liên tiếp 4 lần
+Meridian_Failure_1	5	20	Gold|5000				Khó Hơn Lên Trời 3	Xung huyệt 1 huyệt vị thất bại liên tiếp 5 lần
+Meridian_Failure	2	10	Gold|3000				Chỉ Là Ảo Giác	Xung huyệt thất bại 2 lần liên tục
+Knack_1	1	3	Gold|1000				Hảo Hữu Giúp Mình	Trang bị 1 Yếu Quyết
+Knack_2	1	5	Gold|1000				Tu Luyện Chăm Chỉ	Lần đầu tăng cấp tu luyện Yếu Quyết bất kỳ
+Knack_3	1	5	Gold|2000				Lục Vị Nhất Thể 1	Trang bị đủ 6 Yếu Quyết
+Knack_4	2	10	Gold|2000				Lục Vị Nhất Thể 2	Trang bị đủ 6 Yếu Quyết Lv2
+Knack_4	4	20	Gold|3000				Lục Vị Nhất Thể 3	Trang bị đủ 6 Yếu Quyết Lv4
+ZhenYuan_1	1	3	Gold|1000				Ngưng Tụ Chân Nguyên	Ngưng tụ 1 lần Chân Nguyên
+ZhenYuan_Rare	1	10	Gold|2000				Chân Nguyên Hiếm	Giám định được 1 Chân Nguyên Hiếm
+ZhenYuan_Skill	1	20	Gold|10000				Kỹ Năng Chân Nguyên	Giám định ra 1 Chân Nguyên mang kỹ năng
+ZhenYuanRefinement_1	1	3	Gold|1000				Tẩy luyện Chân Nguyên	Hoàn thành 1 lần tẩy luyện Chân Nguyên
+ZhenYuanRefinement_2	1	10	Gold|5000				Tứ Duy Gia Trì	Chân Nguyên đồng thời có các thuộc tính Sức mạnh, Thể chất, Nhanh nhẹn, Linh hoạt
+ZhenYuanRefinement_Skill	1	20	Gold|5000				Di Hình Hoán Ảnh	Hoàn thành 1 lần tẩy kỹ năng Chân Nguyên
+HuaShan_1	1	3	Gold|1000				Hoa Sơn Thủ Tú	Lần đầu tham gia Hoa Sơn Luận Kiếm
+HuaShan_Alone	1	5	Gold|1000				Hoa Sơn Một Người	Xuất chiến Hoa Sơn Luận Kiếm- Sơ Tuyển Cá Nhân
+HuaShanLunJian_16	1	10	Gold|2000				Hoa Sơn Top 16	Vào Top 16 Hoa Sơn Luận Kiếm
+HuaShanLunJian_8	1	20	Gold|3000				Tứ Kết Hoa Sơn	Vào Tứ Kết Hoa Sơn Luận Kiếm
+HuaShanLunJian_4	1	30	Gold|5000				Bán Kết Hoa Sơn	Vào Bán Kết Hoa Sơn Luận Kiếm
+HuaShanLunJian_1	1	50	Gold|50000;item|4245|1		1		Đỉnh Hoa Sơn	Đạt Quán Quân Hoa Sơn Luận Kiếm
+HuaShanLunJian_1	10	100	Gold|50000;item|9617|1		1	1	Quán Tuyệt Giang Hồ	Đoạt Quán Quân Hoa Sơn Luận Kiếm 10 lần
+FactionBattle_1	1	3	Gold|1000				Đại Hội Môn Phái	Tham gia Thi Đấu Môn Phái thành công
+FactionBattle_2	1	5	Gold|2000				Cao Thủ Môn Phái	Vào vòng loại Thi Đấu Môn Phái
+FactionBattle_3	1	10	Gold|3000				Tứ Kết Môn Phái	Vào tứ kết Thi Đấu Môn Phái
+FactionBattle_4	1	20	Gold|5000				Bán Kết Môn Phái	Vào bán kết Thi Đấu Môn Phái
+FactionBattle_5	1	30	Gold|10000				Trận Đấu Cuối Cùng	Vào chung kết Thi Đấu Môn Phái
+FactionBattleNew_1	1	40	Gold|20000		1		Tân Vương	Đạt Tân Vương Thi Đấu Môn Phái
+FactionBattleNew_1	5	50	Gold|20000		1		5 lần đoạt Tân Vương	5 lần đoạt Tân Vương Thi Đấu Môn Phái
+FactionBattleNew_1	10	80	Gold|50000		1	1	10 lần đoạt Tân Vương	10 lần đoạt Tân Vương Thi Đấu Môn Phái
+FactionBattleNew_1	30	150	Gold|50000		1	1	Lão Nhân Vương	30 lần đoạt Tân Vương Thi Đấu Môn Phái
+FactionBattleBrother_1	1	60	Gold|50000;item|4244|1		1		Đại Đệ Tử	Trúng cử Đại Sư Huynh Thi Đấu Môn Phái
+FactionBattleBrother_2	1	80	Gold|50000;item|9618|1		1	1	Đại Sư Huynh Liên Nhiệm	Liên tục đảm nhiệm 2 lần Đại Sư Huynh Thi Đấu Môn Phái
+QunYingHui_1	1	3	Gold|1000				Chiến Quần Anh	Quần Anh Hội giành 1 trận thắng
+QunYingHui_5	1	10	Gold|2000				Tài Năng Hé Lộ	Thắng 5 trận liền tại Quần Anh Hội
+QunYingHui_12	1	20	Gold|5000				Ngạo Thị Quần Anh 1	Quần Anh Hội thắng 12 trận liên tiếp hoặc hơn
+QunYingHui_12P	1	20	Gold|10000				Ngạo Thị Quần Anh 2	Quần Anh Hội-Ghép đơn thắng 12 trận liên tiếp hoặc hơn
+QunYingHui_12	5	50	Gold|10000		1		Ngạo Thị Quần Anh 3	Quần Anh Hội đạt 5 lần thắng liên tục 12
+QunYingHui_12	20	100	Gold|20000		1	1	Ngạo Thị Quần Anh 4	Quần Anh Hội đạt 20 lần thắng liên tục 12
+QunYingHui_16	1	100	Gold|20000				Dũng Mãnh	Quần Anh Hội giành 16 trận toàn thắng
+Battle_1	1	3	Gold|1000				Gia Nhập Quân Ngũ	Báo danh tham gia Chiến Trường 1 lần
+Battle_1	10	5	Gold|2000				Dương Đao Lập Mã	Tham gia 10 lần Chiến Trường
+Battle_3	10	10	Gold|3000;item|9619|1				Thường Thắng Sư	Tham gia Chiến Trường thắng 10 trận
+Battle_1	100	20	Gold|5000;item|9620|1		1		Túy Ngọa Sa Trường	Tham gia 100 lần Chiến Trường
+Battle_3	100	30	Gold|10000;item|9621|1		1		Nhất Tướng Công Thành	Tham gia Chiến Trường thắng 100 trận
+Battle_Combo1	1	5	Gold|1000				Uy Chấn Sa Trường 1	Chiến Trường Tống Kim hoàn thành 10 Liên Trảm
+Battle_Combo2	1	10	Gold|3000				Uy Chấn Sa Trường 3	Chiến Trường Tống Kim hoàn thành 20 Liên Trảm
+Battle_Combo3	1	20	Gold|10000		1		Uy Chấn Sa Trường 2	Chiến Trường Tống Kim hoàn thành 50 Liên Trảm
+Battle_Combo4	1	50	Gold|20000		1	1	Uy Chấn Sa Trường 4	Chiến Trường Tống Kim hoàn thành 100 Liên Trảm
+Rank_1	1	5	Gold|1000				Huyết Chiến 	Hạng cá nhân nằm trong 50% Top trên
+Rank_2	1	10	Gold|2000				Tiên Phong	Hạng cá nhân nằm trong Top 3
+Rank_3	1	20	Gold|3000				Đệ Nhất Chiến Công	Hạng cá nhân đạt hạng 1
+Rank_3	10	30	Gold|5000;item|9622|1		1		Quân Công Cái Thế	Tích lũy hạng 1 Chiến Trường đạt 10 lần
+Rank_3	100	50	Gold|10000;item|9623|1		1		Quân Thần	Tích lũy hạng 1 Chiến Trường đạt 100 lần
+Battle_SoldierKiller	1	50	Gold|20000		1		Cao Thủ Trộm Gà	Chiến Trường Cá Nhân hạng 1 nhưng không diệt
+TeamBattle_1	1	3	Gold|1000				Lần đầu vào Thông Thiên Tháp	Vào Thông Thiên Tháp thành công
+TeamBattle_2	1	5	Gold|1000				Tầm Cao Mới	Vào Thông Thiên Tháp tầng kế
+TeamBattle_3	1	10	Gold|3000				Lên Đỉnh Thành Công	Đã vào đến Thông Thiên Tháp Tầng 7
+TeamBattleFurniture_1	1	20	Gold|10000				Thiên Ngoại Hữu Thiên	Vào Thông Thiên Tháp tầng 8 thành công
+TeamBattle_3	10	30	Gold|5000;item|9624|1				Thông Thiên Lộ	Vào 10 lần Thông Thiên Tháp Tầng 7
+TeamBattle_3	50	50	Gold|10000;item|9625|1				Một Bước Lên Trời	Vào 50 lần Thông Thiên Tháp Tầng 7
+TeamBattleFurniture_1	20	60	Gold|50000;item|4251|1		1		Đạt Đến Đỉnh Cao	Vào tầng 8 Thông Thiên Tháp 20 lần
+TeamBattle_LuckyDog	1	10	Gold|2000				Vận Rủi	Tại Thông Thiên Tháp thắng không cần đấu 1 lần
+WLDH	1	10	Gold|2000				Đại Hội Võ Lâm	Lần đầu báo danh Đại Hội Võ Lâm
+WLDH_16	1	15	Gold|5000				Võ Lâm Top 16	Vào Top 16 Đại Hội Võ Lâm
+WLDH_8	1	20	Gold|10000				Võ Lâm Anh Tài	Vào Tứ kết Đại Hội Võ Lâm
+WLDH_4	1	40	Gold|20000				Bán Kết Võ Lâm	Vào Bán Kết Đại Hội Võ Lâm
+WLDH_2	1	60	Gold|30000;item|9573|1;item|9605|1				Vấn Đỉnh Quán Quân	Vào Chung Kết Đại Hội Võ Lâm
+WLDH_1	1	100	Gold|50000		1	1	Thiên Hạ Đệ Nhất	Đoạt Quán Quân Đại Hội Võ Lâm
+WLDH_Alone	1	10	Gold|2000				Võ Lâm Một Người	Xuất chiến Đại Hội Võ Lâm-Sơ Tuyển Cá Nhân
+RankBattle_1	1	3	Gold|500				Khiêu Chiến Võ Thần Điện	Khiêu chiến người khác 1 lần trong Võ Thần Điện
+RankBattle_2	1	5	Gold|2000				Top 1000	Võ Thần Điện đạt Top 1000
+RankBattle_3	1	10	Gold|3000				Top 100	Võ Thần Điện đạt Top 100
+RankBattle_4	1	20	Gold|5000;item|9626|1		1		Top 10	Võ Thần Điện đạt Top 10
+RankBattle_5	1	40	Gold|10000;item|9627|1		1	1	Hạng 1!	Võ Thần Điện đạt hạng 1
+InDifferBattle_1	1	3	Gold|1000				Lần đầu vào Tâm Ma	Tham gia hoạt động Tâm Ma Ảo Cảnh/Tuyệt Địa
+InDifferBattle_2	1	5	Gold|2000				Diệt Người Bí Ẩn	Trong Tâm Ma Ảo Cảnh/Tuyệt Địa diệt 1 Người Bí Ẩn
+InDifferBattle_3	1	10	Gold|3000				Sống Còn	Trong Tâm Ma Ảo Cảnh/Tuyệt Địa vào giai đoạn cuối
+InDifferBattle_4	1	20	Gold|5000;item|9628|1		1		Cao Thủ Sinh Tồn	Trong Tâm Ma Ảo Cảnh/Tuyệt Địa chiến thắng 1 lần
+InDifferBattle_4p	1	20	Gold|20000				Cao Thủ Sinh Tồn 2	Trong Tâm Ma Ảo Cảnh/Tuyệt Địa ghép cá nhân chiến thắng 1 lần
+InDifferBattle_4	10	30	Gold|10000;item|9629|1;item|9833|1		1		Bậc Thầy Sinh Tồn 1	Trong Tâm Ma Ảo Cảnh/Tuyệt Địa tích lũy chiến thắng 10 lần
+InDifferBattle_4	50	50	Gold|30000;item|9630|1				Bậc Thầy Sinh Tồn	Trong Tâm Ma Ảo Cảnh/Tuyệt Địa tích lũy chiến thắng 50 lần
+InDifferBattle_Tank	1	20	Gold|10000				Ảo Ảnh Xa	Trong Tâm Ma Ảo Cảnh/Tuyệt Địa không diệt một ai vào đến giai đoạn cuối
+InDifferBattle_Boxes	1	10	Gold|2000				Bá Chiếm Ảo Tượng	Trong Tâm Ma Ảo Cảnh, đội mở Ảo Tượng và mở tất cả bảo rương
+InDifferBattle_BearKiller	1	15	Gold|2000				Gấu Chúa Sát Thủ	Trong Tâm Ma Ảo Cảnh diệt 1 Hám Thiên Hùng Hoàng
+InDifferBattle_Wusheng	1	15	Gold|5000				Ta Thần Trang Rồi	Trong Tâm Ma Ảo Cảnh quân hàm tăng đến Võ Thánh
+Challenge_1	1	3	Gold|1000				Không Phục Đấu Đơn	Lần đầu lên Lôi Đài
+Challenge_Win	5	5	Gold|1000				Tài Năng Đơn Đấu	Ở Tỉ Võ Trường tích lũy thắng 5 trận
+Challenge_Win	10	10	Gold|2000				Cao Thủ Đơn Đấu	Ở Tỉ Võ Trường tích lũy thắng 10 trận
+Challenge_Win	50	20	Gold|5000;item|9631|1		1		Vương Giả Đơn Đấu	Ở Tỉ Võ Trường tích lũy thắng 50 trận
+Challenge_Win	100	50	Gold|10000;item|9632|1		1		Trăm Trận Trăm Thắng	Ở Tỉ Võ Trường tích lũy thắng 100 trận
+KeyQuest_1	1	3	Gold|1000				Sơ Nhập Đào Lâm	Lần đầu vào Di Tích Tầm Bảo
+KeyQuest_KeyRobber	1	5	Gold|1000				Sát Nhân Đoạt Phù	Tại Di Tích Tầm Bảo diệt Người Bí Ẩn và đoạt Bùa Truyền Tống
+KeyQuest_Floor3	1	10	Gold|3000				Thám Hiểm Tầng 3	Tại Di Tích Tầm Bảo lần đầu vào tầng 3
+KeyQuest_Unfortunate	1	10	Gold|2000				Thảm Họa	Di Tích Tầm Bảo 1 phút trước khi vào tầng tiếp theo bị mất Bùa Truyền Tống
+KeyQuest_BigBox	1	20	Gold|20000;item|9633|1		1		Bảo Rương Lớn!	Di Tích Tầm Bảo tầng 3 mở Bảo Rương Lớn
+KeyQuest_SwordRobber	1	5	Gold|2000		1		Giết Người Cướp Của	Tại Di Tích Tầm Bảo diệt Người Bí Ẩn và đoạt Sáng Thế Kiếm
+HeroChallenge_1	1	3	Gold|1000				Khiêu Chiến	Vượt thành công 1 lượt Khiêu Chiến Anh Hùng
+HeroChallenge_2	1	5	Gold|2000				Dũng Cảm	Vượt thành công 6 lượt Khiêu Chiến Anh Hùng
+HeroChallenge_3	1	10	Gold|3000				Toàn Thắng	Vượt thành công 10 lượt Khiêu Chiến Anh Hùng
+HeroChallenge_3	10	20	Gold|5000;item|9634|1				Bách Chiến Bách Thắng	Vượt thành công 10 lượt Khiêu Chiến Anh Hùng 10 lần
+HeroChallenge_3	100	50	Gold|10000;item|9635|1		1		Bách Chiến Thành Ma	Vượt thành công 10 lượt Khiêu Chiến Anh Hùng 100 lần
+Cangbaotu_1	1	3	Gold|1500				Đào Kho Báu bắt đầu rồi	Đào kho báu 1 lần
+Cangbaotu_2	1	5	Gold|1500				Bên trong là gì?	Đào được rương cũ
+Cangbaotu_3	1	5	Gold|4000;item|9611|1				Ồ! Bảo Vật	Đào được vật phẩm Lam trở lên
+Cangbaotu_1	200	10	Gold|5000;item|9636|1				Tầm Bảo	Đào kho báu 200 lần
+Cangbaotu_1	1000	20	Gold|7000;item|9637|1		1		Đoạt Bảo Kỳ Binh	Đào kho báu 1000 lần
+Dungeon_1	1	5	Gold|1500				Ồ! Địa Cung	Đào kho báu rơi vào Địa Cung
+Dungeon_2	1	5	Gold|1500				Trợ Thủ Đến Rồi	Mời người khác vào Địa Cung thành công
+Dungeon_3	1	5	Gold|1500				Cảm Ơn Đã Mời	Được người khác mời vào Địa Cung
+Dungeon_4	1	5	Gold|1500				Mật Thất Tầng 2!	Trong Địa Cung phát hiện Mật Thất Tầng 2
+Dungeon_1	50	20	Gold|7000;item|9638|1		1		Trời Xanh Chiếu Cố	Đào kho báu rơi vào Địa Cung 50 lần
+HighCangbaotu_1	1	10	Gold|4000;item|9611|1				Tàng Bảo Đồ-Cao	Đào Tàng Bảo Đồ-Cao thành công 1 lần
+HighCangbaotu_2	1	10	Gold|4000;item|9611|1				Bị Bao Vây	Đào Tàng Bảo Đồ-Cao xuất hiện Đoạt Bảo Tặc
+HighCangbaotu_3thieves	1	15	Gold|5000				Cướp Cướp Cướp	Đào Tàng Bảo Đồ-Cao liên tục xuất hiện 3 lần Đoạt Bảo Tặc
+HighCangbaotu_5thieves	1	20	Gold|10000				Cướp Cướp Cướp Cướp Cướp	Đào Tàng Bảo Đồ-Cao liên tục xuất hiện 5 lần Đoạt Bảo Tặc
+HighCangbaotu_3	1	20	Gold|4000;item|9611|1				Nhận Bí Kíp	Đào Tàng Bảo Đồ-Cao nhận được Bí Kíp Võ Lâm
+HighCangbaotu_4	1	20	Gold|4000;item|9611|1				Thần Binh Bổn Mạng	Đào Tàng Bảo Đồ-Cao nhận được Thần Binh Bổn Mạng Đồng Hành
+HighCangbaotu_5	1	20	Gold|4000;item|9611|1				Thủ Lĩnh!	Đào Tàng Bảo Đồ-Cao xuất hiện Thủ Lĩnh Dã Ngoại
+PunishTask_1	1	3	Gold|500				Giang Hồ Trừng Ác	Hoàn thành 1 lần nhiệm vụ Trừng Ác
+PunishTask_1	20	5	Gold|1000				Nghiêm Trừng Ác Đồ	Hoàn thành 20 lần nhiệm vụ Trừng Ác
+PunishTask_1	100	10	Gold|2000				Hành Hiệp Trượng Nghĩa	Hoàn thành 100 lần nhiệm vụ Trừng Ác
+PunishTask_1	300	20	Gold|3000				Diệt Cỏ Tận Gốc	Hoàn thành 300 lần nhiệm vụ Trừng Ác
+PunishTask_1	1000	50	Gold|5000;item|9639|1		1		Danh Mãn Giang Hồ	Hoàn thành 1000 lần nhiệm vụ Trừng Ác
+PunishTask_Orange	1	10	Gold|2000				Đại Đạo Tặc 1	Làm đội trưởng và diệt 1 Thủ Lĩnh Cam trong Trừng Ác
+PunishTask_Orange	10	20	Gold|5000				Đại Đạo Tặc 2	Làm đội trưởng và diệt 10 Thủ Lĩnh Cam trong Trừng Ác
+PunishTask_Orange	50	50	Gold|10000				Đại Đạo Tặc 3	Làm đội trưởng và diệt 50 Thủ Lĩnh Cam trong Trừng Ác
+KinSecret_Win1	1	10	Gold|1000				Vượt Ải Bí Cảnh 1	Tham gia Bí Cảnh Bang Hội và vượt 1 phòng
+KinSecret_Win2	1	20	Gold|3000				Vượt Ải Bí Cảnh 2	Tham gia Bí Cảnh Bang Hội và vượt 2 phòng
+KinSecret_Win3	1	50	Gold|5000				Vượt Ải Bí Cảnh 3	Tham gia Bí Cảnh Bang Hội và vượt 3 phòng
+KinSecret_BigBox	1	10	Gold|2000				Nhanh Tay	Bí Cảnh Bang Hội mở Bảo Rương Lớn sau khi vượt ải
+KinSecret_Order	1	50	Gold|5000				Kỷ Luật Nghiêm Minh	Vượt ải 1 phòng và boss của 3 ải đều chưa hấp hồn thành công
+KinSecret_Bad	1	10	Gold|2000				Thôi rồi	Độc Cô Kiếm được Trương Lâm Tâm hồi sinh trong Bí Cảnh Bang Hội
+KinFuben_1	1	3	Gold|1000				Bắt Đầu Thí Luyện	Tham gia 1 lần Thí Luyện Bang Hội
+KinFuben_1	2	5	Gold|2000				Tiếp Tục Thí Luyện	Tham gia 2 lần Thí Luyện Bang Hội
+KinFuben_1	4	5	Gold|3000				Luyện Binh	Tham gia 4 lần Thí Luyện Bang Hội
+KinFuben_1	10	10	Gold|5000				Tập Luyện	Tham gia 10 lần Thí Luyện Bang Hội
+KinFuben_1	20	20	Gold|10000;item|9640|1		1		Bách Luyện Thành Cang	Tham gia 20 lần Thí Luyện Bang Hội
+RandomFuben_1	1	3	Gold|3000				Mới Đến Lăng Tuyệt Phong	Vượt Lăng Tuyệt Phong Tầng 1
+RandomFuben_2	1	3	Gold|3000				Cơ Quan Trùng Trùng	Vượt Lăng Tuyệt Phong Tầng 2
+RandomFuben_3	1	3	Gold|3000				Bí Mật Trong Núi	Vượt Lăng Tuyệt Phong Tầng 3
+RandomFuben_4	1	3	Gold|3000				Lăng Tuyệt Gian Nan	Vượt Lăng Tuyệt Phong Tầng 4
+RandomFuben_5	1	3	Gold|3000;item|9641|1		1		Cao Thủ Lăng Tuyệt	Vượt Lăng Tuyệt Phong Tầng 5
+RandomFuben_NoDeath	1	20	Gold|5000				Một Mạng Vượt Ải	Đội viên đều chưa tử vong đã vượt ải Lăng Tuyệt Phong
+RandomFuben_Fast	1	20	Gold|10000				Nhanh Như Chớp	Thời gian tiêu hao 2 phút 40 giây vượt ải Lăng Tuyệt Phong
+RandomFubenCard_1	1	3	Gold|6000;item|9613|1				Bí Mật Lăng Tuyệt Phong	Thu thập 1 Thẻ Lăng Tuyệt Phong
+RandomFubenCard_2	1	5	Gold|6000;item|9613|1				Kho Báu Lăng Tuyệt Phong	Từng nhận thưởng thu thập Lăng Tuyệt Phong
+RandomFubenCard_3	1	5	Gold|6000;item|9613|1				Giang Hồ Bách Hiểu Sinh	Thu thập Lăng Tuyệt Phong đạt top 100
+RandomFubenCard_4	1	10	Gold|6000;item|9613|1				Lăng Tuyệt Tiếu Hồng Trần	Thu thập Lăng Tuyệt Phong đạt top 30
+RandomFubenCard_5	1	20	Gold|6000;item|9642|1		1		Cửu Thiên Tiêu Dao Du	Hạng 1 trong BXH Thu Thập Thẻ Lăng Tuyệt Phong
+AdventureFuben_Anger1	1	3	Gold|1000				Nộ Khí Đầy	Sơn Tặc Mật Quật mở cơ quan 1 lần
+AdventureFuben_Anger0	1	3	Gold|3000				Dễ Dàng	Sơn Tặc Mật Quật đội không mở cơ quan thành công vượt ải
+XiuLian_1	1	3	Gold|1000				Tu Luyện Bắt Đầu Rồi	Mở trạng thái Tu Luyện 1 lần
+XiuLian_1	20	5	Gold|2000				Tiếp Tục	Mở trạng thái Tu Luyện 20 lần
+XiuLian_1	60	10	Gold|3000				Khổ Luyện Mỗi Ngày	Mở trạng thái Tu Luyện 60 lần
+XiuLian_1	200	20	Gold|5000;item|9643|1		1		Luyện Cấp Cuồng Ma	Mở trạng thái Tu Luyện 200 lần
+XiuLian_2	1	3	Gold|1000				Đống Lửa	Đốt Lửa Trại
+TeamFuben_1	1	3	Gold|500				Bí Cảnh Tổ Đội	Vượt bí cảnh tổ đội
+TeamFuben_2	1	10	Gold|2000;item|9644|1				Phong Vân Nổi Dậy	Bí Cảnh Tàng Kiếm Sơn Trang đạt「Trác Việt」
+TeamFuben_3	1	10	Gold|2000;item|9645|1				Võ Di Kinh Hồn	Bí Cảnh Võ Di Cấm Địa đạt「Trác Việt」 đạt
+TeamFuben_4	1	10	Gold|2000;item|9646|1				Bí Cảnh Dung Hỏa	Bí Cảnh Dung Hỏa Tịch Lịch đạt「Trác Việt」
+TeamFuben_5	1	10	Gold|2000;item|9647|1				Thúy Trúc Quỷ Sâm	Bí Cảnh Thúy Trúc U Cốc đạt「Trác Việt」
+TeamFuben_6	1	10	Gold|2000;item|9648|1				Hô Khiếu Liệt Phong	Bí Cảnh Hô Khiếu Sơn Đạo đạt 「Trác Việt」
+TeamFuben_7	1	10	Gold|2000;item|9649|1				Tuyết Phong Tử Nhật	Bí Cảnh Tuyết Phong Tiêu Yên đạt「Trác Việt」t
+ImperialTomb_Heshibi	1	5	Gold|1000				Thủy Hoàng Ban Thưởng 1	Ở Tần Lăng nhận 1 Hòa Thị Bích
+ImperialTomb_Heshibi	10	10	Gold|2000				Thủy Hoàng Ban Thưởng 2	Ở Tần Lăng nhận 10 Hòa Thị Bích
+ImperialTomb_Heshibi	50	20	Gold|5000				Thủy Hoàng Ban Thưởng 3	Ở Tần Lăng nhận 50 Hòa Thị Bích
+ImperialTomb_Heshibi	100	50	Gold|20000;item|9650|1		1		Thủy Hoàng Ban Thưởng 4	Ở Tần Lăng nhận 100 Hòa Thị Bích
+ImperialTomb_Hole_1	1	5	Gold|1000				Linh Quang Nhất Hiện	Vào Mật Thất Tần Lăng 1 lần
+ImperialTomb_Hole_2	1	10	Gold|3000				May Mắn Liên Tiếp 1	Trong 1 ngày vào Mật Thất Tần Lăng 3 lần
+ImperialTomb_Hole_3	1	15	Gold|5000				May Mắn Liên Tiếp 2	Trong 1 ngày vào Mật Thất Tần Lăng 5 lần
+ImperialTomb_Hole_4	1	20	Gold|10000				May Mắn Liên Tiếp 3	Trong 1 ngày vào Mật Thất Tần Lăng 10 lần
+ImperialTomb_Hole_5	1	40	Gold|20000;item|9651|1		1		May Mắn Liên Tiếp 4	Trong 1 ngày vào Mật Thất Tần Lăng 20 lần
+Chat_Private	1	3	Gold|500				Trò Chuyện	Chat riêng 1 lần với người chơi bất kỳ
+Chat_Emotion	1	3	Gold|500				Ngôn từ phong phú	Gửi biểu cảm ở bất kỳ kênh nào
+Chat_Voice	1	3	Gold|500				Dư Âm Nhiễu Lương	Gửi Voice đến kênh bất kỳ
+Chat_World	1	3	Gold|500				Công Khai Quan Điểm	Trong kênh Thế Giới gửi tin nhắn Chat cộng đồng
+Chat_Kin	1	3	Gold|500				Bang Hội Lên Tiếng	Trong Bang Hội gửi tin nhắn Chat cộng đồng
+Chat_School	1	3	Gold|500				Chào Đồng Môn	Trong Môn phái gửi tin nhắn Chat cộng đồng
+Chat_Color	1	5	Gold|1000				Thiên Lý Truyền Âm	Gửi tin chat màu
+QuickTeamUp_Normal	1	3	Gold|500				Lập Tổ Đội	Dùng tổ đội nhanh tham gia 1 lần hoạt động tổ đội
+PkExcercise_1	1	3	Gold|500				Tỉ Thí Nào	Tỷ thí cùng người khác
+2-person_Horse	1	5	Gold|500				Vui Vẻ Bên Nhau	Cùng người chơi khác hoàn thành 1 lần Cùng Cưỡi
+2-person_Close	1	5	Gold|500				Thân Thiết	Cùng người chơi khác hoàn thành 1 lần động tác Thân Thiết
+2-person_Hug	1	5	Gold|500				Ôm Vào Lòng	Cùng người chơi khác hoàn thành 1 lần Ôm
+2-person_HandInHand	1	5	Gold|500				Tay Đan Trong Tay	Cùng người chơi khác hoàn thành 1 lần Nắm Tay
+Give_Clothes	1	10	Gold|2000				Áo Xinh Tặng Người Đẹp	Tặng 1 lần Ngoại Trang
+Give_Flower	1	3	Gold|500				Có Qua Có Lại 1	Tặng 1 lần Hoa Hồng/Cỏ May Mắn
+Give_Flower	10	5	Gold|1000				Có Qua Có Lại 2	Tích lũy tặng 10 lần Hoa Hồng/Cỏ May Mắn
+Give_Flower	50	10	Gold|3000				Có Qua Có Lại 3	Tích lũy tặng 50 lần Hoa Hồng/Cỏ May Mắn
+Give_Flower	100	20	Gold|5000				Có Qua Có Lại 4	Tích lũy tặng 100 lần Hoa Hồng/Cỏ May Mắn
+Give_Flower	500	50	Gold|10000				Có Qua Có Lại 5	Tích lũy tặng 500 lần Hoa Hồng/Cỏ May Mắn
+Give_Flower	1000	100	Gold|20000;item|9577|1;item|9652|1		1		Có Qua Có Lại 6	Tích lũy tặng 1000 lần Hoa Hồng/Cỏ May Mắn
+Give_99Flower	1	5	Gold|2000				Tặng Quà Lớn 1	Tặng 1 lần 99 Hoa Hồng/99 Cỏ May Mắn
+Give_99Flower	10	10	Gold|5000				Tặng Quà Lớn 3	Tích lũy tặng 10 lần 99 Hoa Hồng/99 Cỏ May Mắn
+Give_99Flower	50	50	Gold|10000;item|9653|1		1		Tặng Quà Lớn 2	Tích lũy tặng 50 lần 99 Hoa Hồng/99 Cỏ May Mắn
+Family_1	1	3	Gold|500				Nơi Dừng Chân	Lần đầu vào Bang Hội
+Family_3	1	3	Gold|500				Quà Bang Hội 1	Nhận 1 Hộp Quà Bang Hội
+Family_3	5	5	Gold|500				Quà Bang Hội 2	Đã nhận 5 Hộp Quà Bang Hội
+Family_3	50	10	Gold|3000				Quà Bang Hội 3	Đã nhận 50 Hộp Quà Bang Hội
+Family_3	250	20	Gold|5000				Quà Bang Hội 4	Nhận 250 Hộp Quà Bang Hội
+Family_3	1000	50	Gold|10000;item|9654|1				Quà Bang Hội 5	Nhận 1000 Hộp Quà Bang Hội
+FamilyContribute_1	1	3	Gold|1000				Ta Muốn Quyên Góp	Hoàn thành 1 lần Góp Bang Hội
+FamilyContribute_1	10	5	Gold|2000				Góp tiếp	Hoàn thành 10 lần Góp Bang Hội
+FamilyContribute_1	50	10	Gold|3000				Công Huân Thành Viên	Hoàn thành 50 lần Góp Bang Hội
+FamilyContribute_1	200	20	Gold|5000				Đóng Góp Không Ngừng	Hoàn thành 200 lần Góp Bang Hội
+FamilyContribute_1	1000	50	Gold|10000;item|9655|1		1		Hào Phóng	Hoàn thành 1000 lần Góp Bang Hội
+FamilyContribute_1	10000	100	Gold|50000;item|4250|1		1		Giàu Sang	Góp Bang Hội 10000 lần
+PayOff_1	1	3	Gold|1000				Đã Phát Lương	Nhận lương Bang Hội 1 lần
+PayOff_1	100	5	Gold|2000				Lại Có Tiền Nhận	Tích lũy nhận Lương Bang Hội vượt quá 100 Nguyên Bảo
+PayOff_1	1000	10	Gold|3000				Làm Nhiều Hưởng Nhiều 1	Tích lũy nhận Lương Bang Hội vượt quá 1000 Nguyên Bảo
+PayOff_1	3000	20	Gold|5000				Làm Nhiều Hưởng Nhiều 2	Tích lũy nhận Lương Bang Hội vượt quá 3000 Nguyên Bảo
+PayOff_1	10000	50	Gold|10000				Làm Nhiều Hưởng Nhiều 3	Tích lũy nhận Lương Bang Hội vượt quá 10000 Nguyên Bảo
+Family_Share	1	3	Gold|500				Hào Sảng 1	Nhận 1 lần lợi tức
+Family_Share	1000	5	Gold|1000				Hào Sảng 2	Tích lũy nhận lợi tức hơn 1000 Nguyên Bảo
+Family_Share	3000	10	Gold|2000				Hào Sảng 3	Tích lũy nhận lợi tức hơn 3000 Nguyên Bảo
+Family_Share	10000	20	Gold|3000				Hào Sảng 4	Tích lũy nhận lợi tức hơn 10000 Nguyên Bảo
+Family_Share	50000	50	Gold|5000				Hào Sảng 5	Tích lũy nhận lợi tức hơn 50000 Nguyên Bảo
+Family_Share	100000	100	Gold|10000		1		Hào Sảng 6	Tích lũy nhận lợi tức hơn 100000 Nguyên Bảo
+RedBag_1	1	3	Gold|1000				Lì Xì	Lần Đầu Phát Lì Xì
+DoubleRedBag_1	1	10	Gold|5000				Lì Xì Lớn	Lần Đầu Phát Lì Xì x2
+LuckDog	1	10	Gold|2000				Vận May Cực Tốt	Đoạt Lì Xì nhận may mắn nhất
+UnforunateMan	1	10	Gold|2000				Vận May Không Tốt	Đoạt Lì Xì chỉ được nhận 1 Nguyên Bảo
+GetMeFight_1	1	3	Gold|1000				Đến Truyền Công	Truyền công hoặc được truyền công 1 lần
+GetMeFight_1	3	5	Gold|1000				Tiếp Tục Truyền Công	Truyền công hoặc được truyền công 3 lần
+GetMeFight_1	10	10	Gold|2000				Giúp Người	Truyền công hoặc được truyền công 10 lần
+GetMeFight_1	30	15	Gold|3000;item|9656|1				Niềm Vui Giúp Người	Truyền công hoặc được truyền công 30 lần
+GetMeFight_1	100	20	Gold|5000;item|9657|1		1		Ở Hiền Gặp Lành	Truyền công hoặc được truyền công 100 lần
+Family_5	1	3	Gold|2000				Lửa Trại Bang Hội	Tham gia 1 lần Hoạt động Lửa Trại Bang Hội
+Drink	1	5	Gold|1000				Tiếp Đãi 1	Mời mọi người uống rượu 1 lần ở Lửa Trại Bang Hội
+Drink	10	10	Gold|3000				Tiếp Đãi 2	Mời mọi người uống rượu 10 lần ở Lửa Trại Bang Hội
+Drink	50	20	Gold|5000				Tiếp Đãi 3	Mời mọi người uống rượu 50 lần ở Lửa Trại Bang Hội
+Drink	100	50	Gold|10000;item|9658|1		1		Tiếp Đãi 4	Mời mọi người uống rượu 100 lần ở Lửa Trại Bang Hội
+Family_4	1	3	Gold|1000				Chế Tạo Trang Bị	Tạo trang bị ở Bang Hội Tác Phường 1 lần
+CommerceTask_Help	1	3	Gold|500				Cùng Giúp Đỡ Nhau	Giúp thành viên Bang hoàn thành nhiệm vụ Thương Hội 1 lần
+CommerceTask_Help	10	5	Gold|1000				Cao Thủ Hỗ Trợ 1	Giúp thành viên Bang hoàn thành nhiệm vụ Thương Hội 10 lần
+CommerceTask_Help	50	10	Gold|3000				Cao Thủ Hỗ Trợ 2	Giúp thành viên Bang hoàn thành nhiệm vụ Thương Hội 50 lần
+CommerceTask_Help	100	20	Gold|5000				Cao Thủ Hỗ Trợ 3	Giúp thành viên Bang hoàn thành nhiệm vụ Thương Hội 100 lần
+CommerceTask_Help	500	50	Gold|10000;item|9659|1		1		Cao Thủ Hỗ Trợ 4	Giúp thành viên Bang hoàn thành nhiệm vụ Thương Hội 500 lần
+Sworn_1	1	10	Gold|2000				Kết Nghĩa Kim Lan	Hoàn thành 1 lần Kết Bái
+Sworn_2	1	20	Gold|10000				Tình Cảm Sâu Đậm	Thân mật với thành viên Kết Bái đạt Lv30
+Friends_1	1	3	Gold|1000				Kêu Gọi Bằng Hữu	Có 20 hảo hữu
+Friends_2	1	10	Gold|2000				Khách Quý Đông Đúc	Có 50 hảo hữu
+Friends_3	1	20	Gold|5000				Tứ Hải Giai Huynh Đệ	Có 100 hảo hữu
+Friend_1	1	3	Gold|1000				Xã Giao	Độ thân mật cùng 1 hảo hữu đạt Lv5
+Friend_2	1	5	Gold|3000				Giao Tình	Độ thân mật cùng 1 hảo hữu đạt Lv10
+Friend_3	1	10	Gold|5000				Chân Thành	Độ thân mật cùng 1 hảo hữu đạt Lv20
+Friend_4	1	20	Gold|10000				Tri Kỷ	Độ thân mật cùng 1 hảo hữu đạt Lv30
+Friend_5	1	30	Gold|30000				Sinh Tử	Độ thân mật cùng 1 hảo hữu đạt Lv40
+FriendFamiliar_1	3	5	Gold|3000				Tình Bạn Chân Thành	Độ thân mật cùng 3 hảo hữu đạt Lv5
+FriendFamiliar_2	3	10	Gold|5000				Tình Thâm Ý Trọng	Độ thân mật cùng 3 hảo hữu đạt Lv10
+FriendFamiliar_3	3	20	Gold|10000				Can Đảm Tương Chiếu	Độ thân mật cùng 3 hảo hữu đạt Lv20
+FriendFamiliar_4	3	30	Gold|30000				Tâm Đầu Ý Hợp	Độ thân mật cùng 3 hảo hữu đạt Lv30
+FriendFamiliar_5	3	50	Gold|50000;item|9660|1		1		Sinh Tử Có Nhau	Độ thân mật cùng 3 hảo hữu đạt Lv40
+TeacherStudentElite_1	1	10	Gold|3000				Giáo Đạo Hữu Phương	Có 1 Đệ Tử Kiệt Xuất xuất sư
+TeacherStudentMaster_1	2	10	Gold|2000				Thầy Tốt Bạn Hiền	Có 2 đệ tử xuất sư
+TeacherStudentMaster_1	5	20	Gold|5000				Dạy Dỗ Tận Tình	Có 5 đệ tử xuất sư
+TeacherStudentMaster_1	10	30	Gold|10000;item|9661|1		1		Gương Sáng Noi Theo	Có 10 đệ tử xuất sư
+TeacherStudentMaster_1	20	40	Gold|30000;item|9662|1		1		Học Trò Khắp Chốn	Có 20 đệ tử xuất sư
+TeacherStudentMaster_1	30	50	Gold|50000;item|9663|1		1		Nhất Đại Tôn Sư	Có 30 đệ tử xuất sư
+TeacherStudentMaster_1	50	60	Gold|50000				Khai Tông Lập Phái	Có 50 đệ tử xuất sư
+TeacherStudent_Horse	1	20	Gold|10000				Tặng Ngựa Quý	Đồ đệ xuất sư được tặng Ô Vân Đạp Tuyết
+TeacherStudent_Equip	1	10	Gold|2000				Mong Ngươi Mạnh Hơn	Đồ đệ xuất sư được tặng trang bị
+TeacherStudent_Clothes	1	10	Gold|2000				Giúp Ngươi Thay Đổi	Đồ đệ xuất sư được tặng ngoại trang
+TeacherStudent_Token	1	10	Gold|2000				Chúc Ngươi Mạnh Mẽ	Đồ đệ xuất sư được tặng lệnh bài
+TeacherStudent_Excellent	1	10	Gold|3000				Xuất Chúng	Làm Đồ Đệ xuất sư hoàn mỹ
+TeacherStudent_Task	1	5	Gold|500				Hoàn Thành Hoàn Mỹ 1	Hoàn thành hoàn mỹ nhiệm vụ Sư Phụ giao 1 lần
+TeacherStudent_Task	10	10	Gold|2000				Hoàn Thành Hoàn Mỹ 2	Hoàn thành hoàn mỹ nhiệm vụ Sư Phụ giao 10 lần
+TeacherStudent_Task	30	20	Gold|3000				Hoàn Thành Hoàn Mỹ 3	Hoàn thành hoàn mỹ nhiệm vụ Sư Phụ giao 30 lần
+TeacherStudent_Task	50	50	Gold|5000;item|9664|1		1		Hoàn Thành Hoàn Mỹ 4	Hoàn thành hoàn mỹ nhiệm vụ Sư Phụ giao 50 lần
+Engage_1	1	20	Gold|3000				Nắm Tay Thành Công	Đính hôn với một người
+Marry_1	1	50	Gold|10000				Duyên Định Tam Sinh	Cùng đối tượng đính hôn cử hành hôn lễ
+Marry_Qinggong	1	10	Gold|5000				Chung Vai Sát Cánh	Tại Lâm An Thành hoàn thành 1 lần Khinh Công Hai Người
+WeddingAnniversary_1	1	10	Gold|5000				Đám Cưới Giấy	Cùng bạn đời trải qua kỷ niệm 1 tháng kết hôn và nhận thưởng kỷ niệm
+WeddingAnniversary_2	1	50	Gold|10000		1		Đám Cưới Bạc	Cùng bạn đời trải qua kỷ niệm 6 tháng kết hôn và nhận thưởng kỷ niệm
+WeddingAnniversary_3	1	100	Gold|50000;item|9665|1		1	1	Đám Cưới Vàng	Cùng bạn đời trải qua kỷ niệm 1 năm kết hôn và nhận thưởng kỷ niệm
+Revenge_1	1	3	Gold|500				Ta Muốn Báo Thù	Báo thù thành công 1 lần
+Revenge_2	10000	10	Gold|3000				Báo Thù 1	Báo thù đoạt được 10000 Bạc
+Revenge_2	100000	20	Gold|5000				Báo Thù 2	Báo thù đoạt được 100000 Bạc
+Prison_1	1	3	Gold|5000				Truy Nã	Truy nã người khác lần đầu
+Wanted_Complete	1	5	Gold|1000				Truy Giết 1	Hoàn thành Truy Nã 1 lần
+Wanted_Complete	10	10	Gold|3000				Truy Giết 2	Hoàn thành Truy Nã 10 lần
+Wanted_Complete	50	30	Gold|5000		1		Truy Giết 3	Hoàn thành Truy Nã 50 lần
+Wanted_Complete	100	50	Gold|10000;item|9542|1;item|9666|1		1	1	Truy Giết 4	Hoàn thành Truy Nã 100 lần
+HouseLevel_1	1	3	Gold|6000				Ta Đã Có Nhà	Sở hữu 1 Gia Viên cho bản thân
+HouseLevel_2	3	5	Gold|7000				Xây Dựng Rầm Rộ	Cấp Gia Viên đạt Lv3
+HouseLevel_2	4	10	Gold|7000		1		Nhà Điêu Kho Khắc	Cấp Gia Viên đạt Lv4
+HouseLevel_2	5	20	Gold|9000		1		Cung Vàng Điện Ngọc	Cấp Gia Viên đạt Lv5
+HouseLevel_2	6	30	Gold|10000;item|9667|1		1		Thần Công Thiên Xảo	Cấp Gia Viên đạt Lv6
+HouseComfort_1	5	5	Gold|6000				Nên Nhà Nên Cửa	Độ thoải mái Gia Viên đạt Lv5
+HouseComfort_1	10	10	Gold|7000				Nhàn Đình Nhã Cư	Độ thoải mái Gia Viên đạt Lv10
+HouseComfort_1	15	20	Gold|7000		1		Phúc Chỉ Doanh Môn	Độ thoải mái Gia Viên đạt Lv15
+HouseComfort_1	20	30	Gold|9000		1		Tử Khí Đông Lai	Độ thoải mái Gia Viên đạt Lv20
+HouseComfort_1	25	50	Gold|10000;item|9668|1		1		Danh Môn Vọng Đình	Độ thoải mái Gia Viên đạt Lv25
+House_Hide	1	10	Gold|1000				Không Ai Thấy	Trốn vào tủ Gia Viên người chơi khác
+House_Sleep	1	10	Gold|1000				Ngủ Trên Giường	Ngủ trên giường Gia Viên người chơi khác
+House_Wash	1	10	Gold|1000				Tẩy Sạch	Tắm trong bồn tắm Gia Viên người chơi khác
+House_SleepTogether	1	10	Gold|1000				Cùng Ngủ Chung	Cùng người chơi khác ngủ chung giường
+House_Swing	1	10	Gold|1000				Trở Về Tuổi Thơ	Cùng người chơi khác chơi xích đu
+House_Plant	1	3	Gold|2000				Mười Năm Trồng Cây	Cùng trồng 1 cây
+House_TreeMature	1	5	Gold|1000				Ngày Thu Hoạch	Thu hoạch cây trưởng thành trong Gia Viên 1 lần
+House_TreeMature	5	10	Gold|2000				Chăm Chỉ 1	Thu hoạch cây trưởng thành trong Gia Viên 5 lần
+House_TreeMature	20	20	Gold|3000				Chăm Chỉ 2	Thu hoạch cây trưởng thành trong Gia Viên 20 lần
+House_TreeMature	50	50	Gold|5000				Chăm Chỉ 3	Thu hoạch cây trưởng thành trong Gia Viên 50 lần
+House_TreeMature	100	80	Gold|10000;item|9669|1		1		Chăm Chỉ 4	Thu hoạch cây trưởng thành trong Gia Viên 100 lần
+House_TreeHelp	1	3	Gold|2000				Cứu cây trồng	Giúp hảo hữu nuôi dưỡng 1 lần
+House_TreeHelp_Day	1	10	Gold|2000				Gia Viên Hoàn Mỹ	1 ngày thành công giúp hảo hữu nuôi dưỡng 10 lần
+House_TreeHelp	50	10	Gold|2000				Tân Cần Viên Đinh 1	Giúp Hảo hữu nuôi dưỡng 50 lần
+House_TreeHelp	200	20	Gold|3000				Tân Cần Viên Đinh 2	Giúp Hảo hữu nuôi dưỡng 200 lần
+House_TreeHelp	500	30	Gold|5000				Tân Cần Viên Đinh 3	Giúp Hảo hữu nuôi dưỡng 500 lần
+House_TreeHelp	1000	50	Gold|10000;item|9670|1		1		Tân Cần Viên Đinh 4	Giúp Hảo hữu nuôi dưỡng 1000 lần
+Meditate_Empty	1	20	Gold|10000				Tứ Đại Giai Không	Tịnh Tâm đạt kết quả Giai Không
+Bless_1	4	10	Gold|3000				Trời Ban Phúc	Chúc phúc xuất hiện trên 4 thuộc tính Cát
+Bless_2	5	20	Gold|5000				Tu Bảo Thần Khí	Tụ Bảo Bồn tẩy đầy 5 thuộc tính
+IDIPZan_1	10	5	Gold|1000				Bắn Tim	Thích trang cá nhân khác 10 lần
+IDIPPopularity_1	50	10	Gold|2000				Có Chút Danh Tiếng	Điểm nổi tiếng đạt 50
+IDIPPopularity_1	500	20	Gold|3000				Tài Năng	Điểm nổi tiếng đạt 500
+IDIPPopularity_1	1000	50	Gold|5000				Ứng Viên Được Yêu Thích	Lượt like trang cá nhân đạt 1000
+WhiteTiger_1	1	3	Gold|1000				Thám Thính Bạch Hổ Đường	Vào Bạch Hổ Đường 1
+WhiteTiger_2	1	5	Gold|1000				Mở Sát Giới	Trong Bạch Hổ Đường diệt 1 người chơi
+WhiteTiger_3	1	5	Gold|2000				Vượt Ải Bạch Hổ Đường 1	Vượt Bạch Hổ Đường 4
+WhiteTiger_4	1	10	Gold|3000				Vượt Ải Bạch Hổ Đường 2	Vượt Ải Bạch Hổ Đường Tầng 5
+WhiteTiger_2	100	20	Gold|5000				Sát Thủ Đáng Sợ	Trong Bạch Hổ Đường diệt 100 người chơi
+WhiteTiger_2	500	50	Gold|10000;item|9671|1		1		Thợ Săn Bạch Hổ Đường	Trong Bạch Hổ Đường diệt 500 người chơi
+DomainBattle_1	10	5	Gold|1000				Hào Kiệt 	Trong Công Thành Chiến diệt 10 người chơi địch
+DomainBattle_1	50	10	Gold|3000				Truy Mệnh	Trong Công Thành Chiến diệt 50 người chơi địch
+DomainBattle_1	200	20	Gold|5000;item|9672|1				Vô Tình	Trong Công Thành Chiến diệt 200 người chơi địch
+DomainBattle_1	500	50	Gold|10000;item|9673|1				La Sát	Trong Công Thành Chiến diệt 500 người chơi địch
+DomainBattle_1	1000	100	Gold|30000;item|9674|1		1		Chiến Thần	Trong Công Thành Chiến diệt 1000 người chơi địch
+DomainBattleCombo_1	1	10	Gold|2000				Anh Dũng Thiện Chiến	Ở Công Thành Chiến đạt 10 Liên Trảm
+DomainBattleCombo_2	1	20	Gold|3000				Năng Chinh Quán Chiến	Ở Công Thành Chiến đạt 20 Liên Trảm
+DomainBattleCombo_3	1	50	Gold|5000				Đánh Đâu Thắng Đó	Ở Công Thành Chiến đạt 50 Liên Trảm
+DomainBattleCombo_4	1	100	Gold|10000;item|9675|1		1		Định Quốc Trụ Thạch	Ở Công Thành Chiến đạt 100 Liên Trảm
+DomainBattle_Car	1	10	Gold|2000				Trò chơi Đẩy Tháp	Trong Công Thành Chiến 1 lần lái Công Thành Xa
+DomainBattle_CrossbowCar	1	10	Gold|2000				Gia Cát Nỏ	Trong Công Thành Chiến 1 lần lái Kình Nỏ Xa
+DomainBattle_GunCar	1	10	Gold|2000				Thiết Pháo	Trong Công Thành Chiến 1 lần lái Thiết Pháo Xa
+DomainBattle_Xiangyang	1	15	Gold|10000				Tương Dương Của Chúng Ta	Tham gia Công Thành Chiến và Bang Hội chiếm lĩnh Tương Dương
+DomainBattle_Linan	1	20	Gold|30000				Lâm An Của Chúng Ta	Tham gia Công Thành Liên Server và Bang Hội chiếm lĩnh Lâm An
+DomainBattle_XiangyangP	1	50	Gold|30000				Tương Dương Bá Chủ	Giúp Bang Hội chiếm Tương Dương liên tục 1 tháng
+KinEscort_1	1	3	Gold|1000				Hành Tẩu Giang Hồ	Tham gia Vận Tiêu Bang Hội thành công 1 lần
+KinEscort_2	1	5	Gold|1000				Tiễn Kính Cường Nhân	Vận Tiêu Bang Hội đoạt 1 Hàng Hóa Rơi
+KinEscort_2	5	10	Gold|3000				Lục Lâm Cường Đạo	Vận Tiêu Bang Hội đoạt 5 Hàng Hóa Rơi
+KinEscort_2	50	20	Gold|5000				Chiếm Núi Là Vua	Vận Tiêu Bang Hội đoạt 50 Hàng Hóa Rơi
+KinEscort_3	1	10	Gold|2000				Vô Giá	Hộ tống 1 Tiêu Xa Tím trở lên đến đích
+KinEscort_4	30	20	Gold|3000				Vận Tiêu	Hộ tống 30 Tiêu Xa về đích thành công
+KinEscort_4	100	50	Gold|10000;item|9676|1		1		Tiêu Hành Thiên Hạ	Hộ tống 100 Tiêu Xa về đích thành công
+ImperialTombEmperor_1	1	3	Gold|1000				Quỷ Đế Giáng Thế	Đã tham gia Thủy Hoàng Giáng Lâm/Nữ Đế Hồi Sinh 1 lần
+ImperialTombEmperor_2	1	10	Gold|1000				Sát Đế 1	Bang hội diệt Tần Thủy Hoàng/Võ Tắc Thiên 1 lần
+ImperialTombEmperor_2	5	20	Gold|2000				Sát Đế 2	Bang hội diệt Tần Thủy Hoàng/Võ Tắc Thiên 5 lần
+ImperialTombEmperor_2	20	30	Gold|3000;item|9677|1				Sát Đế 3	Bang hội diệt Tần Thủy Hoàng/Võ Tắc Thiên 20 lần
+ImperialTombEmperor_2	100	50	Gold|10000;item|9678|1				Sát Đế 4	Bang hội diệt Tần Thủy Hoàng/Võ Tắc Thiên 100 lần
+ImperialTombEmperor_3	1	10	Gold|3000				Tiên Phong 1	Là người tấn công đầu tiên Tần Thủy Hoàng/Võ Tắc Thiên
+ImperialTombEmperor_3	10	20	Gold|10000				Tiên Phong 2	Là người 10 lần tấn công đầu tiên Tần Thủy Hoàng/Võ Tắc Thiên
+BossChallenge_1	1	3	Gold|500				Nghé Con Không Sợ Hổ	Khiêu chiến Minh Chủ Võ Lâm 1 lần
+Boss_1	1	5	Gold|1000				Minh Chủ Thử Thách	Khiêu chiến Minh Chủ Võ Lâm hạng chung cuộc cá nhân Top 100
+Boss_2	1	10	Gold|2000				Minh Chủ Tán Đồng	Khiêu chiến Minh Chủ Võ Lâm hạng chung cuộc cá nhân Top 30
+Boss_3	1	20	Gold|3000;item|9679|1				Minh Chủ Xem Trọng	Khiêu chiến Minh Chủ Võ Lâm hạng chung cuộc cá nhân Top 10
+Boss_4	1	30	Gold|5000;item|9680|1				Minh Chủ Khen Ngợi	Khiêu chiến Minh Chủ Võ Lâm hạng chung cuộc cá nhân Hạng 1
+Boss_4	100	50	Gold|10000;item|9681|1				Minh Chủ Thán Phục	Nhận 100 lần khiêu chiến Minh Chủ Võ Lâm cá nhân đạt hạng 1 chung cuộc
+Boss_4	200	100	Gold|50000;item|4248|1		1		Minh Chủ Võ Lâm	200 lần khiêu chiến Minh Chủ Võ Lâm sau cùng xếp hạng 1
+BossRob_1	1	5	Gold|1000				Ỷ Mạnh Hiếp Yếu	Khiêu chiến Minh Chủ Võ Lâm đoạt điểm người khác 1 lần
+BossRob_Cai	1	10	Gold|2000				Hừ! Yếu Quá	Trong Minh Chủ Võ Lâm có người đoạt điểm của bản thân nhưng thất bại
+BossRob_Lucky	1	10	Gold|2000				Nguy Hiểm	Trong  Minh Chủ Võ Lâm bị người khác đoạt 5% điểm của bản thân
+BossRob_UnLucky	1	10	Gold|2000				Điểm Của Ta!	Trong Minh Chủ Võ Lâm bị người khác đoạt 20% điểm của bản thân
+BossNumberOne_1	1	20	Gold|3000				Chúng Ta Mạnh Nhất	Khiêu chiến Minh Chủ Võ Lâm Bang Hội đoạt hạng 1
+FieldBoss_1	1	3	Gold|1000				Khiêu Chiến Danh Tướng	Tham gia Danh Tướng thành công 1 lần
+FieldBoss_2	1	5	Gold|1000				Danh Tướng Công Nhận	Bang Hội tiêu diệt 1 lần Danh Tướng
+FieldBoss_2	10	10	Gold|2000;item|9682|1				Danh Tướng Xem Trọng	Bang Hội tiêu diệt 10 lần Danh Tướng
+FieldBoss_2	100	20	Gold|3000;item|9683|1		1		Danh Tướng Tán Thưởng	Bang Hội tiêu diệt 100 lần Danh Tướng
+FieldBoss_2	500	50	Gold|10000;item|9684|1		1		Danh Tướng Kinh Ngạc	Bang Hội tiêu diệt 500 lần Danh Tướng
+FieldBoss_First	1	10	Gold|2000				Xuất Kích 1	Tấn công đầu tiên Danh Tướng
+FieldBoss_First	50	20	Gold|10000				Xuất Kích 2	50 lần tấn công đầu tiên Danh Tướng
+FieldLeader_1	1	3	Gold|1000				Sờ Vào Lão Hổ	Tham gia 1 lần Thủ Lĩnh Dã Ngoại
+FieldLeader_2	1	5	Gold|1000				Người diệt	Diệt 1 Thủ Lĩnh Dã Ngoại
+FieldLeader_2	10	10	Gold|2000				Thợ Săn	Diệt 10 Thủ Lĩnh Dã Ngoại
+FieldLeader_2	100	20	Gold|3000;item|9685|1				Trùm Săn Quái	Diệt 100 Thủ Lĩnh Dã Ngoại
+FieldLeader_2	500	50	Gold|10000;item|9686|1		1		Dã Địa Vương	Diệt 500 Thủ Lĩnh Dã Ngoại
+Clothes_1	1	3	Gold|3000				Quần Áo Chỉnh Tề 1	Nhận 1 Ngoại Trang Áo
+Clothes_1	5	5	Gold|2000				Quần Áo Chỉnh Tề 2	Nhận 5 Ngoại Trang Áo
+Clothes_1	10	10	Gold|3000				Quần Áo Chỉnh Tề 3	Nhận 10 Ngoại Trang Áo
+Clothes_1	20	20	Gold|5000				Quần Áo Chỉnh Tề 4	Nhận 20 Ngoại Trang Áo
+Clothes_1	30	30	Gold|10000				Quần Áo Chỉnh Tề 5	Nhận 30 Ngoại Trang Áo
+Arms_1	1	3	Gold|3000				Thần Binh Lấp Lánh 1	Nhận 1 Ngoại Trang Vũ Khí
+Arms_1	5	5	Gold|2000				Thần Binh Lấp Lánh 2	Nhận 5 Ngoại Trang Vũ Khí
+Arms_1	10	10	Gold|3000				Thần Binh Lấp Lánh 3	Nhận 10 Ngoại Trang Vũ Khí
+Arms_1	20	20	Gold|5000				Thần Binh Lấp Lánh 4	Nhận 20 Ngoại Trang Vũ Khí
+Arms_1	30	30	Gold|10000				Thần Binh Lấp Lánh 5	Nhận 30 Ngoại Trang Vũ Khí
+Hat_1	1	3	Gold|3000				Cao Quán Bác Đai 1	Nhận 1 Ngoại Trang Đầu
+Hat_1	5	5	Gold|2000				Cao Quán Bác Đai 2	Nhận 5 Ngoại Trang Đầu
+Hat_1	10	10	Gold|3000				Cao Quán Bác Đai 3	Nhận 10 Ngoại Trang Đầu
+Hat_1	20	20	Gold|5000				Cao Quán Bác Đai 4	Nhận 20 Ngoại Trang Đầu
+Hat_1	30	30	Gold|10000				Cao Quán Bác Đai 5	Nhận 30 Ngoại Trang Đầu
+Charm_1	500	10	Gold|1000		1		Có Chút Nhan Sắc	Hấp dẫn đạt 500
+Charm_1	2000	20	Gold|3000;Item|6990|1		1		Như Hoa Tự Ngọc	Hấp dẫn đạt 2000
+Charm_1	5000	30	Gold|5000;Item|6991|1		1		Tuyệt Sắc Mỹ Nhân	Hấp dẫn đạt 5000
+Charm_1	20000	50	Gold|10000;Item|6992|1		1		Khuynh Quốc Khuynh Thành	Hấp dẫn đạt 20000
+Charm_1	100000	100	Gold|30000;item|9687|1		1		Ai Thấy Cũng Yêu	Hấp dẫn đạt 100000
+CommerceTask_1	1	3	Gold|500				Thí Luyện	Hoàn thành 1 nhiệm vụ Thương Hội
+CommerceTask_2	1	3	Gold|1000				Hãy Giúp Ta	Nhờ thành viên Bang Hội giúp đỡ thành công 1 lần
+CommerceTask_3	1	5	Gold|1000				Hoàn thành thuận lợi	Hoàn thành 1 lần nhiệm vụ Thương Hội
+CommerceTask_3	10	10	Gold|2000				Thương Gia Giỏi	Hoàn thành 10 lần nhiệm vụ Thương Hội
+CommerceTask_3	100	20	Gold|5000;item|9688|1		1		Buôn Bán Khắp Nơi	Hoàn thành 100 lần nhiệm vụ Thương Hội
+JuanZhou_1	1	5	Gold|1000				Thương Hội Ủy Thác	Hoàn thành 1 Quyển Nhiệm vụ 
+JuanZhou_3	20	10	Gold|3000				Thương Hội Thường Khách	Hoàn thành 20 Quyển Nhiệm vụ 
+JuanZhou_3	100	20	Gold|5000				Thương Hội Hảo Thủ	Hoàn thành 100 Quyển Nhiệm vụ 
+JuanZhou_3	400	50	Gold|10000;item|9689|1				Thương Hội Mật Hữu	Hoàn thành 400 Quyển Nhiệm vụ 
+JuanZhou_2	1	10	Gold|2000				Thương Hội Ủy Thác 1	Hoàn thành 1 Quyển Nhiệm Vụ Lam trở lên
+JuanZhou_4	1	20	Gold|3000				Thương Hội Ủy Thác 2	Hoàn thành 1 Quyển Nhiệm Vụ Tím
+JuanZhou_5	1	30	Gold|5000				Thương Hội Ủy Thác 3	Hoàn thành 1 Quyển Nhiệm Vụ Hồng
+MoneyTree_1	1	3	Gold|500				Rung Cây Tiền	Dùng Rung Cây Tiền 1 lần
+MoneyTree_1	10	5	Gold|1000				Tiền Bao La	Dùng Rung Cây Tiền 10 lần
+MoneyTree_1	50	10	Gold|2000				Chiêu Tài Tấn Bảo	Dùng Rung Cây Tiền 50 lần
+MoneyTree_1	200	20	Gold|3000;item|9690|1				Tài Nguyên Quảng Tiến	Dùng Rung Cây Tiền 200 lần
+MoneyTree_1	1000	50	Gold|5000;item|9691|1		1		Thần Tài Đến	Dùng Rung Cây Tiền 1000 lần
+MoneyTree_2	1	10	Gold|2000				Nhận x2	Dùng khi Rung Cây Tiền nhận x2
+MoneyTree_10	1	10	Gold|2000				Nhận x10	Dùng khi Rung Cây Tiền nhận x10
+TheBox_1	1	3	Gold|500				Rương Hoàng Kim	Mở 1 Rương Hoàng Kim
+TheBox_1	10	5	Gold|1000				Bảo Rương Bảo Rương	Mở 10 Rương Hoàng Kim
+TheBox_1	50	10	Gold|3000				Mở Tiếp 1 Rương	Mở 50 Rương Hoàng Kim
+TheBox_1	300	20	Gold|5000;item|9692|1				Thích Bảo Rương	Mở 300 Rương Hoàng Kim
+TheBox_1	1000	50	Gold|10000;item|9693|1		1		Cuồng Bảo Rương	Mở 1000 Rương Hoàng Kim
+Angry_Normal	1	3	Gold|500				Nổi Giận	Thi triển 1 lần Kỹ năng Nộ Khí
+BlackList	1	3	Gold|500				Ghét Ngươi	Chặn 1 người chơi
+FirstAuctionDeal_2	1	5	Gold|2000				Đấu Giá Bảo Vật	Đấu giá thành công 1 vật phẩm
+FirstAuctionDeal_4	1	10	Gold|2000				Quyết Định	Giá chót đấu giá được 1 vật phẩm
+Market_Buy	1	10	Gold|2000				Tìm Bảo Vật	Mua 1 vật phẩm từ Bày Bán
+Market_Sell	1	10	Gold|2000				Tận Dụng	Bán 1 vật phẩm từ Bày Bán
+SearchFuben_1	1	3	Gold|500				Tìm Kho Báu	Bắt đầu tìm Kho Báu lần 1
+Mystic_SixSixSIx	1	100	Gold|10000		1		Lục Lục Đại Thuận	Lửa Trại Bang Hội kết thúc ném Xúc Xắc được 3 viên 6 điểm
+Mystic_Make14	1	100	Gold|10000		1		Không Dễ Dàng	1 trang bị chế tạo liên tục 14 lần mới được trang bị hiếm
+Mystic_8Fire	1	100	Gold|10000		1		Chúc Dung	Ở trạng thái tu luyện nhận EXP tăng thêm từ 8 Lửa Trại
+Mystic_MostIntimate	1	100	Gold|10000		1		Vô Cùng Thân Thiết	Cùng 1 người chơi khác có quan hệ phu thê, hảo hữu, sư đồ, kết bái, đồng thời cùng Bang Hội
+Mystic_100Friend	1	100	Gold|20000		1		Thiên Hạ Biết Tiếng	Thân mật với 100 hảo hữu đạt Lv10
+Mystic_10Teachers	10	100	Gold|10000		1		Sở Học Bác Tạp	Tích lũy bái sư 10 lần người chơi khác nhau
+Mystic_10CareerWin	10	100	Gold|50000;item|9576|1		1		Tinh Thông	Trong Tâm Ma Ảo Cảnh tích lũy dùng 10 hệ phái khác nhau đều giành thắng lợi
+Mystic_50InHouse	1	100	Gold|10000;item|9834|1		1		Khách Quý Đông Đúc	Đồng thời vượt qua 50 người chơi khác xuất hiện ở Gia Viên của bản thân
+Mystic_AllBoss	1	100	Gold|10000		1		Chủ Bạch Hổ Đường	Trong 1 lần Bạch Hổ Đường, mỗi tầng đều diệt BOSS
+Mystic_10InHouse	1	100	Gold|10000		1		Khiêu Chiến Liên Tục	Trong 1 lần Danh Tướng tấn công trên 10 Danh Tướng khác nhau
+Mystic_General	1	100	Gold|10000		1		Bạo Nộ	Trong Sơn Tặc Mật Quật mở tất cả cơ quan
+Mystic_SeriesKiller1	100	100	Gold|10000		1		Khắc Hệ Kim	Trong Tâm Ma Ảo Cảnh/Tuyệt Địa diệt 100 nhân vật hệ Kim
+Mystic_SeriesKiller2	100	100	Gold|10000		1		Khắc Hệ Mộc	Trong Tâm Ma Ảo Cảnh/Tuyệt Địa diệt 100 nhân vật hệ Mộc
+Mystic_SeriesKiller3	100	100	Gold|10000		1		Khắc Hệ Thủy	Trong Tâm Ma Ảo Cảnh/Tuyệt Địa diệt 100 nhân vật hệ Thủy
+Mystic_SeriesKiller4	100	100	Gold|10000		1		Khắc Hệ Hỏa	Trong Tâm Ma Ảo Cảnh/Tuyệt Địa diệt 100 nhân vật hệ Hỏa
+Mystic_SeriesKiller5	100	100	Gold|10000		1		Khắc hệ Thổ	Trong Tâm Ma Ảo Cảnh/Tuyệt Địa diệt 100 nhân vật hệ Thổ
+Mystic_ZhenYuan5Skill	1	100	Gold|50000		1		Ngũ Lôi Chánh Pháp	Đồng thời có 5 Chân Nguyên với kỹ năng khác nhau
+Mystic_10CareerNew	10	100	Gold|50000;item|9575|1;item|9694|1		1	1	Thập Toàn Năng	Đoạt được Tân Vương của 10 môn phái khác nhau
+Mystic_BigShare	1	50	Gold|10000		1		Chia Cẩu Đầu Kim	Lợi tức 1 lần vượt quá 1000 Nguyên Bảo
+Mystic_SexChange	1	50	Gold|5000		1		Thái Quốc Chi Lữ	Đổi giới tính bản thân 1 lần
+Mystic_FourTimesRedBag	1	50	Gold|10000		1	1	Lì Xì Lớn 3	Lần đầu phát Lì Xì x3
+Mystic_EightTimesRedBag	1	50	Gold|30000		1	1	Lì Xì Lớn 6	Lần đầu phát Lì Xì x6
+Mystic_BeatTeacher	1	50	Gold|5000		1		Ưu Tú	Trong Khiêu Chiến Anh Hùng diệt sư phụ của bản thân 1 lần
+Mystic_FiveOK	31	50	Gold|20000		1		Ngũ Hành Luân Chuyển	Trải nghiệm qua hệ phái thuộc tính ngũ hành khác nhau
+Mystic_PeopleNetwork	1	50	Gold|10000		1		Cây Xanh Lá Tốt	Trong Quan Hệ Phổ không có chỗ trống

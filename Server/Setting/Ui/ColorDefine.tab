@@ -1,0 +1,46 @@
+ColorName	nR	nG	nB	Desc
+WhiteTop	255	255	255	Dần đổi màu
+WhiteBottom	255	255	255	Dần đổi màu
+GreenTop	100	219	0	Dần đổi màu
+GreenBottom	178	255	67	Dần đổi màu
+BlueTop	17	173	246	Dần đổi màu
+BlueBottom	30	254	251	Dần đổi màu
+PurpleTop	170	98	252	Dần đổi màu
+PurpleBottom	220	160	255	Dần đổi màu
+PinkTop	255	87	140	Dần đổi màu
+PinkBottom	255	138	157	Dần đổi màu
+OrangeTop	255	126	0	Dần đổi màu
+OrangeBottom	255	198	0	Dần đổi màu
+GoldTop	255	205	0	Dần đổi màu
+GoldBottom	255	255	52	Dần đổi màu
+White	255	255	255	Thuần Sắc
+Green	100	219	0	Thuần Sắc
+Blue	17	173	246	Thuần Sắc
+Purple	170	98	252	Thuần Sắc
+Pink	255	87	140	Thuần Sắc
+Orange	255	143	6	Thuần Sắc
+Gold	255	255	14	Thuần Sắc
+Red	255	0	0	Thuần Sắc
+Black	255	255	255	Thuần Sắc
+PlayerName	254	241	205	Thuần Sắc
+OtherPlayerName	221	236	143	Thuần Sắc
+TeammateName	66	237	254	Thuần Sắc
+NpcName	158	253	172	Thuần Sắc
+EnemyName	254	198	94	Thuần Sắc
+EliteName	11	172	241	Thuần Sắc
+LeaderName	254	113	56	Thuần Sắc
+BossNameTop	177	7	0	Dần đổi màu
+BossNameBottom	254	96	96	Dần đổi màu
+PlayerNameOutline	57	40	0	Chọn 
+NpcNameShadow	0	24	254	Chọn 
+EnemyNameShadow	0	17	121	Âm Ảnh
+EliteNameShadow	0	17	121	Âm Ảnh
+LeaderNameShadow	0	17	121	Âm Ảnh
+BossNameShadow	46	0	49	Âm Ảnh
+ActiveGreen	63	242	0	Kích hoạt Lục
+ASctiveGrey	180	180	180	Chưa kích hoạt xám
+FiveElement1	255	186	0	Kim
+FiveElement2	21	232	0	Mộc
+FiveElement3	0	192	255	Thủy
+FiveElement4	201	33	0	Hỏa
+FiveElement5	135	107	61	Thổ

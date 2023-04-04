@@ -1,0 +1,373 @@
+Index	TemplateID	Name	Kind	Camp	ClassName	ScriptParam	NpcResID	FaceID	BigFaceID	ReviveFrame	NpcAttribID	NormalSkill1	NormalSkillLevel1	NormalSkill2	NormalSkillLevel2	NormalSkill3	NormalSkillLevel3	VisionRadius	ActiveRadius	AiFile	Treasure	DropFile	FightMode	RunSpeed	BloodStyle	ForbitMove	TitleID	AuraSkillId	AuraSkillLevel	StartActEvent	Tag	DropType	DefaultDialog	WalkSpeed	NameColor	Experience	GouHuoRate	TransBossNpcTID	TransBossRate	IsNotShowShadow	FixExperience	IsNotBYStealLife	SyncFirst	Sex
+Fb_boss_1	1	Tiêu Động Trần	0	1	FubenDeath		14	229	329		216	1335	1	91	1			1000	1500	Setting/Npc/Ai/fuben/Boss6.ini			1	20	2										4									
+Fb_leader_1	2	Đơn Tinh Tinh	0	1	FubenDeath		102	200	300		217	21	1	91	1			1000	1500	Setting/Npc/Ai/CommonActive.ini			1	15	1																			
+Fb_enemy_1_1	3	Hồng Y Lực Sĩ	0	1	FubenDeath		101	200	300		211	21	1	91	1			1000	1500	Setting/Npc/Ai/CommonActive.ini			1	20	2																			
+Fb_enemy_1_2	4	Kim Tiền Báo	0	1	FubenDeath		111	200	300		211	22	1					1000	1500	Setting/Npc/Ai/CommonActive.ini			1	15	1																			
+Fb_enemy_1_3	5	Liệt Diệm Khô Lâu	0	1	FubenDeath		317	200	300		215	90	1	91	1			1000	1500	Setting/Npc/Ai/fuben/Boss1.ini			1	20	2									8	4									
+Fb_boss_2	6	Cơ Ngự Thiên	0	1	FubenDeath		13	200	300		217	1319	1	91	1			1000	1500	Setting/Npc/Ai/fuben/Boss2.ini			1	20	2																			
+Fb_leader_2	7	Cố Thiếu Du	0	1	FubenDeath		11	200	300		217	176	1	91	1			1000	1500	Setting/Npc/Ai/fuben/Boss13.ini			1	20	2																			
+Fb_enemy_2_1	8	Mãnh Hổ	0	1	FubenDeath		114	200	300		211	22	1					1000	1500	Setting/Npc/Ai/CommonActive.ini			1	15	1										1									
+Fb_enemy_2_2	9	Khỉ	0	1	FubenDeath		117	200	300		211	22	1					1000	1500	Setting/Npc/Ai/RangeActive.ini			1	15	1										1									
+Fb_enemy_2_3	10	Khỉ Tinh Anh	0	1	FubenDeath		117	200	300		213	22	1					1000	1500	Setting/Npc/Ai/CommonSkill.ini			1	15	1										3									
+Fb_boss_3	11	Công Thâu Linh	0	1	FubenDeath		318	9	109		217	1317	1	91	1			1000	1500	Setting/Npc/Ai/fuben/Boss3.ini			1	20	2																			
+Fb_leader_3	12	Diệp Vũ Nhu	0	1	FubenDeath		131	200	300		217	1374	1	91	1			1000	1500	Setting/Npc/Ai/fuben/Boss11.ini			1	20	2																			
+Fb_enemy_3_1	13	Sói Xám	0	1	FubenDeath		115	200	300		211	22	1					1000	1500	Setting/Npc/Ai/CommonActive.ini			1	15	1										1									
+Fb_enemy_3_2	14	Hồng Y Kiếm Thị	0	1	FubenDeath		104	200	300		211	40	1					1000	1500	Setting/Npc/Ai/RangeActive.ini			1	15	1					900001														
+Fb_enemy_3_3	15	Hồng Y Kiếm Khách	0	1	FubenDeath		135	200	300		211	1386	1					1000	1500	Setting/Npc/Ai/CommonActive.ini			1	15	1										1									
+Fb_boss_4	16	Hồng Y Mỹ Nhân	0	1	FubenDeath		104	200	300		217	40	1					1000	1500	Setting/Npc/Ai/RangeActive.ini			1	15	1					900001														
+Fb_leader_4	17	Hồng Anh Thị	0	1	FubenDeath		318	9	109		211	21	1					1000	1500	Setting/Npc/Ai/CommonActive.ini			1	15	1																			
+Fb_enemy_4_1	18	Bò Cạp Tím	0	1	FubenDeath		109	200	300		211	21	1					1000	1500	Setting/Npc/Ai/CommonActive.ini			1	15	1																			
+Fb_enemy_4_2	19	Hỏa Hồ	0	1	FubenDeath		110	200	300		211	22	1					1000	1500	Setting/Npc/Ai/CommonActive.ini			1	15	1																			
+Fb_enemy_4_3	20	Nhện	0	1	FubenDeath		112	200	300		212	181	1					1000	1500	Setting/Npc/Ai/CommonActive.ini			1	15	1										1									
+Fb_boss_5	21	Mộ Dung Việt	0	1	FubenDeath		12	200	300		215	1349	1	91	1			1000	1500	Setting/Npc/Ai/fuben/Boss7.ini			1	20	2										4									
+Fb_leader_5	22	Sói XámTinh Anh	0	1	FubenDeath		115	200	300		214	22	1					1000	1500	Setting/Npc/Ai/CommonSkill.ini			1	15	1										3									
+Fb_enemy_5_1	23	Đệ Tử Tiêu Dao Phái	0	0	FubenDeath		120	200	300		211	21	1					1000	1500	Setting/Npc/Ai/CommonActive.ini			1	15	1																			
+Fb_enemy_5_2	24	Đông Doanh Nhẫn Giả	0	1	FubenDeath		124	200	300		211	40	1					1000	1500	Setting/Npc/Ai/RangeActive.ini			1	15	1					900001														
+Fb_enemy_5_3	25	Vô Danh Tiểu Tốt	0	1	FubenDeath		123	200	300		211	166	1					1000	1500	Setting/Npc/Ai/CommonActive.ini			1	15	1										1									
+Fb_boss_6	26	Nguyệt Trùng Thiên	0	1	FubenDeath		122	200	300		217	1340	1	91	1			1000	1500	Setting/Npc/Ai/fuben/Boss4.ini			1	20	2					900002														
+Fb_leader_6	27	Trương Trọng Thiên	0	1	FubenDeath		121	200	300		217	1342	1	91	1			1000	1500	Setting/Npc/Ai/fuben/Boss5.ini			1	20	2					900003														
+Fb_enemy_6_1	28	Đệ Tử Ngũ Độc Giáo	0	1	FubenDeath		138	200	300		211	21	1					1000	1500	Setting/Npc/Ai/CommonActive.ini			1	15	1										1									
+Fb_enemy_6_2	29	Thích Khách	0	1	FubenDeath		124	200	300		211	40	1					1000	1500	Setting/Npc/Ai/RangeActive.ini			1	15	1					900001					1									
+Fb_enemy_6_3	30	Môn Đồ Bị Đuổi	0	1	FubenDeath		120	200	300		211	21	1					1000	1500	Setting/Npc/Ai/CommonActive.ini			1	15	1																			
+Fb_boss_7	31	Từ Thiết Tâm	0	1	FubenDeath		101	200	300		217	21	1	91	1			1000	1500	Setting/Npc/Ai/CommonActive.ini			1	20	2																			
+Fb_leader_7	32	Tử Hiên	0	1	FubenDeath		127	200	300		215	41	1	91	1			1000	1500	Setting/Npc/Ai/fuben/Boss12.ini			1	20	2																			
+Fb_enemy_7_1	33	Diệp Vô Tâm	0	1	FubenDeath		119	200	300		217	21	1	91	1			1000	1500	Setting/Npc/Ai/CommonActive.ini			1	20	2																			
+Fb_enemy_7_2	34	Thủy Tặc	0	1	FubenDeath		123	200	300		211	21	1					1000	1500	Setting/Npc/Ai/CommonActive.ini			1	15	1					900004					1									
+Fb_enemy_7_3	35	Diệp Hạo	0	1	FubenDeath		119	200	300		213	21	1					1000	1500	Setting/Npc/Ai/CommonActive.ini			1	15	1																			
+Fb_boss_8	36	Diệp Vũ Nhu	0	1	FubenDeath		131	200	300		217	21	1					1000	1500	Setting/Npc/Ai/RangeActive.ini			1	15	1																			
+Fb_leader_8	37	Cường Đạo	0	1	FubenDeath		136	200	300		211	166	1					1000	1500	Setting/Npc/Ai/CommonActive.ini			1	15	1																			
+Fb_enemy_8_1	38	Nam Tinh Anh Ngũ Độc	0	1	FubenDeath		138	200	300		213	40	1	91	1			1000	1500	Setting/Npc/Ai/fuben/Npc2.ini			1	20	2																			
+Fb_enemy_8_2	39	Hái Thuốc	0	1	FubenDeath		139	200	300		211	174	1					1000	1500	Setting/Npc/Ai/CommonActive.ini			1	15	1																			
+Fb_enemy_8_3	40	Tử Thị	0	1	FubenDeath		124	200	300		211	166	1					1000	1500	Setting/Npc/Ai/RangeActive.ini			1	15	1					900001														
+Fb_boss_9	41	Tường Vi	0	1	FubenDeath		103	18	118		217	56	1	91	1			1000	1500	Setting/Npc/Ai/random/qiangwei.ini			1	20	2										5									
+Fb_leader_9	42	Công Thâu Vũ	0	1	FubenDeath		129	200	300		217	21	1	91	1			1000	1500	Setting/Npc/Ai/fuben/Boss10.ini			1	20	2																			
+Fb_enemy_9_1	43	Lưu Khấu	0	1	FubenDeath		134	200	300		211	21	1					1000	1500	Setting/Npc/Ai/CommonActive.ini			1	15	1										1									
+Fb_enemy_9_2	44	Kiếm Đồng	0	1	FubenDeath		125	200	300		211	167	1					1000	1500	Setting/Npc/Ai/CommonActive.ini			1	15	1										1									
+Fb_enemy_9_3	45	Bẫy Lửa	6	1	FubenDeath		358	200	300		211							1000	1500				1	0																				
+Fb_boss_10	46	Hồng Y Kiếm Khách	0	1	FubenDeath		135	200	300		213	1386	1	91	1			1000	1500	Setting/Npc/Ai/CommonActive.ini			1	20	2																			
+Fb_leader_10	47	Nữ Đệ Tử Ngũ Độc	0	1	FubenDeath		137	200	300		211	21	1					1000	1500	Setting/Npc/Ai/CommonActive.ini			1	15	1																			
+Fb_enemy_10_1	48	Tô Gia Gia Đinh	0	1	FubenDeath		123	200	300		211	21	1					1000	1500	Setting/Npc/Ai/CommonActive.ini			1	15	1					900004														
+Fb_enemy_10_2	49	Nữ Tinh Anh Ngũ Độc	0	1	FubenDeath		137	200	300		213	39	1	91	1			1000	1500	Setting/Npc/Ai/fuben/Npc1.ini			1	20	2																			
+Fb_enemy_10_3	50	Tô Mặc Vân	4	0	FubenDeath		133	200	300		217	1816	1	91	1			1000	1500	Setting/Npc/Ai/fuben/Boss19.ini			1	20	2										5									
+Fb_ememy_qiangdaotoumu	404	Cường Đạo Đầu Mục	0	1	FubenDeath		369	200	300		217	166	1	91	1			1000	1500	Setting/Npc/Ai/fuben/Boss16.ini			1	20	2																			
+Fb_enmey_fenglinweitoumu	406	Thủ Lĩnh Phong Lâm Vệ	0	1	FubenDeath		370	200	300		217	1843	1	91	1			1000	1500	Setting/Npc/Ai/fuben/Boss23.ini			1	20	2																			
+Fb_enmey_etutoumu	408	Ác Nhân Cốc Đầu Mục	0	1	FubenDeath		364	200	300		217	166	1	91	1			1000	1500	Setting/Npc/Ai/CommonActive.ini			1	20	2																			
+Fb_enmey_wumingdahan	409	Vô Danh Tráng Sĩ	0	1	FubenDeath		368	200	300		217	1807	1	91	1			1000	1500	Setting/Npc/Ai/fuben/Boss17.ini			1	20	2																			
+Fb_enmey_shenminvzi	410	Miêu Cương Nữ Tử	0	1	FubenDeath		137	200	300		217	40	1	91	1			1000	1500	Setting/Npc/Ai/CommonActive.ini			1	20	2																			
+Fb_enmey_shenminanzi	411	Tô Gia Tổng Quản	0	1	FubenDeath		354	200	300		217	1359	1	91	1			1000	1500	Setting/Npc/Ai/fuben/Boss8.ini			1	20	2																			
+Fb_enmey_ciketoumu	412	Thủ Lĩnh Thích Khách	0	1	FubenDeath		365	200	300		217	1811	1	91	1			1000	1500	Setting/Npc/Ai/fuben/Boss18.ini			1	20	2																			
+Fb_enmey_fujiagongzi	422	Công Tử Nhà Giàu	0	1	FubenDeath		366	200	300		217	41	1	91	1			1000	1500	Setting/Npc/Ai/fuben/Boss15.ini			1	20	2																			
+Fb_enmey_miaojiangnanzi	423	Miêu Cương Nam Tử	0	1	FubenDeath		371	200	300		217	40	1	91	1			1000	1500	Setting/Npc/Ai/fuben/Boss22.ini			1	20	2																			
+Fb_enmey_hongyingwei	424	Hồng Anh Vệ	0	1	FubenDeath		372	200	300		217	21	1	91	1			1000	1500	Setting/Npc/Ai/fuben/Boss21.ini			1	20	2																			
+Fb_enmey_dingchuinan	425	Thủ Lĩnh Lưu Khấu	0	1	FubenDeath		373	200	300		217	21	1	91	1			1000	1500	Setting/Npc/Ai/fuben/Boss20.ini			1	20	2																			
+Fb_enmey_wangdachui	426	Vương Đại Chùy	0	1	FubenDeath		368	200	300		217	1848	1	91	1			1000	1500	Setting/Npc/Ai/fuben/Boss24.ini			1	20	2																			
+Fb_enmey_sumoyun	427	Tô Mặc Vân	0	1	FubenDeath		133	19	119		217	1816	1	91	1			1000	1500	Setting/Npc/Ai/fuben/Boss19.ini			1	20	2										5									
+Fb_enmey_langwang	428	Lang Vương	0	1	FubenDeath		357	200	300		215	1362	1	91	1			1000	1500	Setting/Npc/Ai/fuben/Boss9.ini			1	20	2										4									
+Fb_enmey_shenmijianke	434	Võ Ngôn Đạo	0	1	FubenDeath		367	200	300		215	1386	1	91	1			1000	1500	Setting/Npc/Ai/fuben/Boss14.ini			1	20	2										4									
+Fb_enmey_shenmijianke_1	696	Võ Ngôn Đạo	0	1	FubenDeath		367	200	300		215	2928	1	91	1			1000	1500	Setting/Npc/Ai/fuben/Boss14.ini			1	20	2					900007					4									
+Fb_enmey_lieren	521	Thợ Săn	0	1	FubenDeath		159	200	300		211	182	1					1000	1500	Setting/Npc/Ai/CommonActive.ini			1	15	1					900001														
+Fb_enmey_jiguanren1	522	Cơ Quan Nhân	0	1	FubenDeath		157	200	300		211	21	1					1000	1500	Setting/Npc/Ai/CommonActive.ini			1	15	1					900001					1									
+Fb_enmey_jiguanren2	523	Cơ Quan Chiến Xa	0	1	FubenDeath		154	200	300		211	1874	1					1000	1500	Setting/Npc/Ai/CommonActive.ini			1	15	1					900001					1									
+Fb_enmey_shensheshou	524	Thần Xạ Thủ	0	1	FubenDeath		159	200	300		211	182	1					1000	1500	Setting/Npc/Ai/CommonActive.ini			1	15	1					900001					1									
+Fb_enemy_cike	576	Thích Khách	0	1	FubenDeath		124	200	300		212	40	1					1000	1500	Setting/Npc/Ai/RangeActive.ini			1	15	1					900001					1									
+Fb_enmey_mazei	579	Đạo Tặc Cản Đường	0	1	FubenDeath		143	200	300		211	21	1					1000	1500	Setting/Npc/Ai/CommonActive.ini			1	15	1										1									
+Fb_enmey_daodunbing	580	Đao Thuẫn Binh	0	1	FubenDeath		150	200	300		211	21	1					1000	1500	Setting/Npc/Ai/CommonActive.ini			1	15	1																			
+Fb_enmey_heiyilieyin	581	Hắc Dực Liệp Ưng	0	1	FubenDeath		147	200	300		211	21	1					1000	1500	Setting/Npc/Ai/CommonActive.ini			1	15	1																			
+Fb_enmey_changgongshou	583	Trường Cung Thủ	0	1	FubenDeath		152	200	300		211	182	1					1000	1500	Setting/Npc/Ai/CommonActive.ini			1	15	1																			
+Fb_enmey_dajishi	584	Thống Lĩnh Cấm Quân	0	1	FubenDeath		402	200	300		217	21	1	91	1			1000	1500	Setting/Npc/Ai/CommonActive.ini			1	20	2																			
+Fb_enmey_wulinetu_ruo	658	Vô Danh Tiểu Tốt	0	1	FubenDeath		123	200	300		212	166	1					1000	1500	Setting/Npc/Ai/CommonActive.ini			1	15	1										1									
+Fb_enmey_shenmidaoke	585	Đao Khách Thần Bí	0	1	FubenDeath		401	200	300		217	21	1	91	1			1000	1500	Setting/Npc/Ai/CommonActive.ini			1	20	2																			
+Fb_enmey_shibing	586	Liêm Thương Vệ	0	1	FubenDeath		151	200	300		211	21	1					1000	1500	Setting/Npc/Ai/CommonActive.ini			1	15	1																			
+Fb_enmey_xiangmatoumu	597	Thủ Lĩnh Đạo Tặc	0	1	FubenDeath		400	200	300		217	168	1	91	1			1000	1500	Setting/Npc/Ai/CommonActive.ini			1	20	2																			
+Fb_enmey_shashou	598	Thích Khách Bịt Mặt	0	1	FubenDeath		174	200	300		211	21	1					1000	1500	Setting/Npc/Ai/CommonActive.ini			1	15	1										1									
+Fb_enmey_tangmendizi	599	Kình Nỏ Thủ	0	1	FubenDeath		165	200	300		211	182	1					1000	1500	Setting/Npc/Ai/CommonActive.ini			1	15	1										1									
+Fb_enmey_heshang	613	Đệ Tử Thiếu Lâm	0	1	FubenDeath		163	200	300		211	21	1					1000	1500	Setting/Npc/Ai/CommonActive.ini			1	15	1																			
+Fb_enmey_daoshi	614	Mao Sơn Đạo Sĩ	0	1	FubenDeath		169	200	300		211	21	1					1000	1500	Setting/Npc/Ai/CommonActive.ini			1	15	1																			
+Fb_enmey_feibiaonan	615	Lưu Manh Vô Lại	0	1	FubenDeath		173	200	300		211	21	1					1000	1500	Setting/Npc/Ai/CommonActive.ini			1	15	1																			
+Fb_enmey_bodongha	616	Ba Đông Cáp	0	1	FubenDeath		137	200	300		217	40	1	91	1			1000	1500	Setting/Npc/Ai/fuben/Boss22.ini			1	20	2																			
+Fb_enmey_lanluxiangma_1	691	Đạo Tặc Cản Đường	0	1	FubenDeath		143	200	300		211	21	1					1000	1500	Setting/Npc/Ai/AutoMove.ini			1	15	1									8	1									
+Fb_enmey_caiyaoren_1	692	Thôn Dân Bị Thương	0	1	FubenDeath		139	200	300		211	174	1					1000	1500	Setting/Npc/Ai/AutoMove.ini			1	15	1										1									
+Fb_jm_qiyu	2506	Phương Vị	6	1	FubenDeath		383	200	300		211							150	150	Setting/Npc/Ai/CommonActive.ini			1	0	1											1								
+Fb_jm_shibei	2507	Bia Đá	2	0	FubenDialog	4,Đang mở...	413	995	300																						NoTurn													
+Fb_jm_kongju	2528	Sợ Hãi	0	1	FubenDeath		640				217	35	1	91	1	45	1	1500	1500	Setting/Npc/Ai/CommonSkill.ini			1	22	2								3		4									
+Fb_jm_yuwang	2529	Dục vọng	0	1	FubenDeath		641				217	2720	1	91	1	2375	1	1500	1500	Setting/Npc/Ai/CommonSkill.ini			1	22	2								3		4									
+Fb_1_1_1	746	Ngân Ti Thảo	2	0	FubenDeath		440		993		210							1000	1500				1	15	1										1									
+Fb_1_1_2	747	Độc Cô Kiếm	0	0	FubenDeath		175		993		216	170	1	2455	1			1000	1500	Setting/Npc/Ai/partner/Fellow_dugujian.ini			1	28	1									20	2									
+Fb_1_1_3	748	Liễu Trung Nguyên	0	1	FubenDeath		135		993		213	21	1					1000	1500	Setting/Npc/Ai/CommonSkill.ini			1	15	1										3									
+Fb_1_1_4	749	Linh Miêu Tinh Anh	0	1	FubenDeath		104		993		213	22	1					1000	1500	Setting/Npc/Ai/CommonSkill.ini			1	15	1										3									
+Fb_1_1_5	750	Bạch Trư Vương	0	1	FubenDeath		104		993		215	21	1	91	1			1000	1500				1	20	2										4									
+Fb_1_2_1	756	Ong Độc	0	1	FubenDeath		1182		993		211	21	1					1000	1500	Setting/Npc/Ai/CommonActive.ini			1	15	1										1									
+Fb_1_2_2	757	Ong Độc-Lớn	0	1	FubenDeath		1182		993		213	21	1	31	1			1000	1500	Setting/Npc/Ai/CommonSkill.ini			1	20	2										3									
+Fb_1_2_3	758	Ong Chúa	0	1	FubenDeath		437		993		215	21	1	2357	1	2457	1	1000	1500	Setting/Npc/Ai/CommonSkill.ini			1	20	2										4									
+Fb_1_2_4	759	Hồ Thần Y	0	0	FubenDeath		5022		993		217	21	1					1000	1500	Setting/Npc/Ai/partner/FellowCommon.ini			1	28	1										2									
+Fb_1_2_5	1207	Ong Chúa	2	0	FubenDeath		437		993		215	21	1	91	1			1000	1500	Setting/Npc/Ai/partner/FellowCommon.ini			1	28	1										4									
+Fb_1_3_1	764	Nạp Lan Chân	0	0	FubenDeath		177		993		215	39	1	2455	1			1000	1500	Setting/Npc/Ai/partner/Fellow_nalanzhen.ini			1	28	1									20	2									
+Fb_1_3_2	765	Dương Ảnh Phong	0	0	FubenDeath		1101		993		216	170	1	2455	1			1000	1500	Setting/Npc/Ai/partner/Fellow_yangyingfeng.ini			1	28	1									20	2									
+Fb_1_3_3	766	Nạp Lan Tiềm Lẫm	0	0	FubenDeath		187	212	312		217	177	1					1000	1500	Setting/Npc/Ai/Stay.ini			1	28	3										2									
+Fb_1_3_4	1317	Lộ Dị	0	0	FubenDeath		134		993		211	21	1					1000	1500	Setting/Npc/Ai/Stay.ini			1	28	3										1									
+Fb_1_3_5	1318	Thương Cần	0	0	FubenDeath		124		993		211	21	1					1000	1500	Setting/Npc/Ai/Stay.ini			1	28	3										1									
+Fb_1_3_6	1430	Đá Lửa Lăn	6	1	FubenDeath		375		993		217							1000	1500	Setting/Npc/Ai/AlwaysRunning.ini				28	3			2700	4															
+Fb_1_4_1	738	Nhện	0	1	FubenDeath		112		993		211	21	1					1000	1500	Setting/Npc/Ai/CommonActive.ini			1	15	1										1									
+Fb_1_4_2	740	Nhện Lớn	0	1	FubenDeath		112		993		213	21	1	2457	1			1000	1500	Setting/Npc/Ai/CommonSkill.ini			1	15	1										3									
+Fb_1_4_3	742	Huyền Thiên Võ Cơ	0	0	FubenDeath		20		993		215	40	1	91	1			1000	1500	Setting/Npc/Ai/partner/FellowCommon.ini			1	28	3										4									
+Fb_1_5_1	767	Bò Cạp	0	1	FubenDeath		109		993		211	21	1					1000	1500	Setting/Npc/Ai/CommonActive.ini			1	15	1										1									
+Fb_1_5_2	768	Ác Lang	0	1	FubenDeath		115		993		212	22	1	1874	1			1000	1500	Setting/Npc/Ai/CommonSkill.ini			1	15	1										3									
+Fb_1_7_1	679	Cơ Quan Phun	6	1	FubenDeath		410		993		217							1000	1500																									
+Fb_1_7_2	680	Nạp Lan Chân	0	0	FubenDeath		177		993		215	39	1	2455	1			1000	1500	Setting/Npc/Ai/partner/Fellow_nalanzhen_r.ini			1	28	1										2									
+Fb_1_7_3	681	Dương Ảnh Phong	0	0	FubenDeath		1101		993		216	170	1	2455	1			1000	1500	Setting/Npc/Ai/partner/Fellow_yangyingfeng_r.ini			1	28	1										2									
+Fb_1_7_4	682	Dương Ảnh Phong Bị Thương	0	0	FubenDeath		1101		993		216	170	1	2455	1			1000	1500	Setting/Npc/Ai/partner/Fellow_yangyingfeng_r.ini			1	28	1										2									
+Fb_1_7_5	683	Cô Nương	0	0	FubenDeath		1102	22	122		216	54	1	2455	1			1000	1500	Setting/Npc/Ai/fuben/yuemeier.ini			1	15	1										2									
+Fb_1_7_6	684	Dương Ảnh Phong	0	0	FubenDeath		1101		993		216	170	1	2455	1			1000	1500	Setting/Npc/Ai/partner/Fellow_yangyingfeng.ini			1	28	1									20	2									
+Fb_2_1_1	775	Nhân Sĩ Võ Lâm	0	1	FubenDeath		174		993		211	21	1					1000	1500	Setting/Npc/Ai/CommonActive.ini			1	15	1										1									
+Fb_2_1_2	776	Thích Khách Thần Bí	0	1	FubenDeath		124		993		211	21	1					1000	1500	Setting/Npc/Ai/CommonActive.ini			1	15	1					900001					1									
+Fb_2_1_2s	1439	Thủ Lĩnh Thích Khách	0	1	FubenDeath		124		993		211	169	1	2360	1			1000	1500	Setting/Npc/Ai/CommonSkill.ini			1	20	1		3006	2404	1	900001					3									
+Fb_2_1_3	777	Mạt Thiên Nhiên	0	1	FubenDeath		366		993		215	41	1	91	1			1000	1500	Setting/Npc/Ai/fuben/Boss15.ini			1	20	2										4									
+Fb_2_1_4	778	Nguyệt My Nhi	0	1	FubenDeath		1102	22	122		216	54	1	91	1			1000	1500	Setting/Npc/Ai/fuben/yuemeier.ini			1	20	2										4									
+Fb_2_1_5	1104	NPC Bẫy	6	1	FubenDeath		469		993		215			91	1			1000	1500				1	15	3	1		2468	10						4									
+Fb_2_2_1	779	Cảnh Giới Trang Đinh	0	1	FubenDeath		101		993		213	21	1					220	1500	Setting/Npc/Ai/CommonActive.ini			1	15	1										1									
+Fb_2_2_2	780	Tàng Kiếm Thân Vệ	0	1	FubenDeath		178		993		211	196	1	2487	1			1000	1500	Setting/Npc/Ai/CommonSkill.ini			1	15	1		3000	1535	2						3									
+Fb_2_2_3	781	Thủ Lĩnh Trang Đinh	0	1	FubenDeath		354		993		214	21	1	91	1			1000	1500	Setting/Npc/Ai/fuben/Boss8.ini			1	20	2										4									
+Fb_2_2_4	1134	Trác Phi Phàm	0	1	FubenDeath		194	218	318		217	1496	1	91	1			1000	1500	Setting/Npc/Ai/teamfb/20fb_boss.ini			1	20	2										2									
+Fb_2_2_5	1286	Tử Hiên	0	0	FubenDeath		131	20	120		215	41	1	2455	1			1000	1500	Setting/Npc/Ai/partner/FellowCommon.ini			1	28	1									20	2									
+Fb_2_3_1	782	Tần Mộc Bạch	0	1	FubenDeath		318	10	110		216	1317	1	91	1			1000	1500	Setting/Npc/Ai/fuben/Boss3.ini			1	20	2										4									
+Fb_3_1_2	824	Kiếm Khách Lang Bạt	0	1	FubenDeath		135		993		212	21	1	2486	1			1000	1500	Setting/Npc/Ai/CommonSkill.ini			1	15	1		3000	1535	1						3									
+Fb_3_1_4	826	Phi Long Bảo Tinh Anh	0	1	FubenDeath		370		993		213	167	1	2383	1			1000	1500	Setting/Npc/Ai/CommonSkill.ini			1	15	1										3									
+Fb_2_3_2	1287	Nguyệt My Nhi	0	0	FubenDeath		1102	22	122		216	54	1	2455	1			1000	1500	Setting/Npc/Ai/fuben/yuemeier.ini			1	15	1										2									
+Fb_2_6_4	1114	Phi Long Bảo Phản Đồ	0	1	FubenDeath		106		993		211	21	1					1000	1500	Setting/Npc/Ai/CommonActive.ini			1	15	1										1									
+Fb_2_4_1	783	Ác Đồ	0	1	FubenDeath		134		993		211	21	1					1000	1500	Setting/Npc/Ai/CommonActive.ini			1	15	1										1									
+Fb_2_4_2	784	Vô Ưu Phản Đồ Tinh Anh	0	1	FubenDeath		134		993		213	168	1	2366	1			1000	1500	Setting/Npc/Ai/CommonSkill.ini			1	15	1		3001	1533	1						3									
+Fb_2_4_3	785	Vô Ưu Phản Đồ Đầu Mục	0	1	FubenDeath		134		993		215	21	1	91	1			1000	1500	Setting/Npc/Ai/fuben/Boss20.ini			1	20	2										4									
+Fb_2_5_1	786	Âm Ảnh Động	0	1	FubenDeath		174		993		211	21	1					1000	1500	Setting/Npc/Ai/CommonActive.ini			1	15	1										1									
+Fb_2_5_2	787	Trác Phi Phàm-Ảo Ảnh	0	1	FubenDeath		194		993		214	170	1	91	1			1000	1500	Setting/Npc/Ai/teamfb/20fb_boss.ini			1	20	2										4									
+Fb_2_5_3	788	Đoạt Mệnh Nhất Điểm Kim	0	1	FubenDeath		136		993		214	166	1	91	1			1000	1500	Setting/Npc/Ai/fuben/Boss16.ini			1	20	2										4									
+Fb_2_5_4	1116	Nạp Lan Tiềm Lẫm-Ảo Ảnh	0	1	FubenDeath		187	212	312		214	177	1	91	1			1000	1500	Setting/Npc/Ai/fuben/nalanqianling.ini			1	20	2										4									
+Fb_2_5_5	1117	Nạp Lan Chân	0	0	FubenDeath		177		993		215	39	1	2455	1			1000	1500	Setting/Npc/Ai/partner/Fellow_nalanzhen.ini			1	28	1									20	2									
+Fb_2_5_6	1118	Tâm Ma	0	1	FubenDeath		11		993		215	176	1	91	1			1000	1500	Setting/Npc/Ai/fuben/Boss13.ini			1	20	2										4									
+Fb_2_4_4	1446	Cơ Quan Phun	6	1	FubenDeath		467	200	300		215							1500	1500	Setting/Npc/Ai/fuben/2-4_Penhuo.ini			1	0	3										1									
+Fb_2_4_5	1447	NPC kỹ năng ẩn	6	1	FubenDeath		469	200	300		215							3000	1500				1	0	3	1									1									
+Fb_2_6_1	789	Đệ Tử Phi Long Bảo	0	1	FubenDeath		106		993		211	21	1					1000	1500	Setting/Npc/Ai/CommonActive.ini			1	15	1										1									
+Fb_2_6_2	790	Phi Long Bảo Hộ Pháp	0	1	FubenDeath		164		993		213	40	1	44	1			1000	1500	Setting/Npc/Ai/CommonSkill.ini			1	15	1		3001	1533	1						3									
+Fb_2_6_3	791	Phi Long Bảo Đầu Mục	0	1	FubenDeath		370		993		215	169	1	91	1			1000	1500	Setting/Npc/Ai/fuben/Boss23.ini			1	20	2										4									
+Fb_2_7_1	792	Đệ Tử Tàng Kiếm	0	1	FubenDeath		135		993		211	1386	1					1000	1500	Setting/Npc/Ai/CommonActive.ini			1	15	1										1									
+Fb_2_7_2	1126	Tàng Kiếm Thân Vệ	0	1	FubenDeath		178		993		213	196	1	2487	1			1000	1500	Setting/Npc/Ai/CommonSkill.ini			1	15	1		3000	1535	2						3									
+Fb_2_7_3	1127	Trác Phi Phàm	0	1	FubenDeath		194	218	318		217	1496	1	91	1			1000	1500	Setting/Npc/Ai/teamfb/20fb_boss.ini			1	20	2										5									
+Fb_2_7_4	1449	Tàng Kiếm Thân Vệ	0	1	FubenDeath		178		993		212	196	1	2487	1			1000	1500	Setting/Npc/Ai/CommonSkill.ini			1	15	1		3001	1533	17						3									
+Fb_2_7_5	1450	Tàng Kiếm Thân Vệ	0	1	FubenDeath		178		993		210	196	1	2487	1			1000	1500	Setting/Npc/Ai/CommonSkill.ini			1	15	1		3002	1503	1						3									
+Fb_2_7_guanzhan1	1217	Nhân Sĩ Võ Lâm	0	0	FubenDeath		106		993		211	21	1					1000	1500	Setting/Npc/Ai/CommonActive.ini			1	15	1										1									
+Fb_2_7_guanzhan2	1218	Nhân Sĩ Võ Lâm	0	0	FubenDeath		134		993		211	21	1					1000	1500	Setting/Npc/Ai/CommonActive.ini			1	15	1										1									
+Fb_2_7_guanzhan3	1219	Nhân Sĩ Võ Lâm	0	0	FubenDeath		120		993		211	21	1					1000	1500	Setting/Npc/Ai/CommonActive.ini			1	15	1										1									
+Fb_2_7_guanzhan4	1220	Nhân Sĩ Võ Lâm	0	0	FubenDeath		142		993		211	21	1					1000	1500	Setting/Npc/Ai/CommonActive.ini			1	15	1										1									
+Fb_3_1_1	823	Thương Ưng	0	1	FubenDeath		147		993		211	22	1					1000	1500	Setting/Npc/Ai/CommonActive.ini			1	15	1										1									
+Fb_3_1_3	825	Đại Thương Ưng	0	1	FubenDeath		147		993		214	22	1	2472	1			1000	1500	Setting/Npc/Ai/CommonSkill.ini			1	15	1										3									
+Fb_3_1_5	827	Kiếm Khách Thần Bí	0	1	FubenDeath		367		993		213	1386	1	91	1			1000	1500	Setting/Npc/Ai/fuben/Boss14.ini			1	20	2										4									
+Fb_3_1_6	828	Tường Vi	0	1	FubenDeath		103	18	118		216	56	1	91	1			1000	1500	Setting/Npc/Ai/random/qiangwei.ini			1	20	2										4									
+Fb_3_2_1	829	Kẻ Bịt Mặt	0	1	FubenDeath		174		993		211	21	1					1000	1500	Setting/Npc/Ai/CommonActive.ini			1	15	1										1									
+Fb_3_2_2	830	Tinh Anh Bịt Mặt	0	1	FubenDeath		174		993		213	169	1	2380	1			1000	1500	Setting/Npc/Ai/CommonSkill.ini			1	15	1										3									
+Fb_3_2_3	831	Đầu Mục Bịt Mặt	0	1	FubenDeath		124		993		215	21	1	91	1			1000	1500	Setting/Npc/Ai/fuben/Boss18.ini			1	20	2										4									
+Fb_3_2_4	1347	Rương Chứa	4	0	FubenDeath		352		993		211							1000	1500	Setting/Npc/Ai/CommonActive.ini			1	28	3										1									
+Fb_3_2_5	1348	Tường Vi	0	0	FubenDeath		103	18	118		215	56	1	2455	2			1000	1500	Setting/Npc/Ai/partner/Fellow_qiangwei.ini			1	28	1									20	2									
+Fb_3_2_6	1490	Nam Thôn Dân	0	0	FubenDeath		170		993		215	21	1					1000	1500	Setting/Npc/Ai/CommonActive.ini			1	20	1										2									
+Fb_3_2_7	1491	Thôn Nữ	0	0	FubenDeath		105		993		215							1000	1500	Setting/Npc/Ai/CommonActive.ini			1	20	1										2									
+Fb_3_3_1	832	Đệ Tử Vô Ưu Giáo	0	1	FubenDeath		134		993		211	21	1					1000	1500	Setting/Npc/Ai/CommonActive.ini			1	15	1										1									
+Fb_3_3_2	833	Vô Ưu Giáo Đồ	0	1	FubenDeath		124		993		213	170	1	2489	1			1000	1500	Setting/Npc/Ai/CommonSkill.ini			1	15	1					900001					3									
+Fb_3_3_3	834	Nguyệt My Nhi	0	0	FubenDeath		1102	22	122		216	54	1	2455	1			1000	1500	Setting/Npc/Ai/partner/FellowCommon.ini			1	28	1									20	2									
+Fb_3_3_4	835	Vô Ưu Giáo Đầu Mục	0	1	FubenDeath		155		993		215	21	1	91	1			1000	1500	Setting/Npc/Ai/Stay.ini			1	28	1										4									
+Fb_3_4_1	836	Vô Ưu Giáo Tinh Anh	0	1	FubenDeath		134		993		214	166	1	2387	1			1000	1500	Setting/Npc/Ai/CommonSkill.ini			1	15	1										3									
+Fb_3_4_2	837	Thủ Vệ Cấm Địa	0	1	FubenDeath		368		993		215	21	1	91	1			1000	1500	Setting/Npc/Ai/fuben/Boss17.ini			1	20	2										4									
+Fb_3_4_3	838	Nạp Lan Chân	0	0	FubenDeath		177		993		215	39	1	2455	1			1000	1500	Setting/Npc/Ai/partner/Fellow_nalanzhen_r.ini			1	28	1										2									
+Fb_3_4_4	1600	Cấm Địa Hộ Pháp	0	1	FubenDeath		134		993		213	57	1	2389	1			1000	1500	Setting/Npc/Ai/CommonSkill.ini			1	0	1	1									3									
+Fb_3_5_1	839	Trích Tinh Lao Đầu	0	1	FubenDeath		372		993		215	168	1	91	1			1000	1500	Setting/Npc/Ai/fuben/Boss21.ini			1	20	2										4									
+Fb_3_5_2	840	Tử Hiên	0	0	FubenDeath		131	20	120		215	41	1	2455	1			1000	1500	Setting/Npc/Ai/partner/FellowCommon.ini			1	28	3									20	2									
+Fb_3_6_1	1486	Vô Ưu Thích Khách	0	1	FubenDeath		124		993		211	170	1					1000	1500	Setting/Npc/Ai/CommonSkill.ini			1	15	1					900001					1									
+Fb_3_6_2	1487	Thích Khách Tinh Anh	0	1	FubenDeath		124		993		213	170	1	2425	1			1000	1500	Setting/Npc/Ai/CommonSkill.ini			1	15	1					900001					3									
+Fb_3_6_3	1488	Đệ Tử Thủ Vệ	0	1	FubenDeath		174		993		212	166	1					1000	1500	Setting/Npc/Ai/CommonSkill.ini			1	15	1										1									
+Fb_3_6_4	1489	Thủ Lĩnh Thích Khách	0	1	FubenDeath		365		993		215	168	1	91	1			1000	1500	Setting/Npc/Ai/fuben/Boss18.ini			1	20	2										4									
+Fb_3_7_1	841	Nạp Lan Tiềm Lẫm	0	1	FubenDeath		187	212	312		218	177	1	91	1			1000	1500	Setting/Npc/Ai/fuben/nalanqianling.ini			1	20	2										6									
+Fb_3_8_1	1351	Cáo Hoang	0	1	FubenDeath		110	200	300		211	22	1					1000	1500	Setting/Npc/Ai/CommonActive.ini			1	15	1										1									
+Fb_3_8_2	1352	Cáo Nhanh Nhẹn	0	1	FubenDeath		110	200	300		214	22	1	2475	1			1000	1500	Setting/Npc/Ai/CommonSkill.ini			1	15	1										3									
+Fb_3_8_3	1353	Dã Hồ Vương	0	1	FubenDeath		384	200	300		215	22	1	91	1			1000	1500	Setting/Npc/Ai/fuben/Boss9.ini			1	20	2										4									
+Fb_3_8_4	1354	Mạnh Tri Thu	0	0	FubenDeath		156	200	300		217	56	1	2383	1	91	1	1000	1500	Setting/Npc/Ai/CommonSkill.ini			1	28	3										2									
+Fb_4_1_1	842	Ngũ Sắc Giáo Đồ	0	1	FubenDeath		174		993		211	166	1					1000	1500	Setting/Npc/Ai/CommonActive.ini			1	15	1										1									
+Fb_4_1_2	843	Ngũ Sắc Giáo Thích Khách	0	1	FubenDeath		124		993		213	23	1	26	1			1000	1500	Setting/Npc/Ai/CommonSkill.ini			1	15	1					900001					3									
+Fb_4_1_3	844	Thủ Lĩnh Ngũ Sắc Giáo	0	1	FubenDeath		121		993		215	1342	1	91	1			1000	1500	Setting/Npc/Ai/fuben/Boss5.ini			1	20	2										4									
+Fb_4_1_4	1355	Bia Đá Kỳ Quái	4	0	FubenDeath		414				211	1342	1					1000	1500				1	28	3										1									
+Fb_4_2_1	845	Hầu Vương	0	1	FubenDeath		117		993		215	22	1	91	1			1000	1500	Setting/Npc/Ai/fuben/Boss9.ini			1	20	2										4									
+Fb_4_3_1	846	Lưu Manh	0	1	FubenDeath		173		993		212	21	1					1000	1500	Setting/Npc/Ai/CommonActive.ini			1	15	1										1									
+Fb_4_3_2	847	Lưu Manh Tinh Anh	0	1	FubenDeath		170		993		213	167	1	28	1			1000	1500	Setting/Npc/Ai/CommonSkill.ini			1	15	1										3									
+Fb_4_3_3	848	Lộ Đạt	0	1	FubenDeath		371		993		215	40	1	91	1			1000	1500	Setting/Npc/Ai/fuben/Boss22.ini			1	20	2										4									
+Fb_4_3_4	1373	Trương Như Mộng	0	0	FubenDeath		193		993		216	54	1	2455	1			1000	1500	Setting/Npc/Ai/partner/FellowCommon.ini			1	28	1									20	2									
+Fb_4_4_1	849	Thích Khách Thần Bí	0	1	FubenDeath		124		993		211	21	1					1000	1500	Setting/Npc/Ai/CommonActive.ini			1	15	1					900001					1									
+Fb_4_4_2	850	Thích Khách Tinh Anh	0	1	FubenDeath		124		993		213	21	1	42	1			1000	1500	Setting/Npc/Ai/CommonSkill.ini			1	15	1					900001					3									
+Fb_4_4_3	851	Hoa Tặc	0	1	FubenDeath		138		993		215	21	1	91	1			1000	1500	Setting/Npc/Ai/fuben/Boss4.ini			1	20	2										4									
+Fb_4_5_1	852	Trương Như Mộng	0	0	FubenDeath		193		993		216	54	1	2455	1			1000	1500	Setting/Npc/Ai/partner/FellowCommon.ini			1	28	1									20	5									
+Fb_4_5_2	1226	Nam Cung Thái Hồng	0	0	FubenDeath		126		993		217	54	1					1000	1500	Setting/Npc/Ai/partner/FellowCommon.ini			1	28	2										2									
+Fb_4_6_1	853	Trương Lâm Tâm	0	0	FubenDeath		1100		993		216	41	1	2455	1			1000	1500	Setting/Npc/Ai/partner/Fellow_zhanglinxin.ini			1	28	1									20	2									
+Fb_4_7_1	854	Nam Cung Diệt	0	1	FubenDeath		129		993		217	21	1	91	1			1000	1500	Setting/Npc/Ai/fuben/Boss10.ini			1	20	2										5									
+Fb_4_7_2	855	Trương Phong	0	0	FubenDeath		1119		993		217	1386	1					1000	1500	Setting/Npc/Ai/fuben/Boss14.ini			1	20	2									20	2									
+Fb_5_1_1	856	Hoa Sơn Ác Đồ	0	1	FubenDeath		143		993		211	21	1					1000	1500	Setting/Npc/Ai/CommonActive.ini			1	15	1										1									
+Fb_5_1_2	857	Hoa Sơn Ác Đồ Tinh Anh	0	1	FubenDeath		143		993		214	168	1	51	1			1000	1500	Setting/Npc/Ai/CommonSkill.ini			1	15	1										3									
+Fb_5_1_3	858	Thủ Lĩnh Hoa Sơn Ác Đồ	0	1	FubenDeath		369		993		215	166	1	91	1			1000	1500	Setting/Npc/Ai/fuben/Boss16_1.ini			1	20	2										4									
+Fb_5_1_4	1383	Trương Lâm	0	0	FubenDeath		1121		993		217	166	1					1000	1500	Setting/Npc/Ai/partner/FellowCommon.ini			1	28	1										2									
+Fb_5_2_1	859	Ngũ Sắc Giáo Đồ	0	1	FubenDeath		174		993		212	166	1					1000	1500	Setting/Npc/Ai/CommonActive.ini			1	15	1										1									
+Fb_5_2_2	860	Thích Khách Thần Bí	0	1	FubenDeath		124		993		214	23	1	2441	1			1000	1500	Setting/Npc/Ai/CommonSkill.ini			1	15	1					900001					3									
+Fb_5_2_3	861	Thủ Lĩnh Thích Khách	0	1	FubenDeath		365		993		215	40	1	91	1			1000	1500	Setting/Npc/Ai/fuben/Boss18.ini			1	20	2										4									
+Fb_5_2_4	862	Liễu Trung Nguyên	0	0	FubenDeath		135		993		211	54	1					1000	1500	Setting/Npc/Ai/partner/FellowCommon.ini			1	28	1										2									
+Fb_5_3_1	863	Nam Cung Diệt	0	1	FubenDeath		5129		993		216	21	1	91	1			1000	1500	Setting/Npc/Ai/random/nangongmie.ini			1	20	2										5									
+Fb_5_3_2	864	Trương Phong	0	0	FubenDeath		1119		993		217	1386	1					1000	1500	Setting/Npc/Ai/partner/FellowCommon.ini			1	28	2										2									
+Fb_5_3_3	865	Thám Tử Nước Kim	0	1	FubenDeath		136		993		212	168	1					1000	1500	Setting/Npc/Ai/CommonActive.ini			1	15	1										1									
+Fb_5_3_4	866	Cao Thủ Nước Kim	0	1	FubenDeath		431		993		214	169	1	2354	1			1000	1500	Setting/Npc/Ai/CommonSkill.ini			1	15	1										3									
+Fb_5_3_5	867	Thích Khách	0	1	FubenDeath		143		993		211	21	1					1000	1500	Setting/Npc/Ai/CommonActive.ini			1	15	1										1									
+Fb_5_4_1	868	Thủy Tặc	0	1	FubenDeath		123		993		211	21	1					1000	1500	Setting/Npc/Ai/CommonActive.ini			1	15	1					900004					1									
+Fb_5_4_2	869	Bảo Tiêu	0	1	FubenDeath		436		993		214	1359	1	2476	1			1000	1500	Setting/Npc/Ai/CommonSkill.ini			1	15	1										3									
+Fb_5_4_3	870	Diêu Công Tử	0	1	FubenDeath		160		993		215	54	1	91	1			1000	1500	Setting/Npc/Ai/fuben/Boss7.ini			1	20	2										4									
+Fb_5_4_4	1385	Đỗ Quyên	0	0	FubenDeath		105		993		211	54	1					1000	1500	Setting/Npc/Ai/CommonActive.ini			1	28	3										1									
+Fb_5_5_1	871	Cai Ngục	0	1	FubenDeath		151		993		211	21	1					1000	1500	Setting/Npc/Ai/CommonActive.ini			1	15	1										1									
+Fb_5_5_2	1282	Quan Binh	0	1	FubenDeath		152		993		213	182	1	2484	1			1000	1500	Setting/Npc/Ai/CommonSkill.ini			1	15	1										3									
+Fb_5_6_1	872	Lao Đầu	0	1	FubenDeath		369		993		215	1848	1	91	1			1000	1500	Setting/Npc/Ai/fuben/Boss16.ini			1	20	2										4									
+Fb_5_6_2	873	Lý Tam	0	0	FubenDeath		159		993		211	54	1					1000	1500	Setting/Npc/Ai/partner/FellowCommon.ini			1	28	1										2									
+Fb_5_6_3	874	Dương Hồ	0	0	FubenDeath		132		993		211	54	1					1000	1500	Setting/Npc/Ai/partner/FellowCommon.ini			1	28	1										2									
+Fb_5_6_4	1390	Diêu Công Tử	0	0	FubenDeath		160		993		211	54	1					1000	1500	Setting/Npc/Ai/partner/FellowCommon.ini			1	28	1										2									
+Fb_5_7_1	875	Vô Tướng	0	1	FubenDeath		1118		993		217	174	1	91	1			1000	1500	Setting/Npc/Ai/fuben/wuxiang.ini			1	20	2										5									
+Fb_5_7_2	876	Vô Hư Đại Sư	0	0	FubenDeath		163		993		217	54	1					1000	1500	Setting/Npc/Ai/RangeActive.ini			1	15	1										2									
+Fb_5_7_3	1212	Phương Miễn	0	0	FubenDeath		1117		993		217	23	1					1000	1500	Setting/Npc/Ai/CommonSkill.ini			1	15	1										2									
+Fb_6_1_1	1394	Đệ Tử Hoa Sơn	0	1	FubenDeath		135		993		211	21	1					1000	1500	Setting/Npc/Ai/CommonActive.ini			1	15	1										1									
+Fb_6_1_2	1395	Hoa Sơn Cao Thủ	0	1	FubenDeath		169		993		213	57	1	2425	1			1000	1500	Setting/Npc/Ai/CommonSkill.ini			1	15	1										3									
+Fb_6_1_3	1396	Lâm Đối Nhi	0	1	FubenDeath		1121		993		215	41	1	91	1			1000	1500	Setting/Npc/Ai/fuben/Boss19.ini			1	20	2										4									
+Fb_6_1_4	1397	Kỹ Nữ Xinh Đẹp	0	0	FubenDeath		105		993		211	54	1					1000	1500	Setting/Npc/Ai/partner/FellowCommon.ini			1	28	3										2									
+Fb_6_2_1	1398	Hoa Sơn Hộ Pháp	0	1	FubenDeath		169		993		214	106	1	2447	1			1000	1500	Setting/Npc/Ai/CommonSkill.ini			1	15	1										3									
+Fb_6_2_2	1399	Lâm Hải	0	1	FubenDeath		1120		993		216	177	1	91	1			1000	1500	Setting/Npc/Ai/fuben/linhai.ini			1	20	2										4									
+Fb_6_2_3	1400	Phương Miễn	0	0	FubenDeath		1117		993		217	21	1					1000	1500	Setting/Npc/Ai/partner/FellowCommon.ini			1	28	3										2									
+Fb_6_2_4	1401	Giang Hồ Nhân Sĩ	0	0	FubenDeath		165		993		211	21	1					1000	1500	Setting/Npc/Ai/partner/FellowCommon.ini			1	28	3										2									
+Fb_6_3_1	1402	Ngũ Sắc Giáo Đồ	0	1	FubenDeath		174		993		212	166	1					1000	1500	Setting/Npc/Ai/CommonActive.ini			1	15	1										1									
+Fb_6_3_2	1403	Ngũ Sắc Giáo Thích Khách	0	1	FubenDeath		124		993		213	167	1	2490	1			1000	1500	Setting/Npc/Ai/CommonSkill.ini			1	15	1					900001					3									
+Fb_6_3_3	1404	Cẩu Nhục Hòa Thượng	0	0	FubenDeath		163		993		211	21	1					1000	1500	Setting/Npc/Ai/partner/FellowCommon.ini			1	28	3										1									
+Fb_6_3_4	1405	Vô Tướng	0	1	FubenDeath		1118		993		216	174	1	91	1			1000	1500	Setting/Npc/Ai/fuben/wuxiang.ini			1	20	2										4									
+Fb_6_3_5	1406	Tiên Phong Hiệu Úy	0	1	FubenDeath		180		993		216	23	1	91	1			1000	1500	Setting/Npc/Ai/fuben/Boss6.ini			1	20	2										4									
+Fb_6_4_1	1407	Kim Binh	0	1	FubenDeath		431		993		211	21	1					1000	1500	Setting/Npc/Ai/CommonActive.ini			1	15	1										1									
+Fb_6_4_2	1408	Bách Phu Trưởng	0	1	FubenDeath		181		993		213	168	1	59	1			1000	1500	Setting/Npc/Ai/CommonSkill.ini			1	15	1										3									
+Fb_6_4_3	1409	Chó Sói	0	1	FubenDeath		115		993		213	22	1	29	1			1000	1500	Setting/Npc/Ai/CommonSkill.ini			1	15	1										3									
+Fb_6_4_4	1410	Kim Binh Tinh Nhuệ	0	1	FubenDeath		181		993		214	169	1	2441	1			1000	1500	Setting/Npc/Ai/CommonSkill.ini			1	15	1										3									
+Fb_6_4_5	1411	Lục Văn Long	0	0	FubenDeath		144		993		217	21	1					1000	1500	Setting/Npc/Ai/partner/FellowCommon.ini			1	28	3										2									
+Fb_6_4_6	1412	Vương Tá	0	0	FubenDeath		1109		993		217	174	1					1000	1500	Setting/Npc/Ai/partner/FellowCommon.ini			1	28	3										2									
+Fb_6_4_7	1413	Nhũ Nương	0	0	FubenDeath		1123		993		211	54	1					1000	1500	Setting/Npc/Ai/partner/FellowCommon.ini			1	28	3										2									
+Fb_6_4_8	1422	Khổ Nhân Nhi	0	0	FubenDeath		1109		993		217	174	1					1000	1500	Setting/Npc/Ai/partner/FellowCommon.ini			1	28	3										2									
+Fb_6_5_1	1414	Kim Binh Tinh Nhuệ	0	1	FubenDeath		431		993		212	21	1					1000	1500	Setting/Npc/Ai/CommonActive.ini			1	15	1										1									
+Fb_6_5_2	1415	Thiên Phu Trưởng	0	1	FubenDeath		181		993		214	170	1	2351	1			1000	1500	Setting/Npc/Ai/CommonSkill.ini			1	15	1										3									
+Fb_6_5_3	1416	Thiết Phù Đà	0	1	FubenDeath		378		993		214	56	1	91	1			1000	1500	Setting/Npc/Ai/CommonSkill.ini			1	0	1										3									
+Fb_6_5_4	1417	Nam Cung Diệt	0	1	FubenDeath		5129		993		218	23	1	91	1			1000	1500	Setting/Npc/Ai/random/nangongmie.ini			1	20	2										6									
+Fb_6_5_5	1418	Kim Ngột Thuật	0	0	FubenDeath		180		993		217	21	1					1000	1500	Setting/Npc/Ai/partner/FellowCommon.ini			1	28	3										6									
+Fb_7_1_1	1672	Lão Hổ	0	1	FubenDeath		114		993		212	22	1					1000	1500	Setting/Npc/Ai/CommonActive.ini			1	15	1										1									
+Fb_7_1_2	1673	Mãnh Hổ	0	1	FubenDeath		114		993		214	22	1	2443	1			1000	1500	Setting/Npc/Ai/CommonSkill.ini			1	15	1										3									
+Fb_7_1_3	1674	Sói Hoang	0	1	FubenDeath		115		993		212	22	1					1000	1500	Setting/Npc/Ai/CommonActive.ini			1	15	1										1									
+Fb_7_1_4	1675	Cuồng Lang	0	1	FubenDeath		115		993		214	22	1	2354	1			1000	1500	Setting/Npc/Ai/CommonSkill.ini			1	15	1										3									
+Fb_7_1_5	1676	Tuyết Liên Lão Lão	0	1	FubenDeath		188		993		216	37	1	91	1			1000	1500	Setting/Npc/Ai/fuben/Boss15.ini			1	15	2										4									
+Fb_7_2_1	1680	Nhện	0	1	FubenDeath		112		993		212	22	1					1000	1500	Setting/Npc/Ai/CommonActive.ini			1	15	1										1									
+Fb_7_2_2	1681	Hung Hãn Độc Thù	0	1	FubenDeath		112		993		214	22	1	2457	1			1000	1500	Setting/Npc/Ai/CommonSkill.ini			1	15	1										3									
+Fb_7_2_3	1682	Bò Cạp	0	1	FubenDeath		109		993		212	22	1					1000	1500	Setting/Npc/Ai/CommonActive.ini			1	15	1										1									
+Fb_7_2_4	1683	Bò Cạp Độc	0	1	FubenDeath		109		993		214	22	1	2389	1			1000	1500	Setting/Npc/Ai/CommonSkill.ini			1	15	1										3									
+Fb_7_2_5	1684	Cự Hình Độc Hạt	0	1	FubenDeath		475		993		216	22	1	91	1			1000	1500	Setting/Npc/Ai/fuben/Boss9.ini			1	15	2										4									
+Fb_7_3_1	1686	Ngũ Sắc Giáo Đồ	0	1	FubenDeath		174		993		212	21	1					1000	1500	Setting/Npc/Ai/CommonActive.ini			1	15	1										1									
+Fb_7_3_2	1687	Thiên Vương Phản Đồ	0	1	FubenDeath		134		993		212	166	1					1000	1500	Setting/Npc/Ai/CommonActive.ini			1	15	1										1									
+Fb_7_3_3	1688	Thiên Vương Phản Đồ Hung Ác	0	1	FubenDeath		134		993		214	168	1	42	1			1000	1500	Setting/Npc/Ai/CommonSkill.ini			1	15	1										3									
+Fb_7_3_4	1689	Phong Ngọc Thư	0	1	FubenDeath		478		993		216	23	1	91	1			1000	1500	Setting/Npc/Ai/CommonSkill.ini			1	15	2										4									
+Fb_7_3_5	1690	Dương Anh	0	0	FubenDeath		141		993		216	166	1	2455	1			1000	1500	Setting/Npc/Ai/partner/Fellow_yangying.ini			1	28	1									20	2									
+Fb_7_4_1	1691	Cảnh Giới Trang Đinh	0	1	FubenDeath		101		993		213	21	1					220	1500	Setting/Npc/Ai/CommonActive.ini			1	15	1										1									
+Fb_7_4_2	1692	Ngũ Sắc Giáo Đồ	0	1	FubenDeath		135		993		212	1386	1					1000	1500	Setting/Npc/Ai/CommonActive.ini			1	15	1										1									
+Fb_7_4_3	1693	Ngũ Sắc Giáo Hộ Vệ	0	1	FubenDeath		159	200	300		212	182	1					1000	1500	Setting/Npc/Ai/CommonActive.ini			1	15	1					900001					1									
+Fb_7_4_4	1694	Ngũ Sắc Thích Khách	0	1	FubenDeath		178		993		214	196	1	2489	1			1000	1500	Setting/Npc/Ai/CommonSkill.ini			1	15	1		3000	1535	2						3									
+Fb_7_4_5	1695	Thủ Lĩnh Ngũ Sắc Giáo	0	1	FubenDeath		121		993		216	57	1	91	1			1000	1500	Setting/Npc/Ai/CommonSkill.ini			1	15	2										4									
+Fb_7_4_6	1696	Thủ Lĩnh Trang Đinh	0	1	FubenDeath		354		993		214	21	1	91	1			1000	1500	Setting/Npc/Ai/fuben/Boss8.ini			1	20	2										4									
+Fb_7_5_1	1697	Lâm Đối Nhi	0	1	FubenDeath		1121		993		216	69	1	91	1			1000	1500	Setting/Npc/Ai/fuben/linhai.ini			1	15	2										4									
+Fb_7_5_2	1698	Vô Tướng	0	1	FubenDeath		1118		993		216	166	1	91	1			1000	1500	Setting/Npc/Ai/fuben/wuxiang.ini			1	15	2										4									
+Fb_7_5_3	1699	Phong Ngọc Thư	0	1	FubenDeath		182		993		216	23	1	91	1			1000	1500	Setting/Npc/Ai/fuben/Boss6.ini			1	15	2										4									
+Fb_7_6_1	1700	Giang Hồ Ác Đồ	0	1	FubenDeath		143		993		212	21	1					1000	1500	Setting/Npc/Ai/CommonActive.ini			1	15	1										1									
+Fb_7_6_2	1701	Vô Lương Kiếm Khách	0	1	FubenDeath		135		993		212	167	1					1000	1500	Setting/Npc/Ai/CommonActive.ini			1	15	1										1									
+Fb_7_6_3	1702	Cao Thủ Tà Ác	0	1	FubenDeath		155		993		214	106	1	2384	1			1000	1500	Setting/Npc/Ai/CommonSkill.ini			1	15	1										3									
+Fb_7_6_4	1703	Nam Cung Thái Hồng	0	1	FubenDeath		126		993		217	54	1	91	1			1000	1500	Setting/Npc/Ai/teamfb/20fb_boss.ini			1	28	2										5									
+Fb_7_6_5	1704	Trương Như Mộng	0	0	FubenDeath		193		993		217	21	1	2455	1			1000	1500	Setting/Npc/Ai/partner/FellowCommon.ini			1	28	1									20	2									
+Fb_7_7_1	1713	Ngũ Sắc Giáo Thích Khách	0	1	FubenDeath		174		993		212	170	1					1000	1500	Setting/Npc/Ai/CommonActive.ini			1	15	1										1									
+Fb_7_7_2	1714	Quân Kim Cản Đường	0	1	FubenDeath		1127		993		212	21	1					1000	1500	Setting/Npc/Ai/CommonActive.ini			1	15	1										1									
+Fb_7_7_3	1715	Tinh AnhThích Khách	0	1	FubenDeath		174		993		214	40	1	2459	1			1000	1500	Setting/Npc/Ai/CommonSkill.ini			1	15	1										3									
+Fb_7_7_4	1716	Phương Miễn	0	1	FubenDeath		1117		993		218	38	1	91	1			1000	1500	Setting/Npc/Ai/random/fangmian.ini			1	28	2										6									
+Fb_8_1_1	1915	Ác Lang	0	1	FubenDeath		115		993		212	1897	1					1000	1500	Setting/Npc/Ai/CommonActive.ini			1	15	1										1									
+Fb_8_1_2	1916	Thổ Phỉ	0	1	FubenDeath		143		993		212	166	1					1000	1500	Setting/Npc/Ai/CommonActive.ini			1	15	1										1									
+Fb_8_1_3	1917	Thổ Phỉ Tinh Anh	0	1	FubenDeath		143		993		214	168	1	91	1	2360	1	1000	1500	Setting/Npc/Ai/CommonSkill.ini			1	15	1										3									
+Fb_8_1_4	1918	Đấu Lạp Khách	0	1	FubenDeath		174		993		217	2713	1	91	1	2475	1	1000	1500	Setting/Npc/Ai/CommonSkill.ini			1	20	2										4									
+Fb_8_1_5	2532	Cự Kiếm	0	1	FubenDeath		362		993		212												1	0	1	1									3									
+Fb_8_2_1	1919	Sơn Tặc	0	1	FubenDeath		136		993		212	169	1					5000	5000	Setting/Npc/Ai/CommonActive.ini			1	15	1										1									
+Fb_8_2_2	1920	Sơn Tặc Tinh Anh	0	1	FubenDeath		136		993		214	170	1	91	1	31	1	5000	5000	Setting/Npc/Ai/CommonSkill.ini			1	15	1										3									
+Fb_8_2_3	1921	Cố Võ	0	1	FubenDeath		143		993		217	23	1	91	1	2486	1	1000	1500	Setting/Npc/Ai/CommonSkill.ini			1	20	2										4									
+Fb_8_2_4	2533	Sơn Tặc Tuần Vệ	0	1	FubenDeath		106		993		213	21	1					220	1500	Setting/Npc/Ai/CommonActive.ini			1	15	1										1									
+Fb_8_2_5	2534	Sơn Tặc Đầu Mục Say Rượu	0	1	FubenDeath		142		993		217	1807	1	91	1			1500	1500	Setting/Npc/Ai/fuben/Boss17.ini			1	15	2										3									
+Fb_8_2_6	2653	Cơ Quan	2	0	FubenDialog	4,Đang mở...	467	995	300		212							560	980				1	0		1					NoTurn													
+Fb_8_3_1	1922	Binh Đinh	0	1	FubenDeath		151		993		212	2711	1					1000	1500	Setting/Npc/Ai/CommonActive.ini			1	15	1										1									
+Fb_8_3_2	1923	Tinh Nhuệ	0	1	FubenDeath		150		993		214	2712	1	91	1	2443	1	1000	1500	Setting/Npc/Ai/CommonSkill.ini			1	15	1										3									
+Fb_8_3_3	1924	Hộ Vệ Trưởng	0	1	FubenDeath		106		993		217	23	1	91	1	2773	1	1000	1500	Setting/Npc/Ai/CommonSkill.ini			1	20	2										4									
+Fb_8_4_1	1925	Gia Đinh	0	1	FubenDeath		170		993		212	2715	1					1000	1500	Setting/Npc/Ai/CommonActive.ini			1	15	1										1									
+Fb_8_4_2	1926	Hộ Viện	0	1	FubenDeath		152		993		212	2726	1					1000	1500	Setting/Npc/Ai/CommonSkill.ini			1	15	1										1									
+Fb_8_4_3	1927	Hộ Viện Đầu Mục	0	1	FubenDeath		142		993		217	1893	1	91	1	29	1	1000	1500	Setting/Npc/Ai/CommonSkill.ini			1	20	2										4									
+Fb_8_4_4	1928	Nam Cung Phi	0	0	FubenDeath		5027		993		217	2720	1	91	1			1000	1500	Setting/Npc/Ai/CommonSkill.ini			1	20	3									20	2									
+Fb_8_4_5	1929	Triệu Thăng Quyền	0	0	FubenDeath		1109		993		217	57	1	91	1			1000	1500	Setting/Npc/Ai/CommonSkill.ini			1	20	3									20	2									
+Fb_8_4_6	1933	Hộ Viện Tinh Anh	0	1	FubenDeath		152		993		214	2722	1	91	1	2393	1	1000	1500	Setting/Npc/Ai/CommonSkill.ini			1	15	1										3									
+Fb_8_5_1	1930	Đường Môn Đệ Tử	0	1	FubenDeath		164		993		212	41	1					1000	1500	Setting/Npc/Ai/CommonActive.ini			1	15	1										1									
+Fb_8_5_2	1931	Đường Môn Tinh Anh	0	1	FubenDeath		165		993		214	2723	1	91	1	45	1	1000	1500	Setting/Npc/Ai/CommonSkill.ini			1	15	1										3									
+Fb_8_5_3	1932	Đường Tiêu	0	1	FubenDeath		23		993		217	2718	1	91	1	2437	1	1000	1500	Setting/Npc/Ai/CommonSkill.ini			1	20	2										4									
+Fb_8_5_4	2536	Đường Môn Giáp Tử	6	1	FubenDeath		645		993		214							100	100	Setting/Npc/Ai/CommonActive.ini			1	0	3	1																		
+Fb_10_1_1	2555	Bẫy Nước Độc	6	1	FubenDeath		456		993		214	2468	15										1																					
+Fb_10_1_2	2554	Tú Thực Cơ Quan Nhân	0	1	FubenDeath		20		993		217	21	1	91	1			1000	1500	Setting/Npc/Ai/fuben/Boss25.ini			1	20	2										4									
+Fb_10_1_3	2553	Kỹ năng	6	1	FubenDeath		469		993		214												1	0	1	1														1				
+Fb_10_2_1	2609	Lôi Đồng	0	1	FubenDeath		174		993		217	2365	1	91	1			1000	1500	Setting/Npc/Ai/whitetigerfuben/floor_2_boss.ini			0	20	2										4									
+Fb_10_2_2	2610	Tích Lịch Đường Thủ Vệ	0	1	FubenDeath		120		993		213	21	1					850	850	Setting/Npc/Ai/CommonActive.ini			1	20	1										1									
+Fb_10_2_3	2611	Tích Lịch Đường Đệ Tử	0	1	FubenDeath		123		993		212	166	1					850	850	Setting/Npc/Ai/CommonActive.ini			1	20	1										1									
+Fb_10_2_4	2612	Tích Lịch Đường Cao Thủ	0	1	FubenDeath		124		993		214	23	1	91	1			850	850	Setting/Npc/Ai/CommonActive.ini			1	20	1										3									
+Fb_10_2_5	2613	Thánh Kỳ	0	1	FubenDeath		505		993		213	21	1	91	1	2400	5						1	0	1		3013								3									
+Fb_10_2_6	2614	Lôi Hoảng	0	1	FubenDeath		174		993		216	2365	1	91	1			1000	1500	Setting/Npc/Ai/whitetigerfuben/floor_2_boss.ini			0	20	2										4									
+Fb_10_3_1	2615	Sơn Trang Hộ Vệ	0	1	FubenDeath		151		993		212	2711	1					1000	1500	Setting/Npc/Ai/CommonActive.ini			1	15	1										1									
+Fb_10_3_2	2616	Sơn Trang Tinh Nhuệ	0	1	FubenDeath		134		993		214	21	1	91	1			1000	1500	Setting/Npc/Ai/CommonSkill.ini			1	15	1										3									
+Fb_10_3_3	2617	Dị Vực Lực Sĩ	0	1	FubenDeath		369		993		342	4868	1					1000	1500	Setting/Npc/Ai/CommonSkill.ini			1	8	1										4									
+Fb_10_3_4	2618	Thiệu Kỵ Phong	0	1	FubenDeath		199		993		218	2929	1	2382	1	91	1	1500	1500	Setting/Npc/Ai/CommonSkill.ini			1	20	2										5									
+Fb_10_3_5	2619	Nam Cung Phi	0	0	FubenDeath		27		993		217	21	1	91	1			1500	1500	Setting/Npc/Ai/CommonSkill.ini			0	20	3										2									
+Fb_10_3_6	2620	Thu Y Thủy	0	0	FubenDeath		158		993		217												0	20	3	1									2									
+Fb_10_3_7	2621	Triệu Vô Song	0	0	FubenDeath		127		993		217												0	20	3	1									2									
+Fb_10_3_8	2622	Đường Ảnh	0	0	FubenDeath		119		993		217												0	20	3	1									2									
+Fb_10_3_9	2623	Sài Tung	0	0	FubenDeath		132		993		217												0	20	3	1									2									
+Fb_10_4_1	2631	Triệu Tiết	0	1	FubenDeath		153		993		217	2928	1	2393	1	91	1	1000	1500	Setting/Npc/Ai/CommonSkill.ini			1	20	2										4									
+Fb_10_4_2	2632	Vệ Đội Trưởng	0	1	FubenDeath		150		993		214	21	1	91	1	170	1	1000	1500	Setting/Npc/Ai/CommonSkill.ini			1	20	1										3									
+Fb_10_4_3	2633	Liêm Thương Vệ	0	1	FubenDeath		151		993		212	21	1					1000	1500	Setting/Npc/Ai/CommonSkill.ini			1	20	1										1									
+Fb_10_4_4	2634	Ngự Xạ Vệ	0	1	FubenDeath		152		993		212	2722	1	91	1	2393	1	1000	1500	Setting/Npc/Ai/CommonSkill.ini			1	20	1										1									
+Fb_10_4_5	2647	Cơ Quan	2	0	FubenDialog	4,Đang mở...	467	995	300		212							560	980				1	0		1					NoTurn													
+Fb_10_5_1	2635	Gia Luật Tị Li	0	1	FubenDeath		122		993		217	3137	1	91	1			1000	1500	Setting/Npc/Ai/random/pilihuo.ini			1	20	2										4									
+Fb_10_5_2	2636	Thiên Nhẫn Tinh Anh	0	1	FubenDeath		121		993		215	1342	1	91	1			1000	1500	Setting/Npc/Ai/fuben/Boss5.ini			1	20	1										3									
+Fb_10_5_3	2637	Đệ Tử Thiên Nhẫn	0	1	FubenDeath		373		993		212	170	1	30	1	91	1	1000	1000	Setting/Npc/Ai/CommonSkill.ini			1	20	1										1									
+Fb_10_5_4	2641	Cơ Quan	2	0	FubenDialog	4,Đang mở...	377	995	300		212							560	980				1	0		1					NoTurn													
+Fb_10_5_5	2642	Bỏ kỹ năng	6	1	FubenDeath		469		993		212							1000	1000	Setting/Npc/Ai/CommonActive.ini			1	0		1																		
+Fb_10_6_1	2643	Hoàn Nhan Hồng Liệt	0	1	FubenDeath		31		993		218	3137	1	91	1			1000	1500	Setting/Npc/Ai/random/pilihuo.ini			1	20	2										6									
+Fb_10_6_2	2644	Hoàn Nhan Hồng Liệt	0	1	FubenDeath		31		993		216	3137	1	91	1			1000	1500	Setting/Npc/Ai/random/pilihuo.ini			1	20	2										6									
+Fb_10_6_3	2645	Hoàn Nhan Hồng Liệt	0	1	FubenDeath		31		993		214	3137	1	91	1			1000	1500	Setting/Npc/Ai/random/pilihuo.ini			1	20	2										6									
+Fb_10_6_4	2646	Nam Cung Phi	0	0	FubenDeath		27		993		217	21	1	91	1			1500	1500	Setting/Npc/Ai/CommonSkill.ini			0	20	3										2									
+WLDS01_xianjing1	2722	Bẫy Toàn Phong	6	1	FubenDeath		469		993		218							1500	1500				1	20	3			3106	10						1									
+WLDS01_xianjing2	2723	Bẫy Nước Độc	6	1	FubenDeath		456		993		218	2468	30					1500	1500				1	20	3										1									
+WLDS01_jiguan	2724	Xạ Tiễn Cơ Quan	6	1	FubenDeath		467		993		218							1500	1500				1	20	3										1									
+WLDS01_jinbing	2725	Tuần La Kim Binh	0	1	FubenDeath		1127		993		218	2928	1	91	1			270	1500	Setting/Npc/Ai/CommonActive.ini			1	20	3										4									
+WLDS01_jinbing1	2726	Kim Quân Thiết Kỵ	0	1	FubenDeath		181		993		218	2928	1	91	1			1500	1500	Setting/Npc/Ai/CommonActive.ini			1	20	3										4									
+WLDS01_boss	2727	Người Bí Ẩn	0	1	FubenDeath		24		993		218	2928	1	91	1			1500	1500	Setting/Npc/Ai/fuben/newrole.ini			1	20	2										6									
+WLDS01_nangongfy	2728	Nam Cung Phi	0	0	FubenDeath		5027		993		218							1500	1500				1	20	3										1									
+WLDS01_wanyanhl	2729	Hoàn Nhan Hồng Liệt	0	0	FubenDeath		5031		993		218							1500	1500				1	20	3										1									
+WLDS01_mitan	2730	Mật Thám	0	0	FubenDeath		164		993		218							1500	1500	Setting/Npc/Ai/CommonSkill.ini			1	20	3										1									
+WLDS01_chuansong	2731	Doanh Trại Nguyên Soái	4	0	FubenDeath		8		993		218							1500	1500				1	20	3										2									
+WLDS02_jinbing	2734	Kim Binh	0	1	FubenDeath		1127		993		401	1894	1					1500	1500	Setting/Npc/Ai/CommonSkill.ini			1	20	1										3									
+WLDS02_shifuzhang_sl	2735	Thập Phu Trưởng	0	1	FubenDeath		181		993		403	23	1	2357	1	91	1	1500	1500	Setting/Npc/Ai/CommonSkill.ini			1	20	2										4									
+WLDS02_cike	2736	Thích Khách	0	1	FubenDeath		124		993		401	2715	1					1500	1500	Setting/Npc/Ai/CommonSkill.ini			1	20	1					900001					3									
+WLDS02_cike_sl	2737	Thủ Lĩnh Thích Khách	0	1	FubenDeath		365		993		403	2717	1	63	1	91	1	1500	1500	Setting/Npc/Ai/CommonSkill.ini			1	20	2					900001					4									
+WLDS02_xiangbing	2738	Tống Quân Giáng Tốt	0	1	FubenDeath		159	200	300		401	182	1					1500	1500	Setting/Npc/Ai/CommonSkill.ini			1	20	1					900001					3									
+WLDS02_boss	2739	Bách Phu Trưởng	0	1	FubenDeath		180		993		404	2712	1	91	1	2736	1	1500	1500	Setting/Npc/Ai/fuben/Boss10.ini			1	20	2										5									
+WLDS02_guanguo_hs	2740	Quan Tài Ngu Doãn Văn	0	0	FubenDeath		438		993		403			91	1			1500	1500	Setting/Npc/Ai/CommonActive.ini			0	15	1										2									
+WLDS02_shuanger_npc	2741	Sương Nhi	0	0	FubenDeath		1233		993		403	4869	1					1500	1500	Setting/Npc/Ai/random/jx_tianshan.ini			1	15	1		3014			900001					2									
+WLDS02_xiake1_hs	2742	Lâm San	0	0	FubenDeath		102		993		403	3957	1	2384	1			1500	1500	Setting/Npc/Ai/CommonSkill.ini			1	15	1		3015			900001					2									
+WLDS02_xiake2_hs	2743	Hồ Xung	0	0	FubenDeath		175	200	300		403	3951	1	2393	1			1500	1500	Setting/Npc/Ai/CommonSkill.ini			1	15	1		3015			900001					2									
+WLDS02_songbing_hs	2744	Tống Binh	0	0	FubenDeath		150		993		401	166	1					1500	1500	Setting/Npc/Ai/CommonSkill.ini			1	15	1		3016								2									
+Fb_yewai_1_1	3202	Thám Tử Nước Kim-Tinh Anh	0	1	FubenDeath		431		993		214	169	1	2354	1			1000	1500	Setting/Npc/Ai/CommonSkill.ini			1	15	1										3		10000							
+Fb_yewai_1_2	3203	Giang Hồ Cao Thủ	0	0	FubenDeath		193		993		216	54	1	2455	1			1000	1500	Setting/Npc/Ai/partner/FellowCommon.ini			1	28	1									30	2									1
+Fb_yewai_1_3	3218	Thám Tử Nước Kim	0	1	FubenDeath		136		993		212	168	1					1000	1500	Setting/Npc/Ai/CommonActive.ini			1	15	1										1									
+Fb_yewai_1_4	3219	Đệ Tử Môn Phái	0	0	FubenDeath		126		993		217	54	1					1000	1500	Setting/Npc/Ai/partner/FellowCommon.ini			1	28	2									30	2									2
+Fb_yewai_1_5	3220	Võ Lâm Tân Tú	0	0	FubenDeath		1100		993		216	41	1	2455	1			1000	1500	Setting/Npc/Ai/partner/Fellow_zhanglinxin.ini			1	28	1									30	2									2

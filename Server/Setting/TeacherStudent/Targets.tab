@@ -1,0 +1,65 @@
+nId	szDesc	nNeed	nStudentExp	nTeacherRenown
+1	Mở 10 Rương Hoàng Kim	10	500000	100
+2	Mở 50 Rương Hoàng Kim	50	1000000	200
+3	Vào Bang Hội thành công	1	1000000	200
+4	Đã nhận 5 Hộp Quà Bang Hội	5	500000	100
+5	Đã nhận 50 Hộp Quà Bang Hội	50	1000000	200
+6	Góp Kim Khố Bang Hội 5 lần	5	500000	100
+7	Góp Kim Khố Bang Hội 50 lần	50	1000000	200
+8	Nhận 2 lần Lợi Tức Đấu Giá	2	500000	100
+9	Nhận 20 lần Lợi Tức Đấu Giá	20	1000000	200
+10	Hoàn thành 10 lần Đào Kho Báu	10	500000	100
+11	Hoàn thành 50 lần Đào Kho Báu	50	1000000	200
+12	Mua vật phẩm bày bán thành công	1	500000	100
+13	Bán vật phẩm bày bán thành công	1	1000000	200
+14	Tẩy 1 trang bị trên người đầy 6 dòng thuộc tính	1	1000000	200
+15	Tẩy 10 trang bị trên người đầy 6 dòng thuộc tính	1	5000000	1000
+16	Toàn thân mặc trang bị kế thừa	1	2000000	400
+17	Toàn thân mặc trang bị hiếm	1	10000000	2000
+18	Độ hoàn thành mục tiêu ngày đạt 100	1	1000000	200
+19	Đủ 7 ngày hoàn thành mục tiêu đạt 100	7	2000000	400
+20	Mở 2 lần trạng thái Tu luyện	2	500000	100
+21	Mở 10 lần trạng thái Tu luyện	10	1000000	200
+22	Hoàn thành 5 lần Nhiệm Vụ Trừng Ác	5	500000	100
+23	Hoàn thành 50 lần Nhiệm Vụ Trừng Ác	50	1000000	200
+24	Bí cảnh tổ đội đạt đánh giá Ưu Tú trở lên	1	500000	100
+25	Bí cảnh tổ đội đạt đánh giá Trác Việt	1	5000000	1000
+26	Hạng Võ Thần Điện vào Top 1500	1	1000000	200
+27	Hạng Võ Thần Điện vào Top 500	1	5000000	1000
+28	Vượt thành công 6 lượt Khiêu Chiến Anh Hùng	1	500000	100
+29	Vượt thành công 10 lượt Khiêu Chiến Anh Hùng	1	2000000	400
+30	Hạng cá nhân Minh Chủ Võ Lâm vào Top 1500	1	1000000	200
+31	Hạng cá nhân Minh Chủ Võ Lâm vào Top 500	1	5000000	1000
+32	Tham gia 1 lần Thủ Lĩnh Dã Ngoại	1	1000000	200
+33	Tham gia 1 lần Danh Tướng	1	1000000	200
+34	Hoàn thành 1 lần nhiệm vụ Thương Hội	1	500000	100
+35	Hoàn thành 10 lần nhiệm vụ Thương Hội	10	1000000	200
+36	Tham gia 1 lần Chiến Trường Tống Kim	1	500000	100
+37	Tham gia 10 lần Chiến Trường Tống Kim	10	1000000	200
+38	Tham gia 1 lần Thí Luyện Bang Hội	1	500000	100
+39	Tham gia 3 lần Thí Luyện Bang Hội	3	1000000	200
+40	Cường hóa toàn thân +20	1	1000000	200
+41	Cường hóa toàn thân +30	1	2000000	400
+42	Cường hóa toàn thân +40	1	5000000	1000
+43	Khảm 20 Đá Hồn trên Lv1	1	1000000	200
+44	Khảm 20 Đá Hồn trên Lv2	1	2000000	400
+45	Khảm 20 Đá Hồn trên Lv3	1	5000000	1000
+46	Khảm 20 Đá Hồn trên Lv4	1	10000000	2000
+47	Tham gia 1 lần Thi Đấu Môn Phái	1	500000	100
+48	Tham gia 3 lần Thi Đấu Môn Phái	3	1000000	200
+49	Đạt danh hiệu Kinh Hồng	1	500000	100
+50	Đạt danh hiệu Lăng Vân	1	1000000	200
+51	Đạt danh hiệu Ngự Không	1	2000000	400
+52	Đạt danh hiệu Tiềm Long	1	10000000	2000
+53	Thân mật với sư phụ đạt Lv10	1	500000	100
+54	Thân mật với sư phụ đạt Lv15	1	1000000	200
+55	Thân mật với sư phụ đạt Lv20	1	2000000	400
+56	Trân Bảo Các mua 10 Thủy Tinh Trắng giảm giá	10	500000	100
+57	Trân Bảo Các mua 100 Thủy Tinh Trắng giảm giá	100	1000000	200
+58	Trân Bảo Các mua 50 Thủy Tinh Lục giảm giá	50	2000000	400
+59	Mua Quà 7 Ngày	1	1000000	200
+60	Mua Quà 30 Ngày	1	1000000	200
+61	Mua 1 lần Quà Mỗi Ngày	1	500000	100
+62	Mua 10 lần Quà Mỗi Ngày	10	1000000	200
+63	Mua Đầu Tư	1	2000000	400
+64	Đạt Kiếm Hiệp 6	1	10000000	2000

@@ -1,0 +1,32 @@
+nMonth	nVip	szType	nItemId	nCount	Desc
+	1	Coin		500000	500000 Bạc
+		Item	2424	20	Tín Vật Môn Phái x20
+	2	Gold		10000	10000 Nguyên Bảo
+		Item	2169	1	Đá Hồn Lv4 Ngẫu Nhiên
+	3	Contrib		50000	50000 Cống Hiến
+		Coin		500000	500000 Bạc
+	4	Gold		10000	10000 Nguyên Bảo
+		Item	2424	20	Tín Vật Môn Phái x20
+	5	Energy		20000	20000 Nguyên Khí
+		Contrib		50000	50000 Cống Hiến
+	6	Item	1927	500	Rượu x500
+		Item	2424	20	Tín Vật Môn Phái x20
+	7	ZhenQi		10000	10000 Chân Khí
+		Item	2396	5	Sách Tu Vi-Cao x5
+	8	Contrib		50000	50000 Cống Hiến
+		Item	8525	2	Thẻ Môn Khách S
+	9	Gold		10000	10000 Nguyên Bảo
+		Item	2804	20	Hòa Thị Bích
+	9	Contrib		50000	50000 Cống Hiến
+		Item	2424	50	Tín Vật Môn Phái x50
+	10	Item	10014	5	Tùy Hầu Châu
+		Item	9430	1	【Môn Khách】Độc Cô Kiếm	
+	10	Gold		10000	10000 Nguyên Bảo
+		Item	7716	1	Rương Chọn Đá Hồn Binh Giáp Lv4
+	11	Coin		500000	500000 Bạc
+		Item	9432	1	【Môn Khách】Dương Ảnh Phong
+	11	Gold		10000	10000 Nguyên Bảo
+		Item	7717	1	Rương Chọn Đá Hồn Trang Sức Lv4
+	12	Item	7718	1	Rương Chọn Đá Hồn Phòng Cụ Lv4
+		Item	9433	1	【Môn Khách】Đường Giản
+	12	Gold		10000	10000 Nguyên Bảo

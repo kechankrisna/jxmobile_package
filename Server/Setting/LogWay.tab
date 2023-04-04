@@ -1,0 +1,493 @@
+WayName	Value	Desc	Comment	Reason2	Round	kin	kinMem
+LogWay_DegreeCtrl	1		Mua số lần hoạt động	Key hoạt động			
+LogWay_Refinement	2		Tẩy luyện				
+LogWay_IdentifyEquip	3		Giám định trang bị				
+LogWay_ConsumePartnerStone	4		Tốn Đá Hồn Đồng Hành				
+LogWay_QuickBuy	5		Mua nhanh				
+LogWay_ClearRevengeCD	6		Xóa chờ báo thù				
+LogWay_WantedLongCost	7		Truy nã thời gian dài				
+LogWay_ResetFubenTimes	8		Tạo mới số lần phó bản				
+LogWay_ReviveInFuben	9		Hồi sinh trong phó bản				
+LogWay_AuctionBid	10		Giá đấu	Id số đơn hàng đấu giá			
+LogWay_AuctionBidOver	11		Giá chót	Id số đơn hàng đấu giá			
+LogWay_JoinKin	12		Vào Bang Hội			1	
+LogWay_KinGatherDrink	13	Lửa Trại Uống Rượu	Bang Hội Tụ Tập uống rượu				1
+LogWay_MapExploreReset	14		Tái lập tìm kiếm bản đồ				
+LogWay_MissionAwardAdd	15		Tăng số lần rút thưởng phó bản	Lần rút thưởng			
+LogWay_PartnerSkillLevelUp	17		Tăng cấp kỹ năng Đồng Hành				
+LogWay_ChangeName	18		Đổi tên người chơi				
+LogWay_Offline	19		Bạc tiêu hao bất thường (Bị đoạt)				
+LogWay_BuyRankBattleTimes	20		Mua số lần Võ Thần Điện				
+LogWay_BuyVipAward	21		Mua Quà Đặc Quyền【Kiếm Hiệp】				
+LogWay_SkillLevelUp	22		Tăng kỹ năng				
+LogWay_Strengthen	23		Cường hóa				
+LogWay_StoneCombine	24		Ghép Đá Quý				
+LogWay_CommerceTaskHelp	25	Giúp đỡ Nhiệm Vụ Thương Hội	Hỗ trợ nhiệm vụ Thương Hội				
+LogWay_UseHelper	27		Trợ chiến				
+LogWay_AddPartnerStone	28		Nhận Đá Hồn Đồng Hành				
+LogWay_QuickBuyRecu	29		Mua nhanh thất bại				
+LogWay_ChuangGongSend	30	Truyền Công	Truyền công				
+LogWay_RobCoinAddHate	31		Đoạt Bạc				
+LogWay_DungeonMgrKill	32		ở Động Thần Bí diệt 				
+LogWay_BidFail	33		Đấu giá thất bại	Id số đơn hàng đấu giá			
+LogWay_BidOverFail	34		Đấu giá chót thất bại				
+LogWay_CreateKin	35		Lập Bang Hội			1	
+LogWay_KinDonate	36	Góp Bang Hội	Góp Bang Hội				1
+LogWay_KinGatherAward	37	Lửa Trại Bang Hội	Thưởng Bang Hội Tụ Tập				
+LogWay_KinRobberFirstKill	38		Lần đầu diệt Bang Hội Đạo Tặc				
+LogWay_KinRobber	39		Diệt Bang Hội Đạo Tặc				
+LogWay_MoneyTreeShake	40	Rung Cây Tiền	Rung Cây Tiền				
+LogWay_RankBattle_BASE_AWARD	42	Võ Thần Điện	Thưởng cơ bản Võ Thần Điện				
+LogWay_RankBattle_WIN_AWARD	43	Võ Thần Điện	Thưởng thắng Võ Thần Điện				
+LogWay_Recharge	44		Nạp				
+LogWay_BuyMonthCard	45		Thẻ Tháng				
+LogWay_BuyWeekCard	46		Thẻ Tuần				
+LogWay_GrowInvestAward	47		Đầu Tư	nGroupIndex*1000+nIndex			
+LogWay_ShopSell	48		Bán ở Cửa Hàng				
+LogWay_FinishCommerceTask	49	Nhiệm Vụ Thương Hội	Xong nhiệm vụ Thương Hội				
+LogWay_CommerceTaskDoHelp	50	Giúp đỡ Nhiệm Vụ Thương Hội	Hỗ trợ nhiệm vụ Thương Hội				
+LogWay_JuBaoPenTakeMoney	51		Nhận Tụ Bảo Bồn				
+LogWay_OpenLightStone	52		Phụ ma vũ khí				
+LogWay_DebrisCreateStone	53		Ghép Mảnh Đá Quý				
+LogWay_PartnerStoneUse	54		Dùng Đá Hồn Đồng Hành				
+LogWay_RandomItem	55		Dùng đạo cụ ngẫu nhiên (Bảo Rương)	ID thiết lập thưởng đạo cụ			
+LogWay_AchievementAward	56	Thành Tựu	Thưởng thành tựu				
+LogWay_Battle	57	Chiến Trường	Chiến Trường		1		
+LogWay_FieldBoss	58	Danh Tướng	Danh Tướng		1		
+LogWay_FieldLeader	59	Thủ Lĩnh Dã Ngoại	Thủ Lĩnh Dã Ngoại		1		
+LogWay_EverydayTargetAward	60	Mục Tiêu Ngày	Thưởng Mục Tiêu Ngày				
+LogWay_CoinPick	61		Thẻ Bạc	id đạo cụ			
+LogWay_CoinTenPick	62		Bạc rút 10 lần	id đạo cụ,id đạo cụ,...(10)			
+LogWay_GoldPick	63		Thẻ Nguyên Bảo	id đạo cụ			
+LogWay_GoldTenPick	64		Nguyên Bảo rút 10 lần	id đạo cụ,id đạo cụ,...(10)			
+LogWay_GoldFreePick	65		Nguyên Bảo miễn phí rút thẻ				
+LogWay_Debris	66		Đoạt mảnh				
+LogWay_FactionBattleBox	67	Thi Đấu Môn Phái	Thi Đấu Môn Phái nhận thưởng				
+LogWay_PersonalFuben	68		Phó bản cá nhân	Id phó bản cá nhân	1		
+LogWay_RandomFuben	69	Lăng Tuyệt Phong	Lăng Tuyệt Phong		1		
+LogWay_TeamFubenOutAward	71	Bí Cảnh Tổ Đội	Thưởng rời bí cảnh tổ đội				
+LogWay_TeamFuben	72	Bí Cảnh Tổ Đội	Bí Cảnh Tổ Đội		1		
+LogWay_FindDungeonAward	73	Động Thần Bí	Thưởng Phát Hiện Động Thần Bí				
+LogWay_DungeonFubenOpenGateAward	74	Động Thần Bí	Thưởng mở Động Thần Bí				
+LogWay_KinNest	75		Sào Huyệt Bang Hội (Đóng)				
+LogWay_HeroChallenge	76	Khiêu Chiến Anh Hùng	Khiêu Chiến Anh Hùng		1		
+LogWay_AuctionOnDeal	77		Đấu giá thành công				
+LogWay_KinBuyGiftBox	78		Hộp Quà Bang Hội				1
+LogWay_GatherAnswer	79	Vấn đáp Bang Hội	Tham gia vấn đáp bang hội				
+LogWay_GatherAnswerRight	80	Vấn đáp Bang Hội	Vấn đáp bang hội chính xác				
+LogWay_TakeMailAttach	81		Nhận đính kèm thư				
+LogWay_ExplorationFuben	82	Do thám-	Do thám bản đồ		1		
+LogWay_MissionAward	83		Rút thưởng phó bản	Id rút thưởng (Loại phó bản x1000 + lần rút thưởng) 			
+LogWay_DungLeaderOnAttack	84	Động Thần Bí	Tham gia Thủ Lĩnh Động Thần Bí				
+LogWay_DungLeaderDeath	85	Động Thần Bí	Thủ Lĩnh Động Thần Bí tử vong				
+LogWay_DecomposePartner	86		Tách Đồng Hành				
+LogWay_PrayGainReward	87		Cầu phúc				
+LogWay_PunishTask	88	Nhiệm Vụ Trừng Ác	Nhiệm Vụ Trừng Ác		1		
+LogWay_QunYingHui	89	Quần Anh Hội	Quần Anh Hội		1		
+LogWay_RankBattleAward_Rank	90	Võ Thần Điện	Thưởng hạng Võ Thần Điện				
+LogWay_TakeMonthCardAward	91		Thưởng Nhận Thẻ Tháng				
+LogWay_TakeWeekCardAward	92		Thưởng Nhận Thẻ Tuần				
+LogWay_CommerceTaskCommitItem	93	Nhiệm Vụ Thương Hội	Đạo cụ trả nhiệm vụ Thương Hội				
+LogWay_KinTaskOnFinish	95		Hoàn thành nhiệm vụ Bang Hội (Đóng) 				
+LogWay_Task	96	Chính Tuyến	Chính Tuyến	ID nhiệm vụ			
+LogWay_SubTask	97	Phụ Tuyến	Phụ Tuyến	ID nhiệm vụ			
+LogWay_ActivityQuestion	98	Hoạt động Vấn Đáp	Hoạt động Vấn Đáp		1		
+LogWay_GetLoginAwards	99		Đăng nhập nhận thưởng				
+LogWay_SignInAwardNormal	100		Thưởng điểm danh thường				
+LogWay_SignInAwardVip	101		Thưởng điểm danh【Kiếm Hiệp】				
+LogWay_ComposeItem	103		Ghép đạo cụ				
+LogWay_DebrisMerge	104		Ghép Mảnh Trang Bị				
+LogWay_ShopBuy	106		Mua ở Cửa Hàng	Id đạo cụ Nguyên Bảo tương ứng, id thương phẩm đạo cụ tương ứng			
+LogWay_StoneCombine	107		Ghép Đá Quý				
+LogWay_InsetGetOrg	108		Đổi đá khảm				
+LogWay_UseItem	109		Dùng đạo cụ				
+LogWay_CangBaoTuWaBao	110	Tàng Bảo Đồ	Tàng Bảo Đồ-Đào Kho Báu		1		
+LogWay_OpenCaseItem	111		Rương Chìa Khóa				
+LogWay_FinishHonorLevel	112		Tăng cấp Quân Hàm				
+LogWay_ComposeUse	113		Ghép đạo cụ tốn				
+LogWay_DebrisAvoidRob	114		Đoạt mảnh miễn chiến				
+LogWay_SweepFuben	115		Càn quét phó bản				
+LogWay_PartnerUseEquip	116		Trang bị Đồng Hành dùng				
+LogWay_PartnerUseExpItem	117		Đạo cụ EXP Đồng Hành dùng				
+LogWay_StrengthenBreak	118		Đột phá cường hóa				
+LogWay_DoStrengthen	119		Cường hóa				
+LogWay_QuickCombie	121		Ghép nhanh Đá Hồn				
+LogWay_OnInset	122		Khảm Đá Hồn				
+LogWay_QuickInset	123		Khảm nhanh Đá Hồn				
+LogWay_CommerceTask	124	Nhiệm Vụ Thương Hội	Nhiệm Vụ Thương Hội		1		
+LogWay_TaskItem	125		Đạo cụ tiêu hao nhiệm vụ				
+LogWay_CodeAward	126		Nhận thưởng Code Quà				
+LogWay_GMGlobalMail	127		Thư Toàn Cuộc				
+LogWay_GMPersonMail	128		Thư Cá Nhân				
+LogWay_GMCompenMail	129		Thư Đền Bù				
+LogWay_GMGlobalCompenMail	130		Thư Đền Bù Toàn Cuộc				
+LogWay_KinBattle_Win	131	Bang Hội Chiến	Bang Hội Chiến thắng lợi				
+LogWay_KinBattle_Fail	132	Bang Hội Chiến	Bang Hội Chiến thất bại				
+LogWay_KinBattle_Draw	133	Bang Hội Chiến	Bang Hội Chiến hòa				
+LogWay_TeamBattle	134	Thông Thiên Tháp	Thông Thiên Tháp		1		
+LogWay_FixExpNpc	135		EXP cố định dã ngoại				
+LogWay_Exp_Death	136		Tử vong trừ EXP				
+LogWay_ChuangGongGet	137	Truyền Công	Được truyền công				
+LogWay_KinEscort	138	Vận Tiêu	Vận Tiêu				1
+LogWay_Guohuo	139		Lửa Trại				
+LogWay_XiuLian	140	Luyện Công Ngoài Thành	Luyện Công Ngoài Thành		1		
+LogWay_DungeonFuben	141	Động Thần Bí	Động Thần Bí		1		
+LogWay_Revenge	142		Báo thù		1		
+LogWay_Wanted	143	Giúp đỡ Truy Nã	Truy nã		1		
+LogWay_BossFight	144	Minh Chủ Võ Lâm	Khiêu chiến Võ Minh Chủ-Tấn công minh chủ				
+LogWay_BossRob	145	Minh Chủ Võ Lâm	Khiêu chiến Võ Minh Chủ-Tranh đoạt				
+LogWay_Boss	146	Minh Chủ Võ Lâm	Khiêu Chiến Võ Minh Chủ		1		
+LogWay_WhiteTiger	147	Bạch Hổ Đường	Bạch Hổ Đường		1		
+LogWay_NpcDropAward	148		npc rơi ra				
+LogWay_GatherDrink	149	Lửa Trại Bang Hội	Bang Hội Tụ Tập uống rượu				
+LogWay_FirstLogin	150		Đăng nhập lần đầu				
+LogWay_RoleLevelUp	151		Tăng cấp nhân vật				
+LogWay_SkillPointBook	152		Sách Điểm Kỹ Năng				
+LogWay_IdipDoDelExpReq	153		Back-end tự điều chỉnh thay đổi EXP				
+LogWay_IdipDoDelItemReq	154		Back-end tự điều chỉnh đổi đạo cụ				
+LogWay_IdipDoSendAttachMailReq	155		Back-end tự điều chỉnh gửi thư hệ thống có đính kèm				
+LogWay_IdipDoSendItemReq	156		Thư gửi yêu cầu nhiều đạo cụ				
+LogWay_MarketStallCostMoneyBuy	157		Mua vật phẩm bày bán tiêu hao	ID vật phẩm bày bán			
+LogWay_MarketStallCostItem	158		Trừ đạo cụ bày bán				
+LogWay_MarketStallCancelItem	159		Gỡ đạo cụ bày bán				
+LogWay_MarketStallGetMoney	160		Tiền hàng nhận khi bày bán				
+LogWay_MarketStallGetItem	161		Đạo cụ mua từ bày bán				
+LogWay_MarketUpdateItemCost	162		Trong thời gian chờ bày bán tạo mới danh sách vật phẩm trừ tiền				
+LogWay_AdventureFuben	163	Sơn Tặc Mật Quật	Sơn Tặc Mật Quật		1		
+LogWay_FactionBattle	164	Thi Đấu Môn Phái	Thi Đấu Môn Phái		1		
+LogWay_KinBattle	165	Bang Hội Chiến	Bang Hội Chiến		1		1
+LogWay_RankBattle	166	Võ Thần Điện	Võ Thần Điện		1		
+LogWay_PersonalAuction	167		Vật phẩm đấu giá cá nhân trả lại hoặc nhận được 				
+LogWay_EntityComposeConsume	168		Tiêu hao nguyên liệu ghép đạo cụ				
+LogWay_EntityComposeAdd	169		Đạo cụ tăng khi ghép				
+LogWay_DaoBaoZaiAward	170	Tàng Bảo Đồ-Cao	Thưởng Tàng Bảo Đồ-Cao-Đào Bảo Tặc				
+LogWay_ValueComposeAdd	171		Ghép đạo cụ				
+LogWay_KinTrainNpcAward	172	Thí Luyện Bang Hội	npc Thí Luyện Bang Hội rơi				
+LogWay_KinTrainExChange	173	Thí Luyện Bang Hội	Rương Đổi Tiền Cổ				
+LogWay_KinGather	174	Lửa Trại Bang Hội	Bang Hội Tụ Tập		1		1
+LogWay_ChuangGong	175	Truyền Công	Truyền Công		1		
+LogWay_LeaveKin	176		Rời Bang Hội			1	
+LogWay_DeleteKin	177		Giải tán bang hội			1	
+LogWay_DeleteKinImmediately	178		Giải tán bang hội			1	
+LogWay_DeleteKinCombine	179		Ghép/giải tán bang hội			1	
+LogWay_KinBuildingLevelUp	180		Tăng cấp Bang Hội			1	
+LogWay_KinAddPrestige	181		Uy danh bang hội thay đổi			1	
+LogWay_KinAddContribution	182		Tăng cống hiến Bang Hội			1	
+LogWay_KinTrain	183	Thí Luyện Bang Hội	Thí Luyện Bang Hội		1		1
+LogWay_ReturnGold2Player	184		Chi trả thất bại sẽ hoàn trả Nguyên Bảo				
+LogWay_SyncOuterGold	185		Đồng bộ ủy thác tiền tệ				
+LogWay_IdipDoDelDiamondReq	186		Biến đổi Nguyên Bảo thủ công backend				
+LogWay_IdipDoDelMoneyReq	187		Back-end tự điều chỉnh tiền tệ				
+LogWay_KinSalary	188		Lương Bang Hội (Bỏ)				
+LogWay_RemoveInset	189		Tách Khảm	ID đạo cụ tách			
+LogWay_OnHookFree	190		Treo máy rời mạng miễn phí nhận EXP				
+LogWay_OnHookPay	191		Treo máy rời mạng trả phí nhận EXP				
+LogWay_ResetSkill	192		Tái lập kỹ năng				
+LogWay_KinRedBag	193	Lì Xì	Lì Xì				
+LogWay_SendGift	194	Tặng Hoa Hồng/Cỏ May Mắn	Tặng Hoa Hồng hoặc Cỏ May Mắn				
+LogWay_PartnerUseProtentialItem	195		Dùng Tư Chất Đơn				
+LogWay_PartnerUseSkillBook	196		Dùng Sách Kỹ Năng				
+LogWay_SendGoldFail	197		Hoàn trả khi tặng Nguyên Bảo thất bại				
+LogWay_PartnerUseWeapon	198		Dùng vũ khí bổn mạng đồng hành				
+LogWay_ChooseItem	199		Chọn Đạo cụ				
+LogWay_ExchangeBattleBox	200		Vinh dự Chiến Trường đổi Rương Chiến Trường				
+LogWay_EquipMaker	201		Binh Giáp				
+LogWay_PartnerReInit	202		Tẩy tủy Đồng Hành				
+LogWay_AuctionGold	203		Lợi tức đấu giá				
+LogWay_SeriesFuben	204		Thí Luyện Giang Hồ				
+LogWay_KinTrainCommon	205	Thí Luyện Bang Hội	Thí Luyện Bang Hội-Thường				
+LogWay_OneDayCard	206		Quà Lớn 5,000 VNĐ	nEndTimeKey			
+LogWay_RandomBoss	207		Tàng Bảo Đồ-Boss ngẫu nhiên				
+LogWay_IdipDoUpdateMoneyReq	208		AQ backend thao tác thay đổi tiền tệ				
+LogWay_IdipDoUpdateDiamondReq	209		AQ backend thao tác biến đổi Nguyên Bảo				
+LogWay_IdipAqDoSendMsgReq	210		AQ backend thao tác gửi thư				
+LogWay_SupplementAward	211		Nhận bù 				
+LogWay_KinAddFound	212		Tăng Quỹ bang hội			1	
+LogWay_QQVIPEveryDayReward	213		Thưởng Ngày Thành Viên VLTKm				
+LogWay_QQSVIPEveryDayReward	214		Thưởng Ngày SVIP				
+LogWay_QQVIPGreenReward	215		Thưởng Tân Thủ Thành Viên VLTKm				
+LogWay_QQSVIPGreenReward	216		Thưởng Tân Thủ SVIP				
+LogWay_IdipDoDelFriendReq	217		Back-end tự điều chỉnh đổi đồng hành				
+LogWay_IdipDoUpdatHonhrContributeReq	218		Back-end tự điều chỉnh đổi vinh dự cống hiến				
+LogWay_IdipDoMailSendHonhrContributeReq	219		Back-end tự điều chỉnh gửi vinh dự cống hiến qua thư				
+LogWay_MarketStallCostMoneyUpdatePrice	220		Phí thủ tục cập nhật vật phẩm bày bán mới				
+LogWay_MarketStallCostMoneyNewSell	221		Phí thủ tục bày bán vật phẩm mới				
+LogWay_FriendGift	222		Quà tặng hảo hữu				
+LogWay_MiJi	223		Bí Kíp				
+LogWay_OnHookUseBaiJuWan	224		Dùng Bạch Câu Hoàn hoặc Đại Bạch Câu Hoàn nhận EXP				
+LogWay_FactionMonkey	225		Môn Phái Đại Sư Huynh				
+LogWay_KillFieldMapNpc	226	Luyện Công Ngoài Thành	Diệt Quái Tinh Anh-Dã Ngoại				
+LogWay_WhiteTigerFuben_FF	227	Bạch Hổ Đường	Bạch Hổ Đường-Vào tầng đầu				
+LogWay_WhiteTigerFuben_OF	228	Bạch Hổ Đường	Bạch Hổ Đường-Vào tầng khác				
+LogWay_WhiteTigerFuben_BOSS	229	Bạch Hổ Đường	Diệt BOSS Bạch Hổ Đường				
+LogWay_DoSendGoldMailAttachVipExp	230		Thư gửi Nguyên Bảo đồng thời kèm yêu cầu EXP VIP tương ứng				
+LogWay_DoSendAttributeFriend	231		Thư gửi yêu cầu Đồng Hành thuộc tính cụ thể				
+LogWay_AddFriend	232		Thêm bạn thành công				
+LogWay_DelFriend	233		Xóa hảo hữu thành công				
+LogWay_DomainBattle	234		Công Thành Chiến				
+LogWay_DomainBattleMaster	235		Thưởng thành chính Công Thành Chiến				
+LogWay_LevelRankActivity	236		Thưởng hạng cấp				
+LogWay_PowerRankActivity	237		Thưởng hạng lực chiến				
+LogWay_EquipExchage	238		Thu thập trang bị				
+LogWay_ChangeColor	239		Nhuộm Ngoại Trang				
+LogWay_ActDuanWuJie	240		Hoạt động Đoan Ngọ				
+LogWay_KinPrestigeAutoReduce	241		Uy danh bang hội suy giảm				
+LogWay_KinSalaryProfit	242		Lương Quản Lý Bang Hội				
+LogWay_KinCostFound	243		Tiêu hao quỹ xây dựng Bang Hội				
+LogWay_TimeOut	244		Đạo cụ quá hạn				
+LogWay_IdipDoSendNoAttachToDesignPlayerMailReq	245		Yêu cầu gửi thư không đính kèm cho tất cả người chơi của máy chủ chỉ định				
+LogWay_FirstRechargeAward	246		Quà Nạp Lần Đầu				
+LogWay_IdipDoSendAttachMailToDesignPartionLevelPlayerReq	247		Yêu cầu gửi thư đền bù có đính kèm cho người chơi cấp chỉ định ở máy chủ chỉ định				
+LogWay_ActivyRechargeCard	248		Hoạt động Thẻ Tuần Tháng				
+LogWay_MarketStallBuyFailSendGold	249		Mua từ Bày Bán thất bại, hoàn trả Nguyên Bảo				
+LogWay_ChangeKinName	250		Sửa tên bang hội				
+LogWay_CollectionSystem	251		Hệ thống thu thập Thẻ				
+LogWay_PartnerCallPartner	252		Chiêu mộ Đồng Hành				
+LogWay_ExchangeSeverSend	253		Đổi bồi thường				
+LogWay_SummerGift	254		Hoạt động Tặng Quà Ngày Hè				
+LogWay_NewPackageGift	255		Đổi phần thưởng				
+LogWay_ChangeFaction	256		Chuyển phái				
+LogWay_EfunAttachMail	257		Thư thưởng				
+LogWay_HSLJGuessing	258		Đoán Hoa Sơn Luận Kiếm				
+LogWay_ImperialTomb_Enter_Boss	259	Tần Lăng	Vào phòng thủ lĩnh				
+LogWay_ImperialTomb_Leave	260	Tần Lăng	Thoát Hoàng Lăng				
+LogWay_TS_Report	261	Sư Đồ	Hồi báo mục tiêu				
+LogWay_Qixi	262		Sự kiện Tháng 11				
+LogWay_HSLJPreAward	263		Thưởng Vòng Loại Hoa Sơn Luận Kiếm				
+LogWay_HSLJFinalsAward	264		Thưởng Chung Kết Hoa Sơn Luận Kiếm				
+LogWay_VipAwardBoxExchange	265		Rương Chọn Đá Hồn VIP				
+LogWay_TS_Graduate	266	Sư Đồ	Xuất Sư				
+LogWay_GatherBox	267		Hoạt động chào mừng mở cấp tối đa				
+LogWay_Money_Debt_Add	268		Nợ				
+LogWay_Money_Debt_Cost	269		Trả nợ				
+LogWay_RechargeSumAct	270		Hoạt động tích lũy tiêu phí				
+LogWay_BindPhoneReward	271		Thưởng khóa di động				
+LogWay_InviteFriendReward	272		Thưởng mời hảo hữu				
+LogWay_MiJiUpgrade	273		Tăng bậc Bí Kíp				
+LogWay_MiJiTuPo	274		Đột phá Bí Kíp				
+LogWay_RenownShop	275	Tiệm Danh Vọng	Tiệm Danh Vọng				
+LogWay_GoldEquipEvo	276		Tiến hóa trang bị hoàng kim				
+LogWay_TrainEquipAttri	277		Bồi dưỡng thuộc tính 				
+LogWay_ImperialTomb_Normal_Boss	278	Tần Lăng	Thủ Lĩnh Mật Thất				
+LogWay_ImperialTomb_Boss	279	Tần Lăng	Thủ Lĩnh				
+LogWay_ImperialTomb_Box	280	Tần Lăng	Rương Mật Thất				
+LogWay_HSLJPreGame	281		Đấu Vòng Loại Hoa Sơn Luận Kiếm				
+LogWay_HSLJFinalsGame	282		Đấu Chung Kết Hoa Sơn Luận Kiếm				
+LogWay_RegressionPrivilege	283		Đặc Quyền				
+LogWay_ImperialTomb_Minion	284	Tần Lăng	Quái nhỏ				
+LogWay_ImperialTomb_Leader	285	Tần Lăng	Thủ Lĩnh Thường				
+LogWay_IdIpAddVipExp	286		idip tăng EXP VIP				
+LogWay_ImperialTomb_Send_Ticket	287	Tần Lăng	Trong ngày mở tặng vé vào cổng				
+LogWay_ZhongQiuJie	288		Trung Thu				
+LogWay_ImperialTomb_Normal_Attend	289	Tần Lăng	Thời gian tham gia treo máy				
+LogWay_ImperialTomb_Emperor_Attend	290	Tần Lăng	Thời gian tham gia BOSS				
+LogWay_XiuLianXinDeBook	291	Sách Tâm Đắc	Sách Tâm Đắc				
+LogWay_GoldEquipUpgrade	292		Tăng bậc trang bị Hoàng Kim				
+LogWay_SendMailGift	293	Tặng quà	Tặng quà qua thư				
+LogWay_JiangQuan	294	Vé Thưởng	Đạo cụ Vé Thưởng				
+LogWay_ChouJiangDay	295	Rút Thưởng Năm Mới	Phần thưởng rút thưởng ngày				
+LogWay_ChouJiangBig	296	Thưởng Lớn Nguyên Tiêu	Phần thưởng thưởng lớn				
+LogWay_IdentifyItem	297	Giám định Đạo cụ	Giám định				
+LogWay_JuanZhou	298	Quyển Nhiệm Vụ	Quyển Nhiệm Vụ				
+LogWay_JXSH	299	Cẩm Tú Sơn Hà	Cẩm Tú Sơn Hà				
+LogWay_ExchangeItem	300		Đổi đạo cụ				
+LogWay_OnHookSpecialPay	301		Chưa đạt VIP nhận Đại Bạch Câu Hoàn				
+LogWay_ShanHeSheJiTu	302		Bản Đồ Sơn Hà Xã Tắc				
+LogWay_InDifferBattle	303	Tâm Ma Ảo Cảnh	Tâm Ma Ảo Cảnh				
+LogWay_SendBless	304		Chúc Phúc Có Quà				
+LogWay_WeekendQuestion	305		Hoạt động năng động cuối tuần				
+LogWay_WeekendQuestionAllRight	306		Thưởng trong hoạt động năng động cuối tuần				
+LogWay_WeekendQuestionCompleted	307		Thưởng kết thúc hoạt động năng động cuối tuần				
+LogWay_SwornFriends	308	Kết Bái	Kết Bái				
+LogWay_Idioms	309	Hữu Duyên Tương Hội	Hữu Duyên Tương Hội				
+LogWay_ContinualRechargeAct	310		Hoạt động nạp liên tục				
+LogWay_ActGanEnJie	311		Hoạt động Lễ Tạ Ơn				
+LogWay_ActDefend	312		Thủ Vệ Danh Hiệp				
+LogWay_QQVIPOpenReward	313		Thưởng Mở Thành Viên VLTKm				
+LogWay_QQSVIPOpenReward	314		Thưởng Mở SVIP				
+LogWay_ChristmasGift	315		Hoạt động Giáng Sinh				
+LogWay_LiHeChuanQing	316		Hộp Quà Tình Yêu				
+LogWay_InDifferBattleAward	317	Tâm Ma Ảo Cảnh	Thưởng Tâm Ma Ảo Cảnh				
+LogWay_RechargeAllDayCardAct	318		Quà Mỗi Ngày-Siêu				
+LogWay_SnowmanAct	319	Hoạt động Tết Trồng Cây	Hoạt động Tết Trồng Cây				
+LogWay_NYSnowmanActBox	320	Người Tuyết Năm Mới	Người Tuyết Năm Mới				
+LogWay_DaXueZhang	321	Ném Tuyết	Ném Tuyết				
+LogWay_ChatAward	322		Lì Xì Khẩu Lệnh				
+LogWay_WinterAct	323	Tết Đông Chí	Tết Đông Chí				
+LogWay_RecordStone	324		Đá Khắc Chữ				
+LogWay_HSLJNewsMail	325		Tin Tức Hoa Sơn Luận Kiếm				
+LogWay_DirectLevelUp	326		Hệ thống tăng cấp				
+LogWay_BiWuZhaoQin	327		Tỉ Võ Chiêu Thân				
+LogWay_TS_CustomTasks	328	Sư Đồ	Thưởng hoàn thành công bố nhiệm vụ				
+LogWay_WishAct	329	Hoạt Động Cầu Nguyện	Hoạt Động Cầu Nguyện				
+LogWay_TS_Dismiss	330	Sư Đồ	Hủy quan hệ				
+LogWay_TS_CancelDismiss	331		Bỏ hủy quan hệ				
+LogWay_FriendRecall_Renown	332	Kêu Gọi Người Chơi	Nhận Danh Vọng				
+LogWay_PartnerAwareness	333		Đồng Hành Thức Tỉnh				
+LogWay_NewYearLoginAct	334		Đăng Nhập Nhận Thưởng				
+LogWay_MonsterNianAct	335	Niên Thú	Thưởng Niên Thú				
+LogWay_ReduceFatigueAct	336		Hoạt động giảm mệt mỏi				
+LogWay_NewYearBuyGift	337		Quà Tân Niên	nEndTimeKey			
+LogWay_ChangeTitleText	338		Sửa danh hiệu tự chọn				
+LogWay_RegressionPrivilege_O2N	339		Hoạt động người chơi cũ trở về máy chủ mới nhận được Nguyên Bảo				
+LogWay_QingRenJie	340	Lễ Tình Nhân	Lễ Tình Nhân				
+LogWay_NewServerPrivilege	341		Hoạt động Quà Trở Về Máy Chủ Mới				
+LogWay_IdipDoSendAttachMailExpireReq	342		IDIP gửi đạo cụ có thời hạn				
+LogWay_WomensDay	343		Lễ Nữ Hiệp				
+LogWay_WomanAct	344	Hoạt Động Ấn Tượng 8/3	Hoạt Động Ấn Tượng 8/3				
+LogWay_BuyDirectEnhance	345		Mua đạo cụ vận hành ổn định				
+LogWay_ArborDayCure	346		Tết Trồng Cây Tiết kiệm				
+LogWay_TreeAct	347		Tết Trồng Cây Tăng thu				
+LogWay_FurnitureMake	348		Chế tạo gia cụ				
+LogWay_HouseLevelUp	349		Tăng cấp Gia Viên				
+LogWay_Muse	350		Tịnh Tâm				
+LogWay_MakeZhenYuan	351		Chế tạo Chân Nguyên				
+LogWay_QingMingAct	352		Tiết Thanh Minh				
+LogWay_ZhenYuanSkill	353		Tẩy kỹ năng Chân Nguyên				
+LogWay_HousePlant	354		Trồng cây				
+LogWay_PlantCure	355	Trợ giúp bảo dưỡng Gia Viên	Chăm sóc cây				
+LogWay_PlantCrop	356		Thu hoạch cây trồng				
+LogWay_SellFurniture	357		Bán Nội Thất				
+LogWay_IdipDoSendItemWhiteTimeReq	358		IDIP đạo cụ gửi qua Thư có thời hạn				
+LogWay_IdipDoValueNimbusReq	359		IDIP Sửa Nguyên Khí				
+LogWay_IdipDoValueRechargeReq	360		IDIP Sửa Ngân Sức				
+LogWay_UseEnergyContainer	361		Dùng Bình Nguyên Khí				
+LogWay_UseEnergyItem	362		Dùng đạo cụ Nguyên Khí				
+LogWay_BuyDressMoney	363		Mua ngân sức				
+LogWay_WulinHonor	364		Vinh Dự Võ Lâm				
+LogWay_LoverRecallAct	365		Duyên Xưa				
+LogWay_GetBattleQualify	366		Nhận tư cách Chiến Trường				
+LogWay_BeautyPageant_Vote	367		Võ Lâm Đệ Nhất Mỹ Nhân-Bỏ phiếu				
+LogWay_BeautyPageant_Recharge	368		Võ Lâm Đệ Nhất Mỹ Nhân-Nạp thẻ tặng đạo cụ bỏ phiếu				
+LogWay_BeautyPageant_SignUp	369		Võ Lâm Đệ Nhất Mỹ Nhân-Báo danh				
+LogWay_NpcBiWuZhaoQin	370		NPC Tỉ Võ Chiêu Thân				
+LogWay_ActivityFuben	371		Phó bản hoạt động				
+LogWay_BeautyPageant_EverydayAward	372		Miss Võ Lâm Truyền Kỳ Mobile năng động ngày 				
+LogWay_FathersDay	373		Ngày của cha				
+LogWay_WeddingFirework	374		Pháo Hoa				
+LogWay_WeddingTour	375		Diễu Hành Hôn Lễ				
+LogWay_GM	376		Thông qua GMWEB hoặc IDIP chấp hành				
+LogWay_WuLinDaHui	377		Đại Hội Võ Lâm				
+LogWay_IdipSendUnattchMail	378		Gửi thư cá nhân không đính kèm				
+LogWay_Wedding	379	Hôn lễ	Hôn lễ				
+LogWay_HouseDefend	380	Gia Viên Thủ Vệ	Gia Viên Thủ Vệ				
+LogWay_ActHonorLevelRank	381		Hoạt động Quân Hàm				
+LogWay_InDifferBattleUpgrade	382		Tiến cấp Tâm Ma				
+LogWay_ImperialTomb_StayTime	383	Tần Lăng	Thời gian treo máy thay đổi				
+LogWay_Marriage_ChangeTitle	384	Kết Hôn	Sửa danh hiệu				
+LogWay_Marriage_Memorial	385		Kỷ Niệm Kết Hôn				
+LogWay_Marriage_Dismiss	386	Ly hôn	Ly hôn				
+LogWay_Marriage_CashGift	387		Tặng Tiền mừng				
+LogWay_XueWeiLevelup	388		Xung huyệt				
+LogWay_Lottery_Award	389		Rút thưởng				
+LogWay_XueWeiUseProtentialItem	390		Dùng Tư Chất Đơn nhận Chân Khí				
+LogWay_WeddingBook	391		Thời hạn đính hôn				
+LogWay_WeddingWarnBookMail	392		Thư nhắc nhở đính hôn				
+LogWay_WeddingOverdueBookMail	393		Thư hết hạn đính hôn				
+LogWay_XueWeiResetAward	394		Thiết lập huyệt vị				
+LogWay_JingMaiOpenAward	395		Mở hệ thống Kinh Mạch hoàn trả Chân Khí				
+LogWay_UseZhenQiItem	396		Dùng Chân Khí Đơn				
+LogWay_WeddingMarryAward	397		Thưởng Kết Hôn				
+LogWay_CrossBossFight	398	Minh Chủ Võ Lâm	Đánh Minh Chủ Khiêu Chiến Võ Minh Chủ Liên SV				
+LogWay_CrossBossRob	399	Minh Chủ Võ Lâm	Đoạt Khiêu Chiến Võ Minh Chủ Liên SV				
+LogWay_IdipDoReikiReq	400		IDIP sửa chân khí				
+LogWay_TeachersDay	401	Lễ Sư Đồ	Lễ Sư Đồ				
+LogWay_CollectAndRobClue	402		Hoạt động thu thập Mảnh Ngày Lễ				
+LogWay_InDifferBattleAwardMonth	403	Tâm Ma Ảo Cảnh Tháng	Thưởng Tâm Ma Ảo Cảnh Tháng				
+LogWay_InDifferBattleAwardSeason	404	Tâm Ma Ảo Cảnh Quý	Thưởng Tâm Ma Ảo Cảnh Quý				
+LogWay_JiziAct	405		Hoạt Động Hào Hiệp-Tìm Chữ				
+LogWay_DiscountCoupon	406		Phiếu Giảm Giá				
+LogWay_SendGiftMoonCake	407	Tặng Tình Vân Thu Nguyệt	Tặng Tình Vân Thu Nguyệt				
+LogWay_AwardBySexItem	408		Đạo cụ thưởng theo giới tính				
+LogWay_IdIpCostMoneyDept	409	idip trừ tiền có thể gây ra trạng thái thiếu nợ	idip trừ tiền có thể gây ra trạng thái thiếu nợ				
+LogWay_AuctionClosed	410		Đóng đấu giá				
+LogWay_ZhenFaQuestion	411		Thưởng Vấn Đáp NV Thí Luyện Trận Pháp				
+LogWay_ZhenFaAward	412		Thưởng nhiệm vụ Thí Luyện Trận Pháp				
+LogWay_ZhenFaOtherAward	413		Thưởng đồng đội Thí Luyện Trận Pháp				
+LogWay_ZhenFa	414		Trận Pháp				
+LogWay_QQInviteUnRegFriends	415		Thưởng mời hảo hữu đăng ký				
+LogWay_CombineKey	416		Ghép				
+LogWay_CommerceTaskAct	417		Hoạt động Nhiệm Vụ Thương Hội				
+LogWay_DongzhiAct	418		Hoạt động Đông Chí				
+LogWay_NewYearChris	419		Hoạt động Ngày Lễ				
+LogWay_ZhenFaOpenBoxAward	420		Mở Rương Thí Luyện Trận Pháp				
+LogWay_Item2BreakSkillMaxLv	421		Dùng đạo cụ đột phát giới hạn kỹ năng				
+LogWay_QYHCross	422		Quần Anh Hội Liên SV				
+LogWay_WldsTask	423	Võ Lâm Đại Sự	Võ Lâm Đại Sự				
+LogWay_QYHCrossWinAward	424		Thưởng thắng Quần Anh Hội Liên SV				
+LogWay_QYHCrossJoinAward	425		Thưởng n trận Quần Anh Hội Liên SV				
+LogWay_GFMGiftGiving	426		GFM tặng quà				
+LogWay_AppPackageGift	427		Quà App				
+LogWay_LabaAct	428	Giỗ Tổ Hùng Vương	Bánh Chưng Giỗ Tổ				
+LogWay_Avatar	429	Biến thân	Biến thân				
+LogWay_NewYearQAAct	430		Vấn Đáp Năm Mới				
+LogWay_IDIPAddItemByStr	431						
+LogWay_Pet	432	Thú Cưng	Thú Cưng				
+LogWay_InterConnExtGold	433	Trao đổi bồi thường thêm					
+LogWay_Uncompose	434	Tách đạo cụ					
+LogWay_MagicBowl	435	Tụ Bảo Bồn					
+LogWay_KinSecretFuben	436	Bí Cảnh Bang Hội					
+LogWay_JingMaiLevelUp	437	Kinh Mạch	Kinh Mạch				
+LogWay_GoodVoiceRecharge	438	The Voice_Nạp thẻ tặng	VLTK M Voice				
+LogWay_GoodVoice_Winner	439	Chiến thắng trong The Voice	VLTK M Voice				
+LogWay_GoodVoice_RankGlobal	440	Thưởng Hạng The Voice toàn máy chủ	VLTK M Voice				
+LogWay_BeautyPageant_Winner	441	Thưởng Hạng Bầu Chọn Mỹ Nhân	Bầu Chọn Mỹ Nhân Võ Lâm				
+LogWay_GoodVoice_TaoHuaRain	442	Thưởng Mưa Hoa Đào The Voice	VLTK M Voice				
+LogWay_GoodVoice_SignUp	443	Báo danh The Voice	VLTK M Voice				
+LogWay_GoodVoice_SemiFinalArea	444	Quán quân khu vực bán kết The Voice	VLTK M Voice				
+LogWay_GoodVoice_SemiFinalFaction	445	Quán quân môn phái bán kết The Voice	VLTK M Voice				
+LogWay_GoodVoice_Vote	446	Thưởng bỏ phiếu The Voice	VLTK M Voice				
+LogWay_MedalFightAct	447	Đoạt Huy Chương	Đoạt Huy Chương				
+LogWay_PlantCureHelpAct	448	Lao Động Vinh Quang	Lao Động Vinh Quang				
+LogWay_GoodVoiceVoteRank	449	Thưởng hạng bỏ phiếu cống hiến The Voice	VLTK M Voice				
+LogWay_GoodVoiceCommond	450	VLTK M Voice	VLTK M Voice				
+LogWay_GoodVoiceEveryTarget	451	Năng động mỗi ngày VLTK M Voice	VLTK M Voice				
+LogWay_GoodVoiceLGX	452	Chiến Đội VLTK M Voice Lâm Triều Hoa	VLTK M Voice				
+LogWay_GoodVoiceZLY	453	Chiến Đội VLTK M Voice Triệu Ân Đồng	VLTK M Voice				
+LogWay_DanceAct	454	Vũ Động Giang Hồ	Vũ Động Giang Hồ				
+LogWay_JueXue	455	Tuyệt Học	Tuyệt Học				
+LogWay_WorldCupAct	456	Cup Thế Giới	Cup Thế Giới				
+LogWay_JueDiAct	457	Tâm Ma Tuyệt Địa-Hoạt động	Tâm Ma Tuyệt Địa-Hoạt động				
+LogWay_KeyQuestFuben	458	Di Tích Tầm Bảo	Di Tích Tầm Bảo				
+LogWay_UnlockPartnerCardPos	459	Mở khóa ô Môn Khách	Môn Khách				
+LogWay_PartnerCardSendGift	460	Môn Khách Tặng Quà	Môn Khách				
+LogWay_KinEncounter	461	Bang Hội Chiến	Bang Hội Chiến				
+LogWay_PartnerCardVisitQuestion	462	Môn Khách	Phần thưởng Môn Khách trả lời câu hỏi	Phần thưởng Môn Khách trả lời câu hỏi			
+LogWay_PartnerCardDevil	463	Môn Khách	Thưởng Tâm Ma Môn Khách	Thưởng Tâm Ma Môn Khách			
+LogWay_PartnerCardTripFuben	464	Môn Khách	Môn Khách giúp đỡ phó bản	Môn Khách giúp đỡ phó bản			
+LogWay_PartnerCardTripFubenKill	465	Môn Khách	Môn Khách giúp đỡ phó bản diệt	Môn Khách giúp đỡ phó bản diệt			
+LogWay_PartnerCardTripFubenGate	466	Môn Khách	Phần thưởng Môn Khách giúp đỡ phó bản mở cửa	Phần thưởng Môn Khách giúp đỡ phó bản mở cửa			
+LogWay_PartnerCardActAward	467	Môn Khách	Thưởng Phái Môn Khách	Thưởng Phái Môn Khách			
+LogWay_ExchangeTicketAct	468	Đổi Phiếu					
+LogWay_DismissPartnerCard	469	Môn Khách	Bỏ Môn Khách	Bỏ Môn Khách			
+LogWay_PartnerCardActCost	470	Môn Khách	Phái Môn Khách tốn	Phái Môn Khách tốn			
+LogWay_PartnerCardSendRepeat	471	Môn Khách	Môn Khách hủy lặp lại	Môn Khách hủy lặp lại			
+LogWay_AlterWeddingPromise	472	Lời hứa	Sửa lời hứa kết hôn	Sửa lời hứa kết hôn			
+LogWay_KinDinnerParty	473	Tiệc Bang Hội	Tiệc Bang Hội				
+LogWay_JYFL	474	Kiếm Ý Phong Lưu	Kiếm Ý Phong Lưu				
+LogWay_KinDinnerPartyHelp	475	Nhiệm vụ Giúp Đỡ Tiệc	Nhiệm vụ Giúp Đỡ Tiệc				
+LogWay_IdipPartnerCard	476	Môn Khách	idip Môn Khách				
+LogWay_IdiomsTask	477	Nhiệm Vụ Tình Duyên	Nhiệm Vụ Tơ Duyên				
+LogWay_LoverTask	478	Nhiệm Vụ Tình Duyên	Nhiệm Vụ Tình Duyên				
+LogWay_WaiYiTry	479	Vân Thường Phục	Vân Thường Phục				
+LogWay_RentDrinkHouse	480	Tiệc Bang Hội	Tiệc Bang Hội				
+LogWay_Toy	481	Đồ chơi	Đồ chơi				
+LogWay_HousePeachWater	482	Tưới nước Cây Hoa Đào	Tưới nước Cây Hoa Đào				
+LogWay_HousePeachFertilizer	483	Bón phân Cây Hoa Đào	Bón phân Cây Hoa Đào				
+LogWay_HousePeachBringUp	484	Hộ trì Cây Hoa Đào	Hộ trì Cây Hoa Đào				
+LogWay_HousePeachTree	485	Dưỡng thành Cây Hoa Đào	Dưỡng thành Cây Hoa Đào				
+LogWay_DreamTask	486	Nhiệm Vụ Tình Duyên	Tình Duyên Mộng Cảnh				
+LogWay_KinActivityRankAct	487	Hạng Năng Động Bang	Hạng Năng Động Bang				
+LogWay_ShangShengDianActGold	488	Ta Muốn Đến Thịnh Điển	Ta muốn lợi tức hoạt động Thịnh Điển				
+LogWay_MaterialCollectAct	489	Ủ rượu	Ủ rượu				
+LogWay_ShangShengDianActItem	490	Ta Muốn Đến Thịnh Điển	Ta muốn Bạch Thư hoạt động Thịnh Điển				
+LogWay_JiangHuShengDian	491	Hoạt động Giang Hồ Thịnh Điển	Hoạt động Giang Hồ Thịnh Điển				
+LogWay_YinXingJiQingAct	492	Ngân Hạnh Gửi Tình	Ngân Hạnh Gửi Tình				
+LogWay_RechargeSumOpenBox	493	Rương Phúc Lộc Lễ Hội	Rương Phúc Lộc Lễ Hội				
+LogWay_AuctionGlobalBonus	494	Lợi tức toàn máy chủ	Lợi tức toàn máy chủ				
+LogWay_PartnerCardCompose	495	Ghép Môn Khách	Ghép Môn Khách				
+LogWay_KinDefendFuben	496	Bảo Vệ Quốc Gia	Bảo Vệ Quốc Gia				
+LogWay_ToyDragon	500	Đạo Cụ Nối Rồng	Đạo Cụ Nối Rồng				
+LogWay_RankBattleActAward	506	Võ Thần Điện	Thưởng tái lập Võ Thần Điện				
+LogWay_XingYiDouZhuanAct	507	Tinh Di Đấu Chuyển	Tinh Di Đấu Chuyển				
+LogWay_GetEventLoginAwards	508	Đăng Nhập Nhận Quà	Đăng Nhập Nhận Quà				

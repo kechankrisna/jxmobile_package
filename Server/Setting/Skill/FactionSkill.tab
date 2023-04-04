@@ -1,0 +1,301 @@
+Faction	SkillId	Desc	GainLevel	IsBaseSkill	BtnName	IconAltlas	BtnIcon	SortInUI	IsAnger	LevelUpGroup
+1	201	Thiên Vương Chùy Pháp	1	1	Attack	UI/Atlas/SkillIcon/TW_Skill.prefab	TianwangSkill_01	1		1
+1	214	Nhật Nguyệt Sơn Hà Toái	1		Skill5	UI/Atlas/SkillIcon/TW_Skill.prefab	Tianwang_nq01		1	13
+1	206	Nhất Kích Sát Thần	1		Skill2	UI/Atlas/SkillIcon/TW_Skill.prefab	TianwangSkill_02	2		2
+1	1013	Ngồi thiền	9		BtnDazuo	UI/Atlas/SkillIcon/SkillIcon.prefab	Skill_Meditation			
+1	1045	Khinh Công	3		SkillDodge	UI/Atlas/SkillIcon/SkillIcon.prefab	Skill_Dodge			
+1	210	Huyết Chiến Bát Phương	4		Skill1	UI/Atlas/SkillIcon/TW_Skill.prefab	TianwangSkill_04	3		3
+1	213	Kim Chung Tráo	10		Skill3	UI/Atlas/SkillIcon/TW_Skill.prefab	TianwangSkill_03	4		4
+1	209	Thiên Vương Chiến Ý	20			UI/Atlas/SkillIcon/TW_Skill.prefab	Tianwang_bd01	5		5
+1	208	Bá Vương Nộ Hống	30		Skill4	UI/Atlas/SkillIcon/TW_Skill.prefab	TianwangSkill_05	6		6
+1	224	Nhất Kỵ Đương Thiên	40			UI/Atlas/SkillIcon/TW_Skill.prefab	Tianwang_bd07	7		7
+1	229	Chùy Pháp-Cao	50			UI/Atlas/SkillIcon/TW_Skill.prefab	Tianwang_bd05	8		8
+1	240	Kinh Lôi Phá Thiên	60			UI/Atlas/SkillIcon/TW_Skill.prefab	Tianwang_bd08	9		9
+1	218	Phá Phủ Trầm Châu	70			UI/Atlas/SkillIcon/TW_Skill.prefab	Tianwang_bd03	10		10
+1	242	Thiên Vương Bản Sinh	80			UI/Atlas/SkillIcon/TW_Skill.prefab	Tianwang_bd04	11		11
+1	246	Khí Cái Bát Hoang	90			UI/Atlas/SkillIcon/TW_Skill.prefab	Tianwang_bd09	12		12
+2	301	Nga Mi Kiếm Pháp	1	1	Attack	UI/Atlas/SkillIcon/EM_Skill.prefab	EmeiSkill_01	1		1
+2	346	Băng Phách Hồng Liên Kiếp	1		Skill5	UI/Atlas/SkillIcon/EM_Skill.prefab	Emei_nq01		1	13
+2	310	Giang Hải Ngưng Ba	1		Skill2	UI/Atlas/SkillIcon/EM_Skill.prefab	EmeiSkill_04	2		2
+2	1013	Ngồi thiền	9		BtnDazuo	UI/Atlas/SkillIcon/SkillIcon.prefab	Skill_Meditation			
+2	1046	Khinh Công	3		SkillDodge	UI/Atlas/SkillIcon/SkillIcon.prefab	Skill_Dodge			
+2	312	Thiên Vũ Bảo Luân	4		Skill1	UI/Atlas/SkillIcon/EM_Skill.prefab	EmeiSkill_05	3		3
+2	306	Từ Hàng Phổ Độ	10		Skill3	UI/Atlas/SkillIcon/EM_Skill.prefab	EmeiSkill_02	4		4
+2	309	Kiếm Tâm Thông Minh	20			UI/Atlas/SkillIcon/EM_Skill.prefab	Emei_bd01	5		5
+2	308	Bạch Lộ Ngưng Sương	30		Skill4	UI/Atlas/SkillIcon/EM_Skill.prefab	EmeiSkill_03	6		6
+2	345	Băng Tâm Vân Thường	40			UI/Atlas/SkillIcon/EM_Skill.prefab	Emei_bd07	7		7
+2	323	Kiếm Pháp-Cao	50			UI/Atlas/SkillIcon/EM_Skill.prefab	Emei_bd05	8		8
+2	341	Phật Tâm Từ Hựu	60			UI/Atlas/SkillIcon/EM_Skill.prefab	Emei_bd02	9		9
+2	317	Miên Lý Tàng Châm	70			UI/Atlas/SkillIcon/EM_Skill.prefab	Emei_bd06	10		10
+2	343	Phật Pháp Vô Biên	80			UI/Atlas/SkillIcon/EM_Skill.prefab	Emei_bd03	11		11
+2	357	Thanh Tâm Phổ Thiện	90			UI/Atlas/SkillIcon/EM_Skill.prefab	Emei_bd08	12		12
+3	401	Đào Hoa Tiễn Thuật	1	1	Attack	UI/Atlas/SkillIcon/TH_Skill.prefab	TaohuaSkill_01	1		1
+3	427	Lạc Hoa Phần Tinh Diệm	1		Skill5	UI/Atlas/SkillIcon/TH_Skill.prefab	Taohua_nq01		1	13
+3	407	Phi Hỏa Lưu Tinh	1		Skill2	UI/Atlas/SkillIcon/TH_Skill.prefab	TaohuaSkill_03	2		2
+3	1013	Ngồi thiền	9		BtnDazuo	UI/Atlas/SkillIcon/SkillIcon.prefab	Skill_Meditation			
+3	1047	Khinh Công	3		SkillDodge	UI/Atlas/SkillIcon/SkillIcon.prefab	Skill_Dodge			
+3	410	Cửu Diệu Liên Châu	4		Skill1	UI/Atlas/SkillIcon/TH_Skill.prefab	TaohuaSkill_04	3		3
+3	406	Hỏa Phượng Liêu Nguyên	10		Skill3	UI/Atlas/SkillIcon/TH_Skill.prefab	TaohuaSkill_02	4		4
+3	409	Lưu Phong Hồi Tuyết	20			UI/Atlas/SkillIcon/TH_Skill.prefab	Taohua_bd01	5		5
+3	412	Xuyên Vân Phá Nguyệt	30		Skill4	UI/Atlas/SkillIcon/TH_Skill.prefab	TaohuaSkill_05	6		6
+3	443	Nghịch Chuyển Cửu Âm	40			UI/Atlas/SkillIcon/TH_Skill.prefab	Taohua_bd03	7		7
+3	420	Bách Bộ Xuyên Dương	50			UI/Atlas/SkillIcon/TH_Skill.prefab	Taohua_bd05	8		8
+3	441	Khinh Vân Tế Nguyệt	60			UI/Atlas/SkillIcon/TH_Skill.prefab	Taohua_bd04	9		9
+3	425	Dục Hỏa Trùng Sinh	70			UI/Atlas/SkillIcon/TH_Skill.prefab	Taohua_bd07	10		10
+3	442	Phượng Vũ Nghê Thường	80			UI/Atlas/SkillIcon/TH_Skill.prefab	Taohua_bd02	11		11
+3	462	Nguyệt Lạc Tinh Trầm	90			UI/Atlas/SkillIcon/TH_Skill.prefab	Taohua_bd08	12		12
+4	501	Tiêu Dao Thương Pháp	1	1	Attack	UI/Atlas/SkillIcon/XY_Skill.prefab	XiaoyaoSkill_01	1		1
+4	527	Hoàn Vũ Tiêu Dao Du	1		Skill5	UI/Atlas/SkillIcon/XY_Skill.prefab	Xiaoyao_nq01		1	13
+4	510	Bạch Hồng Quán Nhật	1		Skill2	UI/Atlas/SkillIcon/XY_Skill.prefab	XiaoyaoSkill_04	2		2
+4	1013	Ngồi thiền	9		BtnDazuo	UI/Atlas/SkillIcon/SkillIcon.prefab	Skill_Meditation			
+4	1048	Khinh Công	3		SkillDodge	UI/Atlas/SkillIcon/SkillIcon.prefab	Skill_Dodge			
+4	507	Thất Thám Xà Bàn	4		Skill1	UI/Atlas/SkillIcon/XY_Skill.prefab	XiaoyaoSkill_03	3		3
+4	506	Đẩu Chuyển Tinh Di	10		Skill3	UI/Atlas/SkillIcon/XY_Skill.prefab	XiaoyaoSkill_02	4		4
+4	509	Tiểu Vô Tướng Công	20			UI/Atlas/SkillIcon/XY_Skill.prefab	Xiaoyao_bd01	5		5
+4	513	Phong Quyển Tàn Vân	30		Skill4	UI/Atlas/SkillIcon/XY_Skill.prefab	XiaoyaoSkill_05	6		6
+4	522	Tam Nguyên Quy Nhất	40			UI/Atlas/SkillIcon/XY_Skill.prefab	Xiaoyao_bd07	7		7
+4	532	Thương Pháp-Cao	50			UI/Atlas/SkillIcon/XY_Skill.prefab	Xiaoyao_bd05	8		8
+4	516	Lăng Ba Vi Bộ	60			UI/Atlas/SkillIcon/XY_Skill.prefab	Xiaoyao_bd06	9		9
+4	541	Tiêu Dao Ngự Phong	70			UI/Atlas/SkillIcon/XY_Skill.prefab	Xiaoyao_bd02	10		10
+4	543	Duy Ngã Độc Tôn	80			UI/Atlas/SkillIcon/XY_Skill.prefab	Xiaoyao_bd03	11		11
+4	561	Bi Tô Thanh Phong	90			UI/Atlas/SkillIcon/XY_Skill.prefab	Xiaoyao_bd08	12		12
+5	601	Võ Đang Kiếm Pháp	1	1	Attack	UI/Atlas/SkillIcon/WD_Skill.prefab	WudangSkill_01	1		1
+5	631	Vạn Kiếm Phong Thiên Quyết	1		Skill5	UI/Atlas/SkillIcon/WD_Skill.prefab	Wudang_nq01		1	13
+5	609	Vô Ngã Vô Kiếm	1		Skill2	UI/Atlas/SkillIcon/WD_Skill.prefab	WudangSkill_02	2		2
+5	1013	Ngồi thiền	9		BtnDazuo	UI/Atlas/SkillIcon/SkillIcon.prefab	Skill_Meditation			
+5	1049	Khinh Công	3		SkillDodge	UI/Atlas/SkillIcon/SkillIcon.prefab	Skill_Dodge			
+5	615	Thiên Địa Vô Cực	4		Skill1	UI/Atlas/SkillIcon/WD_Skill.prefab	WudangSkill_05	3		3
+5	613	Tọa Vọng Vô Ngã	10		Skill3	UI/Atlas/SkillIcon/WD_Skill.prefab	WudangSkill_04	4		4
+5	614	Mê Tung Huyễn Ảnh	20			UI/Atlas/SkillIcon/WD_Skill.prefab	Wudang_bd01	5		5
+5	611	Nhân Kiếm Hợp Nhất	30		Skill4	UI/Atlas/SkillIcon/WD_Skill.prefab	WudangSkill_03	6		6
+5	645	Chân Võ Thất Tiệt	40			UI/Atlas/SkillIcon/WD_Skill.prefab	Wudang_bd04	7		7
+5	619	Kiếm Pháp-Cao	50			UI/Atlas/SkillIcon/WD_Skill.prefab	Wudang_bd03	8		8
+5	617	Thái Nhất Chân Khí	60			UI/Atlas/SkillIcon/WD_Skill.prefab	Wudang_bd02	9		9
+5	630	Huyền Thiên Tâm Pháp	70			UI/Atlas/SkillIcon/WD_Skill.prefab	Wudang_bd07	10		10
+5	644	Thái Cực Vô Ý	80			UI/Atlas/SkillIcon/WD_Skill.prefab	Wudang_bd06	11		11
+5	665	Thất Tinh Quyết	90			UI/Atlas/SkillIcon/WD_Skill.prefab	Wudang_bd08	12		12
+6	701	Thiên Nhẫn Thích Sát Thuật	1	1	Attack	UI/Atlas/SkillIcon/TR_Skill.prefab	TianrenSkill_01	1		1
+6	740	Thiên Ma Ảnh Ảo Sát	1		Skill5	UI/Atlas/SkillIcon/TR_Skill.prefab	Tianren_nq01		1	13
+6	708	Tử Vong Hồi Toàn	1		Skill2	UI/Atlas/SkillIcon/TR_Skill.prefab	TianrenSkill_03	2		2
+6	1013	Ngồi thiền	9		BtnDazuo	UI/Atlas/SkillIcon/SkillIcon.prefab	Skill_Meditation			
+6	1050	Khinh Công	3		SkillDodge	UI/Atlas/SkillIcon/SkillIcon.prefab	Skill_Dodge			
+6	705	Ma Diệm Tại Thiên	4		Skill1	UI/Atlas/SkillIcon/TR_Skill.prefab	TianrenSkill_02	3		3
+6	711	Huyết Nguyệt Chi Ảnh	10		Skill3	UI/Atlas/SkillIcon/TR_Skill.prefab	TianrenSkill_04	4		4
+6	721	Huyễn Ảnh Phi Hồ	20			UI/Atlas/SkillIcon/TR_Skill.prefab	Tianren_bd01	5		5
+6	722	Nhiếp Hồn Loạn Tâm	30		Skill4	UI/Atlas/SkillIcon/TR_Skill.prefab	TianrenSkill_05	6		6
+6	742	Ma Diệm Thất Sát	40			UI/Atlas/SkillIcon/TR_Skill.prefab	Tianren_bd02	7		7
+6	728	Thích Sát Thuật-Cao	50			UI/Atlas/SkillIcon/TR_Skill.prefab	Tianren_bd03	8		8
+6	745	Phá Toái Hư Không	60			UI/Atlas/SkillIcon/TR_Skill.prefab	Tianren_bd05	9		9
+6	736	Thánh Hỏa Phần Tâm	70			UI/Atlas/SkillIcon/TR_Skill.prefab	Tianren_bd06	10		10
+6	748	Thiên Ma Giải Thể	80			UI/Atlas/SkillIcon/TR_Skill.prefab	Tianren_bd07	11		11
+6	770	Phi Hồng Vô Tích	90			UI/Atlas/SkillIcon/TR_Skill.prefab	Tianren_bd08	12		12
+7	261	Thiếu Lâm Côn Pháp	1	1	Attack	UI/Atlas/SkillIcon/SL_Skill.prefab	ShaolinSkill_01	1		1
+7	283	Như Ảnh Tùy Hình Diệt	1		Skill5	UI/Atlas/SkillIcon/SL_Skill.prefab	Shaolin_nq01		1	13
+7	266	Hàng Long Côn	1		Skill2	UI/Atlas/SkillIcon/SL_Skill.prefab	ShaolinSkill_02	2		2
+7	1013	Ngồi thiền	9		BtnDazuo	UI/Atlas/SkillIcon/SkillIcon.prefab	Skill_Meditation			
+7	1073	Khinh Công	3		SkillDodge	UI/Atlas/SkillIcon/SkillIcon.prefab	Skill_Dodge			
+7	268	Đại Lực Kim Cang Chỉ	4		Skill1	UI/Atlas/SkillIcon/SL_Skill.prefab	ShaolinSkill_03	3		3
+7	270	Kim Cang Phục Ma	10		Skill3	UI/Atlas/SkillIcon/SL_Skill.prefab	ShaolinSkill_04	4		4
+7	271	Đạt Ma Võ Kinh	20			UI/Atlas/SkillIcon/SL_Skill.prefab	Shaolin_bd01	5		5
+7	272	Thập Nhị Cầm Long Thủ	30		Skill4	UI/Atlas/SkillIcon/SL_Skill.prefab	ShaolinSkill_05	6		6
+7	273	La Hán Trận	40			UI/Atlas/SkillIcon/SL_Skill.prefab	Shaolin_bd02	7		7
+7	276	Côn Pháp-Cao	50			UI/Atlas/SkillIcon/SL_Skill.prefab	Shaolin_bd03	8		8
+7	278	Lập Địa Thành Phật	60			UI/Atlas/SkillIcon/SL_Skill.prefab	Shaolin_bd04	9		9
+7	280	Kim Cang Nộ Mục	70			UI/Atlas/SkillIcon/SL_Skill.prefab	Shaolin_bd05	10		10
+7	282	Dịch Cân Kinh	80			UI/Atlas/SkillIcon/SL_Skill.prefab	Shaolin_bd06	11		11
+7	298	La Hán Kim Thân	90			UI/Atlas/SkillIcon/SL_Skill.prefab	Shaolin_bd07	12		12
+8	801	Thúy Yên Ngự Tản Quyết	1	1	Attack	UI/Atlas/SkillIcon/CY_Skill.prefab	CuiyanSkill_01	1		1
+8	837	Sương Thiên Bách Hoa Tán	1		Skill5	UI/Atlas/SkillIcon/CY_Skill.prefab	Cuiyan_nq01		1	13
+8	806	Tuyền Cơ La Vũ	1		Skill2	UI/Atlas/SkillIcon/CY_Skill.prefab	CuiyanSkill_02	2		2
+8	1013	Ngồi thiền	9		BtnDazuo	UI/Atlas/SkillIcon/SkillIcon.prefab	Skill_Meditation			
+8	1081	Khinh Công	3		SkillDodge	UI/Atlas/SkillIcon/SkillIcon.prefab	Skill_Dodge			
+8	808	Vũ Đả Lê Hoa	4		Skill1	UI/Atlas/SkillIcon/CY_Skill.prefab	CuiyanSkill_03	3		3
+8	810	Triệu Hồi Bảo Bảo	10		Skill3	UI/Atlas/SkillIcon/CY_Skill.prefab	CuiyanSkill_04	4		4
+8	815	Băng Tâm Sảnh Ảnh	20			UI/Atlas/SkillIcon/CY_Skill.prefab	Cuiyan_bd01	5		5
+8	816	Băng Tung Vô Ảnh	30		Skill4	UI/Atlas/SkillIcon/CY_Skill.prefab	CuiyanSkill_05	6		6
+8	818	Tuyết Ảnh	40			UI/Atlas/SkillIcon/CY_Skill.prefab	Cuiyan_bd02	7		7
+8	820	Ngự Tản Quyết-Cao	50			UI/Atlas/SkillIcon/CY_Skill.prefab	Cuiyan_bd03	8		8
+8	822	Hộ Thể Hàn Băng	60			UI/Atlas/SkillIcon/CY_Skill.prefab	Cuiyan_bd04	9		9
+8	824	Băng Cơ Ngọc Cốt	70			UI/Atlas/SkillIcon/CY_Skill.prefab	Cuiyan_bd05	10		10
+8	827	Băng Cốt Tuyết Tâm	80			UI/Atlas/SkillIcon/CY_Skill.prefab	Cuiyan_bd06	11		11
+8	841	Phù Vân Tán Tuyết	90			UI/Atlas/SkillIcon/CY_Skill.prefab	Cuiyan_bd07	12		12
+9	4001	Đường Môn Ám Khí	1	1	Attack	UI/Atlas/SkillIcon/TM_Skill.prefab	TangmenSkill_01	1		1
+9	4032	Thiên Cơ Khổng Tước Linh	1		Skill5	UI/Atlas/SkillIcon/TM_Skill.prefab	Tangmen_nq01		1	13
+9	4006	Triền Thân Thích	1		Skill2	UI/Atlas/SkillIcon/TM_Skill.prefab	TangmenSkill_02	2		2
+9	1013	Ngồi thiền	9		BtnDazuo	UI/Atlas/SkillIcon/SkillIcon.prefab	Skill_Meditation			
+9	3433	Khinh Công	3		SkillDodge	UI/Atlas/SkillIcon/SkillIcon.prefab	Skill_Dodge			
+9	4008	Bạo Vũ Lê Hoa	4		Skill1	UI/Atlas/SkillIcon/TM_Skill.prefab	TangmenSkill_03	3		3
+9	4010	Mê Ảnh Tung	10		Skill3	UI/Atlas/SkillIcon/TM_Skill.prefab	Tangmen_bd03	4		4
+9	4011	Tâm Phách	20			UI/Atlas/SkillIcon/TM_Skill.prefab	Tangmen_bd05	5		5
+9	4012	Cửu Cung Phi Tinh	30		Skill4	UI/Atlas/SkillIcon/TM_Skill.prefab	TangmenSkill_04	6		6
+9	4015	Tôi Độc Thuật	40			UI/Atlas/SkillIcon/TM_Skill.prefab	Tangmen_bd01	7		7
+9	4017	Ám Khí-Cao	50			UI/Atlas/SkillIcon/TM_Skill.prefab	Tangmen_bd02	8		8
+9	4019	Tâm Nhãn	60			UI/Atlas/SkillIcon/TM_Skill.prefab	Tangmen_bd06	9		9
+9	4027	Di Hình Hoán Ảnh	70			UI/Atlas/SkillIcon/TM_Skill.prefab	Tangmen_bd07	10		10
+9	4024	Tâm Ma	80			UI/Atlas/SkillIcon/TM_Skill.prefab	Tangmen_bd04	11		11
+9	4060	Truy Tinh Trục Điện	90			UI/Atlas/SkillIcon/TM_Skill.prefab	Tangmen_bd08	12		12
+10	4101	Côn Lôn Kiếm Pháp	1	1	Attack	UI/Atlas/SkillIcon/KL_Skill.prefab	KunlunSkill_01	1		1
+10	4128	Côn Hư Trụy Vô Phong	1		Skill5	UI/Atlas/SkillIcon/KL_Skill.prefab	Kunlun_nq01		1	13
+10	4106	Tiên Nhân Chỉ Lộ	1		Skill2	UI/Atlas/SkillIcon/KL_Skill.prefab	KunlunSkill_02	2		2
+10	1013	Ngồi thiền	9		BtnDazuo	UI/Atlas/SkillIcon/SkillIcon.prefab	Skill_Meditation			
+10	3441	Khinh Công	3		SkillDodge	UI/Atlas/SkillIcon/SkillIcon.prefab	Skill_Dodge			
+10	4110	Tiếu Phong Tam Liên Kích	4		Skill1	UI/Atlas/SkillIcon/KL_Skill.prefab	Kunlun_bd04	3		3
+10	4108	Hỗn Độn Kiếm Trận	10		Skill3	UI/Atlas/SkillIcon/KL_Skill.prefab	KunlunSkill_03	4		4
+10	4111	Túy Tiên Thác Cốt	20			UI/Atlas/SkillIcon/KL_Skill.prefab	Kunlun_bd06	5		5
+10	4112	Lôi Động Cửu Thiên	30		Skill4	UI/Atlas/SkillIcon/KL_Skill.prefab	KunlunSkill_04	6		6
+10	4115	Ngự Phong Hành	40			UI/Atlas/SkillIcon/KL_Skill.prefab	Kunlun_bd05	7		7
+10	4116	Kiếm Pháp-Cao	50			UI/Atlas/SkillIcon/KL_Skill.prefab	Kunlun_bd01	8		8
+10	4118	Hỗn Nguyên Càn Khôn	60			UI/Atlas/SkillIcon/KL_Skill.prefab	Kunlun_bd02	9		9
+10	4130	Nhất Khí Tam Thanh	70			UI/Atlas/SkillIcon/KL_Skill.prefab	Kunlun_bd07	10		10
+10	4124	Sương Ngạo Côn Lôn	80			UI/Atlas/SkillIcon/KL_Skill.prefab	Kunlun_bd03	11		11
+10	4152	Thiên Thanh Địa Trọc	90			UI/Atlas/SkillIcon/KL_Skill.prefab	Kunlun_bd08	12		12
+11	4201	Cái Bang Chưởng Pháp	1	1	Attack	UI/Atlas/SkillIcon/GB_Skill.prefab	GaibangSkill_01	1		1
+11	4232	Giáng Long Thập Bát Chưởng	1		Skill5	UI/Atlas/SkillIcon/GB_Skill.prefab	Gaibang_nq01		1	13
+11	4206	Hàng Long Hữu Hối	1		Skill2	UI/Atlas/SkillIcon/GB_Skill.prefab	GaibangSkill_02	2		2
+11	1013	Ngồi thiền	9		BtnDazuo	UI/Atlas/SkillIcon/SkillIcon.prefab	Skill_Meditation			
+11	3467	Khinh Công	3		SkillDodge	UI/Atlas/SkillIcon/SkillIcon.prefab	Skill_Dodge			
+11	4208	Khốn Long Công	4		Skill1	UI/Atlas/SkillIcon/GB_Skill.prefab	GaibangSkill_04	3		3
+11	4211	Túy Điệp Cuồng Vũ	10		Skill3	UI/Atlas/SkillIcon/GB_Skill.prefab	GaibangSkill_05	4		4
+11	4212	Hóa Hiểm Vi Di	20			UI/Atlas/SkillIcon/GB_Skill.prefab	Gaibang_bd05	5		5
+11	4213	Long Chiến Vu Dã	30		Skill4	UI/Atlas/SkillIcon/GB_Skill.prefab	GaibangSkill_03	6		6
+11	4218	Bá Vương Tạ Giáp	40			UI/Atlas/SkillIcon/GB_Skill.prefab	Gaibang_bd06	7		7
+11	4220	Chưởng Pháp-Cao	50			UI/Atlas/SkillIcon/GB_Skill.prefab	Gaibang_bd07	8		8
+11	4222	Du Long Quyết	60			UI/Atlas/SkillIcon/GB_Skill.prefab	Gaibang_bd01	9		9
+11	4225	Kim Thiền Thoát Xác	70			UI/Atlas/SkillIcon/GB_Skill.prefab	Gaibang_bd04	10		10
+11	4228	Thiên Hạ Vô Cẩu	80			UI/Atlas/SkillIcon/GB_Skill.prefab	Gaibang_bd03	11		11
+11	4229	Thâu Thiên Hoán Nhật	90			UI/Atlas/SkillIcon/GB_Skill.prefab	Gaibang_bd02	12		12
+12	4301	Ngũ Độc Địch Chú	1	1	Attack	UI/Atlas/SkillIcon/WDu_Skill.prefab	WuduSkill_01	1		1
+12	4354	Ngũ Thánh Phệ Tâm Cổ	1		Skill5	UI/Atlas/SkillIcon/WDu_Skill.prefab	Wudu_nq01		1	13
+12	4309	Âm Phong Thực Cốt	1		Skill2	UI/Atlas/SkillIcon/WDu_Skill.prefab	WuduSkill_05	2		2
+12	1013	Ngồi thiền	9		BtnDazuo	UI/Atlas/SkillIcon/SkillIcon.prefab	Skill_Meditation			
+12	3475	Khinh Công	3		SkillDodge	UI/Atlas/SkillIcon/SkillIcon.prefab	Skill_Dodge			
+12	4312	Triệu Hồi Độc Trùng	4		Skill1	UI/Atlas/SkillIcon/WDu_Skill.prefab	WuduSkill_02	3		3
+12	4334	Mê Tâm Cổ	10		Skill3	UI/Atlas/SkillIcon/WDu_Skill.prefab	WuduSkill_04	4		4
+12	4338	Ngự Độc Thuật	20			UI/Atlas/SkillIcon/WDu_Skill.prefab	Wudu_bd04	5		5
+12	4339	Vạn Cổ Thực Tâm	30		Skill4	UI/Atlas/SkillIcon/WDu_Skill.prefab	WuduSkill_03	6		6
+12	4341	Bách Độc Xuyên Tâm	40			UI/Atlas/SkillIcon/WDu_Skill.prefab	Wudu_bd05	7		7
+12	4343	Địch Chú-Cao	50			UI/Atlas/SkillIcon/WDu_Skill.prefab	Wudu_bd06	8		8
+12	4345	Vô Hình Cổ	60			UI/Atlas/SkillIcon/WDu_Skill.prefab	Wudu_bd01	9		9
+12	4347	Hồi Hồn Mật Chú	70			UI/Atlas/SkillIcon/WDu_Skill.prefab	Wudu_bd07	10		10
+12	4349	Vạn Độc Tâm Pháp	80			UI/Atlas/SkillIcon/WDu_Skill.prefab	Wudu_bd03	11		11
+12	4350	Ngũ Độc Kỳ Kinh	90			UI/Atlas/SkillIcon/WDu_Skill.prefab	Wudu_bd02	12		12
+13	4401	Tàng Kiếm Kiếm Pháp	1	1	Attack	UI/Atlas/SkillIcon/CJ_Skill.prefab	CangjianSkill_01	1		1
+13	4433	Vân Phi Ngọc Hoàng Trảm	1		Skill5	UI/Atlas/SkillIcon/CJ_Skill.prefab	Cangjian_nq01		1	13
+13	4406	Đoạn Triều	1		Skill2	UI/Atlas/SkillIcon/CJ_Skill.prefab	CangjianSkill_03	2		2
+13	1013	Ngồi thiền	9		BtnDazuo	UI/Atlas/SkillIcon/SkillIcon.prefab	Skill_Meditation			
+13	3530	Khinh Công	3		SkillDodge	UI/Atlas/SkillIcon/SkillIcon.prefab	Skill_Dodge			
+13	4410	Tâm Kiếm	4		Skill1	UI/Atlas/SkillIcon/CJ_Skill.prefab	CangjianSkill_05	3		3
+13	4408	Ngọc Tuyền Ngư Dược	10		Skill3	UI/Atlas/SkillIcon/CJ_Skill.prefab	CangjianSkill_04	4		4
+13	4412	Kinh Đào	20			UI/Atlas/SkillIcon/CJ_Skill.prefab	Cangjian_bd01	5		5
+13	4413	Phong Tháp Vân Cảnh	30		Skill4	UI/Atlas/SkillIcon/CJ_Skill.prefab	CangjianSkill_02	6		6
+13	4417	Hạc Quy Cô Sơn	40			UI/Atlas/SkillIcon/CJ_Skill.prefab	Cangjian_bd02	7		7
+13	4420	Kiếm Pháp-Cao	50			UI/Atlas/SkillIcon/CJ_Skill.prefab	Cangjian_bd03	8		8
+13	4422	Ánh Ba Tỏa Lan	60			UI/Atlas/SkillIcon/CJ_Skill.prefab	Cangjian_bd04	9		9
+13	4424	Vân Thê Tùng	70			UI/Atlas/SkillIcon/CJ_Skill.prefab	Cangjian_bd05	10		10
+13	4427	Phong Lai Ngô Sơn	80			UI/Atlas/SkillIcon/CJ_Skill.prefab	Cangjian_bd06	11		11
+13	4428	Hoàng Long Thổ Thúy	90			UI/Atlas/SkillIcon/CJ_Skill.prefab	Cangjian_bd07	12		12
+14	4501	Trường Ca Phiến Quyết	1	1	Attack	UI/Atlas/SkillIcon/CG_Skill.prefab	ChanggeSkill_01	1		1
+14	4544	Nghê Thường Vũ Y Vũ	1		Skill5	UI/Atlas/SkillIcon/CG_Skill.prefab	Changge_nq01		1	13
+14	4506	Bình Sa Nhạn Lạc	1		Skill2	UI/Atlas/SkillIcon/CG_Skill.prefab	ChanggeSkill_04	2		2
+14	1013	Ngồi thiền	9		BtnDazuo	UI/Atlas/SkillIcon/SkillIcon.prefab	Skill_Meditation			
+14	3538	Khinh Công	3		SkillDodge	UI/Atlas/SkillIcon/SkillIcon.prefab	Skill_Dodge			
+14	4508	Vân Sinh Kết Hải	4		Skill1	UI/Atlas/SkillIcon/CG_Skill.prefab	ChanggeSkill_03	3		3
+14	4512	Thanh Âm Trường Khiếu	10		Skill3	UI/Atlas/SkillIcon/CG_Skill.prefab	ChanggeSkill_05	4		4
+14	4517	Thiên Âm Tri Mạch	20			UI/Atlas/SkillIcon/CG_Skill.prefab	Changge_bd01	5		5
+14	4518	Giang Trục Nguyệt Thiên	30		Skill4	UI/Atlas/SkillIcon/CG_Skill.prefab	ChanggeSkill_02	6		6
+14	4522	Dạ Dẫn Phong Lam	40			UI/Atlas/SkillIcon/CG_Skill.prefab	Changge_bd07	7		7
+14	4525	Phiến Quyết-Cao	50			UI/Atlas/SkillIcon/CG_Skill.prefab	Changge_bd03	8		8
+14	4527	Ma Âm Triền Nhiễu	60			UI/Atlas/SkillIcon/CG_Skill.prefab	Changge_bd05	9		9
+14	4529	Hồi Mộng Trục Quang	70			UI/Atlas/SkillIcon/CG_Skill.prefab	Changge_bd04	10		10
+14	4538	Ngân Chúc Thanh Vận	80			UI/Atlas/SkillIcon/CG_Skill.prefab	Changge_bd06	11		11
+14	4539	Dương Xuân Bạch Tuyết	90			UI/Atlas/SkillIcon/CG_Skill.prefab	Changge_bd02	12		12
+15	4601	Thiên Sơn Cầm Khúc	1	1	Attack	UI/Atlas/SkillIcon/TS_Skill.prefab	TianshanSkill_01	1		1
+15	4616	Thiên Âm Trấn Hồn Khúc	1		Skill5	UI/Atlas/SkillIcon/TS_Skill.prefab	Tianshan_nq01		1	13
+15	4606	Phi Yến Lăng Ba	1		Skill2	UI/Atlas/SkillIcon/TS_Skill.prefab	TianshanSkill_02	2		2
+15	1013	Ngồi thiền	9		BtnDazuo	UI/Atlas/SkillIcon/SkillIcon.prefab	Skill_Meditation			
+15	1081	Khinh Công	3		SkillDodge	UI/Atlas/SkillIcon/SkillIcon.prefab	Skill_Dodge			
+15	4608	Ngân Bình Ngọc Toái	4		Skill1	UI/Atlas/SkillIcon/TS_Skill.prefab	TianshanSkill_03	3		3
+15	4611	Không Sơn Ngưng Vân	10		Skill3	UI/Atlas/SkillIcon/TS_Skill.prefab	TianshanSkill_04	4		4
+15	4612	Song Đạn Như Nhất	20			UI/Atlas/SkillIcon/TS_Skill.prefab	Tianshan_bd01	5		5
+15	4613	Thủy Long Ngâm	30		Skill4	UI/Atlas/SkillIcon/TS_Skill.prefab	TianshanSkill_05	6		6
+15	4619	Phượng Thê Ngô Đồng	40			UI/Atlas/SkillIcon/TS_Skill.prefab	Tianshan_bd03	7		7
+15	4622	Xuy Vân Kình	50			UI/Atlas/SkillIcon/TS_Skill.prefab	Tianshan_bd02	8		8
+15	4624	Thủy Mộ Thiên Hoa	60			UI/Atlas/SkillIcon/TS_Skill.prefab	Tianshan_bd04	9		9
+15	4626	Nghịch Thủy Hàn	70			UI/Atlas/SkillIcon/TS_Skill.prefab	Tianshan_bd07	10		10
+15	4629	Kiếm Đảm Cầm Tâm	80			UI/Atlas/SkillIcon/TS_Skill.prefab	Tianshan_bd06	11		11
+15	4634	Cầm Sắt Hòa Minh	90			UI/Atlas/SkillIcon/TS_Skill.prefab	Tianshan_bd05	12		12
+16	5001	Bá Đao Đao Quyết	1	1	Attack	UI/Atlas/SkillIcon/BD_Skill.prefab	BadaoSkill_01	1		1
+16	5020	Thiên Phong Đoạn Nhạc Trảm	1		Skill5	UI/Atlas/SkillIcon/BD_Skill.prefab	Badao_nq01		1	13
+16	5005	Hóa Huyết Kiếp Quang	1		Skill2	UI/Atlas/SkillIcon/BD_Skill.prefab	BadaoSkill_02	2		2
+16	1013	Ngồi thiền	9		BtnDazuo	UI/Atlas/SkillIcon/SkillIcon.prefab	Skill_Meditation			
+16	1045	Khinh Công	3		SkillDodge	UI/Atlas/SkillIcon/SkillIcon.prefab	Skill_Dodge			
+16	5008	Hiệp Sơn Siêu Hải	4		Skill1	UI/Atlas/SkillIcon/BD_Skill.prefab	BadaoSkill_03	3		3
+16	5011	Nghịch Huyết Tiệt Mạch	10		Skill3	UI/Atlas/SkillIcon/BD_Skill.prefab	BadaoSkill_04	4		4
+16	5023	Thiết Sách Hoành Giang	20			UI/Atlas/SkillIcon/BD_Skill.prefab	Badao_bd01	5		5
+16	5015	Dục Huyết Đạo Phong	30		Skill4	UI/Atlas/SkillIcon/BD_Skill.prefab	BadaoSkill_05	6		6
+16	5024	Tàn Dương Ánh Huyết	40			UI/Atlas/SkillIcon/BD_Skill.prefab	Badao_bd05	7		7
+16	5025	Đao Pháp-Cao	50			UI/Atlas/SkillIcon/BD_Skill.prefab	Badao_bd03	8		8
+16	5026	Tị Thực Tựu Hư	60			UI/Atlas/SkillIcon/BD_Skill.prefab	Badao_bd06	9		9
+16	5028	Bĩ Cực Thái Lai	70			UI/Atlas/SkillIcon/BD_Skill.prefab	Badao_bd02	10		10
+16	5031	Trấn Hải Quyết	80			UI/Atlas/SkillIcon/BD_Skill.prefab	Badao_bd04	11		11
+16	5032	Thừa Thắng Trục Bắc	90			UI/Atlas/SkillIcon/BD_Skill.prefab	Badao_bd07	12		12
+17	5201	Hoa Sơn Kiếm Pháp	1	1	Attack	UI/Atlas/SkillIcon/HS_Skill.prefab	HuaShanSkill_01	1		1
+17	5230	Hoa Sơn Nộ Khí	1		Skill5	UI/Atlas/SkillIcon/HS_Skill.prefab	HuaShan_nq01		1	13
+17	5206	Tiêu Sử Thừa Long	1		Skill2	UI/Atlas/SkillIcon/HS_Skill.prefab	HuaShanSkill_02	2		2
+17	1013	Ngồi thiền	9		BtnDazuo	UI/Atlas/SkillIcon/SkillIcon.prefab	Skill_Meditation			
+17	1049	Khinh Công	3		SkillDodge	UI/Atlas/SkillIcon/SkillIcon.prefab	Skill_Dodge			
+17	5209	Thiên Thân Đảo Huyền	4		Skill1	UI/Atlas/SkillIcon/HS_Skill.prefab	HuaShanSkill_03	3		3
+17	5212	Triều Dương Kiếm Khí	10		Skill3	UI/Atlas/SkillIcon/HS_Skill.prefab	HuaShanSkill_04	4		4
+17	5219	Bão Nguyên Kình	20			UI/Atlas/SkillIcon/HS_Skill.prefab	HuaShan_bd01	5		5
+17	5215	Phong Tống Tử Hà	30		Skill4	UI/Atlas/SkillIcon/HS_Skill.prefab	HuaShanSkill_05	6		6
+17	5220	Thức Phá	40			UI/Atlas/SkillIcon/HS_Skill.prefab	HuaShan_bd02	7		7
+17	5223	Kiếm Pháp-Cao	50			UI/Atlas/SkillIcon/HS_Skill.prefab	HuaShan_bd03	8		8
+17	5224	Tử Hà Thần Công	60			UI/Atlas/SkillIcon/HS_Skill.prefab	HuaShan_bd04	9		9
+17	5225	Vân Thiên Hồ Quang	70			UI/Atlas/SkillIcon/HS_Skill.prefab	HuaShan_bd05	10		10
+17	5227	Hỗn Nguyên Công	80			UI/Atlas/SkillIcon/HS_Skill.prefab	HuaShan_bd06	11		11
+17	5228	Thiên Quang Vân Ảnh	90			UI/Atlas/SkillIcon/HS_Skill.prefab	HuaShan_bd07	12		12
+18	5501	Minh Giáo Ngự Hoàn Quyết	1	1	Attack	UI/Atlas/SkillIcon/MJ_Skill.prefab	MingJiaoSkill_01	1		1
+18	5521	Minh Giáo Nộ Khí	1		Skill5	UI/Atlas/SkillIcon/MJ_Skill.prefab	MingJiao_nq01		1	13
+18	5506	Phần Sơn Phệ Xuyên	1		Skill2	UI/Atlas/SkillIcon/MJ_Skill.prefab	MingJiaoSkill_02	2		2
+18	1013	Ngồi thiền	9		BtnDazuo	UI/Atlas/SkillIcon/SkillIcon.prefab	Skill_Meditation			
+18	3467	Khinh Công	3		SkillDodge	UI/Atlas/SkillIcon/SkillIcon.prefab	Skill_Dodge			
+18	5508	Điện Quang Thạch Hỏa	4		Skill1	UI/Atlas/SkillIcon/MJ_Skill.prefab	MingJiaoSkill_03	3		3
+18	5511	Hỏa Quang Tàn Ảnh	10		Skill3	UI/Atlas/SkillIcon/MJ_Skill.prefab	MingJiaoSkill_04	4		4
+18	5514	Quang Minh Dẫn	20			UI/Atlas/SkillIcon/MJ_Skill.prefab	MingJiao_bd01	5		5
+18	5515	Hủy Thiên Diệt Địa	30		Skill4	UI/Atlas/SkillIcon/MJ_Skill.prefab	MingJiaoSkill_05	6		6
+18	5524	Thánh Hỏa Thao Thiên	40			UI/Atlas/SkillIcon/MJ_Skill.prefab	MingJiao_bd02	7		7
+18	5526	Kiếm Pháp-Cao	50			UI/Atlas/SkillIcon/MJ_Skill.prefab	MingJiao_bd03	8		8
+18	5527	Dẫn Hỏa Thiêu Thân	60			UI/Atlas/SkillIcon/MJ_Skill.prefab	MingJiao_bd04	9		9
+18	5530	Tinh Hỏa Liêu Nguyên	70			UI/Atlas/SkillIcon/MJ_Skill.prefab	MingJiao_bd05	10		10
+18	5533	Minh Tôn Thánh Thể	80			UI/Atlas/SkillIcon/MJ_Skill.prefab	MingJiao_bd06	11		11
+18	5534	Hỏa Vũ Lăng Thiên	90			UI/Atlas/SkillIcon/MJ_Skill.prefab	MingJiao_bd07	12		12
+19	5601	Đoàn Thị Phiến Quyết	1	1	Attack	UI/Atlas/SkillIcon/DS_Skill.prefab	DuanShiSkill_01	1		1
+19	5631	Hãn Hải Bách Trượng Băng	1		Skill5	UI/Atlas/SkillIcon/DS_Skill.prefab	DuanShi_nq01		1	13
+19	5606	Nhất Dương Chỉ	1		Skill2	UI/Atlas/SkillIcon/DS_Skill.prefab	DuanShiSkill_02	2		2
+19	1013	Ngồi thiền	9		BtnDazuo	UI/Atlas/SkillIcon/SkillIcon.prefab	Skill_Meditation			
+19	1081	Khinh Công	3		SkillDodge	UI/Atlas/SkillIcon/SkillIcon.prefab	Skill_Dodge			
+19	5608	Ngũ La Khinh Yên	4		Skill1	UI/Atlas/SkillIcon/DS_Skill.prefab	DuanShiSkill_03	3		3
+19	5611	Lục Mạch Thần Kiếm	10		Skill3	UI/Atlas/SkillIcon/DS_Skill.prefab	DuanShiSkill_04	4		4
+19	5625	Đoàn Thị Tâm Pháp	20			UI/Atlas/SkillIcon/DS_Skill.prefab	DuanShi_bd01	5		5
+19	5626	Thủy Long Ngục	30		Skill4	UI/Atlas/SkillIcon/DS_Skill.prefab	DuanShiSkill_05	6		6
+19	5633	Diệu Đế Chỉ	40			UI/Atlas/SkillIcon/DS_Skill.prefab	DuanShi_bd03	7		7
+19	5635	Phiến Quyết-Cao	50			UI/Atlas/SkillIcon/DS_Skill.prefab	DuanShi_bd02	8		8
+19	5637	Họa Địa Vi Lao	60			UI/Atlas/SkillIcon/DS_Skill.prefab	DuanShi_bd04	9		9
+19	5642	Khô Vinh Thiền Công	70			UI/Atlas/SkillIcon/DS_Skill.prefab	DuanShi_bd07	10		10
+19	5645	Thiên Long Thần Công	80			UI/Atlas/SkillIcon/DS_Skill.prefab	DuanShi_bd06	11		11
+19	5646	Bắc Minh Thần Công	90			UI/Atlas/SkillIcon/DS_Skill.prefab	DuanShi_bd05	12		12
+20	5801	Vạn Hoa Bút Pháp	1	1	Attack	UI/Atlas/SkillIcon/WHua_Skill.prefab	WanHuaSkill_01	1		1
+20	5820	Chấp Bút Họa Giang Sơn	1		Skill5	UI/Atlas/SkillIcon/WHua_Skill.prefab	WanHuashan_nq01		1	13
+20	5805	Chấp Dĩnh Điểm Mặc	1		Skill2	UI/Atlas/SkillIcon/WHua_Skill.prefab	WanHuaSkill_02	2		2
+20	1013	Ngồi thiền	9		BtnDazuo	UI/Atlas/SkillIcon/SkillIcon.prefab	Skill_Meditation			
+20	1081	Khinh Công	3		SkillDodge	UI/Atlas/SkillIcon/SkillIcon.prefab	Skill_Dodge			
+20	5808	Lan Tồi Ngọc Chiết	4		Skill1	UI/Atlas/SkillIcon/WHua_Skill.prefab	WanHuaSkill_03	3		3
+20	5810	Mặc Hổ Như Sinh	10		Skill3	UI/Atlas/SkillIcon/WHua_Skill.prefab	WanHuaSkill_04	4		4
+20	5824	Vạn Hoa Tâm Pháp	20			UI/Atlas/SkillIcon/WHua_Skill.prefab	WanHua_bd01	5		5
+20	5812	Hội Hổ Điểm Tình	30		Skill4	UI/Atlas/SkillIcon/WHua_Skill.prefab	WanHuaSkill_05	6		6
+20	5831	Mặc Thủ Thành Quy	40			UI/Atlas/SkillIcon/WHua_Skill.prefab	WanHua_bd02	7		7
+20	5835	Cao Cấp Phổ Công	50			UI/Atlas/SkillIcon/WHua_Skill.prefab	WanHua_bd03	8		8
+20	5837	Dữ Hổ Thiêm Dực	60			UI/Atlas/SkillIcon/WHua_Skill.prefab	WanHua_bd04	9		9
+20	5844	Hổ Khiếu Sơn Lâm	70			UI/Atlas/SkillIcon/WHua_Skill.prefab	WanHua_bd05	10		10
+20	5849	Thanh Tâm Tĩnh Khí	80			UI/Atlas/SkillIcon/WHua_Skill.prefab	WanHua_bd06	11		11
+20	5850	Mặc Nhiễm Thất Sắc	90			UI/Atlas/SkillIcon/WHua_Skill.prefab	WanHua_bd07	12		12

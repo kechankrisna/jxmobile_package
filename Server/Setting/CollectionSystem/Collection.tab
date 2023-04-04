@@ -1,0 +1,89 @@
+nCollectionId	szName	nCardTemplateId	szTimeFrame	szAward	nRare	szDropNpc1	szDropNpc2	szDropNpc3	szDropNpc4	szDropNpc5
+1	Phi Kiếm Khách	2594	OpenLevel59	Coin|500	3	1571|300000				
+1	Đá Lửa Lăn	2595	OpenLevel59	Coin|500	2	1665|75000				
+1	Hoa Sơn Tội Nhân	2596	OpenLevel59	Coin|500	3	1325|300000				
+1	Đường Môn Anh Kiệt	2597	OpenLevel59	Coin|500	4					
+1	Huyết Hải Mai Khôi	2598	OpenLevel59	Coin|500	3	1568|300000				
+1	Phong Trung Nữ Hiệp	2599	OpenLevel59	Coin|500	2	1331|300000				
+1	Thiếu Lâm Phản Đồ	2600	OpenLevel59	Coin|500	3	1574|300000				
+1	Thất Tâm Phong	2601	OpenLevel59	Coin|500	3	1670|150000				
+1	Nhận Giặc Làm Cha	2602	OpenLevel59	Coin|500	3	1573|300000				
+1	Tàng Kiếm Cô Nữ	2603	OpenLevel59	Coin|500	2					
+1	Phi Long Bảo Chủ	2604	OpenLevel59	Coin|500	3	1575|300000				
+1	Không Đánh Trả	2605	OpenLevel59	Coin|500	3	1719|350000				
+1	Nữ Anh Hùng	2606	OpenLevel59	Coin|500	3	1138|300000				
+1	Hộ Hoa Sứ	2607	OpenLevel59	Coin|500	4	1618|120000				
+1	Cưu Chiếm Thước Sào	2608	OpenLevel59	Coin|500	3	1361|300000				
+1	Hồng Môn Yến	2610	OpenLevel59	Coin|500	5					
+1	Chưởng Thượng Minh Châu	2611	OpenLevel59	Coin|500	3	1576|300000				
+1	Danh Sĩ	2612	OpenLevel59	Coin|500	4	1599|300000				
+1	Ngự Lôi	2613	OpenLevel59	Coin|500	5					
+1	Quận Chúa U Sầu	2614	OpenLevel59	Coin|500	4	1581|300000				
+1	Phản Quốc Cầu Vinh	2615	OpenLevel59	Coin|500	3	1366|300000				
+1	Nghị Hòa Thư	2616	OpenLevel59	Coin|500	5					
+1	Tàng Kiếm Trang Chủ	2617	OpenLevel59	Coin|500	3	1372|300000				
+1	Võ Đạo Đức Kinh	2618	OpenLevel59	Coin|500	5					
+1	Thúy Yên Hoa Sứ	2619	OpenLevel59	Coin|500	6					
+1	Tỉnh Mộng	2620	OpenLevel59	Coin|500	3	1582|300000				
+1	Nhất Đại Hào Hiệp	2621	OpenLevel59	Coin|500	6	1125|300000				
+1	Vô Ưu Giáo Chủ	2622	OpenLevel59	Coin|500	6	1584|300000				
+1	Tâm Kiếm Khách	2623	OpenLevel59	Coin|500	6	1389|300000				
+1	Lý Đại Đào Cương	2624	OpenLevel59	Coin|500	7					
+1	Kim Đỉnh Thánh Nữ	2625	OpenLevel59	Coin|500	7					
+1	Thiên Kiếm Khách	2626	OpenLevel59	Coin|500	6	1132|300000				
+1	Cơ Quan Bí Thuật	2627	OpenLevel59	Coin|500	7	1419|50000				
+1	Nản Lòng	2628	OpenLevel59	Coin|500	6	1133|300000				
+1	Trường Ca Môn Chủ	2629	OpenLevel59	Coin|500	5	1592|300000				
+1	Thiếu Nữ Vong Ưu	2630	OpenLevel59	Coin|500	4	1595|300000				
+1	Tâm Ma	2631	OpenLevel59	Coin|500	7					
+1	Phong Tuyết Sơn Trang	2632	OpenLevel59	Coin|500	5	1598|300000				
+1	Đường Môn Thiếu Chủ	2633	OpenLevel69	Coin|500	7	1794|300000				
+1	Chuyện Cũ Thúy Yên	2634	OpenLevel69	Coin|500	7	1798|300000				
+1	Minh Chủ Võ Lâm	2635	OpenLevel69	Coin|500	7	1801|300000				
+1	Vô Xứ Vong Ưu	2636	OpenLevel69	Coin|500	6	1820|300000				
+1	Thiên Vương Phản Đồ	2637	OpenLevel69	Coin|500	6	1804|300000				
+1	Hành Sơn Nữ Hiệp	2638	OpenLevel69	Coin|500	6	1808|300000				
+1	Nga Mi Chưởng Môn	2639	OpenLevel69	Coin|500	8					
+1	Đào Hoa Đảo Chủ	3380	OpenLevel99	Coin|500	7	2040|300000				
+1	Võ Đang Chưởng Môn	3381	OpenLevel99	Coin|500	7	1988|300000				
+1	Thiên Nhẫn Giáo Chủ	3382	OpenLevel99	Coin|500	7	2034|300000				
+1	Thúy Yên Môn Chủ	3383	OpenLevel99	Coin|500	7	1991|300000				
+1	Côn Lôn Chưởng Môn	3384	OpenLevel99	Coin|500	7	1986|300000				
+1	Kỳ Môn Dị Thuật	3385	OpenLevel99	Coin|500	6	2043|300000				
+1	Thiếu Niên Anh Hùng	3386	OpenLevel99	Coin|500	6	2046|300000				
+1	Cực Kỳ Tà Ác	3387	OpenLevel99	Coin|500	6	2055|300000				
+1	Tụ Trung Càn Khôn	3388	OpenLevel99	Coin|500	8					
+2	Đài	3031		Coin|500						
+2	Cảng	3032		Coin|500						
+2	Áo	3033		Coin|500						
+2	Kinh	3034		Coin|500						
+2	Tân	3035		Coin|500						
+2	Hỗ	3036		Coin|500						
+2	Du	3037		Coin|500						
+2	Mông	3038		Coin|500						
+2	Ninh	3039		Coin|500						
+2	Tân	3040		Coin|500						
+2	Tàng	3041		Coin|500						
+2	Quế	3042		Coin|500						
+2	Đen	3043		Coin|500						
+2	Cát	3044		Coin|500						
+2	Liêu	3045		Coin|500						
+2	Ký	3046		Coin|500						
+2	Dự	3047		Coin|500						
+2	Lỗ	3048		Coin|500						
+2	Tấn	3049		Coin|500						
+2	Tần	3050		Coin|500						
+2	Lũng	3051		Coin|500						
+2	Thanh	3052		Coin|500						
+2	Thục	3053		Coin|500						
+2	Ngạc	3054		Coin|500						
+2	Tương	3055		Coin|500						
+2	Cám	3056		Coin|500						
+2	Hoàn	3057		Coin|500						
+2	Tô	3058		Coin|500						
+2	Chiết	3059		Coin|500						
+2	Mân	3060		Coin|500						
+2	Việt	3061		Coin|500						
+2	Quỳnh	3062		Coin|500						
+2	Điền	3063		Coin|500						
+2	Kiềm	3064		Coin|500						

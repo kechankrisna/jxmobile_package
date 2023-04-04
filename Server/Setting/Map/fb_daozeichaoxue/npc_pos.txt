@@ -1,0 +1,6 @@
+Thủ Lĩnh Đạo Tặc	5950	3210
+Thủ Lĩnh Đạo Tặc	5750	6510
+Thủ Lĩnh Đạo Tặc	2700	6170
+Điểm xuất hiện	3000	3300
+Lửa Trại	2840	5800
+Điểm Truyền Tống	2570	6550

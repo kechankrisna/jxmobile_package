@@ -1,0 +1,46 @@
+nMapTemplateId	szTrap	nTaskId	szTrack	Desc
+1000	WydToWyxw	8	[url=pos:test,484,2750,2420]	Vong Ưu Đảo→Nhà Nhỏ
+484	WyxwLeave	10		Nhà Vong Ưu→Vong Ưu Đảo
+484	WyxwLeave	25	[url=pos:test,400,8000,8050]	Nhà Vong Ưu→Tỏa Vân Uyên
+400	SyyToSyyxw	28		Tỏa Vân Uyên→Nhà Nhỏ
+400	SyyToSyyxw	34		Tỏa Vân Uyên→Nhà Nhỏ
+400	SyyToWyjd	38	[url=gotofuben:test, 1, 3, 1]	Tỏa Vân Uyên→Vô Ưu Cấm Địa
+400	SyyToLysd	44	[url=pos:test,499,2100,3000]	Tỏa Vân Uyên→Ly Ưu Sơn Động
+499	LysdToFuben	45	[url=gotofuben:test, 1, 4, 1]	Ly Ưu Sơn Động→Ải
+499	LysdToWyg	47	[url=pos:test,485,1280,1800]	Ly Ưu Sơn Động→Vong Ưu Cốc
+485	WygToWyxw	49	[url=pos:test,481,3000,2060]	Vong Ưu Cốc→Nhà Nhỏ
+481	WygxwLeave	53	[url=pos:test,1000,5000,5500]	Nhà nhỏ Vong Ưu Cốc→Vong Ưu Đảo
+401	WysToyds	82		Võ Di Sơn→Nhạn Đãng Sơn
+483	YdsToCjsz	104		Nhạn Đãng Sơn→Tàng Kiếm Sơn Trang
+403	DthToFlb	131		Động Đình Hồ→Phi Long Bảo
+494	FlbToDth	135		Phi Long Bảo 1→Động Đình Hồ
+403	DthToBmsz	139		Động Đình Hồ→Bi Ma Sơn Trang
+403	DthToWyd	158		Động Đình Hồ→Vong Ưu Đảo
+1000	WydToXmhj	159		Vong Ưu Đảo→Tâm Ma Ảo Cảnh
+495	WyjdToDth	165		Vô Ưu Cấm Địa→Động Đình Hồ
+403	DthToZxl	167		Động Đình Hồ→Trích Tinh Lâu
+496	ZxlToFlb	173		Trích Tinh Lâu→Phi Long Bảo
+497	FlbToDth	178		Phi Long Bảo 2→Động Đình Hồ
+403	DthToBmsz	181		Nhà nhỏ Vong Ưu Cốc→Vong Ưu Đảo
+404	MlToHs	191	[url=pos:test,486,2200,3600]	Miêu Lĩnh→Chân Núi Hành Sơn
+486	TrapTask1	193	[url=gotofuben:test, 4, 1, 1]	Chân Núi Hành Sơn→Ải
+404	MlToJhd1	197		
+487	Trap1	198	[url=gotofuben:test, 4, 2, 1]	Cửu Hầu Động→Ải
+404	MlToJhd2	237		Miêu Lĩnh→Cửu Hầu Động
+480	JhdToWyp	244		Cửu Hầu Động→Võ Di Kiếm Phái
+488	WypToWyjd	250	[url=pos:test,489,2350,5530]	Võ Di Kiếm Phái→Võ Di Cấm Địa
+489	TrapTask1	260		Võ Di Cấm Địa→Đoàn Phù Dung
+405	DcsToLayd	262		Điểm Thương Sơn→Lâm An Dịch Đạo
+490	LaydToFuben	264	[url=gotofuben:test, 5, 3, 1]	Lâm An Dịch Đạo→Ải
+490	LaydToXsd	268		Lâm An Dịch Đạo→Hưởng Thủy Động
+406	XsdToHsmd	274		Hưởng Thủy Động→Hoa Sơn Mật Đạo
+493	HsmdTpHsp	292		Hoa Sơn Mật Đạo→Hoa Sơn Phái
+491	HsToXsd	307		Hoa Sơn Phái→Hưởng Thủy Động
+408	JmgToGzc	330		Kiếm Môn Quan→Chiến Trường Cổ
+411	FnsToFnsxy	402		
+484	WyxwLeave	404	[url=pos:test,411,14000,3350]	Nhà Vong Ưu→Vong Ưu Đảo
+406	JingMaiTaskTrap	3202	[url=gotofuben:test, 1000, 1, 1]	Nhiệm vụ Kinh Mạch
+406	JingMaiTaskTrap	3205	[url=gotofuben:test, 1000, 2, 1]	Nhiệm vụ Kinh Mạch
+473	BssToFuben	2020	[url=gotofuben:test, 500, 1, 1]	Võ Lâm Đại Sự-Bao Vây Bạch Thủy
+472	LaxdToFuben	2033	[url=gotofuben:test, 500, 2, 1]	Võ Lâm Đại Sự-Hồn Trung Nghĩa
+6101	TrapToFuben			

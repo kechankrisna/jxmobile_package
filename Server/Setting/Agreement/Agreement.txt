@@ -1,0 +1,152 @@
+[[
+
+                                           ĐIỀU KHOẢN SỬ DỤNG TRÒ CHƠI VÕ LÂM TRUYỀN KỲ MOBIE
+
+1. Giới Thiệu
+   1.1 Võ Lâm Truyền Kỳ Mobile ("VLTKM" hoặc "Sản Phẩm") là tên gọi chính thức của phiên bản Việt hóa của trò chơi điện tử trên mạng JX Mobile Online do KINGSOFT phối hợp cùng SEASUN sản xuất, được phát hành duy nhất tại Việt Nam bởi Công Ty Cổ Phần VNG ("VNG").
+   1.2 VLTKM là trò chơi điện tử trên mạng dành cho người từ đủ 18 (mười tám) tuổi trở lên (18+); theo quy định của pháp luật Việt Nam, trường hợp Bạn chưa đủ 18 (mười tám) tuổi, Bạn không được phép sử dụng Sản Phẩm này.
+   1.3 Trước khi sử dụng Sản Phẩm, Bạn cần đọc, hiểu rõ và đồng ý với toàn bộ Điều Khoản Sử Dụng này (bao gồm cả yêu cầu về độ tuổi), đặc biệt là những điều khoản miễn trừ hoặc hạn chế trách nhiệm của VNG, những điều khoản hạn chế đối với quyền lợi của Bạn cũng như những điều khoản riêng biệt khác.
+   1.4 Trường hợp Bạn không đồng ý với bất kỳ điều khoản, điều kiện nào trong Điều Khoản Sử Dụng này, Bạn vui lòng không sử dụng VLTKM và ngay lập tức đóng, gỡ bỏ hoàn toàn Sản Phẩm ra khỏi thiết bị của Bạn.
+   1.5 Việc Bạn tham gia, sử dụng VLTKM được hiểu là Bạn đồng ý với toàn bộ các điều khoản, điều kiện của Điều Khoản Sử Dụng này, cũng như các điều khoản khác được Điều Khoản Sử Dụng này viện dẫn đến, cùng với các bản sửa đổi, bổ sung tùy từng thời điểm.
+]],
+[[
+2. Định Nghĩa
+
+   Trong phạm vi Điều Khoản Sử Dụng này, các từ, cụm từ viết hoa sẽ được hiểu như định nghĩa dưới đây, trừ khi ngữ cảnh buộc phải hiểu khác đi.
+   2.1 "Trò Chơi" hoặc "Sản Phẩm": là trò chơi điện tử trên mạng Võ Lâm Truyền Kỳ Mobile.
+   2.2 "Trang Chủ Của Trò Chơi":
+   2.3 "Quy Định Trò Chơi": là các điều khoản, điều kiện được quy định tại Điều Khoản Sử Dụng này và/hoặc các thông báo, tin tức trong Trò Chơi được VNG thông báo trong Trò Chơi và/hoặc tại Trang Chủ Của Trò Chơi.
+   2.4 "Dữ Liệu": là các nội dung/thông tin được tạo/sinh ra trong quá trình Bạn tham gia, sử dụng Trò Chơi được máy chủ (server) của Trò Chơi ghi nhận lại.
+   2.5 "Thông Tin Cá Nhân": là các thông tin nhằm định danh một cá nhân cụ thể như được ghi nhận tại Điều 4 của Điều Khoản Sử Dụng này.
+]],
+[[
+3. Tài Khoản Và Đăng Nhập
+
+   Để sử dụng Trò Chơi, Bạn cần phải có tài khoản để đăng nhập vào Trò Chơi. Việc tạo tài khoản và đăng nhập vào Trò Chơi có thể thực hiện thông qua một trong các cách thức sau:
+   3.1 Sử dụng tài khoản ZingID. Trong trường hợp này, Bạn cần phải có tài khoản ZingID; bên cạnh việc tuân thủ Điều Khoản Sử Dụng này, Bạn còn phải tuân thủ đầy đủ Quy chế sử dụng ZingID tại đường dẫn (link): https://id.zing.vn/v2/policy#p3.
+   3.2 Sử dụng tài khoản Zalo hoặc tài khoản liên kết (Google, Facebook) (sau đây gọi là "Tài Khoản Liên Kết"). Tùy từng thời điểm, Trò Chơi có thể cho phép Bạn sử dụng Tài Khoản Liên Kết để đăng nhập, tuy nhiên Bạn tuân thủ đầy đủ Điều Khoản Sử Dụng này, và điều khoản sử dụng của Zalo hoặc nhà cung cấp dịch vụ nơi Bạn khởi tạo Tài Khoản Liên Kết, đồng thời cam kết chịu trách nhiệm về việc sử dụng các Tài Khoản Liên Kết để đăng nhập vào Trò Chơi.
+   3.3 Sử dụng tính năng "Chơi Ngay" của Sản Phẩm trong lần đăng nhập đầu tiên. Trong trường hợp này, tài khoản Trò Chơi của Bạn sẽ gắn liền với thiết bị mà Bạn đang sử dụng để đăng nhập vào Trò Chơi. Bạn có trách nhiệm định danh lại tài khoản của mình bằng cách khai báo các thông tin mà Trò Chơi yêu cầu.
+   3.4 Nhằm đảm bảo quyền và lợi ích hợp pháp của Bạn, VNG khuyến cáo Bạn nên đăng nhập bằng tài khoản ZingID hoặc Tài Khoản Liên Kết khác của chính Bạn. VNG sẽ không thể tiếp nhận và hỗ trợ giải quyết các khiếu nại của Bạn trong trường hợp Bạn không thể cung cấp đầy đủ thông tin để chứng minh Bạn là chủ sở hữu của tài khoản.
+]],
+[[
+4. Thu Thập, Sử Dụng Và Bảo Vệ Thông Tin Khách Hàng
+
+   4.1 Theo quy định của pháp luật Việt Nam và để hỗ trợ tốt nhất cho Bạn về các vấn đề liên quan đến tài khoản của Bạn trong Trò Chơi, khi Bạn tạo tài khoản sử dụng Sản Phẩm, Bạn cần phải cung cấp đầy đủ các thông tin sau đây:
+     (a) Họ và tên;
+     (b) Ngày, tháng, năm sinh;
+     (c) Địa chỉ đăng ký thường trú;
+     (d) Số Chứng minh nhân dân hoặc số hộ chiếu, ngày cấp, nơi cấp;
+     (e) Số điện thoại, địa chỉ thư điện tử (nếu có).
+   4.2 Trường hợp Bạn không cung cấp hoặc cung cấp không chính xác, không đầy đủ các thông tin nêu trên, VNG có quyền (i) từ chối cung cấp dịch vụ cho Bạn; (ii) ngừng cung cấp dịch vụ Trò Chơi cho Bạn hoặc hạn chế hoặc cấm sử dụng một số hoặc toàn bộ tính năng của tài khoản, xóa tài khoản và Dữ Liệu trong Trò Chơi, xóa mọi thông tin liên quan, khóa tài khoản trò chơi; và/hoặc (iii) từ chối tiếp nhận, giải quyết các khiếu nại của Bạn liên quan đến Trò Chơi và/hoặc tài khoản của Bạn trong Trò Chơi.
+   4.3 VNG sẽ áp dụng các biện pháp cần thiết để bảo mật Thông Tin Cá Nhân, Dữ Liệu của Bạn; mặc dù vậy, trong một số trường hợp cần thiết, theo quy định của pháp luật hoặc theo yêu cầu của Cơ quan Nhà nước có thẩm quyền hoặc Tòa án, VNG sẽ cung cấp Thông Tin Cá Nhân của Bạn cho các Cơ quan nêu trên.
+   4.4 Việc đặt tên tài khoản, tên nhân vật của Bạn trong Trò Chơi cần phải tuân thủ nguyên tắc đặt tên đã được công bố tại đây.
+   4.5 Bạn hiểu rõ và đồng ý rằng, VNG và/hoặc bên thứ ba hợp tác với VNG có thể căn cứ theo các thông tin do Bạn cung cấp để gửi đến Bạn các thông tin quảng cáo, thông tin hoạt động của Trò Chơi thông qua các hình thức như tin nhắn, điện thoại, thư điện tử (email) … hoặc bất kỳ hình thức nào khác mà Bạn có thể tiếp nhận được thông tin; trong trường hợp này, bên thứ ba hợp tác với VNG (nếu có) cũng có nghĩa vụ bảo mật Thông Tin Cá Nhân của Bạn như VNG.
+   4.6 Bạn hiểu rõ và đồng ý rằng, để tránh trường hợp bị mất, bị can thiệp vào tài khoản ngoài ý muốn (như bị hack), Bạn sẽ không tiết lộ (bất kể là vô tình hay hữu ý) thông tin về tài khoản, mật khẩu của Bạn trong Trò Chơi cho bất kỳ bên thứ ba nào, kể cả những người thân thích của Bạn; đồng thời, áp dụng các biện pháp hợp lý nhằm bảo mật tài khoản của Bạn. Trong bất kỳ trường hợp nào, Bạn nhận thấy hay nghi ngờ tài khoản của mình bị đăng nhập trái với ý muốn của Bạn, Bạn có thể (i) ngay lập tức thay đổi mật khẩu và/hoặc (ii) thông báo cho VNG và thực hiện các thủ tục cần thiết tạm khóa tài khoản nhằm giảm thiểu các thiệt hại cho Bạn theo đúng quy trình hỗ trợ giải quyết khiếu nại khách hàng của VNG.
+   4.7 Bạn hiểu rõ và đồng ý rằng, để tăng cường mức độ bảo mật, an toàn của dịch vụ, VNG có quyền áp dụng một hoặc một vài biện pháp kỹ thuật và/hoặc phần mềm, ứng dụng vào trong hoặc bên cạnh Trò Chơi; mặc dù vậy, việc áp dụng các biện pháp nêu trên không được là sự đảm bảo rằng tài khoản của Bạn không bị mất, bị hack và VNG được miễn trừ hoàn toàn trách nhiệm bởi các trường hợp này.
+   4.8 Bạn hiểu rõ và đồng ý rằng, để nâng cao hiệu quả sử dụng tài nguyên hệ thống, trường hợp Bạn không đăng nhập, sử dụng tài khoản Trò Chơi trong vòng sáu (6) tháng kể từ lần đăng nhập cuối cùng, VNG có quyền (nhưng không có nghĩa vụ) xóa toàn bộ tài khoản của Bạn trong Trò Chơi cùng với toàn bộ Dữ Liệu của Bạn.
+   4.9 Để VNG có thể phục vụ Bạn tốt nhất, Bạn theo đây đồng ý, cho phép không hủy ngang rằng VNG có quyền thông qua Trò Chơi để thu thập thông tin về thiết bị và/hoặc các ứng dụng trên thiết bị của Bạn, kể cả việc gửi đến thiết bị của Bạn các phần mềm, ứng dụng nhằm thu thập một số thông tin kỹ thuật được chứa đựng trong thiết bị của Bạn. VNG sẽ bảo mật toàn bộ các thông tin này theo đúng Chính sách bảo mật của VNG.
+]],
+[[
+5. Dịch Vụ Trò Chơi
+
+   5.1 Khi Bạn đã đồng ý và tuân thủ các quy định pháp luật liên quan và Quy Định Trò Chơi, VNG cấp cho Bạn quyền không độc quyền để sử dụng các dịch vụ và tính năng của Trò Chơi cho mục đích cá nhân, không thể chuyển giao, chuyển nhượng và thương mại hóa.
+   5.2 Ngoài việc sử dụng Trò Chơi được cấp cho Bạn như Điều 5.1, VNG bảo lưu toàn bộ quyền sở hữu trí tuệ đối với nhãn hiệu, mã nguồn Sản Phẩm, hình ảnh, tính năng, âm nhạc … trong Trò Chơi cùng với các quyền khác liên quan đến Trò Chơi và Bạn sẽ không thực hiện bất kỳ hành động nào khác ngoài các quyền đã nêu tại khoản 5.1 Điều 5 nếu không được VNG đồng ý trước bằng văn bản.
+]],
+[[
+   5.3 Bạn hiểu rõ và đồng ý rằng:
+     (a) Trong quá trình vận hành và cung ứng Sản Phẩm, để phục vụ khách hàng tốt nhất, VNG có quyền cập nhật, bổ sung, thay đổi, xóa, loại bỏ một hoặc một vài tính năng, giao diện, chức năng của Trò Chơi mà không phải báo trước đến Bạn. Trường hợp Bạn tiếp tục sử dụng Trò Chơi được xem là Bạn đã đồng ý với toàn bộ sự thay đổi này của Trò Chơi; trường hợp Bạn không đồng ý, Bạn cần ngay lập tức ngưng sử dụng Trò Chơi, không đăng nhập trở lại vào Trò Chơi và gỡ bỏ Trò Chơi hoàn toàn ra khỏi thiết bị của Bạn, trong trường hợp này, VNG sẽ có không có bất kỳ trách nhiệm nào đối với tài khoản và Dữ Liệu của Bạn trong Trò Chơi.
+     (b) Để đảm bảo tốc độ, sự trải nghiệm của Bạn trong Trò Chơi, VNG có quyền định kỳ hoặc tại bất kỳ thời điểm nào hợp lý thực hiện xóa Dữ Liệu cũ lưu trữ trên máy chủ Trò Chơi.
+     (c) VNG sẽ áp dụng các biện pháp kỹ thuật cần thiết nhằm hỗ trợ Bạn có được trải nghiệm tốt nhất khi sử dụng Sản Phẩm; mặc dù vậy, trong một số trường hợp ngoài ý muốn, Trò Chơi có thể (i) bị gián đoạn cung cấp, (ii) bị lỗi (bug), (iii) bị mất hoặc trùng lặp một số thông tin, tính năng của Trò Chơi và/hoặc tài khoản của Bạn, trong trường hợp này, VNG sẽ áp dụng mọi biện pháp cần thiết (trong khả năng cho phép) trong thời gian hợp lý để khắc phục và Bạn đồng ý miễn trừ cho VNG mọi trách nhiệm liên quan.
+     (d) Toàn bộ thông tin kỹ thuật, thông tin về tính năng, công thức, giải pháp kỹ thuật của Trò Chơi đều là thông tin mật; vì vậy, VNG không có nghĩa vụ cung cấp cho Bạn bất kỳ thông tin nào nêu trên dưới bất kỳ hình thức nào.
+     (e) Để cung cấp dịch vụ Trò Chơi đến Bạn tốt nhất và không ngừng cải thiện, VNG có quyền điều chỉnh, cập nhật hoặc tối ưu hóa như thiết lập các trị số liên quan và/hoặc tính năng của các đơn vị ảo, vật phẩm ảo, điểm thưởng trong Trò Chơi mà Bạn đã có hoặc đang sử dụng mà không cần báo trước hoặc cần sự đồng ý của Bạn và Bạn sẽ không truy cứu bất kỳ trách nhiệm nào của VNG.
+     (f) Trò Chơi được cung cấp cho Bạn với mục đích giải trí cùng với các trải nghiệm (nhằm giải trí) của Bạn trong Trò Chơi; tuân thủ các quy định pháp luật có liên quan, toàn bộ các vật phẩm ảo, đơn vị ảo, điểm thưởng và Point trong Trò Chơi không phải là tài sản, không có giá trị quy đổi ngược lại thành tiền, thẻ thanh toán, phiếu thưởng hoặc các hiện vật có giá trị giao dịch bên ngoài Trò Chơi; vì vậy, trường hợp tài khoản Trò Chơi của Bạn bị xóa và/hoặc Trò Chơi bị tạm ngưng hoặc ngưng cung cấp hoàn toàn (vì bất kỳ lý do nào), toàn bộ đơn vị ảo, vật phẩm ảo, điểm thưởng, Point nêu trên cũng sẽ không còn giá trị sử dụng và sẽ bị xóa ngay sau khi được hoàn tất các thủ tục theo quy định của pháp luật (nếu có) và VNG không có nghĩa vụ hoàn trả, bồi thường bất kỳ khoản tiền mặt hay hiện vật, hiện kim nào cho Bạn; mặc dù vậy, VNG sẽ nỗ lực thông báo trước đến Bạn trong một khoảng thời gian hợp lý và có phương án để đảm bảo quyền lợi của Bạn theo đúng quy định pháp luật.
+]],
+[[
+     (g) Các chương trình khuyến mại, sự kiện trong Trò Chơi sẽ chỉ được thông báo chính thức trên Trang Chủ Của Trò Chơi và/hoặc thông báo bằng hệ thống trong Trò Chơi; vì vậy, đối với những thông tin quảng cáo, chương trình khuyến mại, lời chào mời không xuất phát từ những nguồn chính thống nêu đều có thể nhằm lừa đảo, chiếm đoạt tài khoản của Bạn và VNG không có bất kỳ trách nhiệm nào đối với Bạn trong trường hợp này.
+     (h) VNG chỉ chấp nhận việc thanh toán qua kênh thanh toán của VNG hoặc kênh thanh toán do đối tác của VNG cung cấp được giới thiệu, công bố trong Trò Chơi và/hoặc tại Trang Chủ Của Trò Chơi; trường hợp Bạn sử dụng các kênh thanh toán khác thì VNG sẽ không có bất kỳ trách nhiệm nào với Bạn. Mặc dù vậy, trong bất kỳ trường hợp nào sau khi Bạn thanh toán thành công, VNG đã ghi nhận số đơn vị quy đổi tương ứng vào tài khoản của Bạn trong Trò Chơi nhưng sau đó bị đơn vị cung cấp dịch vụ thanh toán, trung gian thanh toán yêu cầu hoàn tiền (do có yêu cầu, khiếu nại từ chủ thẻ) thì VNG buộc phải thực hiện yêu cầu hoàn tiền này theo các quy định liên quan và sẽ khấu trừ tương ứng vào tài khoản của Bạn, và các lợi ích khác mà Bạn có được từ lần thanh toán đó, trường hợp lần khấu trừ đó không đủ (do Bạn đã sử dụng) thì VNG có quyền khấu trừ vào các lần tiếp theo và/hoặc thu hồi vật phẩm ảo mà Bạn dùng đơn vị quy đổi để có được. Ngoài ra, trong một số trường hợp, tùy mức độ vi phạm, Bạn có thể bị khóa tài khoản vĩnh viễn liên quan đến hành vi này.
+]],
+[[
+6. Hành Vi Vi Phạm Và Biện Pháp Xử Lý
+
+   6.1 Bên cạnh việc tuân thủ các Quy Định Trò Chơi, Bạn sẽ không thực hiện bất kỳ hành vi nào sau đây:
+     (a) Lợi dụng việc sử dụng Trò Chơi để:
+       (i) Chống lại Nhà nước Cộng Hòa Xã Hội Chủ Nghĩa Việt Nam; gây phương hại đến an ninh quốc gia, trật tự an toàn xã hội; phá hoại khối đại đoàn kết dân tộc; tuyên truyền chiến tranh, khủng bố; gây hận thù, mâu thuẫn giữa các dân tộc, sắc tộc, tôn giáo;
+       (ii) Tuyên truyền, kích động bạo lực, dâm ô, đồi trụy, tội ác, tệ nạn xã hội, mê tín dị đoan, phá hoại thuần phong, mỹ tục của dân tộc;
+       (iii) Tiết lộ bí mật nhà nước, bí mật quân sự, an ninh, kinh tế, đối ngoại và những bí mật khác do pháp Luật quy định;
+       (iv) Đưa thông tin xuyên tạc, vu khống, xúc phạm uy tín của tổ chức, danh dự và nhân phẩm của cá nhân;
+       (v) Quảng cáo, tuyên truyền, mua bán hàng hóa, dịch vụ trong Trò Chơi, đặc biệt là hàng hóa, dịch vụ bị cấm; truyền bá tác phẩm báo chí, văn học, nghệ thuật, xuất bản phẩm bị cấm;
+       (vi) Giả mạo tổ chức, cá nhân và phát tán thông tin giả mạo, thông tin sai sự thật xâm hại đến quyền và lợi ích hợp pháp của tổ chức, cá nhân.
+     (b) Thực hiện các hành vi xâm phạm quyền sở hữu trí tuệ của VNG và Nhà phát triển đối với với Sản Phẩm dưới đây:
+       (i) Xóa các thông tin liên quan đến bản quyền, quyền sở hữu trí tuệ trên Sản Phẩm;
+       (ii) Chỉnh sửa, đảo ngược mã, biên tập lại mã của Sản Phẩm hoặc dùng các cách thức khác để phát hiện mã nguồn gốc của Sản Phẩm;
+       (iii) Scan, kiểm tra, kiểm thử để phát hiện hay tìm kiếm lỗi (bug) hoặc điểm yếu tồn tại của Sản Phẩm cho mục đích bất chính;
+       (iv) Tiến hành sao chép, chỉnh sửa, thêm, bớt, thay đổi tính năng hoặc hiệu quả vận hành của Sản Phẩm đối với dữ liệu sinh ra và lưu trữ tại bất kỳ điểm nào trong quá trình vận hành Sản Phẩm hoặc dữ liệu tương tác của máy chủ (server) và client trong quá trình vận hành Sản Phẩm và dữ liệu hệ thống cần thiết để vận hành Sản Phẩm, bao gồm nhưng không giới hạn ở plug-in, auto hoặc hệ thống liên quan khác kết nối với các công cụ của bên thứ ba khi chưa được VNG cho phép, đồng ý trước bằng văn bản;
+       (v) Sử dụng, cho thuê, cho mượn, sao chép, chỉnh sửa, liên kết, chuyển tải, biên tập, xuất bản hay tạo các website, microsite … đối với các nội dung sở hữu trí tuệ mà VNG sở hữu hoặc được độc quyền sử dụng, phân phối, phát hành;
+       (vi) Tạo các website, microsite liên quan đến Sản Phẩm hoặc tương tự hoặc hoàn toàn giống với Sản Phẩm.
+]],
+[[
+     (c) Liên quan đến vận hành, sử dụng Trò Chơi:
+       (i) Sử dụng trái phép tài khoản, mật khẩu của người chơi khác.
+       (ii) Thực hiện việc mua bán, trao đổi đơn vị ảo, vật phẩm ảo, điểm thưởng trong Trò Chơi hoặc tài khoản Trò Chơi giữa người chơi với nhau bằng tiền, hiện vật hay hiện kim.
+       (iii) Phá vỡ tính công bằng trong Trò Chơi bằng việc (i) lợi dụng - bất kể là vô tình hay hữu ý - (các) lỗi trong Trò Chơi, thiếu sót trong kịch bản, thiết kế của Trò Chơi nhằm mục đích gian lận hay bất kỳ hành vi nào vi phạm Quy Định Trò Chơi; (ii) sử dụng phần mềm, ứng dụng và/hoặc thiết bị thứ ba để can thiệp vào Trò Chơi và/hoặc hệ thống máy chủ của Trò Chơi và/hoặc (iii) bất kỳ hành vi nào nhằm giành được lợi thế nhiều hơn so với người chơi khác trái với Quy Định Trò Chơi.
+       (iv) Đầu cơ, trục lợi các đơn vị ảo, vật phẩm ảo trong Trò Chơi và/hoặc sử dụng các đơn vị ảo, vật phẩm ảo được tạo ra trái với Quy Định Trò Chơi.
+       (v) Bằng cách này hay cách khác để gian lận, không tuân thủ Quy Định Trò Chơi nhằm thu lợi bất chính.
+       (vi) Bàn luận hoặc thể hiện quan điểm chính trị, tôn giáo, sắc tộc trong Trò Chơi.
+       (vii) Nói tục, chửi bậy và/hoặc có hành vi, lời nói xúc phạm đến danh dự, uy tín, nhân phẩm của bất kỳ tổ chức, cá nhân nào bất kể là trong Trò Chơi hay ngoài Trò Chơi.
+       (viii) Thực hiện các hành vi dụ dỗ, lôi kéo, hứa hẹn với người chơi khác nhằm mục đích lừa đảo.
+       (ix) Mạo nhận hay cố ý làm người khác lầm tưởng Bạn là một người chơi khác và/hoặc người khác không phải là Bạn trong Trò Chơi.
+       (x) Mạo nhận hay cố ý làm cho người khác lầm tưởng Bạn là nhân viên, người lao động hay cộng tác viên của VNG.
+       (xi) Có bất kỳ hành vi, lời nói, cử chỉ hay thái độ làm tổn hại đến uy tín, thương hiệu của Trò Chơi và/hoặc VNG.
+       (xii) Thực hiện các hành vi gây rối, gây mất an ninh trật tự tại trụ sở hay bất kỳ chi nhánh, văn phòng đại diện, địa điểm kinh doanh nào VNG và/hoặc các đơn vị liên kết với VNG.
+       (xiii) Có bất kỳ lời nói, cử chỉ hay hành động nào xâm phạm đến thân thể, uy tín, danh dự, nhân phẩm hay đe dọa nhân viên, người lao động (bất kể là nhân viên thời vụ, cộng tác viên hay nhân viên chính thức) của VNG.
+       (xiv) Các hành vi khác (i) vi phạm pháp luật; (ii) trái với thuần phong mỹ tục của người Việt Nam; (iii) trái với quy tắc hành xử thông thường của cộng đồng người sử dụng trò chơi điện tử trên mạng và/hoặc của ngành giải trí trực tuyến.
+]],
+[[
+   6.2 Đối với các hành vi vi phạm Quy Định Trò Chơi, VNG có quyền tự mình và/hoặc thông qua hệ thống, tính năng của Trò Chơi để xử lý các hành vi vi phạm; tùy theo mức độ, các hành vi vi phạm có thể bị xử lý theo một hoặc một vài hình thức sau:
+     (a) Nhắc nhở: Áp dụng đối với các hành vi vi phạm lần đầu và gây ít ảnh hưởng đến Trò Chơi và/hoặc người chơi khác.
+     (b) Cảnh cáo: Áp dụng đối với các hành vi vi phạm đã bị nhắc nhở nhưng không khắc phục và/hoặc tái phạm HOẶC vi phạm quy định tại các tiểu mục (vi), (vii), (viii), (ix), (x), (xi) điểm (c), khoản 6.1 Điều 6 của Điều Khoản Sử Dụng này.
+     (c) Khấu trừ và/hoặc xóa đơn vị ảo, vật phẩm ảo trong trò chơi: Áp dụng đối với các hành vi đã bị Cảnh cáo mà không khắc phục và/hoặc tái phạm VÀ/HOẶC vi phạm quy định tại các tiểu mục (iii), (iv), (v) điểm (c), khoản 6.1 Điều 6 của Điều Khoản Sử Dụng này.
+     (d) Khóa tài khoản có thời hạn (thời hạn cụ thể sẽ tùy thuộc vào hành vi, mức độ vi phạm): Áp dụng đối với các hành vi đã bị Cảnh cáo VÀ/HOẶC đã bị xử lý theo quy định tại điểm (c) khoản 6.2 Điều này mà không khắc phục và/hoặc tái phạm HOẶC vi phạm quy định tại các tiểu mục (xii), (xiii) điểm (c) khoản 6.1 Điều 6 của Điều Khoản Sử Dụng này.
+     (e) Khóa tài khoản vĩnh viễn: Áp dụng đối với các hành vi đã bị xử lý theo quy định tại điểm (d) khoản 6.2 Điều này mà không khắc phục và/hoặc tái phạm HOẶC vi phạm quy định tại các điểm (a), (b), tiểu mục (i), (ii), (xiv) điểm (c), khoản 6.1 Điều 6 của Điều Khoản Sử Dụng này.
+     (f) Chuyển hồ sơ đến Cơ quan Nhà nước có thẩm quyền để xử lý vi phạm hay khởi tố hình sự: Áp dụng cho tất cả các hành vi vi phạm khi có dấu hiệu hình sự.
+     Mặc dù đã có quy định cụ thể ở trên, trong một số trường hợp đặc biệt, VNG có quyền áp dụng bổ sung hoặc áp dụng đồng thời các biện pháp xử lý nhằm mục đích răn đe và/hoặc đảm bảo môi trường Trò Chơi lành mạnh, công bằng.
+   6.3 Trường hợp VNG phát hiện và/hoặc được nhận khiếu nại, tố cáo liên quan đến việc vi phạm Quy Định Trò Chơi của Bạn và/hoặc tài khoản trong Trò Chơi của Bạn thì tùy theo hành vi và mức độ vi phạm mà VNG có toàn quyền xử lý theo Quy Định Trò Chơi; đồng thời, VNG có quyền (nhưng không có nghĩa vụ) công bố tên tài khoản của Bạn, hình thức xử lý lên Trang Chủ Của Trò Chơi, thông báo bên trong Trò Chơi cho những người chơi khác và/hoặc các kênh thông tin khác mà VNG có thể tiếp cận, thông tin đến những người chơi khác của Trò Chơi.
+]],
+[[
+7. Giải Quyết Khiếu Nại, Tố Cáo Liên Quan Đến Trò Chơi
+
+   7.1 Mọi khiếu nại, tố cáo hay phản ánh liên quan đến Trò Chơi sẽ chỉ được VNG tiếp nhận và phản hồi qua kênh Chăm sóc khách hàng trực tuyến (online) (i) trong Trò Chơi hoặc (ii) tại phần hỗ trợ trong Trò Chơi hoặc (iii) số điện thoại hotline và theo đúng Quy trình Chăm sóc và phản hồi khách hàng của VNG tại thời điểm tiếp nhận khiếu nại.
+   7.2 Để thực hiện khiếu nại, tố cáo hay phản ánh liên quan đến Trò Chơi, tài khoản của Bạn cần phải là tài khoản đã được định danh đầy đủ để VNG có cơ sở tiếp nhận và liên hệ với Bạn. Trường hợp tài khoản của Bạn chưa được định danh đầy đủ hoặc VNG có cơ sở hợp lý để cho rằng thông tin Bạn cung cấp là không chính xác thì VNG có quyền từ chối giải quyết khiếu nại, tố cáo của Bạn đến khi Bạn cung cấp thông tin đầy đủ và chính xác.
+   7.3 Bạn đồng ý rằng, phản hồi của VNG về các khiếu nại, tố cáo của Bạn thông qua kênh Chăm sóc khách hàng trực tuyến là quyết định cuối cùng và chính thức của VNG theo đúng quy định của Luật Giao Dịch Điện Tử 2005.
+]],
+[[
+8. Quyền Sở Hữu Trí Tuệ
+
+   8.1 Toàn bộ Trò Chơi và các tài liệu liên quan là tài sản sở hữu trí tuệ của VNG và Nhà phát triển của Trò Chơi, do đó khi VNG cấp quyền cho Bạn sử dụng dịch vụ Trò Chơi như đã nêu tại Điều 5.1, Bạn hiểu rằng, Bạn chỉ được tải gói cài đặt sản phẩm về thiết bị của mình, cài đặt và sử dụng mà không thực hiện bất kỳ hành vi nào nhằm thay đổi tình trạng của Sản Phẩm.
+   8.2 Toàn bộ Dữ Liệu sinh ra trong quá trình Bạn sử dụng Trò Chơi đều thuộc quyền sở hữu duy nhất của VNG; theo đó, VNG được toàn quyền lưu trữ, sử dụng, xử lý các Dữ Liệu này.
+]],
+[[
+9. Tuân Thủ Pháp Luật
+
+   9.1 Bạn hiểu rõ và đồng ý rằng, Bạn sẽ (i) tuân thủ đầy đủ quy định của pháp luật Việt Nam liên quan đến Trò Chơi, (ii) tuân thủ đầy đủ quy định của pháp luật nơi Bạn truy cập, sử dụng Trò Chơi hoặc pháp luật của quốc gia mà Bạn mang quốc tịch và (iii) tự chịu trách nhiệm về bất kỳ hậu quả nào của việc không tuân thủ bất kỳ quy định nào tại nơi mà Bạn truy cập, sử dụng Trò Chơi và đảm bảo VNG sẽ không phải chịu bất kỳ trách nhiệm nào liên quan.
+   9.2 Trường hợp VNG nhận được bất kỳ khiếu nại, thông báo hay yêu cầu nào liên quan đến việc Bạn không đáp ứng được các yêu cầu nêu trên và/hoặc VNG có cơ sở để suy đoán hợp lý dựa trên các thông tin mà VNG có được thì VNG có quyền (i) ngưng cung cấp dịch vụ Trò Chơi cho Bạn mà không phải báo trước hay chịu bất kỳ trách nhiệm nào với Bạn và/hoặc (ii) chặn toàn bộ truy cập đến từ quốc gia nghiêm cấm việc sử dụng Trò Chơi.
+]],
+[[
+10. Luật Áp Dụng
+
+   Điều Khoản Sử Dụng này được áp dụng và giải thích theo các quy định của pháp luật nước Cộng Hòa Xã Hội Chủ Nghĩa Việt Nam về mọi vấn đề, khía cạnh liên quan đến Điều Khoản Sử Dụng.
+]],
+[[
+11. Sửa Đổi Điều Khoản Sử Dụng Và Hiệu Lực
+
+   11.1 Điều Khoản Sử Dụng này có hiệu lực kể từ ngày 10 tháng 11 năm 2018 cho đến khi có văn bản thay thế hoặc hủy bỏ và thay thế cho tất cả các Điều Khoản Sử Dụng trước đó liên quan đến Trò Chơi.
+   11.2 Bạn đồng ý rằng, VNG có quyền sửa đổi, bổ sung một phần hoặc toàn bộ các quy định tại Điều Khoản Sử Dụng này mà không cần có sự đồng ý trước của Bạn. Trường hợp Bạn không đồng ý với các điểm sửa đổi, bổ sung, Bạn có quyền chấm dứt sử dụng Trò Chơi trước khi các điểm sửa đổi, bổ sung có hiệu lực; trường hợp Bạn tiếp tục sử dụng Trò Chơi thì sẽ được hiểu là Bạn đã đồng ý với toàn bộ các điểm sửa đổi, bổ sung đó.
+   11.3 Trường hợp có sự mâu thuẫn giữa Điều Khoản Sử Dụng này với Quy chế sử dụng ZingID và/hoặc Thỏa thuận sử dụng của các Tài Khoản Liên Kết thì quy định tại Điều Khoản Sử Dụng này sẽ được ưu tiên áp dụng.
+   11.4 Trường hợp có sự mâu thuẫn giữa Điều Khoản Sử Dụng này với các Thông báo chính thức của VNG thì nội dung của Thông báo chính thức đó được ưu tiên áp dụng trước.
+]],
+[[
+12. Điều Khoản Còn Lại
+
+   12.1 Việc một hoặc một vài điều khoản trong Điều Khoản Sử Dụng này bị Tòa án tuyên bố là vô hiệu sẽ không ảnh hưởng đến hiệu lực của các điều khoản còn lại và các điều khoản còn lại đó vẫn có giá trị ràng buộc Bạn với VNG.
+   12.2 Việc VNG không thực hiện hoặc chậm thực hiện bất kỳ quyền, hay biện pháp xử lý nào theo quy định tại Điều Khoản Sử Dụng này hay Quy Định Trò Chơi không được xem là sự từ bỏ bất kỳ quyền, biện pháp xử lý nào trong Điều Khoản Sử Dụng này và việc thực hiện một phần hoặc toàn bộ quyền đơn lẻ cũng không loại trừ việc thực hiện bất kỳ quyền, quyền hạn hoặc biện pháp xử lý khác quy định trong Điều Khoản Sử Dụng này.
+]]

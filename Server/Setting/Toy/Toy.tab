@@ -1,0 +1,18 @@
+nId	szName	szClass	szIcon	szAtlas	szFrameColor	szNameColor	szDesc	szOutput	nSort
+1	Chong Chóng	ToyWindmill	Toys_xiaofengche	UI/Atlas/Item/Item/Item17.prefab	itemframeBlue	Blue	Đồ trẻ con yêu thích, có thể thổi ra bong bóng	[FFFE0D]Đăng nhập ngày 8 nhận thưởng[-] nhận	1
+2	Nghênh Khách	ToyChild	Toys_yingkexiaotong	UI/Atlas/Item/Item/Item17.prefab	itemframeBlue	Blue	Đồ chơi thần kỳ, khua chiêng trống nghênh khách quý	[FFFE0D]Thành Tựu-Công Thành Danh Toại[-] nhận	2
+3	Lưu Ly Đăng	ToyLight	Toys_liulideng	UI/Atlas/Item/Item/Item17.prefab	itemframeBlue	Blue	Thu hút mọi ánh nhìn	[FFFE0D]Quà Kiếm Hiệp 10[-] nhận	3
+4	Hóa Cốt Tán	ToyFreeze	Toys_huagusan	UI/Atlas/Item/Item/Item17.prefab	itemframeBlue	Blue	Giết người vô hình, nhưng hình như đã hết hạn	[FFFE0D]Thành Tựu-Thập Toàn Năng[-] nhận	4
+5	Thanh Phong	ToyHat	Toys_qingfeng	UI/Atlas/Item/Item/Item17.prefab	itemframeBlue	Blue	Xuân luôn bên bạn	[FFFE0D]Thành Tựu-Truy Giết[-] nhận	5
+6	Thiên Ma Sáo	ToyDance	Toys_tianmodi	UI/Atlas/Item/Item/Item17.prefab	itemframeBlue	Blue	Ma sáo, có thể ảnh hưởng tâm trí	[FFFE0D]Thành Tựu-Tinh Thông[-] nhận	6
+7	Tiếu Xuân Phong	ToyLaugh	Toys_xiaochunfeng	UI/Atlas/Item/Item/Item17.prefab	itemframeBlue	Blue	Không ai nỡ đánh người tươi cười	[FFFE0D]Thành Tựu-Lễ Nghĩa Qua Lại[-] nhận	7
+8	Mặt Nạ	ToyMask	Toys_mianju	UI/Atlas/Item/Item/Item17.prefab	itemframeBlue	Blue	Chúng ta không phải hội sắc đẹp, đeo mặt nạ tìm giai nhân	[FFFE0D]Nhiệm vụ Kiếm Ý Phong Lưu[-] nhận	8
+9	Quẻ Đại Cát	ToyLabel	Toys_shangshangqian	UI/Atlas/Item/Item/Item17.prefab	itemframeBlue	Blue	Đồ rơi mất của thầy bói bên đường, hình như có linh khí	[FFFE0D]Thành Tựu-Quá Xui Xẻo[-] nhận	9
+10	Kiếm Hiệp Chí	ToyBook	Toys_jianxiazhi	UI/Atlas/Item/Item/Item17.prefab	itemframeBlue	Blue	Dùng để kỉ niệm ngày chúng ta vào giang hồ, ngày nào đó sẽ mở ra	[FFFE0D]Thành Tựu-Kiếm Tâm Bất Lão[-] nhận	10
+11	Rối Cơ Giáp	ToyMecha	MachineArmor	UI/Atlas/Item/Item/Item17.prefab	itemframeBlue	Blue	Thợ rèn thần bí chế tạo, dùng có sức mạnh to lớn	[FFFE0D]Thành Tựu-Bậc Thầy Sinh Tồn[-] nhận	11
+12	Hũ Rượu	ToyWine	WineJars	UI/Atlas/Item/Item/Item17.prefab	itemframeBlue	Blue	Rượu lâu năm, không được hoang phí	[FFFE0D]Thành Tựu Bí Ẩn[-] nhận	12
+13	Người Tuyết Nhỏ	ToySnowman	Snowman	UI/Atlas/Item/Item/Item17.prefab	itemframeBlue	Blue	Nó sẽ cùng ngươi vượt qua giá lạnh	[FFFE0D]Hoạt động Ném Tuyết[-] nhận	13
+14	Đầu Rồng	ToyDragonHead	Dragon1	UI/Atlas/Item/Item/Item19.prefab	itemframeBlue	Blue	Nối với bộ phận khác nhận hiệu quả đặc biệt, nhiều người nối nhận được nhiều thưởng hơn	[FFFE0D]Ưu Đãi Hạn Giờ Năm Mới[-] nhận	14
+15	Mình Rồng	ToyDragonBody	Dragon2	UI/Atlas/Item/Item/Item19.prefab	itemframeBlue	Blue	Nối với bộ phận khác nhận hiệu quả đặc biệt, nhiều người nối nhận được nhiều thưởng hơn	[FFFE0D]Ưu Đãi Hạn Giờ Năm Mới[-] nhận	15
+16	Đuôi Rồng	ToyDragonTail	Dragon3	UI/Atlas/Item/Item/Item19.prefab	itemframeBlue	Blue	Nối với bộ phận khác nhận hiệu quả đặc biệt, nhiều người nối nhận được nhiều thưởng hơn	[FFFE0D]Ưu Đãi Hạn Giờ Năm Mới[-] nhận	16
+17	Heo Vàng	ToyPig	PetPig	UI/Atlas/Item/Item/Item19.prefab	itemframeBlue	Blue	Đây là những chú heo nhỏ dễ thương	[FFFE0D]Hoạt động Tuyệt Địa Thí Luyện cá nhân[-] nhận	17

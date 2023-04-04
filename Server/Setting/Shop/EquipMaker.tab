@@ -1,0 +1,161 @@
+nId	nHouse	nQuality	szQualityName	szName	nItem1Id	nItem2Id	nItem3Id	nRate1	nRate2	nRate3	szMoneyType	nPrice
+1	7	2	Bậc 2	Vũ Khí T2 (Chưa giám định)	1023	1613	1123	75	20	5	Contrib	1000
+2	7	2	Bậc 2	Áo T2 (Chưa giám định)	1083	1661	1183	75	20	5	Contrib	600
+3	7	3	Bậc 3	Vũ Khí T3 (Chưa giám định)	1024	1614	1124	75	20	5	Contrib	2000
+4	7	3	Bậc 3	Áo T3 (Chưa giám định)	1084	1662	1184	75	20	5	Contrib	1200
+5	7	4	Bậc 4	Vũ Khí T4 (Chưa giám định)	1025	1615	1125	75	20	5	Contrib	5000
+6	7	4	Bậc 4	Áo T4 (Chưa giám định)	1085	1663	1185	75	20	5	Contrib	3000
+7	7	5	Bậc 5	Vũ Khí T5 (Chưa giám định)	1026	1616	1126	75	20	5	Contrib	12000
+8	7	5	Bậc 5	Áo T5 (Chưa giám định)	1086	1664	1186	75	20	5	Contrib	7200
+9	7	6	Bậc 6	Vũ Khí T6 (Chưa giám định)	1027	1617	1127	75	20	5	Contrib	15000
+10	7	6	Bậc 6	Áo T6 (Chưa giám định)	1087	1665	1187	75	20	5	Contrib	9000
+11	7	7	Bậc 7	Vũ Khí T7 (Chưa giám định) 	1028	1618	1128	75	20	5	Contrib	20000
+12	7	7	Bậc 7	Áo T7 (Chưa giám định) 	1088	1666	1188	75	20	5	Contrib	12000
+13	7	8	Bậc 8	Vũ Khí T8 (Chưa giám định) 	1029	1619	1129	75	20	5	Contrib	27000
+14	7	8	Bậc 8	Áo T8 (Chưa giám định) 	1089	1667	1189	75	20	5	Contrib	16200
+15	7	9	Bậc 9	Vũ Khí T9 (Chưa giám định) 	1030	3647	1130	75	20	5	Contrib	36000
+16	7	9	Bậc 9	Áo T9 (Chưa giám định) 	1090	3659	1190	75	20	5	Contrib	21600
+17	7	10	Bậc 10	Vũ Khí T10 (Chưa giám định) 	1031	3648	1131	75	20	5	Contrib	45000
+18	7	10	Bậc 10	Áo T10 (Chưa giám định)	1091	3660	1191	75	20	5	Contrib	27000
+19	7	11	Bậc 11	Vũ Khí T11 (Chưa giám định) 	5441	5661	5561	75	20	5	Contrib	56250
+20	7	11	Bậc 11	Áo T11 (Chưa giám định) 	5521	5721	5621	75	20	5	Contrib	33750
+21	7	12	Bậc 12	Vũ Khí T12 (Chưa giám định)	5442	5662	5562	75	20	5	Contrib	65000
+22	7	12	Bậc 12	Áo T12 (Chưa giám định)	5522	5722	5622	75	20	5	Contrib	39000
+23	7	13	Bậc 13	Vũ Khí T13 (Chưa giám định)	5443	5663	5563	75	20	5	Contrib	74250
+24	7	13	Bậc 13	Áo T13 (Chưa giám định)	5523	5723	5623	75	20	5	Contrib	44550
+25	7	14	Bậc 14	Vũ Khí T14 (Chưa giám định)	5444	5664	5564	75	20	5	Contrib	85380
+26	7	14	Bậc 14	Áo T14 (Chưa giám định)	5524	5724	5624	75	20	5	Contrib	51230
+27	7	15	Bậc 15	Vũ Khí T15 (Chưa giám định)	5445	5665	5565	75	20	5	Contrib	98000
+28	7	15	Bậc 15	Áo T15 (Chưa giám định)	5525	5725	5625	75	20	5	Contrib	58800
+29	7	16	Bậc 16	Vũ Khí T16 (Chưa giám định)	5446	5666	5566	75	20	5	Contrib	112700
+30	7	16	Bậc 16	Áo T16 (Chưa giám định)	5526	5726	5626	75	20	5	Contrib	67620
+31	7	17	Bậc 17	Vũ Khí T16 (Chưa giám định)	5447	5667	5567	75	20	5	Contrib	124000
+32	7	17	Bậc 17	Áo T17 (Chưa giám định)	5527	5727	5627	75	20	5	Contrib	74400
+33	8	2	Bậc 2	Dây Chuyền T2 (Chưa giám định)	1033	1621	1133	75	20	5	Contrib	400
+34	8	2	Bậc 2	Nhẫn T2 (Chưa giám định)	1043	1629	1143	75	20	5	Contrib	400
+35	8	2	Bậc 2	Ngọc Bội T2 (Chưa giám định)	1053	1637	1153	75	20	5	Contrib	400
+36	8	2	Bậc 2	Hộ Thân Phù T2 (Chưa giám định)	1063	1645	1163	75	20	5	Contrib	400
+37	8	3	Bậc 3	Dây Chuyền T3 (Chưa giám định)	1034	1622	1134	75	20	5	Contrib	800
+38	8	3	Bậc 3	Nhẫn T3 (Chưa giám định)	1044	1630	1144	75	20	5	Contrib	800
+39	8	3	Bậc 3	Ngọc Bội T3 (Chưa giám định)	1054	1638	1154	75	20	5	Contrib	800
+40	8	3	Bậc 3	Hộ Thân Phù T3 (Chưa giám định)	1064	1646	1164	75	20	5	Contrib	800
+41	8	4	Bậc 4	Dây Chuyền T4 (Chưa giám định)	1035	1623	1135	75	20	5	Contrib	2000
+42	8	4	Bậc 4	Nhẫn T4 (Chưa giám định)	1045	1631	1145	75	20	5	Contrib	2000
+43	8	4	Bậc 4	Ngọc Bội T4 (Chưa giám định)	1055	1639	1155	75	20	5	Contrib	2000
+44	8	4	Bậc 4	Hộ Thân Phù T4 (Chưa giám định)	1065	1647	1165	75	20	5	Contrib	2000
+45	8	5	Bậc 5	Dây Chuyền T5 (Chưa giám định)	1036	1624	1136	75	20	5	Contrib	4800
+46	8	5	Bậc 5	Nhẫn T5 (Chưa giám định)	1046	1632	1146	75	20	5	Contrib	4800
+47	8	5	Bậc 5	Ngọc Bội T5 (Chưa giám định)	1056	1640	1156	75	20	5	Contrib	4800
+48	8	5	Bậc 5	Hộ Thân Phù T5 (Chưa giám định)	1066	1648	1166	75	20	5	Contrib	4800
+49	8	6	Bậc 6	Dây Chuyền T6 (Chưa giám định)	1037	1625	1137	75	20	5	Contrib	6000
+50	8	6	Bậc 6	Nhẫn T6 (Chưa giám định)	1047	1633	1147	75	20	5	Contrib	6000
+51	8	6	Bậc 6	Ngọc Bội T6 (Chưa giám định)	1057	1641	1157	75	20	5	Contrib	6000
+52	8	6	Bậc 6	Hộ Thân Phù T6 (Chưa giám định)	1067	1649	1167	75	20	5	Contrib	6000
+53	8	7	Bậc 7	Dây Chuyền T7 (Chưa giám định) 	1038	1626	1138	75	20	5	Contrib	8000
+54	8	7	Bậc 7	Nhẫn T7 (Chưa giám định) 	1048	1634	1148	75	20	5	Contrib	8000
+55	8	7	Bậc 7	Ngọc Bội T7 (Chưa giám định) 	1058	1642	1158	75	20	5	Contrib	8000
+56	8	7	Bậc 7	Hộ Thân Phù T7 (Chưa giám định) 	1068	1650	1168	75	20	5	Contrib	8000
+57	8	8	Bậc 8	Dây Chuyền T8 (Chưa giám định) 	1039	1627	1139	75	20	5	Contrib	10800
+58	8	8	Bậc 8	Nhẫn T8 (Chưa giám định) 	1049	1635	1149	75	20	5	Contrib	10800
+59	8	8	Bậc 8	Ngọc Bội T8 (Chưa giám định) 	1059	1643	1159	75	20	5	Contrib	10800
+60	8	8	Bậc 8	Hộ Thân Phù T8 (Chưa giám định) 	1069	1651	1169	75	20	5	Contrib	10800
+61	8	9	Bậc 9	Dây Chuyền T9 (Chưa giám định) 	1040	3649	1140	75	20	5	Contrib	14400
+62	8	9	Bậc 9	Nhẫn T9 (Chưa giám định) 	1050	3651	1150	75	20	5	Contrib	14400
+63	8	9	Bậc 9	Ngọc Bội T9 (Chưa giám định) 	1060	3653	1160	75	20	5	Contrib	14400
+64	8	9	Bậc 9	Hộ Thân Phù T9 (Chưa giám định) 	1070	3655	1170	75	20	5	Contrib	14400
+65	8	10	Bậc 10	Dây Chuyền T10 (Chưa giám định)	1041	3650	1141	75	20	5	Contrib	18000
+66	8	10	Bậc 10	Nhẫn T10 (Chưa giám định)	1051	3652	1151	75	20	5	Contrib	18000
+67	8	10	Bậc 10	Ngọc Bội T10 (Chưa giám định)	1061	3654	1161	75	20	5	Contrib	18000
+68	8	10	Bậc 10	Hộ Thân Phù T10 (Chưa giám định)	1071	3656	1171	75	20	5	Contrib	18000
+69	8	11	Bậc 11	Dây Chuyền T11 (Chưa giám định) 	5471	5671	5571	75	20	5	Contrib	22500
+70	8	11	Bậc 11	Nhẫn T11 (Chưa giám định) 	5481	5681	5581	75	20	5	Contrib	22500
+71	8	11	Bậc 11	Ngọc Bội T11 (Chưa giám định) 	5491	5691	5591	75	20	5	Contrib	22500
+72	8	11	Bậc 11	Hộ Thân Phù T11 (Chưa giám định) 	5501	5701	5601	75	20	5	Contrib	22500
+73	8	12	Bậc 12	Dây Chuyền T12 (Chưa giám định)	5472	5672	5572	75	20	5	Contrib	26000
+74	8	12	Bậc 12	Nhẫn T12 (Chưa giám định)	5482	5682	5582	75	20	5	Contrib	26000
+75	8	12	Bậc 12	Ngọc Bội T12 (Chưa giám định)	5492	5692	5592	75	20	5	Contrib	26000
+76	8	12	Bậc 12	Hộ Thân Phù T12 (Chưa giám định)	5502	5702	5602	75	20	5	Contrib	26000
+77	8	13	Bậc 13	Dây Chuyền T13 (Chưa giám định)	5473	5673	5573	75	20	5	Contrib	29700
+78	8	13	Bậc 13	Nhẫn T13 (Chưa giám định)	5483	5683	5583	75	20	5	Contrib	29700
+79	8	13	Bậc 13	Ngọc Bội T13 (Chưa giám định)	5493	5693	5593	75	20	5	Contrib	29700
+80	8	13	Bậc 13	Hộ Thân Phù T13 (Chưa giám định)	5503	5703	5603	75	20	5	Contrib	29700
+81	8	14	Bậc 14	Dây Chuyền T14 (Chưa giám định)	5474	5674	5574	75	20	5	Contrib	34150
+82	8	14	Bậc 14	Nhẫn T14 (Chưa giám định)	5484	5684	5584	75	20	5	Contrib	34150
+83	8	14	Bậc 14	Ngọc Bội T14 (Chưa giám định)	5494	5694	5594	75	20	5	Contrib	34150
+84	8	14	Bậc 14	Hộ Thân Phù T14 (Chưa giám định)	5504	5704	5604	75	20	5	Contrib	34150
+85	8	15	Bậc 15	Dây Chuyền T15 (Chưa giám định)	5475	5675	5575	75	20	5	Contrib	39200
+86	8	15	Bậc 15	Nhẫn T15 (Chưa giám định)	5485	5685	5585	75	20	5	Contrib	39200
+87	8	15	Bậc 15	Ngọc Bội T15 (Chưa giám định)	5495	5695	5595	75	20	5	Contrib	39200
+88	8	15	Bậc 15	Hộ Thân Phù T15 (Chưa giám định)	5505	5705	5605	75	20	5	Contrib	39200
+89	8	16	Bậc 16	Dây Chuyền T16 (Chưa giám định)	5476	5676	5576	75	20	5	Contrib	45080
+90	8	16	Bậc 16	Nhẫn T16 (Chưa giám định)	5486	5686	5586	75	20	5	Contrib	45080
+91	8	16	Bậc 16	Ngọc Bội T16 (Chưa giám định)	5496	5696	5596	75	20	5	Contrib	45080
+92	8	16	Bậc 16	Hộ Thân Phù T16 (Chưa giám định)	5506	5706	5606	75	20	5	Contrib	45080
+93	8	17	Bậc 17	Dây Chuyền T17 (Chưa giám định)	5477	5677	5577	75	20	5	Contrib	49600
+94	8	17	Bậc 17	Nhẫn T17 (Chưa giám định)	5487	5687	5587	75	20	5	Contrib	49600
+95	8	17	Bậc 17	Ngọc Bội T17 (Chưa giám định)	5497	5697	5597	75	20	5	Contrib	49600
+96	8	17	Bậc 17	Hộ Thân Phù T17 (Chưa giám định)	5507	5707	5607	75	20	5	Contrib	49600
+97	6	2	Bậc 2	Nón T2 (Chưa giám định)	1073	1653	1173	75	20	5	Contrib	200
+98	6	2	Bậc 2	Hộ Uyển T2 (Chưa giám định)	1093	1669	1193	75	20	5	Contrib	200
+99	6	2	Bậc 2	Đai T2 (Chưa giám định)	1103	1677	1203	75	20	5	Contrib	200
+100	6	2	Bậc 2	Giày T2 (Chưa giám định)	1113	1685	1213	75	20	5	Contrib	200
+101	6	3	Bậc 3	Nón T3 (Chưa giám định)	1074	1654	1174	75	20	5	Contrib	400
+102	6	3	Bậc 3	Hộ Uyển T3 (Chưa giám định)	1094	1670	1194	75	20	5	Contrib	400
+103	6	3	Bậc 3	Đai T3 (Chưa giám định)	1104	1678	1204	75	20	5	Contrib	400
+104	6	3	Bậc 3	Giày T3 (Chưa giám định)	1114	1686	1214	75	20	5	Contrib	400
+105	6	4	Bậc 4	Nón T4 (Chưa giám định)	1075	1655	1175	75	20	5	Contrib	1000
+106	6	4	Bậc 4	Hộ Uyển T4 (Chưa giám định)	1095	1671	1195	75	20	5	Contrib	1000
+107	6	4	Bậc 4	Đai T4 (Chưa giám định)	1105	1679	1205	75	20	5	Contrib	1000
+108	6	4	Bậc 4	Giày T4 (Chưa giám định)	1115	1687	1215	75	20	5	Contrib	1000
+109	6	5	Bậc 5	Nón T5 (Chưa giám định)	1076	1656	1176	75	20	5	Contrib	2400
+110	6	5	Bậc 5	Hộ Uyển T5 (Chưa giám định)	1096	1672	1196	75	20	5	Contrib	2400
+111	6	5	Bậc 5	Đai T5 (Chưa giám định)	1106	1680	1206	75	20	5	Contrib	2400
+112	6	5	Bậc 5	Giày T5 (Chưa giám định)	1116	1688	1216	75	20	5	Contrib	2400
+113	6	6	Bậc 6	Nón T6 (Chưa giám định)	1077	1657	1177	75	20	5	Contrib	3000
+114	6	6	Bậc 6	Hộ Uyển T6 (Chưa giám định)	1097	1673	1197	75	20	5	Contrib	3000
+115	6	6	Bậc 6	Đai T6 (Chưa giám định)	1107	1681	1207	75	20	5	Contrib	3000
+116	6	6	Bậc 6	Giày T6 (Chưa giám định)	1117	1689	1217	75	20	5	Contrib	3000
+117	6	7	Bậc 7	Nón T7 (Chưa giám định) 	1078	1658	1178	75	20	5	Contrib	4000
+118	6	7	Bậc 7	Hộ Uyển T7 (Chưa giám định) 	1098	1674	1198	75	20	5	Contrib	4000
+119	6	7	Bậc 7	Đai T7 (Chưa giám định) 	1108	1682	1208	75	20	5	Contrib	4000
+120	6	7	Bậc 7	Giày T7 (Chưa giám định) 	1118	1690	1218	75	20	5	Contrib	4000
+121	6	8	Bậc 8	Nón T8 (Chưa giám định) 	1079	1659	1179	75	20	5	Contrib	5400
+122	6	8	Bậc 8	Hộ Uyển T8 (Chưa giám định) 	1099	1675	1199	75	20	5	Contrib	5400
+123	6	8	Bậc 8	Đai T8 (Chưa giám định) 	1109	1683	1209	75	20	5	Contrib	5400
+124	6	8	Bậc 8	Giày T8 (Chưa giám định) 	1119	1691	1219	75	20	5	Contrib	5400
+125	6	9	Bậc 9	Nón T9 (Chưa giám định) 	1080	3657	1180	75	20	5	Contrib	7200
+126	6	9	Bậc 9	Hộ Uyển T9 (Chưa giám định) 	1100	3661	1200	75	20	5	Contrib	7200
+127	6	9	Bậc 9	Đai T9 (Chưa giám định) 	1110	3663	1210	75	20	5	Contrib	7200
+128	6	9	Bậc 9	Giày T9 (Chưa giám định) 	1120	3665	1220	75	20	5	Contrib	7200
+129	6	10	Bậc 10	Nón T10 (Chưa giám định)	1081	3658	1181	75	20	5	Contrib	9000
+130	6	10	Bậc 10	Hộ Uyển T10 (Chưa giám định)	1101	3662	1201	75	20	5	Contrib	9000
+131	6	10	Bậc 10	Đai T10 (Chưa giám định)	1111	3664	1211	75	20	5	Contrib	9000
+132	6	10	Bậc 10	Giày T10 (Chưa giám định)	1121	3666	1221	75	20	5	Contrib	9000
+133	6	11	Bậc 11	Nón T11 (Chưa giám định) 	5511	5711	5611	75	20	5	Contrib	11250
+134	6	11	Bậc 11	Hộ Uyển T11 (Chưa giám định) 	5531	5731	5631	75	20	5	Contrib	11250
+135	6	11	Bậc 11	Đai T11 (Chưa giám định) 	5541	5741	5641	75	20	5	Contrib	11250
+136	6	11	Bậc 11	Giày T11 (Chưa giám định) 	5551	5751	5651	75	20	5	Contrib	11250
+137	6	12	Bậc 12	Nón T12 (Chưa giám định)	5512	5712	5612	75	20	5	Contrib	13500
+138	6	12	Bậc 12	Hộ Uyển T12 (Chưa giám định)	5532	5732	5632	75	20	5	Contrib	13500
+139	6	12	Bậc 12	Đai T12 (Chưa giám định)	5542	5742	5642	75	20	5	Contrib	13500
+140	6	12	Bậc 12	Giày T12 (Chưa giám định)	5552	5752	5652	75	20	5	Contrib	13500
+141	6	13	Bậc 13	Nón T13 (Chưa giám định)	5513	5713	5613	75	20	5	Contrib	14850
+142	6	13	Bậc 13	Hộ Uyển T13 (Chưa giám định)	5533	5733	5633	75	20	5	Contrib	14850
+143	6	13	Bậc 13	Đai T13 (Chưa giám định)	5543	5743	5643	75	20	5	Contrib	14850
+144	6	13	Bậc 13	Giày T13 (Chưa giám định)	5553	5753	5653	75	20	5	Contrib	14850
+145	6	14	Bậc 14	Nón T14 (Chưa giám định)	5514	5714	5614	75	20	5	Contrib	17050
+146	6	14	Bậc 14	Hộ Uyển T14 (Chưa giám định)	5534	5734	5634	75	20	5	Contrib	17050
+147	6	14	Bậc 14	Đai T14 (Chưa giám định)	5544	5744	5644	75	20	5	Contrib	17050
+148	6	14	Bậc 14	Giày T14 (Chưa giám định)	5554	5754	5654	75	20	5	Contrib	17050
+149	6	15	Bậc 15	Nón T15 (Chưa giám định)	5515	5715	5615	75	20	5	Contrib	19600
+150	6	15	Bậc 15	Hộ Uyển T15 (Chưa giám định)	5535	5735	5635	75	20	5	Contrib	19600
+151	6	15	Bậc 15	Đai T15 (Chưa giám định)	5545	5745	5645	75	20	5	Contrib	19600
+152	6	15	Bậc 15	Giày T15 (Chưa giám định)	5555	5755	5655	75	20	5	Contrib	19600
+153	6	16	Bậc 16	Nón T16 (Chưa giám định)	5516	5716	5616	75	20	5	Contrib	22540
+154	6	16	Bậc 16	Hộ Uyển T16 (Chưa giám định)	5536	5736	5636	75	20	5	Contrib	22540
+155	6	16	Bậc 16	Đai T16 (Chưa giám định)	5546	5746	5646	75	20	5	Contrib	22540
+156	6	16	Bậc 16	Giày T16 (Chưa giám định)	5556	5756	5656	75	20	5	Contrib	22540
+157	6	17	Bậc 17	Nón T17 (Chưa giám định)	5517	5717	5617	75	20	5	Contrib	24800
+158	6	17	Bậc 17	Hộ Uyển T17 (Chưa giám định)	5537	5737	5637	75	20	5	Contrib	24800
+159	6	17	Bậc 17	Đai T17 (Chưa giám định)	5547	5747	5647	75	20	5	Contrib	24800
+160	6	17	Bậc 17	Giày T17 (Chưa giám định)	5557	5757	5657	75	20	5	Contrib	24800

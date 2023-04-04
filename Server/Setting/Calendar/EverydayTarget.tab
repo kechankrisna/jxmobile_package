@@ -1,0 +1,33 @@
+StringKey	SaveKey	Name	Func	Param
+Rank	1	Võ Thần Điện	JumpToAct	
+ActivityQuestion	2	Vấn Đáp	JumpToAct	
+CangBaoTu	3	Tàng Bảo Đồ	JumpToAct	
+EquipEnhance	4	Cường Hóa Trang Bị	OpenWindow	StrengthenPanel
+TeamFuben	5	Bí Cảnh Tổ Đội	JumpToAct	
+PunishTask	6	Nhiệm Vụ Trừng Ác	JumpToAct	
+ExplorationFuben	7	Tìm Kho Báu	JumpToAct	
+Boss	8	Khiêu chiến Minh Chủ Võ Lâm	JumpToAct	
+RandomFuben	9	Lăng Tuyệt Phong	JumpToAct	
+Battle	10	Chiến Trường Tống Kim	JumpToAct	
+CommerceTask	11	Nhiệm Vụ Thương Hội	JumpToAct	
+KinDonate	12	Góp Bang Hội	OpenKinVaultPanel	
+ChuanGong	13	Bang Hội Truyền Công	JumpToAct	
+EquipRefinement	14	Tẩy Luyện Trang Bị	OpenWindow	ItemBox|TogEquip
+XiuLian	15	Luyện Công Ngoài Thành	JumpToAct	
+WhiteTigerFuben	16	Bạch Hổ Đường	JumpToAct	
+FieldBoss	17	Danh Tướng	JumpToAct	
+KinGiftBox	18	Hộp Quà Bang Hội	OpenKinVaultPanel	
+KinGather	19	Lửa Trại Bang Hội	JumpToAct	
+EquipStone	20	Khảm Đá Hồn	OpenWindow	StrengthenPanel|Inset
+TeamBattle	21	Thông Thiên Tháp	JumpToAct	
+KinFuben	22	Thí Luyện Bang Hội	JumpToAct	
+FactionBattle	23	Thi Đấu Môn Phái	JumpToAct	
+RechargeGift	24	Nhận thưởng 7 ngày hoặc 30 ngày	OpenWindow	WelfareActivity|RechargeGift
+DailyRechargeGift	25	Mua Quà Mỗi Ngày tùy ý	OpenWindow	WelfareActivity|DailyRechargeGift
+DomainBattle	26	Công Thành Chiến	OpenWindow	KinDetailPanel|DomainBattleMain
+HeroChallenge	27	Khiêu Chiến Anh Hùng	JumpToAct	
+InDifferBattle	28	Tâm Ma Ảo Cảnh	JumpToAct	
+Muse	29	Ngồi Thiền Tịnh Tâm	JumpToAct	
+QunYingHui	30	Quần Anh Hội	JumpToAct	
+KinSecretFuben	31	Bí Cảnh Bang Hội	JumpToAct	
+KinDefendFuben	32	Bảo Vệ Bang Hội	JumpToAct	

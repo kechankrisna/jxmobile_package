@@ -1,0 +1,66 @@
+Key	ID	Name	Type	MaxNum	MaxSaveNum	TimeFrame	Tips	Sub	ActivityType
+kin	1	Bang Hội	0	30	100		Căn cứ hạng uy danh Bang Hội		
+FightPower	2	Lực Chiến	0	500	500		Căn cứ lực chiến nhân vật		
+qunyinghui	3	Quần Anh Hội	0	500	500	NotOpen	Hạng Quần Anh Hội		
+Level	4	Cấp	0	500	500		Căn cứ cấp nhân vật		
+FightPower_1	5	Thiên Vương	0	500	500		Căn cứ lực chiến nhân vật Thiên Vương	Phái	
+FightPower_2	6	Nga Mi	0	500	500		Căn cứ lực chiến nhân vật Nga Mi	Phái	
+FightPower_3	7	Đào Hoa	0	500	500		Căn cứ lực chiến nhân vật Đào Hoa	Phái	
+FightPower_4	8	Tiêu Dao	0	500	500		Căn cứ lực chiến nhân vật Tiêu Dao	Phái	
+FightPower_5	9	Võ Đang	0	500	500		Căn cứ lực chiến nhân vật Võ Đang	Phái	
+FightPower_6	10	Thiên Nhẫn	0	500	500		Căn cứ lực chiến nhân vật Thiên Nhẫn	Phái	
+FightPower_Equip	11	Trang bị cơ bản	0	500	500		Hạng tổng lực chiến thuộc tính ngẫu nhiên trên trang bị	Trang Bị	
+FightPower_Strengthen	12	Cường hóa	0	500	500		Hạng tổng lực chiến cường hóa trang bị tăng thêm	Trang Bị	
+FightPower_Stone	13	Khảm	0	500	500		Hạng tổng lực chiến khảm trang bị tăng thêm	Trang Bị	
+FightPower_Partner	14	Đồng Hành	0	500	500		Xếp hạng tổng lực chiến tất cả Đồng Hành ra trận		
+CardCollection_1	15	Thu Thập Lăng Tuyệt Phong	0	500	10000	OpenLevel59	BXH Thu Thập Thẻ Lăng Tuyệt Phong		
+LunJianRank	16	Hoa Sơn Luận Kiếm	1	1000	10000	HuaShanLunJian	Hoa Sơn Luận Kiếm		
+FightPower_7	17	Thiếu Lâm	0	500	500		Căn cứ lực chiến nhân vật Thiếu Lâm	Phái	
+FightPower_8	18	Thúy Yên	0	500	500		Căn cứ lực chiến nhân vật Thúy Yên	Phái	
+ZhongQiuJie	19	BXH Trung Thu	0	500	10000		BXH Trung Thu		ZhongQiuJie
+CardCollection_2	20	Cẩm Tú Sơn Hà	0	500	10000		Hoạt động Cẩm Tú Sơn Hà		JinXiuShanHe
+SendBless	21	Chúc Phúc Ngày Lễ	0	100	10000		Hoạt động Chúc Phúc Ngày Lễ		SendBlessAct
+FightPower_9	22	Đường Môn	0	500	500		Lực chiến theo nhân vật Đường Môn	Phái	
+FightPower_10	23	Côn Lôn	0	500	500		Lực chiến theo nhân vật Côn Lôn	Phái	
+FightPower_11	24	Cái Bang	0	500	500		Căn cứ lực chiến nhân vật Cái Bang	Phái	
+FightPower_12	25	Ngũ Độc	0	500	500		Căn cứ lực chiến nhân vật Ngũ Độc	Phái	
+House	26	Cơ Sở Gia Viên	0	500	500	OpenDay15	Căn cứ độ thoải mái Gia Viên	Gia Viên	
+FightPower_Horse	28	Thú Cưỡi	0	500	500		BXH Lực Chiến Trang bị thú cưỡi và thú cưỡi	Trang Bị	
+FightPower_ZhenYuan	29	Chân Nguyên	0	500	500	OpenLevel69	BXH Lực Chiến Chân Nguyên	Trang Bị	
+WulinHonor	30	Vinh Dự Võ Lâm	0	500	500	OpenLevel69	Vinh Dự Võ Lâm		
+FightPower_13	31	Tàng Kiếm	0	500	500		Theo lực chiến nhân vật Tàng Kiếm	Phái	
+FightPower_14	32	Trường Ca	0	500	500		Theo lực chiến nhân vật Trường Ca	Phái	
+FightPower_JingMai	33	Kinh Mạch	0	500	500	OpenLevel79	Lực chiến tăng theo kinh mạch		
+FightPower_15	34	Thiên Sơn	0	500	500		Theo lực chiến nhân vật Thiên Sơn	Phái	
+Charm	35	Hấp dẫn	0	500	500		Theo Hạng Hấp Dẫn nhân vật		
+FightPower_ZhenFa	36	Trận Pháp	0	500	500	OpenLevel89	Liên quan Trận Pháp		
+NewYearChris	37	Bảng Điểm Ước Nguyện	0	500	10000		Điểm Bùa Ước Nguyện		NewYearChris
+FightPower_16	38	Bá Đao	0	500	500		Căn cứ lực chiến nhân vật Bá Đao	Phái	
+MedalFightAct	39	Đoạt Huy Chương	0	500	10000		Đoạt Huy Chương		MedalFightAct
+FightPower_MagicBowl	40	Tụ Bảo Bồn Gia Viên	0	500	500	OpenDay33	Căn cứ lực chiến Tụ Bảo Bồn	Gia Viên	
+DanceAct	41	Vũ Động Giang Hồ	0	500	10000		Vũ Động Giang Hồ		DanceAct
+WorldCupAct	42	Cup Thế Giới	0	500	10000		Cup Thế Giới		WorldCupAct
+ActJueDi	43	Tuyệt Địa Thí Luyện	0	1000	10000		Tuyệt Địa Thí Luyện		ActJueDiHide
+FightPower_17	44	Hoa Sơn	0	500	500		Căn cứ lực chiến nhân vật Hoa Sơn	Phái	
+FightPower_SeriesStone	45	Đá Ngũ Hành	0	500	500	OpenDay720	Hạng tổng lực chiến tăng thêm do trang bị Đá Ngũ Hành	Trang Bị	
+FightPower_PartnerCard	46	Môn Khách	0	500	500	OpenLevel109	Lực chiến Môn Khách Đồng Hành xuất trận		
+AchievementPoint	47	Thành Tựu	0	500	10000		Xếp hạng theo tổng điểm thành tựu của thành tựu đã xong		
+FightPower_Skill	48	Điểm kỹ năng	0	500	500		Lực chiến tương ứng điểm kỹ năng	Kỹ năng	
+FightPower_SkillBook	49	Bí Kíp	0	500	500		Lực chiến tương ứng bí kíp	Kỹ năng	
+FightPower_JueXue	50	Tuyệt Học	0	500	500		Lực chiến tương ứng tuyệt học	Kỹ năng	
+KinActivityRankAct	51	Hạng Năng Động Bang	0	500	10000		Hạng tổng độ năng động tất cả thành viên bang		KinActivityRankAct
+MaterialCollectAct	52	Ủ rượu	0	1000	10000		Hạng ủ rượu		MaterialCollectAct
+FightPower_18	53	Minh Giáo	0	500	500		Lực chiến căn cứ nhân vật Minh Giáo	Phái	
+YinXingJiQingAct	54	Ngân Hạnh Gửi Tình	0	500	500		Ngân Hạnh Gửi Tình		NeverOpenAct
+DaXueZhangRank	55	Ném Tuyết	0	1000	10000		Điểm Ném Tuyết		DaXueZhang
+DumplingBanquetAct	56	Tiệc Sủi Cảo	0	30	100		Điểm Tiệc Sủi Cảo		DumplingBanquetAct
+DongRiJiAct	57	Túi Phúc Tân Xuân	0	500	10000		Điểm Túi Phúc Tân Xuân		DongRiJiAct
+FightPower_19	58	Đoàn Thị	0	500	500		Lực chiến theo nhân vật Đoàn Thị	Phái	
+LingJueFengWeekRank	59	Quyết Chiến Lăng Tuyệt	1	1000	10000	OpenJueZhanLJF	Quyết Chiến Lăng Tuyệt		
+DrinkToDreamAct	60	Túy Mộng Giang Hồ	0	500	500		Túy Mộng Giang Hồ-Thích		NeverOpenAct
+ArborDayCure	61	情缘节活动	0	500	500		520活动甜蜜度		ArborDayCure	
+AnniversaryJiYuAct	62	周年寄语活动	0	500	500		周年寄语活动愿力值		AnniversaryJiYuAct	1
+WarOfIceAndFireRankFire	63	火娃	0	500	500		灭火大作战火娃积分排行	灭火大作战	WarOfIceAndFire	
+WarOfIceAndFireRankIce	64	水娃	0	500	500		灭火大作战水娃积分排行	灭火大作战	WarOfIceAndFire	
+FightPower_20	65	Vạn Hoa	0	500	500		Lực chiến theo nhân vật Vạn Hoa	Phái		
+ChangBaiZhiDian	66	长白之巅	0	500	500		长白之巅积分排行		ChangBaiZhiDian	

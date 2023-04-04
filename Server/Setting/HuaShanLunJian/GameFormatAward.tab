@@ -1,0 +1,61 @@
+GameFormat	MinRank	MaxRank	MinJoin	BaoDiJoin	BaoDiAllAward	AllAward	MailConent
+1	1	1	4			BasicExp|1000;HSLJHonor|50000;AddTimeTitle|7004|2592000;Item|3357|1	Chúc mừng đội đoạt [FFFE0D]Quán Quân[-] Hoa Sơn Luận Kiếm, hãy nhận thưởng!
+1	2	2	4			BasicExp|900;HSLJHonor|40000;AddTimeTitle|7003|2592000	Chúc mừng đội đoạt [FFFE0D]Hạng 2[-] Hoa Sơn Luận Kiếm, hãy nhận thưởng!
+1	3	3	4			BasicExp|850;HSLJHonor|32000;AddTimeTitle|7003|2592000	Chiến đội đại hiệp đạt [FFFE0D]Hạng 3[-] Hoa Sơn Luận Kiếm lần này, Võ Lâm Minh Chủ có phần quà giành cho người, hãy nhận lấy!
+1	4	4	4			BasicExp|800;HSLJHonor|28000;AddTimeTitle|7003|2592000	Chiến đội đại hiệp đạt [FFFE0D]Hạng 4[-] Hoa Sơn Luận Kiếm lần này, Võ Lâm Minh Chủ có phần quà giành cho người, hãy nhận lấy!
+1	5	8	4			BasicExp|750;HSLJHonor|24000;AddTimeTitle|7003|2592000	Chúc mừng đội lọt vào [FFFE0D]Top 8[-] Hoa Sơn Luận Kiếm, hãy nhận thưởng!
+1	9	20	4			BasicExp|700;HSLJHonor|20000;AddTimeTitle|7002|2592000	Chúc mừng đội lọt vào [FFFE0D]Top 20[-] Hoa Sơn Luận Kiếm, hãy nhận thưởng!
+1	21	50	4			BasicExp|650;HSLJHonor|18000;AddTimeTitle|7001|2592000	Chúc mừng đội lọt vào [FFFE0D]Top 50[-] Hoa Sơn Luận Kiếm, hãy nhận thưởng!
+1	51	100	4			BasicExp|600;HSLJHonor|16000;AddTimeTitle|7000|2592000	Chúc mừng đội lọt vào [FFFE0D]Top 100[-] Hoa Sơn Luận Kiếm, hãy nhận thưởng!
+1	101	200	4			BasicExp|550;HSLJHonor|14000	Hoa Sơn Luận Kiếm kết thúc, chiến đội nhận được phần thưởng của Võ Lâm Minh, hãy kiểm tra!
+1	201	500	4			BasicExp|500;HSLJHonor|12000	Hoa Sơn Luận Kiếm kết thúc, chiến đội nhận được phần thưởng của Võ Lâm Minh, hãy kiểm tra!
+1	501	1000	4			BasicExp|480;HSLJHonor|10000	Hoa Sơn Luận Kiếm kết thúc, chiến đội nhận được phần thưởng của Võ Lâm Minh, hãy kiểm tra!
+1	1001	100000	4	8	BasicExp|480;HSLJHonor|10000	BasicExp|480;HSLJHonor|8000	Hoa Sơn Luận Kiếm kết thúc, chiến đội nhận được phần thưởng của Võ Lâm Minh, hãy kiểm tra!
+2	1	1	4			BasicExp|1000;HSLJHonor|50000;AddTimeTitle|7004|2592000;Item|3357|1	Chúc mừng đội đoạt [FFFE0D]Quán Quân[-] Hoa Sơn Luận Kiếm, hãy nhận thưởng!
+2	2	2	4			BasicExp|900;HSLJHonor|40000;AddTimeTitle|7003|2592000	Chúc mừng đội đoạt [FFFE0D]Hạng 2[-] Hoa Sơn Luận Kiếm, hãy nhận thưởng!
+2	3	3	4			BasicExp|850;HSLJHonor|32000;AddTimeTitle|7003|2592000	Chiến đội đại hiệp đạt [FFFE0D]Hạng 3[-] Hoa Sơn Luận Kiếm lần này, Võ Lâm Minh Chủ có phần quà giành cho người, hãy nhận lấy!
+2	4	4	4			BasicExp|800;HSLJHonor|28000;AddTimeTitle|7003|2592000	Chiến đội đại hiệp đạt [FFFE0D]Hạng 4[-] Hoa Sơn Luận Kiếm lần này, Võ Lâm Minh Chủ có phần quà giành cho người, hãy nhận lấy!
+2	5	8	4			BasicExp|750;HSLJHonor|24000;AddTimeTitle|7003|2592000	Chúc mừng đội lọt vào [FFFE0D]Top 8[-] Hoa Sơn Luận Kiếm, hãy nhận thưởng!
+2	9	16	4			BasicExp|700;HSLJHonor|20000;AddTimeTitle|7002|2592000	Chiến đội đại hiệp đạt [FFFE0D]Top 16[-] Hoa Sơn Luận Kiếm lần này, Võ Lâm Minh Chủ có phần quà giành cho người, hãy nhận lấy!
+2	17	40	4			BasicExp|650;HSLJHonor|18000;AddTimeTitle|7001|2592000	Chiến đội đại hiệp đạt [FFFE0D]Top 40[-] Hoa Sơn Luận Kiếm lần này, Võ Lâm Minh Chủ có phần quà giành cho người, hãy nhận lấy!
+2	41	80	4			BasicExp|600;HSLJHonor|16000;AddTimeTitle|7000|2592000	Chiến đội đại hiệp đạt [FFFE0D]Top 80[-] Hoa Sơn Luận Kiếm lần này, Võ Lâm Minh Chủ có phần quà giành cho người, hãy nhận lấy!
+2	81	160	4			BasicExp|550;HSLJHonor|14000	Hoa Sơn Luận Kiếm kết thúc, chiến đội nhận được phần thưởng của Võ Lâm Minh, hãy kiểm tra!
+2	161	320	4			BasicExp|500;HSLJHonor|12000	Hoa Sơn Luận Kiếm kết thúc, chiến đội nhận được phần thưởng của Võ Lâm Minh, hãy kiểm tra!
+2	321	640	4			BasicExp|480;HSLJHonor|10000	Hoa Sơn Luận Kiếm kết thúc, chiến đội nhận được phần thưởng của Võ Lâm Minh, hãy kiểm tra!
+2	641	100000	4	8	BasicExp|480;HSLJHonor|10000	BasicExp|480;HSLJHonor|8000	Hoa Sơn Luận Kiếm kết thúc, chiến đội nhận được phần thưởng của Võ Lâm Minh, hãy kiểm tra!
+3	1	1	4			BasicExp|1000;HSLJHonor|50000;AddTimeTitle|7004|2592000;Item|3357|1	Chúc mừng đội đoạt [FFFE0D]Quán Quân[-] Hoa Sơn Luận Kiếm, hãy nhận thưởng!
+3	2	2	4			BasicExp|900;HSLJHonor|40000;AddTimeTitle|7003|2592000	Chúc mừng đội đoạt [FFFE0D]Hạng 2[-] Hoa Sơn Luận Kiếm, hãy nhận thưởng!
+3	3	3	4			BasicExp|850;HSLJHonor|32000;AddTimeTitle|7003|2592000	Chiến đội đại hiệp đạt [FFFE0D]Hạng 3[-] Hoa Sơn Luận Kiếm lần này, Võ Lâm Minh Chủ có phần quà giành cho người, hãy nhận lấy!
+3	4	4	4			BasicExp|800;HSLJHonor|28000;AddTimeTitle|7003|2592000	Chiến đội đại hiệp đạt [FFFE0D]Hạng 4[-] Hoa Sơn Luận Kiếm lần này, Võ Lâm Minh Chủ có phần quà giành cho người, hãy nhận lấy!
+3	5	8	4			BasicExp|750;HSLJHonor|24000;AddTimeTitle|7003|2592000	Chúc mừng đội lọt vào [FFFE0D]Top 8[-] Hoa Sơn Luận Kiếm, hãy nhận thưởng!
+3	9	16	4			BasicExp|700;HSLJHonor|20000;AddTimeTitle|7002|2592000	Chiến đội đại hiệp đạt [FFFE0D]Top 16[-] Hoa Sơn Luận Kiếm lần này, Võ Lâm Minh Chủ có phần quà giành cho người, hãy nhận lấy!
+3	17	40	4			BasicExp|650;HSLJHonor|18000;AddTimeTitle|7001|2592000	Chiến đội đại hiệp đạt [FFFE0D]Top 40[-] Hoa Sơn Luận Kiếm lần này, Võ Lâm Minh Chủ có phần quà giành cho người, hãy nhận lấy!
+3	41	80	4			BasicExp|600;HSLJHonor|16000;AddTimeTitle|7000|2592000	Chiến đội đại hiệp đạt [FFFE0D]Top 80[-] Hoa Sơn Luận Kiếm lần này, Võ Lâm Minh Chủ có phần quà giành cho người, hãy nhận lấy!
+3	81	160	4			BasicExp|550;HSLJHonor|14000	Hoa Sơn Luận Kiếm kết thúc, chiến đội nhận được phần thưởng của Võ Lâm Minh, hãy kiểm tra!
+3	161	320	4			BasicExp|500;HSLJHonor|12000	Hoa Sơn Luận Kiếm kết thúc, chiến đội nhận được phần thưởng của Võ Lâm Minh, hãy kiểm tra!
+3	321	640	4			BasicExp|480;HSLJHonor|10000	Hoa Sơn Luận Kiếm kết thúc, chiến đội nhận được phần thưởng của Võ Lâm Minh, hãy kiểm tra!
+3	641	100000	4	8	BasicExp|480;HSLJHonor|10000	BasicExp|480;HSLJHonor|8000	Hoa Sơn Luận Kiếm kết thúc, chiến đội nhận được phần thưởng của Võ Lâm Minh, hãy kiểm tra!
+4	1	1	4			BasicExp|1000;HSLJHonor|50000;AddTimeTitle|7004|2592000;Item|3357|1	Đại hiệp đạt [FFFE0D]Hạng 1[-] Hoa Sơn Luận Kiếm lần này, Võ Lâm Minh Chủ có phần quà giành cho người, hãy nhận lấy!
+4	2	2	4			BasicExp|950;HSLJHonor|40000;AddTimeTitle|7003|2592000	Đại hiệp đạt [FFFE0D]Hạng 2[-] Hoa Sơn Luận Kiếm lần này, Võ Lâm Minh Chủ có phần quà giành cho người, hãy nhận lấy!
+4	3	3	4			BasicExp|900;HSLJHonor|36000;AddTimeTitle|7003|2592000	Đại hiệp đạt [FFFE0D]Hạng 3[-] Hoa Sơn Luận Kiếm lần này, Võ Lâm Minh Chủ có phần quà giành cho người, hãy nhận lấy!
+4	4	4	4			BasicExp|850;HSLJHonor|32000;AddTimeTitle|7003|2592000	Đại hiệp đạt [FFFE0D]Hạng 4[-] Hoa Sơn Luận Kiếm lần này, Võ Lâm Minh Chủ có phần quà giành cho người, hãy nhận lấy!
+4	5	8	4			BasicExp|800;HSLJHonor|28000;AddTimeTitle|7003|2592000	Đại hiệp đạt [FFFE0D]Top 8[-] Hoa Sơn Luận Kiếm lần này, Võ Lâm Minh Chủ có phần quà giành cho người, hãy nhận lấy!
+4	9	16	4			BasicExp|750;HSLJHonor|24000;AddTimeTitle|7002|2592000	Đại hiệp lọt vào [FFFE0D]Top 16[-] Hoa Sơn Luận Kiếm lần này, Võ Lâm Minh Chủ có phần quà giành cho người, hãy nhận lấy!
+4	17	50	4			BasicExp|700;HSLJHonor|20000;AddTimeTitle|7001|2592000	Đại hiệp lọt vào [FFFE0D]Top 50[-] Hoa Sơn Luận Kiếm lần này, Võ Lâm Minh Chủ có phần quà giành cho người, hãy nhận lấy!
+4	51	100	4			BasicExp|650;HSLJHonor|18000;AddTimeTitle|7000|2592000	Đại hiệp lọt vào [FFFE0D]Top 100[-] Hoa Sơn Luận Kiếm lần này, Võ Lâm Minh Chủ có phần quà giành cho người, hãy nhận lấy!
+4	101	300	4			BasicExp|600;HSLJHonor|16000	Hoa Sơn Luận Kiếm đã kết thúc, võ lâm minh gửi tặng phần thưởng, xin hãy nhận!
+4	301	600	4			BasicExp|550;HSLJHonor|14000	Hoa Sơn Luận Kiếm đã kết thúc, võ lâm minh gửi tặng phần thưởng, xin hãy nhận!
+4	601	1000	4			BasicExp|500;HSLJHonor|12000	Hoa Sơn Luận Kiếm đã kết thúc, võ lâm minh gửi tặng phần thưởng, xin hãy nhận!
+4	1001	100000	4	8	BasicExp|500;HSLJHonor|12000	BasicExp|480;HSLJHonor|9000	Hoa Sơn Luận Kiếm đã kết thúc, võ lâm minh gửi tặng phần thưởng, xin hãy nhận!
+5	1	1	4			BasicExp|1000;HSLJHonor|50000;AddTimeTitle|7004|2592000;Item|3357|1	Chúc mừng đội đoạt [FFFE0D]Quán Quân[-] Hoa Sơn Luận Kiếm, hãy nhận thưởng!
+5	2	2	4			BasicExp|900;HSLJHonor|40000;AddTimeTitle|7003|2592000	Chúc mừng đội đoạt [FFFE0D]Hạng 2[-] Hoa Sơn Luận Kiếm, hãy nhận thưởng!
+5	3	3	4			BasicExp|850;HSLJHonor|32000;AddTimeTitle|7003|2592000	Chiến đội đại hiệp đạt [FFFE0D]Hạng 3[-] Hoa Sơn Luận Kiếm lần này, Võ Lâm Minh Chủ có phần quà giành cho người, hãy nhận lấy!
+5	4	4	4			BasicExp|800;HSLJHonor|28000;AddTimeTitle|7003|2592000	Chiến đội đại hiệp đạt [FFFE0D]Hạng 4[-] Hoa Sơn Luận Kiếm lần này, Võ Lâm Minh Chủ có phần quà giành cho người, hãy nhận lấy!
+5	5	8	4			BasicExp|750;HSLJHonor|24000;AddTimeTitle|7003|2592000	Chúc mừng đội lọt vào [FFFE0D]Top 8[-] Hoa Sơn Luận Kiếm, hãy nhận thưởng!
+5	9	20	4			BasicExp|700;HSLJHonor|20000;AddTimeTitle|7002|2592000	Chúc mừng đội lọt vào [FFFE0D]Top 20[-] Hoa Sơn Luận Kiếm, hãy nhận thưởng!
+5	21	50	4			BasicExp|650;HSLJHonor|18000;AddTimeTitle|7001|2592000	Chúc mừng đội lọt vào [FFFE0D]Top 50[-] Hoa Sơn Luận Kiếm, hãy nhận thưởng!
+5	51	100	4			BasicExp|600;HSLJHonor|16000;AddTimeTitle|7000|2592000	Chúc mừng đội lọt vào [FFFE0D]Top 100[-] Hoa Sơn Luận Kiếm, hãy nhận thưởng!
+5	101	200	4			BasicExp|550;HSLJHonor|14000	Hoa Sơn Luận Kiếm kết thúc, chiến đội nhận được phần thưởng của Võ Lâm Minh, hãy kiểm tra!
+5	201	500	4			BasicExp|500;HSLJHonor|12000	Hoa Sơn Luận Kiếm kết thúc, chiến đội nhận được phần thưởng của Võ Lâm Minh, hãy kiểm tra!
+5	501	1000	4			BasicExp|480;HSLJHonor|10000	Hoa Sơn Luận Kiếm kết thúc, chiến đội nhận được phần thưởng của Võ Lâm Minh, hãy kiểm tra!
+5	1001	100000	4	8	BasicExp|480;HSLJHonor|10000	BasicExp|480;HSLJHonor|8000	Hoa Sơn Luận Kiếm kết thúc, chiến đội nhận được phần thưởng của Võ Lâm Minh, hãy kiểm tra!

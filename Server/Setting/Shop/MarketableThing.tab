@@ -1,0 +1,896 @@
+TemplateId	Name	Price	MoneyType	PlayerLevel	TimeFrameLimit	NeedForbitStall
+603	Bùa Sinh Lực-Sơ	90	Coin			
+604	Bùa Sinh Lực-Trung	300	Coin			
+605	Bùa Sinh Lực-Cao	900	Coin			
+606	Bùa Sinh Lực-Cường Hiệu	2700	Coin			
+607	Bùa Sinh Lực-Đặc Hiệu	10800	Coin			
+608	Bùa Sinh Lực-Hoàn Mỹ	43200	Coin			
+609	Bùa Tấn Công-Sơ	90	Coin			
+610	Bùa Tấn Công-Trung	300	Coin			
+611	Bùa Tấn Công-Cao	900	Coin			
+612	Bùa Tấn Công-Cường Hiệu	2700	Coin			
+613	Bùa Tấn Công-Đặc Hiệu	10800	Coin			
+614	Bùa Tấn Công-Hoàn Mỹ	43200	Coin			
+615	Bùa Kháng Tất Cả-Sơ	90	Coin			
+616	Bùa Kháng Tất Cả-Trung	300	Coin			
+617	Bùa Kháng Tất Cả-Cao	900	Coin			
+618	Bùa Kháng Tất Cả-Cường Hiệu	2700	Coin			
+619	Bùa Kháng Tất Cả-Đặc Hiệu	10800	Coin			
+620	Bùa Kháng Tất Cả-Hoàn Mỹ	43200	Coin			
+621	Bùa Chính Xác-Sơ	90	Coin			
+622	Bùa Chính Xác-Trung	300	Coin			
+623	Bùa Chính Xác-Cao	900	Coin			
+624	Bùa Chính Xác-Cường Hiệu	2700	Coin			
+625	Bùa Chính Xác-Đặc Hiệu	10800	Coin			
+626	Bùa Chính Xác-Hoàn Mỹ	43200	Coin			
+627	Bùa Né Tránh-Sơ	90	Coin			
+628	Bùa Né Tránh-Trung	300	Coin			
+629	Bùa Né Tránh-Cao	900	Coin			
+630	Bùa Né Tránh-Cường Hiệu	2700	Coin			
+631	Bùa Né Tránh-Đặc Hiệu	10800	Coin			
+632	Bùa Né Tránh-Hoàn Mỹ	43200	Coin			
+633	Bùa Bạo Kích-Sơ	90	Coin			
+634	Bùa Bạo Kích-Trung	300	Coin			
+635	Bùa Bạo Kích-Cao	900	Coin			
+636	Bùa Bạo Kích-Cường Hiệu	2700	Coin			
+637	Bùa Bạo Kích-Đặc Hiệu	10800	Coin			
+638	Bùa Bạo Kích-Hoàn Mỹ	43200	Coin			
+639	Bùa Bỏ Qua Né Tránh-Sơ	90	Coin			
+640	Bùa Bỏ Qua Né Tránh-Trung	300	Coin			
+641	Bùa Bỏ Qua Né Tránh-Cao	900	Coin			
+642	Bùa Bỏ Qua Né Tránh-Cường Hiệu	2700	Coin			
+643	Bùa Bỏ Qua Né Tránh-Đặc Hiệu	10800	Coin			
+644	Bùa Bỏ Qua Né Tránh-Hoàn Mỹ	43200	Coin			
+645	Bùa Giảm Bạo Kích-Sơ	90	Coin			
+646	Bùa Giảm Bạo Kích-Trung	300	Coin			
+647	Bùa Giảm Bạo Kích-Cao	900	Coin			
+648	Bùa Giảm Bạo Kích-Cường Hiệu	2700	Coin			
+649	Bùa Giảm Bạo Kích-Đặc Hiệu	10800	Coin			
+650	Bùa Giảm Bạo Kích-Hoàn Mỹ	43200	Coin			
+651	Bùa Hiệu Quả-Sơ	90	Coin			
+652	Bùa Hiệu Quả-Trung	300	Coin			
+653	Bùa Hiệu Quả-Cao	900	Coin			
+654	Bùa Hiệu Quả-Cường Hiệu	2700	Coin			
+655	Bùa Hiệu Quả-Đặc Hiệu	10800	Coin			
+656	Bùa Hiệu Quả-Hoàn Mỹ	43200	Coin			
+657	Bùa Giảm Hiệu Quả-Sơ	90	Coin			
+658	Bùa Giảm Hiệu Quả-Trung	300	Coin			
+659	Bùa Giảm Hiệu Quả-Cao	900	Coin			
+660	Bùa Giảm Hiệu Quả-Cường Hiệu	2700	Coin			
+661	Bùa Giảm Hiệu Quả-Đặc Hiệu	10800	Coin			
+662	Bùa Giảm Hiệu Quả-Hoàn Mỹ	43200	Coin			
+663	Bùa Hồi Phục-Sơ	90	Coin			
+664	Bùa Hồi Phục-Trung	300	Coin			
+665	Bùa Hồi Phục-Cao	900	Coin			
+666	Bùa Hồi Phục-Cường Hiệu	2700	Coin			
+667	Bùa Hồi Phục-Đặc Hiệu	10800	Coin			
+668	Bùa Hồi Phục-Hoàn Mỹ	43200	Coin			
+727	Bùa Thao Thiết-Cao	2700	Coin			
+728	Bùa Đế Giang-Cao	2700	Coin			
+729	Bùa Chúc Long-Cao	2700	Coin			
+730	Bùa Quỳ Ngưu-Cao	2700	Coin			
+731	Bùa Cùng Kỳ-Cao	2700	Coin			
+732	Bùa Côn Bằng-Cao	2700	Coin			
+733	Bùa Đằng Xà-Cao	2700	Coin			
+734	Bùa Tì Hưu-Cao	2700	Coin			
+669	Bùa Thao Thiết-Cường Hiệu	8100	Coin			
+670	Bùa Đế Giang-Cường Hiệu	8100	Coin			
+671	Bùa Chúc Long-Cường Hiệu	8100	Coin			
+672	Bùa Quỳ Ngưu-Cường Hiệu	8100	Coin			
+673	Bùa Cùng Kỳ-Cường Hiệu	8100	Coin			
+674	Bùa Côn Bằng-Cường Hiệu	8100	Coin			
+675	Bùa Đằng Xà-Cường Hiệu	8100	Coin			
+676	Bùa Tì Hưu-Cường Hiệu	8100	Coin			
+677	Bùa Huyền Vũ-Đặc Hiệu	32400	Coin			
+678	Bùa Thanh Long-Đặc Hiệu	32400	Coin			
+679	Bùa Phượng Hoàng-Đặc Hiệu	32400	Coin			
+680	Bùa Bạch Hổ-Đặc Hiệu	32400	Coin			
+681	Bùa Chu Tước-Đặc Hiệu	32400	Coin			
+682	Bùa Ứng Long-Đặc Hiệu	32400	Coin			
+683	Bùa Bạch Trạch-Đặc Hiệu	32400	Coin			
+684	Bùa Kỳ Lân-Đặc Hiệu	32400	Coin			
+685	Bùa Huyền Vũ-Hoàn Mỹ	151200	Coin			
+686	Bùa Thanh Long-Hoàn Mỹ	151200	Coin			
+687	Bùa Phượng Hoàng-Hoàn Mỹ	151200	Coin			
+688	Bùa Bạch Hổ-Hoàn Mỹ	151200	Coin			
+689	Bùa Chu Tước-Hoàn Mỹ	151200	Coin			
+690	Bùa Ứng Long-Hoàn Mỹ	151200	Coin			
+691	Bùa Bạch Trạch-Hoàn Mỹ	151200	Coin			
+692	Bùa Kỳ Lân-Hoàn Mỹ	151200	Coin			
+693	Bùa Thao Thiết-Cao	900	Coin			
+694	Bùa Đế Giang-Cao	900	Coin			
+695	Bùa Chúc Long-Cao	900	Coin			
+696	Bùa Quỳ Ngưu-Cao	900	Coin			
+697	Bùa Cùng Kỳ-Cao	900	Coin			
+698	Bùa Côn Bằng-Cao	900	Coin			
+699	Bùa Đằng Xà-Cao	900	Coin			
+700	Bùa Tì Hưu-Cao	900	Coin			
+701	Bùa Kháng Tất Cả-Cường Hiệu	1800	Coin			
+702	Bùa Chính Xác-Cường Hiệu	1800	Coin			
+703	Bùa Né Tránh-Cường Hiệu	1800	Coin			
+704	Bùa Bạo Kích-Cường Hiệu	1800	Coin			
+705	Bùa Bỏ Qua Né Tránh-Cường Hiệu	1800	Coin			
+706	Bùa Giảm Bạo Kích-Cường Hiệu	1800	Coin			
+707	Bùa Hiệu Quả-Cường Hiệu	1800	Coin			
+708	Bùa Giảm Hiệu Quả-Cường Hiệu	1800	Coin			
+709	Bùa Hồi Phục-Cường Hiệu	1800	Coin			
+710	Bùa Huyền Vũ-Đặc Hiệu	16200	Coin			
+711	Bùa Thanh Long-Đặc Hiệu	16200	Coin			
+712	Bùa Phượng Hoàng-Đặc Hiệu	16200	Coin			
+713	Bùa Bạch Hổ-Đặc Hiệu	16200	Coin			
+714	Bùa Chu Tước-Đặc Hiệu	16200	Coin			
+715	Bùa Ứng Long-Đặc Hiệu	16200	Coin			
+716	Bùa Bạch Trạch-Đặc Hiệu	16200	Coin			
+717	Bùa Kỳ Lân-Đặc Hiệu	16200	Coin			
+718	Bùa Kháng Tất Cả-Hoàn Mỹ	21600	Coin			
+719	Bùa Chính Xác-Hoàn Mỹ	21600	Coin			
+720	Bùa Né Tránh-Hoàn Mỹ	21600	Coin			
+721	Bùa Bạo Kích-Hoàn Mỹ	21600	Coin			
+722	Bùa Bỏ Qua Né Tránh-Hoàn Mỹ	21600	Coin			
+723	Bùa Giảm Bạo Kích-Hoàn Mỹ	21600	Coin			
+724	Bùa Hiệu Quả-Hoàn Mỹ	21600	Coin			
+725	Bùa Giảm Hiệu Quả-Hoàn Mỹ	21600	Coin			
+726	Bùa Hồi Phục-Hoàn Mỹ	21600	Coin			
+793	Mảnh-Xi Vưu	2400	Coin			
+794	Mảnh-Hậu Nghệ	2400	Coin			
+795	Mảnh-Tô Đắc Kỷ	2400	Coin			
+796	Mảnh-Quỷ Cốc Tử	2400	Coin			
+797	Mảnh-Hạng Vũ	2400	Coin			
+798	Mảnh-Tần Thủy Hoàng	2400	Coin			
+799	Mảnh-Võ Tắc Thiên	2400	Coin			
+800	Mảnh-Lữ Động Tân	2400	Coin			
+801	Mảnh-Trương Tam Phong	2400	Coin			
+802	Mảnh-Tây Thi	2400	Coin			
+803	Mảnh-Độc Cô Kiếm	1200	Coin			
+804	Mảnh-Nam Cung Phi	1200	Coin			
+805	Mảnh-Dương Ảnh Phong	1200	Coin			
+806	Mảnh-Huyền Thiên Đạo Nhân	1200	Coin			
+807	Mảnh-Ngu Cơ	1200	Coin			
+808	Mảnh-Triệu Phi Yến	1200	Coin			
+809	Mảnh-Kinh Kha	1200	Coin			
+810	Mảnh-Lý Quảng 	1200	Coin			
+811	Mảnh-Triệu Vân	1200	Coin			
+1017	Mảnh-Lý Nguyên Bá	1200	Coin			
+812	Mảnh-Nguyệt My Nhi	600	Coin			
+813	Mảnh-Hạng Lăng Thiên	600	Coin			
+814	Mảnh-Chúc Tử Hư	600	Coin			
+815	Mảnh-Trưởng Tôn Vô Mộng	600	Coin			
+816	Mảnh-Lạc Thanh Sương	600	Coin			
+817	Mảnh-S7	600	Coin			
+818	Mảnh-S8	600	Coin			
+819	Mảnh-S9	600	Coin			
+820	Mảnh-S10	600	Coin			
+821	Mảnh-Cao Trường Cung	600	Coin			
+822	Mảnh-Triết Biệt	600	Coin			
+823	Mảnh-Viên Thừa Chí	600	Coin			
+824	Mảnh-Ngao Bái	600	Coin			
+825	Mảnh-Kim Sí Bằng Hoàng	600	Coin			
+826	Mảnh-Xích Tinh Hổ Hoàng	600	Coin			
+827	Mảnh-Hám Thiên Hùng Hoàng	600	Coin			
+828	Mảnh-Định Hải Kim Cang	600	Coin			
+829	Mảnh-Nạp Lan Tiềm Lẫm	600	Coin			
+830	Mảnh-Câu Sách	600	Coin			
+831	Mảnh-Dương Hi Liệt	600	Coin			
+832	Mảnh-Thượng Quan Phi Long	600	Coin			
+833	Mảnh-Diệp Vô Tâm	600	Coin			
+834	Mảnh-Dương Anh	600	Coin			
+835	Mảnh-Tiết Ngân Dược	600	Coin			
+836	Mảnh-Thiên Tinh Đạo Trưởng	600	Coin			
+837	Mảnh-Huyền Thiên Võ Cơ	600	Coin			
+1018	Mảnh-Mạnh Tri Thu	600	Coin			
+1019	Mảnh-Nguyệt Trùng Thiên	600	Coin			
+838	Mảnh-Nạp Lan Chân	450	Coin			
+839	Mảnh-Hạng Đỉnh	450	Coin			
+840	Mảnh-Liễu Tiêu Đình	450	Coin			
+841	Mảnh-Đinh Thi Vũ	450	Coin			
+842	Mảnh-Lý Điềm Nhi	450	Coin			
+843	Mảnh-Trương Duy Nghi	450	Coin			
+844	Mảnh-A7	450	Coin			
+845	Mảnh-A8	450	Coin			
+846	Mảnh-A9	450	Coin			
+847	Mảnh-Hàn Ngọc Lộc Vương	450	Coin			
+848	Mảnh-Đại Địa Lang Vương	450	Coin			
+849	Mảnh-Bôn Diệm Báo Vương	450	Coin			
+850	Mảnh-Cửu Vĩ Hồ Vương	450	Coin			
+851	Mảnh-Trác Phi Phàm	450	Coin			
+852	Mảnh-Tịch Lịch Hỏa	450	Coin			
+853	Mảnh-Đơn Tinh Tinh	450	Coin			
+854	Mảnh-Mộc Tử Y	450	Coin			
+855	Mảnh-Tô Mặc Vân	450	Coin			
+856	Mảnh-Cơ Ngự Thiên	450	Coin			
+857	Mảnh-Công Thâu Linh	450	Coin			
+858	Mảnh-Tử Hiên	450	Coin			
+859	Mảnh-Tường Vi	450	Coin			
+860	Mảnh-Ngải Lê	450	Coin			
+861	Mảnh-Công Tôn Tích Hoa	450	Coin			
+862	Mảnh-Công Thâu Vũ	450	Coin			
+863	Mảnh-Trương Trọng Thiên	450	Coin			
+864	Mảnh-A27	450	Coin			
+865	Mảnh-A28	450	Coin			
+866	Mảnh-A29	450	Coin			
+867	Mảnh-Kiếm Đồng	300	Coin			
+868	Mảnh-Tiêu Động Trần	300	Coin			
+869	Mảnh-Mộ Dung Việt	300	Coin			
+870	Mảnh-Từ Thiết Tâm	300	Coin			
+871	Mảnh-Diệp Vũ Nhu	300	Coin			
+872	Mảnh-Thiên Cổ Độc Thi	300	Coin			
+873	Mảnh-Ba Đông Cáp	300	Coin			
+874	Mảnh-Sở Thiên Bá	300	Coin			
+875	Mảnh-Tần Mộc Bạch	300	Coin			
+876	Mảnh-Ninh Tố Tâm	300	Coin			
+877	Mảnh-Mặc Xu	300	Coin			
+878	Mảnh-Mục Lân	300	Coin			
+879	Mảnh-Đường Vô Tâm	300	Coin			
+880	Mảnh-Hạng Thương	300	Coin			
+881	Mảnh-Cố Võ	300	Coin			
+882	Mảnh-Nhiếp Ưng	300	Coin			
+883	Mảnh-Chung Lan Tâm	300	Coin			
+884	Mảnh-B18	300	Coin			
+885	Mảnh-Kim Tiền Báo	150	Coin			
+886	Mảnh-Hắc Dực Liệp Ưng	150	Coin			
+887	Mảnh-Võ Lâm Ác Đồ	150	Coin			
+888	Mảnh-Mãnh Hổ	150	Coin			
+889	Mảnh-Phong Lâm Vệ	150	Coin			
+890	Mảnh-Viên Hầu	150	Coin			
+891	Mảnh-Thiết Diện Bổ Đầu	150	Coin			
+892	Mảnh-Hồng Y Nữ Đồng	150	Coin			
+893	Mảnh-Thầy Đúc Kiếm	150	Coin			
+894	Mảnh-Thợ Săn	150	Coin			
+895	Mảnh-Hồng Anh Thị	150	Coin			
+896	Mảnh-Cường Đạo	150	Coin			
+897	Mảnh-Đệ Tử Dược Vương	150	Coin			
+898	Mảnh-Sói Xám	150	Coin			
+899	Mảnh-Đông Doanh Nhẫn Giả	150	Coin			
+900	Mảnh-Sinh Sứ	150	Coin			
+901	Mảnh-Tử Thị	150	Coin			
+902	Mảnh-Hỏa Hồ	150	Coin			
+903	Mảnh-Đệ Tử Cửu U	150	Coin			
+904	Mảnh-Gấu Đen	150	Coin			
+905	Mảnh-Đệ Tử Vô Ưu Giáo	150	Coin			
+906	Mảnh-Thiên Công Tượng Giả	150	Coin			
+907	Mảnh-Khôi Lỗi Sĩ Binh	150	Coin			
+908	Mảnh-Cơ Quan Nhân	150	Coin			
+909	Mảnh-C25	150	Coin			
+910	Mảnh-C26	150	Coin			
+911	Mảnh-C27	150	Coin			
+912	Mảnh-C28	150	Coin			
+913	Mảnh-C29	150	Coin			
+914	Mảnh-C30	150	Coin			
+970	Mảnh Bùa Thao Thiết-Cao	180	Coin			
+971	Mảnh Bùa Đế Giang-Cao	180	Coin			
+972	Mảnh Bùa Chúc Long-Cao	180	Coin			
+973	Mảnh Bùa Quỳ Ngưu-Cao	180	Coin			
+974	Mảnh Bùa Cùng Kỳ-Cao	180	Coin			
+975	Mảnh Bùa Côn Bằng-Cao	180	Coin			
+976	Mảnh Bùa Đằng Xà-Cao	180	Coin			
+977	Mảnh Bùa Tì Hưu-Cao	180	Coin			
+978	Mảnh Bùa Kháng Tất Cả-Cường Hiệu	180	Coin			
+979	Mảnh Bùa Chính Xác-Cường Hiệu	180	Coin			
+980	Mảnh Bùa Né Tránh-Cường Hiệu	180	Coin			
+981	Mảnh Bùa Bạo Kích-Cường Hiệu	180	Coin			
+982	Mảnh Bùa Bỏ Qua Né Tránh-Cường Hiệu	180	Coin			
+983	Mảnh Bùa Giảm Bạo Kích-Cường Hiệu	180	Coin			
+984	Mảnh Bùa Hiệu Quả-Cường Hiệu	180	Coin			
+985	Mảnh Bùa Giảm Hiệu Quả-Cường Hiệu	180	Coin			
+986	Mảnh Bùa Hồi Phục-Cường Hiệu	180	Coin			
+987	Mảnh Bùa Huyền Vũ-Đặc Hiệu	270	Coin			
+988	Mảnh Bùa Thanh Long-Đặc Hiệu	270	Coin			
+989	Mảnh Bùa Phượng Hoàng-Đặc Hiệu	270	Coin			
+990	Mảnh Bùa Bạch Hổ-Đặc Hiệu	270	Coin			
+991	Mảnh Bùa Chu Tước-Đặc Hiệu	270	Coin			
+992	Mảnh Bùa Ứng Long-Đặc Hiệu	270	Coin			
+993	Mảnh Bùa Bạch Trạch-Đặc Hiệu	270	Coin			
+994	Mảnh Bùa Kỳ Lân-Đặc Hiệu	270	Coin			
+995	Mảnh Bùa Kháng Tất Cả-Hoàn Mỹ	270	Coin			
+996	Mảnh Bùa Chính Xác-Hoàn Mỹ	270	Coin			
+997	Mảnh Bùa Né Tránh-Hoàn Mỹ	270	Coin			
+998	Mảnh Bùa Bạo Kích-Hoàn Mỹ	270	Coin			
+999	Mảnh Bùa Bỏ Qua Né Tránh-Hoàn Mỹ	270	Coin			
+1000	Mảnh Bùa Giảm Bạo Kích-Hoàn Mỹ	270	Coin			
+1001	Mảnh Bùa Hiệu Quả-Hoàn Mỹ	270	Coin			
+1002	Mảnh Bùa Giảm Hiệu Quả-Hoàn Mỹ	270	Coin			
+1003	Mảnh Bùa Hồi Phục-Hoàn Mỹ	270	Coin			
+1931	Vong Ưu	1500	Contrib			
+1932	Đoạn Ngọc Kiếm	1500	Contrib			
+1933	Tố Anh Trạm Kim Thương	1500	Contrib			
+1934	Chỉ Thủy Kiếm	1500	Contrib			
+1935	Tinh Hà Thương	1500	Contrib			
+1936	Xích Hoàng Cung	1500	Contrib			
+1937	Thiên Xu Kiếm	1500	Contrib			
+1945	Long Quy Giáp	1500	Contrib			
+1946	Bôn Diệm Trảo	1500	Contrib			
+1947	Thiên Hồ Vĩ	1500	Contrib			
+1948	Huyền Lôi Nỏ	1500	Contrib			
+1949	Thính Vũ Tản	1500	Contrib			
+1950	Tường Vi Tụ	1500	Contrib			
+1951	Tuyệt Tình Đoạn Kiếm	1500	Contrib			
+1952	Cán Hoa Sáo	1500	Contrib			
+1953	Ngọc Lộ Kiếm	1500	Contrib			
+1954	Kim Phong Kiếm	1500	Contrib			
+1955	Phi Phượng Kiếm	1500	Contrib			
+1956	Thúy Ngọc Thương	1500	Contrib			
+1957	Tử Ngọc Xà Tụ	1500	Contrib			
+1958	Hỏa Lân Trảo	1500	Contrib			
+1959	Thu Phong Kiếm	1500	Contrib			
+1960	Thôn Kim Đao	1500	Contrib			
+1961	Vãn Hoa Kiếm	1500	Contrib			
+1962	Nguyệt Nha Sản	1500	Contrib			
+1963	Tham Lang Kích	1500	Contrib			
+1964	Lưu Kim Tụ	1500	Contrib			
+1965	Khinh Tuyết Kiếm	1500	Contrib			
+1966	Phong Tuyết Thương	1500	Contrib			
+1967	Mặc Trúc Phiến	1500	Contrib			
+2018	Chính Xác-Cao	1250	Contrib			
+2019	Né Tránh-Cao 	1250	Contrib			
+2020	Bỏ Qua Né Tránh-Cao	1250	Contrib			
+2021	Giảm Bạo Kích-Cao	1250	Contrib			
+2022	Hồi Phục-Cao	1250	Contrib			
+2028	Bạo Kích-Trung	1250	Contrib			
+2029	Tấn Công-Trung	1250	Contrib			
+2030	Sinh Lực-Trung	1250	Contrib			
+2032	Kháng Kim-Trung	1250	Contrib			
+2033	Kháng Mộc-Trung	1250	Contrib			
+2034	Kháng Thủy-Trung	1250	Contrib			
+2035	Kháng Hỏa-Trung	1250	Contrib			
+2036	Kháng Thổ-Trung	1250	Contrib			
+2037	Giảm Hiệu Quả-Trung	1250	Contrib			
+2038	Hút Sinh Lực-Sơ	1250	Contrib			
+2039	Bị Thương-Sơ	1250	Contrib			
+2040	Làm chậm-Sơ	1250	Contrib			
+2041	Tàn Phế-Sơ	1250	Contrib			
+2042	Tê Liệt-Sơ	1250	Contrib			
+2043	Choáng-Sơ	1250	Contrib			
+2044	Kháng Tất Cả-Sơ	1250	Contrib			
+2045	Bỏ Qua Kháng-Sơ	1250	Contrib			
+2046	Phản Kích-Sơ	1250	Contrib			
+2047	Tốc Đánh-Sơ	1250	Contrib			
+2007	Phá Thiên Trảm 	1250	Contrib			
+2008	Băng Phong Chỉ	1250	Contrib			
+2009	Tụ Lí Tiễn	1250	Contrib			
+2010	Liệt Diệm Chỉ	1250	Contrib			
+2011	Nộ Lôi Chỉ 	1250	Contrib			
+2012	Quần Thể Trị Liệu	1250	Contrib			
+2013	Độc Chướng Thuật	1250	Contrib			
+2014	Kim Cang Hộ Thể	1250	Contrib			
+2015	Bất Động Minh Vương	1250	Contrib			
+2016	Khô Mộc Phùng Xuân	1250	Contrib			
+2017	Súc Lực Tiễn	1250	Contrib			
+1987	Chính Xác-Trung	375	Contrib			
+1988	Né Tránh-Trung	375	Contrib			
+1989	Bỏ Qua Né Tránh-Trung	375	Contrib			
+1990	Giảm Bạo Kích-Trung	375	Contrib			
+1991	Hồi Phục-Trung	375	Contrib			
+1997	Bạo Kích-Sơ	375	Contrib			
+1998	Tấn Công-Sơ	375	Contrib			
+1999	Sinh Lực-Sơ	375	Contrib			
+2001	Kháng Kim-Sơ	375	Contrib			
+2002	Kháng Mộc-Sơ	375	Contrib			
+2003	Kháng Thủy-Sơ	375	Contrib			
+2004	Kháng Hỏa-Sơ	375	Contrib			
+2005	Kháng Thổ-Sơ	375	Contrib			
+2006	Giảm Hiệu Quả-Sơ	375	Contrib			
+1981	Huy Khảm Thuật	375	Contrib			
+1982	Băng Chùy Thuật	375	Contrib			
+1983	Phi Tiêu Thuật	375	Contrib			
+1984	Hỏa Cầu Thuật	375	Contrib			
+1985	Lôi Quang Thuật	375	Contrib			
+1986	Thuật Trị Liệu	375	Contrib			
+1971	Chính Xác-Sơ	125	Contrib			
+1972	Né Tránh-Sơ	125	Contrib			
+1973	Bỏ qua né tránh-Sơ	125	Contrib			
+1974	Giảm Bạo Kích-Sơ	125	Contrib			
+1975	Hồi Phục-Sơ	125	Contrib			
+2586	Lá Bánh	75	Contrib			
+2587	Lúa	75	Contrib			
+2588	Thịt Tươi	75	Contrib			
+2589	Dây Thừng	75	Contrib			
+2684	Thất Lăng Hoa	500	Coin			
+2685	Thất Vị Tửu	500	Coin			
+2686	Thơ Thất Ngôn	500	Coin			
+2687	Thất Thốn Kiếm	500	Coin			
+2688	Hoa Tửu	3000	Coin			
+2689	「Quà」Hoa Tửu	3000	Coin			
+2690	Thi Kiếm	3000	Coin			
+2691	「Quà」Thi Kiếm	3000	Coin			
+2692	Thất Huyền Hương	6000	Coin			
+2399	Táo Hồng Mã	500	Contrib	50	
+1423	Chiếu Dạ Ngọc Sư Tử	1000	Contrib	50	
+2400	Ô Vân Đạp Tuyết	1500	Contrib	50	
+3012	Tuyệt Ảnh	2000	Contrib	50	
+3021	Lý Phi Sa	2500	Contrib	50	
+3392	Hồng Ly	3000	Contrib	50	
+3393	Lục Tung	3500	Contrib	50	
+2507	Trục Nhật	4000	Contrib	50	
+2508	Truy Tinh Trục Nhật	4500	Contrib	50	
+2870	Bôn Tiêu	5000	Contrib	50	
+3516	Ô Truy	6000	Contrib	50	
+2872	Bột Mì Tinh Chế	1000	Coin			
+2873	Nhân Bánh	1000	Coin			
+2874	Lòng Đỏ Trứng	1000	Coin			
+3106	【Thu thập Tín Vật Sơn Tặc】	200	Contrib			
+3107	【Thu thập Tín Vật Chiến Trường】	200	Contrib			
+3108	【Thu thập Tín Vật Thủ Lĩnh】	200	Contrib			
+3109	【Thu thập Tín Vật Bang Hội】	200	Contrib			
+3110	【Thu thập Tín Vật Sát Thủ】	200	Contrib			
+3111	【Thu thập Tín Vật Trừng Ác】	200	Contrib			
+3112	【Thu thập Thủy Tinh Trắng】	200	Contrib			
+3113	【Thu thập Lăng Tuyệt Phong Lệnh Bài】	200	Contrib			
+3114	【Thu thập Bạc】	200	Contrib			
+3115	【Thu thập Đồ Cổ】	200	Contrib			
+3116	【Thu thập Tống Kim Chiêu Thư】	200	Contrib			
+3117	【Thu thập Tẩy Tủy Đơn】	200	Contrib			
+3118	【Thu thập Đá Hồn】Lý Tam	200	Contrib			
+3119	【Thu thập Đá Hồn】Lư Thanh	200	Contrib			
+3120	【Thu thập Đá Hồn】Oanh Nhi	200	Contrib			
+3121	【Thu thập Đá Hồn】Cố Võ	200	Contrib			
+3122	【Thu thập Đá Hồn】Tô Mặc Vân	200	Contrib			
+3123	【Thu thập Đá Hồn】Tiêu Động Trần	200	Contrib			
+3124	【Thu thập Đá Hồn】Hồ Thần Y	200	Contrib			
+3125	【Thu thập Đá Hồn】Tần Mộc Bạch	200	Contrib			
+3126	【Thu thập Đá Hồn】Trương Trọng Thiên	200	Contrib			
+3127	【Thu thập Đá Hồn】Lộ Đạt	200	Contrib			
+3128	【Thu thập Đá Hồn】Tường Vi	200	Contrib			
+3129	【Thu thập Đá Hồn】Tử Hiên	200	Contrib			
+3130	【Thu thập Đá Hồn】Nam Cung Thái Hồng	200	Contrib			
+3131	【Thu thập Đá Hồn】Lâm Hải	200	Contrib			
+3132	【Thu thập Đá Hồn】Lục Văn Long	200	Contrib			
+3133	【Thu thập Đá Hồn】Triệu Vô Song	200	Contrib			
+3134	【Thu thập Đá Hồn】Vô Tướng	200	Contrib			
+3135	【Thu thập Đá Hồn】Trương Như Mộng	200	Contrib			
+3136	【Thu thập Đá Hồn】Triệu Tiết	200	Contrib			
+3137	【Thu thập Đá Hồn】Thiệu Kỵ Phong	200	Contrib			
+3138	【Thu thập Đá Hồn】Ân Phương	200	Contrib			
+3139	【Thu thập Đá Hồn】Bạch Mi Hầu Vương	200	Contrib			
+3140	【Thu thập Đá Hồn】Đại Địa Lang Vương	200	Contrib			
+3141	【Thu thập Đá Hồn】Hàn Ngọc Lộc Vương	200	Contrib			
+3142	【Thu thập Đá Hồn】Trác Phi Phàm	200	Contrib			
+3143	【Thu thập Đá Hồn】Nguyệt Minh Dao	200	Contrib			
+3144	【Thu thập Đá Hồn】Long Ngạo Thiên	200	Contrib			
+3145	【Thu thập Đá Hồn】Mạt Thiên Nhiên	200	Contrib			
+3146	【Thu thập Đá Hồn】Đường Tiêu	200	Contrib			
+3147	【Thu thập Đá Hồn】Trương Lâm Tâm	200	Contrib			
+3148	【Thu thập Đá Hồn】Phong Ngọc Thư	200	Contrib			
+3149	【Thu thập Đá Hồn】Hà Mộ Tuyết	200	Contrib			
+3150	【Thu thập Đá Hồn】Triệu Thăng Quyền	200	Contrib			
+3151	【Thu thập Đá Hồn】Nạp Lan Chân	200	Contrib			
+3152	【Thu thập Đá Hồn】Sài Tung	200	Contrib			
+3153	【Thu thập Đá Hồn】Thiệu Hồng Uyên	200	Contrib			
+3154	【Thu thập Đá Hồn】Bạch Ngạn Kính	200	Contrib			
+3155	【Thu thập Đá Hồn】Lôi Phong	200	Contrib			
+3156	【Thu thập Đá Hồn】Lôi Đồng	200	Contrib			
+3157	【Thu thập Đá Hồn】Đường Quyên Quyên	200	Contrib			
+3158	【Thu thập Đá Hồn】Đoạt Bảo Tặc	200	Contrib			
+3159	【Thu thập Đá Hồn】Song Thủ Dị Thú	200	Contrib			
+3160	【Thu thập Đá Hồn】Bôn Diệm Báo Vương	200	Contrib			
+3161	【Thu thập Đá Hồn】Cửu Vĩ Hồ Vương	200	Contrib			
+3162	【Thu thập Đá Hồn】Trương Phong	200	Contrib			
+3163	【Thu thập Đá Hồn】Nguyệt My Nhi	200	Contrib			
+3164	【Thu thập Chiếu Dạ Ngọc Sư Tử】	200	Contrib			
+3165	【Thu thập Minh Chủ Lệnh】	200	Contrib			
+3166	【Thu thập Bí Kíp】	200	Contrib			
+3167	【Thu thập Dạ Minh Châu】	200	Contrib			
+3168	【Thu thập Đá Hồn】Lam-Sơ	200	Contrib			
+3169	【Thu thập Danh Tướng Lệnh】	200	Contrib			
+3170	【Thu thập Vũ Khí Bổn Mạng】	200	Contrib			
+3171	【Thu thập Sách Đồng Hành】	200	Contrib			
+3172	【Thu thập Hòa Thị Bích】Nón	200	Contrib			
+3173	【Thu thập Hòa Thị Bích】Đai	200	Contrib			
+3174	【Thu thập Hòa Thị Bích】Dây Chuyền	200	Contrib			
+3175	【Thu thập Hòa Thị Bích】Áo	200	Contrib			
+3176	【Thu thập Hòa Thị Bích】Ngọc Bội	200	Contrib			
+3177	【Thu thập Hòa Thị Bích】Vũ Khí	200	Contrib			
+3398	Gà Tây	500	Coin			
+3399	Dầu Mỡ	500	Coin			
+3400	Cà Rốt	500	Coin			
+3401	Bánh Mì	500	Coin			
+3404	【Thu thập Đá Hồn】Trắng-Sơ	200	Contrib			
+7931	【Thu thập Đá Hồn】Trắng-Sơ	200	Contrib			
+3405	【Thu thập Đá Hồn】Lục-Sơ	200	Contrib			
+3532	Bông Tuyết	500	Coin			
+3863	【Thu thập Đá Hồn】Tím-Trung	200	Contrib			
+3415	Lăng Vân Cương	7500	Contrib			
+3416	Giáng Long Cương	30000	Contrib			
+3445	Ngự Thiên Cương	150000	Contrib			
+3417	Lăng Vân Yên	6000	Contrib			
+3418	Giáng Long Yên	24000	Contrib			
+3450	Ngự Thiên Yên	120000	Contrib			
+3419	Lăng Vân Đăng	4500	Contrib			
+3420	Giáng Long Đăng	18000	Contrib			
+3455	Ngự Thiên Đăng	90000	Contrib			
+3460	Mảnh Lăng Vân Cương	1500	Contrib			
+3461	Mảnh Giáng Long Cương	3000	Contrib			
+3462	Mảnh Ngự Thiên Cương	7500	Contrib			
+3467	Mảnh Lăng Vân Yên	1200	Contrib			
+3468	Mảnh Giáng Long Yên	2400	Contrib			
+3469	Mảnh Ngự Thiên Yên	6000	Contrib			
+3474	Mảnh Lăng Vân Đăng	900	Contrib			
+3475	Mảnh Giáng Long Đăng	1800	Contrib			
+3476	Mảnh Ngự Thiên Đăng	4500	Contrib			
+4758	Thủy Tinh Tăng Cường Hóa (Lv10) 	5000	Coin			
+3922	Thủy Tinh Tăng Cường Hóa Lv20	5000	Coin			
+3923	Thủy Tinh Tăng Cường Hóa Lv30	5000	Coin			
+3924	Thủy Tinh Tăng Cường Hóa Lv40	5000	Coin			
+3925	Thủy Tinh Tăng Cường Hóa Lv50	5000	Coin			
+3926	Thủy Tinh Tăng Cường Hóa Lv60	5000	Coin			
+3927	Thủy Tinh Tăng Cường Hóa Lv70	5000	Coin			
+3928	Thủy Tinh Tăng Cường Hóa Lv80	5000	Coin			
+3929	Thủy Tinh Tăng Cường Hóa Lv90	5000	Coin			
+3930	Thủy Tinh Tăng Cường Hóa Lv100	5000	Coin			
+4871	【Thu thập Đá Hồn】Hồng Cao	200	Contrib			
+5983	Ngoại Trang Thiên Vương T8 (Hàn Phục)	800	SilverBoard			
+3882	Ngoại Trang Thiên Vương T8 (Hàn Phục)	800	SilverBoard			
+3883	Hàn Phục-Màu 2	150000	Coin			
+3884	Hàn Phục-Màu 3	150000	Coin			
+3885	Hàn Phục-Màu 4	150000	Coin			
+6146	Hàn Phục-3 ngày	150000	Coin			
+6145	Hàn Phục-3 ngày	150000	Coin			
+4740	Tiểu Hắc	1000	Contrib			
+7347	Bùa Ước Nguyện-Khóa	1000	Coin			
+7689	Đá Minh Văn 1	1000	Coin			
+7690	Đá Minh Văn 2	1000	Coin			
+7691	Đá Minh Văn 3	1000	Coin			
+7692	Đá Minh Văn 4	1000	Coin			
+7693	Đá Minh Văn 5	1000	Coin			
+3714	Tẩy Tủy Kinh-Thượng	5000	Contrib			
+3715	Tẩy Tủy Kinh-Trung	7500	Contrib			
+3716	Tẩy Tủy Kinh-Hạ	10000	Contrib			
+1430	Bí Kíp Võ Lâm-Thượng	5000	Contrib			
+1431	Bí Kíp Võ Lâm (Trung)	7500	Contrib			
+1432	Bí Kíp Võ Lâm-Hạ	10000	Contrib			
+1393	Minh Chủ Lệnh	3000	Contrib		OpenLevel99	
+1394	Danh Tướng Lệnh	5000	Contrib		OpenLevel109	
+1395	Trục Lộc Lệnh	10000	Contrib		OpenLevel119	
+1396	Hoàng Đế Lệnh	30000	Contrib		OpenLevel139	
+8396	Vé Hỏng	1000	Coin			
+8397	Vé Hỏng	1000	Coin			
+8398	Vé Hỏng	1000	Coin			
+9310	【Thường】Bí Quyển Tuyệt Học	1296	SkillExp			
+9311	【Tốt】Bí Quyển Tuyệt Học	1296	SkillExp			
+9312	【Tinh Xảo】Bí Quyển Tuyệt Học	1296	SkillExp			
+9313	【Kế Thừa】Bí Quyển Tuyệt Học	1296	SkillExp			
+9314	【Trác Việt】Bí Quyển Tuyệt Học	1296	SkillExp			
+9315	【Hiếm】Bí Quyển Tuyệt Học	1296	SkillExp			
+9316	【Hoàng Kim】Bí Quyển Tuyệt Học	1296	SkillExp			
+9317	【Thường】Mảnh Tuyệt Học	324	SkillExp			
+9318	【Tốt】Mảnh Tuyệt Học	324	SkillExp			
+9319	【Tinh Xảo】Mảnh Tuyệt Học	324	SkillExp			
+9320	【Kế Thừa】Mảnh Tuyệt Học	324	SkillExp			
+9321	【Trác Việt】Mảnh Tuyệt Học	324	SkillExp			
+9322	【Hiếm】Mảnh Tuyệt Học	324	SkillExp			
+9323	【Hoàng Kim】Mảnh Tuyệt Học	324	SkillExp			
+7981	Tuyệt Học-Phong Hổ Vân Long	3000	SkillExp			
+7982	Tuyệt Học Chung 2	3000	SkillExp			
+7983	Tuyệt Học Chung 3	3000	SkillExp			
+7984	Tuyệt Học Chung 4	3000	SkillExp			
+7985	Tuyệt Học Chung 5	3000	SkillExp			
+7986	Tuyệt Học Chung 6	3000	SkillExp			
+7987	Tuyệt Học Chung 7	3000	SkillExp			
+7988	Tuyệt Học Chung 8	3000	SkillExp			
+7989	Tuyệt Học Chung 9	3000	SkillExp			
+7990	Tuyệt Học Chung 10	3000	SkillExp			
+7991	Tuyệt Học-Kim Chung Tráo	3000	SkillExp			
+7992	Tuyệt Học-Huyết Chiến Bát Phương	3000	SkillExp			
+7993	Thiên Vương Tuyệt Học 3	3000	SkillExp			
+7994	Thiên Vương Tuyệt Học 4	3000	SkillExp			
+7995	Thiên Vương Tuyệt Học 5	3000	SkillExp			
+7996	Thiên Vương Tuyệt Học 6	3000	SkillExp			
+7997	Thiên Vương Tuyệt Học 7	3000	SkillExp			
+7998	Thiên Vương Tuyệt Học 8	3000	SkillExp			
+7999	Thiên Vương Tuyệt Học 9	3000	SkillExp			
+8000	Thiên Vương Tuyệt Học 10	3000	SkillExp			
+8001	Tuyệt Học-Từ Hàng Phổ Độ	3000	SkillExp			
+8002	Tuyệt Học-Bạch Lộ Ngưng Sương	3000	SkillExp			
+8003	Nga Mi Tuyệt Học 3	3000	SkillExp			
+8004	Nga Mi Tuyệt Học 4	3000	SkillExp			
+8005	Nga Mi Tuyệt Học 5	3000	SkillExp			
+8006	Nga Mi Tuyệt Học 6	3000	SkillExp			
+8007	Nga Mi Tuyệt Học 7	3000	SkillExp			
+8008	Nga Mi Tuyệt Học 8	3000	SkillExp			
+8009	Nga Mi Tuyệt Học 9	3000	SkillExp			
+8010	Nga Mi Tuyệt Học 10	3000	SkillExp			
+8011	Tuyệt Học-Hỏa Phượng Liêu Nguyên	3000	SkillExp			
+8012	Tuyệt Học-Đào Hoa Tiễn Thuật	3000	SkillExp			
+8013	Đào Hoa Tuyệt Học 3	3000	SkillExp			
+8014	Đào Hoa Tuyệt Học 4	3000	SkillExp			
+8015	Đào Hoa Tuyệt Học 5	3000	SkillExp			
+8016	Đào Hoa Tuyệt Học 6	3000	SkillExp			
+8017	Đào Hoa Tuyệt Học 7	3000	SkillExp			
+8018	Đào Hoa Tuyệt Học 8	3000	SkillExp			
+8019	Đào Hoa Tuyệt Học 9	3000	SkillExp			
+8020	Đào Hoa Tuyệt Học 10	3000	SkillExp			
+8021	Tuyệt Học-Bạch Hồng Quán Nhật	3000	SkillExp			
+8022	Tuyệt Học-Thất Thám Xà Bàn	3000	SkillExp			
+8023	Tiêu Dao Tuyệt Học 3	3000	SkillExp			
+8024	Tiêu Dao Tuyệt Học 4	3000	SkillExp			
+8025	Tiêu Dao Tuyệt Học 5	3000	SkillExp			
+8026	Tiêu Dao Tuyệt Học 6	3000	SkillExp			
+8027	Tiêu Dao Tuyệt Học 7	3000	SkillExp			
+8028	Tiêu Dao Tuyệt Học 8	3000	SkillExp			
+8029	Tiêu Dao Tuyệt Học 9	3000	SkillExp			
+8030	Tiêu Dao Tuyệt Học 10	3000	SkillExp			
+8031	Tuyệt Học-Vô Ngã Vô Kiếm	3000	SkillExp			
+8032	Tuyệt Học-Tọa Vọng Vô Ngã	3000	SkillExp			
+8033	Võ Đang Tuyệt Học 3	3000	SkillExp			
+8034	Võ Đang Tuyệt Học 4	3000	SkillExp			
+8035	Võ Đang Tuyệt Học 5	3000	SkillExp			
+8036	Võ Đang Tuyệt Học 6	3000	SkillExp			
+8037	Võ Đang Tuyệt Học 7	3000	SkillExp			
+8038	Võ Đang Tuyệt Học 8	3000	SkillExp			
+8039	Võ Đang Tuyệt Học 9	3000	SkillExp			
+8040	Võ Đang Tuyệt Học 10	3000	SkillExp			
+8041	Tuyệt Học-Tử Vong Hồi Toàn	3000	SkillExp			
+8042	Tuyệt Học-Huyết Nguyệt Chi Ảnh 	3000	SkillExp			
+8043	Thiên Nhẫn Tuyệt Học 3	3000	SkillExp			
+8044	Thiên Nhẫn Tuyệt Học 4	3000	SkillExp			
+8045	Thiên Nhẫn Tuyệt Học 5	3000	SkillExp			
+8046	Thiên Nhẫn Tuyệt Học 6	3000	SkillExp			
+8047	Thiên Nhẫn Tuyệt Học 7	3000	SkillExp			
+8048	Thiên Nhẫn Tuyệt Học 8	3000	SkillExp			
+8049	Thiên Nhẫn Tuyệt Học 9	3000	SkillExp			
+8050	Thiên Nhẫn Tuyệt Học 10	3000	SkillExp			
+8051	Tuyệt Học-Đại Lực Kim Cang Chỉ	3000	SkillExp			
+8052	Tuyệt Học-La Hán Trận	3000	SkillExp			
+8053	Thiếu Lâm Tuyệt Học 3	3000	SkillExp			
+8054	Thiếu Lâm Tuyệt Học 4	3000	SkillExp			
+8055	Thiếu Lâm Tuyệt Học 5	3000	SkillExp			
+8056	Thiếu Lâm Tuyệt Học 6	3000	SkillExp			
+8057	Thiếu Lâm Tuyệt Học 7	3000	SkillExp			
+8058	Thiếu Lâm Tuyệt Học 8	3000	SkillExp			
+8059	Thiếu Lâm Tuyệt Học 9	3000	SkillExp			
+8060	Thiếu Lâm Tuyệt Học 10	3000	SkillExp			
+8061	Tuyệt Học-Triệu Hồi Bảo Bảo	3000	SkillExp			
+8062	Tuyệt Học-Băng Tâm Tuyết Liên	3000	SkillExp			
+8063	Thúy Yên Tuyệt Học 3	3000	SkillExp			
+8064	Thúy Yên Tuyệt Học 4	3000	SkillExp			
+8065	Thúy Yên Tuyệt Học 5	3000	SkillExp			
+8066	Thúy Yên Tuyệt Học 6	3000	SkillExp			
+8067	Thúy Yên Tuyệt Học 7	3000	SkillExp			
+8068	Thúy Yên Tuyệt Học 8	3000	SkillExp			
+8069	Thúy Yên Tuyệt Học 9	3000	SkillExp			
+8070	Thúy Yên Tuyệt Học 10	3000	SkillExp			
+8071	Tuyệt Học-Bạo Vũ Lê Hoa	3000	SkillExp			
+8072	Tuyệt Học-Cửu Cung Phi Tinh	3000	SkillExp			
+8073	Đường Môn Tuyệt Học 3	3000	SkillExp			
+8074	Đường Môn Tuyệt Học 4	3000	SkillExp			
+8075	Đường Môn Tuyệt Học 5	3000	SkillExp			
+8076	Đường Môn Tuyệt Học 6	3000	SkillExp			
+8077	Đường Môn Tuyệt Học 7	3000	SkillExp			
+8078	Đường Môn Tuyệt Học 8	3000	SkillExp			
+8079	Đường Môn Tuyệt Học 9	3000	SkillExp			
+8080	Đường Môn Tuyệt Học 10	3000	SkillExp			
+8081	Tuyệt Học-Hỗn Độn Kiếm Trận	3000	SkillExp			
+8082	Tuyệt Học-Tiếu Phong Tam Liên Kích	3000	SkillExp			
+8083	Côn Lôn Tuyệt Học 3	3000	SkillExp			
+8084	Côn Lôn Tuyệt Học 4	3000	SkillExp			
+8085	Côn Lôn Tuyệt Học 5	3000	SkillExp			
+8086	Côn Lôn Tuyệt Học 6	3000	SkillExp			
+8087	Côn Lôn Tuyệt Học 7	3000	SkillExp			
+8088	Côn Lôn Tuyệt Học 8	3000	SkillExp			
+8089	Côn Lôn Tuyệt Học 9	3000	SkillExp			
+8090	Côn Lôn Tuyệt Học 10	3000	SkillExp			
+8091	Tuyệt Học-Hàng Long Hữu Hối	3000	SkillExp			
+8092	Tuyệt Học-Long Chiến Vu Dã	3000	SkillExp			
+8093	Cái Bang Tuyệt Học 3	3000	SkillExp			
+8094	Cái Bang Tuyệt Học 4	3000	SkillExp			
+8095	Cái Bang Tuyệt Học 5	3000	SkillExp			
+8096	Cái Bang Tuyệt Học 6	3000	SkillExp			
+8097	Cái Bang Tuyệt Học 7	3000	SkillExp			
+8098	Cái Bang Tuyệt Học 8	3000	SkillExp			
+8099	Cái Bang Tuyệt Học 9	3000	SkillExp			
+8100	Cái Bang Tuyệt Học 10	3000	SkillExp			
+8101	Tuyệt Học-Ngũ Độc Địch Pháp	3000	SkillExp			
+8102	Tuyệt Học-Ngự Cổ Tâm Kinh	3000	SkillExp			
+8103	Ngũ Độc Tuyệt Học 3	3000	SkillExp			
+8104	Ngũ Độc Tuyệt Học 4	3000	SkillExp			
+8105	Ngũ Độc Tuyệt Học 5	3000	SkillExp			
+8106	Ngũ Độc Tuyệt Học 6	3000	SkillExp			
+8107	Ngũ Độc Tuyệt Học 7	3000	SkillExp			
+8108	Ngũ Độc Tuyệt Học 8	3000	SkillExp			
+8109	Ngũ Độc Tuyệt Học 9	3000	SkillExp			
+8110	Ngũ Độc Tuyệt Học 10	3000	SkillExp			
+8111	Tuyệt Học-Ngọc Tuyền Ngư Dược	3000	SkillExp			
+8112	Tuyệt Học-Ánh Ba Tỏa Lan	3000	SkillExp			
+8113	Tàng Kiếm Tuyệt Học 3	3000	SkillExp			
+8114	Tàng Kiếm Tuyệt Học 4	3000	SkillExp			
+8115	Tàng Kiếm Tuyệt Học 5	3000	SkillExp			
+8116	Tàng Kiếm Tuyệt Học 6	3000	SkillExp			
+8117	Tàng Kiếm Tuyệt Học 7	3000	SkillExp			
+8118	Tàng Kiếm Tuyệt Học 8	3000	SkillExp			
+8119	Tàng Kiếm Tuyệt Học 9	3000	SkillExp			
+8120	Tàng Kiếm Tuyệt Học 10	3000	SkillExp			
+8121	Tuyệt Học-Dư Âm Nhiễu Lương	3000	SkillExp			
+8122	Tuyệt Học-Vân Sinh Kết Hải	3000	SkillExp			
+8123	Trường Ca Tuyệt Học 3	3000	SkillExp			
+8124	Trường Ca Tuyệt Học 4	3000	SkillExp			
+8125	Trường Ca Tuyệt Học 5	3000	SkillExp			
+8126	Trường Ca Tuyệt Học 6	3000	SkillExp			
+8127	Trường Ca Tuyệt Học 7	3000	SkillExp			
+8128	Trường Ca Tuyệt Học 8	3000	SkillExp			
+8129	Trường Ca Tuyệt Học 9	3000	SkillExp			
+8130	Trường Ca Tuyệt Học 10	3000	SkillExp			
+8131	Tuyệt Học-Cầm Sắt Hòa Minh	3000	SkillExp			
+8132	Tuyệt Học-Mai Hoa Tam Lộng	3000	SkillExp			
+8133	Thiên Sơn Tuyệt Học 3	3000	SkillExp			
+8134	Thiên Sơn Tuyệt Học 4	3000	SkillExp			
+8135	Thiên Sơn Tuyệt Học 5	3000	SkillExp			
+8136	Thiên Sơn Tuyệt Học 6	3000	SkillExp			
+8137	Thiên Sơn Tuyệt Học 7	3000	SkillExp			
+8138	Thiên Sơn Tuyệt Học 8	3000	SkillExp			
+8139	Thiên Sơn Tuyệt Học 9	3000	SkillExp			
+8140	Thiên Sơn Tuyệt Học 10	3000	SkillExp			
+8141	Tuyệt Học-Dục Huyết Đạo Phong	3000	SkillExp			
+8142	Tuyệt Học-Hiệp Sơn Siêu Hải	3000	SkillExp			
+8143	Bá Đao Tuyệt Học 3	3000	SkillExp			
+8144	Bá Đao Tuyệt Học 4	3000	SkillExp			
+8145	Bá Đao Tuyệt Học 5	3000	SkillExp			
+8146	Bá Đao Tuyệt Học 6	3000	SkillExp			
+8147	Bá Đao Tuyệt Học 7	3000	SkillExp			
+8148	Bá Đao Tuyệt Học 8	3000	SkillExp			
+8149	Bá Đao Tuyệt Học 9	3000	SkillExp			
+8150	Bá Đao Tuyệt Học 10	3000	SkillExp			
+8151	Tuyệt Học-Phong Tống Tử Hà	3000	SkillExp			
+8152	Tuyệt Học-Tiêu Sử Thừa Long	3000	SkillExp			
+8153	Hoa Sơn Tuyệt Học 3	3000	SkillExp			
+8154	Hoa Sơn Tuyệt Học 4	3000	SkillExp			
+8155	Hoa Sơn Tuyệt Học 5	3000	SkillExp			
+8156	Hoa Sơn Tuyệt Học 6	3000	SkillExp			
+8157	Hoa Sơn Tuyệt Học 7	3000	SkillExp			
+8158	Hoa Sơn Tuyệt Học 8	3000	SkillExp			
+8159	Hoa Sơn Tuyệt Học 9	3000	SkillExp			
+8160	Hoa Sơn Tuyệt Học 10	3000	SkillExp			
+9988	Tuyệt Học-Hỏa Quang Tàn Ảnh	3000	SkillExp			
+9989	Tuyệt Học-Bất Diệt Quang	3000	SkillExp			
+9990	Minh Giáo Tuyệt Học 3	3000	SkillExp			
+9991	Minh Giáo Tuyệt Học 4	3000	SkillExp			
+9992	Minh Giáo Tuyệt Học 5	3000	SkillExp			
+9993	Minh Giáo Tuyệt Học 6	3000	SkillExp			
+9994	Minh Giáo Tuyệt Học 7	3000	SkillExp			
+9995	Minh Giáo Tuyệt Học 8	3000	SkillExp			
+9996	Minh Giáo Tuyệt Học 9	3000	SkillExp			
+9997	Minh Giáo Tuyệt Học 10	3000	SkillExp			
+10557	Tuyệt Học-Nhất Dương Chỉ	3000	SkillExp			
+10558	Tuyệt Học-Thủy Long Ngục	3000	SkillExp			
+10559	Đoàn Thị Tuyệt Học 3	3000	SkillExp			
+10560	Đoàn Thị Tuyệt Học 4	3000	SkillExp			
+10561	Đoàn Thị Tuyệt Học 5	3000	SkillExp			
+10562	Đoàn Thị Tuyệt Học 6	3000	SkillExp			
+10563	Đoàn Thị Tuyệt Học 7	3000	SkillExp			
+10564	Đoàn Thị Tuyệt Học 8	3000	SkillExp			
+10565	Đoàn Thị Tuyệt Học 9	3000	SkillExp			
+10566	Đoàn Thị Tuyệt Học 10	3000	SkillExp			
+2400	Ô Vân Đạp Tuyết	48000	Contrib		OpenLevel129	
+9445	Dây Ngũ Sắc	1000	Coin			
+9448	Cửu Khổng Châm	1000	Coin			
+9510	Tinh Tuyết Phù	1000	Coin			
+9511	Lưu Vân Phù	1000	Coin			
+9505	Bình Nước	1000	Coin			
+9506	Phân Bón	1000	Coin			
+9479	Trấn Xích	200	Coin			
+9480	Gỗ Trầm Hương	200	Coin			
+9481	Trúc Đinh	200	Coin			
+9482	Ly Lưu Ly	200	Coin			
+9483	Cốc Lưu Ly	200	Coin			
+9917	Thu thập tài liệu	1000	Coin			
+9958	Rương Hoàn Trả Nạp 11.11	1000	Coin			
+9959	Rương Hoàn Trả Nạp 11.11	1000	Coin			
+9960	Rương Hoàn Trả Nạp 11.11	1000	Coin			
+9850	Giang Hồ Thịnh Điển-Ngã	200	Coin			
+9851	Giang Hồ Thịnh Điển-Yếu	200	Coin			
+9852	Giang Hồ Thịnh Điển-Thượng	200	Coin			
+9853	Giang Hồ Thịnh Điển-Thịnh	200	Coin			
+9854	Giang Hồ Thịnh Điển-Điển	200	Coin			
+9855	Thịnh Điển Lệnh	200	Coin			
+2700	Ngoại Trang T0	2000	Coin			
+6995	Đầu T0	2000	Coin			
+6203	Vũ Khí T0	2000	Coin			
+10253	Phiếu Giảm Giá Ngoại Trang	1000	Contrib			
+10254	Cẩm Tú Lưu Quang Vũ	1000	Contrib			
+2794	Hoàng Kim Đồ Phổ (Vũ Khí)	90000	Contrib			1
+2795	Hoàng Kim Đồ Phổ (Áo)	54000	Contrib			1
+2796	Hoàng Kim Đồ Phổ (Nón)	18000	Contrib			1
+2797	Hoàng Kim Đồ Phổ (Đai)	18000	Contrib			1
+2798	Hoàng Kim Đồ Phổ (Hộ Uyển)	18000	Contrib			1
+2799	Hoàng Kim Đồ Phổ (Giày)	18000	Contrib			1
+2800	Hoàng Kim Đồ Phổ (Dây Chuyền)	36000	Contrib			1
+2801	Hoàng Kim Đồ Phổ (Nhẫn)	36000	Contrib			1
+2802	Hoàng Kim Đồ Phổ (Ngọc Bội)	36000	Contrib			1
+2803	Hoàng Kim Đồ Phổ (Hộ Thân Phù)	36000	Contrib			1
+10472	Phiếu Giảm Giá Ngoại Trang	1000	Contrib			
+2528	Đá Hồn Dương Anh-Sơ	3000	Contrib		
+2529	Đá Hồn Thanh Hiểu Sư Thái-Sơ	3000	Contrib		
+2530	Đá Hồn Chúc Tử Hư-Sơ	3000	Contrib		
+2531	Đá Hồn Hoàng Ngọc Anh-Sơ	3000	Contrib		
+2532	Đá Hồn Đạo Nhất Chân Nhân-Sơ	3000	Contrib		
+2533	Đá Hồn Đoan Mộc Duệ-Sơ	3000	Contrib		
+2848	Đá Hồn Huyền Nhân-Sơ 	3000	Contrib		
+1748	Đá Hồn Cao Trường Cung-Sơ	3000	Contrib		
+1749	Đá Hồn Triết Biệt-Sơ	3000	Contrib		
+1750	Đá Hồn Tần Lương Ngọc-Sơ	3000	Contrib		
+1751	Đá Hồn Viên Thừa Chí-Sơ	3000	Contrib		
+1752	Đá Hồn Ngao Bái-Sơ	3000	Contrib		
+1753	Đá Hồn Hàn Thế Trung-Sơ	3000	Contrib		
+1754	Đá Hồn Xích Tinh Hổ Hoàng-Sơ	3000	Contrib		
+1755	Đá Hồn Hám Thiên Hùng Hoàng-Sơ	3000	Contrib		
+1756	Đá Hồn Tử Bối Ngạc Hoàng-Sơ	3000	Contrib		
+1757	Đá Hồn Định Hải Kim Cang-Sơ	3000	Contrib		
+1758	Đá Hồn Kim Sí Bằng Hoàng-Sơ	3000	Contrib		
+1759	Đá Hồn Ngân Giác Tê Hoàng-Sơ	3000	Contrib		
+2534	Đá Hồn Mạnh Tri Thu-Sơ	3000	Contrib		
+2535	Đá Hồn Lý Hiển Trung-Sơ	3000	Contrib		
+2536	Đá Hồn Đồ Đơn Khắc Ninh-Sơ	3000	Contrib		
+2668	Đá Hồn Độc Cô Kiếm-Sơ	3000	Contrib		
+2880	Đá Hồn Nam Cung Phi-Sơ 	3000	Contrib		
+2881	Đá Hồn Dương Ảnh Phong-Sơ 	3000	Contrib		
+2672	Đá Hồn Kinh Kha-Sơ	3000	Contrib		
+2673	Đá Hồn Ngu Cơ-Sơ	3000	Contrib		
+2674	Đá Hồn Nhạc Phi-Sơ	3000	Contrib		
+2696	Đá Hồn Hoàn Nhan Hồng Liệt-Sơ	3000	Contrib		
+2824	Đá Hồn Huyền Thiên Võ Cơ-Sơ 	3000	Contrib		
+2825	Đá Hồn Bạch Khởi-Sơ 	3000	Contrib		
+2826	Đá Hồn Lý Tư-Sơ 	3000	Contrib		
+3022	Đá Hồn Lôi-Sơ 	3000	Contrib		
+2827	Đá Hồn Tần Thủy Hoàng-Sơ (Âm) 	3000	Contrib		
+2828	Đá Hồn Tần Thủy Hoàng-Sơ (Dương) 	3000	Contrib		
+1760	Đá Hồn Trương Phong-Sơ	3000	Contrib		
+1761	Đá Hồn Nguyệt My Nhi-Sơ	3000	Contrib		
+1762	Đá Hồn Thiên Tinh Đạo Trưởng-Sơ	3000	Contrib		
+1763	Đá Hồn Yên Nhược Tuyết-Sơ	3000	Contrib		
+1764	Đá Hồn Dương Hi Liệt-Sơ	3000	Contrib		
+1765	Đá Hồn Thượng Quan Phi Long-Sơ	3000	Contrib		
+1766	Đá Hồn Nạp Lan Tiềm Lẫm-Sơ	3000	Contrib		
+1767	Đá Hồn Phương Miễn-Sơ	3000	Contrib		
+1768	Đá Hồn Nam Cung Diệt-Sơ	3000	Contrib		
+1769	Đá Hồn Đường Ảnh-Sơ	3000	Contrib		
+1770	Đá Hồn Thu Y Thủy-Sơ	3000	Contrib		
+3215	Đá Hồn Lý Nguyên Bá-Sơ 	3000	Contrib		
+3216	Đá Hồn Triệu Vân-Sơ 	3000	Contrib		
+3217	Đá Hồn Lý Quảng-Sơ  	3000	Contrib		
+3371	Đá Hồn Doãn Hàm Yên-Sơ 	3000	Contrib		
+3372	Đá Hồn Tuyền Cơ Tử-Sơ 	3000	Contrib		
+3373	Đá Hồn Huyền Thiên Đạo Nhân-Sơ 	3000	Contrib		
+3709	Đá Hồn Niên Thú-Sơ	3000	Contrib		
+3854	Đá Hồn Hắc Diện Lang Quân-Sơ	3000	Contrib		
+3855	Đá Hồn Hà Nhân Ngã-Sơ	3000	Contrib		
+3856	Đá Hồn Đường Cừu-Sơ	3000	Contrib		
+3897	Đá Hồn Đường Giản-Sơ	3000	Contrib		
+4053	Đá Hồn Hoàn Nhan Hồng Liệt-Sơ (Chân)	3000	Contrib		
+4540	Đá Hồn Băng Lân Tích Hoàng-Sơ	3000	Contrib		
+4541	Đá Hồn Ngân Câu Hạt Hoàng-Sơ	3000	Contrib		
+4542	Đá Hồn Cuồng Tông Ngao Hoàng-Sơ	3000	Contrib		
+4595	Đá Hồn Hạng Vũ-Sơ	3000	Contrib		
+4849	Đá Hồn Đường Hiểu-Sơ	3000	Contrib		
+4873	Đá Hồn Tống Thu Thạch-Sơ	3000	Contrib		
+4874	Đá Hồn Cổ Yên Nhiên-Sơ	3000	Contrib		
+5432	Đá Hồn Doãn Tiêu Vũ-Sơ	3000	Contrib		
+5433	Đá Hồn Thạch Hiên Viên-Sơ	3000	Contrib		
+6067	Đá Hồn Diệp Thanh Dương-Sơ	3000	Contrib		
+6068	Đá Hồn Băng Nghi-Sơ	3000	Contrib		
+6069	Đá Hồn Dương Tái Hưng-Sơ	3000	Contrib		
+6070	Đá Hồn Hoàn Nhan Lâu Thất-Sơ	3000	Contrib		
+6100	Đá Hồn Tiêu Ngọc Trúc-Sơ	3000	Contrib		
+6101	Đá Hồn Kim Ngột Thuật-Sơ	3000	Contrib		
+6112	Đá Hồn Ngu Cơ Tuyệt Thế-Sơ	3000	Contrib		
+6126	Đá Hồn Võ Tắc Thiên-Sơ (Âm)	3000	Contrib		
+6127	Đá Hồn Võ Tắc Thiên-Sơ (Dương)	3000	Contrib		
+6128	Đá Hồn Địch Nhân Kiệt-Sơ 	3000	Contrib		
+6129	Đá Hồn Nguyên Phương-Sơ	3000	Contrib		
+6130	Đá Hồn Vô Tự Bi-Sơ 	3000	Contrib		
+6285	Đá Hồn Hàn Mông-Sơ 	3000	Contrib		
+7374	Đá Hồn Hà Linh Phiêu-Sơ	3000	Contrib		
+7377	Đá Hồn Ngu Doãn Văn-Sơ	3000	Contrib		
+7429	Đá Hồn Long Văn Sư Vương-Sơ	3000	Contrib		
+7432	Đá Hồn Cự Ngao Phong Hậu-Sơ	3000	Contrib		
+7648	Đá Hồn Vương Đằng-Sơ	3000	Contrib		
+7649	Đá Hồn Vương Vân Tiêu-Sơ	3000	Contrib		
+7650	Đá Hồn Kinh Tuyết-Sơ	3000	Contrib		
+7741	Đá Hồn Không Tướng-Sơ	3000	Contrib		
+9398	Đá Hồn Lâm Thanh Vũ-Sơ	3000	Contrib		
+9401	Đá Hồn Mạnh Thương Lam-Sơ	3000	Contrib		
+9971	Đá Hồn Phong Hành Chu-Sơ	3000	Contrib		
+9974	Đá Hồn Phương Công Vọng-Sơ	3000	Contrib		
+9977	Đá Hồn Quỷ Cốc Tử-Sơ (Âm)	3000	Contrib		
+9980	Đá Hồn Quỷ Cốc Tử-Sơ (Âm)	3000	Contrib		
+10126	Đá Hồn Huyền Băng Điêu Hoàng-Sơ	3000	Contrib		
+10127	Đá Hồn Vạn Độc Cúc Hoàng-Sơ	3000	Contrib		
+10128	Đá Hồn Hoàn Nhan Tông Hàn-Sơ	3000	Contrib		
+10149	Đá Hồn Diệp Vô Tâm-Sơ	3000	Contrib		

@@ -1,0 +1,165 @@
+AutoName	AutoId	AutoType	CastPercent	CastSkillId	CastSkillLevel	ParentSkillId	RelativeSkillStyle	TargetStateStyle	MinPerCastTime	MaxCastCount	Param1	Param2
+Đồng Hành-Hộ Chủ	1	16	100	2606	-1					-1		
+Đồng Hành-Phản Kích-Sơ	2	1	40	1986	-1		normal_melee,normal_remote,skill_melee,skill_remote			-1		
+Đồng Hành-Phản Kích-Trung	3	1	40	1989	-1		normal_melee,normal_remote,skill_melee,skill_remote			-1		
+Đồng Hành-Phản Kích-Cao	4	1	50	1992	-1		normal_melee,normal_remote,skill_melee,skill_remote			-1		
+Khô Mộc Phùng Xuân	5	14	50	937	-1				15*15	-1		
+Niết Bàn Trùng Sinh	6	14	50	939	-1				15*15	-1		
+Trúng độc toàn màn hình	7	6	100	1882	-1				30	-1		
+Cuồng Bạo	8	18	{1,100},{10,100}	2609	-1					-1		
+Trấn Ngục Phá Thiên Kình	9	20	{1,100},{10,100}	2872	-1					-1		
+Phi Sa Bộ Pháp	10	17	{1,50},{10,50}	2546	-1				15*10	-1		
+Trung Quán Bạch Nhật	11	8	{1,100},{10,100}	1773	-1					-1		
+Quyết Biệt	12	5	{1,100},{10,100}	2878	-1					-1		
+Ám Ảnh Thích	13	15	{1,100},{10,100}	1781	-1					-1		
+Vòng Hỏa Diệm toàn màn hình	14	6	100	2945	-1				30	-1		
+Quyền Khuynh Thiên Hạ-BUFF Tử Vong	15	5	{1,100},{10,100}	3012	-1					1		
+Quyền Khuynh Thiên Hạ-BUFF Tử Vong_Miễn	16	6	{1,100},{10,100}	3013	-1				{1,15*2},{10,15*2}	10		
+Đánh Thức-Xóa Tử Vong	17	5	{1,100},{10,100}	3068	-1					1		
+Triệu Hồi Xích Hạt-Xóa Tử Vong	18	5	{1,100},{10,100}	3072	-1					1		
+Trấn Ngục Phá Thiên Kình	19	20	{1,100},{10,100}	1766	-1				120	-1		
+Bẫy Toàn Phong	20	6	{1,100},{10,100}	3107	-1				15	-1		
+Thiên Vương-Phá Phủ Trầm Châu-Sinh lực thấp sẽ vô địch hồi sinh lực	21	4	{1,40},{10,90},{11,95}	219	-1				{1,15*40},{10,15*40}	-1		
+Thiên Vương-Kinh Lôi Phá Thiên-Bị tấn công sẽ cộng dồn tấn công	22	1	100	241	-1		normal_melee,normal_remote,skill_melee,skill_remote		3	-1		
+Thiếu Lâm-La Hán Trận-Bị tấn công sẽ phản đòn	23	1	{1,40},{10,60},{11,60}	274	-1		normal_melee,normal_remote,skill_melee,skill_remote,skill_sp_gold		3	-1		
+Thiếu Lâm-Kim Cang Nộ Mục-Sinh lực thấp sẽ hộ mạng	24	3	{1,40},{10,90},{11,95}	281	-1				{1,15*30},{10,15*30}	-1		
+Thiếu Lâm-Lập Địa Thành Phật-Bị tấn công sẽ cộng dồn kháng tính	25	1	100	279	-1		normal_melee,normal_remote,skill_melee,skill_remote,skill_sp_gold		3	-1		
+Cố Nhược Kim Thang	26	6	{1,100},{10,100}	406	-2				1	1		
+Thiếu Lâm-La Hán Kim Thân-Bị tấn công sẽ phản kích Định Thân	27	13	{1,100},{10,100}	299	-1		normal_melee,normal_remote,skill_melee,skill_remote,skill_sp_gold		{1,15*6},{10,15*3}	-1		
+Kích Nộ	28	4	100	3217	-1				{1,15*30},{10,15*30}	-1		
+Sương Độc	29	4	100	3220	-1				{1,15*30},{10,15*30}	-1		
+Luân Hồi Vãng Sinh	30	14	80	3255	-1				15*15	-1		
+Nga Mi-Miên Lý Tàng Châm-Sinh lực thấp sẽ đánh lui hồi sinh lực	31	4	{1,40},{10,90},{11,95}	318	-1				{1,15*30},{10,15*30}	-1		
+Lục Đạo Luân Hồi	32	14	100	5719	-1				15*15	-1		
+Đào Hoa-Dục Hỏa Trùng Sinh1	41	4	{1,40},{10,90},{11,95}	426	-1				{1,15*30},{10,15*30}	-1		
+Đào Hoa-Nghịch Chuyển Cửu Âm-Bị tấn công sẽ phản kích đánh lui	42	13	100	444	-1		normal_melee,normal_remote,skill_melee,skill_remote		{1,15*20},{10,10*15},{11,10*15}	-1		
+Đào Hoa-Nguyệt Lạc Tinh Trầm-Đánh thường kích hoạt mất sinh lực theo tỉ lệ	44	2	{1,5},{10,10},{11,10}	463	-1		normal_melee,normal_remote		15	-1		
+Cái Bang-Du Long Quyết-Né tránh xong tăng tấn công và hồi sinh lực	45	25	{1,100},{10,100}	4223	-1		normal_melee,normal_remote,skill_melee,skill_remote		{1,15*5},{10,15*5},{11,15*5}	-1		
+Cái Bang-Kim Thiền Thoát Xác	46	4	{1,40},{10,90},{11,95}	4226	-1				{1,15*30},{10,15*30}	-1		
+Cái Bang-Kim Thiền Thoát Xác_Phụ 1_Bỏ	47	6	{1,100},{10,100}	4211	-2				1	1		
+Cái Bang-Thâu Thiên Hoán Nhật	48	25	{1,40},{10,60},{11,66}	4230	-1		normal_melee,normal_remote,skill_melee,skill_remote		{1,15*10},{10,15*10},{11,15*10},{12,145}	-1		
+Tiêu Dao-Tam Nguyên Quy Nhất. Tự cộng dồn buff	51	6	{1,100},{10,100}	523	-1				15	-1		
+Tiêu Dao-Tam Nguyên Quy Nhất. Kỹ năng đánh trúng không thể cộng dồn	52	2	{1,100},{10,100}	524	-1		skill_melee,skill_remote		15	-1		
+Tiêu Dao-Tiêu Dao Ngự Phong	53	18	100	542	-1				3	-1		
+Đường Môn-Tâm Nhãn-Đánh thường trúng địch sẽ cộng dồn BUFF	54	2	{1,100},{10,100}	4020	-1		skill_melee,skill_remote,skill_sp_gold			-1		
+Đường Môn-Di Hình Hoán Ảnh-Hộ mạng ẩn thân, xóa chờ kỹ năng	55	3	{1,40},{10,90},{11,95}	4028	-1				{1,15*30},{10,15*30}	-1		
+Đường Môn-Triền Thân Thích-Sơ-Có tỉ lệ tạo bẫy nơi mục tiêu	56	2	100	4063	-1	4008,4013			{1,30*15},{10,20*15},{15,15*15},{20,15*15}	-1		
+Đường Môn-Mê Ảnh Tung-Trung-Thi triển có tỉ lệ nhận BUFF	57	24	{1,0},{10,0},{11,20},{15,80},{20,100},{21,100}	4046	-1	4010				-1		
+Đường Môn-Truy Tinh Trục Điện-Kích hoạt Định Thân và giảm kháng	58	10	{1,50},{10,80},{11,85},{12,85}	4061	-1		normal_melee,normal_remote,skill_melee,skill_remote,skill_sp_gold		75	-1		
+Đường Môn-Mê Ảnh Tung-Cao-Bị tấn công có tỉ lệ xóa chờ	59	1	{1,0},{15,0},{16,6},{20,30}	4057	-1		normal_melee,normal_remote,skill_melee,skill_remote,skill_sp_gold		75	-1		
+Võ Đang. Nhân Kiếm Hợp Nhất. Phản kích Kiếm Phi Kinh Thiên 	60	13	{1,10},{15,50},{20,50}	607	-1		skill_melee,skill_remote		4	-1		
+Võ Đang-Thái Nhất Chân Khí	61	1	{1,100},{10,100}	618	-1				{1,15*30},{10,15*20},{11,15*19}	-1		
+Võ Đang. Vô Ngã Vô Kiếm. Bí Kíp-Trung. Công thường kích hoạt phi kiếm	62	27	{1,0},{10,0},{11,100},{15,100}	651	-1		normal_melee		3	-1		
+Võ Đang. Tọa Vọng Vô Ngã. Bí Kíp-Sơ. Trạng thái thuẫn mỗi giây tạo mới tăng sát thương phi kiếm	63	6	100	625	-1				30	-1		
+Võ Đang-Huyền Thiên Tâm Pháp-Hộ thuẫn hộ mạng	64	3	{1,40},{10,90},{11,95}	613	-2				{1,15*30},{10,15*30},{11,15*30}	-1		
+Võ Đang. Thất Tinh Quyết. Lấy trộm bạo kích và tốc chạy	65	27	100	666	-1		skill_melee,skill_remote		1	-1		
+Côn Lôn-Hỗn Nguyên Càn Khôn-Đánh trúng sẽ cộng dồn BUFF	67	2	{1,100},{10,100}	4120	-1		normal_melee,normal_remote,skill_melee,skill_remote		15	-1		
+Côn Lôn-Nhất Khí Tam Thanh-Hộ thuẫn hộ mạng	68	3	{1,40},{10,90},{11,95}	4132	-1				{1,15*30},{10,15*30}	-1		
+Thiên Nhẫn-Huyết Nguyệt Chi Ảnh-Phá ẩn thân kích hoạt BUFF	71	15	{1,100},{10,100}	713	-1					-1		
+Thiên Nhẫn-Bí Kíp Huyết Nguyệt Chi Ảnh-Phá ẩn thân đánh thường tăng sát thương sinh lực tối đa	72	2	{1,100},{10,100}	744	-1	714,715,716,717			1	-1		
+Thiên Nhẫn-Thánh Hỏa Phần Tâm-Hộ mạng kích hoạt ẩn thân	73	3	{1,40},{10,90},{11,95}	737	-1				{1,15*39},{10,15*30},{11,15*30}	-1		
+Huyết Nguyệt Chi Ảnh-Phó bản Tân Thủ	74	15	{1,100},{10,100}	2178	-1					-1		
+Huyết Nguyệt Chi Ảnh_Đồng Hành S	75	15	{1,100},{10,100}	2820	-1					-1		
+Thiên Nhẫn-Ma Diệm Thất Sát	76	2	{1,100},{10,100}	743	-1		normal_melee,normal_remote,skill_melee,skill_remote		15	-1		
+Thiên Nhẫn-Phá Toái Hư Không	77	1	100	746	-1		normal_melee,normal_remote,skill_melee,skill_remote			-1		
+Thiên Nhẫn-Phi Hồng Vô Tích	78	2	{1,100},{10,100}	771	-1		normal_melee,normal_remote,skill_melee,skill_remote		{1,15*15},{10,15*6},{11,15*6}	-1		
+Thúy Yên- Băng Tung Vô Ảnh-Thi triển kích hoạt buff	79	27	{1,100},{10,100}	807	-2	816			1	-1		
+Thúy Yên-Tuyền Cơ La Vũ-Sơ-Công thường đánh trúng cộng dồn sát thương Tuyền Cơ La Vũ	80	2	100	860	-1		normal_melee,normal_remote		15	-1		
+Thúy Yên-Vòng debuff Bảo Bảo	81	6	100	879	-1				15	-1		
+Thúy Yên-Băng Cơ Ngọc Cốt-Hộ mạng	82	4	{1,40},{10,90},{11,95}	825	-1				{1,15*30},{10,15*30}	-1		
+Thúy Yên-Băng Tung Vô Ảnh-Trung-Đóng Băng kết thúc kích hoạt sát thương	83	22	{1,100},{15,100}	869	-1	813			30	-1		
+Thi Bộc (Sát thương phần trăm)	84	5	{1,100},{10,100}	1692	-1					1		1500
+Vòng Vô Địch	85	6	{1,100},{10,100}	3116	-1				15	-1		
+Thi Bộc	91	5	{1,100},{10,100}	2419	-1					1		1500
+Hoán Phong	92	6	{1,100},{10,100}	2050	-1				60	-1		
+Phong Hộ	93	6	{1,100},{10,100}	2052	-1				60	-1		
+50% sau hồi Sinh Lực	94	3	{1,100},{10,100}	2456	-1				15	-1		
+Trọng Thương Vô Địch	95	14	{1,100},{10,100}	2467	-1					-1		
+Du Long Kiếm Ý	96	8	{1,100},{10,100}	2868	-1					-1		
+Đồng Hành-Cẩn Thận	97	18	{1,100},{10,100}	2599	-1					-1		
+Đồng Hành-Dũng Cảm	98	18	{1,100},{10,100}	2601	-1					-1		
+Đồng Hành-Bất Khuất	99	18	{1,100},{10,100}	2603	-1					-1		
+Chân Nguyên-Băng Thanh Ngọc Nhuận	100	6	{1,100},{10,100}	3802	-1				{1,15*60},{3,15*50},{8,15*40},{16,15*36}	-1		
+Chân Nguyên-Nghịch Thủy Hành Châu	101	6	{1,100},{10,100}	3805	-1				{1,15*50},{3,15*40},{8,15*30},{16,15*22}	-1		
+Sức Mạnh Nữ Đế	102	13	{1,30},{30,30}	3922	-1				{1,15*5},{10,15*5}	-1		
+Kinh Mạch-Nhâm Mạch-Khúc Cốt	103	2	{1,30},{20,50}	4802	-1		normal_melee,normal_remote		{1,15*10},{20,15*5}	-1		
+Kinh Mạch-Đốc Mạch-Trường Cường	104	13	{1,5},{20,15}	4805	-1		normal_melee,normal_remote,skill_melee,skill_remote		{1,15*15},{20,15*10}	-1		
+Kinh Mạch-Xung Mạch-U Môn	105	1	{1,25},{20,25}	4808	-1		normal_melee,normal_remote,skill_melee,skill_remote,control		{1,15*38},{20,15*18}	-1		
+Kinh Mạch-Dương Khiêu-Tinh Minh	106	12	100	4810	-1				{1,15*45},{20,15*30}	-1		
+Kinh Mạch-Âm Khiêu-Công Tôn	107	2	{1,100},{20,100}	4812	-1		skill_melee,skill_remote,control		{1,15*38},{20,15*20}	-1		
+Kinh Mạch-Dương Duy-Kim Môn	108	9	{1,100},{20,100}	4814	-1		normal_melee,normal_remote,skill_melee,skill_remote,control,skill_sp_gold		{1,15*10},{20,15*10}	-1		
+Đoàn Thị-Diệu Đế Chỉ	111	2	{1,20},{10,50},{11,53}	5634	-1		normal_melee,normal_remote		15	-1		
+Đoàn Thị-Khô Vinh Thiền Công	112	4	{1,40},{10,90},{11,95}	5643	-1				{1,15*30},{10,15*30}	-1		
+Đoàn Thị-Bắc Minh Thần Công-Giảm tấn công cơ bản phe địch	113	13	100	5647	-1		normal_melee,normal_remote,skill_melee,skill_remote,skill_sp_gold			-1		
+Đoàn Thị-Bắc Minh Thần Công-Buff Vòng Băng kích hoạt	114	2	100	5649	-1		normal_melee,normal_remote		3*15	-1		
+Đoàn Thị-Bí Kíp.Thủy Long Ngục-Tăng giới hạn sinh lực và hồi sinh lực	115	2	100	5667	-1	5627,5628			1*15	-1		
+Vạn Hoa-Mặc Thủ Thành Quy	116	27	100	5832	-1	5805,5810,5812,5839				-1		
+Vạn Hoa-Mặc Thủ Thành Quy-Điệp Gia BUFF	117	27	100	5833	-1	5808			15*15	-1		
+Vạn Hoa-Hổ Khiếu Sơn Lâm	118	3	{1,40},{10,90},{11,95}	5845	-1				{1,15*30},{10,15*30}	-1		
+Ngũ Độc-Bách Độc Xuyên Tâm	119	9	{1,100},{10,100}	4342	-1		normal_melee,normal_remote,skill_melee,skill_remote		{1,15*6},{10,15*3},{11,15*3}	-1		
+Ngũ Độc-Vô Hình Cổ	120	13	{1,50},{10,70},{11,75}	4346	-1		normal_melee,normal_remote,skill_melee,skill_remote		{1,15*5},{10,15*5}	-1		
+Ngũ Độc-Hồi Hồn Mật Chú	121	4	{1,40},{10,90},{11,95}	4348	-1				{1,15*30},{10,15*30}	-1		
+Ngũ Độc-Ngũ Độc Kỳ Kinh_Ngũ Độc	122	2	{1,2},{10,20},{11,22}	4351	-1		skill_melee,skill_remote		{1,15*5},{10,15*5}	-1		
+Ngũ Độc-Âm Phong Thực Cốt-Cao	123	24	{1,0},{15,0},{16,100},{20,100}	4371	-1	4309				-1		
+Hoa Sơn. Bí Kíp Phong Tống Tử Hà. Kích nổ tỉ lệ hồi 1 Kiếm Ý	124	2	{1,10},{10,100},{11,100},{20,100}	5205	1	5236				-1		
+Hoa Sơn. Bí Kíp Phong Tống Tử Hà. Mỗi cách một thời gian cộng đồn Tử Khí	125	6	{1,0},{15,0},{16,100},{20,100}	5234	1				{1,60*15},{15,60*15},{16,15*15},{20,5*15}	-1		
+Vạn Hoa-Lan Tồi Ngọc Chiết-Bí Kíp. Phóng thích có tỉ lệ đổi mới tự thân CD	126	24	{1,0},{10,0},{11,8},{15,40},{20,40}	5862	-1	5808				-1		
+Vạn Hoa-Tuyệt Học-Giảm kỹ năng CD	127	2	{1,8},{10,40},{11,40}	5873	-1	5801,5802,5803,5804				-1		
+Thiên Vương-Khí Cái Bát Hoang-Tỉ lệ phát động tổn thương	128	2	{1,20},{10,50},{11,50}	247	-1		skill_melee,skill_remote,skill_sp_gold			-1		
+Tàng Kiếm-Vân Thê Tùng-Hộ mạng kích hoạt Phi Kiếm	132	3	{1,40},{10,90},{11,95}	4425	-1				{1,15*39},{10,15*30},{11,15*30}	-1		
+Tàng Kiếm-Hoàng Long Thổ Thúy-Có tỉ lệ kích hoạt sát thương	133	2	{1,6},{10,15},{11,15}	4429	-1		normal_melee,normal_remote,skill_melee,skill_remote			-1		
+Tàng Kiếm-Ngọc Tuyền Ngư Dược-Có tỉ lệ sát thương 2 lần	134	24	{1,0},{10,0},{11,5},{20,50}	4409	-1	4408				-1		
+Tâm Kiếm_Tân Thủ Tàng Kiếm	135	2	{1,100},{10,100}	4489	-1		normal_melee,normal_remote			-1		
+Hoa Sơn-Tiêu Sử Thừa Long-Tự nhận Kiếm Ý	136	6	100	5205	1				2*15	-1		
+Hoa Sơn. Vân Thiên Hồ Quang. Sinh lực thấp kích hoạt Phản Kích	137	18	{1,12},{10,50},{15,50}	5226	-1		normal_melee,normal_remote,skill_melee,skill_remote		5	-1		
+Hoa Sơn. Thức Phá hộ thuẫn kích hoạt buff	138	13	100	5222	-1		normal_melee,normal_remote,skill_melee,skill_remote			1		
+Hoa Sơn. Thiên Quang Vân Ảnh. Kỹ năng đánh trúng kích hoạt Vân Thiên Hồ Quang	139	2	{1,4},{10,16},{11,24}	5226	-1		skill_melee,skill_remote		1	-1		
+Hoa Sơn. Bí Kíp Triều Dương Kiếm Khí. Bị tấn công tạo mới chờ	140	13	{1,0},{15,0},{16,4},{20,20}	5253	-1		skill_melee,skill_remote		4*15	-1		
+Trường Ca-Dạ Dẫn Phong Lam-Phản kích đánh lui	141	1	{1,10},{10,30},{11,32}	4523	-1		normal_melee,normal_remote,skill_melee,skill_remote		{1,15*3},{10,15*3}	-1		
+Trường Ca-Ma Âm Triền Nhiễu-Debuff phản kích	142	13	100	4528	-1		normal_melee,normal_remote,skill_melee,skill_remote		{1,15*5},{10,15*5}	-1		
+Trường Ca-Hồi Mộng Trục Quang	143	4	{1,40},{10,90},{11,95}	4530	-1				{1,15*30},{10,15*30}	-1		
+Trường Ca-Dương Xuân Bạch Tuyết-Đánh thường kích hoạt cấm trị liệu	144	24	{1,10},{10,30},{11,32}	4540	-1		normal_melee,normal_remote		{1,15*4},{10,15*2},{11,15*2}	-1		
+Thiên Sơn-Phi Yến Lăng Ba-Đánh thường đòn cuối kích hoạt giảm chờ	145	24	100	4649	-1	4604				-1		
+Thiên Sơn-Ngân Bình Ngọc Toái-Bị tấn công sẽ giảm 1 tầng DEBUFF	146	13	100	4631	-1		normal_melee,normal_remote,skill_melee,skill_remote		15	-1		
+Thiên Sơn-Không Sơn Ngưng Vân-Bị tấn công sẽ bắn đạn vào mục tiêu	147	13	100	4615	-1		normal_melee,normal_remote,skill_melee,skill_remote		15	-1		
+Thiên Sơn-Phượng Thê Ngô Đồng	148	6	100	4620	-1				75	-1		
+Thiên Sơn-Cầm Sắt Hòa Minh-Kích hoạt sát thương và hồi sinh lực	149	2	{1,5},{10,50},{11,50}	4635	-1		normal_melee,normal_remote	curse		-1		
+Thiên Sơn-Phượng Thê Ngô Đồng-Tự giảm 1 tầng BUFF	150	6	100	4630	-1				30	-1		
+Thiên Sơn-Nghịch Thủy Hàn-Hộ mạng	151	4	{1,40},{10,90},{11,95}	4627	-1				{1,15*30},{10,15*30}	-1		
+Bá Đao-Tàn Dương Ánh Huyết. Khi hết sinh lực mỗi giây hồi sinh lực	152	6	100	5057	-1				15	-1		
+Côn Lôn-Ngự Phong Hành_Có tỉ lệ kích hoạt	162	1	15	4121	-1		normal_melee,normal_remote,skill_melee,skill_remote		60	-1		
+Côn Lôn-Ngự Phong Hành_Chắc chắn kích hoạt	163	1	100	4121	-1		normal_melee,normal_remote,skill_melee,skill_remote		15*15	-1		
+Tàng Kiếm-Tâm Kiếm-Cao-Bị tấn công sẽ giảm chờ Tâm Kiếm	164	13	100	4456	-1		skill_melee,skill_remote		15	-1		
+Tàng Kiếm-Đoạn Triều-Cao-Thi triển có tỉ lệ xóa chờ	165	24	{1,0},{15,0},{16,8},{20,40}	4438	-1	4406				-1		
+Tàng Kiếm-Ánh Ba Tỏa Lan-Trúng kỹ năng sẽ tăng kháng tính trong thời gian ngắn, miễn dịch khống chế	166	2	100	4423	-1		skill_melee,skill_remote			-1		
+Đào Hoa-Cửu Diệu Liên Châu-Đánh thường có tỉ lệ tạo mới	167	2	{1,0},{10,0},{11,1},{15,5},{20,5}	445	-1		normal_melee,normal_remote		15	-1		
+Đào Hoa-Khinh Vân Tế Nguyệt. Thi triển kỹ năng tăng Tốc Đánh và sát thương công thường	168	24	100	466	-1		skill_remote			-1		
+Bá Đao. Dục Huyết Đạo Phong. Cách thời gian nhận buff giảm SL tiêu hao_Bỏ	169	6	100	5018	-1				30*15	-1		
+Bá Đao. Bĩ Cực Thái Lai. Trọng thương nhận buff	170	14	{1,40},{10,90},{11,95}	5018	-1				30*15	-1		
+Bá Đao. Bĩ Cực Thái Lai. Phụ 2. Trọng thương có tỉ lệ miễn tử vong hồi sinh lực	171	14	100	5030	-1				2	-1		
+Bá Đao. Tị Thực Tựu Hư. Bị tấn công cộng dồn giảm kháng	172	1	100	5027	-1		normal_melee,normal_remote,skill_melee,skill_remote,skill_sp_gold		2*15	-1		
+Bá Đao. Liên Hoàn Đao. Sau khi đánh trúng cộng dồn buff	173	2	{1,100},{10,100}	5035	-1		normal_melee,normal_remote,skill_melee,skill_remote,skill_sp_gold		15	-1		
+Gián đoạn đạo cụ hồi sinh lực	175	1	100	5116	-1					-1		
+Minh Giáo-Tinh Hỏa Liêu Nguyên	176	4	{1,40},{10,90},{11,95}	5531	-1				{1,15*30},{10,15*30}	-1		
+Minh Giáo.Hỏa Vũ Lăng Thiên	177	2	100	5535	-1		skill_melee,skill_sp_gold			-1		
+Minh Giáo.Hủy Thiên Diệt Địa.Né tránh xong giảm chờ	178	25	{1,100},{10,100}	5556	-1		normal_melee,normal_remote,skill_melee,skill_remote,skill_sp_gold		{1,15*1},{10,15*1}	-1		
+Minh Giáo.Hỏa Quang Tàn Ảnh.Chính xác xong giảm chờ	179	6	{1,100},{10,100}	5558	-1				15	-1		
+Tuyệt Học.Minh Giáo.Hỏa Quang Tàn Ảnh.Công thường có xác suất giảm chờ	180	2	{1,20},{10,50}	5560	-1		normal_melee,normal_remote		15	-1		
+Tuyệt Học. Thường dùng. Sinh lực thấp bị tấn công nhận buff tăng ích	181	18	100	5357	-1		normal_melee,normal_remote,skill_melee,skill_remote		2*15	-1		
+Tuyệt Học. Thiên Vương. Kim Chung Tráo bị tấn công có tỉ lệ giải trừ khống chế hồi sinh lực	182	1	{1,5},{10,50}	5358	-1		normal_melee,normal_remote,skill_melee,skill_remote		1*15	-1		
+Tuyệt Học. Tiêu Dao. Bạch Hồng Quán Nhật có tỉ lệ tái lập thời gian chờ	183	28	{1,4},{10,40}	5360	-1	510				-1		
+Tuyệt Học. Đường Môn. Bạo Vũ Lê Hoa Tán Tiêu đánh trúng có tỉ lệ tạo mới thời gian chờ kỹ năng	184	2	{1,1},{10,10}	5364	-1	4009			5	-1		
+Tuyệt Học. Ngũ Độc. Công thường cộng dồn sát thương bạo kích	185	2	100	5365	-1		normal_melee,normal_remote		2	-1		
+Tuyệt Học. Trường Ca. Thi triển Bình Sa Nhạn Lạc cường hóa Thanh Âm Trường Khiếu	186	2	100	5367	-1	4506			2	-1		
+Tuyệt Học. Trường Ca. Thi triển Thanh Âm Trường Khiếu cường hóa Bình Sa Nhạn Lạc	187	2	100	5368	-1	4512			2	-1		
+Tuyệt Học. Bá Đao. Hiệu quả Dục Huyết Đạo Phong kết thúc hồi sinh lực	188	26	100	5369	-1	5015			2	-1		
+Tuyệt Học. Thiên Vương. Huyết Chiến Bát Phương tăng tấn công	189	2	100	5370	-1	211			2	-1		
+Tuyệt Học. Đào Hoa. Đào Hoa Tiễn Thuật tăng tấn công	190	2	100	5372	-1		normal_remote		5	-1		
+Tuyệt Học. Tiêu Dao. Bạch Hồng Quán Nhật giảm chờ Thất Thám Xà Bàn	191	27	100	5373	-1	510			15	-1		
+Tuyệt Học. Thiên Nhẫn. Huyết Nguyệt Chi Ảnh kèm hồi sinh lực và giảm chờ kỹ năng	192	6	100	5375	-1				15	-1		
+Tuyệt Học. Băng Tâm Tuyết Liên. Kỹ năng cộng dồn sát thương công thường	193	2	100	5377	-1		skill_remote		15	-1		
+Tuyệt Học. Ngũ Độc. Công thường giảm chờ Vạn Cổ Phệ Tâm và Mê Tâm Cổ	194	27	100	5381	-1		normal_melee,normal_remote		2	-1		
+Tuyệt Học.Minh Giáo.Bất Diệt Quang.Né tránh xong hồi sinh lực và tăng cơ bản	195	25	{1,100},{10,100}	5562	-1		normal_melee,normal_remote,skill_melee,skill_remote,skill_sp_gold		{1,15*2},{10,15*2},{11,15*2}	-1		
+Tuyệt Học-Thường-Huy Duệ Sinh Phong-Tầng 1	196	27	100	5388	-1		skill_melee,skill_remote,buff_melee,buff_remote		15*30	-1		
+Tuyệt Học-Thường-Huy Duệ Sinh Phong-Cận chiến	197	27	100	5389	-1		skill_melee,buff_melee		15	-1		
+Tuyệt Học-Thường-Huy Duệ Sinh Phong-Tầm xa	198	27	100	5390	-1		skill_remote,buff_remote		15	-1		

@@ -1,0 +1,22 @@
+Index	XPos	YPos	Text	Color	FontSize
+NpcTrapToDXC	4241	12084	Đạo Hương Thôn	White	16
+NpcTrapToBLX	4243	9540	Ba Lăng Huyện	White	16
+NpcTrapToJJC	4241	6958	Giang Tân Thôn	White	16
+NpcTrapToYLZ	4356	4051	Vĩnh Lạc Trấn	White	16
+ZY_GateN	12918	11022	Cổng Bắc	Gold	16
+ZY_GateM	12922	8273	Cổng Giữa	Gold	16
+ZY_GateS	12918	5611	Cổng Nam	Gold	16
+ZY_Longzhu_sun	15536	8278	Long Trụ Nhật Diệu	Gold	16
+ZY_Longzhu_moon	15536	11012	Long Trụ Nguyệt Hoa	Gold	16
+ZY_Longzhu_star	15539	5577	Long Trụ Tinh Huy	Gold	16
+YD_attack1	5700	11680	Doanh Địa	Gold	18
+YD_attack2	5627	9216	Doanh Địa	Gold	18
+YD_attack3	5755	6792	Doanh Địa	Gold	18
+YD_attack4	5700	3844	Doanh Địa	Gold	18
+YD_defense	20874	8195	Đại Doanh Phe Thủ	Gold	18
+DES_GateN	12468	10572	(Đánh bại) 	White	14
+DES_GateM	12472	7823	(Đánh bại) 	White	14
+DES_GateS	12468	5161	(Đánh bại) 	White	14
+OCC_Longzhu_sun	15086	7828	(Bang Hội chiếm cứ) 	White	14
+OCC_Longzhu_moon	15086	10562	(Bang Hội chiếm cứ) 	White	14
+OCC_Longzhu_star	15089	5127	(Bang Hội chiếm cứ) 	White	14

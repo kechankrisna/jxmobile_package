@@ -1,0 +1,9 @@
+Index	NpcName	TitleID	NpcTemplateId	WalkNearLength	CanAutoPath	NpcLevel	XPos	YPos	StandDir	Quantity	NpcType	NpcCamp	NpcDroprate	NpcSeriesAuto	NpcSeriesMetal	NpcSeriesWood	NpcSeriesWater	NpcSeriesFire	NpcSeriesEarth	Removewhendeath	ChangeColorScheme
+chuansong	Thương Hải	Truyền tống	73		1	99	13095	8812	0	-1	0	0		0	0	0	0	0	0	0	0
+yehao	Diệp Hạo	Bách Hiểu Công Tử	88		1	99	11265	4725	0	-1	0	0		0	0	0	0	0	0	0	0
+xueyinyao	Tiết Ngân Dược	Tố Thủ Y Tiên	90		1	99	12020	5160	49	-1	0	0		0	0	0	0	0	0	0	0
+wangchao	Vương Triều	Thủ Vệ Hoàng Thành	89		1	99	7700	2190	62	-1	0	0		0	0	0	0	0	0	0	0
+tiejiang	Âu Dã Tử	Bậc Thầy Đúc Tạo	15		1	99	4047	5837	0	-1	0	0		0	0	0	0	0	0	0	0
+tiejiang	Diệp Vũ Nhu		36		1	99	13210	6125	16	-1	0	0		0	0	0	0	0	0	0	0
+shouwei	Thủ Vệ Hoàng Thành		36		1	99	12295	8562	48	-1	0	0		0	0	0	0	0	0	0	0
+shouwei	Thủ Vệ Hoàng Thành				1	99	12291	9077	48	-1	0	0		0	0	0	0	0	0	0	0

@@ -1,0 +1,841 @@
+id	word
+1	Minh Chủ Võ Lâm
+2	Nhiệm Vụ Thương Hội
+3	Chiến Trường Tống Kim
+4	Tàng Bảo Đồ
+5	Nhiệm Vụ Trừng Ác
+6	Bí Cảnh Tổ Đội
+7	Tìm Kiếm Ải
+8	Địa Cung
+9	Võ Thần Điện
+10	Lăng Tuyệt Phong
+11	Thu thập Lăng Tuyệt Phong
+12	Danh Tướng
+13	Thủ Lĩnh Dã Ngoại
+14	Vấn Đáp
+15	Truyền Công
+16	Lửa Trại Bang Hội
+17	Thí Luyện Bang Hội
+18	Khiêu Chiến Anh Hùng
+19	Bang Hội Chiến
+20	Bạch Hổ Đường
+21	Thông Thiên Tháp
+22	Thi Đấu Môn Phái
+23	Vận Tiêu Bang Hội
+24	Hoa Sơn Luận Kiếm
+25	Chung kết
+26	Tâm Ma Ảo Cảnh
+27	Tần Lăng
+28	Thủy Hoàng Giáng Thế
+29	Huyền Thiên Võ Cơ
+30	Bạch Khởi
+31	Lý Tư
+32	Minh Chủ
+33	Thương Hội
+34	Chiến Trường
+35	Tống Kim
+36	Đào Kho Báu
+37	Trừng Ác
+38	Bí Cảnh
+39	Do thám-
+40	Danh Tướng
+41	Thủ Lĩnh
+42	Vấn Đáp
+43	Lửa Trại
+44	Tâm Ma
+45	Tần Lăng
+46	Vận Tiêu
+47	Luyện Công Ngoài Thành
+48	Thí Luyện Giang Hồ
+49	Thí Luyện
+50	Môn Phái Bầu Chọn
+51	Công Thành Chiến
+52	Nguyệt Hoa
+53	Nhật Diệu
+54	Tinh Huy
+55	Long Trụ
+56	Bắc Môn
+57	Trung Môn
+58	Nam Môn
+59	Cổng Bắc
+60	Cổng Giữa
+61	Cổng Nam
+62	Lãnh Thổ Chiến
+63	Tỉ Võ Trường
+64	Lôi Đài
+65	Trang Bị
+66	Trang bị Hiếm
+67	Trang bị Kế Thừa
+68	Phòng cụ
+69	Trang sức
+70	Vũ Khí
+71	Áo
+72	Nón
+73	Hộ Uyển
+74	Đai
+75	Giày
+76	Dây Chuyền
+77	Hộ Thân Phù
+78	Nhẫn
+79	Ngọc Bội
+80	Đồ Cam
+81	Ngạo Huyết Đan Thanh
+82	Thanh Lân Trấn Hải
+83	Huyền Giáp Thiết Kỵ
+84	Bát Phương Vân Động
+85	Thanh Đăng Duệ Ảnh
+86	Vũ Lạc Trần Thương
+87	Mặc Nhiễm Kim Chi
+88	Lưu Phong Hồi Tuyết
+89	Thanh Ngọc Vân Ca
+90	Địch Vũ Cán Hoa
+91	Mặc Chỉ U Lan
+92	Ngạo Hàn Tố Tuyết
+93	Thiên Diệp Sâm La
+94	Ngự Hải Thính Đào
+95	Mặc Trúc Đạp Tuyết
+96	Bạch Ngọc Lang Hoàn
+97	Túy Nguyệt Thanh Tiêu
+98	Thủy Long Ngâm
+99	Chân Võ Chi Uyên
+100	Ngân Ưng Lược Địa
+101	Thanh Ti Quán
+102	Hàn Tinh Toái Ảnh
+103	Dạ Mộ Sa
+104	Thương Nguyệt Ngấn
+105	Táo Hồng Mã
+106	Chiếu Dạ Ngọc Sư Tử
+107	Ô Vân Đạp Tuyết
+108	Trục Nhật
+109	Thiên Vương
+110	Thương Thiên
+111	Chùy Thiên
+112	Đao Thiên
+113	Nga Mi
+114	Kiếm Nga
+115	Chưởng Nga
+116	Phụ Nga
+117	Cầm Nga
+118	Phật Nga
+119	Tiêu Dao
+120	Đào Hoa
+121	Võ Đang
+122	Kiếm Võ
+123	Khí Võ
+124	Bút Võ
+125	Thiên Nhẫn
+126	Chiến Nhẫn
+127	Ma Nhẫn
+128	Thiếu Lâm
+129	Quyền Thiếu
+130	Côn Thiếu
+131	Đao Thiếu
+132	Dịch Kinh
+133	Tẩy Tủy
+134	Cái Bang
+135	Chưởng Cái
+136	Côn Cái
+137	Tịnh Y
+138	Ô Y
+139	Thúy Yên
+140	Đao Thúy
+141	Kiếm Thúy
+142	Côn Lôn
+143	Đao Côn
+144	Kiếm Côn
+145	Đường Môn
+146	Phi Đao Đường
+147	Đường Môn Tiễn
+148	Đường Môn Bẫy
+149	Thiên La
+150	Kinh Thiên
+151	Ngũ Độc
+152	Đao Độc
+153	Chưởng Độc
+154	Sữa Độc
+155	Độc Kinh
+156	Hoa Sơn
+157	Đại Lý Đoàn Thị
+158	Chỉ Đoàn
+159	Khí Đoàn
+160	Đoàn Thị
+161	Minh Giáo
+162	Chùy Minh
+163	Kiếm Minh
+164	Minh Tôn
+165	Phần Ảnh
+166	Dương Môn
+167	Trường Ca Môn
+168	Trường Ca
+169	Thương Vân
+170	Thương Ta
+171	Tàng Kiếm
+172	Vấn Thủy
+173	Sơn Cư
+174	Thiên Sách
+175	Ngạo Huyết
+176	Thiết Lao
+177	Thất Tú
+178	Vạn Hoa
+179	Băng Tâm
+180	Vân Thường
+181	Hoa Gian
+182	Li Kinh
+183	Thuần Dương
+184	Kiếm Thuần
+185	Khí Thuần
+186	Thú Cưỡi
+187	Lửa Trại
+188	Tu luyện
+189	Về thành
+190	Treo
+191	Thủ công:
+192	Thiết lập
+193	Hòa Bình
+194	Đồ sát
+195	Phe
+196	Ải
+197	Phúc lợi
+198	Kỹ năng
+199	Sách Tu Vi
+200	Tu Vi
+201	Đồng Hành
+202	Cấp SSS
+203	Cấp SS
+204	Cấp S
+205	Cấp A
+206	Cấp B
+207	Cấp C
+208	Xuất trận
+209	Chọn 
+210	Cộng Đồng
+211	Mạnh Hơn
+212	Đăng nhập nhận thưởng
+213	Đăng nhập
+214	Nhận thưởng
+215	Voice
+216	Hình đại diện
+217	Hảo Hữu
+218	Kẻ Thù
+219	Báo thù
+220	Truy nã
+221	Nạp lần đầu
+222	Thẻ Tháng
+223	Thẻ Tuần
+224	Lì Xì
+225	Quân Hàm
+226	Siêu Phàm
+227	Xuất Trần
+228	Kinh Hồng
+229	Lăng Vân
+230	Ngự Không
+231	Tiềm Long
+232	Ngạo Thế
+233	Ỷ Thiên
+234	Chí Tôn
+235	Võ Thánh
+236	Vô Song
+237	Truyền thuyết
+238	Thần Thoại
+239	Lăng Tuyệt
+240	Hỗn Thiên
+241	Sồ Phượng
+242	Xếp Hạng
+243	Bày bán
+244	Đấu giá
+245	Bang Hội
+246	Toàn Máy Chủ
+247	Tăng giá
+248	Giá chót 
+249	Giới thiệu
+250	Lịch tuần
+251	Hoạt động 
+252	Lịch tuần
+253	Thư
+254	Nhiệm vụ
+255	Chính Tuyến
+256	Phụ Tuyến
+257	Bang Hội
+258	Thủ Lĩnh
+259	Bang Chủ
+260	Bang Phó
+261	Trưởng Lão
+262	Đường Chủ
+263	Tinh Anh
+264	Tượng
+265	Góp Bang Hội
+266	Góp
+267	Hộp Quà Bang Hội
+268	Hộp quà
+269	Bang Hội Tác Phường
+270	Tác Phường
+271	Chính Điện
+272	Kim Khố
+273	Binh Giáp
+274	Quân Nhu
+275	Thiên Công Phường
+276	Trân Bảo
+277	Gia Viên
+278	Hào Trạch
+279	Vương Phủ
+280	Đồ Giám
+281	Chiêu Mộ
+282	Rút Thẻ
+283	Rút 10 lần
+284	Thẻ Nguyên Bảo
+285	Nguyên Bảo rút 10 lần
+286	Đầu Tư
+287	Quà 5,000 VNĐ
+288	Quà 10,000 VNĐ
+289	Quà 20,000 VNĐ
+290	Quà 7 Ngày
+291	Quà 30 Ngày
+292	Tách
+293	Tẩy luyện
+294	Giám định
+295	Ghép
+296	Khảm
+297	Hành Trang
+298	Thể lực
+299	Thành Tựu
+300	Danh hiệu
+301	Kỳ Trân Các
+302	Cửa hàng
+303	Trân Bảo Các
+304	Mua giới hạn
+305	Thời trang
+306	Ngoại Trang
+307	Nhuộm
+308	Thuốc Nhuộm
+309	Nạp
+310	VIP
+311	Bản đồ
+312	Thế Giới
+313	Bản đồ nhỏ
+314	Truyền tống
+315	Theo sau
+316	Trò chuyện
+317	Mật
+318	Chat cộng đồng
+319	Hảo hữu
+320	Môn phái
+321	Bang Hội
+322	Kênh hoạt động
+323	Rung Cây Tiền
+324	Điểm danh
+325	Lực Chiến
+326	Mục Tiêu Ngày
+327	Ủy Thác Rời Mạng
+328	Bạch Câu Hoàn
+329	Bạch Câu
+330	Treo máy rời mạng
+331	EXP rời mạng
+332	Tẩy Tủy Đảo
+333	Sư Đồ
+334	Sư Phụ
+335	Đồ Đệ
+336	Bạc
+337	Tình bạn
+338	Vinh Dự
+339	Truyện Ký
+340	Nguyên Bảo
+341	Cống hiến
+342	Xi Vưu
+343	Hậu Nghệ
+344	Tô Đắc Kỷ
+345	Quỷ Cốc Tử
+346	Hạng Vũ
+347	Tần Thủy Hoàng
+348	Võ Tắc Thiên
+349	Lữ Động Tân
+350	Trương Tam Phong
+351	Tây Thi
+352	Độc Cô Kiếm
+353	Nam Cung Phi
+354	Dương Ảnh Phong
+355	Đường Giản
+356	Huyền Thiên Đạo Nhân
+357	Hoàn Nhan Hồng Liệt
+358	Lý Nguyên Bá
+359	Triệu Vân
+360	Lý Quảng
+361	Kinh Kha
+362	Ngu Cơ
+363	Nhạc Phi
+364	Nguyệt My Nhi
+365	Dương Anh
+366	Thanh Hiểu Sư Thái
+367	Chúc Tử Hư
+368	Hoàng Mộ Vân
+369	Đạo Nhất Chân Nhân
+370	Đoan Mộc Duệ
+371	Huyền Nhân
+372	Doãn Hàm Yên
+373	Hắc Diện Lang Quân
+374	Tuyền Cơ Tử
+375	Hà Nhân Ngã
+376	Đường Cừu
+377	Mạnh Tri Thu
+378	Cao Trường Cung
+379	Triết Biệt
+380	Tần Lương Ngọc
+381	Viên Thừa Chí
+382	Ngao Bái
+383	Hàn Thế Trung
+384	Xích Tinh Hổ Hoàng
+385	Hám Thiên Hùng Hoàng
+386	Tử Bối Ngạc Hoàng
+387	Định Hải Kim Cang
+388	Kim Sí Bằng Hoàng
+389	Ngân Giác Tê Hoàng
+390	Trương Phong
+391	Nam Cung Diệt
+392	Phương Miễn
+393	Đường Ảnh
+394	Thu Y Thủy
+395	Thiên Tinh Đạo Trưởng
+396	Yên Nhược Tuyết
+397	Dương Hi Liệt
+398	Thượng Quan Phi Long
+399	Nạp Lan Tiềm Lẫm
+400	Nạp Lan Chân
+401	Tiểu Ảnh Phong
+402	Dương Thiết Tâm
+403	Vô Tưởng
+404	Liễu Tiêu Đình
+405	Lý Điềm Nhi
+406	Lý Thiên Mục
+407	Hoàn Nhan Tương
+408	Huyền Từ
+409	Doãn Tiêu Vũ
+410	Cổ Yên Nhiên
+411	Tống Thu Thạch
+412	Thạch Hiên Viên
+413	Đường Hiểu
+414	Song Dị Thú
+415	Bôn Diệm Báo Vương
+416	Cửu Vĩ Hồ Vương
+417	Đường Tiêu
+418	Tử Hiên
+419	Tường Vi
+420	Trác Phi Phàm
+421	Nguyệt Minh Dao
+422	Nam Cung Thái Hồng
+423	Trương Như Mộng
+424	Trương Lâm Tâm
+425	Phong Ngọc Thư
+426	Khúc Hà
+427	Gia Luật Tị Li
+428	Lâm Hải
+429	Lục Văn Long
+430	Triệu Vô Song
+431	Vô Tướng
+432	Triệu Tiết
+433	Thiệu Kỵ Phong
+434	Hà Mộ Tuyết
+435	Triệu Thăng Quyền
+436	Sài Tung
+437	Ân Phương
+438	Tô Mặc Vân
+439	Tiêu Động Trần
+440	Bạch Mi Hầu Vương
+441	Đại Địa Lang Vương
+442	Hàn Ngọc Lộc Vương
+443	Hồ Thần Y
+444	Tần Mộc Bạch
+445	Trương Trọng Thiên
+446	Lộ Đạt
+447	Lý Tam
+448	Lư Thanh
+449	Oanh Nhi
+450	Cố Võ
+451	Kim Tiền Báo
+452	Hắc Dực Liệp Ưng
+453	Võ Lâm Ác Đồ
+454	Mãnh Hổ
+455	Phong Lâm Vệ
+456	Viên Hầu
+457	Thiết Diện Bổ Đầu
+458	Hồng Y Nữ Đồng
+459	Thầy Đúc Kiếm
+460	Thợ Săn
+461	Hồng Anh Thị
+462	Cường Đạo
+463	Đệ Tử Dược Vương
+464	Sói Xám
+465	Đông Doanh Nhẫn Giả
+466	Sinh Sứ
+467	Tử Thị
+468	Hỏa Hồ
+469	Đệ Tử Cửu U
+470	Gấu Đen
+471	Đệ Tử Vô Ưu Giáo
+472	Thiên Công Tượng Giả
+473	Khôi Lỗi Sĩ Binh
+474	Cơ Quan Nhân
+475	Tu Luyện Châu
+476	Tu Luyện Đơn
+477	Truyền Công Đơn
+478	Mã Bài
+479	Thuốc Nhuộm
+480	Thuốc Nhuộm
+481	Sách Thu Thập Lăng Tuyệt Phong
+482	Dạ Minh Châu
+483	Hòa Thị Bích
+484	Đồ Cổ
+485	Thiên Kiếm Lệnh
+486	Bảo Thạch
+487	Mảnh Đá Quý
+488	Thủy Tinh
+489	Thủy Tinh Trắng
+490	Thủy Tinh Lục
+491	Thủy Tinh Lam
+492	Thủy Tinh Tím
+493	Thủy Tinh Cam
+494	Rương Hoàng Kim
+495	Chìa Hoàng Kim
+496	Bảo Rương
+497	Chìa Khóa
+498	Bí Kíp Võ Lâm
+499	Tuyệt Học
+500	Tuyệt Học
+501	Bùa
+502	Rương Cổ
+503	Khoáng Thạch Thần Bí
+504	Minh Chủ Lệnh
+505	Danh Tướng Lệnh
+506	Trục Lộc Lệnh
+507	Hoàng Đế Lệnh
+508	Truyền Thuyết Lệnh
+509	Phụ Ma Thạch
+510	Bích Ngọc Ban Chỉ
+511	Phỉ Thúy Thủ Trạc
+512	Bình Thanh Hoa
+513	Lưu Kim Ngân Bàn
+514	Đồng Biên Chung
+515	Bạch Ngọc Thoa
+516	Mặc Ngọc Nghiễn
+517	Thanh Trúc Giản
+518	Thất Huyền Cổ Cầm
+519	Thiên Thủ Quan Âm
+520	Trường Minh Cung Đăng
+521	Thanh Đồng Đại Đỉnh
+522	La Bàn
+523	Quy Giáp
+524	Quyên Bạch
+525	Lông Sói
+526	Chu Sa
+527	Bình EXP
+528	Tàng Bảo Đồ-Cao
+529	Đá Hồn
+530	Đá Hồn-Sơ
+531	Đá Hồn-Trung
+532	Đá Hồn-Cao
+533	Uống Rượu
+534	Nữ Nhi Hồng
+535	Ngồi thiền
+536	Tẩy Tủy Đơn
+537	Tư Chất Đơn
+538	Thiên Lý Tầm Dược
+539	Vô Ưu Thánh Địa
+540	Bí Mật Trước Kia
+541	Gặp Kẻ Địch
+542	Tâm Ma
+543	Kiếm Khí Lăng Vân
+544	Ám Lưu Dũng Động
+545	Khó Vẹn Toàn
+546	Làm Rõ Chân Tướng
+547	Bờ Hồ Động Đình
+548	Miêu Lĩnh
+549	Điểm Thương Sơn
+550	Hưởng Thủy Động
+551	Kiến Tính Phong
+552	Kiếm Môn Quan
+553	Phế Tích Dạ Lang
+554	Tiến Cúc Động
+555	Phục Ngưu Sơn
+556	Chiến Trường Cổ
+557	Dược Vương Cốc
+558	Mạc Bắc Thảo Nguyên
+559	Trường Bạch Sơn
+560	Kỳ Liên Sơn
+561	Mê Cung Sa Mạc
+562	Đôn Hoàng Cổ Thành
+563	Tương Dương
+564	Thiên Vương Chùy Pháp
+565	Nhất Kích Sát Thần
+566	Huyết Chiến Bát Phương
+567	Kim Chung Tráo
+568	Thiên Vương Chiến Ý
+569	Bá Vương Nộ Hống
+570	Nhất Kỵ Đương Thiên
+571	Chùy Pháp-Cao
+572	Thiên Canh Chiến Khí
+573	Khí Cái Bát Hoang
+574	Bất Động Như Sơn
+575	Phá Phủ Trầm Châu
+576	Nhật Nguyệt Sơn Hà Toái
+577	Nga Mi Kiếm Pháp
+578	Giang Hải Ngưng Ba
+579	Thiên Vũ Bảo Luân
+580	Từ Hàng Phổ Độ
+581	Kiếm Tâm Thông Minh
+582	Bạch Lộ Ngưng Sương
+583	Băng Tâm Vân Thường
+584	Kiếm Pháp-Cao
+585	Lục Đạo Luân Hồi
+586	Thanh Tâm Phổ Thiện
+587	Huyền Băng Vô Tức
+588	Miên Lý Tàng Châm
+589	Băng Phách Hồng Liên Kiếp
+590	Đào Hoa Tiễn Thuật
+591	Phi Hỏa Lưu Tinh
+592	Cửu Diệu Liên Châu
+593	Hỏa Phượng Liêu Nguyên
+594	Lưu Phong Hồi Tuyết
+595	Xuyên Vân Phá Nguyệt
+596	Bích Lạc Hoàng Tuyền
+597	Bách Bộ Xuyên Dương
+598	Khinh Vân Tế Nguyệt
+599	Phượng Vũ Nghê Thường
+600	Vẫn Tinh Khấp Huyết
+601	Dục Hỏa Trùng Sinh
+602	Lạc Hoa Phần Tinh Diệm
+603	Tiêu Dao Thương Pháp
+604	Bạch Hồng Quán Nhật
+605	Thất Thám Xà Bàn
+606	Đẩu Chuyển Tinh Di
+607	Tiểu Vô Tướng Công
+608	Phong Quyển Tàn Vân
+609	Tam Nguyên Quy Nhất
+610	Thương Pháp-Cao
+611	Kinh Lôi Phá Thiên
+612	Bắc Minh Thần Công
+613	Bi Tô Thanh Phong
+614	Lăng Ba Vi Bộ
+615	Hoàn Vũ Tiêu Dao Du
+616	Võ Đang Kiếm Pháp
+617	Kiếm Phi Kinh Thiên
+618	Nhân Kiếm Hợp Nhất
+619	Tọa Vọng Vô Ngã
+620	Mê Tung Huyễn Ảnh
+621	Thiên Địa Vô Cực
+622	Thái Nhất Chân Khí
+623	Kiếm Pháp-Cao
+624	Lưỡng Nghi Kiếm Pháp
+625	Kiếm Khí Tung Hoành
+626	Thái Cực Vô Ý
+627	Huyền Thiên Tâm Pháp
+628	Vạn Kiếm Phong Thiên Quyết
+629	Thiên Nhẫn Thích Sát Thuật
+630	Ma Diệm Tại Thiên
+631	Tử Vong Hồi Toàn
+632	Huyết Nguyệt Chi Ảnh
+633	Huyễn Ảnh Phi Hồ
+634	Nhiếp Hồn Loạn Tâm
+635	Ma Diệm Thất Sát
+636	Thích Sát Thuật-Cao
+637	Hỏa Liên Phần Hoa
+638	Phi Hồng Vô Tích
+639	Lệ Ma Đoạt Hồn
+640	Thiên Ma Giải Thể
+641	Thiên Ma Ảnh Ảo Sát
+642	Thiếu Lâm Côn Pháp
+643	Hàng Long Côn
+644	Đại Lực Kim Cang Chỉ
+645	Kim Cang Phục Ma
+646	Đạt Ma Võ Kinh
+647	Thập Nhị Cầm Long Thủ
+648	La Hán Trận
+649	Côn Pháp-Cao
+650	Lập Địa Thành Phật
+651	Kim Cang Nộ Mục
+652	Dịch Cân Kinh
+653	Như Ảnh Tùy Hình Diệt
+654	Thúy Yên Ngự Tản Quyết
+655	Tuyền Cơ La Vũ
+656	Vũ Đả Lê Hoa
+657	Triệu hồi Gấu Trúc
+658	Băng Tâm Sảnh Ảnh
+659	Băng Tung Vô Ảnh
+660	Tuyết Ảnh
+661	Ngự Tản Quyết-Cao
+662	Hộ Thể Hàn Băng
+663	Băng Cơ Ngọc Cốt
+664	Băng Cốt Tuyết Tâm
+665	Sương Thiên Bách Hoa Tán
+666	Cố Nhược Kim Thang
+667	Thương Lãng Trạc Anh
+668	Phong Vân Biến Đổi
+669	Nguyệt Lạc Tinh Trầm
+670	Kim Thiền Thoát Xác
+671	Thương Xuất Như Long
+672	Ngũ Lôi Chánh Pháp
+673	Thất Tinh Quyết
+674	Kiếm Ngã Lưỡng Vong
+675	Truy Hồn Đoạt Mệnh
+676	Vi Đà Hiến Xử
+677	Nhất Chỉ Thần Công
+678	La Hán Kim Thân
+679	Ma Kha Vô Lượng
+680	Thất Bảo La Tản
+681	Diệu Vũ Liên Chu
+682	Thanh Mai Trúc Hùng
+683	Thập Lý Băng Phong
+684	Chính Xác-Sơ
+685	Né Tránh-Sơ
+686	Bỏ Qua Né Tránh-Sơ
+687	Tỉ Lệ Kháng Bạo Kích-Sơ
+688	Hồi Sinh Lực-Sơ
+689	Vô Danh Trảm
+690	Hàn Sương Ấn
+691	Kịch Độc Tiêu
+692	Tịch Lịch Ấn
+693	Lôi Đình Ấn
+694	Thuật Trị Liệu
+695	Chính Xác-Trung
+696	Né Tránh-Trung
+697	Bỏ Qua Né Tránh-Trung
+698	Tỉ Lệ Kháng Bạo Kích-Trung
+699	Hồi Sinh Lực-Trung
+700	Tỉ lệ bạo kích-Sơ
+701	Tấn Công-Sơ
+702	Sinh Lực-Sơ
+703	Kháng Kim-Sơ
+704	Kháng Mộc-Sơ
+705	Kháng Thủy-Sơ
+706	Kháng Hỏa-Sơ
+707	Kháng Thổ-Sơ
+708	Kháng thuộc tính-Sơ
+709	Phá Thiên Trảm 
+710	Băng Phong Chỉ
+711	Tụ Lí Tiễn
+712	Liệt Diệm Chỉ
+713	Nộ Lôi Chỉ 
+714	Quần Thể Trị Liệu Thuật
+715	Độc Chướng Thuật
+716	Kim Cang Hộ Thể
+717	Bất Động Minh Vương
+718	Khô Mộc Phùng Xuân
+719	Súc Lực Tiễn
+720	Chính Xác-Cao
+721	Né Tránh-Cao 
+722	Bỏ Qua Né Tránh-Cao
+723	Tỉ Lệ Kháng Bạo Kích-Cao
+724	Hồi Sinh Lực-Cao
+725	Tỉ Lệ Bạo Kích-Trung
+726	Tấn Công-Trung
+727	Sinh Lực-Trung
+728	Kháng Kim-Trung
+729	Kháng Mộc-Trung
+730	Kháng Thủy-Trung
+731	Kháng Hỏa-Trung
+732	Kháng Thổ-Trung
+733	Kháng Hiệu Quả Thuộc Tính-Trung
+734	Hút Sinh Lực-Sơ
+735	Hiệu Quả Bị Thương-Sơ
+736	Hiệu Quả Làm Chậm-Sơ
+737	Hiệu Quả Tàn Phế-Sơ
+738	Hiệu Quả Tê Liệt-Sơ
+739	Hiệu Quả Choáng-Sơ
+740	Kháng Tất Cả-Sơ
+741	Bỏ Qua Kháng Tất Cả-Sơ
+742	Phản Kích-Sơ
+743	Tốc Đánh-Sơ
+744	Bán Nguyệt Trảm
+745	Kinh Đào Hãi Lãng
+746	Xuyên Tâm Thích
+747	Thôi Sơn Điền Hải
+748	Cửu Thiên Cuồng Lôi
+749	Quần Thể Độc Chướng
+750	Quần Thể Kim Cang
+751	Quần Thể Minh Vương
+752	Niết Bàn Trùng Sinh
+753	Tỉ Lệ Bạo Kích-Cao
+754	Tấn Công-Cao
+755	Sinh Lực-Cao
+756	Kháng Kim-Cao
+757	Kháng Mộc-Cao
+758	Kháng Thủy-Cao
+759	Kháng Hỏa-Cao
+760	Kháng Thổ-Cao
+761	Kháng Thuộc Tính-Cao
+762	Hút Sinh Lực-Trung
+763	Hiệu Quả Bị Thương-Trung
+764	Hiệu Quả Làm Chậm-Trung
+765	Hiệu Quả Tàn Phế-Trung
+766	Hiệu Quả Tê Liệt-Trung
+767	Hiệu Quả Choáng-Trung
+768	Kháng Tất Cả-Trung
+769	Bỏ Qua Kháng Tất Cả-Trung
+770	Phản Kích-Trung
+771	Tốc Đánh-Trung
+772	Bách Thảo Tiên Lộ
+773	Hút Sinh Lực-Cao
+774	Hiệu Quả Bị Thương-Cao
+775	Làm Chậm-Cao
+776	Tàn Phế-Cao
+777	Tê Liệt-Cao
+778	Choáng-Cao
+779	Kháng Tất Cả-Cao
+780	Bỏ Qua Kháng Tất Cả-Cao
+781	Phản Kích-Cao
+782	Tốc Đánh-Cao
+783	Tết
+784	Tiết Thanh Minh
+785	Lễ Trồng Cây
+786	Đoạn Ngọ
+787	Lễ Thiếu Nhi
+788	Lễ Nhà Giáo
+789	Lễ Mừng
+790	Lễ Nguyên Tiêu
+791	Lễ Năm Mới
+792	Trung Thu
+793	Trùng Dương
+794	Lễ Lao Động
+795	Lễ Tình Nhân
+796	Lễ Noel
+797	Đêm Noel
+798	Sự kiện Tháng 11
+799	Đánh BOSS
+800	BOSS
+801	Sảnh tổ đội
+802	Đội
+803	Treo máy
+804	Giao đấu
+805	Khu an toàn
+806	Vào nhóm
+807	Phần thưởng
+808	PK
+809	Dã Ngoại
+810	EXP
+811	Cấp
+812	Võ Lâm Truyền Kỳ
+813	Võ Lâm Truyền Kỳ
+814	Võ Lâm Truyền Kỳ
+815	Võ Lâm Truyền Kỳ 2
+816	Võ Lâm Truyền Kỳ 3
+817	Kiếm Thế
+818	Kiếm Thế
+819	Nguyệt Ảnh Truyền Thuyết
+820	Nguyệt Ảnh
+821	Kingsoft
+822	Điểm kỹ năng
+823	Bản Đồ Sơn Hà Xã Tắc
+824	Võ Đạo Đức Kinh
+825	Sách Đồng Hành
+826	Kỹ năng Đồng Hành
+827	Tẩy tủy Đồng Hành
+828	Tư chất Đồng Hành
+829	Tư chất
+830	Kỳ Tài
+831	Sa Thải
+832	Tiềm năng
+833	Hoàn mỹ
+834	Trác Việt
+835	Ưu Tú
+836	Tốt
+837	Thường
+838	Người Yêu
+839	Điểm Đỏ
+840	Tiêu Xa

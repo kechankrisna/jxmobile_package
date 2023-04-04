@@ -1,0 +1,415 @@
+Quái Rừng 1	4025	13711
+Quái Rừng 1	3646	13630
+Quái Rừng 1	4666	13663
+Quái Rừng 1	4021	11343
+Quái Rừng 1	3799	11073
+Quái Rừng 1	3884	10838
+Quái Rừng 1	3539	10900
+Quái Rừng 1	3764	11603
+Quái Rừng 1	4174	11603
+Quái Rừng 1	4327	11328
+Quái Rừng 1	4538	9831
+Quái Rừng 1	9856	14532
+Quái Rừng 1	13340	14284
+Quái Rừng 1	9321	12301
+Quái Rừng 1	9676	12262
+Quái Rừng 1	9146	12038
+Quái Rừng 1	9270	11686
+Quái Rừng 1	9966	12203
+Quái Rừng 1	9604	11981
+Quái Rừng 1	9077	12429
+Quái Rừng 1	14811	11768
+Quái Rừng 1	14825	12038
+Quái Rừng 1	14795	12253
+Quái Rừng 1	14642	12032
+Quái Rừng 1	14533	11713
+Quái Rừng 1	14530	12261
+Quái Rừng 1	14252	11705
+Quái Rừng 1	14211	12428
+Quái Rừng 1	13753	12294
+Quái Rừng 1	13979	12411
+Quái Rừng 1	14039	12198
+Quái Rừng 1	14138	11969
+Quái Rừng 1	14383	12070
+Quái Rừng 1	13763	12000
+Quái Rừng 1	13933	11731
+Quái Rừng 1	10019	14766
+Quái Rừng 1	10584	14693
+Quái Rừng 1	10303	14769
+Quái Rừng 1	10165	14520
+Quái Rừng 1	10726	14447
+Quái Rừng 1	10674	14125
+Quái Rừng 1	10050	13816
+Quái Rừng 1	9863	13986
+Quái Rừng 1	9849	14298
+Quái Rừng 1	10449	14461
+Quái Rừng 1	10626	13854
+Quái Rừng 1	10101	14199
+Quái Rừng 1	10420	14181
+Quái Rừng 1	10337	13791
+Quái Rừng 1	12496	11947
+Quái Rừng 1	11936	12088
+Quái Rừng 1	12238	12047
+Quái Rừng 1	12297	11707
+Quái Rừng 1	12017	11799
+Quái Rừng 1	12502	11568
+Quái Rừng 1	10865	9319
+Quái Rừng 1	10589	9796
+Quái Rừng 1	10873	9032
+Quái Rừng 1	10743	9560
+Quái Rừng 1	11315	9820
+Quái Rừng 1	13629	10065
+Quái Rừng 1	13590	9367
+Quái Rừng 1	13539	9699
+Quái Rừng 1	13803	9650
+Quái Rừng 1	13938	9316
+Quái Rừng 1	12684	14186
+Quái Rừng 1	12652	13785
+Quái Rừng 1	12983	14293
+Quái Rừng 1	13668	13514
+Quái Rừng 1	13813	13715
+Quái Rừng 1	13818	14018
+Quái Rừng 1	13515	14056
+Quái Rừng 1	13449	13743
+Quái Rừng 1	13235	14060
+Quái Rừng 1	12894	13958
+Quái Rừng 1	13715	14261
+Quái Rừng 1	12918	13501
+Quái Rừng 1	13113	13771
+Quái Rừng 1	13272	13487
+Quái Rừng 1	11699	12212
+Quái Rừng 1	11721	11884
+Quái Rừng 1	11682	11572
+Quái Rừng 1	11782	11309
+Quái Rừng 1	12088	11516
+Quái Rừng 1	12136	11227
+Quái Rừng 1	12421	11304
+Quái Rừng 1	12140	12342
+Quái Rừng 1	12464	12290
+Quái Rừng 1	9531	12550
+Quái Rừng 1	9905	12568
+Quái Rừng 1	10189	12535
+Quái Rừng 1	9630	11655
+Quái Rừng 1	9900	11939
+Quái Rừng 1	10066	11688
+Quái Rừng 1	10274	11925
+Quái Rừng 1	10271	12244
+Quái Rừng 1	13772	10319
+Quái Rừng 1	13890	10072
+Quái Rừng 1	14233	9340
+Quái Rừng 1	14354	9559
+Quái Rừng 1	14181	10129
+Quái Rừng 1	14018	9860
+Quái Rừng 1	14192	9717
+Quái Rừng 1	14458	9860
+Quái Rừng 1	14426	10220
+Quái Rừng 1	14133	10391
+Quái Rừng 1	11075	9562
+Quái Rừng 1	11416	9515
+Quái Rừng 1	11567	9100
+Quái Rừng 1	11226	9338
+Quái Rừng 1	11640	9394
+Quái Rừng 1	10479	9476
+Quái Rừng 1	10608	9152
+Quái Rừng 1	10936	9847
+Quái Rừng 1	11635	9756
+Quái Rừng 1	11213	9026
+Quái Rừng 1	13456	7395
+Quái Rừng 1	13958	7830
+Quái Rừng 1	13958	7478
+Quái Rừng 1	13774	7160
+Quái Rừng 1	13367	7121
+Quái Rừng 1	14214	7891
+Quái Rừng 1	13679	7685
+Quái Rừng 1	13060	7869
+Quái Rừng 1	13066	7188
+Quái Rừng 1	12943	7501
+Quái Rừng 1	13294	7673
+Quái Rừng 1	4817	9041
+Quái Rừng 1	5277	9747
+Quái Rừng 1	4191	8869
+Quái Rừng 1	4778	9625
+Quái Rừng 1	5101	9559
+Quái Rừng 1	5124	9268
+Quái Rừng 1	4978	9836
+Quái Rừng 1	4158	9765
+Quái Rừng 1	4326	9671
+Quái Rừng 1	4132	9434
+Quái Rừng 1	3411	11512
+Quái Rừng 1	3387	11175
+Quái Rừng 1	3696	11365
+Quái Rừng 1	4513	11214
+Quái Rừng 1	4493	10893
+Quái Rừng 1	4148	10865
+Quái Rừng 1	4243	11107
+Quái Rừng 1	4490	11568
+Quái Rừng 1	4339	13697
+Quái Rừng 1	13434	8015
+Quái Rừng 1	14106	7244
+Quái Rừng 1	14254	7495
+Quái Rừng 1	13847	8051
+Quái Rừng 1	3891	13478
+Quái Rừng 1	4490	12640
+Quái Rừng 1	4082	12636
+Quái Rừng 1	4781	12819
+Quái Rừng 1	3481	13366
+Quái Rừng 1	4280	12893
+Quái Rừng 1	4812	13518
+Quái Rừng 1	3504	12943
+Quái Rừng 1	3647	12652
+Quái Rừng 1	3694	13211
+Quái Rừng 1	3873	12893
+Quái Rừng 1	4036	13219
+Quái Rừng 1	4273	13394
+Quái Rừng 1	4583	13436
+Quái Rừng 1	4785	13145
+Quái Rừng 1	4440	13137
+Quái Rừng 1	4911	8782
+Quái Rừng 1	4512	8805
+Quái Rừng 1	4527	9283
+Quái Rừng 1	4368	9075
+Quái Rừng 1	4556	9553
+Quái Rừng 1	4821	9328
+Quái Rừng 1	5433	9492
+Quái Rừng 1	5409	9088
+Quái Rừng 1	5266	8863
+Quái Rừng 2	13599	5325
+Quái Rừng 2	13414	5153
+Quái Rừng 2	13432	4813
+Quái Rừng 2	13735	5099
+Quái Rừng 2	13726	4741
+Quái Rừng 2	13491	4542
+Quái Rừng 2	12825	4555
+Quái Rừng 2	13147	4519
+Quái Rừng 2	13201	5361
+Quái Rừng 2	12870	5316
+Quái Rừng 2	12599	5076
+Quái Rừng 2	12970	5112
+Quái Rừng 2	13251	4994
+Quái Rừng 2	12988	4782
+Quái Rừng 2	12630	4776
+Quái Rừng 2	9204	6250
+Quái Rừng 2	9408	5982
+Quái Rừng 2	9149	5846
+Quái Rừng 2	9546	5696
+Quái Rừng 2	3871	4955
+Quái Rừng 2	3990	5335
+Quái Rừng 2	5805	7048
+Quái Rừng 2	6781	4759
+Quái Rừng 2	6761	5065
+Quái Rừng 2	7151	4923
+Quái Rừng 2	3706	4672
+Quái Rừng 2	7007	4646
+Quái Rừng 2	7373	4718
+Quái Rừng 2	5751	6493
+Quái Rừng 2	6166	7115
+Quái Rừng 2	12225	2816
+Quái Rừng 2	6517	3094
+Quái Rừng 2	3785	4445
+Quái Rừng 2	4034	4464
+Quái Rừng 2	3992	4690
+Quái Rừng 2	4173	4873
+Quái Rừng 2	4311	4467
+Quái Rừng 2	4670	4432
+Quái Rừng 2	4825	4670
+Quái Rừng 2	4091	5123
+Quái Rừng 2	3725	5244
+Quái Rừng 2	3591	4942
+Quái Rừng 2	7415	5558
+Quái Rừng 2	7061	5182
+Quái Rừng 2	7319	5230
+Quái Rừng 2	7025	5466
+Quái Rừng 2	6660	5278
+Quái Rừng 2	8910	5513
+Quái Rừng 2	9188	5446
+Quái Rừng 2	9676	5446
+Quái Rừng 2	10015	5502
+Quái Rừng 2	9932	6217
+Quái Rừng 2	10080	5973
+Quái Rừng 2	9732	5969
+Quái Rừng 2	9849	5782
+Quái Rừng 2	8853	6160
+Quái Rừng 2	8819	5839
+Quái Rừng 2	9597	6252
+Quái Rừng 2	11626	3035
+Quái Rừng 2	11832	3298
+Quái Rừng 2	11857	2900
+Quái Rừng 2	12013	3074
+Quái Rừng 2	11618	3332
+Quái Rừng 2	7054	3318
+Quái Rừng 2	6808	3310
+Quái Rừng 2	9419	3474
+Quái Rừng 2	9841	4003
+Quái Rừng 2	9547	4353
+Quái Rừng 2	7184	3539
+Quái Rừng 2	6652	2897
+Quái Rừng 2	6574	3388
+Quái Rừng 2	4422	5114
+Quái Rừng 2	4400	4913
+Quái Rừng 2	4683	5278
+Quái Rừng 2	4671	4965
+Quái Rừng 2	4352	5333
+Quái Rừng 2	4463	4701
+Quái Rừng 2	4897	5067
+Quái Rừng 2	9497	7996
+Quái Rừng 2	9543	7767
+Quái Rừng 2	9677	8130
+Quái Rừng 2	10381	7893
+Quái Rừng 2	10219	7702
+Quái Rừng 2	9992	7551
+Quái Rừng 2	9931	8191
+Quái Rừng 2	10172	8083
+Quái Rừng 2	10115	7889
+Quái Rừng 2	9913	7735
+Quái Rừng 2	9859	7950
+Quái Rừng 2	9917	7296
+Quái Rừng 2	10255	7332
+Quái Rừng 2	9777	7551
+Quái Rừng 2	10460	7612
+Quái Rừng 2	6390	6366
+Quái Rừng 2	5993	6325
+Quái Rừng 2	6756	6847
+Quái Rừng 2	5602	6772
+Quái Rừng 2	6390	6620
+Quái Rừng 2	6360	7264
+Quái Rừng 2	6481	6976
+Quái Rừng 2	5884	6861
+Quái Rừng 2	6084	6630
+Quái Rừng 2	6257	6903
+Quái Rừng 2	6637	7154
+Quái Rừng 2	6685	6547
+Quái Rừng 2	7468	2979
+Quái Rừng 2	7538	3225
+Quái Rừng 2	7278	2856
+Quái Rừng 2	6985	2820
+Quái Rừng 2	6926	3074
+Quái Rừng 2	6883	3567
+Quái Rừng 2	7464	3524
+Quái Rừng 2	7299	3324
+Quái Rừng 2	7228	3088
+Quái Rừng 2	7521	5258
+Quái Rừng 2	7710	5421
+Quái Rừng 2	7860	5065
+Quái Rừng 2	7672	4851
+Quái Rừng 2	7461	4980
+Quái Rừng 2	9219	4364
+Quái Rừng 2	9830	4265
+Quái Rừng 2	9036	4122
+Quái Rừng 2	9014	3783
+Quái Rừng 2	9062	3475
+Quái Rừng 2	9765	3462
+Quái Rừng 2	9817	3705
+Quái Rừng 2	9483	3961
+Quái Rừng 2	9591	4143
+Quái Rừng 2	9622	3779
+Quái Rừng 2	9262	4074
+Quái Rừng 2	9340	3749
+Quái Rừng 2	12551	2800
+Quái Rừng 2	12665	3411
+Quái Rừng 2	12642	3112
+Quái Rừng 2	12450	3576
+Quái Rừng 2	12362	3080
+Quái Rừng 2	12372	3342
+Quái Rừng 2	12137	3342
+Quái Rừng 2	11785	3598
+Quái Rừng 2	12107	3602
+Tàng Bảo Đồ	8545	10068
+Tàng Bảo Đồ	7628	6253
+Tàng Bảo Đồ	11657	7914
+Tàng Bảo Đồ	9276	13797
+Tàng Bảo Đồ	11464	13020
+Tàng Bảo Đồ	5714	3875
+Tàng Bảo Đồ	5104	7943
+Tàng Bảo Đồ	2744	9407
+Tàng Bảo Đồ	14548	14478
+Tàng Bảo Đồ	16421	8481
+Tàng Bảo Đồ	14249	5402
+Tàng Bảo Đồ	11035	5975
+Tàng Bảo Đồ	6185	11783
+Trừng Ác	11092	11694
+Trừng Ác	9292	10872
+Trừng Ác	4709	5868
+Trừng Ác	6799	6034
+Trừng Ác	3165	8637
+Trừng Ác	4179	7849
+Trừng Ác	5547	8240
+Trừng Ác	9712	6754
+Trừng Ác	12060	5079
+Trừng Ác	10813	6229
+Trừng Ác	8539	3471
+Trừng Ác	9776	9707
+Trừng Ác	11389	12661
+Trừng Ác	10518	10673
+Trừng Ác	13415	12647
+Trừng Ác	14353	11035
+Trừng Ác	12152	10709
+Trừng Ác	11920	8023
+Trừng Ác	12634	9348
+Trừng Ác	14005	8671
+Trừng Ác	12932	4041
+Trừng Ác	10864	3722
+Trừng Ác	8227	4469
+Trừng Ác	10781	5024
+Trừng Ác	9536	4890
+Trừng Ác	5303	4027
+Trừng Ác	4238	12118
+Trừng Ác	5683	11245
+Trừng Ác	3961	10296
+Trừng Ác	5348	10264
+Trừng Ác	5451	12337
+Trừng Ác	6233	12855
+Trừng Ác	13236	10728
+Trừng Ác	10445	13339
+Trừng Ác	9004	12985
+Trừng Ác	13245	11632
+Trừng Ác	11792	4258
+Trừng Ác	7060	4125
+Trừng Ác	3271	12119
+Trừng Ác	5613	13496
+Thiên Hương Quả	4797	3338
+Thiên Hương Quả	4158	3435
+Thiên Hương Quả	5454	3374
+Thiên Hương Quả	3882	3747
+Thủ Lĩnh	13393	4202
+Thủ Lĩnh	12320	4269
+Thủ Lĩnh	11142	4449
+Thủ Lĩnh	10434	5114
+Thủ Lĩnh	8828	4855
+Thủ Lĩnh	7753	4287
+Thủ Lĩnh	13040	6251
+Thủ Lĩnh	12076	7510
+Thủ Lĩnh	16091	8227
+Thủ Lĩnh	12953	8832
+Thủ Lĩnh	12530	10516
+Thủ Lĩnh	10868	10841
+Thủ Lĩnh	13625	11407
+Thủ Lĩnh	11688	13972
+Thủ Lĩnh	9850	13252
+Thủ Lĩnh	9291	10465
+Thủ Lĩnh	7335	12774
+Thủ Lĩnh	3874	12250
+Thủ Lĩnh	5709	10721
+Thủ Lĩnh	2857	9263
+Thủ Lĩnh	4608	8165
+Thủ Lĩnh	6082	5983
+Thủ Lĩnh	4674	3757
+Thủ Lĩnh	4610	6214
+Đống Gỗ	12186	14441
+Đống Gỗ	11960	14275
+Đống Gỗ	12438	14193
+Đống Gỗ	12108	14002
+Đống Gỗ	12330	13928
+Đống Gỗ	11908	13832
+Đống Gỗ	11999	13555
+Đống Gỗ	12290	13589
+Đống Gỗ	12812	14523
+Đống Gỗ	12529	14488
+Đống Gỗ	13242	14532
+Đống Gỗ	13632	14501
+Đống Gỗ	14288	14284
+Đống Gỗ	14640	14054
+Đống Gỗ	14314	14028
+Đống Gỗ	14510	13815
+Đống Gỗ	14249	13707
+Đống Gỗ	14679	13637
+Đống Gỗ	14436	13468

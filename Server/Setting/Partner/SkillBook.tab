@@ -1,0 +1,126 @@
+nSkillBookId	Name	nType	nLevel	nQuality	nSeries	nSkillId	nLevelupId	nLevelValue1	nLevelValue2	nLevelValue3	nLevelValue4	nLevelValue5	nLevelValue6	nLevelValue7	nLevelValue8	nLevelValue9	nLevelValue10
+1	Vô Danh Trảm	1	1	2	1	901	1	150000									
+2	Hàn Sương Ấn	2	1	2	3	902	1	150000									
+3	Kịch Độc Tiêu	3	1	2	2	903	1	150000									
+4	Tịch Lịch Ấn	4	1	2	4	904	1	150000									
+5	Lôi Đình Ấn	5	1	2	5	905	1	150000									
+6	Phá Thiên Trảm 	6	1	3	1	906	1	500000									
+7	Băng Phong Chỉ	7	1	3	3	907	1	500000									
+8	Tụ Lí Tiễn	8	1	3	2	908	1	500000									
+9	Liệt Diệm Chỉ	9	1	3	4	909	1	500000									
+10	Nộ Lôi Chỉ 	10	1	3	5	910	1	500000									
+11	Bán Nguyệt Trảm	11	1	4	1	911	1	1500000									
+12	Kinh Đào Hãi Lãng	12	1	4	3	912	1	1500000									
+13	Xuyên Tâm Thích	13	1	4	2	914	1	1500000									
+14	Thôi Sơn Điền Hải	14	1	4	4	916	1	1500000									
+15	Cửu Thiên Cuồng Lôi	15	1	4	5	917	1	1500000									
+16	Thuật Trị Liệu	16	1	2		921	1	150000									
+17	Quần Thể Trị Liệu Thuật	17	1	3		923	1	500000									
+18	Bách Thảo Tiên Lộ	18	1	5		925	1	5000000									
+19	Độc Chướng Thuật	19	1	3		927	1	500000									
+20	Quần Thể Độc Chướng	20	1	4		928	1	1500000									
+21	Kim Cang Hộ Thể	21	1	3		930	1	500000									
+22	Quần Thể Kim Cang	22	1	4		931	1	1500000									
+23	Bất Động Minh Vương	23	1	3		933	1	500000									
+24	Quần Thể Minh Vương	24	1	4		934	1	1500000									
+25	Khô Mộc Phùng Xuân	25	1	3		936	1	500000									
+26	Niết Bàn Trùng Sinh	26	1	4		938	1	1500000									
+27	Súc Lực Tiễn	27	1	3		940	1	500000									
+28	【Sơ】Chính Xác	1000	1	1		1901	1	50000									
+29	【Trung】Chính Xác	1000	2	2		1902	1	150000									
+30	【Cao】Chính Xác	1000	3	3		1903	1	500000									
+31	【Sơ】Né Tránh	1001	1	1		1904	1	50000									
+32	【Trung】Né Tránh	1001	2	2		1905	1	150000									
+33	【Cao】Né Tránh	1001	3	3		1906	1	500000									
+34	【Sơ】Bỏ Qua Né Tránh	1002	1	1		1907	1	50000									
+35	【Trung】Bỏ Qua Né Tránh	1002	2	2		1908	1	150000									
+36	【Cao】Bỏ Qua Né Tránh	1002	3	3		1909	1	500000									
+37	【Sơ】Tỉ Lệ Kháng Bạo Kích	1003	1	1		1910	1	50000									
+38	【Trung】Tỉ Lệ Kháng Bạo Kích	1003	2	2		1911	1	150000									
+39	【Cao】Tỉ Lệ Kháng Bạo Kích	1003	3	3		1912	1	500000									
+40	【Sơ】Hồi Phục Sinh Lực	1004	1	1		1913	1	50000									
+41	【Trung】Hồi Phục Sinh Lực	1004	2	2		1914	1	150000									
+42	【Cao】Hồi Sinh Lực	1004	3	3		1915	1	500000									
+58	【Sơ】Tỉ Lệ Bạo Kích	1010	1	2		1931	1	150000									
+59	【Trung】Tỉ Lệ Bạo Kích	1010	2	3		1932	1	500000									
+60	【Cao】Tỉ Lệ Bạo Kích	1010	3	4		1933	1	1500000									
+61	【Sơ】Tấn Công	1011	1	2		1934	1	150000									
+62	【Trung】Tấn Công	1011	2	3		1935	1	500000									
+63	【Cao】Tấn Công	1011	3	4		1936	1	1500000									
+64	【Sơ】Sinh Lực	1012	1	2		1937	1	150000									
+65	【Trung】Sinh Lực	1012	2	3		1938	1	500000									
+66	【Cao】Sinh Lực	1012	3	4		1939	1	1500000									
+70	【Sơ】Kháng Kim	1014	1	2		1943	1	150000									
+71	【Trung】Kháng Kim	1014	2	3		1944	1	500000									
+72	【Cao】Kháng Kim	1014	3	4		1945	1	1500000									
+73	【Sơ】Kháng Mộc	1015	1	2		1946	1	150000									
+74	【Trung】Kháng Mộc	1015	2	3		1947	1	500000									
+75	【Cao】Kháng Mộc	1015	3	4		1948	1	1500000									
+76	【Sơ】Kháng Thủy	1016	1	2		1949	1	150000									
+77	【Trung】Kháng Thủy	1016	2	3		1950	1	500000									
+78	【Cao】Kháng Thủy	1016	3	4		1951	1	1500000									
+79	【Sơ】Kháng Hỏa	1017	1	2		1952	1	150000									
+80	【Trung】Kháng Hỏa	1017	2	3		1953	1	500000									
+81	【Cao】Kháng Hỏa	1017	3	4		1954	1	1500000									
+82	【Sơ】Kháng Thổ	1018	1	2		1955	1	150000									
+83	【Trung】Kháng Thổ	1018	2	3		1956	1	500000									
+84	【Cao】Kháng Thổ	1018	3	4		1957	1	1500000									
+85	【Sơ】Kháng Hiệu Quả Thuộc Tính	1019	1	2		1958	1	150000									
+86	【Trung】Kháng Thuộc Tính	1019	2	3		1959	1	500000									
+87	【Cao】Kháng Thuộc Tính	1019	3	4		1960	1	1500000									
+88	【Sơ】Hút Sinh Lực	1020	1	3		1961	1	500000									
+89	【Trung】Hút Sinh Lực	1020	2	4		1962	1	1500000									
+90	【Cao】Hút Sinh Lực	1020	3	5		1963	1	5000000									
+91	【Sơ】Hiệu Quả Bị Thương	1021	1	3	1	1964	1	500000									
+92	【Trung】Hiệu Quả Bị Thương	1021	2	4	1	1965	1	1500000									
+93	【Cao】Hiệu Quả Bị Thương	1021	3	5	1	1966	1	5000000									
+94	【Sơ】Hiệu Quả Làm Chậm	1022	1	3	3	1967	1	500000									
+95	【Trung】Hiệu Quả Làm Chậm	1022	2	4	3	1968	1	1500000									
+96	【Cao】Hiệu Quả Làm Chậm	1022	3	5	3	1969	1	5000000									
+97	【Sơ】Tàn Phế	1023	1	3	2	1970	1	500000									
+98	【Trung】Tàn Phế	1023	2	4	2	1971	1	1500000									
+99	【Cao】Tàn Phế	1023	3	5	2	1972	1	5000000									
+100	【Sơ】Hiệu Quả Tê Liệt	1024	1	3	4	1973	1	500000									
+101	【Trung】Hiệu Quả Tê Liệt	1024	2	4	4	1974	1	1500000									
+102	【Cao】Hiệu Quả Tê Liệt	1024	3	5	4	1975	1	5000000									
+103	【Sơ】Hiệu Quả Choáng	1025	1	3	5	1976	1	500000									
+104	【Trung】Hiệu Quả Choáng	1025	2	4	5	1977	1	1500000									
+105	【Cao】Hiệu Quả Choáng	1025	3	5	5	1978	1	5000000									
+106	【Sơ】Kháng Tất Cả	1026	1	3		1979	1	500000									
+107	【Trung】Kháng Tất Cả	1026	2	4		1980	1	1500000									
+108	【Cao】Kháng Tất Cả	1026	3	5		1981	1	5000000									
+109	【Sơ】Bỏ Qua Kháng Tất Cả	1027	1	3		1982	1	500000									
+110	【Trung】Bỏ Qua Kháng Tất Cả	1027	2	4		1983	1	1500000									
+111	【Cao】Bỏ Qua Kháng Tất Cả	1027	3	5		1984	1	5000000									
+112	【Sơ】Phản Kích	1028	1	3		1985	1	500000									
+113	【Trung】Phản Kích	1028	2	4		1988	1	1500000									
+114	【Cao】Phản Kích	1028	3	5		1991	1	5000000									
+115	【Sơ】Tốc Đánh	1029	1	3		1994	1	500000									
+116	【Trung】Tốc Đánh	1029	2	4		1995	1	1500000									
+117	【Cao】Tốc Đánh	1029	3	5		1996	1	5000000									
+118	Thanh Long Phân Hải Trảo	1011	6	6		3232	1	15000000									
+119	Huyền Võ Đại Hoang Chung	1012	6	6		3233	1	15000000									
+120	Kim Thi	11	6	6	1	3235	1	15000000									
+121	Mật Lâm Đấu Phồn Tinh	13	6	6	2	3238	1	15000000									
+122	Nghịch Lưu	12	6	6	3	3241	1	15000000									
+123	Tam Muội Li Hỏa Ngục	14	6	6	4	3244	1	15000000									
+124	Bát Phương Tinh Lôi Đỗng	15	6	6	5	3247	1	15000000									
+125	Quần Thể Kim Cang-Cao	22	6	6		3250	1	15000000									
+126	Quần Thể Minh Vương-Cao	24	6	6		3252	1	15000000									
+127	Luân Hồi Vãng Sinh	26	6	6		3254	1	15000000									
+128	Phá Thiên Nhất Kích	27	6	6		3257	1	15000000									
+129	Thập Phương Câu Tĩnh	1030	6	6		3259	1	15000000									
+130	Quần Thể Độc Chướng-Cao	20	6	6		3261	1	15000000									
+131	Khải Minh Chi Nộ	11	7	7		5703	1	30000000									
+132	Mật Lâm Hoán Kinh	13	7	7		5705	1	30000000									
+133	Nộ Sương Cuồng Thao	12	7	7		5707	1	30000000									
+134	Phần Sương Hỏa Ngục	14	7	7		5709	1	30000000									
+135	Đại Địa Lôi Đỗng	15	7	7		5711	1	30000000									
+136	Siêu Quần Thể Kim Cang	22	7	7		5713	1	30000000									
+137	Siêu Quần Thể Minh Vương	24	7	7		5716	1	30000000									
+138	Luân Hồi Lục Đạo	26	7	7		5718	1	30000000									
+139	Phá Thiên Võng Nguyệt	27	7	7		5721	1	30000000									
+140	Bách Niệm Cự Diệt	1030	7	7		5724	1	30000000									
+141	Quần Thể Sương Độc Chướng	20	7	7		5726	1	30000000									
+142	Khải Minh Chi Giáp	28	7	7		5728	1	30000000									
+143	Đoạn Cấp	29	7	7		5729	1	30000000									

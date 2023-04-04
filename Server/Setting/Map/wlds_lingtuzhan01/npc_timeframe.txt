@@ -1,0 +1,22 @@
+NpcName	NpcTemplateId	TimeFrame	NpcLevel
+Kim Binh	2791	OpenLevel79	75
+Kim Binh	2791	OpenLevel99	95
+Kim Binh	2791	OpenLevel119	115
+Tống Binh	2792	OpenLevel79	75
+Tống Binh	2792	OpenLevel99	95
+Tống Binh	2792	OpenLevel119	115
+Kim Binh	2796	OpenLevel79	75
+Kim Binh	2796	OpenLevel99	95
+Kim Binh	2796	OpenLevel119	115
+Tống Binh	2795	OpenLevel79	75
+Tống Binh	2795	OpenLevel99	95
+Tống Binh	2795	OpenLevel119	115
+Công Thành	2801	OpenLevel79	75
+Công Thành	2801	OpenLevel99	95
+Công Thành	2801	OpenLevel119	115
+Kim Binh	2803	OpenLevel79	75
+Kim Binh	2803	OpenLevel99	95
+Kim Binh	2803	OpenLevel119	115
+Bách Phu Trưởng	2807	OpenLevel79	75
+Bách Phu Trưởng	2807	OpenLevel99	95
+Bách Phu Trưởng	2807	OpenLevel119	115

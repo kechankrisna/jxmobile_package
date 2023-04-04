@@ -1,0 +1,17 @@
+Index	TemplateID	Name	Kind	Camp	ClassName	ScriptParam	NpcResID	FaceID	BigFaceID	ReviveFrame	NpcAttribID	NormalSkill1	NormalSkillLevel1	NormalSkill2	NormalSkillLevel2	NormalSkill3	NormalSkillLevel3	VisionRadius	ActiveRadius	AiFile	Treasure	DropFile	FightMode	RunSpeed	BloodStyle	ForbitMove	TitleID	AuraSkillId	AuraSkillLevel	StartActEvent	Tag	DropType	DefaultDialog	WalkSpeed	NameColor	Experience	FixExperience	GouHuoRate	IsNotBYStealLife	IsNotShowShadow	Sex	SyncFirst	TransBossNpcTID	TransBossRate
+Longzhu_1	3667	Long Trụ (Lv1)	0	1	LTZFlagNpc		498	200	994		1008			91	1	105	1	1500	1500	Setting/Npc/Ai/Stay.ini			1	20	2	1					NoTurn								1			1		
+Longzhu_2	3668	Long Trụ (Lv2)	0	1	LTZFlagNpc		499	200	994		1008			91	1	105	1	1500	1500	Setting/Npc/Ai/Stay.ini			1	20	2	1					NoTurn								1			1		
+Longzhu_3	3669	Long Trụ (Lv3)	0	1	LTZFlagNpc		3669	200	994		1008			91	1	105	1	1500	1500	Setting/Npc/Ai/Stay.ini			1	20	2	1					NoTurn								1			1		
+Longzhu_4	3670	Long Trụ (Lv4)	0	1	LTZFlagNpc		3670	200	994		1008			91	1	105	1	1500	1500	Setting/Npc/Ai/Stay.ini			1	20	2	1					NoTurn								1			1		
+Longzhu_5	3671	Long Trụ (Lv5)	0	1	LTZFlagNpc		3671	200	994		1008			91	1	105	1	1500	1500	Setting/Npc/Ai/Stay.ini			1	20	2	1					NoTurn								1			1		
+Chengmen_1	3672	Cổng Thành (Lv1)	0	1			504	200	994		1001			91	1	105	1	1500	1500	Setting/Npc/Ai/Stay.ini			1	20	2	1					NoTurn								1			1		
+Chengmen_2	3673	Cổng Thành (Lv2)	0	1			3673	200	994		1001			91	1	105	1	1500	1500	Setting/Npc/Ai/Stay.ini			1	20	2	1					NoTurn								1			1		
+Chengmen_3	3674	Cổng Thành (Lv3)	0	1			3674	200	994		1001			91	1	105	1	1500	1500	Setting/Npc/Ai/Stay.ini			1	20	2	1					NoTurn								1			1		
+Chengmen_4	3675	Cổng Thành (Lv4)	0	1			3675	200	994		1001			91	1	105	1	1500	1500	Setting/Npc/Ai/Stay.ini			1	20	2	1					NoTurn								1			1		
+Chengmen_5	3676	Nội Thành Môn	0	1			3676	200	994		1001			91	1	105	1	1500	1500	Setting/Npc/Ai/Stay.ini			1	20	2	1					NoTurn								1			1		
+Chengmen_6	3680	Cổng Thành (Lv1)	0	1			3680	200	994		1002			91	1	105	1	1500	1500	Setting/Npc/Ai/Stay.ini			1	20	2	1					NoTurn								1			1		
+Chengmen_7	3681	Cổng Thành (Lv2)	0	1			3681	200	994		1002			91	1	105	1	1500	1500	Setting/Npc/Ai/Stay.ini			1	20	2	1					NoTurn								1			1		
+Chengmen_8	3682	Cổng Thành (Lv3)	0	1			3682	200	994		1002			91	1	105	1	1500	1500	Setting/Npc/Ai/Stay.ini			1	20	2	1					NoTurn								1			1		
+QiZhi_qianxian	3678	Cờ Tiền Tuyến	0	1			505	200	994		1008			91	1	105	1	1500	1500	Setting/Npc/Ai/Stay.ini			1	20	2	1					NoTurn								1			1		
+Baodong_npc	3679	Lưu Khấu	0	1			180				1118	55	1	91	1			1000	1000	Setting/Npc/Ai/CommonActive5.ini			1	18	1										1				1					
+Gongchengche_npc	3685	Công Thành	0	0			506	200	994		1119	194	1	91	1	105	1	1500	1500	Setting/Npc/Ai/CommonActive.ini			1	20	1																			

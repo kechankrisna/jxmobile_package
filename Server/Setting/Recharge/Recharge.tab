@@ -1,0 +1,296 @@
+ProductId	szDesc	szServiceCode	nLastingDay	nMoney	szMoneyType	nNeedVipLevel	szAward	szFirstAward	szThirdAward	szFourthAward	szFifthAward	szGroup	nGroupIndex	szVersion	nEndTimeKey	nBuyDayKey	szSprite	szFirstDesc	szNoromalDesc	Plat
+com.tencent.jxqy.money60	80 Nguyên Bảo		0	600	RMB		Gold|5	Gold|60				BuyGold	1	version_tx			Recharge_00	Tặng thêm 60 Nguyên Bảo, được mua 1 lần	60 Nguyên Bảo (tặng 5 Nguyên Bảo)	
+com.tencent.jxqy.money300	200 Nguyên Bảo			3000	RMB		Gold|30	Gold|300				BuyGold	2	version_tx			Recharge_02	Tặng thêm 300 Nguyên Bảo, được mua 1 lần	300 Nguyên Bảo (tặng 30 Nguyên Bảo)	
+com.tencent.jxqy.money980	400 Nguyên Bảo			9800	RMB		Gold|150	Gold|980				BuyGold	3	version_tx			Recharge_03	Tặng thêm 980 Nguyên Bảo, được mua 1 lần	980 Nguyên Bảo (tặng 150 Nguyên Bảo)	
+com.tencent.jxqy.money1980	2,000 Nguyên Bảo			19800	RMB		Gold|400	Gold|1980				BuyGold	4	version_tx			Recharge_04	Tặng thêm 1980 Nguyên Bảo, được mua 1 lần	1980 Nguyên Bảo (tặng 400 Nguyên Bảo)	
+com.tencent.jxqy.money3280	4,000 Nguyên Bảo			32800	RMB		Gold|850	Gold|3280				BuyGold	5	version_tx			Recharge_05	Tặng thêm 3280 Nguyên Bảo, được mua 1 lần	3280 Nguyên Bảo (tặng 850 Nguyên Bảo)	
+com.tencent.jxqy.money6480	6,000 Nguyên Bảo			64800	RMB		Gold|2000	Gold|6480				BuyGold	6	version_tx			Recharge_06	Tặng thêm 6480 Nguyên Bảo, được mua 1 lần	6480 Nguyên Bảo (tặng 2000 Nguyên Bảo)	
+com.tencent.jxqy.gift18	Quà 7 Ngày	weekcard	7	1800	RMB		Gold|180					DaysCard	1	version_tx	7		Recharge_09		Quà 7 Ngày	
+com.tencent.jxqy.gift30	Quà 30 Ngày	monthcard	30	3000	RMB		Gold|300					DaysCard	2	version_tx	2		Recharge_10		Quà 30 Ngày	
+com.tencent.jxqy.supergift40	Quà Chí Tôn 7 Ngày	weekcard40	7	4000	RMB		Gold|400					DaysCard	3	version_tx	82		Recharge_11		Quà Chí Tôn 7 Ngày	
+com.tencent.jxqy.giftlevel	Đầu Tư	invest	999999	8800	RMB							GrowInvest	1	version_tx					Quỹ trưởng thành 200.000 VNĐ	
+com.tencent.jxqy.giftlevel2	Đầu Tư 2	invest2	999999	9800	RMB							GrowInvest	2	version_tx					Quỹ trưởng thành 200.000 VNĐ	
+com.tencent.jxqy.giftlevel3	Đầu Tư 3	invest3	999999	10800	RMB							GrowInvest	3	version_tx					Quỹ Trưởng Thành 200,000 VNĐ	
+com.tencent.jxqy.giftlevel108	Đầu Tư-Ngày Lễ	investGQ	30	10800	RMB							GrowInvest	4	version_tx					Quỹ Ngày Lễ 108 VNĐ	
+com.tencent.jxqy.giftlevel4	Đầu Tư 4	invest4	999999	10800	RMB							GrowInvest	5	version_tx					Quỹ Trưởng Thành 200,000 VNĐ	
+com.tencent.jxqy.giftlevel5	Đầu Tư 5	invest5	999999	10800	RMB							GrowInvest	6	version_tx					Quỹ Trưởng Thành 200,000 VNĐ	
+com.tencent.jxqy.return108	Đầu Tư-Quay Về	investRT	999999	10800	RMB	5						GrowInvest	7	version_tx					Quỹ Trưởng Thành 200,000 VNĐ	
+com.tencent.jxqy.giftlevel6	Đầu Tư 6	invest6	999999	10800	RMB							GrowInvest	8	version_tx					Quỹ Trưởng Thành 200,000 VNĐ	
+com.tencent.jxqy.giftlevel7	Đầu Tư 7	invest7	999999	10800	RMB							GrowInvest	9	version_tx					Quỹ Trưởng Thành 200,000 VNĐ	
+com.tencent.jxqy.giftlevel8	Đầu Tư 8	invest8	999999	10800	RMB							GrowInvest	10	version_tx					Quỹ Trưởng Thành 200,000 VNĐ	
+com.tencent.jxqy.gift1	Quà 5,000 VNĐ	daycard	1	100	RMB	1	item|1242|1;Gold|10					DayGift	1	version_tx	11	13		Nhận ngay 20 Nguyên Bảo\nQuà trị giá 30,000 VNĐ	Mua 5,000 VNĐ	
+com.tencent.jxqy.gift3	Quà 10,000 VNĐ	daycard3	1	300	RMB	3	item|2518|1;Gold|30					DayGift	2	version_tx	16	14		Nhận ngay 40 Nguyên Bảo\nQuà trị giá 60,000 VNĐ	Mua 10,000 VNĐ	
+com.tencent.jxqy.gift6	Quà 20,000 VNĐ	daycard6	1	600	RMB	5	item|2519|1;Gold|60					DayGift	3	version_tx	17	15		Nhận ngay 80 Nguyên Bảo\nQuà trị giá 100,000 VNĐ	Mua 20,000 VNĐ	
+com.tencent.jxqy.gifts18	Quà 18 VNĐ	daycard18	1	1800	RMB	5	item|10182|1					DayGift	4	version_tx	89	90		Quà trị giá 100 VNĐ	Mua 50,000 VNĐ	
+com.tencent.jxqy.gift60	Bộ quà 10 VNĐ (7 ngày)	daycard60	7	6000	RMB	5						DayGiftPlus	1	version_tx	61				Quà 7 Ngày	
+com.tencent.jxqy.gift168	Tập Hợp Quà (7 Ngày)	daycard168	7	16800	RMB	5						DayGiftPlus	2	version_tx	88				Quà 136, 18 7 ngày	
+com.tencent.jxqy.discountpack30	Quà 100,000 VNĐ	dispack30	1	3000	RMB		item|9954|1	item|9955|1	item|9956|1	item|9957|1	item|9957|1	YearGift	1	version_tx	40	41			Quà Trị Giá 600,000 VNĐ	
+com.tencent.jxqy.discountpack98	Quà 300,000 VNĐ	dispack98	1	9800	RMB		item|9950|1	item|9951|1	item|9952|1	item|9953|1	item|9953|1	YearGift	2	version_tx	42	43			Quà Trị Giá 1,200,000 VNĐ	
+com.tencent.jxqy.discountpack298	Quà 1,000,000 VNĐ	dispack298	15	29800	RMB		item|9946|1	item|9947|1	item|9948|1	item|9949|1	item|9949|1	YearGift	3	version_tx	44	45			Quà Trị Giá 2,500,000 VNĐ	
+com.tencent.jxqy.discountpack648	Quà 2,000,000 VNĐ	dispack648	15	64800	RMB		item|9941|1	item|9942|1	item|9943|1	item|9944|1	item|9945|1	YearGift	4	version_tx	46	47			Quà Trị Giá 5,000,000 VNĐ	
+com.tencent.jxqy.enhancegift30	Top 20	enhance30	2	3000	RMB		item|3922|1					DirectEnhance	1	version_tx	52			Mua 100,000 VNĐ	Quà 1,000,000 VNĐ	
+com.tencent.jxqy.enhancegift98	Top 30	enhance98	2	9800	RMB		item|3923|1					DirectEnhance	2	version_tx	53			Mua 300,000 VNĐ mua	Quà 2,500,000 VNĐ	
+com.tencent.jxqy.enhancegift198	Top 40	enhance198	2	19800	RMB		item|3924|1					DirectEnhance	3	version_tx	54			Mua 500,000 VNĐ	Quà 5,000,000 VNĐ	
+com.tencent.jxqy.enhancegift388	Top 50	enhance388	2	38800	RMB		item|3925|1					DirectEnhance	4	version_tx	73			Mua 1,940,000 VNĐ	Quà 10,000,000 VNĐ	
+com.tencent.jxqy.return480	Quà Trở Về 20,000 VNĐ	return480	1	600	RMB		Gold|480					BackGift	1	version_tx	67				Quà Trị Giá 160,000 VNĐ	
+com.tencent.jxqy.return4800	Quà Trở Về 100,000 VNĐ	return4800	1	3000	RMB		Gold|4800					BackGift	2	version_tx	68				Quà Trị Giá 1,600,000 VNĐ	
+com.tencent.jxqy.return1	Quà Trở Về-Cực 20,000 VNĐ	return1	1	600	RMB		item|1242|6;Gold|60					BackGift	3	version_tx	69				Quà Trị Giá 200,000 VNĐ	
+com.tencent.jxqy.return6	Quà Phúc Lợi 20,000 VNĐ	return6	1	600	RMB		item|2518|2;Gold|60					BackGift	4	version_tx	70				Quà Trị Giá 10,000 VNĐ	
+com.tencent.jxqy.return30	Quà Hào Hoa 100,000 VNĐ	return30	1	3000	RMB		item|2519|5;Gold|300					BackGift	5	version_tx	71				Quà Trị Giá 500,000 VNĐ	
+com.vng.jxm.item1	Gói Nạp 20,000 VNĐ			200	VND		Gold|200000	Gold|400000				BuyGold	1	version_vn			Recharge_00	Tặng thêm 200000 Nguyên Bảo, chỉ 1 lần duy nhất	200000 Nguyên Bảo	
+com.vng.jxm.item2	Gói Nạp 50,000 VNĐ			500	VND		Gold|1000000	Gold|2000000				BuyGold	2	version_vn			Recharge_02	Tặng thêm 1000000 Nguyên Bảo, chỉ 1 lần duy nhất	1000000 Nguyên Bảo	
+com.vng.jxm.item3	Gói Nạp 100,000 VNĐ			1000	VND		Gold|2000000	Gold|4000000				BuyGold	3	version_vn			Recharge_03	Tặng thêm 2000000 Nguyên Bảo, chỉ 1 lần duy nhất	2000000 Nguyên Bảo	
+com.vng.jxm.item4	Gói Nạp 500,000 VNĐ			5000	VND		Gold|10000000	Gold|20000000				BuyGold	4	version_vn			Recharge_04	Tặng thêm 10000000 Nguyên Bảo, chỉ 1 lần duy nhất	10000000 Nguyên Bảo	
+com.vng.jxm.item5	Gói Nạp 1,000,000 VNĐ			10000	VND		Gold|20000000	Gold|40000000				BuyGold	5	version_vn			Recharge_05	Tặng thêm 20000000 Nguyên Bảo, chỉ 1 lần duy nhất	20000000 Nguyên Bảo	
+com.vng.jxm.item6	Gói Nạp 1,500,000 VNĐ			15000	VND		Gold|30000000	Gold|60000000				BuyGold	6	version_vn			Recharge_06	Tặng thêm 30000000 Nguyên Bảo, chỉ 1 lần duy nhất	30000000 Nguyên Bảo	
+com.vng.jxm.item14	Gói Nạp 5,000,000 VNĐ			50000	VND		Gold|20000	Gold|20000				BuyGoldServer	1	version_vn						
+com.vng.jxm.item15	Gói Nạp 10,000,000 VNĐ			100000	VND		Gold|40000	Gold|40000				BuyGoldServer	2	version_vn						
+com.vng.jxm.item7	Quà 7 Ngày		7	500	VND		Gold|1000000					DaysCard	1	version_vn	7		Recharge_09		Quà 7 Ngày	
+com.vng.jxm.item8	Quà 30 Ngày		30	1000	VND		Gold|2000000					DaysCard	2	version_vn	2		Recharge_10		Quà 30 Ngày	
+com.vng.jxm.item201	Quà Chí Tôn 7 Ngày		7	1000	VND		Gold|2000000					DaysCard	3	version_vn	82		Recharge_11		Quà Chí Tôn 7 Ngày	
+com.vng.jxm.item9	Đầu Tư 1		999999	2000	VND							GrowInvest	1	version_vn					Quỹ trưởng thành 200.000 VNĐ	
+com.vng.jxm.item16	Đầu Tư 2		999999	2000	VND							GrowInvest	2	version_vn					Quỹ trưởng thành 200.000 VNĐ	
+com.vng.jxm.item17	Đầu Tư 3		999999	2000	VND							GrowInvest	3	version_vn					Quỹ trưởng thành 200.000 VNĐ	
+com.vng.jxm.item105	Đầu Tư-Phiên Bản		999999	2000	VND							GrowInvest	4	version_vn					Quỹ trưởng thành 200.000 VNĐ	
+com.vng.jxm.item18	Đầu Tư 4		999999	2000	VND							GrowInvest	5	version_vn					Quỹ trưởng thành 200.000 VNĐ	
+com.vng.jxm.item19	Đầu Tư 5		999999	2000	VND							GrowInvest	6	version_vn					Quỹ trưởng thành 200.000 VNĐ	
+com.vng.jxm.item86	Đầu Tư-Quay Về		999999	2000	VND	5						GrowInvest	7	version_vn					Quỹ Trưởng Thành 200,000 VNĐ	
+com.vng.jxm.item20	Đầu Tư 6		999999	2000	VND							GrowInvest	8	version_vn					Quỹ trưởng thành 200.000 VNĐ	
+com.vng.jxm.item50	Đầu Tư 7		999999	2000	VND							GrowInvest	9	version_vn					Quỹ trưởng thành 200.000 VNĐ	
+com.vng.jxm.item110	Đầu Tư 8		999999	2000	VND							GrowInvest	10	version_vn					Quỹ trưởng thành 200.000 VNĐ	
+com.vng.jxm.item21	Quà Mỗi Ngày 5,000 VNĐ		1	50	VND	1	item|1242|1;Gold|100000					DayGift	1	version_vn	16	14		Nhận ngay 100000 Nguyên Bảo\nQuà trị giá 30,000 VNĐ	Mua 5,000 VNĐ	
+com.vng.jxm.item22	Quà Mỗi Ngày 10,000 VNĐ		1	100	VND	3	item|2518|1;Gold|200000					DayGift	2	version_vn	17	15		Nhận ngay 200000 Nguyên Bảo\nQuà trị giá 60,000 VNĐ	Mua 10,000 VNĐ	
+com.vng.jxm.item10	Quà Mỗi Ngày 20,000 VNĐ		1	200	VND	5	item|2519|1;Gold|400000					DayGift	3	version_vn	11	13		Nhận ngay 400000 Nguyên Bảo\nQuà trị giá 100,000 VNĐ	Mua 20,000 VNĐ	
+com.vng.jxm.item24	Combo Quà Mỗi Ngày (200,000 VNĐ 7 Ngày) 		7	2000	VND	5						DayGiftPlus	1	version_vn	61				Quà 7 Ngày	
+com.vng.jxm.item63	1000 Ngân Sức			500	VND		SilverBoard|1000					DressMoney	1	version_vn						
+com.vng.jxm.item61	2000 Ngân Sức			1000	VND		SilverBoard|2000					DressMoney	2	version_vn						
+com.vng.jxm.item65	4200 Ngân Sức			2000	VND		SilverBoard|4200					DressMoney	3	version_vn						
+com.vng.jxm.item101	Quà Thiên Long 20,000 VNĐ		1	200	VND		item|9954|1	item|9955|1	item|9956|1	item|9957|1	item|9957|1	YearGift	1	version_vn	40	41			Quà trị giá 600,000 VNĐ	
+com.vng.jxm.item102	Quà Thiên Long 50,000 VNĐ		30	500	VND		item|9950|1	item|9951|1	item|9952|1	item|9953|1	item|9953|1	YearGift	2	version_vn	42	43			Quà trị giá 1,200,000 VNĐ	
+com.vng.jxm.item103	Quà Thiên Long 200,000 VNĐ		30	2000	VND		item|9946|1	item|9947|1	item|9948|1	item|9949|1	item|9949|1	YearGift	3	version_vn	44	45			Quà trị giá 2,500,000 VNĐ	
+com.vng.jxm.item104	Quà Thiên Long 300,000 VNĐ		30	3000	VND		item|9941|1	item|9942|1	item|9943|1	item|9944|1	item|9945|1	YearGift	4	version_vn	46	47			Quà trị giá 5,000,000 VNĐ	
+com.vng.jxm.item30	Top 20		2	1000	VND		item|3922|1					DirectEnhance	1	version_vn	52			Mua 100,000 VNĐ	Quà 1,000,000 VNĐ	
+com.vng.jxm.item31	Top 30		2	3000	VND		item|3923|1					DirectEnhance	2	version_vn	53			Mua 300,000 VNĐ	Quà 2,500,000 VNĐ	
+com.vng.jxm.item32	Top 40		2	5000	VND		item|3924|1					DirectEnhance	3	version_vn	54			Mua 500,000 VNĐ	Quà 5,000,000 VNĐ	
+com.vng.jxm.item33	Top 50		2	10000	VND		item|3925|1					DirectEnhance	4	version_vn	73			Mua 1,000,000 VNĐ	Quà 10,000,000 VNĐ	
+com.vng.jxm.item81	Quà Trở Về 20,000 VNĐ		1	200	VND		Gold|1200000					BackGift	1	version_vn	67				Quà Trị Giá 160,000 VNĐ	
+com.vng.jxm.item82	Quà Trở Về 100,000 VNĐ		1	1000	VND		Gold|12000000					BackGift	2	version_vn	68				Quà Trị Giá 1,600,000 VNĐ	
+com.vng.jxm.item83	Quà Trở Về-Cực 20,000 VNĐ		1	200	VND		item|1242|6;Gold|600000					BackGift	3	version_vn	69				Quà Trị Giá 200,000 VNĐ	
+com.vng.jxm.item84	Quà Phúc Lợi Trở Về 20,000 VNĐ		1	200	VND		item|2518|2;Gold|600000					BackGift	4	version_vn	70				Quà Trị Giá 10,000 VNĐ	
+com.vng.jxm.item85	Quà Hào Hoa Trở Về 100,000 VNĐ		1	1000	VND		item|2519|5;Gold|3000000					BackGift	5	version_vn	71				Quà Trị Giá 500,000 VNĐ	
+hk.jxqy.2usd	135 Nguyên Bảo		0	199	USD		Gold|135	Gold|270				BuyGold	1	version_hk			Recharge_00	Tặng thêm 135 Nguyên Bảo, chỉ 1 lần duy nhất	135 Nguyên Bảo	
+hk.jxqy.5usd	340 Nguyên Bảo			499	USD		Gold|340	Gold|680				BuyGold	2	version_hk			Recharge_02	Tặng thêm 340 Nguyên Bảo, chỉ 1 lần duy nhất	340 Nguyên Bảo	
+hk.jxqy.20usd	1360 Nguyên Bảo			1999	USD		Gold|1360	Gold|2720				BuyGold	3	version_hk			Recharge_03	Tặng thêm 1360 Nguyên Bảo, chỉ 1 lần duy nhất	1360 Nguyên Bảo	
+hk.jxqy.30usd	2040 Nguyên Bảo			2999	USD		Gold|2040	Gold|4080				BuyGold	4	version_hk			Recharge_04	Tặng thêm 2040 Nguyên Bảo, chỉ 1 lần duy nhất	2040 Nguyên Bảo	
+hk.jxqy.50usd	3400 Nguyên Bảo			4999	USD		Gold|3400	Gold|6800				BuyGold	5	version_hk			Recharge_05	Tặng thêm 3400 Nguyên Bảo, chỉ 1 lần duy nhất	3400 Nguyên Bảo	
+hk.jxqy.100usd	6800 Nguyên Bảo			9999	USD		Gold|6800	Gold|13600				BuyGold	6	version_hk			Recharge_06	Tặng thêm 6800 Nguyên Bảo, chỉ 1 lần duy nhất	6800 Nguyên Bảo	
+hk.jxqy.3usd.wc	Thẻ Tuần		7	299	USD		Gold|200					DaysCard	1	version_hk	7		Recharge_09		Quà 7 Ngày	
+hk.jxqy.5usd.mc	Thẻ Tháng		30	499	USD		Gold|300					DaysCard	2	version_hk	2		Recharge_10		Quà 30 Ngày	
+hk.jxqy.5usd.zzzk	Quà Chí Tôn 7 Ngày		7	499	USD		Gold|400					DaysCard	3	version_hk	82		Recharge_11		Quà Chí Tôn 7 Ngày	
+hk.jxqy.13usd.ybwl	Đầu Tư Lv25		999999	1299	USD							GrowInvest	1	version_hk					Quỹ trưởng thành 12.99$	
+hk.jxqy.15usd.ybwl2	Đầu Tư Lv65		999999	1499	USD							GrowInvest	2	version_hk					Quỹ trưởng thành 200.000 VNĐ	
+hk.jxqy.16usd.ybwl3	Đầu Tư Lv90		999999	1599	USD							GrowInvest	3	version_hk					Quỹ trưởng thành 200.000 VNĐ	
+hk.jxqy.8usd.tbjj	Quỹ Thông Bảo		30	799	USD							GrowInvest	4	version_hk					Quỹ 7.99 USD	
+hk.jxqy.16usd.ybwl4.fix	Đầu Tư Lv100		999999	1599	USD							GrowInvest	5	version_hk					Quỹ trưởng thành 200.000 VNĐ	
+hk.jxqy.16usd.ybwl5	Đầu Tư Lv110		999999	1599	USD							GrowInvest	6	version_hk					Quỹ trưởng thành 200.000 VNĐ	
+hk.jxqy.15usd.hgyb	Đầu Tư-Quay Về		999999	1499	USD	5						GrowInvest	7	version_hk					Quỹ Trưởng Thành 200,000 VNĐ	
+hk.jxqy.16usd.ybwl6	Đầu Tư Lv120		999999	1599	USD							GrowInvest	8	version_hk					Quỹ trưởng thành 200.000 VNĐ	
+hk.jxqy.16usd.ybwl7	Đầu Tư Lv130		999999	1599	USD							GrowInvest	9	version_hk					Quỹ trưởng thành 200.000 VNĐ	
+hk.jxqy.16usd.ybwl8	Đầu Tư Lv140		999999	1599	USD							GrowInvest	10	version_hk					Quỹ trưởng thành 200.000 VNĐ	
+web.jxqy.1usd.bylb	Quà 1 VNĐ Client		1	99	USD		item|2821|1;Gold|68					DayGift	1	version_hk	11	13		Nhận ngay 20 Nguyên Bảo\nQuà trị giá 30,000 VNĐ	Mua 5,000 VNĐ	
+hk.jxqy.1usd.bylb	Quà 5,000 VNĐ		1	99	USD		item|1242|1;Gold|68					DayGift	1	version_hk	11	13		Nhận ngay 20 Nguyên Bảo\nQuà trị giá 30,000 VNĐ	Mua 5,000 VNĐ	
+hk.jxqy.2usd.hjlb	Quà 10,000 VNĐ		1	199	USD		item|2518|1;Gold|136					DayGift	2	version_hk	16	14		Nhận ngay 40 Nguyên Bảo\nQuà trị giá 60,000 VNĐ	Mua 10,000 VNĐ	
+hk.jxqy.3usd.zslb	Quà 20,000 VNĐ		1	299	USD		item|2519|1;Gold|204					DayGift	3	version_hk	17	15		Nhận ngay 80 Nguyên Bảo\nQuà trị giá 100,000 VNĐ	Mua 20,000 VNĐ	
+hk.jxqy.5usd.palb	Quà Năm Mới 100,000 VNĐ		1	499	USD		item|7149|1	item|7150|1	item|7151|1			YearGift	1	version_hk	40	41			Quà Trị Giá 30 USD	
+hk.jxqy.15usd.zflb	Quà Năm Mới 300,000 VNĐ		30	1499	USD		item|7146|1	item|7147|1	item|7148|1			YearGift	2	version_hk	42	43			Quà Trị Giá 60 USD	
+hk.jxqy.45usd.sdlb	Quà Năm Mới 1,000,000 VNĐ		30	4499	USD		item|7143|1	item|7144|1	item|7145|1			YearGift	3	version_hk	44	45			Quà Trị Giá 100 USD	
+hk.jxqy.100usd.khlb	Quà Năm Mới 648 VNĐ		30	9999	USD		item|7141|1	item|7142|1	item|7142|1			YearGift	4	version_hk	46	47			Quà Trị Giá 230 USD	
+hk.jxqy.14usd.xblsb	1000 Ngân Sức			1399	USD		SilverBoard|1000					DressMoney	1	version_hk						
+hk.jxqy.42usd.zbls	3100 Ngân Sức			4199	USD		SilverBoard|3100					DressMoney	2	version_hk						
+hk.jxqy.84usd.dbls	6900 Ngân Sức			8399	USD		SilverBoard|6900					DressMoney	3	version_hk						
+hk.jxqy.1usd.hgth	Quà Trở Về 20,000 VNĐ		1	99	USD		Gold|480					BackGift	1	version_hk	67				Quà Trị Giá 160,000 VNĐ	
+hk.jxqy.4usd.hgcz	Quà Trở Về 100,000 VNĐ		1	399	USD		Gold|4800					BackGift	2	version_hk	68				Quà Trị Giá 1,600,000 VNĐ	
+hk.jxqy.1usd.hgby	Quà Trở Về-Cực 20,000 VNĐ		1	99	USD		item|1242|6					BackGift	3	version_hk	69				Quà Trị Giá 200,000 VNĐ	
+hk.jxqy.1usd.hghj	Quà Phúc Lợi 20,000 VNĐ		1	99	USD		item|2518|2					BackGift	4	version_hk	70				Quà Trị Giá 10,000 VNĐ	
+hk.jxqy.4usd.hgzs	Quà Hào Hoa 100,000 VNĐ		1	399	USD		item|2519|5					BackGift	5	version_hk	71				Quà Trị Giá 500,000 VNĐ	
+tw.jxqy.2usd	135 Nguyên Bảo		0	199	USD		Gold|135	Gold|270				BuyGold	1	version_tw			Recharge_00	Tặng thêm 135 Nguyên Bảo, chỉ 1 lần duy nhất	135 Nguyên Bảo	
+tw.jxqy.5usd	340 Nguyên Bảo			499	USD		Gold|340	Gold|680				BuyGold	2	version_tw			Recharge_02	Tặng thêm 340 Nguyên Bảo, chỉ 1 lần duy nhất	340 Nguyên Bảo	
+tw.jxqy.20usd	1360 Nguyên Bảo			1999	USD		Gold|1360	Gold|2720				BuyGold	3	version_tw			Recharge_03	Tặng thêm 1360 Nguyên Bảo, chỉ 1 lần duy nhất	1360 Nguyên Bảo	
+tw.jxqy.30usd	2040 Nguyên Bảo			2999	USD		Gold|2040	Gold|4080				BuyGold	4	version_tw			Recharge_04	Tặng thêm 2040 Nguyên Bảo, chỉ 1 lần duy nhất	2040 Nguyên Bảo	
+tw.jxqy.50usd	3400 Nguyên Bảo			4999	USD		Gold|3400	Gold|6800				BuyGold	5	version_tw			Recharge_05	Tặng thêm 3400 Nguyên Bảo, chỉ 1 lần duy nhất	3400 Nguyên Bảo	
+tw.jxqy.100usd	6800 Nguyên Bảo			9999	USD		Gold|6800	Gold|13600				BuyGold	6	version_tw			Recharge_06	Tặng thêm 6800 Nguyên Bảo, chỉ 1 lần duy nhất	6800 Nguyên Bảo	
+tw.jxqy.3usd.wc	Thẻ Tuần		7	299	USD		Gold|200					DaysCard	1	version_tw	7		Recharge_09		Quà 7 Ngày	
+tw.jxqy.5usd.mc	Thẻ Tháng		30	499	USD		Gold|300					DaysCard	2	version_tw	2		Recharge_10		Quà 30 Ngày	
+tw.jxqy.5usd.zzzk	Quà Chí Tôn 7 Ngày		7	499	USD		Gold|400					DaysCard	3	version_tw	82		Recharge_11		Quà Chí Tôn 7 Ngày	
+tw.jxqy.13usd.fund	Client Đầu Tư		999999	1299	USD							GrowInvest	1	version_tw					Quỹ trưởng thành 12.99$	
+tw.jxqy.13usd.ybwl	Đầu Tư Lv25		999999	1299	USD							GrowInvest	1	version_tw					Quỹ trưởng thành 12.99$	
+tw.jxqy.15usd.ybwl2	Đầu Tư Lv65		999999	1499	USD							GrowInvest	2	version_tw					Quỹ trưởng thành 200.000 VNĐ	
+tw.jxqy.16usd.ybwl3	Đầu Tư Lv90		999999	1599	USD							GrowInvest	3	version_tw					Quỹ trưởng thành 200.000 VNĐ	
+tw.jxqy.8usd.tbjj	Quỹ Thông Bảo		30	799	USD							GrowInvest	4	version_tw					Quỹ 7.99 USD	
+tw.jxqy.16usd.ybwl4.fix	Đầu Tư Lv100		999999	1599	USD							GrowInvest	5	version_tw					Quỹ trưởng thành 200.000 VNĐ	
+tw.jxqy.16usd.ybwl5	Đầu Tư Lv110		999999	1599	USD							GrowInvest	6	version_tw					Quỹ trưởng thành 200.000 VNĐ	
+tw.jxqy.15usd.hgyb	Đầu Tư-Quay Về		999999	1499	USD	5						GrowInvest	7	version_tw					Quỹ Trưởng Thành 200,000 VNĐ	
+tw.jxqy.16usd.ybwl6	Đầu Tư Lv120		999999	1599	USD							GrowInvest	8	version_tw					Quỹ trưởng thành 200.000 VNĐ	
+tw.jxqy.16usd.ybwl7	Đầu Tư Lv130		999999	1599	USD							GrowInvest	9	version_tw					Quỹ trưởng thành 200.000 VNĐ	
+tw.jxqy.16usd.ybwl8	Đầu Tư Lv140		999999	1599	USD							GrowInvest	10	version_tw					Quỹ trưởng thành 200.000 VNĐ	
+web.jxqy.1usd.bylb	Quà 1 VNĐ Client		1	99	USD		item|2821|1;Gold|68					DayGift	1	version_tw	11	13		Nhận ngay 20 Nguyên Bảo\nQuà trị giá 30,000 VNĐ	Mua 5,000 VNĐ	
+tw.jxqy.1usd.bylb	Quà 5,000 VNĐ		1	99	USD		item|1242|1;Gold|68					DayGift	1	version_tw	11	13		Nhận ngay 20 Nguyên Bảo\nQuà trị giá 30,000 VNĐ	Mua 5,000 VNĐ	
+tw.jxqy.2usd.hjlb	Quà 10,000 VNĐ		1	199	USD		item|2518|1;Gold|136					DayGift	2	version_tw	16	14		Nhận ngay 40 Nguyên Bảo\nQuà trị giá 60,000 VNĐ	Mua 10,000 VNĐ	
+tw.jxqy.3usd.zslb	Quà 20,000 VNĐ		1	299	USD		item|2519|1;Gold|204					DayGift	3	version_tw	17	15		Nhận ngay 80 Nguyên Bảo\nQuà trị giá 100,000 VNĐ	Mua 20,000 VNĐ	
+tw.jxqy.5usd.aplb	Quà Năm Mới 100,000 VNĐ		1	499	USD		item|7149|1	item|7150|1	item|7151|1			YearGift	1	version_tw	40	41			Quà Trị Giá 30 USD	
+tw.jxqy.15usd.zflb	Quà Năm Mới 300,000 VNĐ		30	1499	USD		item|7146|1	item|7147|1	item|7148|1			YearGift	2	version_tw	42	43			Quà Trị Giá 60 USD	
+tw.jxqy.45usd.sdlb	Quà Năm Mới 1,000,000 VNĐ		30	4499	USD		item|7143|1	item|7144|1	item|7145|1			YearGift	3	version_tw	44	45			Quà Trị Giá 100 USD	
+tw.jxqy.100usd.khlb	Quà Năm Mới 648 VNĐ		30	9999	USD		item|7141|1	item|7142|1	item|7142|1			YearGift	4	version_tw	46	47			Quà Trị Giá 230 USD	
+tw.jxqy.14usd.xblsb	1000 Ngân Sức			1399	USD		SilverBoard|1000					DressMoney	1	version_tw						
+tw.jxqy.42usd.zbls	3100 Ngân Sức			4199	USD		SilverBoard|3100					DressMoney	2	version_tw						
+tw.jxqy.84usd.dbls	6900 Ngân Sức			8399	USD		SilverBoard|6900					DressMoney	3	version_tw						
+tw.jxqy.1usd.hgth	Quà Trở Về 20,000 VNĐ		1	99	USD		Gold|480					BackGift	1	version_tw	67				Quà Trị Giá 160,000 VNĐ	
+tw.jxqy.4usd.hgcz	Quà Trở Về 100,000 VNĐ		1	399	USD		Gold|4800					BackGift	2	version_tw	68				Quà Trị Giá 1,600,000 VNĐ	
+tw.jxqy.1usd.hgby	Quà Trở Về-Cực 20,000 VNĐ		1	99	USD		item|1242|6					BackGift	3	version_tw	69				Quà Trị Giá 200,000 VNĐ	
+tw.jxqy.1usd.hghj	Quà Phúc Lợi 20,000 VNĐ		1	99	USD		item|2518|2					BackGift	4	version_tw	70				Quà Trị Giá 10,000 VNĐ	
+tw.jxqy.4usd.hgzs	Quà Hào Hoa 100,000 VNĐ		1	399	USD		item|2519|5					BackGift	5	version_tw	71				Quà Trị Giá 500,000 VNĐ	
+se.jq.1usd	70 Nguyên Bảo			99	USD		Gold|70	Gold|140				BuyGold	1	version_xm			Recharge_00	Tặng thêm 70 Nguyên Bảo, mua giới hạn 1 lần	70 Nguyên Bảo	
+se.jq.5usd	350 Nguyên Bảo			499	USD		Gold|350	Gold|700				BuyGold	2	version_xm			Recharge_02	Tặng thêm 350 Nguyên Bảo, mua giới hạn 1 lần	350 Nguyên Bảo	
+se.jq.10usd	700 Nguyên Bảo			999	USD		Gold|700	Gold|1400				BuyGold	3	version_xm			Recharge_03	Tặng thêm 700 Nguyên Bảo, mua giới hạn 1 lần	700 Nguyên Bảo	
+se.jq.20usd	1610 Nguyên Bảo			1999	USD		Gold|1610	Gold|3220				BuyGold	4	version_xm			Recharge_04	Tặng thêm 1610 Nguyên Bảo, mua giới hạn 1 lần	1610 Nguyên Bảo	
+se.jq.50usd	4130 Nguyên Bảo			4999	USD		Gold|4130	Gold|8260				BuyGold	5	version_xm			Recharge_05	Tặng thêm 4130 Nguyên Bảo, mua giới hạn 1 lần	4130 Nguyên Bảo	
+se.jq.100usd	8400 Nguyên Bảo			9999	USD		Gold|8400	Gold|16800				BuyGold	6	version_xm			Recharge_06	Tặng thêm 8400 Nguyên Bảo, mua giới hạn 1 lần	8400 Nguyên Bảo	
+se.jq.3usd.wc	Quà 7 Ngày		7	299	USD		Gold|210					DaysCard	1	version_xm	7		Recharge_09		Quà 7 Ngày	
+se.jq.5usd.mc	Quà 30 Ngày		30	499	USD		Gold|350					DaysCard	2	version_xm	2		Recharge_10		Quà 30 Ngày	
+se.jq.6usd.zzwc	Quà Chí Tôn 7 Ngày		7	599	USD		Gold|400					DaysCard	3	version_xm	82		Recharge_11		Quà Chí Tôn 7 Ngày	
+se.jq.13usd.czjj	Đầu Tư		999999	1299	USD							GrowInvest	1	version_xm					Quỹ trưởng thành $12.99	
+se.jq.14usd.czjj	Đầu Tư 2		999999	1399	USD							GrowInvest	2	version_xm					Quỹ trưởng thành 200.000 VNĐ	
+se.jq.15usd.czjj	Đầu Tư 3		999999	1499	USD							GrowInvest	3	version_xm					Quỹ trưởng thành 200.000 VNĐ	
+se.jq.14usd.ybwl.sx	Đầu Tư-Sôi Động		999999	1399	USD							GrowInvest	4	version_xm					Quỹ Hè $13.99	
+se.jq.15usd.czjj4	Đầu Tư 4		999999	1499	USD							GrowInvest	5	version_xm					Quỹ trưởng thành 200.000 VNĐ	
+se.jq.15usd.czjj5	Đầu Tư 5		999999	1499	USD							GrowInvest	6	version_xm					Quỹ trưởng thành 200.000 VNĐ	
+se.jq.15usd.hgybwl	Đầu Tư-Quay Về		999999	1499	USD	5						GrowInvest	7	version_xm					Quỹ Trưởng Thành Trở Về $14.99	
+se.jq.15usd.czjj6	Đầu Tư 6		999999	1499	USD							GrowInvest	8	version_xm					Quỹ trưởng thành 200.000 VNĐ	
+se.jq.15usd.czjj7	Đầu Tư 7		999999	1499	USD							GrowInvest	9	version_xm					Quỹ trưởng thành 200.000 VNĐ	
+se.jq.15usd.czjj8	Đầu Tư 8		999999	1499	USD							GrowInvest	10	version_xm					Quỹ trưởng thành 200.000 VNĐ	
+se.jq.1usd.lb	Quà 0.99 USD		1	99	USD	1	item|2897|1					DayGift	1	version_xm	11	13		Nhận ngay 20 Nguyên Bảo\nQuà trị giá 30,000 VNĐ	Mua 0.99 USD	
+se.jq.2usd.lb	Quà 1.99 USD		1	199	USD	3	item|2898|1					DayGift	2	version_xm	16	14		Nhận ngay 40 Nguyên Bảo\nQuà trị giá 60,000 VNĐ	Mua 1.99 USD	
+se.jq.3usd.lb	Quà 2.99 USD		1	299	USD	5	item|2899|1					DayGift	3	version_xm	17	15		Nhận ngay 80 Nguyên Bảo\nQuà trị giá 100,000 VNĐ	Mua 2.99 USD	
+se.jq.5usd.palb	Quà Trị Giá 4.99 USD		1	499	USD		item|7337|1	item|7338|1	item|7339|1	item|7339|1		YearGift	1	version_xm	40	41			Quà Trị Giá 25 USD	
+se.jq.14usd.hllb	Quà 13.99 USD		1	1399	USD		item|7334|1	item|7335|1	item|7336|1	item|7336|1		YearGift	2	version_xm	42	43			Quà Trị Giá 50 USD	
+se.jq.50usd.jxlb	Quà 49.99 USD		30	4999	USD		item|7330|1	item|7331|1	item|7332|1	item|7332|1		YearGift	3	version_xm	44	45			Quà Trị Giá 100 USD	
+se.jq.100usd.wxlb	Quà 99.99 USD		30	9999	USD		item|7326|1	item|7327|1	item|7328|1	item|7329|1		YearGift	4	version_xm	46	47			Quà Trị Giá 200 USD	
+se.jq.14usd.ls	1000 Ngân Sức			1399	USD		SilverBoard|1000					DressMoney	1	version_xm						
+se.jq.50usd.ls	3600 Ngân Sức			4999	USD		SilverBoard|3600					DressMoney	2	version_xm						
+se.jq.100usd.ls	7500 Ngân Sức			9999	USD		SilverBoard|7500					DressMoney	3	version_xm						
+se.jq.1usd.lwjhg	Quà Trở Về 20,000 VNĐ		1	99	USD		Gold|480					BackGift	1	version_xm	67				Quà Trị Giá 160,000 VNĐ	
+se.jq.5usd.lwjhg	Quà Trở Về 100,000 VNĐ		1	499	USD		Gold|4800					BackGift	2	version_xm	68				Quà Trị Giá 1,600,000 VNĐ	
+se.jq.6usd.lwjhg	Quà Trở Về-Cực 20,000 VNĐ		1	599	USD		item|2897|6					BackGift	3	version_xm	69				Quà Trị Giá 200,000 VNĐ	
+se.jq.4usd.lwjhg	Quà Phúc Lợi 20,000 VNĐ		1	399	USD		item|2898|2					BackGift	4	version_xm	70				Quà Trị Giá 10,000 VNĐ	
+se.jq.15usd.lwjhg	Quà Hào Hoa 100,000 VNĐ		1	1499	USD		item|2899|5					BackGift	5	version_xm	71				Quà Trị Giá 500,000 VNĐ	
+jx.th.code1_69.THB	150 Nguyên Bảo			6900	THB		Gold|150	Gold|300				BuyGold	1	version_th			Recharge_00	Tặng thêm 150 Nguyên Bảo, chỉ được mua 1 lần	150 Nguyên Bảo	
+jx.th.code2_179.THB	375 Nguyên Bảo			17900	THB		Gold|375	Gold|750				BuyGold	2	version_th			Recharge_02	Tặng thêm 375 Nguyên Bảo, chỉ được mua 1 lần	375 Nguyên Bảo	
+jx.th.code3_349.THB	750 Nguyên Bảo			34900	THB		Gold|750	Gold|1500				BuyGold	3	version_th			Recharge_03	Tặng thêm 750 Nguyên Bảo, chỉ được mua 1 lần	750 Nguyên Bảo	
+jx.th.code4_529.THB	1125 Nguyên Bảo			52900	THB		Gold|1125	Gold|2250				BuyGold	4	version_th			Recharge_04	Tặng thêm 1125 Nguyên Bảo, chỉ được mua 1 lần	1125 Nguyên Bảo	
+jx.th.code5_879.THB	1875 Nguyên Bảo			87900	THB		Gold|1875	Gold|3750				BuyGold	5	version_th			Recharge_05	Tặng thêm 1875 Nguyên Bảo, chỉ được mua 1 lần	1875 Nguyên Bảo	
+jx.th.code6_1750.THB	3750 Nguyên Bảo			175000	THB		Gold|3750	Gold|7500				BuyGold	6	version_th			Recharge_06	Tặng thêm 3750 Nguyên Bảo, chỉ được mua 1 lần	3750 Nguyên Bảo	
+jx.th.code7_3500.THB	7500 Nguyên Bảo			350000	THB		Gold|7500	Gold|15000				BuyGold	7	version_th			Recharge_06	Tặng thêm 7500 Nguyên Bảo, chỉ được mua 1 lần	7500 Nguyên Bảo	
+jxwp.th.code12_99.THB	Thẻ Tuần		7	9900	THB		Gold|225					DaysCard	1	version_th	7		Recharge_09		Quà 7 Ngày	
+jxmp.th.code13_209.THB	Thẻ Tháng		30	20900	THB		Gold|450					DaysCard	2	version_th	2		Recharge_10		Quà 30 Ngày	
+jxswp.th.code40_209.THB	Thẻ Tuần Chí Tôn		7	20900	THB		Gold|450					DaysCard	3	version_th	82		Recharge_11		Quà Chí Tôn 7 Ngày	
+jxgf.th.code11_459.THB	Quỹ		999999	45900	THB							GrowInvest	1	version_th					459 Baht Thái-Quỹ Trưởng Thành	
+jxgf2.th.code15_529.THB	Quỹ 2		999999	52900	THB							GrowInvest	2	version_th					Quỹ Trưởng Thành 529 Baht Thái	
+jxgf3.th.code16_559.THB	Quỹ 3		999999	55900	THB							GrowInvest	3	version_th					Quỹ Trưởng Thành 599 Baht Thái	
+xxx	Quỹ Năm Mới		999999	55900	THB							GrowInvest	4	version_th					Quỹ Trưởng Thành 599 Baht Thái	
+jxgf4.th.code17_559.THB	Quỹ 4		999999	55900	THB							GrowInvest	5	version_th					Quỹ Trưởng Thành 599 Baht Thái	
+jxgf5.th.code30_559.THB	Quỹ 5		999999	55900	THB							GrowInvest	6	version_th					Quỹ Trưởng Thành 599 Baht Thái	
+jxwp.th.code25_559.THB	Quỹ-Trở Về		999999	55900	THB	5						GrowInvest	7	version_th					Quỹ Trưởng Thành 599 Baht Thái	
+jxgf6.th.code31_559.THB	Quỹ 6		999999	55900	THB							GrowInvest	8	version_th					Quỹ Trưởng Thành 599 Baht Thái	
+jxgf7.th.code32_559.THB	Quỹ 7		999999	55900	THB							GrowInvest	9	version_th					Quỹ Trưởng Thành 599 Baht Thái	
+jxgf8.th.code38_559.THB	Cơ Kim Bát		999999	55900	THB							GrowInvest	10	version_th					Quỹ Trưởng Thành 599 Baht Thái	
+jxpv1.th.code8_19.THB	Quà 5,000 VNĐ		1	1900	THB	1	item|1242|1;Gold|37					DayGift	1	version_th	11	13		Nhận ngay 20 Nguyên Bảo\nQuà trị giá 30,000 VNĐ	19 Baht Thái mua	
+jxpv3.th.code9_35.THB	Quà 10,000 VNĐ		1	3500	THB	3	item|2518|1;Gold|75					DayGift	2	version_th	16	14		Nhận ngay 40 Nguyên Bảo\nQuà trị giá 60,000 VNĐ	35 Baht Thái mua	
+jxpv5.th.code10_69.THB	Quà 20,000 VNĐ		1	6900	THB	5	item|2519|1;Gold|150					DayGift	3	version_th	17	15		Nhận ngay 80 Nguyên Bảo\nQuà trị giá 100,000 VNĐ	69 Baht Thái mua	
+jxfp.th.code14_459.THB	1000 Ngân Sức			45900	THB		SilverBoard|1000					DressMoney	1	version_th						
+jxfp2.th.code49_1400.THB	3100 Ngân Sức			140000	THB		SilverBoard|3100					DressMoney	2	version_th						
+jxfp3.th.code50_3000.THB	6900 Ngân Sức			300000	THB		SilverBoard|6900					DressMoney	3	version_th						
+jxlsp1.th.code45_139.THB	Quà 100,000 VNĐ		1	13900	THB		item|7667|1	item|7668|1	item|7669|1	item|7669|1		YearGift	1	version_th	40	41			Trị giá 900 Baht Thái	
+jxlsp2.th.code46_559.THB	Quà 300,000 VNĐ		1	55900	THB		item|7664|1	item|7665|1	item|7666|1	item|7666|1		YearGift	2	version_th	42	43			Trị giá 1500 Baht Thái	
+jxlsp3.th.code47_1500.THB	Quà Năm Mới 1,000,000 VNĐ		15	150000	THB		item|7661|1	item|7662|1	item|7663|1	item|7663|1		YearGift	3	version_th	44	45			Trị giá 3500 Baht Thái	
+jxlsp4.th.code48_3500.THB	Quà Năm Mới 648 VNĐ		15	350000	THB		item|7657|1	item|7658|1	item|7659|1	item|7660|1		YearGift	4	version_th	46	47			Trị giá 7500 Baht Thái	
+jxwb1.th.code20_69.THB	Quà Trở Về 20,000 VNĐ		1	6900	THB		Gold|480					BackGift	1	version_th	67				Quà Trị Giá 160,000 VNĐ	
+jxwb2.th.code21_349.THB	Quà Trở Về 100,000 VNĐ		1	34900	THB		Gold|4800					BackGift	2	version_th	68				Quà Trị Giá 1,600,000 VNĐ	
+jxwv1.th.code22_69.THB	Quà Trở Về-Cực 20,000 VNĐ		1	6900	THB		item|1242|6					BackGift	3	version_th	69				Quà Trị Giá 200,000 VNĐ	
+jxwv3.th.code23_69.THB	Quà Phúc Lợi 20,000 VNĐ		1	6900	THB		item|2518|2					BackGift	4	version_th	70				Quà Trị Giá 10,000 VNĐ	
+jxwv5.th.code24_349.THB	Quà Hào Hoa 100,000 VNĐ		1	34900	THB		item|2519|5					BackGift	5	version_th	71				Quà Trị Giá 500,000 VNĐ	
+com.kingsoftgame.jxqykr.120	120 Nguyên Bảo			219	USD		Gold|130	Gold|240				BuyGold	1	version_kor			Recharge_00	Tặng 120 Nguyên Bảo, được mua 1 lần	120 Nguyên Bảo (Tặng 10 Nguyên Bảo)	
+com.kingsoftgame.jxqykr.300	200 Nguyên Bảo			549	USD		Gold|330	Gold|600				BuyGold	2	version_kor			Recharge_02	Tặng thêm 300 Nguyên Bảo, được mua 1 lần	300 Nguyên Bảo (tặng 30 Nguyên Bảo)	
+com.kingsoftgame.jxqykr.1200	1200 Nguyên Bảo			2199	USD		Gold|1350	Gold|2400				BuyGold	3	version_kor			Recharge_03	Tặng thêm 1200 Nguyên Bảo, chỉ 1 lần duy nhất	1200 Nguyên Bảo (Tặng 150 Nguyên Bảo)	
+com.kingsoftgame.jxqykr.1800	1800 Nguyên Bảo			3299	USD		Gold|2200	Gold|3600				BuyGold	4	version_kor			Recharge_04	Tặng 1800 Nguyên Bảo, được mua 1 lần	1800 Nguyên Bảo (Tặng 400 Nguyên Bảo)	
+com.kingsoftgame.jxqykr.3000	3000 Nguyên Bảo			5499	USD		Gold|3800	Gold|6000				BuyGold	5	version_kor			Recharge_05	Tặng thêm 3000 Nguyên Bảo, chỉ 1 lần duy nhất	3000 Nguyên Bảo (Tặng 800 Nguyên Bảo)	
+com.kingsoftgame.jxqykr.6000	6000 Nguyên Bảo			10999	USD		Gold|7800	Gold|12000				BuyGold	6	version_kor			Recharge_06	Tặng thêm 6000 Nguyên Bảo, chỉ 1 lần duy nhất	6000 Nguyên Bảo (Tặng 1800 Nguyên Bảo)	
+com.kingsoftgame.jxqykr.week180	Thẻ Tuần		7	329	USD		Gold|180					DaysCard	1	version_kor	7		Recharge_09		Quà 7 Ngày	
+com.kingsoftgame.jxqykr.month300	Thẻ Tháng		30	549	USD		Gold|300					DaysCard	2	version_kor	2		Recharge_10		Quà 30 Ngày	
+com.kingsoftgame.jxqykr.week400	Quà Chí Tôn 7 Ngày		7	659	USD		Gold|400					DaysCard	3	version_kor	82		Recharge_11		Quà Chí Tôn 7 Ngày	
+com.kingsoftgame.jxqykr.day60	Quà Bạch Ngân		1	109	USD	1	item|1242|1;Gold|60					DayGift	1	version_kor	11	13		Nhận ngay 20 Nguyên Bảo\nQuà trị giá 30,000 VNĐ	Mua 1.09 USD	
+com.kingsoftgame.jxqykr.day120	Quà Hoàng Kim		1	219	USD	3	item|2518|1;Gold|120					DayGift	2	version_kor	16	14		Nhận ngay 40 Nguyên Bảo\nQuà trị giá 60,000 VNĐ	Mua 2.19 USD	
+com.kingsoftgame.jxqykr.day180	Quà Kim Cương		1	329	USD	5	item|2519|1;Gold|180					DayGift	3	version_kor	17	15		Nhận ngay 80 Nguyên Bảo\nQuà trị giá 100,000 VNĐ	Mua 3.29 USD	
+com.kingsoftgame.jxqykr.gift5	Combo Quà Mỗi Ngày (7 Ngày) 		7	3959	USD	5						DayGiftPlus	1	version_kor	61				Quà 7 Ngày	
+com.kingsoftgame.jxqykr.ls1000	1000 Ngân Sức			1649	USD		SilverBoard|1000					DressMoney	1	version_kor						
+com.kingsoftgame.jxqykr.ls3100	3100 Ngân Sức			5499	USD		SilverBoard|3100					DressMoney	2	version_kor						
+com.kingsoftgame.jxqykr.ls6900	6900 Ngân Sức			10999	USD		SilverBoard|6900					DressMoney	3	version_kor						
+com.kingsoftgame.jxqykr.invest1340	Đầu Tư		999999	1429	USD							GrowInvest	1	version_kor					Quỹ Trưởng Thành 14.29 USD	
+com.kingsoftgame.jxqykr.invest1700	Đầu Tư 2		999999	1649	USD							GrowInvest	2	version_kor					Quỹ Trưởng Thành 16.49 USD	
+com.kingsoftgame.jxqykr.invest2180	Đầu Tư 3		999999	1759	USD							GrowInvest	3	version_kor					Quỹ Trưởng Thành 17.59 USD	
+com.kingsoftgame.jxqykr.investspring	Đầu Tư Phiên Bản		30	1759	USD							GrowInvest	4	version_kor					Quỹ Trưởng Thành 17.59 USD	
+com.kingsoftgame.jxqykr.invest100	Đầu Tư 4		999999	1759	USD							GrowInvest	5	version_kor					Quỹ Trưởng Thành 17.59 USD	
+com.kingsoftgame.jxqykr.invest110	Đầu Tư 5		999999	1759	USD							GrowInvest	6	version_kor					Quỹ Trưởng Thành 17.59 USD	
+com.kingsoftgame.jxqykr.return1	Đầu Tư-Quay Về		999999	1759	USD	5						GrowInvest	7	version_kor					Quỹ Trưởng Thành 200,000 VNĐ	
+com.kingsoftgame.jxqykr.invest120	Đầu Tư 6		999999	1759	USD							GrowInvest	8	version_kor					Quỹ Trưởng Thành 17.59 USD	
+com.kingsoftgame.jxqykr.invest130	Đầu Tư 7		999999	1759	USD							GrowInvest	9	version_kor					Quỹ Trưởng Thành 17.59 USD	
+com.kingsoftgame.jxqykr.invest140	Đầu Tư 8		999999	1759	USD							GrowInvest	10	version_kor					Quỹ Trưởng Thành 17.59 USD	
+com.kingsoftgame.jxqykr.gift1	Quà 100,000 VNĐ		1	549	USD		item|7667|1	item|7668|1	item|7669|1	item|7669|1		YearGift	1	version_kor	40	41			Quà Trị Giá 600,000 VNĐ	
+com.kingsoftgame.jxqykr.gift2	Quà 300,000 VNĐ		30	1649	USD		item|7664|1	item|7665|1	item|7666|1	item|7666|1		YearGift	2	version_kor	42	43			Quà Trị Giá 1,200,000 VNĐ	
+com.kingsoftgame.jxqykr.gift3	Quà 1,000,000 VNĐ		30	5169	USD		item|7661|1	item|7662|1	item|7663|1	item|7663|1		YearGift	3	version_kor	44	45			Quà Trị Giá 2,500,000 VNĐ	
+com.kingsoftgame.jxqykr.gift4	Quà 2,000,000 VNĐ		30	10999	USD		item|7657|1	item|7658|1	item|7659|1	item|7660|1		YearGift	4	version_kor	46	47			Quà Trị Giá 5,000,000 VNĐ	
+com.kingsoftgame.jxqykr.return2	Quà Trở Về 20,000 VNĐ		1	109	USD		Gold|480					BackGift	1	version_kor	67				Quà Trị Giá 160,000 VNĐ	
+com.kingsoftgame.jxqykr.return3	Quà Trở Về 100,000 VNĐ		1	549	USD		Gold|4800					BackGift	2	version_kor	68				Quà Trị Giá 1,600,000 VNĐ	
+com.kingsoftgame.jxqykr.return4	Quà Trở Về-Cực 20,000 VNĐ		1	659	USD		item|1242|6;Gold|360					BackGift	3	version_kor	69				Quà Trị Giá 200,000 VNĐ	
+com.kingsoftgame.jxqykr.return5	Quà Phúc Lợi 20,000 VNĐ		1	439	USD		item|2518|2;Gold|240					BackGift	4	version_kor	70				Quà Trị Giá 10,000 VNĐ	
+com.kingsoftgame.jxqykr.return6	Quà Hào Hoa 100,000 VNĐ		1	1649	USD		item|2519|5;Gold|900					BackGift	5	version_kor	71				Quà Trị Giá 500,000 VNĐ	
+com.kingsoftgame.jxqykr.enhance20	Top 20		2	549	USD		item|3922|1					DirectEnhance	1	version_kor	52			Mua $5.49	Quà 1,000,000 VNĐ	
+com.kingsoftgame.jxqykr.enhance30	Top 30		2	1649	USD		item|3923|1					DirectEnhance	2	version_kor	53			Mua $16.49	Quà 2,500,000 VNĐ	
+com.kingsoftgame.jxqykr.enhance40	Top 40		2	3299	USD		item|3924|1					DirectEnhance	3	version_kor	54			Mua $32.99	Quà 5,000,000 VNĐ	
+com.seasungames.jxqykr.120	120 Nguyên Bảo			264000	KRW		Gold|130	Gold|240				BuyGold	1	version_kor			Recharge_00	Tặng 120 Nguyên Bảo, được mua 1 lần	120 Nguyên Bảo (Tặng 10 Nguyên Bảo)	ANDROID
+com.seasungames.jxqykr.300	200 Nguyên Bảo			660000	KRW		Gold|330	Gold|600				BuyGold	2	version_kor			Recharge_02	Tặng thêm 300 Nguyên Bảo, được mua 1 lần	300 Nguyên Bảo (tặng 30 Nguyên Bảo)	ANDROID
+com.seasungames.jxqykr.1200	1200 Nguyên Bảo			2640000	KRW		Gold|1350	Gold|2400				BuyGold	3	version_kor			Recharge_03	Tặng thêm 1200 Nguyên Bảo, chỉ 1 lần duy nhất	1200 Nguyên Bảo (Tặng 150 Nguyên Bảo)	ANDROID
+com.seasungames.jxqykr.1800	1800 Nguyên Bảo			3960000	KRW		Gold|2200	Gold|3600				BuyGold	4	version_kor			Recharge_04	Tặng 1800 Nguyên Bảo, được mua 1 lần	1800 Nguyên Bảo (Tặng 400 Nguyên Bảo)	ANDROID
+com.seasungames.jxqykr.3000	3000 Nguyên Bảo			6600000	KRW		Gold|3800	Gold|6000				BuyGold	5	version_kor			Recharge_05	Tặng thêm 3000 Nguyên Bảo, chỉ 1 lần duy nhất	3000 Nguyên Bảo (Tặng 800 Nguyên Bảo)	ANDROID
+com.seasungames.jxqykr.6000	6000 Nguyên Bảo			13200000	KRW		Gold|7800	Gold|12000				BuyGold	6	version_kor			Recharge_06	Tặng thêm 6000 Nguyên Bảo, chỉ 1 lần duy nhất	6000 Nguyên Bảo (Tặng 1800 Nguyên Bảo)	ANDROID
+com.seasungames.jxqykr.week180	Thẻ Tuần		7	396000	KRW		Gold|180					DaysCard	1	version_kor	7		Recharge_09		Quà 7 Ngày	ANDROID
+com.seasungames.jxqykr.month300	Thẻ Tháng		30	660000	KRW		Gold|300					DaysCard	2	version_kor	2		Recharge_10		Quà 30 Ngày	ANDROID
+com.seasungames.jxqykr.week400	Quà Chí Tôn 7 Ngày		7	770000	KRW		Gold|400					DaysCard	3	version_kor	82		Recharge_11		Quà Chí Tôn 7 Ngày	ANDROID
+com.seasungames.jxqykr.day60	Quà Bạch Ngân		1	132000	KRW	1	item|1242|1;Gold|60					DayGift	1	version_kor	11	13		Nhận ngay 20 Nguyên Bảo\nQuà trị giá 30,000 VNĐ	Mua 1320 Won	ANDROID
+com.seasungames.jxqykr.day120	Quà Hoàng Kim		1	264000	KRW	3	item|2518|1;Gold|120					DayGift	2	version_kor	16	14		Nhận ngay 40 Nguyên Bảo\nQuà trị giá 60,000 VNĐ	Mua 2640 Won	ANDROID
+com.seasungames.jxqykr.day180	Quà Kim Cương		1	396000	KRW	5	item|2519|1;Gold|180					DayGift	3	version_kor	17	15		Nhận ngay 80 Nguyên Bảo\nQuà trị giá 100,000 VNĐ	Mua 3960 Won	ANDROID
+com.seasungames.jxqykr.gift5	Combo Quà Mỗi Ngày (7 Ngày) 		7	4752000	KRW	5						DayGiftPlus	1	version_kor	61				Quà 7 Ngày	ANDROID
+com.seasungames.jxqykr.ls1000	1000 Ngân Sức			1980000	KRW		SilverBoard|1000					DressMoney	1	version_kor						ANDROID
+com.seasungames.jxqykr.ls3100	3100 Ngân Sức			6600000	KRW		SilverBoard|3100					DressMoney	2	version_kor						ANDROID
+com.seasungames.jxqykr.ls6900	6900 Ngân Sức			13200000	KRW		SilverBoard|6900					DressMoney	3	version_kor						ANDROID
+com.seasungames.jxqykr.invest1340	Đầu Tư		999999	1716000	KRW							GrowInvest	1	version_kor					Quỹ Trưởng Thành 17160 Won	ANDROID
+com.seasungames.jxqykr.invest1700	Đầu Tư 2		999999	1980000	KRW							GrowInvest	2	version_kor					Quỹ Trưởng Thành 19800 Won	ANDROID
+com.seasungames.jxqykr.invest2180	Đầu Tư 3		999999	2112000	KRW							GrowInvest	3	version_kor					Quỹ Trưởng Thành 21120 Won	ANDROID
+com.seasungames.jxqykr.investspring	Đầu Tư Phiên Bản		30	2112000	KRW							GrowInvest	4	version_kor					Quỹ Trưởng Thành 21120 Won	ANDROID
+com.seasungames.jxqykr.invest100	Đầu Tư 4		999999	2112000	KRW							GrowInvest	5	version_kor					Quỹ Trưởng Thành 21120 Won	ANDROID
+com.seasungames.jxqykr.invest110	Đầu Tư 5		999999	2112000	KRW							GrowInvest	6	version_kor					Quỹ Trưởng Thành 21120 Won	ANDROID
+com.seasungames.jxqykr.return1	Đầu Tư-Quay Về		999999	2112000	KRW	5						GrowInvest	7	version_kor					Quỹ Trưởng Thành 200,000 VNĐ	ANDROID
+com.seasungames.jxqykr.invest120	Đầu Tư 6		999999	2112000	KRW							GrowInvest	8	version_kor					Quỹ Trưởng Thành 21120 Won	ANDROID
+com.seasungames.jxqykr.invest130	Đầu Tư 7		999999	2112000	KRW							GrowInvest	9	version_kor					Quỹ Trưởng Thành 21120 Won	ANDROID
+com.seasungames.jxqykr.invest140	Đầu Tư 8		999999	2112000	KRW							GrowInvest	10	version_kor					Quỹ Trưởng Thành 21120 Won	ANDROID
+com.seasungames.jxqykr.gift1	Quà 100,000 VNĐ	gift30	1	660000	KRW		item|7667|1	item|7668|1	item|7669|1	item|7669|1		YearGift	1	version_kor	40	41			Quà Trị Giá 600,000 VNĐ	ANDROID
+com.seasungames.jxqykr.gift2	Quà 300,000 VNĐ	gift98	30	1980000	KRW		item|7664|1	item|7665|1	item|7666|1	item|7666|1		YearGift	2	version_kor	42	43			Quà Trị Giá 1,200,000 VNĐ	ANDROID
+com.seasungames.jxqykr.gift3	Quà 1,000,000 VNĐ	gift298	30	6204000	KRW		item|7661|1	item|7662|1	item|7663|1	item|7663|1		YearGift	3	version_kor	44	45			Quà Trị Giá 2,500,000 VNĐ	ANDROID
+com.seasungames.jxqykr.gift4	Quà 2,000,000 VNĐ	gift648	30	13200000	KRW		item|7657|1	item|7658|1	item|7659|1	item|7660|1		YearGift	4	version_kor	46	47			Quà Trị Giá 5,000,000 VNĐ	ANDROID
+com.seasungames.jxqykr.return2	Quà Trở Về 20,000 VNĐ		1	132000	KRW		Gold|480					BackGift	1	version_kor	67				Quà Trị Giá 160,000 VNĐ	ANDROID
+com.seasungames.jxqykr.return3	Quà Trở Về 100,000 VNĐ		1	660000	KRW		Gold|4800					BackGift	2	version_kor	68				Quà Trị Giá 1,600,000 VNĐ	ANDROID
+com.seasungames.jxqykr.return4	Quà Trở Về-Cực 20,000 VNĐ		1	792000	KRW		item|1242|6;Gold|360					BackGift	3	version_kor	69				Quà Trị Giá 200,000 VNĐ	ANDROID
+com.seasungames.jxqykr.return5	Quà Phúc Lợi 20,000 VNĐ		1	528000	KRW		item|2518|2;Gold|240					BackGift	4	version_kor	70				Quà Trị Giá 10,000 VNĐ	ANDROID
+com.seasungames.jxqykr.return6	Quà Hào Hoa 100,000 VNĐ		1	1980000	KRW		item|2519|5;Gold|900					BackGift	5	version_kor	71				Quà Trị Giá 500,000 VNĐ	ANDROID
+com.seasungames.jxqykr.enhance20	Top 20		2	660000	KRW		item|3922|1					DirectEnhance	1	version_kor	52			Mua 6600 Won	Quà 1,000,000 VNĐ	ANDROID
+com.seasungames.jxqykr.enhance30	Top 30		2	1980000	KRW		item|3923|1					DirectEnhance	2	version_kor	53			Mua 19800 Won	Quà 2,500,000 VNĐ	ANDROID
+com.seasungames.jxqykr.enhance40	Top 40		2	3960000	KRW		item|3924|1					DirectEnhance	3	version_kor	54			Mua 39600 Won	Quà 5,000,000 VNĐ	ANDROID

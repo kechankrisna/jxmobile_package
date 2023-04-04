@@ -1,0 +1,57 @@
+szType	nLevel	nPreferential	szParam	nLight	nCalendarId	bShowTicket	szIconAltas	szIconSprite	szName	szDesc	
+Level	10		15				UI/Atlas/Item/Item/Item3.prefab	horse_lv1	Thú Cưỡi	Lv15 có thể nhận	nPreferential: Cấp ưu tiên hiển thị, càng lớn cấp ưu tiên càng cao
+Level	15		18				UI/Atlas/Home/HomeScreenAtlas.prefab	touxian_01	Quân Hàm	Lv18 có thể nhận	
+Level	18		20				UI/Atlas/NewAtlas/Equipment/WudangEquipment02.prefab	WD_Weapon_T2_Q1	Vũ Khí Tím	Lv20 có thể nhận	
+Level	20		24				UI/Atlas/NewAtlas/Icon/ActivityIcon/ActivityIcon.prefab	songjinzhanchang	Chiến Trường Tống Kim	Lv24 có thể tham gia	
+Level	24		27				UI/Atlas/Item/Item/Item.prefab	WuDaoDeJing	Võ Đạo Đức Kinh (Điểm kỹ năng)	Lv27 có thể nhận	
+Level	27		30				UI/Atlas/NewAtlas/Icon/ActivityIcon/ActivityIcon.prefab	yewaishouling	Thủ Lĩnh Dã Ngoại	Lv30 có thể tham gia	
+OpenServer	24	1	1;18:00-20:45		3		UI/Atlas/NewAtlas/Icon/ActivityIcon/ActivityIcon.prefab	songjinzhanchang	Chiến Trường Tống Kim	20:30 tối nay	nCalendarId: Nhấp sự kiện, hiện tại chỉ được nhấp chuyển đến lịch
+PreView	30	1	8:00-21:00		27		UI/Atlas/NewAtlas/Icon/ActivityIcon/ActivityIcon.prefab	menpaijingji	Thi Đấu Môn Phái	21:00 tối nay	
+PreView	30	5	21:00-21:05	1	27		UI/Atlas/NewAtlas/Icon/ActivityIcon/ActivityIcon.prefab	menpaijingji	Thi Đấu Môn Phái	Đang báo danh	
+PreView	30	1	8:00-21:00		26		UI/Atlas/NewAtlas/Icon/ActivityIcon/ActivityIcon.prefab	zhaixinglou	Thông Thiên Tháp	21:00 tối nay	bShowTicket: Có hiển thị vé vào trận đoạt tư cách
+PreView	30	5	21:00-21:05	1	26		UI/Atlas/NewAtlas/Icon/ActivityIcon/ActivityIcon.prefab	zhaixinglou	Thông Thiên Tháp	Đang báo danh	
+PreView	20	1	8:00-21:00		33		UI/Atlas/NewAtlas/Icon/ActivityIcon/ActivityIcon.prefab	lingtuzhan	Công Thành Chiến	21:00 tối nay	
+PreView	20	5	21:00-21:05	1	33		UI/Atlas/NewAtlas/Icon/ActivityIcon/ActivityIcon.prefab	lingtuzhan	Công Thành Chiến	Đang báo danh	
+PreView	20	1	8:00-21:00		30		UI/Atlas/NewAtlas/Icon/ActivityIcon/ActivityIcon.prefab	jiazushilian	Thí Luyện Bang Hội	21:00 tối nay	
+PreView	20	5	21:00-21:05	1	30		UI/Atlas/NewAtlas/Icon/ActivityIcon/ActivityIcon.prefab	jiazushilian	Thí Luyện Bang Hội	Đang báo danh	
+PreView	70	1	8:00-21:03		11		UI/Atlas/NewAtlas/Icon/ActivityIcon/ActivityIcon.prefab	qunyinghui	Quần Anh Hội	21:03 đêm nay	
+PreView	70	5	21:03-21:27	1	11		UI/Atlas/NewAtlas/Icon/ActivityIcon/ActivityIcon.prefab	qunyinghui	Quần Anh Hội	Đang tiến hành	
+PreView	30	5	15:25-15:35	1	12		UI/Atlas/NewAtlas/Icon/ActivityIcon/ActivityIcon.prefab	lidaimingjiang	Danh Tướng	Đang tiến hành	
+PreView	30	5	21:55-22:05	1	12		UI/Atlas/NewAtlas/Icon/ActivityIcon/ActivityIcon.prefab	lidaimingjiang	Danh Tướng	Đang tiến hành	
+PreView	60	3	21:05-21:30		35		UI/Atlas/NewAtlas/Icon/ActivityIcon/ActivityIcon.prefab	huashanlunjian	Hoa Sơn Luận Kiếm	Tối 21:30	
+PreView	60	5	21:30-21:55		35		UI/Atlas/NewAtlas/Icon/ActivityIcon/ActivityIcon.prefab	huashanlunjian	Hoa Sơn Luận Kiếm	Đang thi đấu	
+PreView	20	3	21:05-21:30		36		UI/Atlas/NewAtlas/Icon/ActivityIcon/ActivityIcon.prefab	huashanlunjian	Hoa Sơn Luận Kiếm-Chung kết	Tối 21:30	
+PreView	20	5	21:30-21:45		36		UI/Atlas/NewAtlas/Icon/ActivityIcon/ActivityIcon.prefab	huashanlunjian	Hoa Sơn Luận Kiếm-Chung kết	Đang thi đấu	
+PreView	60	5	21:55-22:15	1	38		UI/Atlas/NewAtlas/Icon/ActivityIcon/ActivityIcon.prefab	qinshihuangling	Thủy Hoàng Giáng Thế	Đang tiến hành	
+PreView	80	5	21:55-22:15	1	45		UI/Atlas/NewAtlas/Icon/ActivityIcon/ActivityIcon.prefab	nvdiyizhong	Nữ Đế Hồi Sinh	Đang tiến hành	
+ByServer	24	5	BattleCross	1	3		UI/Atlas/NewAtlas/Icon/ActivityIcon/ActivityIcon.prefab	songjinzhanchang		Đang tiến hành	
+ByServer	24	5	BattleHundred	1	3		UI/Atlas/NewAtlas/Icon/ActivityIcon/ActivityIcon.prefab	songjinzhanchang		Đang tiến hành	
+ByServer	24	6	BattleMonth	1	3	1	UI/Atlas/NewAtlas/Icon/ActivityIcon/ActivityIcon.prefab	songjinzhanchang		Đang tiến hành	
+ByServer	24	6	BattleSeason	1	3	1	UI/Atlas/NewAtlas/Icon/ActivityIcon/ActivityIcon.prefab	songjinzhanchang		Đang tiến hành	
+ByServer	24	6	BattleYear	1	3	1	UI/Atlas/NewAtlas/Icon/ActivityIcon/ActivityIcon.prefab	songjinzhanchang		Đang tiến hành	
+ActShow	20	5	DaXueZhang;13:30-13:44		43		UI/Atlas/NewAtlas/Icon/ActivityIcon/ActivityIcon.prefab	daxuezhang	Ném Tuyết	Đang tiến hành	szParam Hướng dẫn: Tham số 1 là Hoạt động Type, Tham số 2 là phạm vi thời gian, ở giữa dùng ";" để phân cách
+ActShow	20	5	DaXueZhang;16:00-16:14		43		UI/Atlas/NewAtlas/Icon/ActivityIcon/ActivityIcon.prefab	daxuezhang	Ném Tuyết	Đang tiến hành	szParam Hướng dẫn: Tham số 1 là Hoạt động Type, Tham số 2 là phạm vi thời gian, ở giữa dùng ";" để phân cách
+ActShow	20	5	DaXueZhang;20:00-20:14		43		UI/Atlas/NewAtlas/Icon/ActivityIcon/ActivityIcon.prefab	daxuezhang	Ném Tuyết	Đang tiến hành	szParam Hướng dẫn: Tham số 1 là Hoạt động Type, Tham số 2 là phạm vi thời gian, ở giữa dùng ";" để phân cách
+PreView	50	3	16:00-16:30		42		UI/Atlas/NewAtlas/Icon/ActivityIcon/ActivityIcon.prefab	xinmohuanjing	Tâm Ma Ảo Cảnh	16:25 chiều	
+PreView	50	5	16:25-16:30	1	42		UI/Atlas/NewAtlas/Icon/ActivityIcon/ActivityIcon.prefab	xinmohuanjing	Tâm Ma Ảo Cảnh	Đang báo danh	
+PreView	50	3	20:00-20:31		51		UI/Atlas/NewAtlas/Icon/ActivityIcon/ActivityIcon.prefab	xinmohuanjing	Tâm Ma Tuyệt Địa	20:26 tối nay	
+PreView	50	5	20:26-20:31	1	51		UI/Atlas/NewAtlas/Icon/ActivityIcon/ActivityIcon.prefab	xinmohuanjing	Tâm Ma Tuyệt Địa	Đang báo danh	
+PreView	50	3	22:15-22:30		42		UI/Atlas/NewAtlas/Icon/ActivityIcon/ActivityIcon.prefab	xinmohuanjing	Tâm Ma Ảo Cảnh	22:25 tối nay	
+PreView	50	5	22:25-22:30	1	42		UI/Atlas/NewAtlas/Icon/ActivityIcon/ActivityIcon.prefab	xinmohuanjing	Tâm Ma Ảo Cảnh	Đang báo danh	
+PreView	20	1	8:00-21:00		49		UI/Atlas/NewAtlas/Icon/ActivityIcon/ActivityIcon.prefab	lingtuzhan	Công Thành Liên SV	21:00 tối nay	
+PreView	20	5	21:00-21:05	1	49		UI/Atlas/NewAtlas/Icon/ActivityIcon/ActivityIcon.prefab	lingtuzhan	Công Thành Liên SV	Đang báo danh	
+PreView	70	1	8:00-21:00		50		UI/Atlas/NewAtlas/Icon/ActivityIcon/ActivityIcon2.prefab	jiazumijing	Bí Cảnh Bang Hội	21:00 tối nay	
+PreView	70	5	21:00-20:25	1	50		UI/Atlas/NewAtlas/Icon/ActivityIcon/ActivityIcon2.prefab	jiazumijing	Bí Cảnh Bang Hội	Đang tiến hành	
+PreView	80	1	8:00-21:00		56		UI/Atlas/NewAtlas/Icon/ActivityIcon/ActivityIcon2.prefab	jiazubaoweizhan	Bảo Vệ Bang Hội	21:00 tối nay	
+PreView	80	5	21:00-21:25	1	56		UI/Atlas/NewAtlas/Icon/ActivityIcon/ActivityIcon2.prefab	jiazubaoweizhan	Bảo Vệ Bang Hội	Đang tiến hành	
+ByServer	60	5	InDifferBattleJuediAct	1	42		UI/Atlas/NewAtlas/Icon/ActivityIcon/ActivityIcon.prefab	xinmohuanjing	Tuyệt Địa Thí Luyện	Đang tiến hành	
+PreView_Ticket	24	2	8:00-20:30		3	1	UI/Atlas/NewAtlas/Icon/ActivityIcon/ActivityIcon.prefab	songjinzhanchang	Chiến Trường Tống Kim	20:30 tối nay	
+PreView_Ticket	30	2	8:00-21:00		26	1	UI/Atlas/NewAtlas/Icon/ActivityIcon/ActivityIcon.prefab	zhaixinglou	Thông Thiên Tháp	21:00 tối nay	
+PreView_Ticket	30	2	8:00-21:00		27	1	UI/Atlas/NewAtlas/Icon/ActivityIcon/ActivityIcon.prefab	menpaijingji	Thi Đấu Môn Phái	21:00 tối nay	
+PreView_Ticket	50	4	8:00-20:26		42	1	UI/Atlas/NewAtlas/Icon/ActivityIcon/ActivityIcon.prefab	xinmohuanjing	Tâm Ma Ảo Cảnh	20:26 tối nay	
+PreView_Ticket	50	6	20:26-20:31	1	42	1	UI/Atlas/NewAtlas/Icon/ActivityIcon/ActivityIcon.prefab	xinmohuanjing	Tâm Ma Ảo Cảnh	Đang báo danh	
+PreView_Ticket	30	6	21:00-21:05	1	27	1	UI/Atlas/NewAtlas/Icon/ActivityIcon/ActivityIcon.prefab	menpaijingji	Thi Đấu Môn Phái	Đang báo danh	
+PreView_Ticket	30	6	21:00-21:05	1	26	1	UI/Atlas/NewAtlas/Icon/ActivityIcon/ActivityIcon.prefab	zhaixinglou	Thông Thiên Tháp	Đang báo danh	
+PreView	80	3	19:40-19:50		52		UI/Atlas/NewAtlas/Icon/ActivityIcon/ActivityIcon2.prefab	xunbao	Di Tích Tầm Bảo	19:50 tối nay	
+PreView	80	5	19:50-19:55	1	52		UI/Atlas/NewAtlas/Icon/ActivityIcon/ActivityIcon2.prefab	xunbao	Di Tích Tầm Bảo	Đang báo danh	
+ActShow	60	5	KinEncounterAct;20:59-21:05	1	53		UI/Atlas/NewAtlas/Icon/ActivityIcon/ActivityIcon.prefab	lingtuzhan	Bang Hội Chiến	Đang báo danh	

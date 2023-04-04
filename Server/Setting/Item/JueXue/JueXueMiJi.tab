@@ -1,0 +1,231 @@
+TemplateId	Name	Kind	ShowType	ItemType	DetailType	Level	RequireLevel	RealLevel	Icon	BigIcon	ObjID	Intro	Price	Quality	ItemValue	Sellable	ClassName	ResEffect	FightPower	ExtParam1	ExtParam2	ExtParam3	Attrib1Type	Attrib1Value1	Attrib1Value2	Attrib1Value3	Attrib2Type	Attrib2Value1	Attrib2Value2	Attrib2Value3	Attrib3Type	Attrib3Value1	Attrib3Value2	Attrib3Value3	Attrib4Type	Attrib4Value1	Attrib4Value2	Attrib4Value3	Attrib5Type	Attrib5Value1	Attrib5Value2	Attrib5Value3	Attrib6Type	Attrib6Value1	Attrib6Value2	Attrib6Value3	Attrib7Type	Attrib7Value1	Attrib7Value2	Attrib7Value3	Attrib8Type	Attrib8Value1	Attrib8Value2	Attrib8Value3	Attrib9Type	Attrib9Value1	Attrib9Value2	Attrib9Value3	Attrib10Type	Attrib10Value1	Attrib10Value2	Attrib10Value3	Attrib9Value1	Attrib9Value2	Attrib9Value3	Attrib10Type	Attrib10Value1	Attrib10Value2	Attrib10Value3
+7967	【Thường】Bí Quyển Tuyệt Học	Miben_lv1		23		1	100	1	7967	7967			1296	1	800000		MibenBook		800	1	1																																																
+7968	【Tốt】Bí Quyển Tuyệt Học	Miben_lv2		23		2	100	2	7967	7967			1296	2	2400000		MibenBook		2400	1	2																																																
+7969	【Tinh Xảo】Bí Quyển Tuyệt Học	Miben_lv3		23		3	100	3	7967	7967			1296	3	7200000		MibenBook		7200	1	3																																																
+7970	【Kế Thừa】Bí Quyển Tuyệt Học	Miben_lv4		23		4	100	4	7967	7967			1296	4	21600000		MibenBook		21600	1	4																																																
+7971	【Trác Việt】Bí Quyển Tuyệt Học	Miben_lv5		23		5	100	5	7967	7967			1296	5	64800000		MibenBook		64800	1	5																																																
+7972	【Hiếm】Bí Quyển Tuyệt Học	Miben_lv6		23		6	100	6	7967	7967			1296	6	194400000		MibenBook		194400	1	6																																																
+7973	【Hoàng Kim】Bí Quyển Tuyệt Học	Miben_lv7		23		7	100	7	7967	7967			1296	7	583200000		MibenBook		583200	1	7																																																
+7974	【Thường】Mảnh Tuyệt Học	Duanpian_lv1		24		1	100	1	7974	7974			324	1	200000		DuanpianBook		200	2	1																																																
+7975	【Tốt】Mảnh Tuyệt Học	Duanpian_lv2		24		2	100	2	7974	7974			324	2	600000		DuanpianBook		600	2	2																																																
+7976	【Tinh Xảo】Mảnh Tuyệt Học	Duanpian_lv3		24		3	100	3	7974	7974			324	3	1800000		DuanpianBook		1800	2	3																																																
+7977	【Kế Thừa】Mảnh Tuyệt Học	Duanpian_lv4		24		4	100	4	7974	7974			324	4	5400000		DuanpianBook		5400	2	4																																																
+7978	【Trác Việt】Mảnh Tuyệt Học	Duanpian_lv5		24		5	100	5	7974	7974			324	5	16200000		DuanpianBook		16200	2	5																																																
+7979	【Hiếm】Mảnh Tuyệt Học	Duanpian_lv6		24		6	100	6	7974	7974			324	6	48600000		DuanpianBook		48600	2	6																																																
+7980	【Hoàng Kim】Mảnh Tuyệt Học	Duanpian_lv7		24		7	100	7	7974	7974			324	7	145800000		DuanpianBook		145800	2	7																																																
+10938	【Kế Thừa】Tuyệt Học Đoạn Thiên	Duanpian_lv4_Suit1		24		4	100	4	7975	7975			324	4	5400000		DuanpianBook		5400	2	4	1																																															
+10939	【Kế Thừa】Tuyệt Học Đoạn Thiên	Duanpian_lv4_Suit2		24		4	100	4	7976	7976			324	4	5400000		DuanpianBook		5400	2	4	2																																															
+10940	【Kế Thừa】Tuyệt Học Đoạn Thiên	Duanpian_lv4_Suit3		24		4	100	4	7977	7977			324	4	5400000		DuanpianBook		5400	2	4	3																																															
+10586	【Trác Việt】Mảnh Tuyệt Học	Duanpian_lv5_Suit1		24		5	100	5	7975	7975			324	5	16200000		DuanpianBook		16200	2	5	1																																															
+10587	【Trác Việt】Mảnh Tuyệt Học	Duanpian_lv5_Suit2		24		5	100	5	7976	7976			324	5	16200000		DuanpianBook		16200	2	5	2																																															
+10588	【Trác Việt】Mảnh Tuyệt Học	Duanpian_lv5_Suit3		24		5	100	5	7977	7977			324	5	16200000		DuanpianBook		16200	2	5	3																																															
+7981	Tuyệt Học-Phong Hổ Vân Long	Juexue_Pub_01		22		4	100		7981	7981				6	5600000		JuexueBook		5600																																																		
+7982	Tuyệt Học-Huy Duệ Sinh Phong	Juexue_Pub_02		22		4	100		7982	7982				6	5600000		JuexueBook		5600																																																		
+7983	Tuyệt Học Chung 3	Juexue_Pub_03		22		4	100		7991	7991				6	5600000		JuexueBook		5600																																																		
+7984	Tuyệt Học Chung 4	Juexue_Pub_04		22		4	100		7991	7991				6	5600000		JuexueBook		5600																																																		
+7985	Tuyệt Học Chung 5	Juexue_Pub_05		22		4	100		7991	7991				6	5600000		JuexueBook		5600																																																		
+7986	Tuyệt Học Chung 6	Juexue_Pub_06		22		4	100		7991	7991				6	5600000		JuexueBook		5600																																																		
+7987	Tuyệt Học Chung 7	Juexue_Pub_07		22		4	100		7991	7991				6	5600000		JuexueBook		5600																																																		
+7988	Tuyệt Học Chung 8	Juexue_Pub_08		22		4	100		7991	7991				6	5600000		JuexueBook		5600																																																		
+7989	Tuyệt Học Chung 9	Juexue_Pub_09		22		4	100		7991	7991				6	5600000		JuexueBook		5600																																																		
+7990	Tuyệt Học Chung 10	Juexue_Pub_10		22		4	100		7991	7991				6	5600000		JuexueBook		5600																																																		
+7991	Tuyệt Học-Kim Chung Tráo	Juexue_Faction01_01		22		4	100		7991	7991				6	4600000		JuexueBook		4600																																																		
+7992	Tuyệt Học-Huyết Chiến Bát Phương	Juexue_Faction01_02		22		4	100		7992	7992				6	4600000		JuexueBook		4600																																																		
+7993	Thiên Vương Tuyệt Học 3	Juexue_Faction01_03		22		4	100		7991	7991				6	4600000		JuexueBook		4600																																																		
+7994	Thiên Vương Tuyệt Học 4	Juexue_Faction01_04		22		4	100		7991	7991				6	4600000		JuexueBook		4600																																																		
+7995	Thiên Vương Tuyệt Học 5	Juexue_Faction01_05		22		4	100		7991	7991				6	4600000		JuexueBook		4600																																																		
+7996	Thiên Vương Tuyệt Học 6	Juexue_Faction01_06		22		4	100		7991	7991				6	4600000		JuexueBook		4600																																																		
+7997	Thiên Vương Tuyệt Học 7	Juexue_Faction01_07		22		4	100		7991	7991				6	4600000		JuexueBook		4600																																																		
+7998	Thiên Vương Tuyệt Học 8	Juexue_Faction01_08		22		4	100		7991	7991				6	4600000		JuexueBook		4600																																																		
+7999	Thiên Vương Tuyệt Học 9	Juexue_Faction01_09		22		4	100		7991	7991				6	4600000		JuexueBook		4600																																																		
+8000	Thiên Vương Tuyệt Học 10	Juexue_Faction01_10		22		4	100		7991	7991				6	4600000		JuexueBook		4600																																																		
+8001	Tuyệt Học-Từ Hàng Phổ Độ	Juexue_Faction02_01		22		4	100		8001	8001				6	4600000		JuexueBook		4600																																																		
+8002	Tuyệt Học-Bạch Lộ Ngưng Sương	Juexue_Faction02_02		22		4	100		8002	8002				6	4600000		JuexueBook		4600																																																		
+8003	Nga Mi Tuyệt Học 3	Juexue_Faction02_03		22		4	100		7991	7991				6	4600000		JuexueBook		4600																																																		
+8004	Nga Mi Tuyệt Học 4	Juexue_Faction02_04		22		4	100		7991	7991				6	4600000		JuexueBook		4600																																																		
+8005	Nga Mi Tuyệt Học 5	Juexue_Faction02_05		22		4	100		7991	7991				6	4600000		JuexueBook		4600																																																		
+8006	Nga Mi Tuyệt Học 6	Juexue_Faction02_06		22		4	100		7991	7991				6	4600000		JuexueBook		4600																																																		
+8007	Nga Mi Tuyệt Học 7	Juexue_Faction02_07		22		4	100		7991	7991				6	4600000		JuexueBook		4600																																																		
+8008	Nga Mi Tuyệt Học 8	Juexue_Faction02_08		22		4	100		7991	7991				6	4600000		JuexueBook		4600																																																		
+8009	Nga Mi Tuyệt Học 9	Juexue_Faction02_09		22		4	100		7991	7991				6	4600000		JuexueBook		4600																																																		
+8010	Nga Mi Tuyệt Học 10	Juexue_Faction02_10		22		4	100		7991	7991				6	4600000		JuexueBook		4600																																																		
+8011	Tuyệt Học-Hỏa Phượng Liêu Nguyên	Juexue_Faction03_01		22		4	100		8011	8011				6	4600000		JuexueBook		4600																																																		
+8012	Tuyệt Học-Đào Hoa Tiễn Thuật	Juexue_Faction03_02		22		4	100		8012	8012				6	4600000		JuexueBook		4600																																																		
+8013	Đào Hoa Tuyệt Học 3	Juexue_Faction03_03		22		4	100		7991	7991				6	4600000		JuexueBook		4600																																																		
+8014	Đào Hoa Tuyệt Học 4	Juexue_Faction03_04		22		4	100		7991	7991				6	4600000		JuexueBook		4600																																																		
+8015	Đào Hoa Tuyệt Học 5	Juexue_Faction03_05		22		4	100		7991	7991				6	4600000		JuexueBook		4600																																																		
+8016	Đào Hoa Tuyệt Học 6	Juexue_Faction03_06		22		4	100		7991	7991				6	4600000		JuexueBook		4600																																																		
+8017	Đào Hoa Tuyệt Học 7	Juexue_Faction03_07		22		4	100		7991	7991				6	4600000		JuexueBook		4600																																																		
+8018	Đào Hoa Tuyệt Học 8	Juexue_Faction03_08		22		4	100		7991	7991				6	4600000		JuexueBook		4600																																																		
+8019	Đào Hoa Tuyệt Học 9	Juexue_Faction03_09		22		4	100		7991	7991				6	4600000		JuexueBook		4600																																																		
+8020	Đào Hoa Tuyệt Học 10	Juexue_Faction03_10		22		4	100		7991	7991				6	4600000		JuexueBook		4600																																																		
+8021	Tuyệt Học-Bạch Hồng Quán Nhật	Juexue_Faction04_01		22		4	100		8021	8021				6	4600000		JuexueBook		4600																																																		
+8022	Tuyệt Học-Thất Thám Xà Bàn	Juexue_Faction04_02		22		4	100		8022	8022				6	4600000		JuexueBook		4600																																																		
+8023	Tiêu Dao Tuyệt Học 3	Juexue_Faction04_03		22		4	100		7991	7991				6	4600000		JuexueBook		4600																																																		
+8024	Tiêu Dao Tuyệt Học 4	Juexue_Faction04_04		22		4	100		7991	7991				6	4600000		JuexueBook		4600																																																		
+8025	Tiêu Dao Tuyệt Học 5	Juexue_Faction04_05		22		4	100		7991	7991				6	4600000		JuexueBook		4600																																																		
+8026	Tiêu Dao Tuyệt Học 6	Juexue_Faction04_06		22		4	100		7991	7991				6	4600000		JuexueBook		4600																																																		
+8027	Tiêu Dao Tuyệt Học 7	Juexue_Faction04_07		22		4	100		7991	7991				6	4600000		JuexueBook		4600																																																		
+8028	Tiêu Dao Tuyệt Học 8	Juexue_Faction04_08		22		4	100		7991	7991				6	4600000		JuexueBook		4600																																																		
+8029	Tiêu Dao Tuyệt Học 9	Juexue_Faction04_09		22		4	100		7991	7991				6	4600000		JuexueBook		4600																																																		
+8030	Tiêu Dao Tuyệt Học 10	Juexue_Faction04_10		22		4	100		7991	7991				6	4600000		JuexueBook		4600																																																		
+8031	Tuyệt Học-Vô Ngã Vô Kiếm	Juexue_Faction05_01		22		4	100		8031	8031				6	4600000		JuexueBook		4600																																																		
+8032	Tuyệt Học-Tọa Vọng Vô Ngã	Juexue_Faction05_02		22		4	100		8032	8032				6	4600000		JuexueBook		4600																																																		
+8033	Võ Đang Tuyệt Học 3	Juexue_Faction05_03		22		4	100		7991	7991				6	4600000		JuexueBook		4600																																																		
+8034	Võ Đang Tuyệt Học 4	Juexue_Faction05_04		22		4	100		7991	7991				6	4600000		JuexueBook		4600																																																		
+8035	Võ Đang Tuyệt Học 5	Juexue_Faction05_05		22		4	100		7991	7991				6	4600000		JuexueBook		4600																																																		
+8036	Võ Đang Tuyệt Học 6	Juexue_Faction05_06		22		4	100		7991	7991				6	4600000		JuexueBook		4600																																																		
+8037	Võ Đang Tuyệt Học 7	Juexue_Faction05_07		22		4	100		7991	7991				6	4600000		JuexueBook		4600																																																		
+8038	Võ Đang Tuyệt Học 8	Juexue_Faction05_08		22		4	100		7991	7991				6	4600000		JuexueBook		4600																																																		
+8039	Võ Đang Tuyệt Học 9	Juexue_Faction05_09		22		4	100		7991	7991				6	4600000		JuexueBook		4600																																																		
+8040	Võ Đang Tuyệt Học 10	Juexue_Faction05_10		22		4	100		7991	7991				6	4600000		JuexueBook		4600																																																		
+8041	Tuyệt Học-Tử Vong Hồi Toàn	Juexue_Faction06_01		22		4	100		8041	8041				6	4600000		JuexueBook		4600																																																		
+8042	Tuyệt Học-Huyết Nguyệt Chi Ảnh 	Juexue_Faction06_02		22		4	100		8042	8042				6	4600000		JuexueBook		4600																																																		
+8043	Thiên Nhẫn Tuyệt Học 3	Juexue_Faction06_03		22		4	100		7991	7991				6	4600000		JuexueBook		4600																																																		
+8044	Thiên Nhẫn Tuyệt Học 4	Juexue_Faction06_04		22		4	100		7991	7991				6	4600000		JuexueBook		4600																																																		
+8045	Thiên Nhẫn Tuyệt Học 5	Juexue_Faction06_05		22		4	100		7991	7991				6	4600000		JuexueBook		4600																																																		
+8046	Thiên Nhẫn Tuyệt Học 6	Juexue_Faction06_06		22		4	100		7991	7991				6	4600000		JuexueBook		4600																																																		
+8047	Thiên Nhẫn Tuyệt Học 7	Juexue_Faction06_07		22		4	100		7991	7991				6	4600000		JuexueBook		4600																																																		
+8048	Thiên Nhẫn Tuyệt Học 8	Juexue_Faction06_08		22		4	100		7991	7991				6	4600000		JuexueBook		4600																																																		
+8049	Thiên Nhẫn Tuyệt Học 9	Juexue_Faction06_09		22		4	100		7991	7991				6	4600000		JuexueBook		4600																																																		
+8050	Thiên Nhẫn Tuyệt Học 10	Juexue_Faction06_10		22		4	100		7991	7991				6	4600000		JuexueBook		4600																																																		
+8051	Tuyệt Học-Đại Lực Kim Cang Chỉ	Juexue_Faction07_01		22		4	100		8051	8051				6	4600000		JuexueBook		4600																																																		
+8052	Tuyệt Học-La Hán Trận	Juexue_Faction07_02		22		4	100		8052	8052				6	4600000		JuexueBook		4600																																																		
+8053	Thiếu Lâm Tuyệt Học 3	Juexue_Faction07_03		22		4	100		7991	7991				6	4600000		JuexueBook		4600																																																		
+8054	Thiếu Lâm Tuyệt Học 4	Juexue_Faction07_04		22		4	100		7991	7991				6	4600000		JuexueBook		4600																																																		
+8055	Thiếu Lâm Tuyệt Học 5	Juexue_Faction07_05		22		4	100		7991	7991				6	4600000		JuexueBook		4600																																																		
+8056	Thiếu Lâm Tuyệt Học 6	Juexue_Faction07_06		22		4	100		7991	7991				6	4600000		JuexueBook		4600																																																		
+8057	Thiếu Lâm Tuyệt Học 7	Juexue_Faction07_07		22		4	100		7991	7991				6	4600000		JuexueBook		4600																																																		
+8058	Thiếu Lâm Tuyệt Học 8	Juexue_Faction07_08		22		4	100		7991	7991				6	4600000		JuexueBook		4600																																																		
+8059	Thiếu Lâm Tuyệt Học 9	Juexue_Faction07_09		22		4	100		7991	7991				6	4600000		JuexueBook		4600																																																		
+8060	Thiếu Lâm Tuyệt Học 10	Juexue_Faction07_10		22		4	100		7991	7991				6	4600000		JuexueBook		4600																																																		
+8061	Tuyệt Học-Triệu Hồi Bảo Bảo	Juexue_Faction08_01		22		4	100		8061	8061				6	4600000		JuexueBook		4600																																																		
+8062	Tuyệt Học-Băng Tâm Tuyết Liên	Juexue_Faction08_02		22		4	100		8062	8062				6	4600000		JuexueBook		4600																																																		
+8063	Thúy Yên Tuyệt Học 3	Juexue_Faction08_03		22		4	100		7991	7991				6	4600000		JuexueBook		4600																																																		
+8064	Thúy Yên Tuyệt Học 4	Juexue_Faction08_04		22		4	100		7991	7991				6	4600000		JuexueBook		4600																																																		
+8065	Thúy Yên Tuyệt Học 5	Juexue_Faction08_05		22		4	100		7991	7991				6	4600000		JuexueBook		4600																																																		
+8066	Thúy Yên Tuyệt Học 6	Juexue_Faction08_06		22		4	100		7991	7991				6	4600000		JuexueBook		4600																																																		
+8067	Thúy Yên Tuyệt Học 7	Juexue_Faction08_07		22		4	100		7991	7991				6	4600000		JuexueBook		4600																																																		
+8068	Thúy Yên Tuyệt Học 8	Juexue_Faction08_08		22		4	100		7991	7991				6	4600000		JuexueBook		4600																																																		
+8069	Thúy Yên Tuyệt Học 9	Juexue_Faction08_09		22		4	100		7991	7991				6	4600000		JuexueBook		4600																																																		
+8070	Thúy Yên Tuyệt Học 10	Juexue_Faction08_10		22		4	100		7991	7991				6	4600000		JuexueBook		4600																																																		
+8071	Tuyệt Học-Bạo Vũ Lê Hoa	Juexue_Faction09_01		22		4	100		8071	8071				6	4600000		JuexueBook		4600																																																		
+8072	Tuyệt Học-Cửu Cung Phi Tinh	Juexue_Faction09_02		22		4	100		8072	8072				6	4600000		JuexueBook		4600																																																		
+8073	Đường Môn Tuyệt Học 3	Juexue_Faction09_03		22		4	100		7991	7991				6	4600000		JuexueBook		4600																																																		
+8074	Đường Môn Tuyệt Học 4	Juexue_Faction09_04		22		4	100		7991	7991				6	4600000		JuexueBook		4600																																																		
+8075	Đường Môn Tuyệt Học 5	Juexue_Faction09_05		22		4	100		7991	7991				6	4600000		JuexueBook		4600																																																		
+8076	Đường Môn Tuyệt Học 6	Juexue_Faction09_06		22		4	100		7991	7991				6	4600000		JuexueBook		4600																																																		
+8077	Đường Môn Tuyệt Học 7	Juexue_Faction09_07		22		4	100		7991	7991				6	4600000		JuexueBook		4600																																																		
+8078	Đường Môn Tuyệt Học 8	Juexue_Faction09_08		22		4	100		7991	7991				6	4600000		JuexueBook		4600																																																		
+8079	Đường Môn Tuyệt Học 9	Juexue_Faction09_09		22		4	100		7991	7991				6	4600000		JuexueBook		4600																																																		
+8080	Đường Môn Tuyệt Học 10	Juexue_Faction09_10		22		4	100		7991	7991				6	4600000		JuexueBook		4600																																																		
+8081	Tuyệt Học-Hỗn Độn Kiếm Trận	Juexue_Faction10_01		22		4	100		8081	8081				6	4600000		JuexueBook		4600																																																		
+8082	Tuyệt Học-Tiếu Phong Tam Liên Kích	Juexue_Faction10_02		22		4	100		8082	8082				6	4600000		JuexueBook		4600																																																		
+8083	Côn Lôn Tuyệt Học 3	Juexue_Faction10_03		22		4	100		7991	7991				6	4600000		JuexueBook		4600																																																		
+8084	Côn Lôn Tuyệt Học 4	Juexue_Faction10_04		22		4	100		7991	7991				6	4600000		JuexueBook		4600																																																		
+8085	Côn Lôn Tuyệt Học 5	Juexue_Faction10_05		22		4	100		7991	7991				6	4600000		JuexueBook		4600																																																		
+8086	Côn Lôn Tuyệt Học 6	Juexue_Faction10_06		22		4	100		7991	7991				6	4600000		JuexueBook		4600																																																		
+8087	Côn Lôn Tuyệt Học 7	Juexue_Faction10_07		22		4	100		7991	7991				6	4600000		JuexueBook		4600																																																		
+8088	Côn Lôn Tuyệt Học 8	Juexue_Faction10_08		22		4	100		7991	7991				6	4600000		JuexueBook		4600																																																		
+8089	Côn Lôn Tuyệt Học 9	Juexue_Faction10_09		22		4	100		7991	7991				6	4600000		JuexueBook		4600																																																		
+8090	Côn Lôn Tuyệt Học 10	Juexue_Faction10_10		22		4	100		7991	7991				6	4600000		JuexueBook		4600																																																		
+8091	Tuyệt Học-Hàng Long Hữu Hối	Juexue_Faction11_01		22		4	100		8091	8091				6	4600000		JuexueBook		4600																																																		
+8092	Tuyệt Học-Long Chiến Vu Dã	Juexue_Faction11_02		22		4	100		8092	8092				6	4600000		JuexueBook		4600																																																		
+8093	Cái Bang Tuyệt Học 3	Juexue_Faction11_03		22		4	100		7991	7991				6	4600000		JuexueBook		4600																																																		
+8094	Cái Bang Tuyệt Học 4	Juexue_Faction11_04		22		4	100		7991	7991				6	4600000		JuexueBook		4600																																																		
+8095	Cái Bang Tuyệt Học 5	Juexue_Faction11_05		22		4	100		7991	7991				6	4600000		JuexueBook		4600																																																		
+8096	Cái Bang Tuyệt Học 6	Juexue_Faction11_06		22		4	100		7991	7991				6	4600000		JuexueBook		4600																																																		
+8097	Cái Bang Tuyệt Học 7	Juexue_Faction11_07		22		4	100		7991	7991				6	4600000		JuexueBook		4600																																																		
+8098	Cái Bang Tuyệt Học 8	Juexue_Faction11_08		22		4	100		7991	7991				6	4600000		JuexueBook		4600																																																		
+8099	Cái Bang Tuyệt Học 9	Juexue_Faction11_09		22		4	100		7991	7991				6	4600000		JuexueBook		4600																																																		
+8100	Cái Bang Tuyệt Học 10	Juexue_Faction11_10		22		4	100		7991	7991				6	4600000		JuexueBook		4600																																																		
+8101	Tuyệt Học-Ngũ Độc Địch Pháp	Juexue_Faction12_01		22		4	100		8101	8101				6	4600000		JuexueBook		4600																																																		
+8102	Tuyệt Học-Ngự Cổ Tâm Kinh	Juexue_Faction12_02		22		4	100		8102	8102				6	4600000		JuexueBook		4600																																																		
+8103	Ngũ Độc Tuyệt Học 3	Juexue_Faction12_03		22		4	100		7991	7991				6	4600000		JuexueBook		4600																																																		
+8104	Ngũ Độc Tuyệt Học 4	Juexue_Faction12_04		22		4	100		7991	7991				6	4600000		JuexueBook		4600																																																		
+8105	Ngũ Độc Tuyệt Học 5	Juexue_Faction12_05		22		4	100		7991	7991				6	4600000		JuexueBook		4600																																																		
+8106	Ngũ Độc Tuyệt Học 6	Juexue_Faction12_06		22		4	100		7991	7991				6	4600000		JuexueBook		4600																																																		
+8107	Ngũ Độc Tuyệt Học 7	Juexue_Faction12_07		22		4	100		7991	7991				6	4600000		JuexueBook		4600																																																		
+8108	Ngũ Độc Tuyệt Học 8	Juexue_Faction12_08		22		4	100		7991	7991				6	4600000		JuexueBook		4600																																																		
+8109	Ngũ Độc Tuyệt Học 9	Juexue_Faction12_09		22		4	100		7991	7991				6	4600000		JuexueBook		4600																																																		
+8110	Ngũ Độc Tuyệt Học 10	Juexue_Faction12_10		22		4	100		7991	7991				6	4600000		JuexueBook		4600																																																		
+8111	Tuyệt Học-Ngọc Tuyền Ngư Dược	Juexue_Faction13_01		22		4	100		8111	8111				6	4600000		JuexueBook		4600																																																		
+8112	Tuyệt Học-Ánh Ba Tỏa Lan	Juexue_Faction13_02		22		4	100		8112	8112				6	4600000		JuexueBook		4600																																																		
+8113	Tàng Kiếm Tuyệt Học 3	Juexue_Faction13_03		22		4	100		7991	7991				6	4600000		JuexueBook		4600																																																		
+8114	Tàng Kiếm Tuyệt Học 4	Juexue_Faction13_04		22		4	100		7991	7991				6	4600000		JuexueBook		4600																																																		
+8115	Tàng Kiếm Tuyệt Học 5	Juexue_Faction13_05		22		4	100		7991	7991				6	4600000		JuexueBook		4600																																																		
+8116	Tàng Kiếm Tuyệt Học 6	Juexue_Faction13_06		22		4	100		7991	7991				6	4600000		JuexueBook		4600																																																		
+8117	Tàng Kiếm Tuyệt Học 7	Juexue_Faction13_07		22		4	100		7991	7991				6	4600000		JuexueBook		4600																																																		
+8118	Tàng Kiếm Tuyệt Học 8	Juexue_Faction13_08		22		4	100		7991	7991				6	4600000		JuexueBook		4600																																																		
+8119	Tàng Kiếm Tuyệt Học 9	Juexue_Faction13_09		22		4	100		7991	7991				6	4600000		JuexueBook		4600																																																		
+8120	Tàng Kiếm Tuyệt Học 10	Juexue_Faction13_10		22		4	100		7991	7991				6	4600000		JuexueBook		4600																																																		
+8121	Tuyệt Học-Dư Âm Nhiễu Lương	Juexue_Faction14_01		22		4	100		8121	8121				6	4600000		JuexueBook		4600																																																		
+8122	Tuyệt Học-Vân Sinh Kết Hải	Juexue_Faction14_02		22		4	100		8122	8122				6	4600000		JuexueBook		4600																																																		
+8123	Trường Ca Tuyệt Học 3	Juexue_Faction14_03		22		4	100		7991	7991				6	4600000		JuexueBook		4600																																																		
+8124	Trường Ca Tuyệt Học 4	Juexue_Faction14_04		22		4	100		7991	7991				6	4600000		JuexueBook		4600																																																		
+8125	Trường Ca Tuyệt Học 5	Juexue_Faction14_05		22		4	100		7991	7991				6	4600000		JuexueBook		4600																																																		
+8126	Trường Ca Tuyệt Học 6	Juexue_Faction14_06		22		4	100		7991	7991				6	4600000		JuexueBook		4600																																																		
+8127	Trường Ca Tuyệt Học 7	Juexue_Faction14_07		22		4	100		7991	7991				6	4600000		JuexueBook		4600																																																		
+8128	Trường Ca Tuyệt Học 8	Juexue_Faction14_08		22		4	100		7991	7991				6	4600000		JuexueBook		4600																																																		
+8129	Trường Ca Tuyệt Học 9	Juexue_Faction14_09		22		4	100		7991	7991				6	4600000		JuexueBook		4600																																																		
+8130	Trường Ca Tuyệt Học 10	Juexue_Faction14_10		22		4	100		7991	7991				6	4600000		JuexueBook		4600																																																		
+8131	Tuyệt Học-Cầm Sắt Hòa Minh	Juexue_Faction15_01		22		4	100		8131	8131				6	4600000		JuexueBook		4600																																																		
+8132	Tuyệt Học-Mai Hoa Tam Lộng	Juexue_Faction15_02		22		4	100		8132	8132				6	4600000		JuexueBook		4600																																																		
+8133	Thiên Sơn Tuyệt Học 3	Juexue_Faction15_03		22		4	100		7991	7991				6	4600000		JuexueBook		4600																																																		
+8134	Thiên Sơn Tuyệt Học 4	Juexue_Faction15_04		22		4	100		7991	7991				6	4600000		JuexueBook		4600																																																		
+8135	Thiên Sơn Tuyệt Học 5	Juexue_Faction15_05		22		4	100		7991	7991				6	4600000		JuexueBook		4600																																																		
+8136	Thiên Sơn Tuyệt Học 6	Juexue_Faction15_06		22		4	100		7991	7991				6	4600000		JuexueBook		4600																																																		
+8137	Thiên Sơn Tuyệt Học 7	Juexue_Faction15_07		22		4	100		7991	7991				6	4600000		JuexueBook		4600																																																		
+8138	Thiên Sơn Tuyệt Học 8	Juexue_Faction15_08		22		4	100		7991	7991				6	4600000		JuexueBook		4600																																																		
+8139	Thiên Sơn Tuyệt Học 9	Juexue_Faction15_09		22		4	100		7991	7991				6	4600000		JuexueBook		4600																																																		
+8140	Thiên Sơn Tuyệt Học 10	Juexue_Faction15_10		22		4	100		7991	7991				6	4600000		JuexueBook		4600																																																		
+8141	Tuyệt Học-Dục Huyết Đạo Phong	Juexue_Faction16_01		22		4	100		8141	8141				6	4600000		JuexueBook		4600																																																		
+8142	Tuyệt Học-Hiệp Sơn Siêu Hải	Juexue_Faction16_02		22		4	100		8142	8142				6	4600000		JuexueBook		4600																																																		
+8143	Bá Đao Tuyệt Học 3	Juexue_Faction16_03		22		4	100		7991	7991				6	4600000		JuexueBook		4600																																																		
+8144	Bá Đao Tuyệt Học 4	Juexue_Faction16_04		22		4	100		7991	7991				6	4600000		JuexueBook		4600																																																		
+8145	Bá Đao Tuyệt Học 5	Juexue_Faction16_05		22		4	100		7991	7991				6	4600000		JuexueBook		4600																																																		
+8146	Bá Đao Tuyệt Học 6	Juexue_Faction16_06		22		4	100		7991	7991				6	4600000		JuexueBook		4600																																																		
+8147	Bá Đao Tuyệt Học 7	Juexue_Faction16_07		22		4	100		7991	7991				6	4600000		JuexueBook		4600																																																		
+8148	Bá Đao Tuyệt Học 8	Juexue_Faction16_08		22		4	100		7991	7991				6	4600000		JuexueBook		4600																																																		
+8149	Bá Đao Tuyệt Học 9	Juexue_Faction16_09		22		4	100		7991	7991				6	4600000		JuexueBook		4600																																																		
+8150	Bá Đao Tuyệt Học 10	Juexue_Faction16_10		22		4	100		7991	7991				6	4600000		JuexueBook		4600																																																		
+8151	Tuyệt Học-Phong Tống Tử Hà	Juexue_Faction17_01		22		4	100		8151	8151				6	4600000		JuexueBook		4600																																																		
+8152	Tuyệt Học-Tiêu Sử Thừa Long	Juexue_Faction17_02		22		4	100		8152	8152				6	4600000		JuexueBook		4600																																																		
+8153	Hoa Sơn Tuyệt Học 3	Juexue_Faction17_03		22		4	100		7991	7991				6	4600000		JuexueBook		4600																																																		
+8154	Hoa Sơn Tuyệt Học 4	Juexue_Faction17_04		22		4	100		7991	7991				6	4600000		JuexueBook		4600																																																		
+8155	Hoa Sơn Tuyệt Học 5	Juexue_Faction17_05		22		4	100		7991	7991				6	4600000		JuexueBook		4600																																																		
+8156	Hoa Sơn Tuyệt Học 6	Juexue_Faction17_06		22		4	100		7991	7991				6	4600000		JuexueBook		4600																																																		
+8157	Hoa Sơn Tuyệt Học 7	Juexue_Faction17_07		22		4	100		7991	7991				6	4600000		JuexueBook		4600																																																		
+8158	Hoa Sơn Tuyệt Học 8	Juexue_Faction17_08		22		4	100		7991	7991				6	4600000		JuexueBook		4600																																																		
+8159	Hoa Sơn Tuyệt Học 9	Juexue_Faction17_09		22		4	100		7991	7991				6	4600000		JuexueBook		4600																																																		
+8160	Hoa Sơn Tuyệt Học 10	Juexue_Faction17_10		22		4	100		7991	7991				6	4600000		JuexueBook		4600																																																		
+9988	Tuyệt Học-Hỏa Quang Tàn Ảnh	Juexue_Faction18_01		22		4	100		9988	9988				6	4600000		JuexueBook		4600																																																		
+9989	Tuyệt Học-Bất Diệt Quang	Juexue_Faction18_02		22		4	100		9989	9989				6	4600000		JuexueBook		4600																																																		
+9990	Minh Giáo Tuyệt Học 3	Juexue_Faction18_03		22		4	100		9990	9990				6	4600000		JuexueBook		4600																																																		
+9991	Minh Giáo Tuyệt Học 4	Juexue_Faction18_04		22		4	100		9991	9991				6	4600000		JuexueBook		4600																																																		
+9992	Minh Giáo Tuyệt Học 5	Juexue_Faction18_05		22		4	100		9992	9992				6	4600000		JuexueBook		4600																																																		
+9993	Minh Giáo Tuyệt Học 6	Juexue_Faction18_06		22		4	100		9993	9993				6	4600000		JuexueBook		4600																																																		
+9994	Minh Giáo Tuyệt Học 7	Juexue_Faction18_07		22		4	100		9994	9994				6	4600000		JuexueBook		4600																																																		
+9995	Minh Giáo Tuyệt Học 8	Juexue_Faction18_08		22		4	100		9995	9995				6	4600000		JuexueBook		4600																																																		
+9996	Minh Giáo Tuyệt Học 9	Juexue_Faction18_09		22		4	100		9996	9996				6	4600000		JuexueBook		4600																																																		
+9997	Minh Giáo Tuyệt Học 10	Juexue_Faction18_10		22		4	100		9997	9997				6	4600000		JuexueBook		4600																																																		
+10557	Tuyệt Học-Nhất Dương Chỉ	Juexue_Faction19_01		22		4	100		10557	10557				6	4600000		JuexueBook		4600																																																		
+10558	Tuyệt Học-Ngũ La Khinh Yên	Juexue_Faction19_02		22		4	100		10558	10558				6	4600000		JuexueBook		4600																																																		
+10559	Đoàn Thị Tuyệt Học 3	Juexue_Faction19_03		22		4	100		10559	10559				6	4600000		JuexueBook		4600																																																		
+10560	Đoàn Thị Tuyệt Học 4	Juexue_Faction19_04		22		4	100		10560	10560				6	4600000		JuexueBook		4600																																																		
+10561	Đoàn Thị Tuyệt Học 5	Juexue_Faction19_05		22		4	100		10561	10561				6	4600000		JuexueBook		4600																																																		
+10562	Đoàn Thị Tuyệt Học 6	Juexue_Faction19_06		22		4	100		10562	10562				6	4600000		JuexueBook		4600																																																		
+10563	Đoàn Thị Tuyệt Học 7	Juexue_Faction19_07		22		4	100		10563	10563				6	4600000		JuexueBook		4600																																																		
+10564	Đoàn Thị Tuyệt Học 8	Juexue_Faction19_08		22		4	100		10564	10564				6	4600000		JuexueBook		4600																																																		
+10565	Đoàn Thị Tuyệt Học 9	Juexue_Faction19_09		22		4	100		10565	10565				6	4600000		JuexueBook		4600																																																		
+10566	Đoàn Thị Tuyệt Học 10	Juexue_Faction19_10		22		4	100		10566	10566				6	4600000		JuexueBook		4600																																																		
+11285	Tuyệt Học-Vạn Hoa Bút Pháp	Juexue_Faction20_01		22		4	100		111285	111285				6	4600000		JuexueBook		4600																																																		
+11286	Tuyệt Học-Mặc Thủ Thành Quy	Juexue_Faction20_02		22		4	100		111286	111286				6	4600000		JuexueBook		4600																																																		
+11287	Vạn Hoa Tuyệt Học 3	Juexue_Faction20_03		22		4	100		111287	111287				6	4600000		JuexueBook		4600																																																		
+11288	Vạn Hoa Tuyệt Học 4	Juexue_Faction20_04		22		4	100		111288	111288				6	4600000		JuexueBook		4600																																																		
+11289	Vạn Hoa Tuyệt Học 5	Juexue_Faction20_05		22		4	100		111289	111289				6	4600000		JuexueBook		4600																																																		
+11290	Vạn Hoa Tuyệt Học 6	Juexue_Faction20_06		22		4	100		111290	111290				6	4600000		JuexueBook		4600																																																		
+11291	Vạn Hoa Tuyệt Học 7	Juexue_Faction20_07		22		4	100		111291	111291				6	4600000		JuexueBook		4600																																																		
+11292	Vạn Hoa Tuyệt Học 8	Juexue_Faction20_08		22		4	100		111292	111292				6	4600000		JuexueBook		4600																																																		
+11293	Vạn Hoa Tuyệt Học 9	Juexue_Faction20_09		22		4	100		111293	111293				6	4600000		JuexueBook		4600																																																		
+11294	Vạn Hoa Tuyệt Học 10	Juexue_Faction20_10		22		4	100		111294	111294				6	4600000		JuexueBook		4600																																																		

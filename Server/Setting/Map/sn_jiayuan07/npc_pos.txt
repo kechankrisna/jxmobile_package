@@ -1,0 +1,71 @@
+goto_ty	1205	6519
+Out_sn	1520	6495
+goto_sn	6171	18080
+Out_ty	5887	18062
+sn	906	3587
+sn	7329	9987
+ty	995	12577
+ty	12515	24113
+GoOut	1967	18145
+Entrance	2322	18120
+chuangong	1557	6592
+chuangong	1555	6424
+xuyuanshu	5532	21036
+mingxiang	1509	6521
+Chủ Tọa	4591	6510
+Khu vực thu hồi ngoài phòng 1	6593	15185
+Khu vực thu hồi ngoài phòng 1	8113	15978
+Khu vực thu hồi ngoài phòng 2	3341	20626
+Khu vực thu hồi ngoài phòng 2	4431	19794
+Khu vực thu hồi ngoài phòng 3	4915	20177
+Khu vực thu hồi ngoài phòng 3	5225	19249
+Khu vực thu hồi ngoài phòng 4	6522	18716
+Khu vực thu hồi ngoài phòng 4	5869	19309
+Khu vực thu hồi ngoài phòng 5	6318	16841
+Khu vực thu hồi ngoài phòng 5	5752	17426
+Khu vực thu hồi ngoài phòng 6	6514	16306
+Khu vực thu hồi ngoài phòng 6	5757	16586
+Khu vực thu hồi ngoài phòng 7	6513	16306
+Khu vực thu hồi ngoài phòng 7	6792	15691
+Khu vực thu hồi ngoài phòng 8	3234	18437
+Khu vực thu hồi ngoài phòng 8	3492	19088
+Khu vực thu hồi ngoài phòng 9	3769	19360
+Khu vực thu hồi ngoài phòng 9	3488	19070
+Khu vực thu hồi ngoài phòng 10	3229	20926
+Khu vực thu hồi ngoài phòng 10	3545	21350
+Khu vực thu hồi ngoài phòng 11	4381	21912
+Khu vực thu hồi ngoài phòng 11	4552	21651
+Khu vực thu hồi ngoài phòng 12	8104	16729
+Khu vực thu hồi ngoài phòng 12	8355	16945
+Khu vực thu hồi ngoài phòng 13	8783	17291
+Khu vực thu hồi ngoài phòng 13	8353	16902
+Khu vực thu hồi ngoài phòng 14	9448	15157
+Khu vực thu hồi ngoài phòng 14	9785	15527
+Khu vực thu hồi ngoài phòng 15	4862	14353
+Khu vực thu hồi ngoài phòng 15	6210	13986
+Khu vực thu hồi ngoài phòng 16	4161	21821
+Khu vực thu hồi ngoài phòng 16	4493	21576
+Khu vực thu hồi ngoài phòng 17	5894	18466
+Khu vực thu hồi ngoài phòng 17	6105	18204
+Khu thu hồi trong nhà 1	3877	8659
+Khu thu hồi trong nhà 1	5563	8778
+Điểm thú cưng 1	2332	18404
+Điểm thú cưng 1	2388	18348
+Điểm thú cưng 1	2421	18287
+Điểm thú cưng 1	2448	18209
+Điểm thú cưng 1	2482	18134
+Điểm thú cưng 1	2486	18062
+Điểm thú cưng 1	2456	18015
+Điểm thú cưng 1	2418	17926
+Điểm thú cưng 1	2374	17875
+Điểm thú cưng 1	2306	17825
+Điểm thú cưng 2	5892	18237
+Điểm thú cưng 2	5835	18194
+Điểm thú cưng 2	5801	18150
+Điểm thú cưng 2	5788	18109
+Điểm thú cưng 2	5779	18061
+Điểm thú cưng 2	5786	18012
+Điểm thú cưng 2	5806	17949
+Điểm thú cưng 2	5847	17925
+Điểm thú cưng 2	5883	17917
+Điểm thú cưng 2	5952	17926

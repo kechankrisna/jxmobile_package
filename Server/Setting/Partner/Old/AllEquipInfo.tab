@@ -1,0 +1,123 @@
+ItemTemplateId	Desc	FightPower	Attrib1Type	Attrib1Value1	Attrib1Value2	Attrib1Value3	Attrib2Type	Attrib2Value1	Attrib2Value2	Attrib2Value3	Attrib3Type	Attrib3Value1	Attrib3Value2	Attrib3Value3	Attrib4Type	Attrib4Value1	Attrib4Value2	Attrib4Value3	Attrib5Type	Attrib5Value1	Attrib5Value2	Attrib5Value3	Attrib6Type	Attrib6Value1	Attrib6Value2	Attrib6Value3	Attrib7Type	Attrib7Value1	Attrib7Value2	Attrib7Value3	Attrib8Type	Attrib8Value1	Attrib8Value2	Attrib8Value3	Attrib9Type	Attrib9Value1	Attrib9Value2	Attrib9Value3	Attrib10Type	Attrib10Value1	Attrib10Value2	Attrib10Value3
+137		100	lifemax_p	1			wood_resist_v	100																																		
+138		200	lifemax_p	2			wood_resist_v	110																																		
+139		300	lifemax_p	3			wood_resist_v	120																																		
+140		400	lifemax_p	4			wood_resist_v	130																																		
+141		500	lifemax_p	5			wood_resist_v	140																																		
+142		600	lifemax_p	6			wood_resist_v	150																																		
+143		100	lifemax_p	7			wood_resist_v	160																																		
+144		200	lifemax_p	8			wood_resist_v	170																																		
+145		300	lifemax_p	9			wood_resist_v	180																																		
+146		400	lifemax_p	10			wood_resist_v	190																																		
+147		500	lifemax_p	11			wood_resist_v	200																																		
+148		600	lifemax_p	12			wood_resist_v	210																																		
+137		100	lifemax_p	1			wood_resist_v	100																																		
+138		200	lifemax_p	2			wood_resist_v	110																																		
+139		300	lifemax_p	3			wood_resist_v	120																																		
+140		400	lifemax_p	4			wood_resist_v	130																																		
+141		500	lifemax_p	5			wood_resist_v	140																																		
+142		600	lifemax_p	6			wood_resist_v	150																																		
+143		100	lifemax_p	7			wood_resist_v	160																																		
+144		200	lifemax_p	8			wood_resist_v	170																																		
+145		300	lifemax_p	9			wood_resist_v	180																																		
+146		400	lifemax_p	10			wood_resist_v	190																																		
+147		500	lifemax_p	11			wood_resist_v	200																																		
+148		600	lifemax_p	12			wood_resist_v	210																																		
+603	Bùa Sinh Lực-Sơ	2	lifemax_v	600																																						
+609	Bùa Tấn Công-Sơ	2	basic_damage_v	30		30																																				
+615	Bùa Kháng Tất Cả-Sơ	2	all_series_resist_v	15																																						
+621	Bùa Chính Xác-Sơ	2	attackrate_v	120																																						
+627	Bùa Né Tránh-Sơ	2	defense_v	60																																						
+633	Bùa Bạo Kích-Sơ	2	deadlystrike_v	30																																						
+639	Bùa Bỏ Qua Né Tránh-Sơ	2	ignore_defense_v	60																																						
+645	Bùa Giảm Bạo Kích-Sơ	2	weaken_deadlystrike_v	30																																						
+651	Bùa Hiệu Quả-Sơ	2	add_seriesstate_rate_v	15																																						
+657	Bùa Giảm Hiệu Quả-Sơ	2	resist_allseriesstate_rate_v	15																																						
+663	Bùa Hồi Phục-Sơ	2	recover_life_v	120	75																																					
+604	Bùa Sinh Lực-Trung	10	lifemax_v	800																																						
+610	Bùa Tấn Công-Trung	10	basic_damage_v	40		40																																				
+616	Bùa Kháng Tất Cả-Trung	10	all_series_resist_v	20																																						
+622	Bùa Chính Xác-Trung	10	attackrate_v	160																																						
+628	Bùa Né Tránh-Trung	10	defense_v	80																																						
+634	Bùa Bạo Kích-Trung	10	deadlystrike_v	40																																						
+640	Bùa Bỏ Qua Né Tránh-Trung	10	ignore_defense_v	80																																						
+646	Bùa Giảm Bạo Kích-Trung	10	weaken_deadlystrike_v	40																																						
+652	Bùa Hiệu Quả-Trung	10	add_seriesstate_rate_v	20																																						
+658	Bùa Giảm Hiệu Quả-Trung	10	resist_allseriesstate_rate_v	20																																						
+664	Bùa Hồi Phục-Trung	10	recover_life_v	160	75																																					
+605	Bùa Sinh Lực-Cao	30	lifemax_v	1200																																						
+611	Bùa Tấn Công-Cao	30	basic_damage_v	60		60																																				
+617	Bùa Kháng Tất Cả-Cao	30	all_series_resist_v	30																																						
+623	Bùa Chính Xác-Cao	30	attackrate_v	240																																						
+629	Bùa Né Tránh-Cao	30	defense_v	120																																						
+635	Bùa Bạo Kích-Cao	30	deadlystrike_v	60																																						
+641	Bùa Bỏ Qua Né Tránh-Cao	30	ignore_defense_v	120																																						
+647	Bùa Giảm Bạo Kích-Cao	30	weaken_deadlystrike_v	60																																						
+653	Bùa Hiệu Quả-Cao	30	add_seriesstate_rate_v	30																																						
+659	Bùa Giảm Hiệu Quả-Cao	30	resist_allseriesstate_rate_v	30																																						
+665	Bùa Hồi Phục-Cao	30	recover_life_v	240	75																																					
+727	Bùa Thao Thiết-Cao	50	all_series_resist_v	30			lifemax_v	200																																		
+728	Bùa Đế Giang-Cao	50	attackrate_v	240			basic_damage_v	10		10																																
+729	Bùa Chúc Long-Cao	50	defense_v	120			lifemax_v	200																																		
+730	Bùa Quỳ Ngưu-Cao	50	deadlystrike_v	60			basic_damage_v	10		10																																
+731	Bùa Cùng Kỳ-Cao	50	ignore_defense_v	120			basic_damage_v	10		10																																
+732	Bùa Côn Bằng-Cao	50	weaken_deadlystrike_v	60			lifemax_v	200																																		
+733	Bùa Đằng Xà-Cao	50	add_seriesstate_rate_v	30			basic_damage_v	10		10																																
+734	Bùa Tì Hưu-Cao	50	resist_allseriesstate_rate_v	30			lifemax_v	200																																		
+606	Bùa Sinh Lực-Cường Hiệu	90	lifemax_v	1600																																						
+612	Bùa Tấn Công-Cường Hiệu	90	basic_damage_v	80		80																																				
+618	Bùa Kháng Tất Cả-Cường Hiệu	90	all_series_resist_v	40																																						
+624	Bùa Chính Xác-Cường Hiệu	90	attackrate_v	320																																						
+630	Bùa Né Tránh-Cường Hiệu	90	defense_v	160																																						
+636	Bùa Bạo Kích-Cường Hiệu	90	deadlystrike_v	80																																						
+642	Bùa Bỏ Qua Né Tránh-Cường Hiệu	90	ignore_defense_v	160																																						
+648	Bùa Giảm Bạo Kích-Cường Hiệu	90	weaken_deadlystrike_v	80																																						
+654	Bùa Hiệu Quả-Cường Hiệu	90	add_seriesstate_rate_v	40																																						
+660	Bùa Giảm Hiệu Quả-Cường Hiệu	90	resist_allseriesstate_rate_v	40																																						
+666	Bùa Hồi Phục-Cường Hiệu	90	recover_life_v	320	75																																					
+669	Bùa Thao Thiết-Cường Hiệu	170	all_series_resist_v	40			lifemax_v	400																																		
+670	Bùa Đế Giang-Cường Hiệu	170	attackrate_v	320			basic_damage_v	20		20																																
+671	Bùa Chúc Long-Cường Hiệu	170	defense_v	160			lifemax_v	400																																		
+672	Bùa Quỳ Ngưu-Cường Hiệu	170	deadlystrike_v	80			basic_damage_v	20		20																																
+673	Bùa Cùng Kỳ-Cường Hiệu	170	ignore_defense_v	160			basic_damage_v	20		20																																
+674	Bùa Côn Bằng-Cường Hiệu	170	weaken_deadlystrike_v	80			lifemax_v	400																																		
+675	Bùa Đằng Xà-Cường Hiệu	170	add_seriesstate_rate_v	40			basic_damage_v	20		20																																
+676	Bùa Tì Hưu-Cường Hiệu	170	resist_allseriesstate_rate_v	40			lifemax_v	400																																		
+607	Bùa Sinh Lực-Đặc Hiệu	360	lifemax_v	2400																																						
+613	Bùa Tấn Công-Đặc Hiệu	360	basic_damage_v	120		120																																				
+619	Bùa Kháng Tất Cả-Đặc Hiệu	360	all_series_resist_v	60																																						
+625	Bùa Chính Xác-Đặc Hiệu	360	attackrate_v	480																																						
+631	Bùa Né Tránh-Đặc Hiệu	360	defense_v	240																																						
+637	Bùa Bạo Kích-Đặc Hiệu	360	deadlystrike_v	120																																						
+643	Bùa Bỏ Qua Né Tránh-Đặc Hiệu	360	ignore_defense_v	240																																						
+649	Bùa Giảm Bạo Kích-Đặc Hiệu	360	weaken_deadlystrike_v	120																																						
+655	Bùa Hiệu Quả-Đặc Hiệu	360	add_seriesstate_rate_v	60																																						
+661	Bùa Giảm Hiệu Quả-Đặc Hiệu	360	resist_allseriesstate_rate_v	60																																						
+667	Bùa Hồi Phục-Đặc Hiệu	360	recover_life_v	480	75																																					
+677	Bùa Huyền Vũ-Đặc Hiệu	1080	lifemax_v	2400			all_series_resist_v	20																																		
+678	Bùa Thanh Long-Đặc Hiệu	1080	basic_damage_v	120		120	attackrate_v	160																																		
+679	Bùa Phượng Hoàng-Đặc Hiệu	1080	lifemax_v	2400			defense_v	80																																		
+680	Bùa Bạch Hổ-Đặc Hiệu	1080	basic_damage_v	120		120	deadlystrike_v	40																																		
+681	Bùa Chu Tước-Đặc Hiệu	1080	basic_damage_v	120		120	ignore_defense_v	80																																		
+682	Bùa Ứng Long-Đặc Hiệu	1080	lifemax_v	2400			weaken_deadlystrike_v	40																																		
+683	Bùa Bạch Trạch-Đặc Hiệu	1080	basic_damage_v	120		120	add_seriesstate_rate_v	20																																		
+684	Bùa Kỳ Lân-Đặc Hiệu	1080	lifemax_v	2400			resist_allseriesstate_rate_v	20																																		
+608	Bùa Sinh Lực-Hoàn Mỹ	1440	lifemax_v	4000																																						
+614	Bùa Tấn Công-Hoàn Mỹ	1440	basic_damage_v	200		200																																				
+620	Bùa Kháng Tất Cả-Hoàn Mỹ	1440	all_series_resist_v	100																																						
+626	Bùa Chính Xác-Hoàn Mỹ	1440	attackrate_v	800																																						
+632	Bùa Né Tránh-Hoàn Mỹ	1440	defense_v	400																																						
+638	Bùa Bạo Kích-Hoàn Mỹ	1440	deadlystrike_v	200																																						
+644	Bùa Bỏ Qua Né Tránh-Hoàn Mỹ	1440	ignore_defense_v	400																																						
+650	Bùa Giảm Bạo Kích-Hoàn Mỹ	1440	weaken_deadlystrike_v	200																																						
+656	Bùa Hiệu Quả-Hoàn Mỹ	1440	add_seriesstate_rate_v	100																																						
+662	Bùa Giảm Hiệu Quả-Hoàn Mỹ	1440	resist_allseriesstate_rate_v	100																																						
+668	Bùa Hồi Phục-Hoàn Mỹ	1440	recover_life_v	800	75																																					
+685	Bùa Huyền Vũ-Hoàn Mỹ	5040	lifemax_v	4000			all_series_resist_v	50																																		
+686	Bùa Thanh Long-Hoàn Mỹ	5040	basic_damage_v	200		200	attackrate_v	400																																		
+687	Bùa Phượng Hoàng-Hoàn Mỹ	5040	lifemax_v	4000			defense_v	200																																		
+688	Bùa Bạch Hổ-Hoàn Mỹ	5040	basic_damage_v	200		200	deadlystrike_v	100																																		
+689	Bùa Chu Tước-Hoàn Mỹ	5040	basic_damage_v	200		200	ignore_defense_v	200																																		
+690	Bùa Ứng Long-Hoàn Mỹ	5040	lifemax_v	4000			weaken_deadlystrike_v	100																																		
+691	Bùa Bạch Trạch-Hoàn Mỹ	5040	basic_damage_v	200		200	add_seriesstate_rate_v	50																																		
+692	Bùa Kỳ Lân-Hoàn Mỹ	5040	lifemax_v	4000			resist_allseriesstate_rate_v	50																																		

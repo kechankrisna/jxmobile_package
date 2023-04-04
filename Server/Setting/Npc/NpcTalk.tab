@@ -1,0 +1,160 @@
+Index	TemplateID	Name	Content	MapID	IntervalMin	IntervalMax	Duration	Distance	ActID	Action	Desc	nSoundId
+citynpc1	626	Huyền Thiên Đạo Nhân-Thành Thị	Đạo khả đạo, phi thường đạo, danh khả danh, phi hằng danh.	10	10	15	3	3				
+citynpc1	626	Huyền Thiên Đạo Nhân-Thành Thị	Võ Đạo Đức Kinh xuất hiện, võ lâm lại dậy sóng...	10	10	15	3	3		3	die	
+citynpc2	621	Trương Lâm Tâm-Thành Thị	Ca ca suy sụp tinh thần, biết khuyên như thế nào đây?	10	10	15	3	3		5	bat	
+citynpc2	621	Trương Lâm Tâm-Thành Thị	Hừ! Ta nhất định phải trừng trị tên Hoa Tặc này!	10	10	15	3	3		6	qg	
+citynpc2	621	Trương Lâm Tâm-Thành Thị	Kiếm khách áo trắng trẻ tuổi rất giống ca ca ta.	10	10	15	3	3		7	sta	
+citynpc3	97	Nguyệt My Nhi-Thành Thị	Dạo này giang hồ nhiều Ác Đồ, không biết ngươi có thể giúp ta không?	10	10	15	3	3		8	bat	
+citynpc3	97	Nguyệt My Nhi-Thành Thị	Dựa vào võ công có thể khiến「Phi Long Bảo」của ta trở thành「Thống Lĩnh Tam Minh」sao?	10	10	15	3	3				
+citynpc3	97	Nguyệt My Nhi-Thành Thị	Nhìn gì? Nhìn nữa ta sẽ bắt ngươi đấy!	10	10	15	3	3	16	9	bat	
+citynpc4	90	Nạp Lan Chân-Thành Thị	Nếu chọn giữa việc ngươi vang danh võ lâm, công phu tuyệt thế thì ta vẫn mong ngươi có cuộc sống bình an hơn.	10	10	15	3	3		15	at	
+citynpc4	90	Nạp Lan Chân-Thành Thị	Tương Dương Thành náo nhiệt phồn hoa, nhưng sao ta vẫn không thể quên nơi đó.	10	10	15	3	3		16	at01	
+citynpc4	90	Nạp Lan Chân-Thành Thị	Nơi đây đường đông người nhiều, cẩn thận bị lạc.	10	10	15	3	3		17	at02	
+citynpc5	622	Tử Hiên-Thành Thị	Khách quan đã chọn được ô vừa ý chưa?	10	10	15	3	3		18	at03	
+citynpc5	622	Tử Hiên-Thành Thị	Dương đại ca, là ta có lỗi với người...	10	10	15	3	3		19	at04	
+citynpc5	622	Tử Hiên-Thành Thị	Ô dùng để che mưa, nhưng không che được cái xấu. Trác đại ca, có đáng gì không?	10	10	15	3	3		20	jfd	
+citynpc7	623	Tiểu Lý Tử-Thành Thị	Ôi, Tương Dương Thành lớn thật! Hay quá! Cha ta cuối cùng cũng cho ta đi chơi!	10	10	15	3	3		21	jn01	
+citynpc7	623	Tiểu Lý Tử-Thành Thị	Chàng trai khôi ngô cầm quạt có vẻ rất giỏi võ công!	10	10	15	3	3		22	jn02	
+citynpc7	623	Tiểu Lý Tử-Thành Thị	Hừ! Ta phải tìm cơ hội tốt để bái sư thì mới mong có ngày thành danh.	10	10	15	3	3		23	jn03	
+citynpc8	100	Mạnh Tri Thu-Thành Thị	Quan khách hãy đến chỗ ta, ta có thể giúp người chế tạo binh khí tốt!	10	10	15	3	3		24	jn04	
+citynpc8	100	Mạnh Tri Thu-Thành Thị	Ha ha! Ở ẩn trong thành thị, sống thế này cũng thú vị đó chứ!	10	10	15	3	3		25	jn05	
+citynpc9	625	Trương Như Mộng-Thành Thị	Nếu có cơ hội, mong được cùng Độc Cô huynh đối ẩm!	10	10	15	3	3		26	jf	
+citynpc9	625	Trương Như Mộng-Thành Thị	Muội muội, tâm tư của muội sao ta lại không biết, chỉ là...	10	10	15	3	3		27	jn02b	
+citynpc9	625	Trương Như Mộng-Thành Thị	Nam Cung cô nương có biết là ta ngày đêm mong nhớ nàng không!	10	10	15	3	3		28	jn02a	
+citynpc10	99	Công Tôn Tích Hoa-Thành Thị	Vị quan khách, có muốn thử vài món của ta không?	10	10	15	3	3		28	qg01	
+citynpc10	99	Công Tôn Tích Hoa-Thành Thị	Thật oai phong, nếu có hứng thú hãy theo ta đến「Ẩn Hương Lầu」.	10	10	15	3	3		29	qg02	
+citynpc10	99	Công Tôn Tích Hoa-Thành Thị	Hả? Thì ra là có ý đồ? Ngươi đến vì「Hương」hay là ...「Ẩn」?	10	10	15	3	3		30	jsrun	
+citynpc10	99	Công Tôn Tích Hoa-Thành Thị	Thiên hạ không chuyện gì ta không biết! Muốn có tình báo chẳng khó khăn gì	10	10	15	3	3		31	qg03	
+citynpc11	620	Đường Ảnh-Thành Thị	Nhân cơ hội ra ngoài phải ghé qua Thúy Yên mới được!	10	10	15	3	3		32	qg04	
+citynpc11	620	Đường Ảnh-Thành Thị	Đường Môn cái gì cũng tốt, có điều gia quy quá nghiêm, không biết khi nào mới cải thiện.	10	10	15	3	3		33	qg05	
+citynpc11	620	Đường Ảnh-Thành Thị	Nghe nói Thúy Yên Môn toàn mỹ nữ, ta muốn xem thử các nàng ấy có bản lĩnh gì!	10	10	15	3	3		34	dz	
+citynpc12	627	Tổng Quản Bang Hội-Thành Thị	Tương Dương Thành quả nhiên kiên cố, nhiều năm giao tranh nhưng không hề hấn gì!	10	10	15	3	3		35	ts01	
+citynpc12	627	Tổng Quản Bang Hội-Thành Thị	Bang hội phát triển không thể thiếu sự tương trợ của các hiệp khách!	10	10	15	3	3		36	ts02	
+citynpc12	627	Tổng Quản Bang Hội-Thành Thị	Cùng thành viên bang hội uống rượu, còn gì vui bằng!	10	10	15	3	3		37	ts03	
+citynpc13	624	Dương Ảnh Phong-Thành Thị	Thật nhớ Vong Ưu Đảo, không biết Chân Nhi gần đây thế nào.	10	10	15	3	3				30302
+citynpc13	624	Dương Ảnh Phong-Thành Thị	My Nhi cô nương luôn muốn tìm ta báo thù, thật khó xử.	10	10	15	3	3				30303
+citynpc13	624	Dương Ảnh Phong-Thành Thị	Nạp Lan tiền bối như vậy thì ta phải làm sao đây?	10	10	15	3	3	16			30304
+citynpc13	624	Dương Ảnh Phong-Thành Thị	Chân Nhi dịu dàng, My Nhi nóng nảy,....	10	10	15	3	3				
+citynpc14	88	Độc Cô Kiếm-Thành Thị	「Thiên Ma Giải Thể Đại Pháp」Ha ha! Sợ chưa?	10	10	15	3	3	17			
+citynpc14	88	Độc Cô Kiếm-Thành Thị	Võ đạo, thiên phú chỉ là cơ bản, quan trọng là bản thân phải tự nỗ lực.	10	10	15	3	3				
+citynpc14	88	Độc Cô Kiếm-Thành Thị	Tiểu tử ngươi tư chất khá tốt, nếu cố gắng sẽ có thành tựu hơn người!	10	10	15	3	3				
+citynpc14	88	Độc Cô Kiếm-Thành Thị	Võ Lâm Chí Tôn, nói dễ hơn làm!	10	10	15	3	3				
+citynpc14	88	Độc Cô Kiếm-Thành Thị	Mỗi ngày 12:30-13:00 trưa, 19:30-20:00 tối có thể giao chiến với ta, nhớ đấy!	10	10	15	3	3				
+citynpc15	694	Thu Y Thủy-Thành Thị	Một mình xông vào Thúy Yên, tên Đường Ảnh đó thật thú vị...	10	10	15	3	3				
+citynpc15	694	Thu Y Thủy-Thành Thị	Thân là môn chủ Thúy Yên, ta sẽ khiến Thúy Yên ngày càng phát triển!	10	10	15	3	3				
+citynpc22	633	Dương Anh-Thành Thị	Nhạc Phi tướng quân vốn là trung thần, chỉ là...	10	10	15	3	3				
+citynpc22	633	Dương Anh-Thành Thị	Dương Anh! Dương Anh, sao lại làm thế, có đáng không?	10	10	15	3	3				
+citynpc22	633	Dương Anh-Thành Thị	Tại sao kể từ khi gặp người ấy, tim ta cứ thổn thức từng đêm...	10	10	15	3	3				
+CommerceTask1	190	Vạn Kim Tài-Thành Thị	Nơi nào có tiền nơi đó có người của Vạn mỗ ta!	10	10	15	3	3				
+CommerceTask2	190	Vạn Kim Tài-Thành Thị	Thương hội gần đây thiếu hàng, đại hiệp có đồng ý giúp không?	10	10	15	3	3				
+Birthplace_npc1	418	Nạp Lan Chân-Tân Thủ Thôn	Trời hôm nay đẹp thật, vui quá!	999	10	15	3	3	17			30101
+Birthplace_npc1	418	Nạp Lan Chân-Tân Thủ Thôn	Còn nhớ lúc đó ngươi từ trên trời rơi xuống, rầm một cái làm ta giật cả mình! Ha ha	999	10	15	3	3	26			30102
+Birthplace_npc1	418	Nạp Lan Chân-Tân Thủ Thôn	Ảnh Phong ca ca... Khi nào mới về Vong Ưu Đảo?	999	10	15	3	3				30103
+Birthplace_npc1	418	Nạp Lan Chân-Tân Thủ Thôn	Cha dạo này đang làm gì đó có vẻ bí mật.	999	10	15	3	3				30104
+Birthplace_npc1	418	Nạp Lan Chân-Tân Thủ Thôn	Lần sau sẽ cùng Ảnh Phong ca về trung nguyên.	999	10	15	3	3				30105
+Birthplace_npc1_1	413	Nạp Lan Chân-Tân Thủ Thôn	Trời hôm nay đẹp thật, vui quá!	999	10	15	3	3	17			30101
+Birthplace_npc1_1	413	Nạp Lan Chân-Tân Thủ Thôn	Còn nhớ lúc đó ngươi từ trên trời rơi xuống, rầm một cái làm ta giật cả mình! Ha ha	999	10	15	3	3	26			30102
+Birthplace_npc1_1	413	Nạp Lan Chân-Tân Thủ Thôn	Ảnh Phong ca ca... Khi nào mới về Vong Ưu Đảo?	999	10	15	3	3				30103
+Birthplace_npc1_1	413	Nạp Lan Chân-Tân Thủ Thôn	Cha dạo này đang làm gì đó có vẻ bí mật.	999	10	15	3	3				30104
+Birthplace_npc1_1	413	Nạp Lan Chân-Tân Thủ Thôn	Lần sau sẽ cùng Ảnh Phong ca về trung nguyên.	999	10	15	3	3				30105
+Birthplace_npc2	578	Tiểu Lý Tử-Tân Thủ Thôn	Đã lâu không gặp!	999	10	15	3	3				30201
+Birthplace_npc2	578	Tiểu Lý Tử-Tân Thủ Thôn	Sẽ có một ngày ta trở thành đại hiệp tuyệt thế!	999	10	15	3	3	2			30202
+Birthplace_npc2	578	Tiểu Lý Tử-Tân Thủ Thôn	Vạn, Kiếm, Quyết... Ngươi thấy kiếm của ta lợi hại không?	999	10	15	3	3	16			30203
+Birthplace_npc2	578	Tiểu Lý Tử-Tân Thủ Thôn	Ôi! Ngươi ngốc thế, ta không thể kết bạn với ngươi!	999	10	15	3	3	20			
+Birthplace_npc2	578	Tiểu Lý Tử-Tân Thủ Thôn	Hừ! Hãy xem Ngự Kiếm Thuật của ta! La Sát hãy nộp mạng! ...Ta đang nói gì thế...	999	10	15	3	3	17			
+Birthplace_npc3	419	Dương Ảnh Phong-Tân Thủ Thôn	Trở thành cao thủ đệ nhất thiên hạ quan trọng đến thế sao?	999	10	15	3	3				30301
+Birthplace_npc3	419	Dương Ảnh Phong-Tân Thủ Thôn	「Liệt Hỏa Tinh Thiên」Nội lực không đủ, chiêu thức này có vẻ đặc biệt!	999	10	15	3	3				
+Birthplace_npc14	1277	Thủ Lĩnh Ác Tặc-Tân Thủ Thôn	Muốn đi qua nơi này, phải nộp lộ phí.	999	10	15	3	3				
+Birthplace_npc14	1277	Ác Tặc-Tân Thủ Thôn	Còn không mau lên?	999	10	15	3	3	16			
+Birthplace_npc15	1278	Ác Tặc-Tân Thủ Thôn	Thơ hay! Đại ca quả nhiên văn võ song toàn!	999	10	15	3	3				
+Wys_yme1	1005	Nguyệt My Nhi-Võ Di Sơn 1	Các ngươi do ai phái đến?	401	10	15	3	3				
+Wys_yme1	1005	Nguyệt My Nhi-Võ Di Sơn 1	Hừ! Nếu để ta điều tra ra được thân phận của các ngươi, thì sẽ khó yên thân đấy!	401	10	15	3	3				
+Wys_yme2	1006	Nguyệt My Nhi-Võ Di Sơn 2	Thanh Long, ngươi lại dám phạm thượng sao!	401	10	15	3	3				
+Wys_yme2	1006	Nguyệt My Nhi-Võ Di Sơn 2	Ngươi tưởng đệ tử Phi Long Bảo sẽ tha cho các ngươi sao?	401	10	15	3	3				
+Wys_npc1	1077	Mộc Thiên Nhiên-Võ Di Sơn	Đại tiểu thư, cô muốn chạy đi đâu?	401	10	15	3	3				
+Wys_npc1	1077	Mộc Thiên Nhiên-Võ Di Sơn	Bớt phí sức đi, ngoan ngoãn theo ta về.	401	10	15	3	3				
+Wys_npc2	1078	Đệ Tử Phi Long Bảo-Võ Di Sơn	Đừng chạy nữa, vô ích thôi.	401	10	15	3	3				
+Wys_npc2	1078	Đệ Tử Phi Long Bảo-Võ Di Sơn	Đại tiểu thư quả là nữ trung hào kiệt, quyết không chịu cầu cứu.	401	10	15	3	3				
+Wys_npc3	1059	Thanh Long Hộ Pháp-Võ Di Sơn	Thiếu trang chủ, giao「Võ Đạo Đức Kinh」ra đây, đừng ép bọn ta!	401	10	15	3	3				
+Wys_npc3	1059	Thanh Long Hộ Pháp-Võ Di Sơn	Không phải ta cố chấp mà vì sức hấp dẫn của 「Võ Đạo Đức Kinh」quá lớn!	401	10	15	3	3				
+Wys_npc4	1060	Đệ Tử Thanh Long-Võ Di Sơn	Ha ha! Ngoan ngoãn nghe lời, đỡ phải chịu khổ!	401	10	15	3	3				
+Wys_npc4	1060	Đệ Tử Thanh Long-Võ Di Sơn	Bọn ta cũng chỉ vì tiền, ngươi đừng trách bọn tôi, haha! 	401	10	15	3	3				
+Wys_enemy1	1048	Sát Thủ-Võ Di Sơn	Càng chống cự sẽ càng đau đớn!	401	10	15	3	3				
+Wys_enemy1	1048	Sát Thủ-Võ Di Sơn	Có người trả tiền mua mạng ngươi đấy!	401	10	15	3	3				
+Yds_enemy1	1076	Sát Thủ-Nhạn Đãng Sơn	Chúng tôi chỉ phụng mệnh hành sự thôi!	402	10	15	3	3				
+Yds_enemy1	1076	Sát Thủ-Nhạn Đãng Sơn	Càng chống cự sẽ càng đau đớn!	402	10	15	3	3				
+wanglaoji_1	1339	NPC Vương Lão Cát-Thành thị	Võ Lâm Truyền Kỳ đến Việt Nam từ năm 2005	10	10	15	3	3				
+wanglaoji_1	1339	NPC Vương Lão Cát-Thành thị	Đại hiệp chơi Võ Lâm Truyền Kỳ Mobile vui vẻ	10	10	15	3	3				
+wanglaoji_1	1339	NPC Vương Lão Cát-Thành thị	Tu luyện dã ngoại, hãy sử dụng Tu Luyện Châu	10	10	15	3	3				
+wanglaoji_1	1339	NPC Vương Lão Cát-Thành thị	Gặp Động Thần Bí, hãy gọi bằng hữu trợ giúp!	10	10	15	3	3				
+Hsp_houzi_1	1437		Xèo xèo	10	10	15	3	3				
+Hsp_houzi_2	1438		Xèo xèo	10	10	15	3	3				
+Dyr_tt1	1666	Đĩnh Ca-Tương Dương	Tịch Mạc Song Sát võ công cao cường, cần phải tổ đội mới có thể truy bắt.	10	10	15	3	3				
+Dyr_tt1	1666	Đĩnh Ca-Tương Dương	Hạnh phúc của ta hoàn toàn tùy thuộc vào đại hiệp, mong đại hiệp có thể bình an mang【Bánh Hựu Duyên】trở về.	10	10	15	3	3				
+Dyr_tt1	1666	Đĩnh Ca-Tương Dương	Nghe nói Tiểu Duyên sư tỉ rất thích Bánh Hựu Duyên, trải qua bao khó nhọc cuối cùng cũng có được!	10	10	15	3	3				
+Dyr_yy1	1667	Tiểu Duyên-Tương Dương	Cuối cùng cũng gặp ngươi, cũng may ta không bỏ cuộc.	10	10	15	3	3				
+Dyr_yy1	1667	Tiểu Duyên-Tương Dương	Sư đệ si tình như vậy, Tiểu Duyên ắt sẽ đáp lại.	10	10	15	3	3				
+Dyr_yy1	1667	Tiểu Duyên-Tương Dương	Những tưởng khó tìm được người trong mộng, không ngờ Đĩnh sư đệ vượt xa những gì ta mong đợi.	10	10	15	3	3				
+Dyr_tt2	1679	Đĩnh Ca-Ngọc Phong Cốc	Tiểu Duyên... Ta sẽ bảo vệ nàng cả đời!	801	10	15	3	3				
+Dyr_tt2	1679	Đĩnh Ca-Ngọc Phong Cốc	Ta thật may mắn, có thể gặp được người.	801	10	15	3	3				
+Dyr_yy2	1678	Tiểu Duyên-Ngọc Phong Cốc	Cuối cùng cũng gặp ngươi, cũng may ta không bỏ cuộc.	801	10	15	3	3				
+Dyr_yy2	1678	Tiểu Duyên-Ngọc Phong Cốc	Mọi người bảo trí tưởng tượng của ta quá phong phú, nhưng thật ra cũng không bằng ngươi.									
+Dyr_yy2	1685	Tiểu Duyên-Tương Dương	Cuối cùng cũng gặp ngươi, cũng may ta không bỏ cuộc.	10	10	15	3	3				
+Dyr_yy2	1685	Tiểu Duyên-Tương Dương	Sư đệ si tình như vậy, Tiểu Duyên ắt sẽ đáp lại.	10	10	15	3	3				
+Dyr_yy2	1685	Tiểu Duyên-Tương Dương	Những tưởng khó tìm được người trong mộng, không ngờ Đĩnh sư đệ vượt xa những gì ta mong đợi.	10	10	15	3	3				
+BeautyPageant_npc1	2304	Sứ Giả Truyền Tin Miss VLTKM	[FFFE0D]「Miss Võ Lâm Truyền Kỳ Mobile」[-]Hoạt động đang diễn ra...	10	12	12	10	10				
+BeautyPageant_npc1	2304	Sứ Giả Truyền Tin Miss VLTKM	Hãy bầu chọn cho nữ thần mà các đại hiệp hâm mộ!	10	12	12	10	10				
+BeautyPageant_npc1	2304	Sứ Giả Truyền Tin Miss VLTKM	[FFFE0D]「Miss Võ Lâm Truyền Kỳ Mobile」[-]Thật khó chọn lựa!	10	12	12	10	10				
+BeautyPageant_npc1	2304	Sứ Giả Truyền Tin Miss VLTKM	Giang hồ nhiều mỹ nhân, nhan sắc đẹp tuyệt trần. Khẽ cười nghiêng sông núi, thoáng nhìn ngả nước non. [FFFE0D]「Miss Võ Lâm Truyền Kỳ Mobile」[-]	10	12	12	10	10				
+Lgx1_House1	2328	Gia Viên Lv1	Ta sẽ để nàng ấy biết thứ ta quan tâm là gì!	4000	12	12	10	10				
+Lgx1_House2	2328	Gia Viên Lv2	Ta sẽ để nàng ấy biết thứ ta quan tâm là gì!	4001	12	12	10	10				
+Lgx1_House3	2328	Gia Viên Lv3	Ta sẽ để nàng ấy biết thứ ta quan tâm là gì!	4002	12	12	10	10				
+Lgx1_House4	2328	Gia Viên Lv4	Ta sẽ để nàng ấy biết thứ ta quan tâm là gì!	4003	12	12	10	10				
+Lgx1_House5	2328	Gia Viên Lv5	Ta sẽ để nàng ấy biết thứ ta quan tâm là gì!	4004	12	12	10	10				
+Lgx1_House6	2328	Gia Viên Lv6	Ta sẽ để nàng ấy biết thứ ta quan tâm là gì!	4005	12	12	10	10				
+Lgx2_House1	2328	Gia Viên Lv1	Giang sơn mất rồi có thể đoạt lại, người mất rồi sao có thể hồi sinh!	4000	12	12	10	10				
+Lgx2_House2	2328	Gia Viên Lv2	Giang sơn mất rồi có thể đoạt lại, người mất rồi sao có thể hồi sinh!	4001	12	12	10	10				
+Lgx2_House3	2328	Gia Viên Lv3	Giang sơn mất rồi có thể đoạt lại, người mất rồi sao có thể hồi sinh!	4002	12	12	10	10				
+Lgx2_House4	2328	Gia Viên Lv4	Giang sơn mất rồi có thể đoạt lại, người mất rồi sao có thể hồi sinh!	4003	12	12	10	10				
+Lgx2_House5	2328	Gia Viên Lv5	Giang sơn mất rồi có thể đoạt lại, người mất rồi sao có thể hồi sinh!	4004	12	12	10	10				
+Lgx2_House6	2328	Gia Viên Lv6	Giang sơn mất rồi có thể đoạt lại, người mất rồi sao có thể hồi sinh!	4005	12	12	10	10				
+Lgx3_House1	2328	Gia Viên Lv1	Ta có rượu, ngươi muốn kể chuyện không?	4000	12	12	10	10				
+Lgx3_House2	2328	Gia Viên Lv2	Ta có rượu, ngươi muốn kể chuyện không?	4001	12	12	10	10				
+Lgx3_House3	2328	Gia Viên Lv3	Ta có rượu, ngươi muốn kể chuyện không?	4002	12	12	10	10				
+Lgx3_House4	2328	Gia Viên Lv4	Ta có rượu, ngươi muốn kể chuyện không?	4003	12	12	10	10				
+Lgx3_House5	2328	Gia Viên Lv5	Ta có rượu, ngươi muốn kể chuyện không?	4004	12	12	10	10				
+Lgx3_House6	2328	Gia Viên Lv6	Ta có rượu, ngươi muốn kể chuyện không?	4005	12	12	10	10				
+Zly1_House1	2329	Gia Viên Lv1	Hạt cát theo thời gian cũng có thể trở thành trân châu!	4000	12	12	10	10				
+Zly1_House2	2329	Gia Viên Lv2	Hạt cát theo thời gian cũng có thể trở thành trân châu!	4001	12	12	10	10				
+Zly1_House3	2329	Gia Viên Lv3	Hạt cát theo thời gian cũng có thể trở thành trân châu!	4002	12	12	10	10				
+Zly1_House4	2329	Gia Viên Lv4	Hạt cát theo thời gian cũng có thể trở thành trân châu!	4003	12	12	10	10				
+Zly1_House5	2329	Gia Viên Lv5	Hạt cát theo thời gian cũng có thể trở thành trân châu!	4004	12	12	10	10				
+Zly1_House6	2329	Gia Viên Lv6	Hạt cát theo thời gian cũng có thể trở thành trân châu!	4005	12	12	10	10				
+Zly2_House1	2329	Gia Viên Lv1	Dựa vào người khác không bằng dựa vào chính mình	4000	12	12	10	10				
+Zly2_House2	2329	Gia Viên Lv2	Dựa vào người khác không bằng dựa vào chính mình	4001	12	12	10	10				
+Zly2_House3	2329	Gia Viên Lv3	Dựa vào người khác không bằng dựa vào chính mình	4002	12	12	10	10				
+Zly2_House4	2329	Gia Viên Lv4	Dựa vào người khác không bằng dựa vào chính mình	4003	12	12	10	10				
+Zly2_House5	2329	Gia Viên Lv5	Dựa vào người khác không bằng dựa vào chính mình	4004	12	12	10	10				
+Zly2_House6	2329	Gia Viên Lv6	Dựa vào người khác không bằng dựa vào chính mình	4005	12	12	10	10				
+Zly3_House1	2329	Gia Viên Lv1	Kẻ thức thời mới là trang tuấn kiệt	4000	12	12	10	10				
+Zly3_House2	2329	Gia Viên Lv2	Kẻ thức thời mới là trang tuấn kiệt	4001	12	12	10	10				
+Zly3_House3	2329	Gia Viên Lv3	Kẻ thức thời mới là trang tuấn kiệt	4002	12	12	10	10				
+Zly3_House4	2329	Gia Viên Lv4	Kẻ thức thời mới là trang tuấn kiệt	4003	12	12	10	10				
+Zly3_House5	2329	Gia Viên Lv5	Kẻ thức thời mới là trang tuấn kiệt	4004	12	12	10	10				
+Zly3_House6	2329	Gia Viên Lv6	Kẻ thức thời mới là trang tuấn kiệt	4005	12	12	10	10				
+Daiyanren_City_lingengxin	2326	Lâm Triều Hoa-Tương Dương	Thương hội của Vạn thúc trải dài từ nam đến bắc, thật đáng ngưỡng mộ	10	10	15	3	3				
+Daiyanren_City_lingengxin	2326	Lâm Triều Hoa-Tương Dương	Theo Vạn thúc xuôi ngược, ta cũng quen rất nhiều nhân sĩ giang hồ.	10	10	15	3	3				
+Fathersday_Lgx	2708	Gia Viên Lv1	Ta sẽ để nàng ấy biết thứ ta quan tâm là gì!	1624	12	12	10	10				
+Fathersday_Lgx	2708	Gia Viên Lv1	Giang sơn mất rồi có thể đoạt lại, người mất rồi sao có thể hồi sinh!	1624	12	12	10	10				
+Fathersday_Lgx	2708	Gia Viên Lv1	Ta có rượu, ngươi muốn kể chuyện không?	1624	12	12	10	10				
+Fathersday_Zly	2709	Gia Viên Lv1	Hạt cát theo thời gian cũng có thể trở thành trân châu!	1624	12	12	10	10				
+Fathersday_Zly	2709	Gia Viên Lv1	Dựa vào người khác không bằng dựa vào chính mình	1624	12	12	10	10				
+Fathersday_Zly	2709	Gia Viên Lv1	Kẻ thức thời mới là trang tuấn kiệt	1624	12	12	10	10				
+GoodVoice_npc1	2939	Sứ Giả Quảng Cáo The Voice	Hoạt động [FFFE0D]「Bầu Chọn VLTK M Voice」[-]đang diễn ra…	10	12	12	10	10				
+GoodVoice_npc1	2939	Sứ Giả Quảng Cáo The Voice	Hãy bầu chọn cho Thiên Lại Âm mà các đại hiệp hâm mộ!	10	12	12	10	10				
+GoodVoice_npc1	2939	Sứ Giả Quảng Cáo The Voice	Hoạt động [FFFE0D]「Bầu Chọn VLTK M Voice」[-]võ lâm danh hiệp hội tụ, thật hiếm có!	10	12	12	10	10				
+GoodVoice_npc1	2939	Sứ Giả Quảng Cáo The Voice	Dư âm ba ngày không dứt, khúc ca này chỉ có ở nơi thiên giới, nhân gian thật hiếm thấy: [FFFE0D]「Bầu Chọn VLTK M Voice」[-]	10	12	12	10	10				
+GoodVoice_npc1	2939	Sứ Giả Quảng Cáo The Voice	Hoạt động [FFFE0D]「Bầu Chọn VLTK M Voice」[-]đang diễn ra…	15	12	12	10	10				
+GoodVoice_npc1	2939	Sứ Giả Quảng Cáo The Voice	Hãy bầu chọn cho Thiên Lại Âm mà các đại hiệp hâm mộ!	15	12	12	10	10				
+GoodVoice_npc1	2939	Sứ Giả Quảng Cáo The Voice	Hoạt động [FFFE0D]「Bầu Chọn VLTK M Voice」[-]võ lâm danh hiệp hội tụ, thật hiếm có!	15	12	12	10	10				
+GoodVoice_npc1	2939	Sứ Giả Quảng Cáo The Voice	Dư âm ba ngày không dứt, khúc ca này chỉ có ở nơi thiên giới, nhân gian thật hiếm thấy: [FFFE0D]「Bầu Chọn VLTK M Voice」[-]	15	12	12	10	10				

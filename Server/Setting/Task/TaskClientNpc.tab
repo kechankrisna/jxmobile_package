@@ -1,0 +1,353 @@
+nShowId	nNpcId	nMapTemplateId	nX	nY	nDir	Trap	bIsTaskNpc	bIsFollow	szStartFunc	szStartParam	Desc	Map
+1	413	1000	6520	5250	61		1				Nạp Lan Chân-Nhiệm vụ	Tân Thủ Thôn
+2	418	1000	6520	5250	61						Nạp Lan Chân-Biểu hiện	Tân Thủ Thôn
+3	414	1000	8300	5900	46		1				Ân Phương-Nhiệm vụ	Tân Thủ Thôn
+4	578	1000	8300	5900	46						Ân Phương-Biểu hiện	Tân Thủ Thôn
+5	1277	484	1860	3360	1						Dương Ảnh Phong Trọng Thương-Biểu hiện	Nhà Vong Ưu
+6	1382	400	7860	8080	32						Ân Phương-Di chuyển	Tỏa Vân Uyên
+7	416	1000	8670	5150	51		1				Nạp Lan Tiềm Lẫm-Nhiệm vụ	Tân Thủ Thôn
+8	954	1000	8670	5150	51						Nạp Lan Tiềm Lẫm-Biểu hiện	Tân Thủ Thôn
+9	413	1000	3500	6100	53		1				Nạp Lan Chân-Nhiệm vụ	Tân Thủ Thôn
+10	1080	1000	6520	6520	53			1			Nạp Lan Chân-Theo sau	Tân Thủ Thôn
+11	1340	1000	8080	3210	47		1				Ân Đồng-Nhiệm vụ	Tân Thủ Thôn
+12	1341	1000	8080	3210	47						Ân Đồng-Biểu hiện	Tân Thủ Thôn
+13	413	1000	4900	6050	43		1				Nạp Lan Chân-Nhiệm vụ	Tân Thủ Thôn
+14	418	1000	4900	6050	43						Nạp Lan Chân-Biểu hiện	Tân Thủ Thôn
+15	1382	400	7860	8080				1			Ân Phương-Theo sau	Tỏa Vân Uyên
+16	1381	400	4900	10000					MoveAndDelete	syy_wjc1	Vạn Kim Tài-Di chuyển	Tỏa Vân Uyên
+17	730	484	1610	3080	21		1				Dương Ảnh Phong-Nhiệm vụ	Nhà nhỏ Tỏa Vân Uyên
+18	731	484	1610	3080	21						Dương Ảnh Phong-Biểu Hiện	Nhà nhỏ Tỏa Vân Uyên
+19	720	400	8060	8100	32		1				Nạp Lan Chân-Nhiệm vụ	Tỏa Vân Uyên
+20	724	400	8060	8100	32			1			Nạp Lan Chân-Theo sau	Tỏa Vân Uyên
+21	1106	403	5250	4300	22				Move	dth_zx1	Tử Hiên-Di chuyển	Động Đình Hồ
+22	1107	403	4950	5100	46				Move	dth_yme1	Nguyệt My Nhi-Di chuyển	Động Đình Hồ
+23	1081	400	13570	4300	36			1			Dương Ảnh Phong-Theo sau	Tỏa Vân Uyên
+24	578	400	7860	8080	34						Tiểu Lý Tử-Biểu hiện	Tỏa Vân Uyên
+25	730	400	13570	4300	36		1				Dương Ảnh Phong-Nhiệm vụ	Tỏa Vân Uyên
+26	731	400	13570	4300	36						Dương Ảnh Phong-Biểu Hiện	Tỏa Vân Uyên
+27	725	400	13890	5080	32				Move	syy_nlz1	Nạp Lan Chân-Di chuyển	Tỏa Vân Uyên
+28	721	400	13720	4770	32						Nạp Lan Chân-Biểu hiện	Tỏa Vân Uyên
+29	730	400	8060	8100	32		1				Dương Ảnh Phong-Nhiệm vụ	Tỏa Vân Uyên
+30	1343	400	8060	8100	32				MoveAndDelete	syy_yyf1	Dương Ảnh Phong-Di chuyển	Tỏa Vân Uyên
+31	1379	400	4900	10000			1				Vạn Kim Tài-Nhiệm vụ	Tỏa Vân Uyên
+32	1380	400	4900	10000							Vạn Kim Tài-Biểu hiện	Tỏa Vân Uyên
+33	1003	401	8050	10250	39		1				Dương Ảnh Phong-Nhiệm vụ	Võ Di Sơn
+34	1004	401	8050	10250	39						Dương Ảnh Phong-Biểu Hiện	Võ Di Sơn
+35	1003	401	12400	11450	39		1				Dương Ảnh Phong-Nhiệm vụ	Võ Di Sơn
+36	1004	401	12400	11450	39						Dương Ảnh Phong-Biểu Hiện	Võ Di Sơn
+37	1626	401	11820	11350	39		1				Nguyệt My Nhi-Nhiệm vụ	Võ Di Sơn
+38	1628	401	11820	11350	14				MoveAndDelete	wys_yme1	Nguyệt My Nhi-Di chuyển	Võ Di Sơn
+39	1003	401	12400	3030	52		1				Dương Ảnh Phong-Nhiệm vụ	Võ Di Sơn
+40	1004	401	12400	3030	52						Dương Ảnh Phong-Biểu Hiện	Võ Di Sơn
+41	1266	400	13000	7000	49						Áo-Biểu hiện	Tỏa Vân Uyên
+42	1100	498	7000	3100	49		1				Nạp Lan Chân-Nhiệm vụ	Bi Ma Sơn Trang
+43	1003	401	5300	4800	35		1				Dương Ảnh Phong-Nhiệm vụ	Võ Di Sơn
+44	1004	401	5300	4800	35						Dương Ảnh Phong-Biểu Hiện	Võ Di Sơn
+45	1058	401	5300	4510	39						Lửa Trại-Biểu hiện	Võ Di Sơn
+46	1081	401	5300	4800	36			1			Dương Ảnh Phong-Theo sau	Võ Di Sơn
+47	1097	401	5470	4680	50						Nguyệt My Nhi-Biểu hiện	Võ Di Sơn
+48	1083	401	5470	4680	50			1			Nguyệt My Nhi-Theo sau	Võ Di Sơn
+49	1005	402	7160	5100	39		1				Nguyệt My Nhi-Nhiệm vụ	Nhạn Đãng Sơn
+50	1107	402	7160	5120	15				MoveAndDelete	yds_yme1	Nguyệt My Nhi-Di chuyển	Nhạn Đãng Sơn
+51	1049	402	6840	5120	15		1				Dương Ảnh Phong-Nhiệm vụ	Nhạn Đãng Sơn
+52	1050	402	6840	5120	15						Dương Ảnh Phong-Biểu Hiện	Nhạn Đãng Sơn
+53	1343	1000	8360	5150	15				MoveAndDelete	wyd_yyf3	Dương Ảnh Phong-Di chuyển	Tân Thủ Thôn
+54	1079	402	6840	5120	15			1			Dương Ảnh Phong-Theo sau	Nhạn Đãng Sơn
+55	1049	402	10780	3410	16		1				Dương Ảnh Phong-Nhiệm vụ	Nhạn Đãng Sơn
+56	1050	402	10780	3410	16						Dương Ảnh Phong-Biểu Hiện	Nhạn Đãng Sơn
+57	1049	402	2800	2800	16		1				Dương Ảnh Phong-Nhiệm vụ	Nhạn Đãng Sơn
+58	1050	402	2800	2800	16						Dương Ảnh Phong-Biểu Hiện	Nhạn Đãng Sơn
+59	1069	483	7780	6410	3						Trác Phi Phàm-Biểu hiện	Tàng Kiếm Sơn Trang
+60	1071	483	7760	6700	32						Tử Hiên-Biểu hiện	Tàng Kiếm Sơn Trang
+61	1091	403	5250	4300	36		1				Tử Hiên-Nhiệm vụ	Động Đình Hồ
+62	1092	403	5250	4300	36						Tử Hiên-Biểu hiện	Động Đình Hồ
+63	1343	401	9200	11800	17				MoveAndDelete	wys_yyf1	Dương Ảnh Phong-Di chuyển	Võ Di Sơn
+64	1343	401	8900	6900	36				MoveAndDelete	wys_yyf2	Dương Ảnh Phong-Di chuyển	Võ Di Sơn
+65	1080	1000	6520	5250	24			1			Nạp Lan Chân-Theo sau	Tân Thủ Thôn
+66	1081	1000	6520	5250	36			1			Dương Ảnh Phong-Theo sau	Tân Thủ Thôn
+67	1082	401	12400	11450	39			1			Dương Ảnh Phong-Theo sau	Võ Di Sơn
+68	1082	401	11200	5000	39			1			Dương Ảnh Phong-Theo sau	Võ Di Sơn
+69	1082	401	7450	1930	3			1			Dương Ảnh Phong-Theo sau	Võ Di Sơn
+70	1094	403	8130	4400				1			Dương Ảnh Phong-Theo sau	Động Đình Hồ
+71	1093	403	8130	4400			1				Dương Ảnh Phong-Nhiệm vụ	Động Đình Hồ
+72	1095	403	8130	4400							Dương Ảnh Phong-Biểu Hiện	Động Đình Hồ
+73	1093	403	6250	5700	2		1				Dương Ảnh Phong-Nhiệm vụ	Động Đình Hồ
+74	1095	403	6250	5700	2						Dương Ảnh Phong-Biểu Hiện	Động Đình Hồ
+75	1093	403	9150	8150			1				Dương Ảnh Phong-Nhiệm vụ	Động Đình Hồ
+76	1281	403	11330	7800	44				Move	dth_qw2	Tường Vi-Di chuyển	Động Đình Hồ
+77	1098	403	5850	7710	57		1				Tường Vi-Nhiệm vụ	Động Đình Hồ
+78	1108	403	5850	7710	57			1			Tường Vi-Theo sau	Động Đình Hồ
+79	1098	403	10100	8050	29		1				Tường Vi-Nhiệm vụ	Động Đình Hồ
+80	1108	403	10100	8050	29			1			Tường Vi-Theo sau	Động Đình Hồ
+81	1631	403	8820	4940	51				Move	dth_qw1	Tường Vi-Di chuyển	Động Đình Hồ
+82	1109	403	9020	4880	51				Move	dth_ly1	Liệp Ưng-Di chuyển	Động Đình Hồ
+83	1092	403	3900	5450	25						Tử Hiên-Biểu hiện	Động Đình Hồ
+84	1097	403	4040	5380	58						Nguyệt My Nhi-Biểu hiện	Động Đình Hồ
+85	1100	498	4085	3015	49		1				Nạp Lan Chân-Nhiệm vụ	Bi Ma Sơn Trang
+86	724	498	4085	3015	49			1			Nạp Lan Chân-Theo sau	Bi Ma Sơn Trang
+87	1080	1000	6520	5250	43			1			Nạp Lan Chân-Theo sau	Tân Thủ Thôn
+88	1110	403	9200	7800	43						Lý Tổng Quản-Biểu hiện	Động Đình Hồ
+89	1112	403	6400	9800	44						Khả Hàm-Biểu hiện	Động Đình Hồ
+90	1092	403	9600	10850	35						Tử Hiên-Biểu hiện	Động Đình Hồ
+91	1384	494	2680	4150	32				MoveAndDelete	flb_lzh1	Lư Triệu Hạo-Biểu hiện	Phi Long Bảo
+92	1106	403	14240	3850	49				Move	dth_zx2	Tử Hiên-Di chuyển	Động Đình Hồ
+93	1096	494	6500	7100	56		1				Nguyệt My Nhi-Nhiệm vụ	Phi Long Bảo
+94	1097	494	6500	7100	56						Nguyệt My Nhi-Biểu hiện	Phi Long Bảo
+95	724	494	6500	7100				1			Nạp Lan Chân-Theo sau	Phi Long Bảo
+96	1099	403	7650	7300	47						Tường Vi-Biểu hiện	Động Đình Hồ
+97	1080	1000	6520	5250	43			1			Nạp Lan Chân-Theo sau	Tân Thủ Thôn
+98	1107	403	8150	13000	56						Nguyệt My Nhi-Di chuyển	Động Đình Hồ
+99	1080	1000	6520	5250	43			1			Nạp Lan Chân-Theo sau	Tân Thủ Thôn
+100	1099	403	10940	8040	47						Tường Vi-Biểu hiện	Động Đình Hồ
+101	1391	403	14170	5810	55		1				Thiên Tinh Đạo Trưởng-Nhiệm vụ	Động Đình Hồ
+102	1392	403	14170	5810	55						Thiên Tinh Đạo Trưởng-Biểu hiện	Động Đình Hồ
+103	1102	403	11100	7750	41		1				Mạnh Tri Thu-Nhiệm vụ	Động Đình Hồ
+104	1103	403	11100	7750	41						Mạnh Tri Thu-Biểu hiện	Động Đình Hồ
+105	1108	403	9200	7950	58			1			Tường Vi-Theo sau	Động Đình Hồ
+106	1092	403	13500	3910	50						Tử Hiên-Biểu hiện	Động Đình Hồ
+107	1099	498	3500	3110	16						Tường Vi-Biểu hiện	Bi Ma Sơn Trang
+108	721	498	3480	2890	15						Nạp Lan Chân-Biểu hiện	Bi Ma Sơn Trang
+109	1108	1000	6520	5250	58			1			Tường Vi-Theo sau	Tân Thủ Thôn
+110	1108	498	1550	5650	58			1			Tường Vi-Theo sau	Bi Ma Sơn Trang
+111	1006	401	9200	8200	43						Nguyệt My Nhi-Biểu hiện	Võ Di Sơn
+112	1091	401	9400	8100	42		1				Tử Hiên-Nhiệm vụ	Võ Di Sơn
+113	1083	401	9200	8200	42			1			Nguyệt My Nhi-Theo sau	Võ Di Sơn
+114	1156	401	9400	8100	42			1			Tử Hiên-Theo sau	Võ Di Sơn
+115	1342	498	3860	3020	47				MoveAndDelete	beimo_nlql	Nạp Lan Tiềm Lẫm-Di chuyển	Bi Ma Sơn Trang
+116	1083	498	1550	5650	42			1			Nguyệt My Nhi-Theo sau	Bi Ma Sơn Trang
+117	1156	498	1550	5650	42			1			Tử Hiên-Theo sau	Bi Ma Sơn Trang
+118	1096	497	7490	8980	37		1				Nguyệt My Nhi-Nhiệm vụ	Phi Long Bảo
+119	1098	497	7979	6922	48						Tường Vi-Theo sau	Phi Long Bảo
+120	1113	494	6620	6930	46						Lư Triệu Hạo-Biểu hiện	Phi Long Bảo
+121	1160	404	3130	7150	30		1				Lư Thanh-Nhiệm vụ	Miêu Lĩnh
+122	1162	404	3130	7150	30			1			Lư Thanh-Theo sau	Miêu Lĩnh
+123	1160	486	2350	3400	45		1				Lư Thanh-Nhiệm vụ	Chân núi Hành Sơn
+124	1161	486	2350	3400	45						Lư Thanh-Biểu hiện	Chân núi Hành Sơn
+125	1163	404	13950	6450	46		1				Tiều Phu-Nhiệm vụ	Miêu Lĩnh
+126	1164	404	13950	6450	46						Tiều Phu-Biểu hiện	Miêu Lĩnh
+127	1165	487	6780	6540	45		1				Đệ Tử Võ Di Kiếm Phái-Nhiệm vụ	Cửu Hầu Động
+128	1167	487	6780	6540	45						Đệ Tử Võ Di Kiếm Phái-Biểu hiện	Cửu Hầu Động
+129	1166	488	3180	7100	56		1				Trương Lâm-Nhiệm vụ	Võ Di Sơn
+130	1311	488	3180	7100	56				MoveAndDelete	wyp_zl1	Trương Lâm-Di chuyển	Võ Di Sơn
+131	1176	404	6200	8100	48		1				Hà Tiêu Tường-Nhiệm vụ	Miêu Lĩnh
+132	1177	404	6200	8100	48						Hà Tiêu Tường-Biểu hiện	Miêu Lĩnh
+133	1171	404	5650	14300							Triệu Thất Nương-Biểu hiện	Miêu Lĩnh
+134	1174	404	6300	14200							Chu Tiểu Phú-Biểu hiện	Miêu Lĩnh
+135	1170	404	6050	14500			1				Chu Mộc Tượng-Nhiệm vụ	Miêu Lĩnh
+136	1175	404	6050	14500							Chu Mộc Tượng-Biểu hiện	Miêu Lĩnh
+137	1178	404	8650	12450			1				Kiếm Vân-Nhiệm vụ	Miêu Lĩnh
+138	1179	404	8650	12450							Kiếm Vân-Biểu hiện	Miêu Lĩnh
+139	1180	404	8650	12450	39			1			Kiếm Vân-Theo sau	Miêu Lĩnh
+140	1179	404	12900	13400	39						Kiếm Vân-Biểu hiện	Miêu Lĩnh
+141	1181	404	12700	13450	29		1				Thu Vũ-Nhiệm vụ	Miêu Lĩnh
+142	1182	404	12700	13450	29						Thu Vũ-Biểu hiện	Miêu Lĩnh
+143	1202	10	7460	15340	11		1				Vệ Binh-Nhiệm vụ	Tương Dương
+144	1204	10	7460	15340	11						Vệ Binh-Biểu hiện	Tương Dương
+145	1183	405	6100	10500	48		1				Lão Vương-Nhiệm Vụ	Điểm Thương Sơn
+146	1184	405	6100	10500	48						Lão Vương-Biểu hiện	Điểm Thương Sơn
+147	1185	405	14750	14050	42		1				Giả Bộc Trực-Nhiệm Vụ	Điểm Thương Sơn
+148	1186	405	14750	14050	42						Giả Bộc Trực-Biểu hiện	Điểm Thương Sơn
+149	1176	405	6400	13550	48		1				Hà Tiêu Tường-Nhiệm vụ	Điểm Thương Sơn
+150	1177	405	6400	13550	48						Hà Tiêu Tường-Biểu hiện	Điểm Thương Sơn
+151	1173	405	5750	14100	22						Chu Tiểu Phú-Nhiệm vụ	Điểm Thương Sơn
+152	1215	405	5750	14100	22				Move	dcs_zxf1	Chu Tiểu Phú-Di chuyển	Điểm Thương Sơn
+153	1205	405	9250	11250	21		1				Hà Mai-Nhiệm vụ	Điểm Thương Sơn
+154	1206	405	9250	11250	21						Hà Mai-Biểu hiện	Điểm Thương Sơn
+155	1107	497	7470	8920	15				MoveAndDelete	flb_yme1	Nguyệt My Nhi-Di chuyển	Phi Long Bảo
+156	1280	403	8280	5150	0						Bẫy Thú-Biểu Hiện	Động Đình Hồ
+157	1208	405	5530	4900	47		1				Đoàn Phù Dung-Nhiệm vụ	Điểm Thương Sơn
+158	1214	405	5530	4900	47			1			Đoàn Phù Dung-Theo sau	Điểm Thương Sơn
+159	1208	490	7650	6700	43		1				Đoàn Phù Dung-Nhiệm vụ	Lâm An Dịch Đạo
+160	1436	490	7650	6700	43				MoveAndDelete	layd_dfr1	Đoàn Phù Dung-Di chuyển	Lâm An Dịch Đạo
+161	1233	406	7440	6700	48		1				Thôn Dân-Nhiệm vụ	Hưởng Thủy Động
+162	1234	406	7440	6700	48						Thôn Dân-Biểu hiện	Hưởng Thủy Động
+163	1163	406	7600	13900	32		1				Tiều Phu-Nhiệm vụ	Hưởng Thủy Động
+164	1432	406	7600	13900	32				MoveAndDelete	xsd_qf1	Tiều Phu-Di chuyển	Hưởng Thủy Động
+165	1235	493	3000	3330	32		1				Đệ Tử Hoa Sơn-Nhiệm vụ	Hoa Sơn Mật Đạo
+166	1236	493	3000	3330	32						Đệ Tử Hoa Sơn-Biểu hiện	Hoa Sơn Mật Đạo
+167	1239	406	10200	9900	22		1				Đệ Tử Thiếu Lâm-Nhiệm vụ	Hưởng Thủy Động
+168	1240	406	10200	9900	22						Đệ Tử Thiếu Lâm-Biểu hiện	Hưởng Thủy Động
+169	1241	406	9460	9370	43		1				Đứa Bé-Nhiệm vụ	Hưởng Thủy Động
+170	1242	406	9460	9370	43						Đứa Bé-Biểu hiện	Hưởng Thủy Động
+171	1243	406	9350	10850	11		1				Vô Trí-Nhiệm Vụ	Hưởng Thủy Động
+172	1244	406	9350	10850	11						Vô Trí-Biểu hiện	Hưởng Thủy Động
+173	1163	493	5500	6400	23		1				Tiều Phu-Nhiệm vụ	Hoa Sơn Mật Đạo
+174	1164	493	5500	6400	23						Tiều Phu-Biểu hiện	Hoa Sơn Mật Đạo
+175	1250	493	3600	5700	23			1			Tiều Phu-Theo sau	Hoa Sơn Mật Đạo
+176	1058	493	5750	6500	39						Lửa Trại-Biểu hiện	Hoa Sơn Mật Đạo
+177	1163	493	3600	4000	23						Tiều Phu-Biểu hiện	Hoa Sơn Mật Đạo
+178	1432	493	3470	3230	23				Move	hsmd_qf1	Tiều Phu-Di chuyển	Hoa Sơn Mật Đạo
+179	1235	491	2200	3750	17		1				Đệ Tử Hoa Sơn-Nhiệm vụ	Hoa Sơn
+180	1236	491	2200	3750	17						Đệ Tử Hoa Sơn-Biểu hiện	Hoa Sơn
+181	1261	406	10200	9900	35			1			Đệ Tử Thiếu Lâm-Theo sau	Hưởng Thủy Động
+182	954	498	3860	3020	47						Nạp Lan Tiềm Lẫm-Biểu hiện	Bi Ma Sơn Trang
+183	721	400	8060	8100	32						Nạp Lan Chân-Biểu hiện	Tỏa Vân Uyên
+184	1106	402	6060	3870	43				Move	yds_zx1	Tử Hiên-Di chuyển	Nhạn Đãng Sơn
+185	1311	488	7450	9870	34				MoveAndDelete	wyp_zl2	Trương Lâm-Di chuyển	Võ Di Kiếm Phái
+186	1168	489	3300	5960	48						Trương Lâm-Biểu hiện	Võ Di Cấm Địa
+187	1433	493	2370	3600					Move	hsmd_hsdz1	Đệ Tử Hoa Sơn-Xuất hiện	Hoa Sơn Mật Đạo
+188	1433	493	3000	3330					MoveAndDelete	hsmd_hsdz2	Đệ Tử Hoa Sơn-Thoát	Hoa Sơn Mật Đạo
+189	1160	486	3200	4550	47		1				Lư Thanh-Nhiệm vụ	Chân núi Hành Sơn
+190	1161	486	3200	4550	47						Lư Thanh-Biểu hiện	Chân núi Hành Sơn
+191	1173	405	6170	13710	22		1				Chu Tiểu Phú-Nhiệm vụ	Điểm Thương Sơn
+192	1215	405	6170	13710	22				MoveAndDelete	dcs_zxf2	Chu Tiểu Phú-Di chuyển	Điểm Thương Sơn
+193	1310	487	7250	6570	45				Move	jhd_wydz1	Đệ Tử Võ Di Kiếm Phái-Nhiệm vụ	Cửu Hầu Động
+194	1310	487	6780	6540	45				MoveAndDelete	jhd_wydz2	Đệ Tử Võ Di Kiếm Phái-Biểu hiện	Cửu Hầu Động
+195	1166	488	7450	9870	34		1				Trương Lâm-Nhiệm vụ	Võ Di Kiếm Phái
+196	1168	488	7450	9870	34						Trương Lâm-Biểu hiện	Võ Di Phái
+197	1166	489	3300	5960	48		1				Trương Lâm-Nhiệm vụ	Võ Di Cấm Địa
+198	1311	489	3300	5960	34				MoveAndDelete	wyjd_zl1	Trương Lâm-Di chuyển	Võ Di Kiếm Phái
+199	1166	489	770	1120	15		1				Trương Lâm-Nhiệm vụ	Võ Di Cấm Địa
+200	1168	489	770	1120	15						Trương Lâm-Biểu hiện	Võ Di Cấm Địa
+201	1208	490	2700	7200	22		1				Đoàn Phù Dung-Nhiệm vụ	Lâm An Dịch Đạo
+202	1209	490	2700	7200	22						Đoàn Phù Dung-Biểu hiện	Lâm An Dịch Đạo
+203	725	484	2870	2420	60				Move	wyxw_nlz1	Nạp Lan Chân-Vào nhà	Nhà Nhỏ Vong Ưu Đảo
+204	725	484	2000	3200	24				MoveAndDelete	wyxw_nlz2	Nạp Lan Chân-Rời nhà	Nhà Nhỏ Vong Ưu Đảo
+205	725	484	2870	2420	60				Move	syyxw_nlz1	Nạp Lan Chân-Vào nhà	Nhà nhỏ Tỏa Vân Uyên
+206	725	484	2120	3150	24				MoveAndDelete	syyxw_nlz2	Nạp Lan Chân-Rời nhà	Nhà nhỏ Tỏa Vân Uyên
+207	1342	484	2640	2420	55				Move	syyxw_nlql1	Nạp Lan Tiềm Lẫm-Vào nhà	Nhà nhỏ Tỏa Vân Uyên
+208	1342	484	1830	3140	24				MoveAndDelete	syyxw_nlql2	Nạp Lan Tiềm Lẫm-Rời nhà	Nhà nhỏ Tỏa Vân Uyên
+209	721	400	4050	8670	41						Nạp Lan Chân-Biểu hiện	Tỏa Vân Uyên
+210	1343	400	4830	8970	43				Move	syy_yyf2	Dương Ảnh Phong-Di chuyển	Tỏa Vân Uyên
+211	724	499	2150	3400	0			1			Nạp Lan Chân-Theo sau	Ly Ưu Sơn Động
+212	1081	499	1890	3370	0			1			Dương Ảnh Phong-Theo sau	Ly Ưu Sơn Động
+213	730	499	5110	2300	17		1				Dương Ảnh Phong-Nhiệm vụ	Ly Ưu Sơn Động
+214	1343	499	5110	2300	17				MoveAndDelete	lysd_yyf1	Dương Ảnh Phong-Xuất động	Ly Ưu Sơn Động
+215	721	481	2940	3120	0						Nạp Lan Chân-Biểu hiện	Nhà nhỏ Vong Ưu Cốc
+216	724	485	800	880	14			1			Nạp Lan Chân-Theo sau	Vong Ưu Cốc
+217	731	481	2740	3190	7						Dương Ảnh Phong-Ngồi thiền	Nhà nhỏ Vong Ưu Cốc
+218	1081	485	1220	700				1			Dương Ảnh Phong-Theo sau	Vong Ưu Cốc
+219	725	481	3190	2120	7				Move	wygxw_nlz1	Nạp Lan Chân-Di chuyển	Nhà nhỏ Vong Ưu Cốc
+220	725	481	3100	2900					Move	wygxw_nlz2	Nạp Lan Chân-Di chuyển	Nhà nhỏ Vong Ưu Cốc
+221	1343	481	2790	2100	7				Move	wygxw_yyf1	Dương Ảnh Phong-Di chuyển	Nhà nhỏ Vong Ưu Cốc
+222	1343	481	2550	2510					Move	wygxw_yyf2	Dương Ảnh Phong-Di chuyển	Nhà nhỏ Vong Ưu Cốc
+223	724	481	2940	3120				1			Nạp Lan Chân-Theo sau	Nhà nhỏ Vong Ưu Cốc
+224	1081	481	2740	3190				1			Dương Ảnh Phong-Theo sau	Nhà nhỏ Vong Ưu Cốc
+225	725	1000	8350	5000	49				MoveAndDelete	wyd_nlz1	Nạp Lan Chân-Di chuyển	Vong Ưu Đảo
+226	1343	1000	5240	5800	16				MoveAndDelete	wyd_yyf1	Dương Ảnh Phong-Di chuyển	Vong Ưu Đảo
+228	1343	1000	8350	5000	34				MoveAndDelete	wyd_yyf4	Dương Ảnh Phong-Di chuyển	Vong Ưu Đảo
+229	1343	403	5580	4050	21				MoveAndDelete	dth_yyf1	Dương Ảnh Phong-Di chuyển	Động Đình Hồ
+230	1343	403	5940	8000	27				MoveAndDelete	dth_yyf2	Dương Ảnh Phong-Di chuyển	Động Đình Hồ
+231	1098	403	5750	12080	47		1				Tường Vi-Nhiệm vụ	Động Đình Hồ
+232	1108	403	5750	12080	47			1			Tường Vi-Theo sau	Động Đình Hồ
+233	1210	498	4085	3015	49		1				Thiết Vân-Nhiệm vụ	Bi Ma Sơn Trang
+234	1211	498	4085	3015	49			1			Thiết Vân-Biểu hiện	Bi Ma Sơn Trang
+235	1005	1000	7130	3560	56		1				Nguyệt My Nhi-Nhiệm vụ	Vong Ưu Đảo
+239	1094	495	1680	4680	30			1			Dương Ảnh Phong-Theo sau	Vô Ưu Cấm Địa
+240	1108	495	1260	4730	30			1			Tường Vi-Theo sau	Vô Ưu Cấm Địa
+241	730	495	9400	5450	14		1				Dương Ảnh Phong-Nhiệm vụ	Vô Ưu Cấm Địa
+242	1094	495	9400	5450	14			1			Dương Ảnh Phong-Theo sau	Vô Ưu Cấm Địa
+243	1091	496	8481	9932	36		1				Tử Hiên-Nhiệm vụ	Trích Tinh Lâu
+244	1156	496	8481	9932	36			1			Tử Hiên-Theo sau	Trích Tinh Lâu
+245	1106	496	1800	3560	45				MoveAndDelete	zxl_zx1	Tử Hiên-Di chuyển	Trích Tinh Lâu
+246	1094	496	1600	3700	14			1			Dương Ảnh Phong-Theo sau	Trích Tinh Lâu
+247	1108	497	7979	6922	48			1			Tường Vi-Theo sau	Phi Long Bảo
+248	1081	498	2210	3000	36			1			Dương Ảnh Phong-Theo sau	Bi Ma Sơn Trang
+249	725	498	7000	3100	49		1		MoveAndDelete	bmsz_nlz1	Nạp Lan Chân-Di chuyển	Bi Ma Sơn Trang
+250	1281	498	6800	2950	49				MoveAndDelete	bmsz_qw1	Tường Vi-Di chuyển	Bi Ma Sơn Trang
+251	725	498	7600	3000	49				MoveAndDelete	bmsz_nlz2	Nạp Lan Chân-Di chuyển	Bi Ma Sơn Trang
+252	730	498	6000	8550	48		1				Dương Ảnh Phong-Nhiệm vụ	Bi Ma Sơn Trang
+253	1095	498	6000	8550	48						Dương Ảnh Phong-Biểu Hiện	Bi Ma Sơn Trang
+254	721	498	5380	8780	28						Nạp Lan Chân-Biểu hiện	Bi Ma Sơn Trang
+255	1092	498	5770	8800	38						Tử Hiên-Biểu hiện	Bi Ma Sơn Trang
+256	1099	498	5770	8370	54						Tường Vi-Biểu hiện	Bi Ma Sơn Trang
+257	1006	498	5400	8360	7						Nguyệt My Nhi-Biểu hiện	Bi Ma Sơn Trang
+258	1081	497	2700	2100	36			1			Dương Ảnh Phong-Theo sau	Bi Ma Sơn Trang
+259	1165	480	6780	6540	45		1				Đệ Tử Võ Di Kiếm Phái-Nhiệm vụ	Cửu Hầu Động
+260	1167	480	6780	6540	45						Đệ Tử Võ Di Kiếm Phái-Biểu hiện	Cửu Hầu Động
+261	1310	480	7250	6570	45				Move	jhd_wydz1	Đệ Tử Võ Di Kiếm Phái-Nhiệm vụ	Cửu Hầu Động
+262	1310	480	6780	6540	45				MoveAndDelete	jhd_wydz2	Đệ Tử Võ Di Kiếm Phái-Biểu hiện	Cửu Hầu Động
+263	1433	491	2200	3750					MoveAndDelete	hsp_hsdz1	Đệ Tử Hoa Sơn-Thoát	Hoa Sơn
+264	1433	491	3200	5550					Move	hsp_hsdz2	Đệ Tử Hoa Sơn-Xuất hiện	Hoa Sơn
+265	1434	491	8050	7520			1				Hoa Sơn Trưởng Lão-Nhiệm vụ	Hoa Sơn
+266	1435	491	8050	7520							Hoa Sơn Trưởng Lão-Biểu hiện	Hoa Sơn
+267	1436	490	2700	7200	43				MoveAndDelete	layd_dfr2	Đoàn Phù Dung-Di chuyển	Lâm An Dịch Đạo
+268	1437	491	2500	7930							Khỉ Tinh Nghịch	Hoa Sơn
+269	1437	491	3600	7900							Khỉ Tinh Nghịch	Hoa Sơn
+270	1438	491	2500	7930					MoveAndDelete	hsp_hz1	Khỉ Tinh Nghịch	Hoa Sơn
+271	1438	491	3600	7900					MoveAndDelete	hsp_hz2	Khỉ Tinh Nghịch	Hoa Sơn
+272	1264	491	3200	8890							Đống Lá Rơi	Hoa Sơn
+273	1440	408	7480	8530	32		1				Nghiêm Tướng Quân-Nhiệm vụ	Kiếm Môn Quan
+274	1441	408	7480	8530	32						Nghiêm Tướng Quân-Biểu hiện	Kiếm Môn Quan
+275	1443	408	16300	12222	47		1				Mao Sư Đạo Trưởng-Nhiệm Vụ	Kiếm Môn Quan
+276	1452	408	16300	12222	47			1			Mao Sư Đạo Trưởng-Theo sau	Kiếm Môn Quan
+277	1443	408	7870	7750	29		1				Mao Sư Đạo Trưởng-Nhiệm Vụ	Kiếm Môn Quan
+278	1445	408	7870	7750	29				MoveAndDelete	jmg_msdz1	Mao Sư Đạo Trưởng-Di chuyển	Kiếm Môn Quan
+279	1442	408	7480	8530	43				MoveAndDelete	jmg_yjj1	Nghiêm Tướng Quân-Di chuyển	Kiếm Môn Quan
+280	1442	479	1550	1260	0				MoveAndDelete	gzc_yjj1	Nghiêm Tướng Quân-Di chuyển	Chiến Trường Cổ
+281	1440	479	1550	1260	0		1				Nghiêm Tướng Quân-Nhiệm vụ	Chiến Trường Cổ
+282	1441	479	1550	1260	0						Nghiêm Tướng Quân-Biểu hiện	Chiến Trường Cổ
+283	1440	479	5430	2000	0		1				Nghiêm Tướng Quân-Nhiệm vụ	Chiến Trường Cổ
+284	1441	479	5430	2000	0						Nghiêm Tướng Quân-Biểu hiện	Chiến Trường Cổ
+285	1077	408	5000	5500	50		1				Lục Lâm Đầu Lĩnh-Nhiệm vụ	Kiếm Môn Quan
+286	1078	408	5000	5500	50						Lục Lâm Đầu Lĩnh-Biểu hiện	Kiếm Môn Quan
+287	1068	408	13370	11100	44		1				Thôn Dân-Nhiệm vụ	Kiếm Môn Quan
+288	1090	408	13370	11100	44			1			Thôn Dân-Theo sau	Kiếm Môn Quan
+289	1442	479	5430	2000	0				MoveAndDelete	gzc_yjj2	Nghiêm Tướng Quân-Di chuyển	Chiến Trường Cổ
+290	1457	408	8000	8580	0			1			Sĩ Binh-Theo sau	Kiếm Môn Quan
+291	1453	408	7170	8150	33				Move	jmg_sb1	Sĩ Binh-Di chuyển	Kiếm Môn Quan
+292	1453	408	7390	7130	35				Move	jmg_sb2	Sĩ Binh-Di chuyển	Kiếm Môn Quan
+293	1453	408	8500	7000	47				Move	jmg_sb3	Sĩ Binh-Di chuyển	Kiếm Môn Quan
+294	1453	408	8000	8600	35				Move	jmg_sb4	Sĩ Binh-Di chuyển	Kiếm Môn Quan
+295	1453	408	7550	7780	0				MoveAndDelete	jmg_sb5	Sĩ Binh-Di chuyển	Kiếm Môn Quan
+296	1453	408	7650	7400	0				MoveAndDelete	jmg_sb6	Sĩ Binh-Di chuyển	Kiếm Môn Quan
+297	1453	408	8130	7360	0				MoveAndDelete	jmg_sb7	Sĩ Binh-Di chuyển	Kiếm Môn Quan
+298	1453	408	8000	8000	0				MoveAndDelete	jmg_sb8	Sĩ Binh-Di chuyển	Kiếm Môn Quan
+299	1453	408	7170	8150	33						Sĩ Binh-Biểu hiện	Kiếm Môn Quan
+300	1453	408	7390	7130	35						Sĩ Binh-Biểu hiện	Kiếm Môn Quan
+301	1453	408	8500	7000	47						Sĩ Binh-Biểu hiện	Kiếm Môn Quan
+302	1453	408	8000	8600	35						Sĩ Binh-Biểu hiện	Kiếm Môn Quan
+303	1453	479	6000	2640	40				Move	gzc_sb1	Sĩ Binh-Di chuyển	Chiến Trường Cổ
+304	1453	479	4900	2600	23				Move	gzc_sb2	Sĩ Binh-Di chuyển	Chiến Trường Cổ
+305	1453	479	4960	1730	6				Move	gzc_sb3	Sĩ Binh-Di chuyển	Chiến Trường Cổ
+306	1453	479	5830	1420	53				Move	gzc_sb4	Sĩ Binh-Di chuyển	Chiến Trường Cổ
+307	1454	479	5400	2900	34				Move	gzc_smr1	Người Bí Ẩn-Di chuyển	Chiến Trường Cổ
+308	1454	479	5390	2380	34				MoveAndDelete	gzc_smr2	Người Bí Ẩn-Di chuyển	Chiến Trường Cổ
+309	720	400	4050	8670	41		1				Nạp Lan Chân-Nhiệm vụ	Tỏa Vân Uyên
+310	1343	402	2800	2800	15				MoveAndDelete	yds_yyf1	Dương Ảnh Phong-Di chuyển	Nhạn Đãng Sơn
+311	1629	403	5850	7710	57		1				Tường Vi-Nhiệm vụ	Động Đình Hồ
+312	1632	403	5850	7710	57			1			Tường Vi-Theo sau	Động Đình Hồ
+313	1646	411	14400	12060	44		1				Thiếu Nữ Áo Trắng-Nhiệm vụ	Phục Ngưu Sơn
+314	1647	411	14400	12060	44						Thiếu Nữ Áo Trắng-Biểu hiện	Phục Ngưu Sơn
+315	1648	411	9340	9000	49		1				Cố Thanh Tuyết-Nhiệm vụ	Phục Ngưu Sơn
+316	1649	411	9340	9000	49						Cố Thanh Tuyết-Biểu hiện	Phục Ngưu Sơn
+317	1276	411	12700	14100	0						Thu thập	Phục Ngưu Sơn
+318	1658	411	4050	14300	30			1			Vân Tiếu Phong-Theo sau	Phục Ngưu Sơn
+319	1650	411	10500	14100	34		1				Vân Tiếu Phong-Nhiệm vụ	Phục Ngưu Sơn
+320	1651	411	10500	14100	34						Vân Tiếu Phong-Biểu hiện	Phục Ngưu Sơn
+321	1650	411	7130	14120	35		1				Vân Tiếu Phong-Nhiệm vụ	Phục Ngưu Sơn
+322	1651	411	7130	14120	35						Vân Tiếu Phong-Biểu hiện	Phục Ngưu Sơn
+323	1652	411	4050	14300	30		1				A Bang-Nhiệm vụ	Phục Ngưu Sơn
+324	1653	411	4050	14300	30						A Bang-Biểu hiện	Phục Ngưu Sơn
+325	1659	411	5600	9540	41			1			A Bang-Theo sau	Phục Ngưu Sơn
+326	1661	411	5300	5000	35			1			Dương Anh-Theo sau	Phục Ngưu Sơn
+327	1652	411	7660	9240	35		1				A Bang-Nhiệm vụ	Phục Ngưu Sơn
+328	1653	411	7660	9240	35						A Bang-Biểu hiện	Phục Ngưu Sơn
+329	1654	411	6900	3180	0		1				Dương Anh-Nhiệm vụ	Phục Ngưu Sơn
+330	1655	411	6900	3180	0						Dương Anh-Biểu hiện	Phục Ngưu Sơn
+331	1654	411	5300	5000	35		1				Dương Anh-Nhiệm vụ	Phục Ngưu Sơn
+332	1655	411	5300	5000	35						Dương Anh-Biểu hiện	Phục Ngưu Sơn
+333	1654	411	14220	8770	47		1				Dương Anh-Nhiệm vụ	Phục Ngưu Sơn
+334	1655	411	14220	8770	47						Dương Anh-Biểu hiện	Phục Ngưu Sơn
+335	1656	484	1610	3080	21		1				Độc Cô Kiếm-Nhiệm vụ	Phục Ngưu Sơn
+336	1657	484	1610	3080	21						Độc Cô Kiếm-Biểu hiện	Phục Ngưu Sơn
+337	1656	411	13430	3480	51		1				Độc Cô Kiếm-Nhiệm vụ	Phục Ngưu Sơn
+338	1657	411	13430	3480	51						Độc Cô Kiếm-Biểu hiện	Phục Ngưu Sơn
+339	1068	411	9800	11550	38		1				Thôn Dân-Nhiệm vụ	Phục Ngưu Sơn
+340	1234	411	9800	11550	38			1			Thôn Dân-Biểu hiện	Phục Ngưu Sơn
+341	1651	411	4140	13950	55						Vân Tiếu Phong-Biểu hiện	Phục Ngưu Sơn
+342	1651	411	7950	9200	33						Vân Tiếu Phong-Biểu hiện	Phục Ngưu Sơn
+343	1654	411	14420	7020	47		1				Dương Anh-Nhiệm vụ	Phục Ngưu Sơn
+344	1655	411	14420	7020	47						Dương Anh-Biểu hiện	Phục Ngưu Sơn
+345	1662	411	13430	3480	51			1			Độc Cô Kiếm-Theo sau	Phục Ngưu Sơn
+346	1764	411	14200	5100	32				MoveAndDelete	fns_dgj1	Độc Cô Kiếm-Di chuyển	Phục Ngưu Sơn
+377	1233	15	7820	8720	32						Cư Dân Trong Thành-Biểu hiện	Lâm An Thành
+378	1945	15	7820	8600	0						Cư Dân Trong Thành-Biểu hiện	Lâm An Thành
+379	1236	15	6870	15820	41						Nhân Sĩ Võ Lâm-Biểu hiện	Lâm An Thành
+380	1240	15	6730	15700	8						Nhân Sĩ Võ Lâm-Biểu hiện	Lâm An Thành
+800	1667	10	17720	12650	52						Tiểu Duyên-Biểu hiện	Tương Dương
+801	1679	801	4600	950	49				Move	yfg_tt1	Đĩnh Ca-Di chuyển	Ngọc Phong Cốc
+802	1679	801	3600	1000					MoveAndTalk	yfg_tt2|Duyên phận...Ta sẽ trân trọng và bảo vệ ngươi.	Đĩnh Ca-Di chuyển	Ngọc Phong Cốc
+803	1678	801	2400	950	18				MoveAndTalk	yfg_yy1|Cuối cùng cũng gặp, cũng may ta chưa từ bỏ.	Tiểu Duyên-Di chuyển	Ngọc Phong Cốc
+804	1685	10	17720	12650	52		1				Tiểu Duyên-Nhiệm vụ	Tương Dương
+805	1679	801	4600	950	49						Đĩnh Ca-Biểu hiện	Ngọc Phong Cốc

@@ -1,0 +1,116 @@
+nPartnerId	Desc	Name	nType
+5	Đồng Hành SSS	Hạng Vũ	1
+144	Đồng Hành SSS	Hoàn Nhan Hồng Liệt	1
+11	Đồng Hành SS	Độc Cô Kiếm	1
+12	Đồng Hành SS	Nam Cung Phi	1
+13	Đồng Hành SS	Dương Ảnh Phong	1
+14	Đồng Hành SS	Đường Giản	1
+15	Đồng Hành SS	Huyền Thiên Đạo Nhân	1
+17	Đồng Hành SS, Danh Tướng	Lý Nguyên Bá	1
+18	Đồng Hành SS, Danh Tướng	Triệu Vân	1
+19	Đồng Hành SS, Danh Tướng	Lý Quảng	1
+20	Đồng Hành SS, Danh Tướng	Kinh Kha	1
+21	Đồng Hành SS	Ngu Cơ	1
+22	Đồng Hành SS	Nhạc Phi	1
+23	Đồng Hành S	Nguyệt My Nhi	5
+24	Đồng Hành S, Thiên Vương Chưởng Môn	Dương Anh	1
+25	Đồng Hành S, Tiêu Dao Chưởng Môn	Chúc Tử Hư	1
+26	Đồng Hành S, Nga Mi Chưởng Môn	Thanh Hiểu Sư Thái	1
+27	Đồng Hành S, Đào Hoa Chưởng Môn	Hoàng Mộ Vân	1
+28	Đồng Hành S, Võ Đang Chưởng Môn	Đạo Nhất Chân Nhân	1
+29	Đồng Hành S, Thiên Nhẫn Chưởng Môn	Đoan Mộc Duệ	1
+36	Đồng Hành S	Mạnh Tri Thu	1
+37	Đồng Hành S, Danh Tướng	Cao Trường Cung	1
+38	Đồng Hành S, Danh Tướng	Triết Biệt	1
+39	Đồng Hành S, Danh Tướng	Tần Lương Ngọc	1
+40	Đồng Hành S, Danh Tướng	Viên Thừa Chí	1
+41	Đồng Hành S, Danh Tướng	Ngao Bái	1
+42	Đồng Hành S	Hàn Thế Trung	1
+145	Đồng Hành S, Thủ Lĩnh Dã Ngoại	Băng Lân Tích Hoàng	1
+146	Đồng Hành S, Thủ Lĩnh Dã Ngoại	Ngân Câu Hạt Hoàng	1
+147	Đồng Hành S, Thủ Lĩnh Dã Ngoại	Cuồng Tông Ngao Hoàng	1
+43	Đồng Hành S, Thủ Lĩnh Dã Ngoại	Xích Tinh Hổ Hoàng	1
+44	Đồng Hành S, Thủ Lĩnh Dã Ngoại	Hám Thiên Hùng Hoàng	1
+45	Đồng Hành S, Thủ Lĩnh Dã Ngoại	Tử Bối Ngạc Hoàng	1
+46	Đồng Hành S, Thủ Lĩnh Dã Ngoại	Định Hải Kim Cang	1
+47	Đồng Hành S, Thủ Lĩnh Dã Ngoại	Kim Sí Bằng Hoàng	1
+48	Đồng Hành S, Thủ Lĩnh Dã Ngoại	Ngân Giác Tê Hoàng	1
+49	Đồng Hành S	Trương Phong	1
+50	Đồng Hành S	Nam Cung Diệt	1
+51	Đồng Hành S	Phương Miễn	1
+52	Đồng Hành S, Bí cảnh tổ đội 60	Đường Ảnh	1
+53	Đồng Hành S	Thu Y Thủy	1
+54	Đồng Hành S	Thiên Tinh Đạo Trưởng	1
+55	Đồng Hành S	Yên Nhược Tuyết	1
+56	Đồng Hành S	Dương Hi Liệt	1
+57	Đồng Hành S	Thượng Quan Phi Long	1
+58	Đồng Hành S	Nạp Lan Tiềm Lẫm	1
+59	Đồng Hành A	Nạp Lan Chân	3
+60	Đồng Hành A	Tiểu Ảnh Phong	4
+61	Đồng Hành A, Thiên Vương Đại Sư Huynh	Dương Thiết Tâm	1
+62	Đồng Hành A, Tiêu Dao Đại Sư Huynh	Liễu Tiêu Đình	1
+63	Đồng Hành A, Nga Mi Đại Sư Huynh	Vô Tưởng	1
+64	Đồng Hành A, Đào Hoa Đại Sư Tỷ	Lý Điềm Nhi	1
+65	Đồng Hành A, Võ Đang Đại Sư Huynh	Lý Thiên Mục	1
+66	Đồng Hành A, Thiên Nhẫn Đại Sư Tỷ	Hoàn Nhan Tương	1
+73	Đồng Hành A, Thủ Lĩnh Dã Ngoại	Song Thủ Dị Thú	1
+74	Đồng Hành A, Thủ Lĩnh Dã Ngoại	Bôn Diệm Báo Vương	1
+75	Đồng Hành A, Thủ Lĩnh Dã Ngoại	Cửu Vĩ Hồ Vương	1
+76	Đồng Hành A	Đường Tiêu	1
+77	Đồng Hành A	Tử Hiên	1
+78	Đồng Hành A	Tường Vi	1
+79	Đồng Hành A	Trác Phi Phàm	1
+80	Đồng Hành A	Nguyệt Minh Dao	1
+81	Đồng Hành A	Nam Cung Thái Hồng	1
+82	Đồng Hành A	Trương Như Mộng	1
+83	Đồng Hành A	Trương Lâm Tâm	1
+84	Đồng Hành A	Phong Ngọc Thư	1
+85	Đồng Hành A	Khúc Hà	1
+86	Đồng Hành A	Gia Luật Tị Li	1
+87	Đồng Hành A	Lâm Hải	1
+88	Đồng Hành A	Lục Văn Long	1
+89	Đồng Hành A	Triệu Vô Song	1
+90	Đồng Hành A	Vô Tướng	1
+91	Đồng Hành A	Triệu Tiết	1
+92	Đồng Hành A	Thiệu Kỵ Phong	1
+93	Đồng Hành A	Hà Mộ Tuyết	1
+94	Đồng Hành A	Triệu Thăng Quyền	1
+95	Đồng Hành A	Sài Tung	1
+96	Đồng Hành B	Ân Phương	2
+97	Đồng Hành B	Tô Mặc Vân	1
+98	Đồng Hành B	Tiêu Động Trần	1
+99	Đồng Hành B	Bạch Mi Hầu Vương	1
+100	Đồng Hành B	Đại Địa Lang Vương	1
+101	Đồng Hành B	Hàn Ngọc Lộc Vương	1
+102	Đồng Hành B	Hồ Thần Y	1
+103	Đồng Hành B	Tần Mộc Bạch	1
+104	Đồng Hành B	Trương Trọng Thiên	1
+105	Đồng Hành B	Lộ Đạt	1
+106	Đồng Hành B	Lý Tam	1
+107	Đồng Hành B	Lư Thanh	1
+108	Đồng Hành B	Oanh Nhi	1
+109	Đồng Hành B	Cố Võ	1
+114	Đồng Hành C	Kim Tiền Báo	1
+115	Đồng Hành C	Hắc Dực Liệp Ưng	1
+116	Đồng Hành C	Võ Lâm Ác Đồ	1
+117	Đồng Hành C	Mãnh Hổ	1
+118	Đồng Hành C	Phong Lâm Vệ	1
+119	Đồng Hành C	Viên Hầu	1
+120	Đồng Hành C	Thiết Diện Bổ Đầu	1
+121	Đồng Hành C	Hồng Y Nữ Đồng	1
+122	Đồng Hành C	Thầy Đúc Kiếm	1
+123	Đồng Hành C	Thợ Săn	1
+124	Đồng Hành C	Hồng Anh Thị	1
+125	Đồng Hành C	Cường Đạo	1
+126	Đồng Hành C	Đệ Tử Dược Vương	1
+127	Đồng Hành C	Sói Xám	1
+128	Đồng Hành C	Đông Doanh Nhẫn Giả	1
+129	Đồng Hành C	Sinh Sứ	1
+130	Đồng Hành C	Tử Thị	1
+131	Đồng Hành C	Hỏa Hồ	1
+132	Đồng Hành C	Đệ Tử Cửu U	1
+133	Đồng Hành C	Gấu Đen	1
+134	Đồng Hành C	Đệ Tử Vô Ưu Giáo	1
+135	Đồng Hành C	Thiên Công Tượng Giả	1
+136	Đồng Hành C	Khôi Lỗi Sĩ Binh	1
+137	Đồng Hành C	Cơ Quan Nhân	1

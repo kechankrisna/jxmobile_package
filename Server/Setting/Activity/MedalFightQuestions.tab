@@ -1,0 +1,252 @@
+nId	szQuestion	nAnswerId	szA1	szA2	szA3	szA4
+1	Ai là một trong “Tây Sơn Thất Hổ Tướng”?	1	Võ Đình Tú	Phạm Hạp	Nguyễn Bặc	Phạm Cự Lượng
+2	Ai đứng đầu “Tây Sơn Thất Hổ Tướng”?	4	Lý Văn Bưu	Trần Quang Diệu	Lê Văn Hưng	Võ Văn Dũng
+3	Nỏ Liên Châu là vũ khí nổi tiếng của triều đại nào?	2	Văn Lang	Âu Lạc	Nhà Lý	Nhà Trần
+4	Súng Thần Cơ là phát minh của ai?	2	Hồ Quý Ly	Hồ Nguyên Trừng	Lý Thánh Tông	Lê Thái Tổ
+5	Vị khoa bảng nào sống trải qua 13 đời vua Nguyễn?	1	Đoàn Tử Quang	Lê Văn Hưu	Lê Văn Duyệt	Nguyễn Văn Thành
+6	Trạng nguyên đầu tiên của Việt Nam là ai?	3	Nguyễn Hiền	Lê Văn Hưu	Lê Văn Thịnh	Lê Quý Đôn
+7	Trạng nguyên nhỏ tuổi nhất của Việt Nam là ai?	1	Nguyễn Hiền	Lê Văn Hưu	Lê Văn Thịnh	Lê Quý Đôn
+8	Nữ tiến sĩ duy nhất của lịch sử khoa cử Việt Nam là ai?	2	Hồ Xuân Hương	Nguyễn Thị Duệ	Bùi Thị Xuân	Lê Chân
+9	Tỉnh nào có bề ngang hẹp nhất nước ta?	2	Quảng Nam	Quảng Bình	Quảng Ngãi	Quảng Trị
+10	Sông nào từng chia cắt đất nước thành Đàng Trong và Đàng Ngoài?	4	Thu Bồn	Kiến Giang	Thạch Hãn	Sông Gianh
+11	Tỉnh nào sau đây không thuộc khu vực miền Trung?	1	Bình Phước	Ninh Thuận	Khánh Hòa	Bình Định
+12	Cù Lao Chàm là đảo du lịch của tỉnh nào?	3	Quảng Bình	Quảng Trị	Quảng Nam	Quảng Ngãi
+13	Ngọn hải đăng nào cao nhất Việt Nam?	1	Kê Gà	Vũng Tàu	Đại Lãnh	Hòn Dấu
+14	Tỉnh nào đón bình minh sớm nhất Việt Nam?	3	Thanh Hóa	Quảng Nam	Khánh Hòa	Bình Thuận
+15	"Thiên Hạ Đệ Nhất Hùng Quan" là chỉ?	3	Đèo Cả	Đèo Ngang	Đèo Hải Vân	Đèo Đắk Nuê
+16	Triều đại phong kiến nào tồn tại ngắn nhất?	4	Nhà Tiền Lê	Nhà Đinh	Nhà Ngô	Nhà Hồ
+17	Triều đại phong kiến nào tồn tại lâu nhất?	2	Nhà Lý	Nhà Hậu Lê	Nhà Nguyễn	Nhà Trần
+18	Hoàng tử nào của nhà Lý nổi danh tại Hàn Quốc?	1	Lý Long Tường	Lý Long Xưởng	Lý Long Minh	Lý Long Ích
+19	Việt Nam có bao nhiêu thành phố trực thuộc trung ương?	3	3	4	5	6
+20	Theo truyền thuyết, Nam Tào Bắc Đẩu giữ nhiệm vụ gì?	2	Giữ cổng trời	Sổ sinh tử	Trông mưa nắng	Luyện đan
+21	Tỉnh nào có diện tích nhỏ nhất miền Bắc Việt Nam?	2	Thái Bình	Bắc Ninh	Hà Nam	Hải Dương
+22	Kinh thành Huế được bắt đầu xây dựng từ thời vua nào?	1	Gia Long	Minh Mạng	Thiệu Trị	Tự Đức
+23	Hoa dâm bụt là quốc hoa của nước nào?	3	Lào	Thái Lan	Malaysia	Singapore
+24	Nước nào không dùng Euro là đơn vị tiền tệ chính thức?	4	Pháp	Ý	Hy Lạp	Nga
+25	Rừng tràm Trà Sư là địa điểm nổi tiếng của tỉnh nào?	4	Kiên Giang	Cà Mau	Đồng Tháp	An Giang
+26	Tên gọi Kon Tum có ý nghĩa là gì?	2	Làng Mía	Làng Hồ	Làng Voi	Làng Thông
+27	Danh thắng Gành Đá Dĩa thuộc tỉnh nào?	3	Ninh Thuân	Khánh Hòa	Phú Yên	Bình Định
+28	Huyện đảo nào thuộc tỉnh Quảng Ninh?	1	Bạch Long Vĩ	Thổ Chu	Phú Quốc	Lý Sơn
+29	Trên tờ tiền polymer 20.000 đồng in hình kiến trúc nào?	3	Cố đô Huế	Vịnh Hạ Long	Chùa Cầu	Văn Miếu
+30	Cố đô Hoa Lư thuộc tỉnh nào?	2	Hà Nam	Ninh Bình	Thanh Hóa	Nghệ An
+31	Đại La là tên cũ của tỉnh thành nào?	3	Thừa Thiên Huế	Phú Yên	Hà Nội	Quảng Nam
+32	Tác phẩm nào sau đây không phải của nhà văn Nam Cao?	2	Chí Phèo	Sổ đỏ	Sống mòn	Lão Hạc
+33	Tổng đàn Nhật Nguyệt Thần Giáo trong Tiếu Ngạo Giang Hồ nằm ở đâu?	1	Hắc Mộc Nhai	Vọng Hải Nhai	Đoạn Tình Nhai	Ưng Sầu Nhai
+34	Sông đi qua nhiều nước nhất trên thế giới là?	1	Sông Danube	Sông Amazon	Trường Giang	Sông Nin
+35	Động vật nào xếp thứ 6 trong 12 con giáp?	2	Hổ	Rắn	Dê	Heo
+36	Đâu không phải là di sản văn hóa phi vật thể được UNESCO công nhận?	4	Ca trù	Hát xoan	Hò Huế	Bài chòi
+37	Ủy thác rời mạng có thể tích lũy tối đa bao nhiêu giờ?	3	24 giờ	36 giờ	48 giờ	72 giờ
+38	Thạch Sanh được ai tặng cây đàn thần?	4	Chằn tinh	Công chúa	Lý Thông	Con Thủy Tề
+39	Môn phái Tàng Kiếm khắc chế ngũ hành môn phái nào?	1	Ngũ Độc	Thiếu Lâm	Nga Mi	Võ Đang
+40	Truyện Lục Vân Tiên là tác phẩm của nhà thơ nổi tiếng nào?	3	Nguyễn Du	Nguyễn Trãi	Nguyễn Đình Chiểu	Nguyễn Bỉnh Khiêm
+41	Đá hồn nào sau đây gia tăng tỉ lệ bạo kích cho nhân vật?	1	Trác Phi Phàm	Trương Phong	Nguyệt Minh Dao	Thiệu Hồng Uyên
+42	Đâu không phải là đặc điểm kỹ năng của môn phái Cái Bang?	4	Cận chiến	Bạo kích	Né cao	Tầm xa
+43	Mẹ của NPC Nạp Lan Chân và Nguyệt My Nhi là ai?	2	Dương Anh	Nguyệt Minh Dao	Hoàng Mộ Vân	Trương Lâm Tâm
+44	Ai trong các vị thần dưới đây không thuộc Tứ Bất Tử?	4	Liễu Hạnh	Chữ Đồng Tử	Thánh Gióng	Lang Liêu
+45	Môn phái Côn Lôn bị khắc chế ngũ hành bởi môn phái nào?	3	Thiên Vương	Nga Mi	Đường Môn	Võ Đang
+46	Người dân Việt Nam thường ăn gì vào tết Trung Thu?	1	Bánh nướng	Bánh pía	Bánh ít	Bánh chuối
+47	Cùng sống với chú Cuội và chị Hằng trên cung trăng là ai?	1	Thỏ ngọc	Trư Bát Giới	Tôn Ngộ Không	Nhện tinh
+48	Con vật thường cùng ông Táo chầu trời là gì?	3	Cá ngựa	Rồng	Cá chép	Ngựa
+49	Tết Trung Thu diễn ra vào ngày nào?	1	15/8 Âm lịch	15/8 Dương lịch	14/8 Âm lịch	14/8 Dương lịch
+50	NPC Nam Cung Thái Hồng là người nước nào?	2	Tống 	Kim	Mông Cổ	Đại Lý
+51	Khăn Piêu là vật truyền thống của đồng bào dân tộc nào?	1	Thái	Tày	Nùng	Dao
+52	Bài phú nổi tiếng Hoa Sen Trong Giếng Ngọc là của ai?	2	Nguyễn Hiền	Mạc Đĩnh Chi	Ngô Sĩ Liên	Nguyễn Bỉnh Khiêm
+53	NPC nào là chưởng môn của Tiêu Dao?	2	Dương Anh	Chúc Tử Hư	Hoàng Mộ Vân	Huyền Nhân
+54	An Dương Vương là vị vua nổi tiếng với thành trì nào?	4	Thăng Long	Huế	Gia Định	Cổ Loa
+55	Chùa Một Cột còn có tên là gì?	4	Chùa Trấn Quốc	Chùa Dâu	Chùa Quán Sứ	Chùa Diên Hựu
+56	Theo phong tục Việt Nam, tết Trung Thu được tổ chức vào?	3	Mùa mưa	Mùa nắng	Mùa thu	Mùa xuân
+57	NPC Hoàng Mộ Vân là Chưởng môn phái nào?	2	Đường Môn	Đào Hoa	Cái Bang	Thiên Sơn
+58	Mặt trăng thường quay quanh Trái Đất khoảng bao lâu?	3	15 ngày	20 ngày	28 ngày	365 ngày
+59	Lý Thái Tổ dời đô về Thăng Long vào năm nào?	2	Năm 1000 	Năm 1010	Năm 1110	Năm 1210
+60	Biệt hiệu Hồng Hà Nữ Sĩ là chỉ ai?	3	Hồ Xuân Hương	Bà Huyện Thanh Quan	Đoàn Thị Điểm	Sương Nguyệt Anh
+61	Bài hát Chiếc Đèn Ông Sao do nhạc sĩ nào sáng tác?	1	Phạm Tuyên	Trịnh Công Sơn	Hoàng Lân	Lưu Hữu Phước
+62	Nhân vật nào không liên quan đến các sự tích về tết Trung Thu?	3	Hằng Nga	Chú Cuội	Sọ Dừa	Thỏ Ngọc
+63	Ai có thể mở Xe Tiêu trong Vận Tiêu Bang Hội?	1	Bang chủ	Trưởng lão	Thủ lĩnh	Bảo bối
+64	Ngôi đền nào sau đây không thuộc Thăng Long Tứ Trấn?	4	Đền Bạch Mã	Đền Voi Phục	Đền Quán Thánh	Đền Thiên Trường
+65	Giữa 1kg sắt và 1kg gỗ cái nào nặng hơn?	3	Gỗ	Sắt	Như nhau	Không so sánh được
+66	Người phụ nữ đầu tiên xưng vương của Việt Nam là ai?	1	Trưng Trắc	Trưng Nhị	Triệu Thị Trinh	Lý Chiêu Hoàng
+67	Đâu không phải tác phẩm của Lương Thế Vinh?	4	Đại Thành Toán Pháp	Hý Phường Phả Lục	Thiền Môn Khoa Giáo	Liên Châu Thi Tập
+68	Rừng U Minh là địa danh thuộc tỉnh nào?	1	Cà Mau	Kiên Giang	Hậu Giang	Bến Tre
+69	Hoàng đế đầu tiên đặt quốc hiệu Đại Việt là ai?	2	Lý Thái Tổ	Lý Thánh Tông	Trần Thánh Tông	Lê Thánh Tông
+70	Đâu là một trong các ca khúc chủ đề của Võ Lâm Truyền Kỳ Mobile?	4	Em Gái Mưa	Lạc Trôi	Đừng Hỏi Em	Yes I Do
+71	Trong tiểu thuyết Kim Dung, Lý Mạc Sầu thuộc môn phái nào?	1	Cổ Mộ	Toàn Chân	Cái Bang	Thiếu Lâm
+72	Sự tích chú Cuội gắn liền với cây gì?	1	Cây đa	Cây đề	Cây sung	Cây mít
+73	Vụ án Lệ Chi Viên đã dẫn đến cái chết oan của nhân vật nổi tiếng nào?	2	Nguyễn Du	Nguyễn Trãi	Lê Quý Đôn	Ngô Sĩ Liên
+74	Hoàng hậu cuối cùng của Việt Nam là ai?	2	Từ Dụ 	Nam Phương	Ngọc Hân	Ỷ Lan
+75	Người đầu tiên đặt chân lên mặt trăng vào năm nào?	1	1969	1970	1971	1972
+76	Cái gì có thể đo được, nhưng không có chiều dài, chiều rộng và bề dày?	3	Thước dây	Thước kẻ	Nhiệt Kế	Cả 3 đáp án đều đúng
+77	Trong Truyện Kiều, ai được mô tả là: Mây thua nước tóc, tuyết nhường màu da	2	Thúy Kiều	Thúy Vân	Hoạn thư	Kim Trọng
+78	Nhân vật trong Truyện Kiều nào được mô tả có râu hùm, hàm én?	2	Kim Trọng	Từ Hải	Sở Khanh	Mã Giám Sinh
+79	Cái gì có thể giải được tất cả câu đố?	3	Chìa khóa	Trí tuệ	Đáp án	Khác
+80	Cầu gì cong cong, dẫu bắt qua sông, không ai sang được?	3	Cầu mây	Cầu khỉ	Cầu vồng	Cầu tài
+81	Cầu thủ bóng đá và con bò giống nhau ở điểm nào?	3	Hay gào thét	Chạy nhanh	Ghét màu đỏ	Hay ăn vạ
+82	Môn phái nào sau đây thuộc hệ Hỏa?	4	Thiếu Lâm	Thúy Yên	Tiêu Dao	Đào Hoa
+83	Chẳng ai biết mặt ra sao/Chỉ nghe tiếng thét trên cao ầm ầm. Là thứ gì?	3	Chớp	Sét	Sấm	Núi lở
+84	Chẳng phải ảnh, chẳng phải tranh/Mà ai xem cũng thấy mình ở trong. Là vật gì?	3	Tấm ảnh	Bức tranh	Gương	Tiểu thuyết
+85	Nhà thơ nào là chủ nhân câu thơ: Ai mua trăng ta bán trăng cho	4	Nguyễn Khoa Điềm	Tố Hữu	Nguyễn Đình Thi	Hàn Mặc Tử
+86	Bài thơ Nam Quốc Sơn Hà từng được Lý Thường Kiệt cho quân đọc bên bờ sông nào?	2	Bạch Đằng	Như Nguyệt	Cửu Long	Sông Đuống
+87	Theo tiểu thuyết Kim Dung, môn phái Minh Giáo xuất xứ từ đâu?	1	Ba Tư	Ấn Độ	Đại Lý	Mông Cổ
+88	Nhân vật quen thuộc trong lễ hội tết Trung Thu là ai?	1	Ông Địa	Chú Tễu	Thị Nở	Cô Tấm
+89	Điền vào chỗ trống: Chú Cuội ngồi gốc cây đa/Để trâu ăn lúa gọi cha …	1	Ời ời	Rầm rầm	Ù ù	Cha ơi
+90	Điền vào chỗ trống: Em không nghe …/Dưới trăng mờ thổn thức?	1	Mùa thu	Mùa mưa	Mùa xuân	Mùa đông
+91	Chiếc đồng hồ nào cứ mỗi ngày lại bị chậm mất 24 giờ?	3	Đồng hồ dây thun	Đồng hồ cát	Đồng hồ hư	Đồng hồ nước
+92	Chồng người da đen, vợ người da trắng vừa sinh 1 đứa bé. Hỏi răng đứa bé màu gì?	3	Màu đen	Màu trắng	Không màu	Màu vàng
+93	Lang Liêu là con trai của vua Hùng Vương thứ mấy?	2	Thứ 1	Thứ 6	Thứ 7	Thứ 18
+94	Văn Tế Nghĩa Sĩ Cần Giuộc được sáng tác tại tỉnh nào hiện nay của Việt Nam?	1	Long An	Tiền Giang	Trà Vinh	Vĩnh Long
+95	Cấp độ bao nhiêu trở lên có thể bái sư?	1	Cấp 20	Cấp 30	Cấp 40	Cấp 50
+96	Bánh chưng là loại bánh tượng trưng cho vật gì?	2	Trời	Đất	Núi	Sông
+97	Mẹ Thánh Gióng đã mang thai bao lâu để sinh ra Gióng?	2	10 tháng	12 tháng	2 năm	3 năm
+98	Mỗi nhân vật được sử dụng tối đa mấy Bí Kíp Võ Lâm (Thượng)?	3	1	3	5	7
+99	Sử thi Đam San là trường ca truyền miệng của dân tộc nào?	1	Ê đê	Ba Na	Xơ đăng	Tà Ôi
+100	Vật gì có đầy đủ năm ngón tay nhưng không có thịt và xương?	3	Đứa bé	Con quỷ	Cái găng tay	Bù nhìn rơm
+101	Mấy giờ sẽ hồi phục 1 lần khiêu chiến Võ Thần Điện?	3	1 giờ	2 giờ	4 giờ	6 giờ
+102	Dân gian thường đưa Ông Táo về trời vào ngày nào?	2	15 tháng Chạp	23 tháng Chạp	29 tháng Chạp	30 tháng Chạp
+103	Bản đồ nào sau đây có thể tham gia nhiệm vụ Trừng Ác?	3	Tỏa Vân Uyên	Võ Di Sơn	Miêu Lĩnh	Nhạn Đãng Sơn
+104	Nếu được lựa chọn, tử tội muốn được xử chết bằng cách nào?	3	Tiêm độc	Xử bắn	Chết già	Treo cổ
+105	Đàn độc huyền là tên gọi khác của loại nhạc cụ nào?	2	Đàn tranh	Đàn bầu	Đàn đá	Đàn guitar
+106	Điền vào chỗ trống: Thuyền ai đậu bến … đó/Có chở trăng về kịp tối nay?	4	Sông thơ	Mây bay	Hoa trăng	Sông trăng
+107	Một con ngựa đi về phía nam rồi đi về phía bắc, đuôi nó ở phía nào?	4	Nam	Bắc	Tây	Phía dưới
+108	Từ nào sau đây là từ láy?	4	Ào ào	Ầm ầm	Rầm rầm	Cả ba đều đúng
+109	Loại giấy dùng để vẽ tranh Đông Hồ là gì	1	Giấy điệp	Giấy vải	Giấy lụa	Tre mành
+110	Từ nào sau đây là từ láy?	4	Tí tách	Lăn tăn	Lả chả	Cả ba đều đúng
+111	Bố Cái Đại Vương là thụy hiệu của vị vua nào?	2	Mai Hắc Đế	Phùng Hưng	Đinh Bộ Lĩnh	Ngô Quyền
+112	Từ nào sau đây là từ láy?	4	Nhăn nheo	Gầy guộc	Xanh xao	Cả ba đều đúng
+113	Độ thân mật bao nhiêu mới có thể Kết Hôn?	1	30	35	40	50
+114	Trạng nguyên đầu tiên của Việt Nam là ai?	2	Nguyễn Bỉnh Khiêm	Nguyễn Hiền	Mạc Đỉnh Chi	Trịnh Tuệ
+115	Đèn cù là tên gọi khác của loại đèn nào sau đây?	1	Kéo quân	Ông sao	Cá chép	Đèn dầu
+116	Đinh Bộ Lĩnh lên ngôi vua đã đặt quốc hiệu là gì?	2	Đại Việt	Đại Cồ Việt	Đại Ngu	Vạn Xuân
+117	Từ nào sau đây là từ láy?	3	Lo âu	Lo toan	Lo lắng	Cả ba đều sai
+118	NPC Phương Miễn mang danh hiệu nào sau đây?	4	Tiên Kiếm Khách	Thiên Kiếm Khách	Phi Kiếm Khách	Tâm Kiếm Khách
+119	Trong bảng chữ cái tiếng Việt, có bao nhiêu ký tự tất cả?	1	29	27	25	24
+120	Trong tiểu thuyết Kim Dung, Kim Luân Pháp Vương là quốc sư nước nào?	2	Tây Hạ	Mông Cổ	Đại Kim	Khiết Đan
+121	Từ nào sau đây là danh từ?	3	Hát	Đi	Bàn	Ngồi
+122	NPC Long Ngũ là thủ lĩnh của tổ chức nào?	4	Võ Lâm Minh	Ác Nhân Cốc	Bạch Hổ Đường	Long Đằng Doanh
+123	NPC Chúc Tử Hư là Chưởng môn phái nào?	2	Nga Mi	Tiêu Dao	Võ Đang	Thiên Sơn
+124	Từ nào sau đây là danh từ?	3	Đi	Đánh	Ghế	Ngủ
+125	Ai là vợ vua Lý Thánh Tông, từng hai lần buông rèm nhiếp chính?	1	Ỷ Lan	Từ Dụ	Ngọc Hân	Nam Phương
+126	Triều đại nào ngắn nhất trong lịch sử phong kiến Việt Nam??	2	Nhà Đinh	Nhà Hồ	Nhà Mạc	Nhà Nguyễn
+127	Huynh đệ tri kỷ của NPC Nam Cung Phi, môn chủ Trường Ca Môn là ai?	4	Đường Ảnh	Triệu Tiết	Dương Ảnh Phong	Sài Tung
+128	Từ nào sau đây là danh từ?	3	Ăn	Ngủ	Tủ	Chơi
+129	NPC Độc Cô Kiếm từng là chưởng môn môn phái nào?	4	Võ Đang	Thục Sơn	Hoa Sơn	Hành Sơn
+130	Ái nữ của NPC Độc Cô Kiếm là ai?	1	Độc Cô Văn	Nạp Lan Chân	Nguyệt My Nhi	Trương Lâm Tâm
+131	Kỹ năng Hồi Hồn Mật Chú là của môn phái nào?	2	Thiên Sơn	Ngũ Độc	Côn Lôn	Võ Đang
+132	Trong tiểu thuyết Kim Dung, Quách Tương có biệt hiệu là gì?	1	Tiểu Đông Tà	Đông Tà	Tây Cuồng	Bắc Hiệp
+133	NPC Dương Hi Liệt và Thượng Quan Phi Long từng tử chiến tại đâu?	4	Đào Hoa Đảo	Hoa Sơn	Vong Ưu Cốc	Lăng Tuyệt Phong
+134	Trong tiểu thuyết Kim Dung, người sáng lập phái Toàn Chân là ai?	1	Vương Trùng Dương	Lâm Triều Anh	Mai Siêu Phong	Khưu Xứ Cơ
+135	Kỹ năng Băng Cơ Ngọc Cốt là của môn phái nào?	2	Nga Mi	Thúy Yên	Thiên Sơn	Trường Ca
+136	Kỹ năng Nghịch Chuyển Cửu Âm là của môn phái nào?	2	Nga Mi	Đào Hoa	Thúy Yên	Trường Ca
+137	Từ nào sau đây là danh từ?	3	Nhảy	Nằm	Giường	Hát
+138	Lê Thánh Tông từng lập hội nào để tập hợp các nhà văn hóa lớn đương thời?	4	Bạch Đằng	Hồng Đức	Diên Hồng	Tao Đàn
+139	Điền vào chỗ trống: Ăn mặn nói ngay hơn ăn chay …	3	Nói gở	Nói thẳng	Nói dối	Nói ác
+140	Phần lớn các hoa hậu thế giới được sinh ra ở đâu không?	2	Ấn Độ	Bệnh viện	Venezuela	Nga
+141	Ai là người được dân gian gọi là Trạng Bùng?	1	Phùng Khắc Khoan	Lương Thế Vinh	Lê Quý Đôn	Nguyễn Bỉnh Khiêm
+142	Kỹ năng Bá Vương Tạ Giáp là của môn phái nào?	2	Tàng Kiếm	Cái Bang	Thiếu Lâm	Thiên Vương
+143	Điền vào chỗ trống: Điều lành nên nhớ, ... nên quên	3	Điều kỵ	Điều hay	Điều dở	Điều nhảm
+144	Ai là người từng phò 4 đời vua Hậu Lê và được phong Long Hổ Tướng Quân?	1	Nguyễn Xí	Nguyễn Trãi	Đinh Liệt	Trịnh Khả
+145	Trong tiểu thuyết Kim Dung, mẹ của Dương Quá có tên là gì?	1	Mục Niệm Từ	Hoa Tranh	Mộc Hoa Lê	Lâm Triều Anh
+146	Nguyễn Huệ từng đánh bại bao nhiêu vạn quân Xiêm xâm lược?	4	50 vạn	10 vạn	20 vạn	5 vạn
+147	Trong tiểu thuyết Kim Dung, Hàng Long Thập Bát Chưởng ban đầu có bao nhiêu chưởng?	1	28 chưởng	25 chưởng	18 chưởng	12 chưởng 
+148	Trong tiểu thuyết Kim Dung, Không Minh Quyền là võ công của ai sáng tạo?	1	Chu Bá Thông	Quách Tĩnh	Hoàng Dung	Dương Quá
+149	Điền vào chỗ trống: Qua giêng hết năm, qua rằm hết …	3	Cúng	Chuối	Tháng	Giỗ
+150	Trong tiểu thuyết Kim Dung, Dương Quá được dạy cho những gì ở phái Toàn Chân?	1	Khẩu quyết	Võ công	Kiếm thuật	Trận pháp
+151	Cách gì để có thể thức được 7 ngày mà vẫn không thiếu ngủ?	2	Xem phim	Ngủ buổi đêm	Đọc truyện	Uống thuốc
+152	Điền vào chỗ trống: Người có lúc vinh lúc nhục,… có lúc đục lúc trong	3	Suối	Sông	Nước	Biển
+153	Cái gì có thể thấy nhưng không thể chạm, có thể mất nhưng không bỏ đi?	2	Ý nghĩ	Cái bóng	Tình yêu	Bạn bè
+154	Trong tiểu thuyết Kim Dung, người chặt đứt cánh tay của Dương Quá là ai?	1	Quách Phù	Lý Mạc Sầu	Hoàng Dung	Tiểu Long Nữ
+155	Việc đầu tiên sau khi ngủ dậy là gì?	2	Đánh răng	Mở mắt	Rửa mặt	Đứng dậy
+156	Trong tiểu thuyết Kim Dung, Cổ Mộ do ai xây dựng?	1	Vương Trùng Dương	Lâm Triều Anh	Tiểu Long Nữ	Vô Nhai Tử
+157	Điều đáng sợ nhất khi đang ăn táo?	2	Thấy 1 con sâu	Thấy nửa con sâu	Thấy 2 con sâu	Thấy 3 con sâu
+158	Đội tuyển Việt Nam đạt giải gì trong Cúp bóng đá U23 Châu Á 2018?	3	Không giải	Vô Địch	Giải Nhì	Giải Ba
+159	Khởi nghĩa Tây Sơn bắt đầu đầu từ địa phương nào?	4	Quảng Trị	Quảng Nam	Hà Nội	Bình Định
+160	Trong tiểu thuyết Kim Dung, Hoàng Dung từng làm Chưởng môn phái nào?	1	Cái Bang	Đào Hoa	Toàn Chân	Minh Giáo
+161	Trái có một nhà xanh, phải có một nhà đỏ. Vậy nhà trắng ở đâu?	2	Anh	Mỹ	Thái Lan	Ở giữa
+162	Trưởng Lão bang hội có quyền lợi nào sau đây?	3	Chọn Bảo Bối	Đuổi thành viên	Nhận lương	Chọn Bang chủ
+163	Đèo Ngang là ranh giới giữa Quảng Bình và tỉnh nào?	4	Nam Định	Quảng Trị	Quảng Ngãi	Hà Tĩnh
+164	Trong tiểu thuyết Kim Dung, chủ nhân đầu tiên của Linh Khứu Cung là ai?	1	Thiên Sơn Đồng Lão	Lý Thu Thủy	Cưu Ma Trí	Đinh Xuân Thu
+165	Bộ phận nào của mình mà lại cứ bảo là của người khác?	2	Tên gọi	Chân mày	Mắt	Tiếng nói
+166	Thủ Lĩnh bang hội có quyền lợi nào sau đây?	3	Chiêu mộ	Chọn Bang phó	Chọn Bang chủ	Nhận lương
+167	Thánh Địa Mỹ Sơn mang kiến trúc đặc trưng của dân tộc nào?	4	Kinh	Khơ-me	Hoa	Chăm
+168	Trong tiểu thuyết Anh Hùng Xạ Điêu, người đứng đầu Thiên Hạ Ngũ Tuyệt là ai?	1	Trung Thần Thông	Đông Tà	Tây Độc	Bắc Cái
+169	Cá gì có 4 màu?	2	Cá bảy màu	Cá ngựa	Cá tứ quý	Cá tháng tư
+170	Mỗi đại hiệp có thể dùng bao nhiêu Bánh Ít Bát Bảo?	3	3	2	1	5
+171	Nữ hoàng đế đầu tiên của Việt Nam là ai?	4	Đoàn Thị Điểm	Dương Vân Nga	Ngọc Hân	Lý Chiêu Hoàng
+172	NPC Dương Anh là Chưởng môn phái nào?	1	Thiên Vương	Cái Bang	Thúy Yên	Nga Mi
+173	Cách tốt nhất để giữ lời hứa là gì?	2	Chạy trốn	Đừng hứa	Ghi chú	Làm ngay
+174	Để tham gia bí cảnh Tàng Kiếm Sơn Trang cần đạt cấp bao nhiêu?	3	30	20	15	40
+175	Bài thơ Bánh Trôi Nước là của nữ sĩ nào?	4	Sương Nguyệt Anh	Đoàn Thị Điểm	Xuân Quỳnh	Hồ Xuân Hương
+176	Hoạt động nào thường diễn ra trong tết Trung Thu?	1	Múa lân	Múa rối	Hát xoan	Ca trù
+177	Cách tốt nhất để xua tan cơn buồn ngủ là gì?	2	Đi bộ	Đi ngủ	Đi rửa mặt	Uống cà phê
+178	NPC Hồ Thần Y xuất hiện tại bản đồ nào?	3	Lâm An	Tương Dương	Vong Ưu Đảo	Võ Di Sơn
+179	Hịch Tướng Sĩ là tác phẩm nổi tiếng của nhân vật nào?	4	Nguyễn Du	Lý Thánh Tông	Nguyễn Trãi	Trần Hưng Đạo
+180	Theo truyền thuyết, chị Hằng sống ở cung nào trên thiên đình?	1	Quảng Hàn	Thiên Cực	Ngọc Hư	Thái Thanh
+181	Vịnh Hạ Long là địa danh thuộc tỉnh nào?	2	Hà Nội	Quảng Ninh	Nam Định	Thái Bình
+182	NPC Thượng Quan Phi Long tại Vong Ưu Đảo có chức năng gì?	3	Kết hôn	Tỉ võ	Xuất sư	Mai mối
+183	Điền vào chỗ trống: Thanh minh trong tiết tháng ba/Lễ là tảo mộ, hội là …	4	Đua voi	Chọi trâu	Cướp ấn	Đạp thanh
+184	Cây gì không lá không hoa, không cành không quả dặm xa hơn nghìn?	1	Cây số	Cây cột	Cây tre	Cây me
+185	Cái gì có tay mà không có chân?	2	Cành cây	Cái áo	Cây kem	Cái móc
+186	Đồng hành nào sau đây là đồng hành cấp SS?	3	Đường Ảnh	Nam Cung Diệt	Nam Cung Phi	Trương Lâm Tâm
+187	Tác phẩm Bình Ngô Đại Cáo ra đời khi kết thúc cuộc khởi nghĩa nào sau đây?	4	Mê Linh	Tây Sơn	Cần Vương	Lam Sơn
+188	Điền vào chỗ trống: Muốn coi, lên núi mà coi/Có ... tướng cưỡi voi, đánh cồng	4	Lê Chân	Thi Sách	Bà Trưng	Bà Triệu
+189	Trong truyện Lục Vân Tiên, Kiều Nguyệt Nga từng được ai cứu khỏi bọn cướp?	4	Bùi Kiệm	Hớn Minh	Trịnh Hâm	Lục Vân Tiên
+190	Cái gì có thể chứa được những vật to lớn hơn nó rất nhiều lần?	2	Lọ thuỷ tinh	Tivi	Tủ lạnh	Lò vi sóng
+191	Sơn Tinh là thần núi nào?	4	Hồng Lĩnh	Sóc Sơn	Yên Tử	Tản Viên
+192	Mỗi bình Nữ Nhi Hồng duy trì bao nhiêu phút?	3	10 phút	5 phút	3 phút	2 phút
+193	Cấp Kiếm Hiệp bao nhiêu có thể tặng ngoại trang cho đại hiệp khác?	1	10	9	11	12
+194	NPC Nam Cung Phi là con trai của ai?	3	Độc Cô Kiếm	Nam Cung Diệt	Trương Như Mộng	Trương Phong
+195	Bang hội Rất Không Năng Động bao nhiêu tuần sẽ bị giải tán?	1	2 tuần	1 tuần	3 tuần	4 tuần
+196	Vị vua nào sáng lập nên trung tâm Phật giáo tại Yên Tử?	4	Trần Anh Tông	Trần Thái Tông 	Trần Thánh Tông	Trần Nhân Tông
+197	Cái gì con lợn không ăn nổi mà con người lại ăn được?	2	Rau lang	Thịt lợn	Cám	Rau muống
+198	Bang hội nào có tư cách tuyên chiến thành Tương Dương?	1	Chiếm thôn trấn	Chiếm dã ngoại	Giữ Tương Dương	Mọi Bang hội
+199	Nhân vật cấp bao nhiêu trở lên có thể chuyển phái?	2	Cấp 30	Cấp 40	Cấp 50	Cấp 60
+200	Hồng nhan tri kỷ của NPC Dương Ảnh Phong là ai?	3	Tường Vi	Tử Hiên	Nạp Lan Chân	Nguyệt My Nhi
+201	Hàng ngày, Trân Bảo Các của Bang hội tạo mới vào thời gian nào?	1	4 giờ	0 giờ	8 giờ	12 giờ
+202	Minh Chủ Lệnh dùng để tăng cấp Quân Hàm nào sau đây?	2	Tiềm Long	Lăng Vân	Ngạo Thế	Kinh Hồng
+203	NPC Trác Phi Phàm từng là chưởng môn phái nào?	3	Võ Đang	Bá Đao	Tàng Kiếm	Hoa Sơn
+204	Tổ đội cần bao nhiêu người để mở Nhiệm vụ Trừng Ác?	2	1	3	2	4
+205	Đâu là tác phẩm của Hải Thượng Lãn Ông?	4	Ức Trai Thi Tập	Bình Ngô Đại Cáo	Hịch Tướng Sĩ	Thượng Kinh Ký Sự
+206	Ai là danh tướng thời chúa Nguyễn Phúc Chu, có công khai phá vùng đất Nam Bộ?	4	Hoàng Diệu	Nguyễn Hữu Cầu	Lê Văn Duyệt	Nguyễn Hữu Cảnh
+207	Võ Thần Điện có mang tối đa bao nhiêu đồng hành xuất chiến?	2	1	4	2	Không thể mang
+208	NPC Nạp Lan Tiềm Lẫm là chưởng môn phái nào?	3	Ngũ Độc	Ngũ Sắc	Vô Ưu	Thiên Nhẫn
+209	Độ thân mật hai nhân vật đạt cấp bao nhiêu có thể Kết Bái Kim Lan?	1	30	35	40	20
+210	Loại đồ chơi nào phổ biến trong tết Trung Thu tại Việt Nam?	3	Mặt nạ	Pháo hoa	Đèn ông sao	Bong bóng
+211	Phiên bản đầu tiên của Võ Lâm Truyền Kỳ Mobile tên là gì?	1	Công Thành Chiến	Sơn Hà Xã Tắc	Hoa Sơn Luận Kiếm	Tình Nghĩa Giang Hồ
+212	Mỗi nhân vật có thể sử dụng bao nhiêu Bí Kíp Võ Lâm (Thượng)?	3	1	2	5	3
+213	Đại Việt Sử Ký Toàn Thư do ai biên soạn	4	Phạm Công Trứ	Lê Quý Đôn	Lương Thế Vinh	Ngô Sĩ Liên
+214	Hoạt động Vận Tiêu Bang Hội diễn ra tại bản đồ nào?	1	Phế Tích Dạ Lang	Nhạn Đãng Sơn	Tương Dương	Vong Ưu Đảo
+215	Cửa Hàng Danh Vọng của Kỳ Trân Các tạo mới vào thời gian nào?	3	0:00 hàng ngày	4:00 hàng ngày	4:00 Thứ Hai	0:00 Thứ Hai
+216	Nguyên liệu nào sau đây không dùng để ghép Tàng Bảo Đồ-Cao?	2	La bàn	Mã bài	Lông sói	Chu sa
+217	Phụ thân của NPC Trương Như Mộng và Trương Lâm Tâm là ai?	4	Dương Thiết Tâm	Nam Cung Diệt	Triệu Thăng Quyền	Trương Phong
+218	Võ Lâm Minh Chủ đạt mốc sinh lực bao nhiêu sẽ nhận được điểm x2?	3	75	70	60	65
+219	Nâng cấp Quân Hàm không thể tăng lợi ích nào sau đây?	3	Lực chiến	Sinh lực	Lượt truyền công	Kháng tất cả
+220	Hồng nhan tri kỷ của NPC Đường Ảnh là ai?	4	Khúc Hà	Yên Nhược Tuyết	Dương Anh	Thu Y Thủy
+221	Vật phẩm Mã Bài không thể dùng để làm gì?	2	Đổi Thú cưỡi	Bán vào Cửa Hàng	Tiến cấp Thú cưỡi	Bày Bán
+222	Muốn vào Tỉ Võ Trường có thể đến NPC nào?	1	Võ Tăng	Phụng Hỉ	Tử Hiên	Hồng Nương
+223	Môn phái Trường Ca khắc chế ngũ hành môn phái nào?	3	Võ Đang	Đường Môn	Nga Mi	Thiếu Lâm
+224	Cách nào không thể tăng kinh nghiệm Luyện Công Ngoài Thành?	3	Tăng thân mật hảo hữu	Dùng Tu Luyện Châu	Dùng Bạch Câu Hoàn	Dùng Nữ Nhi Hồng
+225	Bản đồ nào sau đây cưỡng chế dạng PK Bang Hội?	1	Phế Tích Dạ Lang	Miêu Lĩnh	Bờ Hồ Động Đình	Võ Di Sơn
+226	NPC Bà chủ Ẩn Hương Lầu tên gì?	2	Hồng Nương	Công Tôn Tích Hoa	Nạp Lan Chân	Nguyệt My Nhi
+227	Triều Nguyễn đã trải qua bao nhiêu đời vua?	3	10	11	13	12
+228	Đồng hành nào sau đây là đồng hành cấp S?	1	Dương Anh	Triệu Vân	Sài Tung	Ngu Cơ
+229	Đạo cụ nào dùng để tăng thân mật với hảo hữu Nam?	1	Cỏ May Mắn	Hoa Hồng	Kim Lan Phổ	Tam Sinh Thạch
+230	Tu Luyện Châu tối đa có thể tích lũy được bao nhiêu giờ?	2	3 giờ	7 giờ	5 giờ	10 giờ
+231	Tu Luyện Châu mỗi ngày sẽ hồi phục bao nhiêu phút?	1	60 phút	30 phút	90 phút	120 phút
+232	Chùa Cầu (Hội An) là di tích mang kiến trúc quốc gia nào?	3	Việt Nam	Hoa Kỳ	Nhật Bản	Hàn Quốc
+233	Lễ hội Té Nước là truyền thống của nước nào?	1	Thái Lan	Ấn Độ	Nhật Bản	Hàn Quốc
+234	Sông dài nhất thế giới là?	3	Sông Volga	Trường Giang	Sông Nin	Sông Amazon
+235	Có 10 cây nến, thổi tắt 3 cây, vậy còn mấy cây?	4	7	8	9	10
+236	Đền Taj Mahal ở nước nào?	3	Thái Lan	Việt Nam	Ấn Độ	Indonesia
+237	Tác phẩm Chiến Tranh và Hòa Bình của tác giả nào?	1	Lev Tolstoy	Troyepolsky	Sholokhov	Ostrovsky
+238	Hành tinh nào gần Mặt Trời nhất trong Hệ Mặt Trời?	1	Sao Thủy	Sao Kim	Sao Hỏa	Sao Mộc
+239	Sao Hỏa có bao nhiêu mặt trăng?	3	0	1	2	3
+240	Hành tinh có nhiều vệ tinh nhất Hệ Mặt Trời là?	2	Sao Thủy	Sao Mộc	Sao Thiên Vương	Sao Hải Vương
+241	Som tam là món nộm trứ danh của nước nào?	2	Hàn Quốc	Thái Lan	Lào	Nhật Bản
+242	Ẩm thực Hàn Quốc nổi danh với món ăn nào?	3	Vịt quay	Chả cá	Kim chi	Cơm chiên
+243	Paella là đặc sản cơm thập cẩm ở đâu?	1	Tây Ban Nha	Bồ Đào Nha	Thổ Nhĩ Kỳ	Pháp
+244	Đâu là quê hương của món mì spaghetti?	4	Mỹ	Pháp	Anh	Italy
+245	Soto là món soup nổi tiếng của nước nào?	4	Sri Lanka	Malaysia	Mông Cổ	Indonesia
+246	Hoa tulip là quốc hoa của nước nào?	1	Hà Lan	Đan Mạch	Pháp	Ba Lan
+247	Hình ảnh nào xuất hiện trên quốc kỳ Canada?	2	Hoa hồng	Lá phong	Ngôi sao	Mặt trăng
+248	Quốc gia nào sau đây không được trị vì bởi Nữ hoàng Elizabeth II?	4	New Zealand	Anh	Canada	Ireland
+249	Nhân vật Tấm chưa từng hóa thân thành vật gì?	3	Khung cửi	Vàng anh	Cá bống	Quả thị
+250	Thành phố nào của Việt Nam không giáp biển?	1	Cần Thơ	Hải Phòng	Đà Nẵng	Khánh Hòa
+251	Cửa khẩu Hữu Nghị nằm ở tỉnh nào của nước ta?	2	Quảng Ninh	Lạng Sơn	Cao Bằng	Hà Giang

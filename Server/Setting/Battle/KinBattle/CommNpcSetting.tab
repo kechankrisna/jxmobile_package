@@ -1,0 +1,4 @@
+nNpcTemplateId	nLevel	nPosX	nPosY	nDir	nAddScoreTime	nKillAddScore	nNormalScore	szDieMsg	szNormalMsg
+703	40	9206	6752	0	15	300	100	Công hạ cứ điểm 1, nhận 300 điểm, sĩ khí phe ta tăng mạnh	Duy trì chiếm lĩnh cứ điểm số 1, nhận được 100 điểm
+704	40	7193	6742	0	15	300	100	Công hạ cứ điểm 2, nhận 300 điểm, sĩ khí phe ta tăng mạnh	Duy trì chiếm lĩnh cứ điểm số 2, nhận được 100 điểm
+705	40	11199	6738	0	15	300	100	Công hạ cứ điểm 3, nhận 300 điểm, sĩ khí phe ta tăng mạnh	Duy trì chiếm lĩnh cứ điểm số 3, nhận được 100 điểm

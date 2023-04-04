@@ -1,0 +1,912 @@
+EquipItem	WaiYiItem	Cost	TimeOut	Desc
+61	2570	150000		Áo T1
+62	2571	150000		Áo T2
+63	2572	150000		Áo T3
+64	2573	150000		Áo T4
+65	2574	150000		Áo T5
+66	2575	150000		Áo T6
+67	2576	150000		Áo T7
+68	2577	150000		Áo T8
+69	2578	150000		Áo T9
+70	2579	150000		Áo T10
+4961	5269	150000		Áo T11
+4962	5273	150000		Áo T12
+4963	5277	150000		Áo T13
+4964	5281	150000		Áo T14
+4965	5285	150000		Áo T15
+4966	5289	150000		Áo T16
+161	2570	150000		【Hiếm】Áo T1
+162	2571	150000		【Hiếm】Áo T2
+163	2572	150000		【Hiếm】Áo T3
+164	2573	150000		【Hiếm】Áo T4
+165	2574	150000		【Hiếm】Áo T5
+166	2575	150000		【Hiếm】Áo T6
+167	2576	150000		【Hiếm】Áo T7
+168	2577	150000		【Hiếm】Áo T8
+169	2578	150000		【Hiếm】Áo T9
+170	2579	150000		【Hiếm】Áo T10
+5061	5269	150000		【Hiếm】Áo T11
+5062	5273	150000		【Hiếm】Áo T12
+5063	5277	150000		【Hiếm】Áo T13
+5064	5281	150000		【Hiếm】Áo T14
+5065	5285	150000		【Hiếm】Áo T15
+5066	5289	150000		T16【Hiếm】Áo
+1570	2570	150000		【Kế Thừa】Áo T1
+1571	2571	150000		【Kế Thừa】Áo T2
+1572	2572	150000		【Kế Thừa】Áo T3
+1573	2573	150000		【Kế Thừa】Áo T4
+1574	2574	150000		【Kế Thừa】Áo T5
+1575	2575	150000		【Kế Thừa】Áo T6
+1576	2576	150000		【Kế Thừa】Áo T7
+1577	2577	150000		【Kế Thừa】Áo T8
+3611	2578	150000		Áo T9【Kế Thừa】
+3612	2579	150000		Áo T10【Kế Thừa】
+5161	5269	150000		【Kế Thừa】Áo T11
+5162	5273	150000		【Kế Thừa】Áo T12
+5163	5277	150000		【Kế Thừa】Áo T13
+5164	5281	150000		【Kế Thừa】Áo T14
+5165	5285	150000		【Kế Thừa】Áo T15
+5166	5289	150000		T16【Kế Thừa】Áo
+1252	2570	150000		Áo T1 (Đặc chế)
+1529	2570	150000		Áo T1 (Đặc chế)
+2667	2512			Ngoại Trang T1
+2681	2516		604800	T1 Ngoại Trang, nạp lần đầu tặng
+2700	2580			Bộ Tân Thủ
+2706	2702			Ngoại Trang T2
+3310	3259			Ngoại Trang T3
+3311	3263			Ngoại Trang T4
+3864	6288			Ngoại Trang T5
+3870	6288			Cảng Phục-Ngoại Trang T5 (Hắc Bang)-Màu 1
+3871	6289			Cảng Phục-Ngoại Trang T5 (Hắc Bang)-Màu 2
+3872	6290			Cảng Phục-Ngoại Trang T5 (Hắc Bang)-Màu 3
+3873	6291			Cảng Phục-Ngoại Trang T5 (Hắc Bang)-Màu 4
+6873	6288			Ngoại Trang T5 Tất Cả Phái (Hắc Bang)
+6344	6288			Ngoại Trang Thiên Vương T5 (Hắc Bang)
+6345	6288			Ngoại Trang Nga Mi T5 (Hắc Bang)
+6346	6288			Ngoại Trang Đào Hoa T5 (Hắc Bang)
+6347	6288			Ngoại Trang Tiêu Dao T5 (Hắc Bang)
+6348	6288			Ngoại Trang Võ Đang T5 (Hắc Bang)
+6349	6288			Ngoại Trang Thiên Nhẫn T5 (Hắc Bang)
+6350	6288			Ngoại Trang Thiếu Lâm T5 (Hắc Bang)
+6351	6288			Ngoại Trang Thúy Yên T5 (Hắc Bang)
+6352	6288			Ngoại Trang Đường Môn T5 (Hắc Bang)
+6353	6288			Ngoại Trang Côn Lôn T5 (Hắc Bang)
+6354	6288			Ngoại Trang Cái Bang T5 (Hắc Bang)
+6355	6288			Ngoại Trang Ngũ Độc T5 (Hắc Bang)
+6356	6288			Ngoại Trang Tàng Kiếm T5 (Hắc Bang)
+6357	6288			Ngoại Trang Trường Ca T5 (Hắc Bang)
+4508	4243			Ngoại Trang T6 Thiên Vương-Hào Hoa
+4509	4243			Ngoại Trang T6 Nga Mi-Hào Hoa
+4510	4243			Ngoại Trang T6 Đào Hoa-Hào Hoa
+4511	4243			Ngoại Trang T6 Tiêu Dao-Hào Hoa
+4512	4243			Ngoại Trang T6 Võ Đang-Hào Hoa
+4513	4243			Ngoại Trang T6 Thiên Nhẫn-Hào Hoa
+4514	4243			Ngoại Trang T6 Thiếu Lâm-Hào Hoa
+4515	4243			Ngoại Trang T6 Thúy Yên-Hào Hoa
+4516	4243			Ngoại Trang T6 Đường Môn-Hào Hoa
+4517	4243			Ngoại Trang T6 Côn Lôn-Hào Hoa
+4518	4243			Ngoại Trang T6 Cái Bang-Hào Hoa
+4519	4243			Ngoại Trang T6 Ngũ Độc-Hào Hoa
+6874	3874			Ngoại Trang T6 Tất Cả Phái
+4448	3874			Ngoại Trang Thiên Vương T6
+4449	3874			Ngoại Trang Nga Mi T6
+4450	3874			Ngoại Trang Đào Hoa T6
+4451	3874			Ngoại Trang Tiêu Dao T6
+4452	3874			Ngoại Trang Võ Đang T6
+4453	3874			Ngoại Trang Thiên Nhẫn T6
+4454	3874			Ngoại Trang Thiếu Lâm T6
+4455	3874			Ngoại Trang Thúy Yên T6
+4456	3874			Ngoại Trang Đường Môn T6
+4457	3874			Ngoại Trang Côn Lôn T6
+4458	3874			Ngoại Trang Cái Bang T6
+4459	3874			Ngoại Trang Ngũ Độc T6
+6204	3874			Ngoại Trang Tàng Kiếm T6
+6205	3874			Ngoại Trang Trường Ca T6
+6872	3878			【 Tất Cả Phái】Phù Quang Nhược Mộng
+5969	3878			【Thiên Vương】Phù Quang-Mộng Vũ
+5970	3878			【Nga Mi】Phù Quang-Mộng Duyên
+5971	3878			【Đào Hoa】Phù Quang-Mộng Điệp
+5972	3878			【Tiêu Dao】Phù Quang-Mộng Vũ
+5973	3878			【Võ Đang】Phù Quang-Mộng Duyên
+5974	3878			【Thiên Nhẫn】Phù Quang-Mộng Vũ
+5975	3878			【Thiếu Lâm】Phù Quang-Mộng Duyên
+5976	3878			【Thúy Yên】Phù Quang-Mộng Điệp
+5977	3878			【Đường Môn】Phù Quang-Mộng Vũ
+5978	3878			【Côn Lôn】Phù Quang-Mộng Duyên
+5979	3878			【Cái Bang】Phù Quang-Mộng Duyên
+5980	3878			【Ngũ Độc】Phù Quang-Mộng Điệp
+5981	3878			【Tàng Kiếm】Phù Quang-Mộng Duyên
+5982	3878			【Trường Ca】Phù Quang-Mộng Duyên
+5983	3882			Ngoại Trang Thiên Vương T8 (Hàn Phục)
+5984	5915			Ngoại Trang Nga Mi T8 (Hàn Phục)
+5985	5919			Ngoại Trang Đào Hoa T8 (Hàn Phục)
+5986	5923			Ngoại Trang Tiêu Dao T8 (Hàn Phục)
+5987	5927			Ngoại Trang Võ Đang T8 (Hàn Phục)
+5988	5931			Ngoại Trang Thiên Nhẫn  T8 (Hàn Phục)
+5989	5935			Ngoại Trang Thiếu Lâm  T8 (Hàn Phục)
+5990	5939			Ngoại Trang Thúy Yên  T8 (Hàn Phục)
+6145	6146		259200	Hàn Phục-3 ngày
+3569	3568		15552000	Thịnh Điển Hoa Phục
+3645	3568		604800	Thịnh Điển Hoa Phục (7 ngày) 
+4745	4743		259200	Lễ Phục Mừng Sinh Nhật-3 Ngày
+4891	4892			Lễ Phục Mừng Sinh Nhật
+7371	4743		1296000	Lễ Phục Mừng Sinh Nhật-15 Ngày
+3895	3896		604800	Trang Phục Thiếu Hiệp Giang Hồ (7 ngày)
+4493	2516		259200	Ngoại Trang T1-3 ngày
+4494	2516		604800	Ngoại Trang T1-7 ngày
+4495	2516		2592000	Ngoại Trang T1-30 ngày
+4496	4481		259200	Ngoại Trang T2-3 ngày
+4497	4481		604800	Ngoại Trang T2-7 ngày
+4498	4481		2592000	Ngoại Trang T2-30 ngày
+4499	4484		259200	Ngoại Trang T3-3 ngày
+4500	4484		604800	Ngoại Trang T3-7 ngày
+4501	4484		2592000	Ngoại Trang T3-30 ngày
+4502	4487		259200	Ngoại Trang T4-3 ngày
+4503	4487		604800	Ngoại Trang T4-7 ngày
+4504	4487		2592000	Ngoại Trang T4-30 ngày
+4505	4490		259200	Ngoại Trang T5-3 ngày
+4506	4490		604800	Ngoại Trang T5-7 ngày
+4507	4490		2592000	Ngoại Trang T5-30 ngày
+8287	4772		259200	Ngoại Trang T6-3 Ngày
+8288	4772		604800	Ngoại Trang T6-7 Ngày
+8289	4772		2592000	Ngoại Trang T6-30 Ngày
+8290	6741		259200	Phù Quang Nhược Mộng T7 (3 Ngày)
+8291	6741		604800	Phù Quang Nhược Mộng T7 (7 Ngày)
+6877	6741		2592000	Phù Quang Nhược Mộng T7 (30 Ngày)
+8292	7123		259200	Ti Lộ Lưu Sa T9 (3 Ngày)
+7125	7123		604800	Ti Lộ Lưu Sa T9 (7 Ngày)
+7124	7123		2592000	Ti Lộ Lưu Sa T9 (30 Ngày)
+8293	8284		259200	Năm Mới T11 3 Ngày
+8294	8284		604800	Năm Mới T11 7 Ngày
+8295	8284		2592000	Năm Mới T11 30 Ngày
+8296	8285		259200	Ngoại Trang Hạ Liên-Cao T12 (3 Ngày)
+8297	8285		604800	Ngoại Trang Hạ Liên-Cao T12 (7 Ngày)
+8298	8285		2592000	Ngoại Trang Hạ Liên-Cao T12 (30 Ngày)
+8299	8286		259200	Ngoại Trang Hạ Liên-Thường T12A (3 Ngày)
+8300	8286		604800	Ngoại Trang Hạ Liên-Thường T12A (7 Ngày)
+8301	8286		2592000	Ngoại Trang Hạ Liên-Thường T12A (30 Ngày)
+4760	4772		5184000	【Thiên Vương】Ngoại Trang T6 (60 ngày)
+4761	4772		5184000	【Nga Mi】Ngoại Trang T6 (60 ngày)
+4762	4772		5184000	【Đào Hoa】Ngoại Trang T6 (60 ngày)
+4763	4772		5184000	【Tiêu Dao】Ngoại Trang T6 (60 ngày)
+4764	4772		5184000	【Võ Đang】Ngoại Trang T6 (60 ngày)
+4765	4772		5184000	【Thiên Nhẫn】Ngoại Trang T6 (60 ngày)
+4766	4772		5184000	【Thiếu Lâm】Ngoại Trang T6 (60 ngày)
+4767	4772		5184000	【Thúy Yên】Ngoại Trang T6 (60 ngày)
+4768	4772		5184000	【Đường Môn】Ngoại Trang T6 (60 ngày)
+4769	4772		5184000	【Côn Lôn】Ngoại Trang T6 (60 ngày)
+4770	4772		5184000	【Cái Bang】Ngoại Trang T6 (60 ngày)
+4771	4772		5184000	【Ngũ Độc】Ngoại Trang T6 (60 ngày)
+7367	4772		5184000	【Tàng Kiếm】Ngoại Trang T6-60 ngày
+7368	4772		5184000	【Trường Ca】Ngoại Trang T6-60 ngày
+6203	3225			Vũ Khí Tân Thủ
+1	3249	300000		Vũ Khí T1
+2	3250	300000		Vũ Khí T2
+3	3251	300000		Vũ Khí T3
+4	3252	300000		Vũ Khí T4
+5	3253	300000		Vũ Khí T5
+6	3254	300000		Vũ Khí T6
+7	3255	300000		Vũ Khí T7
+8	3256	300000		Vũ Khí T8
+9	3257	300000		Vũ Khí T9
+10	3258	300000		Vũ Khí T10
+4901	5311	300000		Vũ Khí T11
+4902	5315	300000		Vũ Khí T12
+4903	5319	300000		Vũ Khí T13
+4904	5323	300000		Vũ Khí T14
+4905	5327	300000		Vũ Khí T15
+4906	5331	300000		Vũ Khí T16
+101	3249	300000		【Hiếm】Vũ Khí T1
+102	3250	300000		【Hiếm】Vũ Khí T2
+103	3251	300000		【Hiếm】Vũ Khí T3
+104	3252	300000		【Hiếm】Vũ Khí T4
+105	3253	300000		【Hiếm】Vũ Khí T5
+106	3254	300000		【Hiếm】Vũ Khí T6
+107	3255	300000		【Hiếm】Vũ Khí T7
+108	3256	300000		【Hiếm】Vũ Khí T8
+109	3257	300000		【Hiếm】Vũ Khí T9
+110	3258	300000		【Hiếm】Vũ Khí T1
+5001	5311	300000		【Hiếm】Vũ Khí T11
+5002	5315	300000		【Hiếm】Vũ Khí T12
+5003	5319	300000		【Hiếm】Vũ Khí T13
+5004	5323	300000		【Hiếm】Vũ Khí T14
+5005	5327	300000		【Hiếm】Vũ Khí T15
+5006	5331	300000		T16【Hiếm】Vũ Khí
+1530	3249	300000		【Kế Thừa】Vũ Khí T1
+1531	3250	300000		【Kế Thừa】Vũ Khí T2
+1532	3251	300000		【Kế Thừa】Vũ Khí T3
+1533	3252	300000		【Kế Thừa】Vũ Khí T4
+1534	3253	300000		【Kế Thừa】Vũ Khí T5
+1535	3254	300000		【Kế Thừa】Vũ Khí T6
+1536	3255	300000		【Kế Thừa】Vũ Khí T7
+1537	3256	300000		【Kế Thừa】Vũ Khí T8
+3599	3257	300000		Vũ Khí T9【Kế Thừa】
+3600	3258	300000		Vũ Khí T10【Kế Thừa】
+5101	5311	300000		【Kế Thừa】Vũ Khí T11
+5102	5315	300000		【Kế Thừa】Vũ Khí T12
+5103	5319	300000		【Kế Thừa】Vũ Khí T13
+5104	5323	300000		【Kế Thừa】Vũ Khí T14
+5105	5327	300000		【Kế Thừa】Vũ Khí T15
+5106	5331	300000		T16【Kế Thừa】Vũ Khí
+1246	3249	300000		Vũ Khí T1 (Đặc chế)
+7421	4047			Hàn Sương
+4738	4735		2592000	Hàn Sương (30 Ngày)
+4739	4736		2592000	Hàn Sương Sảnh Ảnh (30 Ngày)
+9704	4736		31536000	Hàn Sương Sảnh Ảnh (Ngoại Trang 1 Năm)
+4740	4737		2592000	Tiểu Hắc (30 Ngày)
+4863	4865		31536000	Tử U Linh Lộc (1 Năm)
+4864	4866		31536000	Vân Mị Linh Lộc (1 Năm)
+4869	4868		31536000	Tinh Mang-Vân Mị Linh Lộc (1 Năm)
+10153	10152		15768000	Thích Kim-Lam Trạm Linh Lộc (Ngoại Trang 6 Tháng)
+7291	7280			Sí Ảnh
+7422	7423		5184000	Sí Ảnh (Ngoại Trang 60 Ngày)
+8279	7423		31536000	Sí Ảnh (Ngoại Trang 1 năm)
+7297	7296		7776000	Phúc Thụy Linh Lộc
+4746	3933			【Thiên Vương】Thủy Quả Chùy
+4747	4381			【Nga Mi】Tường Vi Kiếm
+4748	4385			【Đào Hoa】Lạc Hoa Cung
+4749	4389			【Tiêu Dao】Lưu Tuệ Thương
+4750	4393			【Võ Đang】Kim Kết Kiếm
+4751	4397			【Thiên Nhẫn】Phá Nguyệt Thích
+4752	4401			【Thiếu Lâm】Phá Mộng Trượng
+4753	4405			【Thúy Yên】Phù Cừ Kỹ
+4754	4409			【Đường Môn】Mộc Hoa Nỏ
+4755	4413			【Côn Lôn】Tiếu Xuân Phong
+4756	4417			【Cái Bang】Thanh Trúc Trượng
+4757	4421			【Ngũ Độc】Triều Nhan Địch
+6206	5351			【Tàng Kiếm】Thúy Nhã Chi
+6207	5355			【Trường Ca】Bách Hợp
+6987	6701			【Thiên Sơn】Ngọc Âm Chi
+7679	7515			【Bá Đao】Hoàng Liễu Thúc
+8527	8440			【Hoa Sơn】Quang Minh Thảo
+10137	9719			【Minh Giáo】Mai Thịnh Hoàn
+10600	10495			【Đoàn Thị】Phù Dung Liên
+11365	11051			【万花】风骨黄槿玉
+6710	6741		2592000	【Thiên Vương】Phù Quang-Mộng Vũ (30 ngày)
+6711	6741		2592000	【Nga Mi】Phù Quang-Mộng Duyên (30 ngày)
+6712	6741		2592000	【Đào Hoa】Phù Quang-Mộng Điệp (30 ngày)
+6713	6741		2592000	【Tiêu Dao】Phù Quang-Mộng Vũ (30 ngày)
+6714	6741		2592000	【Võ Đang】Phù Quang-Mộng Duyên (30 ngày)
+6715	6741		2592000	【Thiên Nhẫn】Phù Quang-Mộng Vũ (30 ngày)
+6716	6741		2592000	【Thiếu Lâm】Phù Quang-Mộng Duyên (30 ngày)
+6717	6741		2592000	【Thúy Yên】Phù Quang-Mộng Điệp (30 ngày)
+6718	6741		2592000	【Đường Môn】Phù Quang-Mộng Vũ (30 ngày)
+6719	6741		2592000	【Côn Lôn】Phù Quang-Mộng Duyên (30 ngày)
+6720	6741		2592000	【Cái Bang】Phù Quang-Mộng Duyên (30 ngày)
+6721	6741		2592000	【Ngũ Độc】Phù Quang-Mộng Điệp (30 ngày)
+6722	6741		2592000	【Tàng Kiếm】Phù Quang-Mộng Duyên (30 ngày)
+6723	6741		2592000	【Trường Ca】Phù Quang-Mộng Duyên (30 ngày)
+6757	6742		2592000	【Thiên Vương】Thủy Quả Chùy-30 ngày
+6758	6743		2592000	【Nga Mi】Tường Vi Kiếm-30 ngày
+6759	6744		2592000	【Đào Hoa】Lạc Hoa Cung-30 ngày
+6760	6745		2592000	【Tiêu Dao】Lưu Tuệ Thương-30 ngày
+6761	6746		2592000	【Võ Đang】Kim Kết Kiếm-30 ngày
+6762	6747		2592000	【Thiên Nhẫn】Phá Nguyệt Thích-30 ngày
+6763	6748		2592000	【Thiếu Lâm】Phá Mộng Trượng-30 ngày
+6764	6749		2592000	【Thúy Yên】Phù Cừ Kỹ-30 ngày
+6765	6750		2592000	【Đường Môn】Mộc Hoa Nỏ-30 ngày
+6766	6751		2592000	【Côn Lôn】Tiếu Xuân Phong-30 ngày
+6767	6752		2592000	【Cái Bang】Thanh Trúc Trượng-30 ngày
+6768	6753		2592000	【Ngũ Độc】Triều Nhan Địch-30 ngày
+6769	6754		2592000	【Tàng Kiếm】Thúy Nhã Chi-30 ngày
+6770	6755		2592000	【Trường Ca】Bách Hợp-30 ngày
+6988	6756		2592000	【Thiên Sơn】Ngọc Âm Chi-30 ngày
+7680	7681		2592000	【Bá Đao】Hoàng Liễu Thúc-30 Ngày
+8528	8529		2592000	【Hoa Sơn】Quang Minh Thảo-30 Ngày
+10138	9724		2592000	【Minh Giáo】Mai Thịnh Hoàn-30 Ngày
+10601	10500		2592000	【Đoàn Thị】Phù Dung Liên-30 ngày
+11366	11060		2592000	【万花】风骨黄槿玉·30天
+6292	6288			Ngoại Trang T5 Tất Cả Phái (Hắc Bang) Màu 1
+6293	6289			Ngoại Trang T5 Tất Cả Phái (Hắc Bang) Màu 2
+6294	6290			Ngoại Trang T5 Tất Cả Phái (Hắc Bang) Màu 3
+6295	6291			Ngoại Trang T5 Tất Cả Phái (Hắc Bang) Màu 4
+6296	6288			Ngoại Trang T5 Tất Cả Phái (Hắc Bang) Màu 1
+6297	6289			Ngoại Trang T5 Tất Cả Phái (Hắc Bang) Màu 2
+6298	6290			Ngoại Trang T5 Tất Cả Phái (Hắc Bang) Màu 3
+6299	6291			Ngoại Trang T5 Tất Cả Phái (Hắc Bang) Màu 4
+6300	6288			Ngoại Trang T5 Tất Cả Phái (Hắc Bang) Màu 1
+6301	6289			Ngoại Trang T5 Tất Cả Phái (Hắc Bang) Màu 2
+6302	6290			Ngoại Trang T5 Tất Cả Phái (Hắc Bang) Màu 3
+6303	6291			Ngoại Trang T5 Tất Cả Phái (Hắc Bang) Màu 4
+6304	6288			Ngoại Trang T5 Tất Cả Phái (Hắc Bang) Màu 1
+6305	6289			Ngoại Trang T5 Tất Cả Phái (Hắc Bang) Màu 2
+6306	6290			Ngoại Trang T5 Tất Cả Phái (Hắc Bang) Màu 3
+6307	6291			Ngoại Trang T5 Tất Cả Phái (Hắc Bang) Màu 4
+6308	6288			Ngoại Trang T5 Tất Cả Phái (Hắc Bang) Màu 1
+6309	6289			Ngoại Trang T5 Tất Cả Phái (Hắc Bang) Màu 2
+6310	6290			Ngoại Trang T5 Tất Cả Phái (Hắc Bang) Màu 3
+6311	6291			Ngoại Trang T5 Tất Cả Phái (Hắc Bang) Màu 4
+6312	6288			Ngoại Trang T5 Tất Cả Phái (Hắc Bang) Màu 1
+6313	6289			Ngoại Trang T5 Tất Cả Phái (Hắc Bang) Màu 2
+6314	6290			Ngoại Trang T5 Tất Cả Phái (Hắc Bang) Màu 3
+6315	6291			Ngoại Trang T5 Tất Cả Phái (Hắc Bang) Màu 4
+6316	6288			Ngoại Trang T5 Tất Cả Phái (Hắc Bang) Màu 1
+6317	6289			Ngoại Trang T5 Tất Cả Phái (Hắc Bang) Màu 2
+6318	6290			Ngoại Trang T5 Tất Cả Phái (Hắc Bang) Màu 3
+6319	6291			Ngoại Trang T5 Tất Cả Phái (Hắc Bang) Màu 4
+6320	6288			Ngoại Trang T5 Tất Cả Phái (Hắc Bang) Màu 1
+6321	6289			Ngoại Trang T5 Tất Cả Phái (Hắc Bang) Màu 2
+6322	6290			Ngoại Trang T5 Tất Cả Phái (Hắc Bang) Màu 3
+6323	6291			Ngoại Trang T5 Tất Cả Phái (Hắc Bang) Màu 4
+6324	6288			Ngoại Trang T5 Tất Cả Phái (Hắc Bang) Màu 1
+6325	6289			Ngoại Trang T5 Tất Cả Phái (Hắc Bang) Màu 2
+6326	6290			Ngoại Trang T5 Tất Cả Phái (Hắc Bang) Màu 3
+6327	6291			Ngoại Trang T5 Tất Cả Phái (Hắc Bang) Màu 4
+6328	6288			Ngoại Trang T5 Tất Cả Phái (Hắc Bang) Màu 1
+6329	6289			Ngoại Trang T5 Tất Cả Phái (Hắc Bang) Màu 2
+6330	6290			Ngoại Trang T5 Tất Cả Phái (Hắc Bang) Màu 3
+6331	6291			Ngoại Trang T5 Tất Cả Phái (Hắc Bang) Màu 4
+6332	6288			Ngoại Trang T5 Tất Cả Phái (Hắc Bang) Màu 1
+6333	6289			Ngoại Trang T5 Tất Cả Phái (Hắc Bang) Màu 2
+6334	6290			Ngoại Trang T5 Tất Cả Phái (Hắc Bang) Màu 3
+6335	6291			Ngoại Trang T5 Tất Cả Phái (Hắc Bang) Màu 4
+6336	6288			Ngoại Trang T5 Tất Cả Phái (Hắc Bang) Màu 1
+6337	6289			Ngoại Trang T5 Tất Cả Phái (Hắc Bang) Màu 2
+6338	6290			Ngoại Trang T5 Tất Cả Phái (Hắc Bang) Màu 3
+6339	6291			Ngoại Trang T5 Tất Cả Phái (Hắc Bang) Màu 4
+6340	6288			Ngoại Trang T5 Tất Cả Phái (Hắc Bang) Màu 1
+6341	6289			Ngoại Trang T5 Tất Cả Phái (Hắc Bang) Màu 2
+6342	6290			Ngoại Trang T5 Tất Cả Phái (Hắc Bang) Màu 3
+6343	6291			Ngoại Trang T5 Tất Cả Phái (Hắc Bang) Màu 4
+6651	6288			Ngoại Trang T5 Tất Cả Phái (Hắc Bang) Màu 1
+6652	6289			Ngoại Trang T5 Tất Cả Phái (Hắc Bang) Màu 2
+6653	6290			Ngoại Trang T5 Tất Cả Phái (Hắc Bang) Màu 3
+6654	6291			Ngoại Trang T5 Tất Cả Phái (Hắc Bang) Màu 4
+6540	6539			Ngoại Trang T5 Tất Cả Phái (Hắc Bang) Nguyệt
+6541	6539			Ngoại Trang T5 Tất Cả Phái (Hắc Bang) Nguyệt
+6542	6539			Ngoại Trang T5 Tất Cả Phái (Hắc Bang) Nguyệt
+6543	6539			Ngoại Trang T5 Tất Cả Phái (Hắc Bang) Nguyệt
+6544	6539			Ngoại Trang T5 Tất Cả Phái (Hắc Bang) Nguyệt
+6545	6539			Ngoại Trang T5 Tất Cả Phái (Hắc Bang) Nguyệt
+6546	6539			Ngoại Trang T5 Tất Cả Phái (Hắc Bang) Nguyệt
+6547	6539			Ngoại Trang T5 Tất Cả Phái (Hắc Bang) Nguyệt
+6548	6539			Ngoại Trang T5 Tất Cả Phái (Hắc Bang) Nguyệt
+6549	6539			Ngoại Trang T5 Tất Cả Phái (Hắc Bang) Nguyệt
+6550	6539			Ngoại Trang T5 Tất Cả Phái (Hắc Bang) Nguyệt
+6551	6539			Ngoại Trang T5 Tất Cả Phái (Hắc Bang) Nguyệt
+6552	6539			Ngoại Trang T5 Tất Cả Phái (Hắc Bang) Nguyệt
+6655	6539			Ngoại Trang T5 Tất Cả Phái (Hắc Bang) Nguyệt
+4326	3874			Ngoại Trang T6 Tất Cả Phái (Tự Nhiên)
+4327	3875			Ngoại Trang T6 Tất Cả Phái (Tự Nhiên)-Bạc Màu 1
+4328	3876			Ngoại Trang T6 Tất Cả Phái (Tự Nhiên)-Bạc Màu 2
+4329	3877			Ngoại Trang T6 Tất Cả Phái (Tự Nhiên)-Bạc Màu 3
+4330	3874			Ngoại Trang T6 Tất Cả Phái (Tự Nhiên)
+4331	3875			Ngoại Trang T6 Tất Cả Phái (Tự Nhiên)-Bạc Màu 1
+4332	3876			Ngoại Trang T6 Tất Cả Phái (Tự Nhiên)-Bạc Màu 2
+4333	3877			Ngoại Trang T6 Tất Cả Phái (Tự Nhiên)-Bạc Màu 3
+4334	3874			Ngoại Trang T6 Tất Cả Phái (Tự Nhiên)
+4335	3875			Ngoại Trang T6 Tất Cả Phái (Tự Nhiên)-Bạc Màu 1
+4336	3876			Ngoại Trang T6 Tất Cả Phái (Tự Nhiên)-Bạc Màu 2
+4337	3877			Ngoại Trang T6 Tất Cả Phái (Tự Nhiên)-Bạc Màu 3
+4338	3874			Ngoại Trang T6 Tất Cả Phái (Tự Nhiên)
+4339	3875			Ngoại Trang T6 Tất Cả Phái (Tự Nhiên)-Bạc Màu 1
+4340	3876			Ngoại Trang T6 Tất Cả Phái (Tự Nhiên)-Bạc Màu 2
+4341	3877			Ngoại Trang T6 Tất Cả Phái (Tự Nhiên)-Bạc Màu 3
+4342	3874			Ngoại Trang T6 Tất Cả Phái (Tự Nhiên)
+4343	3875			Ngoại Trang T6 Tất Cả Phái (Tự Nhiên)-Bạc Màu 1
+4344	3876			Ngoại Trang T6 Tất Cả Phái (Tự Nhiên)-Bạc Màu 2
+4345	3877			Ngoại Trang T6 Tất Cả Phái (Tự Nhiên)-Bạc Màu 3
+4346	3874			Ngoại Trang T6 Tất Cả Phái (Tự Nhiên)
+4347	3875			Ngoại Trang T6 Tất Cả Phái (Tự Nhiên)-Bạc Màu 1
+4348	3876			Ngoại Trang T6 Tất Cả Phái (Tự Nhiên)-Bạc Màu 2
+4349	3877			Ngoại Trang T6 Tất Cả Phái (Tự Nhiên)-Bạc Màu 3
+4350	3874			Ngoại Trang T6 Tất Cả Phái (Tự Nhiên)
+4351	3875			Ngoại Trang T6 Tất Cả Phái (Tự Nhiên)-Bạc Màu 1
+4352	3876			Ngoại Trang T6 Tất Cả Phái (Tự Nhiên)-Bạc Màu 2
+4353	3877			Ngoại Trang T6 Tất Cả Phái (Tự Nhiên)-Bạc Màu 3
+4354	3874			Ngoại Trang T6 Tất Cả Phái (Tự Nhiên)
+4355	3875			Ngoại Trang T6 Tất Cả Phái (Tự Nhiên)-Bạc Màu 1
+4356	3876			Ngoại Trang T6 Tất Cả Phái (Tự Nhiên)-Bạc Màu 2
+4357	3877			Ngoại Trang T6 Tất Cả Phái (Tự Nhiên)-Bạc Màu 3
+4358	3874			Ngoại Trang T6 Tất Cả Phái (Tự Nhiên)
+4359	3875			Ngoại Trang T6 Tất Cả Phái (Tự Nhiên)-Bạc Màu 1
+4360	3876			Ngoại Trang T6 Tất Cả Phái (Tự Nhiên)-Bạc Màu 2
+4361	3877			Ngoại Trang T6 Tất Cả Phái (Tự Nhiên)-Bạc Màu 3
+4362	3874			Ngoại Trang T6 Tất Cả Phái (Tự Nhiên)
+4363	3875			Ngoại Trang T6 Tất Cả Phái (Tự Nhiên)-Bạc Màu 1
+4364	3876			Ngoại Trang T6 Tất Cả Phái (Tự Nhiên)-Bạc Màu 2
+4365	3877			Ngoại Trang T6 Tất Cả Phái (Tự Nhiên)-Bạc Màu 3
+4366	3874			Ngoại Trang T6 Tất Cả Phái (Tự Nhiên)
+4367	3875			Ngoại Trang T6 Tất Cả Phái (Tự Nhiên)-Bạc Màu 1
+4368	3876			Ngoại Trang T6 Tất Cả Phái (Tự Nhiên)-Bạc Màu 2
+4369	3877			Ngoại Trang T6 Tất Cả Phái (Tự Nhiên)-Bạc Màu 3
+5259	3874			Ngoại Trang T6 Tất Cả Phái (Tự Nhiên)
+5260	3875			Ngoại Trang T6 Tất Cả Phái (Tự Nhiên)-Bạc Màu 1
+5261	3876			Ngoại Trang T6 Tất Cả Phái (Tự Nhiên)-Bạc Màu 2
+5262	3877			Ngoại Trang T6 Tất Cả Phái (Tự Nhiên)-Bạc Màu 3
+5263	3874			Ngoại Trang T6 Tất Cả Phái (Tự Nhiên)
+5264	3875			Ngoại Trang T6 Tất Cả Phái (Tự Nhiên)-Bạc Màu 1
+5265	3876			Ngoại Trang T6 Tất Cả Phái (Tự Nhiên)-Bạc Màu 2
+5266	3877			Ngoại Trang T6 Tất Cả Phái (Tự Nhiên)-Bạc Màu 3
+6656	3874			Ngoại Trang T6 Tất Cả Phái (Tự Nhiên)
+6657	3875			Ngoại Trang T6 Tất Cả Phái (Tự Nhiên)-Bạc Màu 1
+6658	3876			Ngoại Trang T6 Tất Cả Phái (Tự Nhiên)-Bạc Màu 2
+6659	3877			Ngoại Trang T6 Tất Cả Phái (Tự Nhiên)-Bạc Màu 3
+4370	4243			Ngoại Trang T6 Tất Cả Phái (Tự Nhiên)-Đặc Biệt
+4371	4243			Ngoại Trang T6 Tất Cả Phái (Tự Nhiên)-Đặc Biệt
+4372	4243			Ngoại Trang T6 Tất Cả Phái (Tự Nhiên)-Đặc Biệt
+4373	4243			Ngoại Trang T6 Tất Cả Phái (Tự Nhiên)-Đặc Biệt
+4374	4243			Ngoại Trang T6 Tất Cả Phái (Tự Nhiên)-Đặc Biệt
+4375	4243			Ngoại Trang T6 Tất Cả Phái (Tự Nhiên)-Đặc Biệt
+4376	4243			Ngoại Trang T6 Tất Cả Phái (Tự Nhiên)-Đặc Biệt
+4377	4243			Ngoại Trang T6 Tất Cả Phái (Tự Nhiên)-Đặc Biệt
+4378	4243			Ngoại Trang T6 Tất Cả Phái (Tự Nhiên)-Đặc Biệt
+4379	4243			Ngoại Trang T6 Tất Cả Phái (Tự Nhiên)-Đặc Biệt
+4380	4243			Ngoại Trang T6 Tất Cả Phái (Tự Nhiên)-Đặc Biệt
+5267	4243			Ngoại Trang T6 Tất Cả Phái (Tự Nhiên)-Đặc Biệt
+5268	4243			Ngoại Trang T6 Tất Cả Phái (Tự Nhiên)-Đặc Biệt
+6660	4243			Ngoại Trang T6 Tất Cả Phái (Tự Nhiên)-Đặc Biệt
+4773	4772		5184000	Ngoại Trang T6 Tất Cả Phái (Tự Nhiên)-60 ngày
+4774	4772		5184000	Ngoại Trang T6 Tất Cả Phái (Tự Nhiên)-60 ngày
+4775	4772		5184000	Ngoại Trang T6 Tất Cả Phái (Tự Nhiên)-60 ngày
+4776	4772		5184000	Ngoại Trang T6 Tất Cả Phái (Tự Nhiên)-60 ngày
+4777	4772		5184000	Ngoại Trang T6 Tất Cả Phái (Tự Nhiên)-60 ngày
+4778	4772		5184000	Ngoại Trang T6 Tất Cả Phái (Tự Nhiên)-60 ngày
+4779	4772		5184000	Ngoại Trang T6 Tất Cả Phái (Tự Nhiên)-60 ngày
+4780	4772		5184000	Ngoại Trang T6 Tất Cả Phái (Tự Nhiên)-60 ngày
+4781	4772		5184000	Ngoại Trang T6 Tất Cả Phái (Tự Nhiên)-60 ngày
+4782	4772		5184000	Ngoại Trang T6 Tất Cả Phái (Tự Nhiên)-60 ngày
+4783	4772		5184000	Ngoại Trang T6 Tất Cả Phái (Tự Nhiên)-60 ngày
+7369	4772		5184000	Ngoại Trang T6 Tất Cả Phái (Tự Nhiên)-60 ngày
+7370	4772		5184000	Ngoại Trang T6 Tất Cả Phái (Tự Nhiên)-60 ngày
+5863	3878			Ngoại Trang T7 Tất Cả Phái (Phù Quang)
+5864	3879			Ngoại Trang T7 Tất Cả Phái (Phù Quang)-Bạc Màu 1
+5865	3880			Ngoại Trang T7 Tất Cả Phái (Phù Quang)-Bạc Màu 2
+5866	3881			Ngoại Trang T7 Tất Cả Phái (Phù Quang)-Bạc Màu 3
+5867	3878			Ngoại Trang T7 Tất Cả Phái (Phù Quang)
+5868	3879			Ngoại Trang T7 Tất Cả Phái (Phù Quang)-Bạc Màu 1
+5869	3880			Ngoại Trang T7 Tất Cả Phái (Phù Quang)-Bạc Màu 2
+5870	3881			Ngoại Trang T7 Tất Cả Phái (Phù Quang)-Bạc Màu 3
+5871	3878			Ngoại Trang T7 Tất Cả Phái (Phù Quang)
+5872	3879			Ngoại Trang T7 Tất Cả Phái (Phù Quang)-Bạc Màu 1
+5873	3880			Ngoại Trang T7 Tất Cả Phái (Phù Quang)-Bạc Màu 2
+5874	3881			Ngoại Trang T7 Tất Cả Phái (Phù Quang)-Bạc Màu 3
+5875	3878			Ngoại Trang T7 Tất Cả Phái (Phù Quang)
+5876	3879			Ngoại Trang T7 Tất Cả Phái (Phù Quang)-Bạc Màu 1
+5877	3880			Ngoại Trang T7 Tất Cả Phái (Phù Quang)-Bạc Màu 2
+5878	3881			Ngoại Trang T7 Tất Cả Phái (Phù Quang)-Bạc Màu 3
+5879	3878			Ngoại Trang T7 Tất Cả Phái (Phù Quang)
+5880	3879			Ngoại Trang T7 Tất Cả Phái (Phù Quang)-Bạc Màu 1
+5881	3880			Ngoại Trang T7 Tất Cả Phái (Phù Quang)-Bạc Màu 2
+5882	3881			Ngoại Trang T7 Tất Cả Phái (Phù Quang)-Bạc Màu 3
+5883	3878			Ngoại Trang T7 Tất Cả Phái (Phù Quang)
+5884	3879			Ngoại Trang T7 Tất Cả Phái (Phù Quang)-Bạc Màu 1
+5885	3880			Ngoại Trang T7 Tất Cả Phái (Phù Quang)-Bạc Màu 2
+5886	3881			Ngoại Trang T7 Tất Cả Phái (Phù Quang)-Bạc Màu 3
+5887	3878			Ngoại Trang T7 Tất Cả Phái (Phù Quang)
+5888	3879			Ngoại Trang T7 Tất Cả Phái (Phù Quang)-Bạc Màu 1
+5889	3880			Ngoại Trang T7 Tất Cả Phái (Phù Quang)-Bạc Màu 2
+5890	3881			Ngoại Trang T7 Tất Cả Phái (Phù Quang)-Bạc Màu 3
+5891	3878			Ngoại Trang T7 Tất Cả Phái (Phù Quang)
+5892	3879			Ngoại Trang T7 Tất Cả Phái (Phù Quang)-Bạc Màu 1
+5893	3880			Ngoại Trang T7 Tất Cả Phái (Phù Quang)-Bạc Màu 2
+5894	3881			Ngoại Trang T7 Tất Cả Phái (Phù Quang)-Bạc Màu 3
+5895	3878			Ngoại Trang T7 Tất Cả Phái (Phù Quang)
+5896	3879			Ngoại Trang T7 Tất Cả Phái (Phù Quang)-Bạc Màu 1
+5897	3880			Ngoại Trang T7 Tất Cả Phái (Phù Quang)-Bạc Màu 2
+5898	3881			Ngoại Trang T7 Tất Cả Phái (Phù Quang)-Bạc Màu 3
+5899	3878			Ngoại Trang T7 Tất Cả Phái (Phù Quang)
+5900	3879			Ngoại Trang T7 Tất Cả Phái (Phù Quang)-Bạc Màu 1
+5901	3880			Ngoại Trang T7 Tất Cả Phái (Phù Quang)-Bạc Màu 2
+5902	3881			Ngoại Trang T7 Tất Cả Phái (Phù Quang)-Bạc Màu 3
+5903	3878			Ngoại Trang T7 Tất Cả Phái (Phù Quang)
+5904	3879			Ngoại Trang T7 Tất Cả Phái (Phù Quang)-Bạc Màu 1
+5905	3880			Ngoại Trang T7 Tất Cả Phái (Phù Quang)-Bạc Màu 2
+5906	3881			Ngoại Trang T7 Tất Cả Phái (Phù Quang)-Bạc Màu 3
+5907	3878			Ngoại Trang T7 Tất Cả Phái (Phù Quang)
+5908	3879			Ngoại Trang T7 Tất Cả Phái (Phù Quang)-Bạc Màu 1
+5909	3880			Ngoại Trang T7 Tất Cả Phái (Phù Quang)-Bạc Màu 2
+5910	3881			Ngoại Trang T7 Tất Cả Phái (Phù Quang)-Bạc Màu 3
+5911	3878			Ngoại Trang T7 Tất Cả Phái (Phù Quang)
+5912	3879			Ngoại Trang T7 Tất Cả Phái (Phù Quang)-Bạc Màu 1
+5913	3880			Ngoại Trang T7 Tất Cả Phái (Phù Quang)-Bạc Màu 2
+5914	3881			Ngoại Trang T7 Tất Cả Phái (Phù Quang)-Bạc Màu 3
+6661	3878			Ngoại Trang T7 Tất Cả Phái (Phù Quang)
+6662	3879			Ngoại Trang T7 Tất Cả Phái (Phù Quang)-Bạc Màu 1
+6663	3880			Ngoại Trang T7 Tất Cả Phái (Phù Quang)-Bạc Màu 2
+6664	3881			Ngoại Trang T7 Tất Cả Phái (Phù Quang)-Bạc Màu 3
+6724	6741		2592000	Ngoại Trang T7 Tất Cả Phái (Phù Quang)-30 ngày
+6725	6741		2592000	Ngoại Trang T7 Tất Cả Phái (Phù Quang)-30 ngày
+6726	6741		2592000	Ngoại Trang T7 Tất Cả Phái (Phù Quang)-30 ngày
+6727	6741		2592000	Ngoại Trang T7 Tất Cả Phái (Phù Quang)-30 ngày
+6728	6741		2592000	Ngoại Trang T7 Tất Cả Phái (Phù Quang)-30 ngày
+6729	6741		2592000	Ngoại Trang T7 Tất Cả Phái (Phù Quang)-30 ngày
+6730	6741		2592000	Ngoại Trang T7 Tất Cả Phái (Phù Quang)-30 ngày
+6731	6741		2592000	Ngoại Trang T7 Tất Cả Phái (Phù Quang)-30 ngày
+6732	6741		2592000	Ngoại Trang T7 Tất Cả Phái (Phù Quang)-30 ngày
+6733	6741		2592000	Ngoại Trang T7 Tất Cả Phái (Phù Quang)-30 ngày
+6734	6741		2592000	Ngoại Trang T7 Tất Cả Phái (Phù Quang)-30 ngày
+6735	6741		2592000	Ngoại Trang T7 Tất Cả Phái (Phù Quang)-30 ngày
+6736	6741		2592000	Ngoại Trang T7 Tất Cả Phái (Phù Quang)-30 ngày
+6737	6741		2592000	Ngoại Trang T7 Tất Cả Phái (Phù Quang)-30 ngày
+5915	3882			Ngoại Trang T8 Tất Cả Phái (Hàn Phục)
+5916	3883			Ngoại Trang T8 Tất Cả Phái (Hàn Phục)-Bạc Màu 1
+5917	3884			Ngoại Trang T8 Tất Cả Phái (Hàn Phục)-Bạc Màu 2
+5918	3885			Ngoại Trang T8 Tất Cả Phái (Hàn Phục)-Bạc Màu 3
+5919	3882			Ngoại Trang T8 Tất Cả Phái (Hàn Phục)
+5920	3883			Ngoại Trang T8 Tất Cả Phái (Hàn Phục)-Bạc Màu 1
+5921	3884			Ngoại Trang T8 Tất Cả Phái (Hàn Phục)-Bạc Màu 2
+5922	3885			Ngoại Trang T8 Tất Cả Phái (Hàn Phục)-Bạc Màu 3
+5923	3882			Ngoại Trang T8 Tất Cả Phái (Hàn Phục)
+5924	3883			Ngoại Trang T8 Tất Cả Phái (Hàn Phục)-Bạc Màu 1
+5925	3884			Ngoại Trang T8 Tất Cả Phái (Hàn Phục)-Bạc Màu 2
+5926	3885			Ngoại Trang T8 Tất Cả Phái (Hàn Phục)-Bạc Màu 3
+5927	3882			Ngoại Trang T8 Tất Cả Phái (Hàn Phục)
+5928	3883			Ngoại Trang T8 Tất Cả Phái (Hàn Phục)-Bạc Màu 1
+5929	3884			Ngoại Trang T8 Tất Cả Phái (Hàn Phục)-Bạc Màu 2
+5930	3885			Ngoại Trang T8 Tất Cả Phái (Hàn Phục)-Bạc Màu 3
+5931	3882			Ngoại Trang T8 Tất Cả Phái (Hàn Phục)
+5932	3883			Ngoại Trang T8 Tất Cả Phái (Hàn Phục)-Bạc Màu 1
+5933	3884			Ngoại Trang T8 Tất Cả Phái (Hàn Phục)-Bạc Màu 2
+5934	3885			Ngoại Trang T8 Tất Cả Phái (Hàn Phục)-Bạc Màu 3
+5935	3882			Ngoại Trang T8 Tất Cả Phái (Hàn Phục)
+5936	3883			Ngoại Trang T8 Tất Cả Phái (Hàn Phục)-Bạc Màu 1
+5937	3884			Ngoại Trang T8 Tất Cả Phái (Hàn Phục)-Bạc Màu 2
+5938	3885			Ngoại Trang T8 Tất Cả Phái (Hàn Phục)-Bạc Màu 3
+5939	3882			Ngoại Trang T8 Tất Cả Phái (Hàn Phục)
+5940	3883			Ngoại Trang T8 Tất Cả Phái (Hàn Phục)-Bạc Màu 1
+5941	3884			Ngoại Trang T8 Tất Cả Phái (Hàn Phục)-Bạc Màu 2
+5942	3885			Ngoại Trang T8 Tất Cả Phái (Hàn Phục)-Bạc Màu 3
+5943	3882			Ngoại Trang T8 Tất Cả Phái (Hàn Phục)
+5944	3883			Ngoại Trang T8 Tất Cả Phái (Hàn Phục)-Bạc Màu 1
+5945	3884			Ngoại Trang T8 Tất Cả Phái (Hàn Phục)-Bạc Màu 2
+5946	3885			Ngoại Trang T8 Tất Cả Phái (Hàn Phục)-Bạc Màu 3
+5947	3882			Ngoại Trang T8 Tất Cả Phái (Hàn Phục)
+5948	3883			Ngoại Trang T8 Tất Cả Phái (Hàn Phục)-Bạc Màu 1
+5949	3884			Ngoại Trang T8 Tất Cả Phái (Hàn Phục)-Bạc Màu 2
+5950	3885			Ngoại Trang T8 Tất Cả Phái (Hàn Phục)-Bạc Màu 3
+5951	3882			Ngoại Trang T8 Tất Cả Phái (Hàn Phục)
+5952	3883			Ngoại Trang T8 Tất Cả Phái (Hàn Phục)-Bạc Màu 1
+5953	3884			Ngoại Trang T8 Tất Cả Phái (Hàn Phục)-Bạc Màu 2
+5954	3885			Ngoại Trang T8 Tất Cả Phái (Hàn Phục)-Bạc Màu 3
+5955	3882			Ngoại Trang T8 Tất Cả Phái (Hàn Phục)
+5956	3883			Ngoại Trang T8 Tất Cả Phái (Hàn Phục)-Bạc Màu 1
+5957	3884			Ngoại Trang T8 Tất Cả Phái (Hàn Phục)-Bạc Màu 2
+5958	3885			Ngoại Trang T8 Tất Cả Phái (Hàn Phục)-Bạc Màu 3
+5959	3882			Ngoại Trang T8 Tất Cả Phái (Hàn Phục)
+5960	3883			Ngoại Trang T8 Tất Cả Phái (Hàn Phục)-Bạc Màu 1
+5961	3884			Ngoại Trang T8 Tất Cả Phái (Hàn Phục)-Bạc Màu 2
+5962	3885			Ngoại Trang T8 Tất Cả Phái (Hàn Phục)-Bạc Màu 3
+5963	3882			Ngoại Trang T8 Tất Cả Phái (Hàn Phục)
+5964	3883			Ngoại Trang T8 Tất Cả Phái (Hàn Phục)-Bạc Màu 1
+5965	3884			Ngoại Trang T8 Tất Cả Phái (Hàn Phục)-Bạc Màu 2
+5966	3885			Ngoại Trang T8 Tất Cả Phái (Hàn Phục)-Bạc Màu 3
+6554	3886			Ngoại Trang T9 Tất Cả Phái (Khinh Sa)
+6555	3887			Ngoại Trang T9 Tất Cả Phái (Khinh Sa)-Bạc Màu 1
+6556	3888			Ngoại Trang T9 Tất Cả Phái (Khinh Sa)-Bạc Màu 2
+6557	3889			Ngoại Trang T9 Tất Cả Phái (Khinh Sa)-Bạc Màu 3
+6558	3886			Ngoại Trang T9 Tất Cả Phái (Khinh Sa)
+6559	3887			Ngoại Trang T9 Tất Cả Phái (Khinh Sa)-Bạc Màu 1
+6560	3888			Ngoại Trang T9 Tất Cả Phái (Khinh Sa)-Bạc Màu 2
+6561	3889			Ngoại Trang T9 Tất Cả Phái (Khinh Sa)-Bạc Màu 3
+6562	3886			Ngoại Trang T9 Tất Cả Phái (Khinh Sa)
+6563	3887			Ngoại Trang T9 Tất Cả Phái (Khinh Sa)-Bạc Màu 1
+6564	3888			Ngoại Trang T9 Tất Cả Phái (Khinh Sa)-Bạc Màu 2
+6565	3889			Ngoại Trang T9 Tất Cả Phái (Khinh Sa)-Bạc Màu 3
+6566	3886			Ngoại Trang T9 Tất Cả Phái (Khinh Sa)
+6567	3887			Ngoại Trang T9 Tất Cả Phái (Khinh Sa)-Bạc Màu 1
+6568	3888			Ngoại Trang T9 Tất Cả Phái (Khinh Sa)-Bạc Màu 2
+6569	3889			Ngoại Trang T9 Tất Cả Phái (Khinh Sa)-Bạc Màu 3
+6570	3886			Ngoại Trang T9 Tất Cả Phái (Khinh Sa)
+6571	3887			Ngoại Trang T9 Tất Cả Phái (Khinh Sa)-Bạc Màu 1
+6572	3888			Ngoại Trang T9 Tất Cả Phái (Khinh Sa)-Bạc Màu 2
+6573	3889			Ngoại Trang T9 Tất Cả Phái (Khinh Sa)-Bạc Màu 3
+6574	3886			Ngoại Trang T9 Tất Cả Phái (Khinh Sa)
+6575	3887			Ngoại Trang T9 Tất Cả Phái (Khinh Sa)-Bạc Màu 1
+6576	3888			Ngoại Trang T9 Tất Cả Phái (Khinh Sa)-Bạc Màu 2
+6577	3889			Ngoại Trang T9 Tất Cả Phái (Khinh Sa)-Bạc Màu 3
+6578	3886			Ngoại Trang T9 Tất Cả Phái (Khinh Sa)
+6579	3887			Ngoại Trang T9 Tất Cả Phái (Khinh Sa)-Bạc Màu 1
+6580	3888			Ngoại Trang T9 Tất Cả Phái (Khinh Sa)-Bạc Màu 2
+6581	3889			Ngoại Trang T9 Tất Cả Phái (Khinh Sa)-Bạc Màu 3
+6582	3886			Ngoại Trang T9 Tất Cả Phái (Khinh Sa)
+6583	3887			Ngoại Trang T9 Tất Cả Phái (Khinh Sa)-Bạc Màu 1
+6584	3888			Ngoại Trang T9 Tất Cả Phái (Khinh Sa)-Bạc Màu 2
+6585	3889			Ngoại Trang T9 Tất Cả Phái (Khinh Sa)-Bạc Màu 3
+6586	3886			Ngoại Trang T9 Tất Cả Phái (Khinh Sa)
+6587	3887			Ngoại Trang T9 Tất Cả Phái (Khinh Sa)-Bạc Màu 1
+6588	3888			Ngoại Trang T9 Tất Cả Phái (Khinh Sa)-Bạc Màu 2
+6589	3889			Ngoại Trang T9 Tất Cả Phái (Khinh Sa)-Bạc Màu 3
+6590	3886			Ngoại Trang T9 Tất Cả Phái (Khinh Sa)
+6591	3887			Ngoại Trang T9 Tất Cả Phái (Khinh Sa)-Bạc Màu 1
+6592	3888			Ngoại Trang T9 Tất Cả Phái (Khinh Sa)-Bạc Màu 2
+6593	3889			Ngoại Trang T9 Tất Cả Phái (Khinh Sa)-Bạc Màu 3
+6594	3886			Ngoại Trang T9 Tất Cả Phái (Khinh Sa)
+6595	3887			Ngoại Trang T9 Tất Cả Phái (Khinh Sa)-Bạc Màu 1
+6596	3888			Ngoại Trang T9 Tất Cả Phái (Khinh Sa)-Bạc Màu 2
+6597	3889			Ngoại Trang T9 Tất Cả Phái (Khinh Sa)-Bạc Màu 3
+6598	3886			Ngoại Trang T9 Tất Cả Phái (Khinh Sa)
+6599	3887			Ngoại Trang T9 Tất Cả Phái (Khinh Sa)-Bạc Màu 1
+6600	3888			Ngoại Trang T9 Tất Cả Phái (Khinh Sa)-Bạc Màu 2
+6601	3889			Ngoại Trang T9 Tất Cả Phái (Khinh Sa)-Bạc Màu 3
+6602	3886			Ngoại Trang T9 Tất Cả Phái (Khinh Sa)
+6603	3887			Ngoại Trang T9 Tất Cả Phái (Khinh Sa)-Bạc Màu 1
+6604	3888			Ngoại Trang T9 Tất Cả Phái (Khinh Sa)-Bạc Màu 2
+6605	3889			Ngoại Trang T9 Tất Cả Phái (Khinh Sa)-Bạc Màu 3
+6606	3886			Ngoại Trang T9 Tất Cả Phái (Khinh Sa)
+6607	3887			Ngoại Trang T9 Tất Cả Phái (Khinh Sa)-Bạc Màu 1
+6608	3888			Ngoại Trang T9 Tất Cả Phái (Khinh Sa)-Bạc Màu 2
+6609	3889			Ngoại Trang T9 Tất Cả Phái (Khinh Sa)-Bạc Màu 3
+6610	3886			Ngoại Trang T9 Tất Cả Phái (Khinh Sa)
+6611	3887			Ngoại Trang T9 Tất Cả Phái (Khinh Sa)-Bạc Màu 1
+6612	3888			Ngoại Trang T9 Tất Cả Phái (Khinh Sa)-Bạc Màu 2
+6613	3889			Ngoại Trang T9 Tất Cả Phái (Khinh Sa)-Bạc Màu 3
+6879	4772		5184000	Ngoại Trang【Lạc Hoa Thanh Trúc】60 ngày
+6880	3879			Ngoại Trang【Phù Quang Nhược Mộng】Màu 1
+6881	3880			Ngoại Trang【Phù Quang Nhược Mộng】Màu 2
+6882	3881			Ngoại Trang【Phù Quang Nhược Mộng】Màu 3
+6884	6452			Đồng Phục T1-Màu 1-Đạo cụ quá độ
+6885	6456			Đồng Phục T2-Màu 1-Đạo cụ quá độ
+6886	6460			Đồng Phục T3-Màu 1-Đạo cụ quá độ
+7507	7502			Đồng Phục T4-Màu 1-Đạo cụ quá độ
+6995	6783			Đồng Phục T1-Đầu-Màu 1-Đạo cụ quá độ
+6996	6787			Đồng Phục T2-Đầu-Màu 1-Đạo cụ quá độ
+6997	6791			Đồng Phục T3-Đầu-Màu 1-Đạo cụ quá độ
+7508	7509			Đồng Phục T4-Đầu-Màu 1-Đạo cụ quá độ
+6998	6615			Ngoại Trang T1 (Nón)-Đạo cụ quá độ
+6999	6616			Ngoại Trang T1 (Nón)-Màu 2-Đạo cụ quá độ
+7000	6617			Ngoại Trang T1 (Nón)-Màu 3-Đạo cụ quá độ
+7001	6618			Ngoại Trang T1 (Nón)-Màu 4-Đạo cụ quá độ
+7002	6858			Ngoại Trang T1 (Nón)-Màu 5-Đạo cụ quá độ
+7003	6619			Ngoại Trang T2 (Hoa)-Đạo cụ quá độ
+7004	6620			Ngoại Trang T2 (Hoa)-Màu 2-Đạo cụ quá độ
+7005	6621			Ngoại Trang T2 (Hoa)-Màu 3-Đạo cụ quá độ
+7006	6622			Ngoại Trang T2 (Hoa)-Màu 4-Đạo cụ quá độ
+7007	6667			Ngoại Trang T2 (Hoa)-Màu 5-Đạo cụ quá độ
+7008	6668			Ngoại Trang T2 (Hoa)-Màu 6-Đạo cụ quá độ
+7009	6669			Ngoại Trang T2 (Hoa)-Màu 7-Đạo cụ quá độ
+7010	6670			Ngoại Trang T2 (Hoa)-Màu 8-Đạo cụ quá độ
+7011	6623			Ngoại Trang T3 (Áo Năm Mới)-Đạo cụ quá độ
+7012	6624			Ngoại Trang T3 (Áo Năm Mới)-Màu 2-Đạo cụ quá độ
+7013	6625			Ngoại Trang T3 (Áo Năm Mới)-Màu 3-Đạo cụ quá độ
+7014	6626			Ngoại Trang T3 (Áo Năm Mới)-Màu 4-Đạo cụ quá độ
+7015	6859			Ngoại Trang T3 (Áo Năm Mới)-Màu 5-Đạo cụ quá độ
+7016	6627			Ngoại Trang T4 (Bát Gia Tướng)-Đạo cụ quá độ
+7017	6628			Ngoại Trang T4 (Bát Gia Tướng)-Màu 2-Đạo cụ quá độ
+7018	6629			Ngoại Trang T4 (Bát Gia Tướng)-Màu 3-Đạo cụ quá độ
+7019	6630			Ngoại Trang T4 (Bát Gia Tướng)-Màu 4-Đạo cụ quá độ
+7020	6671			Ngoại Trang T4 (Bát Gia Tướng)-Màu 5-Đạo cụ quá độ
+7021	6631			Ngoại Trang T5 (Hắc Bang)-Đạo cụ quá độ
+7022	6632			Ngoại Trang T5 (Hắc Bang)-Màu 2-Đạo cụ quá độ
+7023	6633			Ngoại Trang T5 (Hắc Bang)-Màu 3-Đạo cụ quá độ
+7024	6634			Ngoại Trang T5 (Hắc Bang)-Màu 4-Đạo cụ quá độ
+7025	6672			Ngoại Trang T5 (Hắc Bang)-Màu 5-Đạo cụ quá độ
+7026	6635			Ngoại Trang T6 (Tự Nhiên)-Đạo cụ quá độ
+7027	6636			Ngoại Trang T6 (Tự Nhiên)-Màu 2-Đạo cụ quá độ
+7028	6637			Ngoại Trang T6 (Tự Nhiên)-Màu 3-Đạo cụ quá độ
+7029	6638			Ngoại Trang T6 (Tự Nhiên)-Màu 4-Đạo cụ quá độ
+7030	6673			Ngoại Trang T6 (Tự Nhiên)-Màu 5-Đạo cụ quá độ
+7031	6639			Ngoại Trang T7 (Phù Quang)-Đạo cụ quá độ
+7032	6640			Ngoại Trang T7 (Phù Quang)-Màu 2-Đạo cụ quá độ
+7033	6641			Ngoại Trang T7 (Phù Quang)-Màu 3-Đạo cụ quá độ
+7034	6642			Ngoại Trang T7 (Phù Quang)-Màu 4-Đạo cụ quá độ
+7035	6861			Ngoại Trang T7 (Phù Quang)-Màu 5-Đạo cụ quá độ
+7036	6643			Ngoại Trang T8 (Khinh Sa)-Đạo cụ quá độ
+7037	6644			Ngoại Trang T8 (Khinh Sa)-Màu 2-Đạo cụ quá độ
+7038	6645			Ngoại Trang T8 (Khinh Sa)-Màu 3-Đạo cụ quá độ
+7039	6646			Ngoại Trang T8 (Khinh Sa)-Màu 4-Đạo cụ quá độ
+7044	6862			Ngoại Trang T9 (Khinh Sa)-Màu 5-Đạo cụ quá độ
+7040	6647			Ngoại Trang T9-Đạo cụ quá độ
+7041	6648			Ngoại Trang T9-Màu 2-Đạo cụ quá độ
+7042	6649			Ngoại Trang T9-Màu 3-Đạo cụ quá độ
+7043	6650			Ngoại Trang T9-Màu 4-Đạo cụ quá độ
+51	6887	50000		Đầu T1
+52	6892	50000		Đầu T2
+53	6897	50000		Đầu T3
+54	6902	50000		Đầu T4
+55	6907	50000		Đầu T5
+56	6912	50000		Đầu T6
+57	6917	50000		Đầu T7
+58	6922	50000		Đầu T8
+59	6927	50000		Đầu T9
+60	6932	50000		Đầu T10
+4951	6937	50000		Nón T11
+4952	6942	50000		Nón T12
+4953	6947	50000		Nón T13
+4954	6952	50000		Nón T14
+4955	6957	50000		Nón T15
+4956	6962	50000		Nón T16
+151	6887	50000		【Hiếm】Nón Bậc 1
+152	6892	50000		【Hiếm】Nón Bậc 2
+153	6897	50000		【Hiếm】Nón Bậc 3
+154	6902	50000		【Hiếm】Nón Bậc 4
+155	6907	50000		【Hiếm】Nón Bậc 5
+156	6912	50000		【Hiếm】Nón Bậc 6
+157	6917	50000		【Hiếm】Nón Bậc 7
+158	6922	50000		【Hiếm】Nón Bậc 8
+159	6927	50000		【Hiếm】Nón Bậc 9
+160	6932	50000		【Hiếm】Nón Bậc 10
+5051	6937	50000		【Hiếm】Nón Bậc 11
+5052	6942	50000		【Hiếm】Nón Bậc 12
+5053	6947	50000		【Hiếm】Nón Bậc 13
+5054	6952	50000		【Hiếm】Nón Bậc 14
+5055	6957	50000		【Hiếm】Nón Bậc 15
+5056	6962	50000		【Hiếm】Nón Bậc 16
+1562	6887	50000		【Kế Thừa】Nón Bậc 1
+1563	6892	50000		【Kế Thừa】Nón Bậc 2
+1564	6897	50000		【Kế Thừa】Nón Bậc 3
+1565	6902	50000		【Kế Thừa】Nón Bậc 4
+1566	6907	50000		【Kế Thừa】Nón Bậc 5
+1567	6912	50000		【Kế Thừa】Nón Bậc 6
+1568	6917	50000		【Kế Thừa】Nón Bậc 7
+1569	6922	50000		【Kế Thừa】Nón Bậc 8
+3609	6927	50000		【Kế Thừa】Nón Bậc 9
+3610	6932	50000		【Kế Thừa】Nón Bậc 10
+5151	6937	50000		【Kế Thừa】Nón Bậc 11
+5152	6942	50000		【Kế Thừa】Nón Bậc 12
+5153	6947	50000		【Kế Thừa】Nón Bậc 13
+5154	6952	50000		【Kế Thừa】Nón Bậc 14
+5155	6957	50000		【Kế Thừa】Nón Bậc 15
+5156	6962	50000		【Kế Thừa】Nón Bậc 16
+1251	6887	50000		Đầu T1 (Đặc chế)
+7124	7123		2592000	Ngoại Trang T9 Tất Cả Phái (Khinh Sa)
+7125	7123		604800	Ngoại Trang T9 Tất Cả Phái (Khinh Sa)
+7278	6706			Ngoại Trang Vũ Khí T2
+7294	7131			Nhung Tuyết Hoa Quán
+7295	7135			Vân Mộng Cơ
+7310	7298			Ngoại Trang Đầu Năm
+7311	7304			Cẩu Đầu
+7954	7955			Đầu Thỏ
+7318	7312			Ngoại Trang Năm Mới
+9779	9774			Đầu Halloween
+7675	7542			Áo Bộ Ngoại Trang-Cao T12
+7676	7554			Đầu Sức Bộ Ngoại Trang-Cao T12
+7677	7548			Áo Bộ Ngoại Trang-Thường T12
+7678	7560			Đầu Sức Bộ Ngoại Trang-Thường T12
+8523	8384			Áo Hawaii T13
+8524	8388			Nón Hawaii T13
+7730	7712		31536000	Quỷ Mị Tuyết Hồ
+7740	7713		31536000	U Viêm-Si Mị Tuyết Hồ
+9983	7712		2592000	Si Mị Tuyết Hồ 30 Ngày
+8161	8203		259200	Nón Ngoại Trang T1 (3 Ngày)
+8162	8203		604800	Nón Ngoại Trang T1 (7 Ngày)
+8163	8203		2592000	Nón Ngoại Trang T1 (30 Ngày)
+8164	8204		259200	Nón Hoa T2 (3 Ngày)
+8165	8204		604800	Nón Hoa T2 (7 Ngày)
+8166	8204		2592000	Nón Hoa T2 (30 Ngày)
+8167	8205		259200	Nón Năm Mới T3 (3 Ngày)
+8168	8205		604800	Nón Năm Mới T3 (7 Ngày)
+8169	8205		2592000	Nón Năm Mới T3 (30 Ngày)
+8170	8206		259200	Nón Bát Gia Tướng T4 (3 Ngày)
+8171	8206		604800	Nón Bát Gia Tướng T4 (7 Ngày)
+8172	8206		2592000	Nón Bát Gia Tướng T4 (30 Ngày)
+8173	8215		259200	Nón Hắc Bang T5 (3 Ngày)
+8174	8215		604800	Nón Hắc Bang T5 (7 Ngày)
+8175	8215		2592000	Nón Hắc Bang T5 (30 Ngày)
+8176	8207		259200	Nón Tự Nhiên T6 (3 Ngày)
+8177	8207		604800	Nón Tự Nhiên T6 (7 Ngày)
+8178	8207		2592000	Nón Tự Nhiên T6 (30 Ngày)
+8179	8208		259200	Nón Phù Quang T7 (3 Ngày)
+8180	8208		604800	Nón Phù Quang T7 (7 Ngày)
+8181	8208		2592000	Nón Phù Quang T7 (30 Ngày)
+8182	7128		259200	Nón Ti Lộ Lưu Sa 3 Ngày
+7127	7128		604800	Nón Ti Lộ Lưu Sa-7 ngày
+7126	7128		2592000	Nón Ti Lộ Lưu Sa-30 ngày
+8183	8209		259200	Nón Nhung Tuyết Hoa Quán T10 (3 Ngày)
+8184	8209		604800	Nón Nhung Tuyết Hoa Quán T10 (7 Ngày)
+8185	8209		2592000	Nón Nhung Tuyết Hoa Quán T10 (30 Ngày)
+8186	7437		259200	Nón Vân Mộng Cơ 3 Ngày
+8187	7437		604800	Nón Vân Mộng Cơ 7 Ngày
+7436	7437		2592000	Nón Vân Mộng Cơ 30 Ngày
+8188	8210		259200	Nón Năm Mới T11 (3 Ngày)
+8189	8210		604800	Nón Năm Mới T11 (7 Ngày)
+8190	8210		2592000	Nón Năm Mới T11 (30 Ngày)
+8191	8211		259200	Nón Cẩu Đầu T11s (3 Ngày)
+8192	8211		604800	Nón Cẩu Đầu T11s (7 Ngày)
+8193	8211		2592000	Nón Cẩu Đầu T11s (30 Ngày)
+8194	8212		259200	Nón Hạ Liên T12 (3 Ngày)
+8195	8212		604800	Nón Hạ Liên T12 (7 Ngày)
+8196	8212		2592000	Nón Hạ Liên T12 (30 Ngày)
+8197	8213		259200	Nón Hạ Liên-Thường T12A (3 Ngày)
+8198	8213		604800	Nón Hạ Liên-Thường T12A (7 Ngày)
+8199	8213		2592000	Nón Hạ Liên-Thường T12A (30 Ngày)
+8200	8214		259200	Nón Thỏ T13 (3 Ngày)
+8201	8214		604800	Nón Thỏ T13 (7 Ngày)
+8202	8214		2592000	Nón Thỏ T13 (30 Ngày)
+9714	8214		31536000	Ngoại Trang Nón Thỏ T13(1 năm)
+8283	8282			Huyết Đồng-Nguyệt Tuyệt
+8254	8252		31536000	Huyết Đồng-Khiếu Sương
+8255	8253		31536000	Huyết Đồng-Hoàng Trần
+8272	8273		31536000	Huyết Đồng-Thanh Khung
+9492	7933			Túi Linh Khuyển
+9717	9718		31536000	Túi Linh Khuyển (1 năm)
+9493	9488			Túi Ngọc Thố
+9715	9716		31536000	Túi Ngọc Thố (1 năm)
+10185	9825			Nhung Tuyết Lễ Miệt
+10239	10241			Heo Vàng
+10240	10245		31536000	Heo Vàng-1 Năm
+9512	9539		86400	Đồng Phục T1-1 Ngày
+9513	9540		86400	Đồng Phục T2-Màu 1-1 Ngày
+9514	9541		86400	Đồng Phục T3-1 Ngày
+9515	2516		86400	Thời Trang T1-1 Ngày
+9516	4481		86400	Thời Trang T2-1 Ngày
+9517	4484		86400	Thời Trang T3-1 Ngày
+9518	4772		86400	Thời Trang T6 (Tự Nhiên)-1 Ngày
+9519	4490		86400	Thời trang T5 (Hắc Bang)-1 Ngày
+9520	6741		86400	Phù Quang Nhược Mộng T7-1 Ngày
+9521	7123		86400	Ti Lộ Lưu Sa T9-1 Ngày
+9522	8284		86400	Năm Mới 2018 T11 1 Ngày
+9523	8285		86400	Thời Trang Hạ Liên-Cao T12 1 Ngày
+9527	9524		86400	Áo T6-1 Ngày
+9528	9525		86400	Áo T7-1 Ngày
+9529	9526		86400	Áo T8-1 Ngày
+9564	9569			Thanh Phong-Được Mặc
+9701	9699			Ngoại Trang Việt Nam
+9702	9700			Đầu Sức Việt Nam
+9920	9798			Áo Hoàng Cát Nghinh Xuân
+9921	9984		259200	Áo Hoàng Cát Nghinh Xuân 3 Ngày
+9922	9810			Hoàng Cát Nghinh Xuân Đầu
+9923	9986		259200	Hoàng Cát Nghinh Xuân Đầu 3 Ngày
+10199	10197			Hán Nguyệt Toái Ngân
+10200	10198		31536000	Hán Nguyệt Toái Ngân-1 năm
+10252	10250		1728000	Ngoại Trang Vũ Khí T3-20 Ngày
+10448	10441			T3B Ngoại trang vũ khí hiệu ứng Tiên Vũ
+10260	10258			Sí Vũ Chước Tâm
+10261	10259		31536000	Sí Vũ Chước Tâm (1 năm)
+10274	9804			Áo Tố Phương Mộc Tuyết
+10275	9816			Đầu Sức Tố Phương Mộc Tuyết
+10533	10529			Lẫm Đông Bào Hao
+10534	10530		31536000	Lẫm Đông Bào Hao
+10535	10531			Thích Kim Mao Tê
+10536	10532		31536000	Thích Kim Mao Tê
+10583	10516			Đầu Sức Cá Tháng Tư
+10603	10502			Áo Phiên Yến Lưu Vân
+10604	10509			Đầu Sức Phiên Yến Lưu Vân
+10609	10610			Lẫm Đông Bào Hao
+10840	10455			Diều Giấy Xích Lân
+100025	7542			Áo Bộ Ngoại Trang-Cao T12
+100026	7548			Áo Bộ Ngoại Trang-Thường T12
+100027	7312			Áo Bộ Kim Ngọc Mãn Đường
+100028	3886			Áo Bộ Ti Lộ Lưu Sa
+100029	3878			Áo Bộ Phù Quang Nhược Mộng
+100030	6288			Áo Bộ Tà Mị Quyên Cuồng
+100031	7554			Đầu Sức Bộ Ngoại Trang-Cao T12
+100032	7560			Đầu Sức Bộ Ngoại Trang-Thường T12
+100033	7304			Đầu Sức Bộ Phúc Vận Hưng Vượng
+100034	7298			Đầu Sức Bộ Kim Ngọc Mãn Đường
+100035	7135			Đầu Sức Bộ Vân Mộng Khởi
+100036	7131			Đầu Sức Nhung Tuyết Hoa Quán
+100037	6643			Đầu Sức Ti Lộ Lưu Sa
+100038	6639			Đầu Sức Phù Quang Nhược Mộng
+100039	6631			Đầu Sức Tà Mị Quyên Cuồng
+100040	7713			U Viêm Li Mị Tuyết Hồ
+100041	7296			Phúc Thụy Linh Lộc
+100042	7280			Sí Ảnh
+100043	4868			Tinh Mang-Vân Mị Linh Lộc
+100044	4866			Vân Mị Linh Lộc
+100045	4865			Tử U Linh Lộc
+100046	6706			Đạo Cụ Ngoại Trang Vũ Khí T2
+100048	8384			Áo Hawaii T13
+100049	9699			Ngoại Trang Việt Nam
+100052	8388			Nón Hawaii T13
+100053	9700			Đầu Sức Việt Nam
+100050	7955			Đầu Thỏ
+100051	9774			Đầu Halloween
+100054	8282			Huyết Đồng-Nguyệt Tuyệt
+100055	8252			Huyết Đồng-Khiếu Sương
+100056	8253			Huyết Đồng-Hoàng Trần
+100057	8273			Huyết Đồng-Thanh Khung
+100058	7933			Túi Linh Khuyển
+100059	9488			Túi Ngọc Thố
+100062	9798			Áo Hoàng Cát Nghinh Xuân
+100064	9810			Hoàng Cát Nghinh Xuân Đầu
+100061	9804			Áo Tố Phương Mộc Tuyết
+100063	9816			Đầu Sức Tố Phương Mộc Tuyết
+100066	9825			Vớ Giáng Sinh A
+100067	9829			Vớ Giáng Sinh B
+100065	10241			Heo Vàng
+100068	9569			Thanh Phong-Được Mặc
+100069	9725			Đạo Cụ Ngoại Trang Vũ Khí T3
+100071	10516			Đầu Sức Cá Tháng Tư
+100072	10258			Sí Vũ Chước Tâm
+100073	10197			Hán Nguyệt Toái Ngân
+100074	10152			Thích Kim-Lam Trạm Linh Lộc
+100090	10502			Áo Phiên Yến Lưu Vân
+100091	10509			Đầu Sức Phiên Yến Lưu Vân
+100092	10521			Đầu Sức Hoa Tình
+100093	10647			U Viêm-Li Mị Hỏa Hồ
+100094	10531			Thích Kim Mao Tê
+100095	10610			Lẫm Đông Bào Hao
+100096	10455			Diều Giấy Xích Lân
+100097	10956			Băng Hồn Tuyết Phách
+100098	10954			Lôi Đình Bào Hao

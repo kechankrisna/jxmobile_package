@@ -1,0 +1,14 @@
+nId	szDesc	nLevelMin	nLevelMax	szTimeFrameOpen	szActiveTimeFrame	nNeed
+1	Tham gia 2 lần Chiến Trường Tống Kim	24			StartBattle	2
+2	Tham gia 2 lần Danh Tướng	30		OpenDay7		2
+3	Tham gia 1 lần Thông Thiên Tháp	30			CheckStartTeamBattle	1
+4	Tham gia 1 lần Vận Tiêu Bang Hội	30		OpenDay5		1
+5	Tham gia 1 lần Thi Đấu Môn Phái	30			StartFactionBattle	1
+6	Tham gia 2 lần Thủ Lĩnh Dã Ngoại	20		OpenDay3C		2
+7	Tham gia 1 lần Thí Luyện Bang Hội/Bí Cảnh/Bảo Vệ Chiến	15		OpenDay4		1
+8	Tham gia 1 lần Công Thành Chiến	20		OpenDomainBattle	StartDomainBattle	1
+9	Tham gia 1 lần Bạch Hổ Đường	30			StartWhiteTiger	1
+10	Tham gia 3 lần Minh Chủ Võ Lâm	20		OpenDay1A		3
+11	Tham gia 3 lần Lửa Trại Bang Hội	11			KinGather	3
+12	Tham gia 1 lần Tâm Ma Ảo Cảnh	60			OpenIndiffer	1
+13	Tham gia 1 lần Thủy Hoàng Giáng Thế/Nữ Đế Hồi Sinh	60		OpenDay89		1

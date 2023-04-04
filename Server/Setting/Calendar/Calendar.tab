@@ -1,0 +1,50 @@
+nId	szKey	nLevelMin	nLevelMax	nSort	nStarLevel	szTimeFrameOpen	szActiveTimeFrame	szName	szIconAtlas	szIcon	szTag	szJoinCount	szJoinCountFunc	nTimeGroup	bWeek	szFuncName	szParams	szOpenActivityTip	szWeekIcon	bNotPreview
+1	Boss	20		4	5	OpenDay1A		Minh Chủ Võ Lâm	UI/Atlas/NewAtlas/Icon/ActivityIcon/ActivityIcon.prefab	wulinmengzhu	Mark_PK			2		OpenUi	BossPanel		UI/Textures/ActivityPicture/wulinmengzhu.jpg	
+2	CommerceTask	30		24	3	OpenDay2		Nhiệm Vụ Thương Hội	UI/Atlas/NewAtlas/Icon/ActivityIcon/ActivityIcon.prefab	shanghuirenwu	Mark_Single	CommerceTask				DoCommerceTask	CommerceTaskPanel			
+3	Battle	24		10	4		StartBattle	Chiến Trường Tống Kim	UI/Atlas/NewAtlas/Icon/ActivityIcon/ActivityIcon.prefab	songjinzhanchang	Mark_PK	Battle		1		OpenUi	BattleEntrance		UI/Textures/ActivityPicture/songjinzhanchang.jpg	
+4	CangBaoTu	21		25	4			Tàng Bảo Đồ	UI/Atlas/NewAtlas/Icon/ActivityIcon/ActivityIcon.prefab	cangbaotu	Mark_Single					CangBaoTu				
+6	PunishTask	22		18	3			Nhiệm Vụ Trừng Ác	UI/Atlas/NewAtlas/Icon/ActivityIcon/ActivityIcon.prefab	chengjierenwu	Mark_Team	PunishTask				OpenUi	TeamPanel|TeamActivity|PunishTask|PunishTask			
+7	TeamFuben	15		19	3			Bí Cảnh Tổ Đội	UI/Atlas/NewAtlas/Icon/ActivityIcon/ActivityIcon.prefab	zuduimijing	Mark_Team	TeamFuben				OpenUi	TeamFubenPanel			
+8	ExplorationFuben	19	69	17	4			Tìm Kho Báu	UI/Atlas/NewAtlas/Icon/ActivityIcon/ActivityIcon.prefab	guanqiatansuo	Mark_Single	MapExplore				OpenUi	FubenSectionPanel|ExplorationFuben			
+9	Rank	17		23	3			Võ Thần Điện	UI/Atlas/NewAtlas/Icon/ActivityIcon/ActivityIcon.prefab	wushendian	Mark_Single	RankBattle				OpenUi	RankPanel			
+10	RandomFuben	30		20	3	OpenDay2		Lăng Tuyệt Phong	UI/Atlas/NewAtlas/Icon/ActivityIcon/ActivityIcon.prefab	lingjuefeng	Mark_Team	RandomFuben				GoToRandomFuben				
+11	QunYingHui	70		6	5	OpenLevel79	QYHCrossStart	Quần Anh Hội	UI/Atlas/NewAtlas/Icon/ActivityIcon/ActivityIcon.prefab	qunyinghui	Mark_PK			3		JoinQYHCross	QYHEntrance		UI/Textures/ActivityPicture/qunyinghui.jpg	
+12	FieldBoss	30		5	5	OpenDay7		Danh Tướng	UI/Atlas/NewAtlas/Icon/ActivityIcon/ActivityIcon.prefab	lidaimingjiang	Mark_PK			4		OpenUi	BossLeaderPanel|Boss	BossLeaderPanel|Boss	UI/Textures/ActivityPicture/lidaimingjiang.jpg	
+13	FieldLeader	20		17	4	OpenDay3C		Thủ Lĩnh Dã Ngoại	UI/Atlas/NewAtlas/Icon/ActivityIcon/ActivityIcon.prefab	yewaishouling	Mark_PK			5		OpenUi	BossLeaderPanel|Leader	BossLeaderPanel|Leader	UI/Textures/ActivityPicture/yewaishouling.jpg	
+14	ActivityQuestion	23	39	22	3			Vấn Đáp	UI/Atlas/NewAtlas/Icon/ActivityIcon/ActivityIcon.prefab	meiridati	Mark_Single	ActivityQuestion	ActivityQuestion:GetState			ActivityQuestion	ActivityQuestion			
+15	ChuanGong	15		13	5	OpenDay2		Bang Hội Truyền Công	UI/Atlas/NewAtlas/Icon/ActivityIcon/ActivityIcon.prefab	jiazuchuangong	Mark_Famliy	ChuangGong	ChuangGong:GetDegreeInfo			OpenKinMember				
+18	KinGather	11		2	5		KinGather	Lửa Trại Bang Hội	UI/Atlas/NewAtlas/Icon/ActivityIcon/ActivityIcon.prefab	jiazujuji	Mark_Famliy			9		BackToKinMap			UI/Textures/ActivityPicture/jiazukaohuo.jpg	
+21	AdventureFuben	13		21	3			Sơn Tặc Mật Quật	UI/Atlas/NewAtlas/Icon/ActivityIcon/ActivityIcon.prefab	shanzeimiku	Mark_Team	AdventureFuben				OpenUi	TeamPanel|TeamActivity|AdventureFuben|AdventureFuben			
+23	HeroChallenge	30		16	4	OpenDay3		Khiêu Chiến Anh Hùng	UI/Atlas/NewAtlas/Icon/ActivityIcon/ActivityIcon.prefab	jiazurenwu	Mark_PK	HeroChallenge				OpenUi	HeroChallenge			
+24	KinBattle	999		7	5			Bang Hội Chiến	UI/Atlas/NewAtlas/Icon/ActivityIcon/ActivityIcon.prefab	jiazuzhan	Mark_Famliy			10	1	OpenUi	KinBattle	KinBattle		
+25	WhiteTigerFuben	30		11	4		StartWhiteTiger	Bạch Hổ Đường	UI/Atlas/NewAtlas/Icon/ActivityIcon/ActivityIcon.prefab	baihutang	Mark_PK	WhiteTigerFuben		11		JoinWTFuben			UI/Textures/ActivityPicture/baihutang.jpg	
+26	TeamBattle	30		9	5		CheckStartTeamBattle	Thông Thiên Tháp	UI/Atlas/NewAtlas/Icon/ActivityIcon/ActivityIcon.prefab	zhaixinglou	Mark_Team		TeamBattle:GetLastTimes	12	1	OpenUi	TeamBattlePanel	TeamBattlePanel		
+27	FactionBattle	30		8	5		StartFactionBattle	Thi Đấu Môn Phái	UI/Atlas/NewAtlas/Icon/ActivityIcon/ActivityIcon.prefab	menpaijingji	Mark_PK			13	1	JoinFactionBattle				
+28	KinEscort	30		12	5	OpenDay5		Vận Tiêu Bang Hội	UI/Atlas/NewAtlas/Icon/ActivityIcon/ActivityIcon.prefab	yunbiao	Mark_Famliy		KinEscort:GetDegree	14		AutoPath	952|409		UI/Textures/ActivityPicture/jiazuyunbiao.jpg	
+29	XiuLian	24		15	5			Luyện Công Ngoài Thành	UI/Atlas/NewAtlas/Icon/ActivityIcon/ActivityIcon.prefab	yewaixiulian	Mark_Team					OpenUi	FieldPracticePanel			
+30	KinFuben	15		3	5	OpenDay4		Thí Luyện Bang Hội	UI/Atlas/NewAtlas/Icon/ActivityIcon/ActivityIcon.prefab	jiazushilian	Mark_Famliy			15	1	JoinKinTrain				
+31	SeriesFuben	20		25	3			Thí Luyện Giang Hồ	UI/Atlas/NewAtlas/Icon/ActivityIcon/ActivityIcon.prefab	qunyinghui	Mark_Single					OpenUi	TrialPanel			
+32	FactionMonkey	20		1	5			Môn Phái Bầu Chọn	UI/Atlas/NewAtlas/Icon/ActivityIcon/ActivityIcon.prefab	toupiao	Mark_Single					OpenUi	FactionMonkeyPanel			
+33	DomainBattle	20		1	5	OpenDomainBattle	StartDomainBattle	Công Thành Chiến	UI/Atlas/NewAtlas/Icon/ActivityIcon/ActivityIcon.prefab	lingtuzhan	Mark_Famliy			16	1	OpenUi	KinDetailPanel|DomainBattleMain			
+34	CardCollection_1	30		20	3	OpenLevel59		Thu thập Lăng Tuyệt Phong	UI/Atlas/NewAtlas/Icon/ActivityIcon/ActivityIcon.prefab	lingjuefengshoucang	Mark_Team		CollectionSystem:GetRandomCompletion			GoToRandomFuben				
+35	HuaShanLunJian	60		1	5	HuaShanLunJian		Hoa Sơn Luận Kiếm	UI/Atlas/NewAtlas/Icon/ActivityIcon/ActivityIcon.prefab	huashanlunjian	Mark_Team			17		OpenUi	HSLJPanel	HSLJPanel	UI/Textures/ActivityPicture/baihutang.jpg	
+36	HuaShanLunJian1	20		1	5	HuaShanLunJian		Hoa Sơn Luận Kiếm-Chung kết	UI/Atlas/NewAtlas/Icon/ActivityIcon/ActivityIcon.prefab	huashanlunjian	Mark_Team			18		OpenUi	HSLJPanel	HSLJPanel	UI/Textures/ActivityPicture/baihutang.jpg	1
+37	ImperialTomb	60		13	5	OpenDay89		Tần Lăng	UI/Atlas/NewAtlas/Icon/ActivityIcon/ActivityIcon.prefab	miyinkuangdong	Mark_Team			19		ImperialTomb			UI/Textures/ActivityPicture/qinshihuangling.jpg	
+38	ImperialTombEmperor	60		1	5	OpenDay89		Thủy Hoàng Giáng Thế	UI/Atlas/NewAtlas/Icon/ActivityIcon/ActivityIcon.prefab	qinshihuangling	Mark_Famliy			20	1	ImperialTombEmperor		ImperialTombPanel		
+39	WeekendQuestion	30		18	5			Loạn Điểm Uyên Ương	UI/Atlas/NewAtlas/Icon/ActivityIcon/ActivityIcon.prefab	meiridati	Mark_Team	NULL				OpenUi	WeekendQuizPanel			1
+40	IdiomsAct	30		18	5			Hữu Duyên Tương Hội	UI/Atlas/NewAtlas/Icon/ActivityIcon/ActivityIcon.prefab	meiridati	Mark_Team	IdiomFuben	IdiomFuben:GetDegreeInfo			AutoPath	99|10			1
+41	DefendAct	30		18	5			Ước Hẹn	UI/Atlas/NewAtlas/Icon/ActivityIcon/ActivityIcon.prefab	meiridati	Mark_Team	DefendFuben				DefendsAct				1
+42	InDifferBattle	50		1	5		OpenIndiffer	Tâm Ma Ảo Cảnh	UI/Atlas/NewAtlas/Icon/ActivityIcon/ActivityIcon.prefab	xinmohuanjing	Mark_Team	InDifferBattle		21		OpenUi	DreamlandJoinPanel	DreamlandJoinPanel	UI/Textures/ActivityPicture/xinmohuanjing.jpg	
+43	DaXueZhang	20		12	5			Ném Tuyết	UI/Atlas/NewAtlas/Icon/ActivityIcon/ActivityIcon.prefab	daxuezhang	Mark_Single		Calendar:GetDXZCount			OpenUi	SnowballPanel	SnowballPanel		1
+44	Muse	60		14	5	OpenDay33		Ngồi Thiền Tịnh Tâm	UI/Atlas/NewAtlas/Icon/ActivityIcon/ActivityIcon.prefab	mingxiang	Mark_Single	Muse				GotoMuse				
+45	ImperialTombFemaleEmperor	80		1	5	OpenLevel129Add10		Nữ Đế Hồi Sinh	UI/Atlas/NewAtlas/Icon/ActivityIcon/ActivityIcon.prefab	nvdiyizhong	Mark_Famliy			23	1	ImperialTombFemaleEmperor		ImperialTombPanel|true		
+47	FieldCrossBoss	30		5	5	OpenDay353		Danh Tướng Liên SV	UI/Atlas/NewAtlas/Icon/ActivityIcon/ActivityIcon.prefab	lidaimingjiang	Mark_PK			4		OpenUi	BossLeaderPanel|Boss	BossLeaderPanel|Boss	UI/Textures/ActivityPicture/lidaimingjiang.jpg	
+48	ZhenFaTask	80		15	3	OpenLevel89		Trận Pháp Thí Luyện	UI/Atlas/NewAtlas/Icon/ActivityIcon/ActivityIcon2.prefab	shilian	Mark_Team	ZhenFaTask				DoZhenFaTask				
+49	CrossDomainBattle	20		1	5	OpenCrossDomainBattle	CrossDomainLocalStart	Công Thành Liên SV	UI/Atlas/NewAtlas/Icon/ActivityIcon/ActivityIcon.prefab	lingtuzhan	Mark_Famliy			24	1	OpenUi	KinDetailPanel|DomainBattleMain			
+50	KinSecretFuben	15		3	5	OpenLevel79		Bí Cảnh Bang Hội	UI/Atlas/NewAtlas/Icon/ActivityIcon/ActivityIcon2.prefab	jiazumijing	Mark_Famliy			25	1	JoinKinSecretFuben				
+51	InDifferBattleJuedi	50		1	5		OpenIndiffer	Tâm Ma Tuyệt Địa	UI/Atlas/NewAtlas/Icon/ActivityIcon/ActivityIcon.prefab	xinmohuanjing	Mark_Team	InDifferBattle		26		OpenUi	DreamlandJoinPanel|JueDi	DreamlandJoinPanel|JueDi	UI/Textures/ActivityPicture/xinmohuanjing.jpg	
+52	KeyQuestFuben	80		1	5		OpenKeyQuestFuben	Di Tích Tầm Bảo	UI/Atlas/NewAtlas/Icon/ActivityIcon/ActivityIcon2.prefab	xunbao	Mark_Team	KeyQuestFuben		27		OpenUi	RuinsTreasureEntrance	RuinsTreasureEntrance	UI/Textures/ActivityPicture/yijixunbao.jpg	
+53	KinEncounterAct	60		1	5	OpenLevel89		Bang Hội Chiến	UI/Atlas/NewAtlas/Icon/ActivityIcon/ActivityIcon.prefab	lingtuzhan	Mark_Famliy				1	JoinKinEncounter				
+54	PartnerCardTask	90		1	5	OpenLevel109		Nhiệm vụ Môn Khách	UI/Atlas/NewAtlas/Icon/ActivityIcon/ActivityIcon2.prefab	menke	Mark_Single		PartnerCard:GetTaskDegreeInfo			PartnerCardTask				
+55	LoverTask	35	79	18	5			Nhiệm Vụ Tình Duyên	UI/Atlas/NewAtlas/Icon/ActivityIcon/ActivityIcon2.prefab	LoveTask	Mark_Team		LoverTask:GetTaskDegreeInfo			LoverTask				1
+56	KinDefendFuben	20		3	5	OpenLevel89		Bảo Vệ Bang Hội	UI/Atlas/NewAtlas/Icon/ActivityIcon/ActivityIcon2.prefab	jiazubaoweizhan	Mark_Famliy			30	1	JoinKinDefendFuben				

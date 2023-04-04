@@ -1,0 +1,81 @@
+szTimeFrame	nNpcTID	Npc	Name	nMapId	nX	nY	Desc	nDir
+OpenLevel39	1966	Nạp Lan Tiềm Lẫm	Tỏa Vân Uyên	400	6900	4230	Nam	49
+OpenLevel39	1967	Nạp Lan Chân	Tỏa Vân Uyên	400	14350	8920	Bắc	45
+OpenLevel39	1968	Độc Cô Kiếm	Tỏa Vân Uyên	400	9400	14960	Tây Bắc	34
+OpenLevel39	1969	Trương Lâm Tâm	Võ Di Sơn	401	13300	7390	Đông Bắc	49
+OpenLevel39	1970	Nam Cung Phi	Võ Di Sơn	401	4300	13320	Tây	30
+OpenLevel39	1971	Yên Nhược Tuyết	Võ Di Sơn	401	1830	4620	Nam	41
+OpenLevel39	1972	Mạnh Tri Thu	Nhạn Đãng Sơn	402	2190	2900	Tây	19
+OpenLevel39	1973	Nguyệt My Nhi	Nhạn Đãng Sơn	402	10220	12040	Đông	32
+OpenLevel39	1974	Dương Ảnh Phong	Nhạn Đãng Sơn	402	2850	11900	Bắc	23
+OpenLevel39	1975	Tường Vi	Bờ Hồ Động Đình	403	14000	4260	Đông	38
+OpenLevel39	1976	Trương Như Mộng	Bờ Hồ Động Đình	403	3400	7600	Tây Nam	25
+OpenLevel39	1977	Nam Cung Thái Hồng	Bờ Hồ Động Đình	403	13800	12900	Bắc	35
+OpenLevel39	1978	Trác Phi Phàm	Miêu Lĩnh	404	5730	14100	Tây	36
+OpenLevel39	1979	Tử Hiên	Miêu Lĩnh	404	5170	2860	Nam	40
+OpenLevel39	1980	Sài Tung	Miêu Lĩnh	404	13700	6070	Đông	0
+OpenLevel39	1981	Dương Anh	Điểm Thương Sơn	405	6070	11820	Tây	0
+OpenLevel39	1982	Hồ Thần Y	Điểm Thương Sơn	405	14240	5440	Đông	42
+OpenLevel39	1983	Thu Y Thủy	Điểm Thương Sơn	405	14440	14580	Bắc	40
+OpenLevel39	1984	Vạn Kim Tài	Phế Tích Dạ Lang	409	11390	12730	Bắc	39
+OpenLevel39	1985	Ngu Cơ	Phế Tích Dạ Lang	409	630	4270	Nam	50
+OpenLevel49	1966	Nạp Lan Tiềm Lẫm	Tỏa Vân Uyên	400	6900	4230	Nam	49
+OpenLevel49	1967	Nạp Lan Chân	Tỏa Vân Uyên	400	14350	8920	Bắc	45
+OpenLevel49	1968	Độc Cô Kiếm	Võ Di Sơn	401	13300	7390	Đông Bắc	49
+OpenLevel49	1969	Trương Lâm Tâm	Võ Di Sơn	401	4300	13320	Tây	30
+OpenLevel49	1970	Nam Cung Phi	Nhạn Đãng Sơn	402	2190	2900	Tây	19
+OpenLevel49	1971	Yên Nhược Tuyết	Nhạn Đãng Sơn	402	10220	12040	Đông	32
+OpenLevel49	1972	Mạnh Tri Thu	Bờ Hồ Động Đình	403	14000	4260	Đông	38
+OpenLevel49	1973	Nguyệt My Nhi	Bờ Hồ Động Đình	403	3400	7600	Tây Nam	25
+OpenLevel49	1974	Dương Ảnh Phong	Miêu Lĩnh	404	5730	14100	Tây	36
+OpenLevel49	1975	Tường Vi	Miêu Lĩnh	404	5170	2860	Nam	40
+OpenLevel49	1976	Trương Như Mộng	Điểm Thương Sơn	405	6070	11820	Tây	0
+OpenLevel49	1977	Nam Cung Thái Hồng	Điểm Thương Sơn	405	14240	5440	Đông	0
+OpenLevel49	1978	Trác Phi Phàm	Phế Tích Dạ Lang	409	11390	12730	Bắc	0
+OpenLevel49	1979	Tử Hiên	Phế Tích Dạ Lang	409	630	4270	Nam	0
+OpenLevel49	1980	Sài Tung	Hưởng Thủy Động	406	10450	12250	Bắc	32
+OpenLevel49	1981	Dương Anh	Hưởng Thủy Động	406	7230	630	Đông Nam	55
+OpenLevel49	1982	Hồ Thần Y	Kiến Tính Phong	407	5430	4560	Nam	41
+OpenLevel49	1983	Thu Y Thủy	Kiến Tính Phong	407	14900	5400	Đông Bắc	48
+OpenLevel49	1984	Vạn Kim Tài	Kiếm Môn Quan	408	2400	10630	Tây Nam	39
+OpenLevel49	1985	Ngu Cơ	Kiếm Môn Quan	408	14770	14730	Bắc	39
+OpenLevel69	1966	Nạp Lan Tiềm Lẫm	Tỏa Vân Uyên	400	14350	8920	Bắc	45
+OpenLevel69	1967	Nạp Lan Chân	Võ Di Sơn	401	4300	13320	Tây	30
+OpenLevel69	1968	Độc Cô Kiếm	Nhạn Đãng Sơn	402	10220	12040	Đông	32
+OpenLevel69	1969	Trương Lâm Tâm	Bờ Hồ Động Đình	403	3400	7600	Tây Nam	25
+OpenLevel69	1970	Nam Cung Phi	Miêu Lĩnh	404	5170	2860	Nam	40
+OpenLevel69	1971	Yên Nhược Tuyết	Điểm Thương Sơn	405	14240	5440	Đông	0
+OpenLevel69	1972	Mạnh Tri Thu	Phế Tích Dạ Lang	409	630	4270	Nam	0
+OpenLevel69	1973	Nguyệt My Nhi	Hưởng Thủy Động	406	10450	12250	Bắc	32
+OpenLevel69	1974	Dương Ảnh Phong	Hưởng Thủy Động	406	7230	630	Đông Nam	55
+OpenLevel69	1975	Tường Vi	Kiến Tính Phong	407	5430	4560	Nam	41
+OpenLevel69	1976	Trương Như Mộng	Kiến Tính Phong	407	14900	5400	Đông Bắc	48
+OpenLevel69	1977	Nam Cung Thái Hồng	Kiếm Môn Quan	408	2400	10630	Tây Nam	39
+OpenLevel69	1978	Trác Phi Phàm	Kiếm Môn Quan	408	14770	14730	Bắc	39
+OpenLevel69	1979	Tử Hiên	Tiến Cúc Động	410	1770	8930	Tây Nam	19
+OpenLevel69	1980	Sài Tung	Tiến Cúc Động	410	13400	13480	Bắc	43
+OpenLevel69	1981	Dương Anh	Phục Ngưu Sơn	411	14250	5260	Đông Bắc	46
+OpenLevel69	1982	Hồ Thần Y	Phục Ngưu Sơn	411	4980	14150	Tây	32
+OpenLevel69	1983	Thu Y Thủy	Chiến Trường Cổ	412	14666	5600	Đông Bắc	50
+OpenLevel69	1984	Vạn Kim Tài	Chiến Trường Cổ	412	6360	14100	Tây	31
+OpenLevel69	1985	Ngu Cơ	Phong Lăng Độ	419	14630	10560	Bắc	44
+OpenLevel89	1966	Nạp Lan Tiềm Lẫm	Tỏa Vân Uyên	400	14350	8920	Bắc	45
+OpenLevel89	1967	Nạp Lan Chân	Võ Di Sơn	401	4300	13320	Tây	30
+OpenLevel89	1968	Độc Cô Kiếm	Nhạn Đãng Sơn	402	10220	12040	Đông	32
+OpenLevel89	1969	Trương Lâm Tâm	Bờ Hồ Động Đình	403	3400	7600	Tây Nam	25
+OpenLevel89	1970	Nam Cung Phi	Miêu Lĩnh	404	5170	2860	Nam	40
+OpenLevel89	1971	Yên Nhược Tuyết	Điểm Thương Sơn	405	14240	5440	Đông	0
+OpenLevel89	1972	Mạnh Tri Thu	Phế Tích Dạ Lang	409	630	4270	Nam	0
+OpenLevel89	1973	Nguyệt My Nhi	Hưởng Thủy Động	406	10450	12250	Bắc	32
+OpenLevel89	1974	Dương Ảnh Phong	Kiến Tính Phong	407	5430	4560	Nam	41
+OpenLevel89	1975	Tường Vi	Kiếm Môn Quan	408	2400	10630	Tây Nam	39
+OpenLevel89	1976	Trương Như Mộng	Tiến Cúc Động	410	1770	8930	Tây Nam	16
+OpenLevel89	1977	Nam Cung Thái Hồng	Phục Ngưu Sơn	411	14250	5260	Đông Bắc	45
+OpenLevel89	1978	Trác Phi Phàm	Chiến Trường Cổ	412	14666	5600	Đông Bắc	50
+OpenLevel89	1979	Tử Hiên	Phong Lăng Độ	419	14630	10560	Bắc	44
+OpenLevel89	1980	Sài Tung	Kỳ Liên Sơn	413	16330	9830	Bắc	41
+OpenLevel89	1981	Dương Anh	Kỳ Liên Sơn	413	6500	13420	Tây	35
+OpenLevel89	1982	Hồ Thần Y	Di Tích Sa Mạc	414	3060	12980	Tây	40
+OpenLevel89	1983	Thu Y Thủy	Di Tích Sa Mạc	414	13600	2470	Đông	42
+OpenLevel89	1984	Vạn Kim Tài	Đôn Hoàng Cổ Thành	415	14000	13780	Bắc	40
+OpenLevel89	1985	Ngu Cơ	Đôn Hoàng Cổ Thành	415	5940	2580	Nam	15

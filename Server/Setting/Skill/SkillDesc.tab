@@ -1,0 +1,990 @@
+SkillId		MagicDesc
+201	Thiên Vương Chùy Pháp	Gây [00ff00]attack_usebasedamage_p1%[-] tấn công cơ bản + [00ff00]attack_metaldamage_v1[-] sát thương hệ Kim
+206	Nhất Kích Sát Thần	Gây cho mục tiêu bị đánh trúng [00ff00]attack_usebasedamage_p1%[-] tấn công cơ bản + [00ff00]attack_metaldamage_v1[-] sát thương hệ Kim, kèm hiệu quả Bị Thương [00ff00]state_hurt_attack2/15[-] giây, Định Thân [00ff00]state_fixed_attack2/15[-] giây
+213	Kim Chung Tráo	Bản thân tăng [00ff00]all_series_resist_p1%[-] + [00ff00]all_series_resist_v1[-] kháng tất cả, [00ff00]resist_allseriesstate_rate_v1[-] kháng tỉ lệ thuộc tính, duy trì [00ff00]skill_statetime1/15[-] giây 
+210	Huyết Chiến Bát Phương	Mỗi tấn công gây [00ff00]attack_usebasedamage_p1%[-] tấn công cơ bản + [00ff00]attack_metaldamage_v1[-] sát thương hệ Kim
+209	Thiên Vương Chiến Ý	Vĩnh viễn tăng [00ff00]lifemax_p1%[-] sinh lực cơ bản, [00ff00]physics_potentialdamage_p1%[-] tấn công cơ bản và [00ff00]state_zhican_resistrate1[-] điểm kháng tỉ lệ tàn phế
+208	Bá Vương Nộ Hống	Gây [00ff00]attack_usebasedamage_p1%[-] tấn công cơ bản + [00ff00]attack_metaldamage_v1[-] sát thương hệ Kim, có [00ff00]state_hurt_attack1%[-] kèm [00ff00]state_hurt_attack2/15[-] giây Bị Thương
+224	Nhất Kỵ Đương Thiên	Mỗi kẻ địch xuất hiện xung quanh, tự tăng [00ff00]all_series_resist_p1%[-] kháng tất cả, tối đa cộng dồn [00ff00]add_mult_proc_sate12[-] lần
+229	Chùy Pháp-Cao	[Thiên Vương Chùy Pháp] tăng [00ff00]attack_usebasedamage_p1%[-] tấn công cơ bản + [00ff00]attack_metaldamage_v1[-] sát thương hệ Kim
+240	Kinh Lôi Phá Thiên	Mỗi lần tăng [00ff00]physics_potentialdamage_p1%[-] tấn công cơ bản, duy trì [00ff00]skill_statetime1/15[-] giây, tối đa cộng dồn [00ff00]superposemagic1[-] lần
+218	Phá Phủ Trầm Châu	Có [00ff00]userdesc_1011%[-] tỉ lệ kích hoạt hồi sinh lực [00ff00]dir_recover_life_pp1/100%[-] và vô địch [00ff00]skill_statetime1/15[-] giây, khoảng cách kích hoạt cách nhau [00ff00]userdesc_1021/15[-] giây
+242	Thiên Vương Bản Sinh	Vĩnh viễn tăng [00ff00]physics_potentialdamage_p1%[-] tấn công cơ bản, [00ff00]lifemax_p1%[-] sinh lực cơ bản, [00ff00]all_series_resist_p1%[-] kháng tất cả cơ bản, [00ff00]attackspeed_v1[-] điểm tốc đánh, [00ff00]state_hurt_attackrate1[-] điểm tỉ lệ bị thương và [00ff00]state_zhican_resisttime1[-] điểm kháng thời gian tàn phế
+216	Nhất Kích Sát Thần-Sơ	Tăng [00ff00]deadlystrike_p1%[-] tỉ lệ bạo kích cơ bản, duy trì [00ff00]skill_statetime1/15[-] giây 
+222	Huyết Chiến Bát Phương-Sơ	Tăng [00ff00]add_usebasedmg_p12%[-] tấn công cơ bản
+220	Bá Vương Nộ Hống-Sơ	Tăng [00ff00]melee_dmg_p1%[-] kháng sát thương tầm xa và cận chiến, duy trì [00ff00]skill_statetime1/15[-] giây, tối đa cộng dồn [00ff00]superposemagic1[-] tầng
+243	Huyết Chiến Bát Phương-Trung	Tăng [00ff00]add_usebasedmg_p12%[-] tấn công cơ bản, có [00ff00]add_hurt_r2%[-] gây [00ff00]add_hurt_t2/15[-] giây Bị Thương
+244	Bá Vương Nộ Hống-Trung	Tăng [00ff00]melee_dmg_p1%[-] kháng sát thương tầm xa và cận chiến, duy trì [00ff00]skill_statetime1/15[-] giây, tối đa cộng dồn [00ff00]superposemagic1[-] tầng. Tăng [00ff00]add_usebasedmg_p12[-]% tấn công cơ bản và [00ff00]add_hurt_t2/15[-] giây Bị Thương
+246	Khí Cái Bát Hoang	Tăng [00ff00]lifemax_p1%[-] sinh lực cơ bản của bản thân, tăng [00ff00]userdesc_1011%[-] sinh lực cơ bản của đồng đội
+253	Kim Chung Tráo-Sơ	Hồi phục [00ff00]dir_recover_life_pp1/100%[-] sinh lực tối đa
+255	Kim Chung Tráo-Trung	Hồi phục [00ff00]dir_recover_life_pp1/100%[-] sinh lực tối đa; Giảm chờ [00ff00]deccdtime2/15[-] giây, thời gian duy trì kéo dài [00ff00]add_state_time12/15[-] giây
+257	Nhất Kích Sát Thần-Trung	Tăng [00ff00]deadlystrike_p1%[-] tỉ lệ bạo kích cơ bản, duy trì [00ff00]skill_statetime1/15[-] giây. Tăng [00ff00]add_usebasedmg_p12%[-] tấn công cơ bản
+261	Thiếu Lâm Côn Pháp	Gây [00ff00]attack_usebasedamage_p1%[-] tấn công cơ bản + [00ff00]attack_metaldamage_v1[-] sát thương hệ Kim
+266	Hàng Long Côn	Gây [00ff00]attack_usebasedamage_p1%[-] tấn công cơ bản + [00ff00]attack_metaldamage_v1[-] sát thương hệ Kim, có [00ff00]state_hurt_attack1%[-] kèm [00ff00]state_hurt_attack2/15[-] giây Bị Thương
+268	Đại Lực Kim Cang Chỉ	Gây [00ff00]attack_usebasedamage_p1%[-] tấn công cơ bản + [00ff00]attack_metaldamage_v1[-] sát thương hệ Kim, có [00ff00]state_hurt_attack1%[-] kèm [00ff00]state_hurt_attack2/15[-] giây Bị Thương
+270	Kim Cang Phục Ma	Miễn dịch thuộc tính và hiệu quả bất lợi, tăng sát thương bạo kích và miễn sát thương bạo kích [00ff00]deadlystrike_damage_p1%[-], duy trì [00ff00]skill_statetime1/15[-] giây
+271	Đạt Ma Võ Kinh	Vĩnh viễn tăng [00ff00]lifemax_p1%[-] sinh lực cơ bản, [00ff00]resist_allseriesstate_rate_v1[-] điểm tỉ lệ kháng thuộc tính và [00ff00]state_zhican_resistrate1[-] điểm kháng tỉ lệ tàn phế
+272	Thập Nhị Cầm Long Thủ	Gây [00ff00]attack_usebasedamage_p1%[-] tấn công cơ bản + [00ff00]attack_metaldamage_v1[-] sát thương hệ Kim, kèm [00ff00]state_fixed_attack2/15[-] giây Định Thân
+273	La Hán Trận	Tấn công bằng [00ff00]sinh lực tối đa bản thân x damage_maxlife_p1/100%[-] + [00ff00]attack_metaldamage_v1[-] điểm
+276	Côn Pháp-Cao	[Thiếu Lâm Côn Pháp] tăng [00ff00]attack_usebasedamage_p1%[-] tấn công cơ bản + [00ff00]attack_metaldamage_v1[-] sát thương hệ Kim
+278	Lập Địa Thành Phật	Mỗi lần tăng [00ff00]all_series_resist_p1%[-] kháng tất cả cơ bản, tối đa cộng dồn [00ff00]superposemagic1[-] tầng, duy trì [00ff00]skill_statetime1/15[-] giây 
+280	Kim Cang Nộ Mục	Có [00ff00]userdesc_1011%[-] tỉ lệ kích hoạt, bản thân tăng [00ff00]all_series_resist_p1%[-] kháng tất cả cơ bản, [La Hán Trận] tăng [00ff00]add_usebasedmg_p12%[-] tấn công cơ bản, duy trì [00ff00]skill_statetime1/15[-] giây, giãn cách thi triển [00ff00]userdesc_1021/15[-] giây
+282	Dịch Cân Kinh	Vĩnh viễn tăng [00ff00]physics_potentialdamage_p1%[-] tấn công cơ bản, [00ff00]lifemax_p1%[-] sinh lực cơ bản, [00ff00]all_series_resist_p1%[-] kháng tất cả cơ bản, [00ff00]attackspeed_v1[-] điểm tốc đánh, [00ff00]state_hurt_attackrate1[-] điểm tỉ lệ bị thương và [00ff00]state_zhican_resisttime1[-] điểm kháng thời gian tàn phế
+292	Hàng Long Côn-Sơ	Tăng [00ff00]add_usebasedmg_p12%[-] tấn công cơ bản
+293	Đại Lực Kim Cang Chỉ-Sơ	Tăng [00ff00]add_usebasedmg_p12%[-] tấn công cơ bản
+294	Kim Cang Phục Ma-Sơ	Mỗi lần giảm chờ Kim Cang Phục Ma [00ff00]reduce_cd_time12/15[-] giây
+296	Thập Nhị Cầm Long Thủ-Sơ	Có [00ff00]state_forceatk_attack1%[-] gây [00ff00]state_forceatk_attack2/15[-] giây Khiêu Khích kẻ địch
+298	La Hán Kim Thân	Vĩnh viễn tăng [00ff00]physics_potentialdamage_p1%[-] tấn công cơ bản, khi bị tấn công có [00ff00]state_fixed_attack1%[-] tỉ lệ khiến người tấn công định thân [00ff00]state_fixed_attack2/15[-] giây, giãn cách kích hoạt [00ff00]userdesc_1011/15[-] giây
+301	Nga Mi Kiếm Pháp	Gây [00ff00]attack_usebasedamage_p1%[-] tấn công cơ bản + [00ff00]attack_waterdamage_v1[-] sát thương hệ Thủy
+310	Giang Hải Ngưng Ba	Mỗi lần tấn công gây [00ff00]attack_usebasedamage_p1%[-] tấn công cơ bản + [00ff00]attack_waterdamage_v1[-] sát thương hệ Thủy, có [00ff00]state_slowall_attack1%[-] kèm [00ff00]state_slowall_attack2/15[-] giây Làm Chậm
+308	Bạch Lộ Ngưng Sương	Gây [00ff00]attack_usebasedamage_p1%[-] tấn công cơ bản + [00ff00]attack_waterdamage_v1[-] sát thương hệ Thủy, có [00ff00]state_slowall_attack1%[-] kèm [00ff00]state_slowall_attack2/15[-] giây Làm Chậm
+306	Từ Hàng Phổ Độ	Mỗi cách [00ff00]1[-] giây, hồi phục [00ff00]dir_recover_life_pp1/100%[-] sinh lực tối đa, duy trì [00ff00]5[-] giây
+309	Kiếm Tâm Thông Minh	Vĩnh viễn tăng [00ff00]lifemax_p1%[-] sinh lực cơ bản, [00ff00]physics_potentialdamage_p1%[-] tấn công cơ bản, [00ff00]state_palsy_resistrate1[-] điểm kháng tỉ lệ tê liệt và [00ff00]runspeed_v1[-] di chuyển
+312	Thiên Vũ Bảo Luân	Với kẻ địch trong trận mỗi [00ff00]0.5[-] giây gây [00ff00]attack_usebasedamage_p1%[-] tấn công cơ bản + [00ff00]attack_waterdamage_v1[-] điểm sát thương hệ Thủy, với đồng đội trong trận mỗi [00ff00]1[-] giây hồi phục [00ff00]dir_recover_life_pp1/100%[-] sinh lực tối đa. Trận pháp duy trì [00ff00]6[-] giây
+317	Miên Lý Tàng Châm	Có [00ff00]userdesc_1011%[-] tỉ lệ kích hoạt Đánh Lui và mỗi [00ff00]recover_life_p2/15[-] giây bản thân hồi [00ff00]recover_life_p1%[-] sinh lực, duy trì [00ff00]skill_statetime1/15[-] giây, giãn cách thi triển [00ff00]userdesc_1021/15[-] giây
+323	Kiếm Pháp-Cao	[Nga Mi Kiếm Pháp] tăng [00ff00]attack_usebasedamage_p1%[-] tấn công cơ bản + [00ff00]attack_waterdamage_v1[-] sát thương hệ Thủy
+341	Phật Tâm Từ Hựu	Bản thân và đồng đội tăng [00ff00]resist_allseriesstate_rate_v1[-] kháng tỉ lệ thuộc tính, [00ff00]resist_allseriesstate_time_v1[-] kháng thời gian thuộc tính, [00ff00]resist_allspecialstate_rate_v1[-] kháng tỉ lệ bất lợi và [00ff00]resist_allspecialstate_time_v1[-] kháng thời gian bất lợi
+343	Phật Pháp Vô Biên	Vĩnh viễn tăng [00ff00]physics_potentialdamage_p1%[-] tấn công cơ bản, [00ff00]lifemax_p1%[-] sinh lực cơ bản, [00ff00]attackspeed_v1[-] điểm tốc đánh, [00ff00]state_slowall_attackrate1[-] điểm tỉ lệ làm chậm và [00ff00]state_palsy_resisttime1[-] điểm kháng thời gian tê liệt
+345	Băng Tâm Vân Thường	Tăng vĩnh viễn [00ff00]ignore_deadlystrike_vp1%[-] bỏ qua tỉ lệ bạo kích cơ bản và [00ff00]weaken_deadlystrike_damage_p1%[-] miễn sát thương bạo kích
+325	Thiên Vũ Bảo Luân-Sơ	Có [00ff00]userdesc_1011%[-] gây Suy Yếu, Hỗn Loạn, Bất Lực, Làm Chậm hoặc Đóng Băng, duy trì [00ff00]userdesc_1012/15[-] giây.
+314	Từ Hàng Phổ Độ	Giải trừ và miễn dịch thuộc tính, duy trì [00ff00]skill_statetime1/15[-] giây. 
+320	Bạch Lộ Ngưng Sương	Có [00ff00]attack_usebasedamage_p1%[-] tấn công cơ bản + [00ff00]attack_waterdamage_v1[-] sát thương hệ Thủy, có [00ff00]state_slowall_attack1%[-] kèm [00ff00]state_slowall_attack2/15[-] giây Làm Chậm
+357	Thanh Tâm Phổ Thiện	Tăng [00ff00]lifereplenish_p1%[-] hiệu suất hồi sinh lực của bản thân. Thiên Vũ Bảo Luân hồi phục thêm [00ff00]dir_recover_life_pp1/100%[-] sinh lực tối đa, Từ Hàng Phổ Độ hồi phục thêm [00ff00]userdesc_1011/100%[-] sinh lực tối đa
+365	Giang Hải Ngưng Ba-Sơ	Tăng [00ff00]add_usebasedmg_p12%[-] tấn công cơ bản
+366	Giang Hải Ngưng Ba-Trung	Tăng [00ff00]add_usebasedmg_p12%[-] tấn công cơ bản, [00ff00]add_slowall_r2%[-] gây Làm Chậm
+367	Thiên Vũ Bảo Luân-Trung	Giảm chờ [00ff00]deccdtime2/15[-] giây. Có [00ff00]userdesc_1011%[-] gây Suy Yếu, Hỗn Loạn, Bất Lực, Làm Chậm hoặc Đóng Băng, duy trì [00ff00]userdesc_1012/15[-] giây
+369	Từ Hàng Phổ Độ-Trung	Giảm chờ [00ff00]deccdtime2/15[-] giây. Giải trừ và miễn dịch thuộc tính, duy trì [00ff00]skill_statetime1/15[-] giây 
+372	Bạch Lộ Ngưng Sương-Trung	Tăng [00ff00]add_usebasedmg_p12%[-] tấn công cơ bản. Gây[00ff00]attack_usebasedamage_p1%[-] tấn công cơ bản + [00ff00]attack_waterdamage_v1[-] sát thương hệ Thủy, có [00ff00]state_slowall_attack1%[-] kèm [00ff00]state_slowall_attack2/15[-] giây Làm Chậm
+374	Giang Hải Ngưng Ba-Cao	Tăng [00ff00]add_usebasedmg_p12%[-] tấn công cơ bản, [00ff00]add_slowall_r2%[-] tỉ lệ Làm Chậm, [00ff00]add_igdefense_p12%[-] tỉ lệ bỏ qua né tránh cuối và [00ff00]add_deadlystrike_p12%[-] tỉ lệ bạo kích cuối
+376	Thiên Vũ Bảo Luân-Cao	Giảm chờ [00ff00]deccdtime2/15[-] giây. Giảm [00ff00]defense_p1%[-] né tránh, duy trì [00ff00]skill_statetime1/15[-] giây. Có [00ff00]userdesc_1011%[-] gây Suy Yếu, Hỗn Loạn, Bất Lực, Làm Chậm hoặc Đóng Băng, duy trì [00ff00]userdesc_1012/15[-] giây
+378	Từ Hàng Phổ Độ-Cao	Giảm chờ Từ Hàng Phổ Độ [00ff00]deccdtime2/15[-] giây; xóa và miễn dịch thuộc tính, duy trì [00ff00]skill_statetime1/15[-] giây; lập tức hồi phục [00ff00]dir_recover_life_pp1/100%[-] sinh lực tối đa
+381	Bạch Lộ Ngưng Sương-Cao	Tăng Bạch Lộ Ngưng Sương [00ff00]add_usebasedmg_p12%[-] tấn công cơ bản và [00ff00]add_deadlystrike_p12%[-] tỉ lệ bạo kích cuối. Với phạm vị mục tiêu trúng đòn gây [00ff00]attack_usebasedamage_p1%[-] tấn công cơ bản + [00ff00]attack_waterdamage_v1[-] điểm sát thương hệ Thủy, đồng thời có [00ff00]state_slowall_attack1%[-] tỉ lệ kèm [00ff00]state_slowall_attack2/15[-] giây hiệu quả Làm Chậm
+401	Đào Hoa Tiễn Thuật	Gây [00ff00]attack_usebasedamage_p1%[-] tấn công cơ bản + [00ff00]attack_firedamage_v1[-] sát thương hệ Hỏa
+407	Phi Hỏa Lưu Tinh	Gây [00ff00]attack_usebasedamage_p1%[-] tấn công cơ bản + [00ff00]attack_firedamage_v1[-] sát thương hệ Hỏa, có [00ff00]state_palsy_attack1%[-] kèm [00ff00]state_palsy_attack2/15[-] giây Tê Liệt
+406	Hỏa Phượng Liêu Nguyên	Tăng [00ff00]ignore_all_resist2%[-] bỏ qua kháng tính cuối, [00ff00]attackspeed_v1[-] tốc đánh, [00ff00]runspeed_v1[-] di chuyển và [00ff00]defense_p1%[-] né tránh cơ bản, duy trì [00ff00]skill_statetime1/15[-] giây 
+410	Cửu Diệu Liên Châu	Ban đầu gây [00ff00]attack_usebasedamage_p1%[-] tấn công cơ bản + [00ff00]attack_firedamage_v1[-] sát thương hệ Hỏa, có [00ff00]state_palsy_attack1%[-] kèm [00ff00]state_palsy_attack2/15[-] giây Tê Liệt. Sát thương liên tục mỗi lần gây [00ff00]userdesc_1011%[-] tấn công cơ bản + [00ff00]userdesc_1021[-] sát thương hệ Hỏa, có [00ff00]userdesc_1031%[-] kèm [00ff00]userdesc_1032/15[-] giây Tê Liệt
+409	Lưu Phong Hồi Tuyết	Tăng vĩnh viễn [00ff00]physics_potentialdamage_p1%[-] tấn công cơ bản, [00ff00]defense_p1%[-] né tránh cơ bản và [00ff00]state_hurt_resistrate1[-] kháng tỉ lệ Bị Thương
+412	Xuyên Vân Phá Nguyệt	Gây [00ff00]attack_usebasedamage_p1%[-] tấn công cơ bản + [00ff00]attack_firedamage_v1[-] sát thương hệ Hỏa
+443	Nghịch Chuyển Cửu Âm	Kháng sát thương cận chiến tăng [00ff00]melee_dmg_p1%[-]. Mỗi [00ff00]userdesc_1011/15[-] giây lần đầu bị tấn công, nếu kẻ địch ở gần sẽ đánh lui địch xung quanh, khiến địch trong [00ff00]skill_statetime1/15[-] giây giảm [00ff00]physics_potentialdamage_p1%[-] tấn công cơ bản
+420	Bách Bộ Xuyên Dương	[Đào Hoa Tiễn Thuật] tăng [00ff00]attack_usebasedamage_p1%[-] tấn công cơ bản + [00ff00]attack_firedamage_v1[-] sát thương hệ Hỏa
+441	Khinh Vân Tế Nguyệt	Tăng [00ff00]attackspeed_v1[-] tốc đánh, [Đào Hoa Tiễn Thuật] tăng [00ff00]add_usebasedmg_p12%[-] tấn công cơ bản và bỏ qua Vô Địch, mỗi lần thời gian duy trì kéo dài [00ff00]skill_statetime1/15[-] giây
+425	Dục Hỏa Trùng Sinh	Có [00ff00]userdesc_1011%[-] tỉ lệ kích hoạt [Hỏa Phượng Liêu Nguyên] và mỗi [00ff00]recover_life_p2/15[-] giây bản thân hồi [00ff00]recover_life_p1%[-] sinh lực, duy trì [00ff00]skill_statetime1/15[-] giây, giãn cách thi triển [00ff00]userdesc_1021/15[-] giây
+442	Phượng Vũ Nghê Thường	Vĩnh viễn tăng [00ff00]physics_potentialdamage_p1%[-] tấn công cơ bản, [00ff00]lifemax_p1%[-] sinh lực cơ bản, [00ff00]defense_p1%[-] né tránh cơ bản, [00ff00]attackspeed_v1[-] điểm tốc đánh, [00ff00]state_palsy_attackrate1[-] điểm tỉ lệ tê liệt và [00ff00]state_hurt_resisttime1[-] điểm kháng thời gian bị thương
+417	Phi Hỏa Lưu Tinh-Sơ	Có [00ff00]rand_ignoreskill1%[-] xóa [00ff00]rand_ignoreskill2[-] hiệu quả tăng ích. Có [00ff00]state_burn_attack1%[-] gây [00ff00]state_burn_attack2/15[-] giây Thiêu Đốt
+413	Hỏa Phượng Liêu Nguyên-Sơ	Giải trừ và miễn dịch bất lợi và hiệu quả Bị Thương, duy trì [00ff00]skill_statetime1/15[-] giây
+423	Xuyên Vân Phá Nguyệt-Sơ	Tăng [00ff00]add_usebasedmg_p12%[-] tấn công cơ bản
+446	Cửu Diệu Liên Châu-Sơ	Có [00ff00]add_fixed_r2%[-] gây [00ff00]add_fixed_t2/15[-] giây Định Thân
+447	Cửu Diệu Liên Châu-Trung	Có [00ff00]add_fixed_r2%[-] gây [00ff00]add_fixed_t2/15[-] giây Định Thân. Có [00ff00]userdesc_1011%[-] xóa thời gian chờ
+448	Phi Hỏa Lưu Tinh-Trung	Có [00ff00]rand_ignoreskill1%[-] xóa [00ff00]rand_ignoreskill2[-] hiệu quả tăng ích, đồng thời có [00ff00]state_burn_attack1%[-] Thiêu Đốt [00ff00]state_burn_attack2/15[-] giây. Tấn công cơ bản tăng [00ff00]add_usebasedmg_p12%[-]
+450	Hỏa Phượng Liêu Nguyên-Trung	Thời gian duy trì tăng [00ff00]add_state_time12/15[-] giây. Giải trừ và miễn dịch bất lợi và hiệu quả Bị Thương, duy trì [00ff00]skill_statetime1/15[-] giây
+452	Xuyên Vân Phá Nguyệt-Trung	Giảm chờ [00ff00]deccdtime2/15[-] giây, tăng [00ff00]add_usebasedmg_p12%[-] tấn công cơ bản
+454	Cửu Diệu Liên Châu-Cao	Có [00ff00]add_fixed_r2%[-] gây [00ff00]add_fixed_t2/15[-] giây Định Thân. Có [00ff00]userdesc_1011%[-] xóa thời gian chờ. Tăng [00ff00]add_usebasedmg_p12%[-] tấn công cơ bản
+456	Phi Hỏa Lưu Tinh-Cao	Có [00ff00]rand_ignoreskill1%[-] xóa [00ff00]rand_ignoreskill2[-] hiệu quả tăng ích, đồng thời có [00ff00]state_burn_attack1%[-] Thiêu Đốt [00ff00]state_burn_attack2/15[-] giây. Tấn công cơ bản tăng [00ff00]add_usebasedmg_p12%[-]. Mỗi lần cách [00ff00]1[-]m sát thương tăng [00ff00]add_adddmgbydist2/10%[-]
+458	Hỏa Phượng Liêu Nguyên-Cao	Thời gian duy trì tăng [00ff00]add_state_time12/15[-] giây. Giải trừ và miễn dịch bất lợi và hiệu quả Bị Thương, tăng [00ff00]defense_p1%[-] né tránh cơ bản, duy trì [00ff00]skill_statetime1/15[-] giây
+460	Xuyên Vân Phá Nguyệt-Cao	Thời gian chờ giảm [00ff00]deccdtime2/15[-] giây, tấn công cơ bản tăng [00ff00]add_usebasedmg_p12%[-]. Mỗi lần đánh trúng giảm [00ff00]reduce_cd_time12/15[-] giây chờ của tất cả kỹ năng (Cùng lúc kích hoạt tối đa missile_hitcount3 lần)
+462	Nguyệt Lạc Tinh Trầm	Có [00ff00]userdesc_1021%[-] kích hoạt, gây [00ff00]damage_maxlife_p1%[-] sinh lực tối đa của mục tiêu, tối đa bằng [00ff00]damage_maxlife_p2%[-] sinh lực tối đa của bản thân
+501	Tiêu Dao Thương Pháp	Gây [00ff00]attack_usebasedamage_p1%[-] tấn công cơ bản + [00ff00]attack_wooddamage_v1[-] sát thương hệ Mộc
+510	Bạch Hồng Quán Nhật	Gây [00ff00]attack_usebasedamage_p1%[-] tấn công cơ bản + [00ff00]attack_wooddamage_v1[-] sát thương hệ Mộc, có [00ff00]state_zhican_attack1%[-] kèm [00ff00]state_zhican_attack2/15[-] giây Tàn Phế
+507	Thất Thám Xà Bàn	[Cận Chiến]  Di chuyển tấn công giữa nhiều kẻ địch, mỗi lần tấn công gây [00ff00]attack_usebasedamage_p1%[-] tấn công cơ bản + [00ff00]attack_wooddamage_v1[-] điểm sát thương hệ Mộc, cùng một mục tiêu tối đa chịu 2 lần sát thương, trong quá trình bản thân miễn dịch hiệu quả Khống Chế
+506	Đẩu Chuyển Tinh Di	Gây [00ff00]attack_usebasedamage_p1%[-] tấn công cơ bản + [00ff00]attack_wooddamage_v1[-] sát thương hệ Mộc, có [00ff00]state_zhican_attack1%[-] kèm [00ff00]state_zhican_attack2/15[-] giây Tàn Phế, đồng thời kéo mục tiêu đến gần
+509	Tiểu Vô Tướng Công	Tăng vĩnh viễn [00ff00]deadlystrike_p1%[-] tỉ lệ bạo kích cơ bản, [00ff00]runspeed_v1[-] di chuyển, [00ff00]attackspeed_v1[-] tốc đánh và [00ff00]state_stun_resistrate1[-] kháng tỉ lệ Choáng
+513	Phong Quyển Tàn Vân	Mỗi [00ff00]0.33[-] giây gây [00ff00]dotdamage_wood1%[-] tấn công cơ bản + [00ff00]dotdamage_wood2[-] sát thương hệ Mộc, duy trì [00ff00]skill_statetime1/15[-] giây, khiến mục tiêu xung quanh bị Phù Không, duy trì [00ff00]state_float_attack2/15[-] giây 
+522	Tam Nguyên Quy Nhất	Mỗi giây tăng [00ff00]physics_potentialdamage_p1%[-] tấn công cơ bản, tối đa cộng dồn [00ff00]superposemagic1[-] lần. Kỹ năng sau khi trúng địch, hiệu quả cộng thêm hiện tại sẽ duy trì [00ff00]skill_statetime1/15[-] giây
+532	Thương Pháp-Cao	[Tiêu Dao Thương Pháp] tăng [00ff00]attack_usebasedamage_p1%[-] tấn công cơ bản + [00ff00]attack_wooddamage_v1[-] sát thương hệ Mộc
+516	Lăng Ba Vi Bộ	Cứ cách [00ff00]ignoreattackontime1/15[-] giây bỏ qua tấn công [00ff00]ignoreattackontime2/15[-] giây
+541	Tiêu Dao Ngự Phong	Giải trừ, miễn dịch thuộc tính và hiệu quả bất lợi, tăng [00ff00]defense_p1%[-] né tránh cơ bản, [00ff00]deadlystrike_p1%[-] tỉ lệ bạo kích cơ bản và [00ff00]runspeed_v1[-] di chuyển, duy trì [00ff00]skill_statetime1/15[-] giây, tối đa cộng dồn [00ff00]superposemagic1[-] tầng
+543	Duy Ngã Độc Tôn	Vĩnh viễn tăng [00ff00]physics_potentialdamage_p1%[-] tấn công cơ bản, [00ff00]lifemax_p1%[-] sinh lực cơ bản, [00ff00]all_series_resist_p1%[-] kháng tất cả cơ bản, [00ff00]attackspeed_v1[-] điểm tốc đánh, [00ff00]state_zhican_attackrate1[-] điểm tỉ lệ tàn phế và [00ff00]state_stun_resisttime1[-] điểm thời gian kháng choáng
+517	Thất Thám Xà Bàn-Sơ	Gây thêm [00ff00]attack_usebasedamage_p1%[-] tấn công cơ bản + [00ff00]attack_wooddamage_v1[-] sát thương hệ Mộc
+514	Đẩu Chuyển Tinh Di-Sơ	Chuyển hóa [00ff00]add_steallife_p2/100%[-] sát thương gây ra thành hồi sinh lực
+519	Phong Quyển Tàn Vân-Sơ	Gây [00ff00]state_zhican_attack2/15[-] giây Tàn Phế, giảm [00ff00]all_series_resist_p1%[-] kháng tất cả, duy trì [00ff00]skill_statetime1/15[-] giây 
+544	Bạch Hồng Quán Nhật-Sơ	Tăng [00ff00]add_zhican_r2%[-] gây Tàn Phế, có [00ff00]add_fixed_r2%[-] gây [00ff00]add_fixed_t2/15[-] giây Định Thân
+545	Bạch Hồng Quán Nhật-Trung	Tăng [00ff00]add_usebasedmg_p12%[-] tấn công cơ bản. Tăng [00ff00]add_zhican_r2%[-] gây Tàn Phế, có [00ff00]add_fixed_r2%[-] gây [00ff00]add_fixed_t2/15[-] giây Định Thân
+546	Thất Thám Xà Bàn-Trung	Giảm chờ [00ff00]deccdtime2/15[-] giây, gây thêm [00ff00]attack_usebasedamage_p1%[-] tấn công cơ bản + [00ff00]attack_wooddamage_v1[-] sát thương hệ Mộc
+548	Đẩu Chuyển Tinh Di-Trung	Tăng [00ff00]add_usebasedmg_p12%[-] tấn công cơ bản và [00ff00]add_zhican_t2/15[-] giây Tàn Phế. Chuyển hóa [00ff00]add_steallife_p2/100%[-] sát thương gây ra thành hồi sinh lực
+549	Phong Quyển Tàn Vân-Trung	Giảm chờ [00ff00]deccdtime2/15[-] giây. Gây [00ff00]state_zhican_attack2/15[-] giây Tàn Phế, giảm [00ff00]all_series_resist_p1%[-] kháng tất cả, duy trì [00ff00]skill_statetime1/15[-] giây 
+552	Bạch Hồng Quán Nhật-Cao	Tăng [00ff00]add_usebasedmg_p12%[-] tấn công cơ bản, [00ff00]add_deadlydmg_p12%[-] sát thương bạo kích. Tăng [00ff00]add_zhican_r2%[-] gây Tàn Phế, có [00ff00]add_fixed_r2%[-] gây [00ff00]add_fixed_t2/15[-] giây Định Thân
+554	Thất Thám Xà Bàn-Cao	Thời gian chờ rút ngắn [00ff00]deccdtime2/15[-] giây, ngoài ra [00ff00]attack_usebasedamage_p1%[-] tấn công cơ bản + [00ff00]attack_wooddamage_v1[-] điểm sát thương hệ Mộc, kháng thuộc tính và trạng thái xấu có tỉ lệ giảm [00ff00]resist_allseriesstate_rate_v1[-] điểm, duy trì [00ff00]deccdtime2/15[-] giây
+556	Đẩu Chuyển Tinh Di-Cao	Tăng [00ff00]add_usebasedmg_p12%[-] tấn công cơ bản và [00ff00]add_zhican_t2/15[-] giây Tàn Phế. Chuyển hóa [00ff00]add_steallife_p2/100%[-] sát thương gây ra thành hồi sinh lực. Giảm chờ [00ff00]deccdtime2/15[-] giây 
+558	Phong Quyển Tàn Vân-Cao	Tăng [00ff00]add_dotdamage_wood2%[-] tấn công cơ bản. Giảm chờ [00ff00]deccdtime2/15[-] giây, gây [00ff00]state_zhican_attack2/15[-] giây Tàn Phế, giảm [00ff00]all_series_resist_p1%[-] kháng tất cả, duy trì [00ff00]skill_statetime1/15[-] giây 
+561	Bi Tô Thanh Phong	Xung quanh mỗi tăng 1 kẻ địch, tự động tăng [00ff00]all_series_resist_p1%[-] kháng tất cả và [00ff00]physics_potentialdamage_p1%[-] tấn công cơ bản, tối đa [00ff00]add_mult_proc_sate12[-] lần
+601	Võ Đang Kiếm Pháp	Gây [00ff00]attack_usebasedamage_p1%[-] tấn công cơ bản + [00ff00]attack_earthdamage_v1[-] sát thương hệ Thổ
+609	Vô Ngã Vô Kiếm	Gây [00ff00]attack_usebasedamage_p1%[-] tấn công cơ bản + [00ff00]attack_earthdamage_v1[-] sát thương hệ Thổ, tăng thêm tấn công bằng [00ff00]damage_curlife_p1% xTỉ lệ sinh lực hiện tại của mục tiêu xSinh lực tối đa của mục tiêu[-], sinh lực tối đa của mục tiêu tối đa xem như [00ff00]damage_curlife_p2%[-] sinh lực tối đa của bản thân, [00ff00]state_stun_attack1%[-] tỉ lệ choáng [00ff00]state_stun_attack2/15[-] giây; Số lần dùng tối đa tích lũy [00ff00]skill_point1/100[-] lần
+611	Nhân Kiếm Hợp Nhất	Gây [00ff00]attack_usebasedamage_p1%[-] tấn công cơ bản + [00ff00]attack_earthdamage_v1[-] sát thương hệ Thổ, [00ff00]state_stun_attack1%[-] tỉ lệ gây [00ff00]state_stun_attack2/15[-] giây choáng; Sau khi thi triển tái lập thời gian chờ kỹ năng khác; Khi bị tấn công kỹ năng có [00ff00]userdesc_1011%[-] tỉ lệ kích hoạt [8dccf7]<Kiếm Phi Kinh Thiên >[-] phản kích, gây [00ff00]userdesc_1021%[-] tấn công cơ bản + [00ff00]userdesc_1031[-] sát thương hệ Thổ
+613	Tọa Vọng Vô Ngã	Mỗi điểm nhanh nhẹn đỡ [00ff00]magicshield1/100[-] sát thương, thời gian duy trì hộ thuẫn có [00ff00]ignore_dmgskill1/100%[-] tỉ lệ miễn dịch Bùa Chú. Duy trì [00ff00]magicshield2/15[-] giây hoặc hộ thuẫn bị đánh vỡ
+614	Mê Tung Huyễn Ảnh	Vĩnh viễn tăng [00ff00]physics_potentialdamage_p1%[-] tấn công cơ bản, [00ff00]all_series_resist_p1%[-] kháng tất cả cơ bản, [00ff00]state_slowall_resistrate1[-] điểm tỉ lệ kháng làm chậm và [00ff00]runspeed_v1[-] điểm di chuyển
+615	Thiên Địa Vô Cực	Mỗi lần tấn công gây [00ff00]attack_usebasedamage_p1%[-] tấn công cơ bản + [00ff00]attack_earthdamage_v1[-] sát thương hệ Thổ, có [00ff00]state_stun_attack1%[-] kèm [00ff00]state_stun_attack2/15[-] giây Choáng
+617	Thái Nhất Chân Khí	Vĩnh viễn miễn dịch Đóng Băng, hút sinh lực tăng [00ff00]steallife_p1%[-]. Khi bị đánh trúng, trong [00ff00]skill_statetime1/15[-] giây giải trừ và miễn dịch hiệu quả thuộc tính phải chịu, giãn cách kích hoạt [00ff00]userdesc_1011/15[-] giây
+619	Kiếm Pháp-Cao	[8dccf7]<Võ Đang Kiếm Pháp>[-] tăng [00ff00]attack_usebasedamage_p1%[-] tấn công cơ bản + [00ff00]attack_earthdamage_v1[-] sát thương hệ Thổ
+621	Vô Ngã Vô Kiếm-Sơ	Bản thân vĩnh viễn tăng sát thương bạo kích [00ff00]deadlystrike_damage_p1%[-]
+624	Tọa Vọng Vô Ngã-Sơ	[8dccf7]<Kiếm Phi Kinh Thiên >[-] tấn công cơ bản tăng [00ff00]add_usebasedmg_p12%[-], duy trì [00ff00]5[-] giây
+626	Thiên Địa Vô Cực-Sơ	Tấn công bằng [00ff00]attack_usebasedamage_p1%[-] tấn công cơ bản + [00ff00]attack_earthdamage_v1[-] sát thương hệ Thổ
+630	Huyền Thiên Tâm Pháp	Có [00ff00]userdesc_1011%[-] tỉ lệ kích hoạt, giãn cách thi triển [00ff00]userdesc_1021/15[-] giây
+645	Chân Võ Thất Tiệt	Bản thân tăng [00ff00]physics_potentialdamage_p1%[-] tấn công cơ bản, đồng đội gần tăng [00ff00]userdesc_1061%[-] tấn công cơ bản
+644	Thái Cực Vô Ý	Tăng vĩnh viễn [00ff00]physics_potentialdamage_p1%[-] tấn công cơ bản, [00ff00]lifemax_p1%[-] sinh lực cơ bản tối đa, [00ff00]all_series_resist_p1%[-] kháng tất cả cơ bản, [00ff00]defense_p1%[-] né tránh cơ bản, [00ff00]attackspeed_v1[-] điểm tốc đánh, [00ff00]state_stun_attackrate1[-] điểm tỉ lệ choáng và [00ff00]state_slowall_resisttime1[-] điểm kháng thời gian làm chậm
+647	Nhân Kiếm Hợp Nhất-Sơ	Mỗi lần xuyên thấu sát thương tăng [00ff00]addpowerwhencol2%[-], tối đa tăng [00ff00]addpowerwhencol3%[-]
+648	Nhân Kiếm Hợp Nhất-Trung	Mỗi lần xuyên thấu sát thương tăng [00ff00]addpowerwhencol2%[-], tối đa tăng [00ff00]addpowerwhencol3%[-]. Tấn công cơ bản tăng [00ff00]physics_potentialdamage_p1%[-], tốc đánh tăng [00ff00]attackspeed_v1[-] điểm, duy trì [00ff00]skill_statetime1/15[-] giây
+649	Vô Ngã Vô Kiếm-Trung	Bản thân vĩnh viễn tăng sát thương bạo kích [00ff00]deadlystrike_damage_p1%[-]. Trong [00ff00]skill_statetime1/15[-] giây, [8dccf7]<Võ Đang Kiếm Pháp>[-] lần kế sẽ kích hoạt [8dccf7]<Kiếm Phi Kinh Thiên >[-]
+652	Tọa Vọng Vô Ngã-Trung	[8dccf7]<Kiếm Phi Kinh Thiên >[-] tấn công cơ bản tăng [00ff00]add_usebasedmg_p12%[-], duy trì [00ff00]5[-] giây. Mỗi điểm nhanh nhẹn tăng [00ff00]add_shield2/100[-] điểm đỡ sát thương
+654	Thiên Địa Vô Cực-Trung	Tăng tấn công phạm vi bằng [00ff00]attack_usebasedamage_p1%[-] tấn công cơ bản + [00ff00]attack_earthdamage_v1[-] sát thương hệ Thổ. Sau khi thi triển, trong [00ff00]skill_statetime1/15[-] giây, bỏ qua kháng tất cả tăng [00ff00]ignore_all_resist_vp1%[-], hút sinh lực tăng [00ff00]steallife_p1%[-]
+656	Nhân Kiếm Hợp Nhất-Cao	Mỗi lần xuyên thấu sát thương tăng [00ff00]addpowerwhencol2%[-], tối đa tăng [00ff00]addpowerwhencol3%[-]. Tấn công cơ bản tăng [00ff00]physics_potentialdamage_p1%[-], tốc đánh tăng [00ff00]attackspeed_v1[-] điểm, duy trì [00ff00]skill_statetime1/15[-] giây. Tất cả kỹ năng tấn công trực tiếp sát thương tăng [00ff00]style_skill_damage_p2%[-]
+658	Vô Ngã Vô Kiếm-Cao	Bản thân vĩnh viễn tăng sát thương bạo kích [00ff00]deadlystrike_damage_p1%[-]. Trong [00ff00]skill_statetime1/15[-] giây, [8dccf7]<Võ Đang Kiếm Pháp>[-] lần kế sẽ kích hoạt [8dccf7]<Kiếm Phi Kinh Thiên >[-]. Giãn cách thi triển rút ngắn [00ff00]deccdtime2/15[-] giây
+661	Tọa Vọng Vô Ngã-Cao	[8dccf7]<Kiếm Phi Kinh Thiên >[-] tấn công cơ bản tăng [00ff00]add_usebasedmg_p12%[-], duy trì [00ff00]5[-] giây. Mỗi điểm nhanh nhẹn tăng thêm [00ff00]add_shield2/100[-] điểm đỡ sát thương. Trong [00ff00]skill_statetime1/15[-] giây kháng tính sát thương tầm xa gần tăng [00ff00]melee_dmg_p1%[-]
+663	Thiên Địa Vô Cực-Cao	Tăng [00ff00]add_deadlystrike_p12%[-] tỉ lệ bạo kích cuối, [00ff00]add_fixed_r2%[-] tỉ lệ Định Thân [00ff00]add_fixed_t2/15[-] giây; Tấn công phạm vi thêm bằng [00ff00]attack_usebasedamage_p1%[-] tấn công cơ bản + [00ff00]attack_earthdamage_v1[-] sát thương hệ Thổ; Sau khi kích hoạt, trong [00ff00]skill_statetime1/15[-] giây bỏ qua kháng tất cả tăng [00ff00]ignore_all_resist_vp1%[-], hút sinh lực tăng [00ff00]steallife_p1%[-]
+665	Thất Tinh Quyết	Bản thân tăng [00ff00]deadlystrike_p1%[-] tỉ lệ bạo kích cơ bản và [00ff00]runspeed_p1%[-] di chuyển, duy trì [00ff00]skill_statetime1/15[-] giây, khiến địch giảm tỉ lệ bạo kích và di chuyển một lượng tương đương
+701	Thiên Nhẫn Thích Sát Thuật	Gây [00ff00]attack_usebasedamage_p1%[-] tấn công cơ bản + [00ff00]attack_firedamage_v1[-] sát thương hệ Hỏa
+705	Ma Diệm Tại Thiên	Mỗi lần tấn công gây [00ff00]attack_usebasedamage_p1%[-] tấn công cơ bản + [00ff00]attack_firedamage_v1[-] sát thương hệ Hỏa, [00ff00]giảm runspeed_p1%[-] di chuyển cơ bản, có [00ff00]state_burn_attack1%[-] kèm [00ff00]state_burn_attack2/15[-] giây Thiêu Đốt, mỗi tầng Thiêu Đốt khiến sát thương hệ Hỏa tăng [00ff00]state_burn_attack3%[-], tối đa cộng dồn [00ff00]5[-] tầng
+708	Tử Vong Hồi Toàn	Gây [00ff00]attack_usebasedamage_p1%[-] tấn công cơ bản + [00ff00]attack_firedamage_v1[-] sát thương hệ Hỏa
+711	Huyết Nguyệt Chi Ảnh	Giúp bản thân ẩn thân [00ff00]skill_statetime1/15[-] giây, sau khi ẩn thân và hiện hình, trong [00ff00]userdesc_1011/15[-] giây tăng [00ff00]runspeed_v1[-] di chuyển, [00ff00]attackspeed_v1[-] tốc đánh, [00ff00]physics_potentialdamage_p1%[-] tấn công cơ bản. Sau khi hiện hình trong [00ff00]4[-] giây tăng [00ff00]50%[-] sát thương tấn công thường
+721	Huyễn Ảnh Phi Hồ	Tăng vĩnh viễn [00ff00]physics_potentialdamage_p1%[-] tấn công cơ bản và [00ff00]state_hurt_resistrate1[-] kháng tỉ lệ Bị Thương, [00ff00]npc_ext_miss1[-] né tránh tấn công từ quái
+722	Nhiếp Hồn Loạn Tâm	Gây [00ff00]attack_usebasedamage_p1%[-] tấn công cơ bản + [00ff00]attack_firedamage_v1[-] sát thương hệ Hỏa, có [00ff00]state_confuse_attack1%[-] kèm [00ff00]state_confuse_attack2/15[-] giây Hỗn Loạn
+728	Thích Sát Thuật-Cao	[Thiên Nhẫn Thích Sát Thuật] tăng [00ff00]attack_usebasedamage_p1%[-] tấn công cơ bản + [00ff00]attack_firedamage_v1[-] sát thương hệ Hỏa
+730	Ma Diệm Tại Thiên-Sơ	Có [00ff00]add_palsy_r2%[-] gây [00ff00]add_palsy_t2/15[-] giây Tê Liệt
+732	Huyết Nguyệt Chi Ảnh-Sơ	Tăng [00ff00]defense_p1%[-] né tránh cơ bản, miễn dịch bất lợi và hiệu quả Bị Thương
+734	Nhiếp Hồn Loạn Tâm-Sơ	Né tránh cơ bản giảm [00ff00]defense_p1%[-], kháng thuộc tính và hiệu quả bất lợi có tỉ lệ giảm [00ff00]resist_allseriesstate_rate_v1[-] điểm, duy trì [00ff00]skill_statetime1/15[-] giây
+736	Thánh Hỏa Phần Tâm	Có [00ff00]userdesc_1011%[-] tỉ lệ kích hoạt, giãn cách thi triển [00ff00]userdesc_1012/15[-] giây 
+742	Ma Diệm Thất Sát	Tăng bị động [00ff00]ignore_all_resist2%[-] bỏ qua kháng tất cả cuối, mỗi lần tấn công giảm [00ff00]userdesc_1011%[-] hiệu quả, duy trì [00ff00]userdesc_1013/15[-] giây, tối đa cộng dồn [00ff00]userdesc_1012[-] lần
+745	Phá Toái Hư Không	Tăng vĩnh viễn di chuyển [00ff00]runspeed_v1[-] và khi bản thân bị tấn công, Né tránh cơ bản +[00ff00]defense_p1%[-], Tỉ lệ kháng bất lợi +[00ff00]resist_allspecialstate_rate_v1[-] duy trì [00ff00]skill_statetime1/15[-] giây, tối đa cộng dồn [00ff00]superposemagic1[-] lần
+748	Thiên Ma Giải Thể	Vĩnh viễn tăng [00ff00]physics_potentialdamage_p1%[-] tấn công cơ bản, [00ff00]lifemax_p1%[-] sinh lực cơ bản, [00ff00]defense_p1%[-] né tránh cơ bản, [00ff00]attackspeed_v1[-] điểm tốc đánh, [00ff00]state_palsy_attackrate1[-] điểm tỉ lệ tê liệt và [00ff00]state_hurt_resisttime1[-] điểm kháng thời gian bị thương
+749	Tử Vong Hồi Toàn-Sơ	Tăng [00ff00]add_usebasedmg_p12%[-] tấn công cơ bản, có [00ff00]add_palsy_r2%[-] gây [00ff00]add_palsy_t2/15[-] giây Tê Liệt
+750	Tử Vong Hồi Toàn-Trung	Tăng [00ff00]add_usebasedmg_p12%[-] tấn công cơ bản, có [00ff00]add_palsy_r2%[-] gây [00ff00]add_palsy_t2/15[-] giây Tê Liệt. Tích lũy sử dụng tăng [00ff00]add_skill_point12/100[-] lần
+751	Ma Diệm Tại Thiên-Trung	Có [00ff00]add_palsy_r2%[-] gây [00ff00]add_palsy_t2/15[-] giây Tê Liệt. Sau khi đánh trúng tăng [00ff00]physics_potentialdamage_p1%[-] tấn công cơ bản. Mỗi lần đánh trúng thời gian duy trì tăng thêm [00ff00]skill_statetime1/15[-] giây 
+756	Huyết Nguyệt Chi Ảnh-Trung	Tăng [00ff00]defense_p1%[-] né tránh cơ bản, miễn dịch bất lợi và hiệu quả Bị Thương. Giảm chờ [00ff00]deccdtime2/15[-] giây 
+759	Nhiếp Hồn Loạn Tâm-Trung	Tấn công cơ bản tăng [00ff00]add_usebasedmg_p12%[-], né tránh cơ bản giảm [00ff00]defense_p1%[-], kháng thuộc tính và hiệu quả bất lợi có tỉ lệ giảm [00ff00]resist_allseriesstate_rate_v1[-] điểm, duy trì [00ff00]skill_statetime1/15[-] giây
+761	Tử Vong Hồi Toàn-Cao	Tăng [00ff00]add_usebasedmg_p12%[-] tấn công cơ bản, có [00ff00]add_palsy_r2%[-] gây [00ff00]add_palsy_t2/15[-] giây Tê Liệt. Tích lũy sử dụng tăng [00ff00]add_skill_point12/100[-] lần. Mỗi khi giảm [00ff00]1%[-] sinh lực hiện tại của mục tiêu, tăng [00ff00]add_loselife_dmg_p2/100%[-] sát thương kỹ năng, tăng [00ff00]add_deadlydmg_p12%[-]sát thương bạo kích, thiết lập lại hiệu quả Ma Diệm Thất Sát đến cao nhất
+763	Ma Diệm Tại Thiên-Cao	Có [00ff00]add_palsy_r2%[-] gây [00ff00]add_palsy_t2/15[-] giây Tê Liệt. Sau khi đánh trúng trong [00ff00]skill_statetime1/15[-] giây tăng [00ff00]physics_potentialdamage_p1%[-] tấn công cơ bản. Mỗi lần đánh trúng thời gian duy trì tăng thêm [00ff00]skill_statetime1/15[-] giây. Tăng [00ff00]add_usebasedmg_p12%[-] tấn công cơ bản
+765	Huyết Nguyệt Chi Ảnh-Cao	Tăng [00ff00]defense_p1%[-] né tránh cơ bản, miễn dịch bất lợi và hiệu quả Bị Thương. Giảm chờ [00ff00]deccdtime2/15[-] giây. Tăng tấn công bằng [00ff00]damage_maxlife_p1%[-] sinh lực tối đa của mục tiêu, tối đa bằng [00ff00]damage_maxlife_p2%[-] sinh lực tối đa của bản thân
+768	Nhiếp Hồn Loạn Tâm-Cao	Tấn công cơ bản tăng [00ff00]add_usebasedmg_p12%[-], thời gian chờ giảm [00ff00]deccdtime2/15[-] giây, né tránh cơ bản giảm [00ff00]defense_p1%[-], kháng thuộc tính và hiệu quả bất lợi có tỉ lệ giảm [00ff00]resist_allseriesstate_rate_v1[-] điểm, duy trì [00ff00]skill_statetime1/15[-] giây
+770	Phi Hồng Vô Tích	[00ff00]rand_ignoreskill1%[-] tỉ lệ xóa [00ff00]rand_ignoreskill2[-] hiệu quả tăng ích, kèm tấn công bằng [00ff00]sinh lực tối đa của mục tiêu x damage_maxlife_p1%[-], được tính tối đa bằng [00ff00]damage_maxlife_p2%[-] sinh lực tối đa bản thân, giãn cách thi triển [00ff00]userdesc_1011/15[-] giây
+801	Thúy Yên Ngự Tản Quyết	Gây [00ff00]attack_usebasedamage_p1%[-] tấn công cơ bản + [00ff00]attack_waterdamage_v1[-] sát thương hệ Thủy
+806	Tuyền Cơ La Vũ	Trong [00ff00]8[-] giây mỗi [00ff00]0.66[-] giây gây [00ff00]attack_usebasedamage_p1%[-] tấn công cơ bản + [00ff00]attack_waterdamage_v1[-] sát thương hệ Thủy, đồng thời có [00ff00]state_slowall_attack1%[-] tỉ lệ kèm [00ff00]state_slowall_attack2/15[-] giây hiệu quả làm chậm
+808	Vũ Đả Lê Hoa	Trong [00ff00]5[-] giây mỗi [00ff00]0.33[-] giây tấn công phạm vi mục tiêu, mỗi lần tấn công gây [00ff00]attack_usebasedamage_p1%[-] tấn công cơ bản + [00ff00]attack_waterdamage_v1[-] sát thương hệ Thủy, đồng thời có [00ff00]state_slowall_attack1%[-] tỉ lệ kèm [00ff00]state_slowall_attack2/15[-] giây hiệu quả làm chậm
+810	Triệu Hồi Bảo Bảo	Tấn công của Bảo Bảo bằng tấn công của nhân vật x[00ff00]callnpc_damage2%[-], duy trì [00ff00]skill_statetime1/15[-] giây
+815	Băng Tâm Sảnh Ảnh	Vĩnh viễn tăng [00ff00]lifemax_p1%[-] sinh lực cơ bản, [00ff00]physics_potentialdamage_p1%[-] tấn công cơ bản và [00ff00]state_palsy_resistrate1[-] điểm kháng tỉ lệ tê liệt
+816	Băng Tung Vô Ảnh	Gây [00ff00]attack_usebasedamage_p1%[-] tấn công cơ bản + [00ff00]attack_waterdamage_v1[-] sát thương hệ Thủy, có [00ff00]state_freeze_attack1%[-] kèm [00ff00]state_freeze_attack2/15[-] giây Đóng Băng
+818	Tuyết Ảnh	Bản thân tăng [00ff00]runspeed_v1[-] di chuyển và [00ff00]ignore_defense_vp1%[-] bỏ qua né tránh cơ bản, đồng đội nhận một nửa hiệu quả
+820	Ngự Tản Quyết-Cao	[Thúy Yên Ngự Tản Quyết] tăng [00ff00]attack_usebasedamage_p1%[-] tấn công cơ bản + [00ff00]attack_waterdamage_v1[-] sát thương hệ Thủy
+822	Hộ Thể Hàn Băng	Tăng [00ff00]remote_dmg_p1%[-] kháng sát thương tầm xa, [00ff00]meleedamagereturn_p1%[-] phản đòn cận chiến
+824	Băng Cơ Ngọc Cốt	Có [00ff00]userdesc_1011%[-] tỉ lệ kích hoạt, mỗi giây hồi [00ff00]recover_life_p1%[-] sinh lực, duy trì [00ff00]skill_statetime1/15[-] giây, Đóng Băng kẻ địch xung quanh [00ff00]state_freeze_attack2/15[-] giây. Giãn cách thi triển [00ff00]userdesc_1021/15[-] giây
+827	Băng Cốt Tuyết Tâm	Vĩnh viễn tăng [00ff00]physics_potentialdamage_p1%[-] tấn công cơ bản, [00ff00]lifemax_p1%[-] sinh lực cơ bản, [00ff00]all_series_resist_p1%[-] kháng tất cả cơ bản, [00ff00]attackspeed_v1[-] điểm tốc đánh, [00ff00]state_slowall_attackrate1[-] điểm tỉ lệ làm chậm và [00ff00]state_palsy_resisttime1[-] điểm kháng thời gian tê liệt
+841	Phù Vân Tán Tuyết	Hiệu suất hồi sinh lực tăng [00ff00]lifereplenish_p1%[-], sát thương gây ra tăng [00ff00]tỉ lệ sinh lực hiện tại x lowhp_damage_att_p1%[-]
+861	Tuyền Cơ La Vũ-Sơ	Trong [00ff00]skill_statetime1/15[-] giây tăng tấn công cơ bản của Tuyền Cơ La Vũ [00ff00]add_usebasedmg_p12%[-], tối đa cộng dồn [00ff00]superposemagic1[-] lần
+862	Vũ Đả Lê Hoa-Sơ	Tỉ lệ bạo kích tăng [00ff00]add_deadlystrike_p12%[-], tỉ lệ bỏ qua né tránh cuối tăng [00ff00]add_igdefense_p12%[-]
+863	Triệu Hồi Bảo Bảo-Sơ	Tấn công của Bảo Bảo tăng [00ff00]addcall_npcdmg2%[-]
+864	Băng Tung Vô Ảnh-Sơ	[00ff00]stealstate_type1%[-] tỉ lệ trộm 1 hiệu quả tăng ích của đối phương, duy trì tối đa [00ff00]skill_stealstate_time1/15[-] giây
+865	Tuyền Cơ La Vũ-Trung	Trong [00ff00]skill_statetime1/15[-] giây tăng tấn công cơ bản của Tuyền Cơ La Vũ [00ff00]add_usebasedmg_p12%[-], tối đa cộng dồn [00ff00]superposemagic1[-] lần; Mỗi lần đánh trúng hồi phục [00ff00]dir_recover_life_pp1/100%[-] sinh lực tối đa
+866	Vũ Đả Lê Hoa-Trung	Tỉ lệ bạo kích tăng [00ff00]add_deadlystrike_p12%[-], tỉ lệ bỏ qua né tránh cuối tăng [00ff00]add_igdefense_p12%[-]; Thời gian chờ giảm [00ff00]deccdtime2/15[-] giây
+867	Triệu Hồi Bảo Bảo-Trung	Tăng tấn công của Bảo Bảo [00ff00]addcall_npcdmg2%[-]; Giảm sát thương đánh thường của kẻ địch xung quanh Bảo Bảo [00ff00]style_skill_damage_p2%[-]
+868	Băng Tung Vô Ảnh-Trung	[00ff00]stealstate_type1%[-] tỉ lệ trộm 1 hiệu quả tăng ích của đối phương, duy trì tối đa [00ff00]skill_stealstate_time1/15[-] giây; Thi triển tăng thêm 1 lần [00ff00]Tuyền Cơ La Vũ [-], tăng  phạm vi sát thương [00ff00]addms_dmg_range12/3.57[-]m, tăng tấn công cơ bản [00ff00]add_usebasedmg_p12%[-]
+872	Tuyền Cơ La Vũ-Cao	Trong [00ff00]skill_statetime1/15[-] giây tăng tấn công cơ bản của Tuyền Cơ La Vũ [00ff00]add_usebasedmg_p12%[-], tối đa cộng dồn [00ff00]superposemagic1[-] lần; Mỗi lần đánh trúng hồi phục [00ff00]dir_recover_life_pp1/100%[-] sinh lực tối đa; Kéo dài thời gian duy trì [00ff00]addms_life12/15[-] giây, tăng tỉ lệ làm chậm [00ff00]add_slowall_r2%[-]
+874	Vũ Đả Lê Hoa-Cao	Tỉ lệ bạo kích tăng [00ff00]add_deadlystrike_p12%[-], bỏ qua né tránh cuối tăng [00ff00]add_igdefense_p12%[-]; Rút ngắn thời gian chờ [00ff00]deccdtime2/15[-] giây; Mỗi lần đánh trúng tăng tấn công cơ bản [00ff00]add_usebasedmg_p12%[-], tối đa cộng dồn [00ff00]superposemagic1[-] tầng
+876	Triệu Hồi Bảo Bảo-Cao	Tăng tấn công của Bảo Bảo [00ff00]addcall_npcdmg2%[-]; Giảm sát thương đánh thường của kẻ địch xung quanh Bảo Bảo [00ff00]style_skill_damage_p2%[-]; Giảm chờ [00ff00]deccdtime2/15[-] giây
+878	Băng Tung Vô Ảnh-Cao	[00ff00]stealstate_type1%[-] tỉ lệ trộm 1 hiệu quả tăng ích của đối phương, duy trì tối đa [00ff00]skill_stealstate_time1/15[-] giây; Thi triển tăng thêm 1 lần [00ff00]Tuyền Cơ La Vũ [-], tăng phạm vi sát thương [00ff00]addms_dmg_range12/3.57[-]m, tăng tấn công cơ bản [00ff00]add_usebasedmg_p12%[-]; Sau khi thi triển, trong [00ff00]skill_statetime1/15[-] giây tăng tấn công cơ bản [00ff00]physics_potentialdamage_p1%[-], tăng tỉ lệ bỏ qua né tránh cuối [00ff00]ignore_defense_p1%[-]
+901	Huy Khảm Thuật	[00ff00]attack_usebasedamage_p1%[-] tấn công cơ bản
+902	Băng Chùy Thuật	[00ff00]attack_usebasedamage_p1%[-] tấn công cơ bản
+903	Phi Tiêu Thuật	[00ff00]attack_usebasedamage_p1%[-] tấn công cơ bản
+904	Hỏa Cầu Thuật	[00ff00]attack_usebasedamage_p1%[-] tấn công cơ bản
+905	Lôi Quang Thuật	[00ff00]attack_usebasedamage_p1%[-] tấn công cơ bản
+906	Phá Thiên Trảm 	[00ff00]attack_usebasedamage_p1%[-] tấn công cơ bản, đồng thời gây sát thương [00ff00]state_hurt_attack2/15[-] giây
+907	Băng Phong Chỉ	[00ff00]attack_usebasedamage_p1%[-] tấn công cơ bản, đồng thời Làm Chậm [00ff00]state_slowall_attack2/15[-] giây
+908	Tụ Lí Tiễn	[00ff00]attack_usebasedamage_p1%[-] tấn công cơ bản, gây [00ff00]state_zhican_attack2/15[-] giây tàn phế
+909	Liệt Diệm Chỉ	[00ff00]attack_usebasedamage_p1%[-] tấn công cơ bản, đồng thời gây Tê Liệt [00ff00]state_palsy_attack2/15[-] giây
+910	Nộ Lôi Chỉ 	[00ff00]attack_usebasedamage_p1%[-] tấn công cơ bản, đồng thời gây Choáng [00ff00]state_stun_attack2/15[-] giây
+911	Bán Nguyệt Trảm	[00ff00]attack_usebasedamage_p1%[-] tấn công cơ bản, chuyển [00ff00]attack_steallife_p1%[-] sát thương gây ra thành hồi sinh lực
+912	Kinh Đào Hãi Lãng	[00ff00]attack_usebasedamage_p1%[-] tấn công cơ bản
+914	Xuyên Tâm Thích	[00ff00]attack_usebasedamage_p1%[-] tấn công cơ bản
+916	Thôi Sơn Điền Hải	[00ff00]attack_usebasedamage_p1%[-] tấn công cơ bản
+917	Cửu Thiên Cuồng Lôi	[00ff00]attack_usebasedamage_p1%[-] tấn công cơ bản
+921	Thuật Trị Liệu	Mỗi [00ff00]vitality_recover_life2/15[-] giây hồi [00ff00]Thể chất*vitality_recover_life1%[-] sinh lực, duy trì [00ff00]skill_statetime1/15[-] giây
+923	Quần Thể Trị Liệu Thuật	Mỗi [00ff00]vitality_recover_life2/15[-] giây hồi [00ff00]Thể chất*vitality_recover_life1%[-] sinh lực, duy trì [00ff00]skill_statetime1/15[-] giây
+925	Bách Thảo Tiên Lộ	Mỗi [00ff00]vitality_recover_life2/15[-] giây hồi [00ff00]Thể chất*vitality_recover_life1%[-] sinh lực, giải trừ thuộc tính, hiệu quả bất lợi, duy trì [00ff00]skill_statetime1/15[-] giây 
+927	Độc Chướng Thuật	Gây trúng độc và giảm [00ff00]shield_attrib1[-]% hộ thuẫn ngăn sát thương, duy trì [00ff00]skill_statetime1/15[-] giây
+928	Quần Thể Độc Chướng	Gây trúng độc và giảm [00ff00]shield_attrib1[-]% hộ thuẫn ngăn sát thương, duy trì [00ff00]skill_statetime1/15[-] giây
+930	Kim Cang Hộ Thể	Trong [00ff00]skill_statetime1/15[-] giây miễn dịch sát thương
+931	Quần Thể Kim Cang	Trong [00ff00]skill_statetime1/15[-] giây miễn dịch sát thương
+933	Bất Động Minh Vương	[00ff00]skill_statetime1/15[-] giây miễn dịch thuộc tính, hiệu quả bất lợi
+934	Quần Thể Minh Vương	[00ff00]skill_statetime1/15[-] giây miễn dịch thuộc tính, hiệu quả bất lợi
+936	Khô Mộc Phùng Xuân	Khi trọng thương có [00ff00]userdesc_1071%[-] tỉ lệ hồi [00ff00]recover_life_p1%[-] sinh lực
+938	Niết Bàn Trùng Sinh	Khi bị trọng thương [00ff00]userdesc_1071%[-] hồi [00ff00]userdesc_1072%[-] sinh lực, giải trừ thuộc tính, hiệu quả bất lợi, duy trì [00ff00]userdesc_1081/15[-] giây 
+940	Súc Lực Tiễn	[00ff00]attack_usebasedamage_p1%[-] tấn công cơ bản
+942	Tảng Đá Lớn	Gây [00ff00]attack_usebasedamage_p1%[-] tấn công cơ bản, gây [00ff00]state_stun_attack2/15[-] giây Choáng
+946	Vỗ Cánh	Mục tiêu bị lơ lửng mỗi nửa giây chịu [00ff00]dotdamage_wood1%[-] tấn công cơ bản, duy trì [00ff00]3[-] giây
+948	Linh Tê	Tăng [00ff00]lifemax_v1[-] sinh lực tối đa, mỗi [00ff00]recover_life_v2/15[-] giây hồi phục [00ff00]recover_life_v1[-] sinh lực
+950	Tâm Nhãn	Tăng [00ff00]attackspeed_v1[-] điểm tốc đánh, [00ff00]attackrate_v1[-] chính xác và [00ff00]deadlystrike_v1[-] tỉ lệ bạo kích, duy trì [00ff00]skill_statetime1/15[-] giây
+953	Hô Phong Thuật	Mục tiêu bị lơ lửng mỗi nửa giây chịu [00ff00]dotdamage_wood1%[-] tấn công cơ bản, duy trì [00ff00]skill_statetime1/15[-] giây
+955	Ảnh Tập	Gây bạo kích cho mục tiêu bằng [00ff00]attack_usebasedamage_p1%[-] tấn công cơ bản, gây [00ff00]state_palsy_attack2/15[-] giây tê liệt
+960	Âm Phong Thực Cốt	Gây [00ff00]attack_usebasedamage_p1%[-] tấn công cơ bản
+963	Minh Sát Thu Hào	Tăng [00ff00]deadlystrike_v1[-] điểm tỉ lệ bạo kích
+965	Lạc Anh Mạn Thiên	Gây [00ff00]attack_usebasedamage_p1%[-] tấn công cơ bản, gây [00ff00]state_palsy_attack2/15[-] giây Tê liệt
+967	Phong Lai Ngô Sơn	Gây [00ff00]attack_usebasedamage_p1%[-] tấn công cơ bản
+970	Minh Nguyệt Quyết	Tăng [00ff00]attackspeed_v1[-] điểm tốc đánh, duy trì [00ff00]skill_statetime1/15[-] giây
+971	Tìm Thái Hồng	Mỗi lần gây [00ff00]attack_usebasedamage_p1%[-] tấn công cơ bản
+973	Thanh Tâm Thuật	Giải trừ bất lợi, tăng [00ff00]basic_damage_v1[-] tấn công, duy trì [00ff00]skill_statetime1/15[-] giây 
+975	Đẩu Chuyển Tinh Di	Gây cho mục tiêu kéo trúng [00ff00]attack_usebasedamage_p1%[-] tấn công cơ bản
+978	Phong Tuyết Băng Thiên	Gây [00ff00]attack_usebasedamage_p1%[-] tấn công cơ bản, gây [00ff00]state_slowall_attack2/15[-] giây Làm Chậm
+980	Ma Diệm Tại Thiên	Gây [00ff00]attack_usebasedamage_p1%[-] tấn công cơ bản
+984	Mục Dã Lưu Tinh	Gây [00ff00]attack_usebasedamage_p1%[-] tấn công cơ bản, gây [00ff00]state_slowall_attack2/15[-] giây Làm Chậm
+988	Vân Hải Mộng Điệp	Tăng [00ff00]basic_damage_v1[-] Tấn Công
+992	Lạc Thạch	Mỗi lần gây [00ff00]attack_usebasedamage_p1%[-] tấn công cơ bản
+995	Bi Tô Thanh Phong	Khiến địch giảm [00ff00]basic_damage_v1[-] tấn công, duy trì [00ff00]skill_statetime1/15[-] giây
+998	Nhân Kiếm Hợp Nhất	Gây [00ff00]attack_usebasedamage_p1%[-] tấn công cơ bản
+999	Trị Liệu Thuật 	Mỗi [00ff00]vitality_recover_life2/15[-] giây, hồi phục [00ff00]Thể chất*vitality_recover_life1%[-] sinh lực hiện tại, duy trì [00ff00]skill_statetime1/15[-] giây
+1101		Gây [00ff00]attack_usebasedamage_p1%[-] tấn công cơ bản
+1105	Kim Chung Tráo	Tăng [00ff00]all_series_resist_v1[-] kháng tất cả và [00ff00]resist_allseriesstate_rate_v1[-] điểm kháng tỉ lệ thuộc tính, cách [00ff00]recover_life_v2/15[-] giây hồi [00ff00]recover_life_v1[-] sinh lực, duy trì [00ff00]skill_statetime1/15[-] giây
+1109		Tăng vĩnh viễn [00ff00]lifemax_p1%[-] sinh lực tối đa, [00ff00]physics_potentialdamage_p1%[-] tấn công cơ bản
+1111	Hồi Phong Lạc Nhạn	Gây [00ff00]attack_usebasedamage_p1%[-] tấn công cơ bản
+1115	Đoạn Hồn Thích	Gây [00ff00]attack_usebasedamage_p1%[-] tấn công cơ bản, gây [00ff00]state_fixed_attack2/15[-] giây Định Thân
+1131		Gây [00ff00]attack_usebasedamage_p1%[-] tấn công cơ bản
+1136		Gây [00ff00]attack_usebasedamage_p1%[-] tấn công cơ bản
+1139		Vĩnh viễn tăng [00ff00]lifemax_p1%[-] sinh lực cơ bản, [00ff00]physics_potentialdamage_p1%[-] tấn công cơ bản
+1140	Nga Mi Kiếm Pháp	Tấn công cơ bản, gây [00ff00]attack_usebasedamage_p1%[-] tấn công cơ bản
+1144	Thiên Vũ Bảo Luân	Địch trong trận mỗi [00ff00]0.5[-] giây chịu [00ff00]attack_usebasedamage_p1%[-] tấn công cơ bản; đồng đội trong trận mỗi [00ff00]1[-] giây hồi [00ff00] thể chất *vitality_recover_life1%[-] sinh lực. Trận pháp duy trì [00ff00]10[-] giây
+1181		[00ff00]attack_usebasedamage_p1%[-] tấn công cơ bản
+1188	Phi Hỏa Lưu Tinh	Gây [00ff00]attack_usebasedamage_p1%[-] tấn công cơ bản
+1190		Tăng vĩnh viễn [00ff00]runspeed_v1[-] di chuyển, [00ff00]physics_potentialdamage_p1%[-] tấn công cơ bản
+1191	Đào Hoa Tiễn Thuật	[00ff00]attack_usebasedamage_p1%[-] tấn công cơ bản
+1195	Hỏa Phượng Liêu Nguyên	Tăng [00ff00]runspeed_v1[-] điểm di chuyển, [00ff00]attackspeed_v1[-] điểm tốc đánh và [00ff00]defense_v1[-] né tránh, duy trì [00ff00]skill_statetime1/15[-] giây
+1221		[00ff00]attack_usebasedamage_p1%[-] tấn công cơ bản
+1232		Gây [00ff00]attack_usebasedamage_p1%[-] tấn công cơ bản
+1234		[00ff00]attack_usebasedamage_p1%[-] tấn công cơ bản
+1238		Gây [00ff00]attack_usebasedamage_p1%[-] tấn công cơ bản và [00ff00]state_zhican_attack2/15[-] giây tàn phế
+1261		Tấn công cơ bản, gây [00ff00]attack_usebasedamage_p1%[-] tấn công cơ bản
+1262		Gây [00ff00]attack_usebasedamage_p1%[-] tấn công cơ bản
+1270		Tấn công cơ bản, gây [00ff00]attack_usebasedamage_p1%[-] tấn công cơ bản
+1271		Tấn công cơ bản, gây [00ff00]attack_usebasedamage_p1%[-] tấn công cơ bản
+1274		Tấn công cơ bản, gây [00ff00]attack_usebasedamage_p1%[-] tấn công cơ bản
+1276		Tấn công cơ bản, gây [00ff00]attack_usebasedamage_p1%[-] tấn công cơ bản
+1278		Gây [00ff00]attack_usebasedamage_p1%[-] tấn công cơ bản
+1280		Gây [00ff00]attack_usebasedamage_p1%[-] tấn công cơ bản
+1281		Tấn công cơ bản, gây [00ff00]attack_usebasedamage_p1%[-] tấn công cơ bản
+1282		Gây [00ff00]attack_usebasedamage_p1%[-] tấn công cơ bản
+1283		Tấn công cơ bản, gây [00ff00]attack_usebasedamage_p1%[-] tấn công cơ bản
+1284		Gây [00ff00]attack_usebasedamage_p1%[-] tấn công cơ bản
+1286		Tấn công cơ bản, gây [00ff00]attack_usebasedamage_p1%[-] tấn công cơ bản
+1287		Gây [00ff00]attack_usebasedamage_p1%[-] tấn công cơ bản
+1289		Tấn công cơ bản, gây [00ff00]attack_usebasedamage_p1%[-] tấn công cơ bản
+1289		Tấn công cơ bản, gây [00ff00]attack_usebasedamage_p1%[-] tấn công cơ bản
+1290		Gây [00ff00]attack_usebasedamage_p1%[-] tấn công cơ bản
+1293		Gây [00ff00]attack_usebasedamage_p1%[-] tấn công cơ bản
+1295		Tấn công cơ bản, gây [00ff00]attack_usebasedamage_p1%[-] tấn công cơ bản
+1296		Gây [00ff00]attack_usebasedamage_p1%[-] tấn công cơ bản, chuyển [00ff00]attack_steallife_p1%[-] sát thương gây ra thành hồi sinh lực
+1300		Gây [00ff00]attack_usebasedamage_p1%[-] tấn công cơ bản
+1772	Trung Quán Bạch Nhật	Mỗi 1 điểm nhanh nhẹn ngăn [00ff00]magicshield1/100[-] điểm sát thương, duy trì [00ff00]magicshield2/15[-] giây. Sau khi phá thuẫn mỗi lần sát thương gây [00ff00]attack_usebasedamage_p1%[-] tấn công cơ bản và gây [00ff00]state_stun_attack2/15[-] giây choáng
+1780	Ám Ảnh Thích	Bản thân ẩn mình trong [00ff00]userdesc_1041/15[-] giây, khi ẩn mình tăng [00ff00]runspeed_v1[-] điểm di chuyển và lần đánh thường kế tiếp tăng [00ff00]attackspeed_v1[-] tốc đánh, [00ff00]ignore_defense_v1[-] bỏ qua né tránh và [00ff00]deadlystrike_v1[-] bạo kích
+1901	【Sơ】Chính Xác	Tăng [00ff00]attackrate_v1[-] điểm chính xác
+1902	【Trung】Chính Xác	Tăng [00ff00]attackrate_v1[-] điểm chính xác
+1903	【Cao】Chính Xác	Tăng [00ff00]attackrate_v1[-] điểm chính xác
+1904	【Sơ】Né Tránh	Tăng [00ff00]defense_v1[-] điểm né tránh
+1905	【Trung】Né Tránh	Tăng [00ff00]defense_v1[-] điểm né tránh
+1906	【Cao】Né Tránh	Tăng [00ff00]defense_v1[-] điểm né tránh
+1907	【Sơ】Bỏ Qua Né Tránh	Tăng [00ff00]ignore_defense_v1[-] điểm bỏ qua né tránh
+1908	【Trung】Bỏ Qua Né Tránh	Tăng [00ff00]ignore_defense_v1[-] điểm bỏ qua né tránh
+1909	【Cao】Bỏ Qua Né Tránh	Tăng [00ff00]ignore_defense_v1[-] điểm bỏ qua né tránh
+1910	【Sơ】Tỉ Lệ Kháng Bạo Kích	Tăng [00ff00]weaken_deadlystrike_v1[-] điểm tỉ lệ kháng bạo kích
+1911	【Trung】Tỉ Lệ Kháng Bạo Kích	Tăng [00ff00]weaken_deadlystrike_v1[-] điểm tỉ lệ kháng bạo kích
+1912	【Cao】Tỉ Lệ Kháng Bạo Kích	Tăng [00ff00]weaken_deadlystrike_v1[-] điểm tỉ lệ kháng bạo kích
+1913	【Sơ】Hồi Phục Sinh Lực	Tăng [00ff00]recover_life_v1[-] điểm hồi sinh lực
+1914	【Trung】Hồi Phục Sinh Lực	Tăng [00ff00]recover_life_v1[-] điểm hồi sinh lực
+1915	【Cao】Hồi Sinh Lực	Tăng [00ff00]recover_life_v1[-] điểm hồi sinh lực
+1916	【Sơ】Hiệu Quả Kháng Bị Thương	Tăng [00ff00]state_hurt_resistrate1[-] điểm kháng tỉ lệ bị thương, [00ff00]state_hurt_resisttime1[-] điểm kháng thời gian bị thương
+1917	【Trung】Kháng Bị Thương	Tăng [00ff00]state_hurt_resistrate1[-] điểm kháng tỉ lệ bị thương, [00ff00]state_hurt_resisttime1[-] điểm kháng thời gian bị thương
+1918	【Cao】Kháng Bị Thương	Tăng [00ff00]state_hurt_resistrate1[-] điểm kháng tỉ lệ bị thương, [00ff00]state_hurt_resisttime1[-] điểm kháng thời gian bị thương
+1919	【Sơ】Hiệu Quả Kháng Làm Chậm	Tăng [00ff00]state_slowall_resistrate1[-] điểm kháng tỉ lệ làm chậm, [00ff00]state_slowall_resisttime1[-] điểm kháng thời gian làm chậm
+1920	【Trung】Kháng Làm Chậm	Tăng [00ff00]state_slowall_resistrate1[-] điểm kháng tỉ lệ làm chậm, [00ff00]state_slowall_resisttime1[-] điểm kháng thời gian làm chậm
+1921	【Cao】Kháng Làm Chậm	Tăng [00ff00]state_slowall_resistrate1[-] điểm kháng tỉ lệ làm chậm, [00ff00]state_slowall_resisttime1[-] điểm kháng thời gian làm chậm
+1922	【Sơ】Kháng Tàn Phế	Tăng [00ff00]state_zhican_resistrate1[-] kháng tỉ lệ tàn phế, [00ff00]state_zhican_resisttime1[-] điểm kháng thời gian tàn phế
+1923	【Trung】Kháng Tàn Phế	Tăng [00ff00]state_zhican_resistrate1[-] kháng tỉ lệ tàn phế, [00ff00]state_zhican_resisttime1[-] điểm kháng thời gian tàn phế
+1924	【Cao】Kháng Tàn Phế	Tăng [00ff00]state_zhican_resistrate1[-] kháng tỉ lệ tàn phế, [00ff00]state_zhican_resisttime1[-] điểm kháng thời gian tàn phế
+1925	【Sơ】Hiệu Quả Kháng Tê Liệt	Tăng [00ff00]state_palsy_resistrate1[-] điểm kháng tỉ lệ tê liệt, [00ff00]state_palsy_resisttime1[-] điểm kháng thời gian tê kiệt
+1926	【Trung】Kháng Tê Liệt	Tăng [00ff00]state_palsy_resistrate1[-] điểm kháng tỉ lệ tê liệt, [00ff00]state_palsy_resisttime1[-] điểm kháng thời gian tê kiệt
+1927	【Cao】Kháng Tê Liệt	Tăng [00ff00]state_palsy_resistrate1[-] điểm kháng tỉ lệ tê liệt, [00ff00]state_palsy_resisttime1[-] điểm kháng thời gian tê kiệt
+1928	【Sơ】Hiệu Quả Kháng Choáng	Tăng [00ff00]state_stun_resistrate1[-] điểm kháng tỉ lệ choáng, [00ff00]state_stun_resisttime1[-] điểm kháng thời gian choáng
+1929	【Trung】Kháng Choáng	Tăng [00ff00]state_stun_resistrate1[-] điểm kháng tỉ lệ choáng, [00ff00]state_stun_resisttime1[-] điểm kháng thời gian choáng
+1930	【Cao】Kháng Choáng	Tăng [00ff00]state_stun_resistrate1[-] điểm kháng tỉ lệ choáng, [00ff00]state_stun_resisttime1[-] điểm kháng thời gian choáng
+1931	【Sơ】Tỉ Lệ Bạo Kích	Tăng [00ff00]deadlystrike_v1[-] điểm tỉ lệ bạo kích
+1932	【Trung】Tỉ Lệ Bạo Kích	Tăng [00ff00]deadlystrike_v1[-] điểm tỉ lệ bạo kích
+1933	【Cao】Tỉ Lệ Bạo Kích	Tăng [00ff00]deadlystrike_v1[-] điểm tỉ lệ bạo kích
+1934	【Sơ】Tấn Công	Tăng [00ff00]basic_damage_v1[-] điểm tấn công
+1935	【Trung】Tấn Công	Tăng [00ff00]basic_damage_v1[-] điểm tấn công
+1936	【Cao】Tấn Công	Tăng [00ff00]basic_damage_v1[-] điểm tấn công
+1937	【Sơ】Sinh Lực	Tăng [00ff00]lifemax_v1[-] điểm sinh lực
+1938	【Trung】Sinh Lực	Tăng [00ff00]lifemax_v1[-] điểm sinh lực
+1939	【Cao】Sinh Lực	Tăng [00ff00]lifemax_v1[-] điểm sinh lực
+1940	【Sơ】Di Chuyển	Tăng [00ff00]runspeed_v1[-] điểm di chuyển
+1941	【Trung】Di Chuyển	Tăng [00ff00]runspeed_v1[-] điểm di chuyển
+1942	【Cao】Di Chuyển	Tăng [00ff00]runspeed_v1[-] điểm di chuyển
+1943	【Sơ】Kháng Kim	Tăng [00ff00]metal_resist_v1[-] điểm kháng Kim
+1944	【Trung】Kháng Kim	Tăng [00ff00]metal_resist_v1[-] điểm kháng Kim
+1945	【Cao】Kháng Kim	Tăng [00ff00]metal_resist_v1[-] điểm kháng Kim
+1946	【Sơ】Kháng Mộc	Tăng [00ff00]wood_resist_v1[-] điểm kháng Mộc
+1947	【Trung】Kháng Mộc	Tăng [00ff00]wood_resist_v1[-] điểm kháng Mộc
+1948	【Cao】Kháng Mộc	Tăng [00ff00]wood_resist_v1[-] điểm kháng Mộc
+1949	【Sơ】Kháng Thủy	Tăng [00ff00]water_resist_v1[-] điểm kháng Thủy
+1950	【Trung】Kháng Thủy	Tăng [00ff00]water_resist_v1[-] điểm kháng Thủy
+1951	【Cao】Kháng Thủy	Tăng [00ff00]water_resist_v1[-] điểm kháng Thủy
+1952	【Sơ】Kháng Hỏa	Tăng [00ff00]fire_resist_v1[-] điểm kháng Hỏa
+1953	【Trung】Kháng Hỏa	Tăng [00ff00]fire_resist_v1[-] điểm kháng Hỏa
+1954	【Cao】Kháng Hỏa	Tăng [00ff00]fire_resist_v1[-] điểm kháng Hỏa
+1955	【Sơ】Kháng Thổ	Tăng [00ff00]earth_resist_v1[-] điểm kháng Thổ
+1956	【Trung】Kháng Thổ	Tăng [00ff00]earth_resist_v1[-] điểm kháng Thổ
+1957	【Cao】Kháng Thổ	Tăng [00ff00]earth_resist_v1[-] điểm kháng Thổ
+1958	【Sơ】Kháng Hiệu Quả Thuộc Tính	Tăng [00ff00]resist_allseriesstate_rate_v1[-] điểm kháng tỉ lệ thuộc tính, [00ff00]resist_allseriesstate_time_v1[-] kháng thời gian thuộc tính
+1959	【Trung】Kháng Thuộc Tính	Tăng [00ff00]resist_allseriesstate_rate_v1[-] điểm kháng tỉ lệ thuộc tính, [00ff00]resist_allseriesstate_time_v1[-] kháng thời gian thuộc tính
+1960	【Cao】Kháng Thuộc Tính	Tăng [00ff00]resist_allseriesstate_rate_v1[-] điểm kháng tỉ lệ thuộc tính, [00ff00]resist_allseriesstate_time_v1[-] kháng thời gian thuộc tính
+1961	【Sơ】Hút Sinh Lực	Tăng [00ff00]steallife_p1%[-] hút sinh lực
+1962	【Trung】Hút Sinh Lực	Tăng [00ff00]steallife_p1%[-] hút sinh lực
+1963	【Cao】Hút Sinh Lực	Tăng [00ff00]steallife_p1%[-] hút sinh lực
+1964	【Sơ】Hiệu Quả Bị Thương	Đánh thường gây [00ff00]state_hurt_normalattack1%[-] tỉ lệ bị thương, duy trì [00ff00]state_hurt_normalattack2/15[-] giây
+1965	【Trung】Hiệu Quả Bị Thương	Đánh thường gây [00ff00]state_hurt_normalattack1%[-] tỉ lệ bị thương, duy trì [00ff00]state_hurt_normalattack2/15[-] giây
+1966	【Cao】Hiệu Quả Bị Thương	Đánh thường gây [00ff00]state_hurt_normalattack1%[-] tỉ lệ bị thương, duy trì [00ff00]state_hurt_normalattack2/15[-] giây
+1967	【Sơ】Hiệu Quả Làm Chậm	Đánh thường gây [00ff00]state_slowall_normalattack1%[-] tỉ lệ Làm Chậm, duy trì [00ff00]state_slowall_normalattack2/15[-] giây
+1968	【Trung】Hiệu Quả Làm Chậm	Đánh thường gây [00ff00]state_slowall_normalattack1%[-] tỉ lệ Làm Chậm, duy trì [00ff00]state_slowall_normalattack2/15[-] giây
+1969	【Cao】Hiệu Quả Làm Chậm	Đánh thường gây [00ff00]state_slowall_normalattack1%[-] tỉ lệ Làm Chậm, duy trì [00ff00]state_slowall_normalattack2/15[-] giây
+1970	【Sơ】Tàn Phế	Đánh thường gây [00ff00]state_zhican_normalattack1%[-] tỉ lệ tàn phế, duy trì [00ff00]state_zhican_normalattack2/15[-] giây
+1971	【Trung】Tàn Phế	Đánh thường gây [00ff00]state_zhican_normalattack1%[-] tỉ lệ tàn phế, duy trì [00ff00]state_zhican_normalattack2/15[-] giây
+1972	【Cao】Tàn Phế	Đánh thường gây [00ff00]state_zhican_normalattack1%[-] tỉ lệ tàn phế, duy trì [00ff00]state_zhican_normalattack2/15[-] giây
+1973	【Sơ】Hiệu Quả Tê Liệt	Đánh thường gây [00ff00]state_palsy_normalattack1%[-] tỉ lệ Tê Liệt, duy trì [00ff00]state_palsy_normalattack2/15[-] giây
+1974	【Trung】Hiệu Quả Tê Liệt	Đánh thường gây [00ff00]state_palsy_normalattack1%[-] tỉ lệ Tê Liệt, duy trì [00ff00]state_palsy_normalattack2/15[-] giây
+1975	【Cao】Hiệu Quả Tê Liệt	Đánh thường gây [00ff00]state_palsy_normalattack1%[-] tỉ lệ Tê Liệt, duy trì [00ff00]state_palsy_normalattack2/15[-] giây
+1976	【Sơ】Hiệu Quả Choáng	Đánh thường gây [00ff00]state_stun_normalattack1%[-] tỉ lệ Gây Choáng, duy trì [00ff00]state_stun_normalattack2/15[-] giây
+1977	【Trung】Hiệu Quả Choáng	Đánh thường gây [00ff00]state_stun_normalattack1%[-] tỉ lệ Gây Choáng, duy trì [00ff00]state_stun_normalattack2/15[-] giây
+1978	【Cao】Hiệu Quả Choáng	Đánh thường gây [00ff00]state_stun_normalattack1%[-] tỉ lệ Gây Choáng, duy trì [00ff00]state_stun_normalattack2/15[-] giây
+1979	【Sơ】Kháng Tất Cả	Tăng [00ff00]all_series_resist_v1[-] điểm kháng tất cả
+1980	【Trung】Kháng Tất Cả	Tăng [00ff00]all_series_resist_v1[-] điểm kháng tất cả
+1981	【Cao】Kháng Tất Cả	Tăng [00ff00]all_series_resist_v1[-] điểm kháng tất cả
+1982	【Sơ】Bỏ Qua Kháng Tất Cả	Tăng [00ff00]ignore_all_resist_v2[-] điểm bỏ qua tính kháng toàn bộ 
+1983	【Trung】Bỏ Qua Kháng Tất Cả	Tăng [00ff00]ignore_all_resist_v2[-] điểm bỏ qua tính kháng toàn bộ 
+1984	【Cao】Bỏ Qua Kháng Tất Cả	Tăng [00ff00]ignore_all_resist_v2[-] điểm bỏ qua tính kháng toàn bộ 
+1985	【Sơ】Phản Kích	[00ff00]userdesc_1071%[-] phản kích mục tiêu gây [00ff00]attack_usebasedamage_p1%[-] tấn công cơ bản
+1988	【Trung】Phản Kích	[00ff00]userdesc_1071%[-] phản kích mục tiêu gây [00ff00]attack_usebasedamage_p1%[-] tấn công cơ bản
+1991	【Cao】Phản Kích	[00ff00]userdesc_1071%[-] phản kích mục tiêu gây [00ff00]attack_usebasedamage_p1%[-] tấn công cơ bản
+1994	【Sơ】Tốc Đánh	Tăng [00ff00]attackspeed_v1[-] điểm tốc đánh
+1995	【Trung】Tốc Đánh	Tăng [00ff00]attackspeed_v1[-] điểm tốc đánh
+1996	【Cao】Tốc Đánh	Tăng [00ff00]attackspeed_v1[-] điểm tốc đánh
+2291	Hàng Long Côn-Trung	Tăng [00ff00]add_usebasedmg_p12%[-] tấn công cơ bản, chuyển hóa [00ff00]add_steallife_p2/100%[-] sát thương gây ra thành hồi sinh lực
+2292	Đại Lực Kim Cang Chỉ-Trung	Tăng [00ff00]add_usebasedmg_p12%[-] tấn công cơ bản, có [00ff00]add_fixed_r2%[-] gây [00ff00]add_fixed_t2/15[-] giây Định Thân
+2293	Kim Cang Phục Ma-Trung	Mỗi lần giảm chờ Kim Cang Phục Ma [00ff00]reduce_cd_time12/15[-] giây; Kim Cang Phục Ma tăng duy trì [00ff00]add_state_time12/15[-] giây
+2295	Thập Nhị Cầm Long Thủ-Trung	Tăng [00ff00]add_usebasedmg_p12%[-] tấn công cơ bản. Có [00ff00]state_forceatk_attack1%[-] gây [00ff00]state_forceatk_attack2/15[-] giây Khiêu Khích kẻ địch. Trong [00ff00]skill_statetime1/15[-] giây giảm [00ff00]physics_potentialdamage_p1%[-] tấn công cơ bản của địch
+2501		Tấn công cơ bản, gây [00ff00]attack_usebasedamage_p1%[-] tấn công cơ bản
+2502		Gây [00ff00]attack_usebasedamage_p1%[-] tấn công cơ bản
+2504		Đồng Hành tăng [00ff00]physics_potentialdamage_p1%[-] tấn công cơ bản
+2505		Gây [00ff00]attack_usebasedamage_p1%[-] tấn công cơ bản
+2508		Tấn công cơ bản, gây [00ff00]attack_usebasedamage_p1%[-] tấn công cơ bản
+2509	Hoành Tảo Thiên Quân	Gây [00ff00]attack_usebasedamage_p1%[-] tấn công cơ bản
+2511		Đồng Hành tăng [00ff00]attackspeed_v1[-] Tốc Đánh
+2512		Gây [00ff00]attack_usebasedamage_p1%[-] tấn công cơ bản
+2513		Tấn công cơ bản, gây [00ff00]attack_usebasedamage_p1%[-] tấn công cơ bản
+2513		Tấn công cơ bản, gây [00ff00]attack_usebasedamage_p1%[-] tấn công cơ bản
+2514		Gây [00ff00]attack_usebasedamage_p1%[-] tấn công cơ bản
+2516	Vạn Tiễn Tề Phát	Gây cho mục tiêu trên đường thẳng [00ff00]attack_usebasedamage_p1%[-] tấn công cơ bản
+2518		Tấn công cơ bản, gây [00ff00]attack_usebasedamage_p1%[-] tấn công cơ bản
+2518		Tấn công cơ bản, gây [00ff00]attack_usebasedamage_p1%[-] tấn công cơ bản
+2519	Kim Xà Kiếm Quyết	Gây [00ff00]attack_usebasedamage_p1%[-] tấn công cơ bản, gây [00ff00]state_stun_attack2/15[-] giây Choáng
+2522		Tăng [00ff00]physics_potentialdamage_p1%[-] tấn công cơ bản và chia sẻ đồng đội xung quanh
+2523		Gây [00ff00]attack_usebasedamage_p1%[-] tấn công cơ bản
+2524		Tấn công cơ bản, gây [00ff00]attack_usebasedamage_p1%[-] tấn công cơ bản
+2525		Gây [00ff00]attack_usebasedamage_p1%[-] tấn công cơ bản, gây [00ff00]state_palsy_attack2/15[-] giây Tê liệt
+2527		Tăng [00ff00]deadlystrike_v1[-] Bạo Kích, [00ff00]deadlystrike_damage_p1%[-] hiệu quả Bạo Kích và chia sẻ đồng đội xung quanh
+2528		Tấn công cơ bản, gây [00ff00]attack_usebasedamage_p1%[-] tấn công cơ bản
+2529		Gây [00ff00]attack_usebasedamage_p1%[-] tấn công cơ bản và giảm [00ff00]all_series_resist_v1[-] Kháng tất cả, duy trì [00ff00]skill_statetime1/15[-] giây 
+2530		Gây [00ff00]attack_usebasedamage_p1%[-] tấn công cơ bản
+2532		Tấn công cơ bản, gây [00ff00]attack_usebasedamage_p1%[-] tấn công cơ bản
+2533		Tăng [00ff00]basic_damage_v1[-] tấn công, tối đa cộng dồn [00ff00]add_mult_proc_sate12[-] tầng, duy trì [00ff00]skill_statetime1/15[-] giây
+2535		Đồng Hành tăng [00ff00]attackrate_v1[-] Chính Xác, [00ff00]deadlystrike_v1[-] Bạo Kích
+2536		Gây [00ff00]attack_usebasedamage_p1%[-] tấn công cơ bản
+2539		Tấn công cơ bản, gây [00ff00]attack_usebasedamage_p1%[-] tấn công cơ bản
+2541		Gây [00ff00]attack_usebasedamage_p1%[-] tấn công cơ bản
+2540	Mãnh Lực	Gây [00ff00]attack_usebasedamage_p1%[-] tấn công cơ bản, phe địch mỗi khi mất 1% sinh lực, sát thương + [00ff00]loselife_dmg_p1/100%[-] 
+2544	Phong Vũ Nhẫn	Gây [00ff00]attack_usebasedamage_p1%[-] tấn công cơ bản
+2545	Phi Sa Bộ Pháp	Khi né tránh tấn công gần, có [00ff00]userdesc_1011%[-] gây [00ff00]attack_usebasedamage_p1%[-] tấn công cơ bản xung quanh, chờ [00ff00]userdesc_1012/15[-] giây
+2547		Gây [00ff00]attack_usebasedamage_p1%[-] tấn công cơ bản
+2549		Gây [00ff00]attack_usebasedamage_p1%[-] tấn công cơ bản
+2551		Gây [00ff00]attack_usebasedamage_p1%[-] tấn công cơ bản
+2552		Tấn công cơ bản, gây [00ff00]attack_usebasedamage_p1%[-] tấn công cơ bản
+2553		Gây [00ff00]attack_usebasedamage_p1%[-] tấn công cơ bản
+2554		Đồng Hành tăng [00ff00]deadlystrike_v1[-] điểm bạo kích, [00ff00]defense_v1[-] điểm né tránh, [00ff00]lifemax_p1%[-] sinh lực cơ bản
+2555		Gây [00ff00]attack_usebasedamage_p1%[-] tấn công cơ bản
+2558		Gây [00ff00]attack_usebasedamage_p1%[-] tấn công cơ bản
+2560		Tấn công cơ bản, gây [00ff00]attack_usebasedamage_p1%[-] tấn công cơ bản
+2561		Cứ cách [00ff00]vitality_recover_life2/15[-] giây, hồi phục [00ff00]Thể chất*vitality_recover_life1%[-] điểm sinh lực, duy trì [00ff00]skill_statetime1/15[-] giây
+2564		Tấn công cơ bản, gây [00ff00]attack_usebasedamage_p1%[-] tấn công cơ bản
+2565		Gây [00ff00]attack_usebasedamage_p1%[-] tấn công cơ bản
+2568		Tấn công cơ bản, gây [00ff00]attack_usebasedamage_p1%[-] tấn công cơ bản
+2569		Mỗi lần gây [00ff00]dotdamage_wood1%[-] tấn công cơ bản và bay lên không trung [00ff00]state_float_attack2/15[-] giây
+2572		Gây [00ff00]attack_usebasedamage_p1%[-] tấn công cơ bản
+2574		Tấn công cơ bản, gây [00ff00]attack_usebasedamage_p1%[-] tấn công cơ bản
+2575		Gây [00ff00]attack_usebasedamage_p1%[-] tấn công cơ bản
+2578		Gây [00ff00]attack_usebasedamage_p1%[-] tấn công cơ bản
+2581		Tấn công cơ bản, gây [00ff00]attack_usebasedamage_p1%[-] tấn công cơ bản
+2582		Gây [00ff00]attack_usebasedamage_p1%[-] tấn công cơ bản
+2587		Gây [00ff00]attack_usebasedamage_p1%[-] tấn công cơ bản
+2591		Gây [00ff00]attack_usebasedamage_p1%[-] tấn công cơ bản
+2593		Tăng [00ff00]lifemax_v1[-] sinh lực 
+2594		Tăng [00ff00]physical_damage_v1[-] tấn công
+2595		Tăng [00ff00]attackrate_v1[-] chính xác, [00ff00]deadlystrike_v1[-] tỉ lệ bạo kích
+2596		Tăng [00ff00]all_series_resist_v1[-] kháng tất cả, [00ff00]defense_v1[-] né tránh
+2597		Tăng [00ff00]all_series_resist_v1[-] kháng tất cả, [00ff00]defense_v1[-] né tránh, [00ff00]attackrate_v1[-] chính xác, [00ff00]deadlystrike_v1[-] tỉ lệ bạo kích
+2598		Tăng [00ff00]lifemax_v1[-] Sinh Lực , [00ff00]physical_damage_v1[-] tấn công
+2603		Tăng [00ff00]lifemax_v1[-] sinh lực 
+2604		Tăng [00ff00]physical_damage_v1[-] tấn công
+2605		Tăng [00ff00]attackrate_v1[-] chính xác, [00ff00]deadlystrike_v1[-] tỉ lệ bạo kích
+2606		Tăng [00ff00]all_series_resist_v1[-] kháng tất cả, [00ff00]defense_v1[-] né tránh
+2607		Tăng [00ff00]all_series_resist_v1[-] kháng tất cả, [00ff00]defense_v1[-] né tránh, [00ff00]attackrate_v1[-] chính xác, [00ff00]deadlystrike_v1[-] tỉ lệ bạo kích
+2608		Tăng [00ff00]lifemax_v1[-] Sinh Lực , [00ff00]physical_damage_v1[-] tấn công
+2609		Tăng [00ff00]physical_damage_v1[-] tấn công, [00ff00]attackrate_v1[-] chính xác, [00ff00]deadlystrike_v1[-] tỉ lệ bạo kích
+2613	Bất Động Như Sơn Trận	Khi cùng ra trận giúp chủ nhân tăng [00ff00]strength_v1[-] sức mạnh, [00ff00]wood_resist_v1[-] kháng Mộc và [00ff00]all_series_resist_v1[-] kháng tất cả
+2614	Ngạo Hàn Bất Diệt Thể	Khi cùng ra trận giúp chủ nhân tăng [00ff00]ignore_all_resist_v2[-] điểm bỏ qua kháng tất cả, [00ff00]fire_resist_v1[-] điểm kháng Hỏa và [00ff00]state_palsy_resisttime1[-] điểm kháng thời gian tê liệt 
+2615	Đạp Tinh Trích Nguyệt Bộ	Khi cùng ra trận giúp chủ nhân tăng [00ff00]strength_v1[-] sức mạnh, [00ff00]earth_resist_v1[-] kháng Thổ và [00ff00]defense_v1[-] né tránh
+2616	Hồng Loan Khiên Ti Thủ	Khi cùng ra trận giúp chủ nhân tăng [00ff00]ignore_all_resist_v2[-] điểm bỏ qua kháng tất cả, [00ff00]metal_resist_v1[-] điểm kháng Kim và [00ff00]state_hurt_resisttime1[-] điểm kháng thời gian bị thương 
+2617	Nhất Xuyên Trấn Hải Quyết	Khi cùng ra trận giúp chủ nhân tăng [00ff00]basic_damage_v1[-] tấn công, [00ff00]water_resist_v1[-] kháng Thủy và [00ff00]defense_v1[-] né tránh
+2618	Thiên Hỏa Lưu Ly Bộ	Khi cùng ra trận giúp chủ nhân tăng [00ff00]deadlystrike_damage_p1%[-] Sát thương bạo kích, [00ff00]energy_v1[-] linh hoạt và [00ff00]attackrate_v1[-] chính xác
+2619	Hỗn Nguyên Kim Cang Thể	Khi cùng ra trận giúp chủ nhân tăng [00ff00]physical_metaldamage_v1[-] sát thương hệ Kim, [00ff00]vitality_v1[-] thể chất và [00ff00]state_zhican_resisttime1[-] điểm kháng thời gian tàn phế
+2620	Lưu Phong Hồi Tuyết Vũ	Khi cùng ra trận giúp chủ nhân tăng [00ff00]physical_waterdamage_v1[-] sát thương hệ Thủy, [00ff00]vitality_v1[-] thể chất và [00ff00]weaken_deadlystrike_v1[-] kháng bạo kích
+2621	Thất Xảo Linh Lung Bộ	Khi cùng ra trận giúp chủ nhân tăng [00ff00]physical_wooddamage_v1[-] điểm sát thương hệ Mộc, [00ff00]dexterity_v1[-] điểm nhanh nhẹn và [00ff00]lifemax_p1%[-] sinh lực cơ bản
+2622	Bàn Sơn Điền Hải Kình	Khi cùng ra trận giúp chủ nhân tăng [00ff00]physical_earthdamage_v1[-] sát thương hệ Thổ, [00ff00]weaken_deadlystrike_damage_p1%[-] miễn sát thương bạo kích và [00ff00]state_slowall_resisttime1[-] kháng thời gian làm chậm
+2623	Thiên La Thiên Cơ Bộ	Khi cùng ra trận giúp chủ nhân tăng [00ff00]deadlystrike_v1[-] tỉ lệ bạo kích, [00ff00]energy_v1[-] linh hoạt và [00ff00]state_stun_resisttime1[-] kháng thời gian choáng
+2624	Bát Hoang Viêm Long Kình	Khi cùng ra trận giúp chủ nhân tăng [00ff00]physical_firedamage_v1[-] sát thương hệ Hỏa, [00ff00]dexterity_v1[-] nhanh nhẹn và [00ff00]ignore_defense_v1[-] bỏ qua né tránh
+2625		Tấn công cơ bản, gây [00ff00]attack_usebasedamage_p1%[-] tấn công cơ bản
+2626		Gây [00ff00]attack_usebasedamage_p1%[-] tấn công cơ bản
+2629		Tấn công cơ bản, gây [00ff00]attack_usebasedamage_p1%[-] tấn công cơ bản
+2630		Mỗi lần gây [00ff00]attack_usebasedamage_p1%[-] tấn công cơ bản
+2629		Tấn công cơ bản, gây [00ff00]attack_usebasedamage_p1%[-] tấn công cơ bản
+2634		Tấn công cơ bản, gây [00ff00]attack_usebasedamage_p1%[-] tấn công cơ bản
+2635	Khốn Long Công	Gây [00ff00]attack_usebasedamage_p1%[-] tấn công cơ bản, gây [00ff00]state_palsy_attack2/15[-] giây Tê liệt
+2637		Tấn công cơ bản, gây [00ff00]attack_usebasedamage_p1%[-] tấn công cơ bản
+2638	Bá Đao	Mỗi lần gây [00ff00]attack_usebasedamage_p1%[-] tấn công cơ bản, gây bị thương trong thời gian ngắn
+2639		Tấn công cơ bản, gây [00ff00]attack_usebasedamage_p1%[-] tấn công cơ bản
+2640		Gây [00ff00]attack_usebasedamage_p1%[-] tấn công cơ bản
+2641		Tấn công cơ bản, gây [00ff00]attack_usebasedamage_p1%[-] tấn công cơ bản
+2642	Băng Tâm Tiên Tử	[00ff00]attack_usebasedamage_p1%[-] tấn công cơ bản, đồng thời Làm Chậm [00ff00]state_slowall_attack2/15[-] giây
+2645		Tấn công cơ bản, gây [00ff00]attack_usebasedamage_p1%[-] tấn công cơ bản
+2646	Bạch Lang Nhập Trận	Xung quanh mỗi có thêm 1 kẻ địch, tự tăng [00ff00]all_series_resist_v1[-] kháng tất cả, [00ff00]defense_v1[-] né tránh, tối đa cộng dồn [00ff00]add_mult_proc_sate12[-] lần
+2648		Tấn công cơ bản, gây [00ff00]attack_usebasedamage_p1%[-] tấn công cơ bản
+2649		Tấn công cơ bản, gây [00ff00]attack_usebasedamage_p1%[-] tấn công cơ bản
+2650		Tấn công cơ bản, gây [00ff00]attack_usebasedamage_p1%[-] tấn công cơ bản
+2651		Tấn công cơ bản, gây [00ff00]attack_usebasedamage_p1%[-] tấn công cơ bản
+2652		Tấn công cơ bản, gây [00ff00]attack_usebasedamage_p1%[-] tấn công cơ bản
+2653		Tấn công cơ bản, gây [00ff00]attack_usebasedamage_p1%[-] tấn công cơ bản
+2655		Gây [00ff00]attack_usebasedamage_p1%[-] tấn công cơ bản
+2657		Gây [00ff00]attack_usebasedamage_p1%[-] tấn công cơ bản
+2660		Gây [00ff00]attack_usebasedamage_p1%[-] tấn công cơ bản
+2662		Gây [00ff00]attack_usebasedamage_p1%[-] tấn công cơ bản
+2663		Mỗi lần gây [00ff00]attack_usebasedamage_p1%[-] tấn công cơ bản
+2664		Gây [00ff00]attack_usebasedamage_p1%[-] tấn công cơ bản
+2665		Tấn công cơ bản, gây [00ff00]attack_usebasedamage_p1%[-] tấn công cơ bản
+2666		Gây [00ff00]attack_usebasedamage_p1%[-] tấn công cơ bản
+2668		Gây [00ff00]attack_usebasedamage_p1%[-] tấn công cơ bản
+2670		Gây [00ff00]attack_usebasedamage_p1%[-] tấn công cơ bản
+2671		Tấn công cơ bản, gây [00ff00]attack_usebasedamage_p1%[-] tấn công cơ bản
+2672	Mãn Giang Hồng	Mỗi lần gây [00ff00]attack_usebasedamage_p1%[-] tấn công cơ bản, tấn công 2 lần. Cứ trúng 1 mục tiêu tăng [00ff00]userdesc_1011[-] điểm kháng tất cả
+2674		Tăng [00ff00]physical_damage_v1[-] Tấn Công, [00ff00]all_series_resist_v1[-] kháng tất cả, [00ff00]defense_v1[-] né tránh
+2677	Phong Sương Toái Ảnh	Mỗi 2 giây có [00ff00]state_slowall_attack1%[-] tỉ lệ gây cho địch trong [00ff00]bán kính 3m[-] [00ff00]state_slowall_attack2/15[-] giây làm chậm
+2684	Diệp Lạc Xuyên Ảnh	Gây [00ff00]attack_usebasedamage_p1%[-] tấn công cơ bản và [00ff00]state_zhican_attack2/15[-] giây tàn phế
+2687		Tấn công cơ bản, gây [00ff00]attack_usebasedamage_p1%[-] tấn công cơ bản
+2688		Gây [00ff00]attack_usebasedamage_p1%[-] tấn công cơ bản, gây [00ff00]state_palsy_attack2/15[-] giây Tê liệt
+2690		Tấn công cơ bản, gây [00ff00]attack_usebasedamage_p1%[-] tấn công cơ bản
+2691		Gây [00ff00]attack_usebasedamage_p1%[-] tấn công cơ bản và [00ff00]state_zhican_attack2/15[-] giây tàn phế
+2692		Gây [00ff00]attack_usebasedamage_p1%[-] tấn công cơ bản
+2693		Tấn công cơ bản, gây [00ff00]attack_usebasedamage_p1%[-] tấn công cơ bản
+2694		Gây [00ff00]attack_usebasedamage_p1%[-] tấn công cơ bản
+2696		Tấn công cơ bản, gây [00ff00]attack_usebasedamage_p1%[-] tấn công cơ bản
+2697		Gây [00ff00]attack_usebasedamage_p1%[-] tấn công cơ bản
+2698		Tấn công cơ bản, gây [00ff00]attack_usebasedamage_p1%[-] tấn công cơ bản
+2801		Tấn công cơ bản, gây [00ff00]attack_usebasedamage_p1%[-] tấn công cơ bản
+2803	Tọa Vọng Vô Ngã	Mỗi 1 điểm Nhanh nhẹn đỡ [00ff00]magicshield1/100[-] sát thương, duy trì [00ff00]magicshield2/15[-] giây
+2813	Thiên Địa Vô Cực	Gây [00ff00]attack_usebasedamage_p1%[-] tấn công cơ bản, kèm [00ff00]state_stun_attack2/15[-] giây choáng
+2819	Huyết Nguyệt Chi Ảnh	Ẩn thân, duy trì [00ff00]userdesc_1041/15[-] giây, khi ẩn thân tăng [00ff00]runspeed_v1[-] di chuyển, đồng thời đánh thường lần kế liên chiêu tăng [00ff00]attackspeed_v1[-] tốc đánh, [00ff00]ignore_defense_v1[-] điểm bỏ qua né tránh, [00ff00]deadlystrike_v1[-] điểm bạo kích
+2829	Nhiếp Hồn Loạn Tâm	Mỗi lần gây [00ff00]attack_usebasedamage_p1%[-] tấn công cơ bản, có [00ff00]state_confuse_attack1%[-] gây [00ff00]state_confuse_attack2/15[-] giây hỗn loạn
+2832		Gây [00ff00]attack_usebasedamage_p1%[-] tấn công cơ bản
+2836		Tấn công cơ bản, gây [00ff00]attack_usebasedamage_p1%[-] tấn công cơ bản
+2837		Gây [00ff00]attack_usebasedamage_p1%[-] tấn công cơ bản
+2841	Nộ Diệm Xung Thiên	Mỗi lần gây [00ff00]attack_usebasedamage_p1%[-] tấn công cơ bản trong phạm vi mục tiêu, tổng cộng 3 lần
+2842		Tấn công cơ bản, gây [00ff00]attack_usebasedamage_p1%[-] tấn công cơ bản
+2843		Tấn công cơ bản, gây [00ff00]attack_usebasedamage_p1%[-] tấn công cơ bản
+2844	Long Tượng Cửu Trùng	Khiến địch giảm [00ff00]defense_v1[-] né tránh, bản thân tăng [00ff00]defense_v1[-] né tránh, duy trì [00ff00]skill_statetime1/15[-] giây
+2848	Tuyết Ánh Hồng Trần	Tăng [00ff00]resist_allseriesstate_rate_v1[-] kháng tỉ lệ thuộc tính, [00ff00]resist_allseriesstate_time_v1[-] kháng thời gian thuộc tính, mỗi [00ff00]recover_life_v2/15[-] giây hồi phục [00ff00]recover_life_v1[-] điểm sinh lực
+2850		Tấn công cơ bản, gây [00ff00]attack_usebasedamage_p1%[-] tấn công cơ bản
+2851		Gây [00ff00]attack_usebasedamage_p1%[-] tấn công cơ bản và [00ff00]state_zhican_attack2/15[-] giây tàn phế
+2853		Tấn công cơ bản, gây [00ff00]attack_usebasedamage_p1%[-] tấn công cơ bản
+2854		Gây [00ff00]attack_usebasedamage_p1%[-] tấn công cơ bản, gây [00ff00]state_stun_attack2/15[-] giây Choáng
+2856		Tấn công cơ bản, gây [00ff00]attack_usebasedamage_p1%[-] tấn công cơ bản
+2857	Quyết Biệt	Khi chiến đấu tăng [00ff00]physics_potentialdamage_p1%[-] tấn công cơ bản. Khi tử vong giúp nhân vật mỗi giây hồi sinh lực bằng [00ff00]Thể chất*userdesc_1021%[-] , duy trì [00ff00]userdesc_1011/15[-] giây
+2859		Tấn công cơ bản, gây [00ff00]attack_usebasedamage_p1%[-] tấn công cơ bản
+2860		Gây [00ff00]attack_usebasedamage_p1%[-] tấn công cơ bản, gây [00ff00]state_stun_attack2/15[-] giây Choáng
+2862		Tấn công cơ bản, gây [00ff00]attack_usebasedamage_p1%[-] tấn công cơ bản
+2863		Gây [00ff00]attack_usebasedamage_p1%[-] tấn công cơ bản
+2865		Tấn công cơ bản, gây [00ff00]attack_usebasedamage_p1%[-] tấn công cơ bản
+2866		Tấn công cơ bản, gây [00ff00]attack_usebasedamage_p1%[-] tấn công cơ bản
+2867	Du Long Kiếm Ý	Đỡ đòn [00ff00]magic_fixshield1[-] điểm sát thương, duy trì [00ff00]magic_fixshield2/15[-] giây. Sau khi phá thuẫn gây choáng [00ff00]state_stun_attack2/15[-] giây cho kẻ địch xung quanh
+2869		Tấn công cơ bản, gây [00ff00]attack_usebasedamage_p1%[-] tấn công cơ bản
+2870		Tấn công cơ bản, gây [00ff00]attack_usebasedamage_p1%[-] tấn công cơ bản
+2871	Trấn Ngục Phá Thiên Kình	Tăng [00ff00]defense_v1[-] điểm né tránh, duy trì [00ff00]userdesc_1011/15[-] giây. Né đánh thường sẽ +[00ff00]physics_potentialdamage_p1%[-] tấn công cơ bản, [00ff00]deadlystrike_v1[-] điểm tỉ lệ bạo kích, tối đa cộng dồn [00ff00]superposemagic1[-] tầng, duy trì [00ff00]userdesc_1021/15[-] giây. Khi Phá Thiên Kình biến mất sẽ gây [00ff00]userdesc_1031%[-] tấn công cơ bản.
+2873		Tấn công cơ bản, gây [00ff00]attack_usebasedamage_p1%[-] tấn công cơ bản
+2875		Tấn công cơ bản, gây [00ff00]attack_usebasedamage_p1%[-] tấn công cơ bản
+2876		Tấn công cơ bản, gây [00ff00]attack_usebasedamage_p1%[-] tấn công cơ bản
+2877		Tấn công cơ bản, gây [00ff00]attack_usebasedamage_p1%[-] tấn công cơ bản
+2878		Gây [00ff00]attack_usebasedamage_p1%[-] tấn công cơ bản
+2879		Gây [00ff00]attack_usebasedamage_p1%[-] tấn công cơ bản
+2880	Ảo Âm Kiếm	Trong Kiếm Trận mỗi nửa giây gây cho mục tiêu [00ff00]attack_usebasedamage_p1%[-] tấn công cơ bản, duy trì 10 giây
+2881		Gây [00ff00]attack_usebasedamage_p1%[-] tấn công cơ bản
+2882	Cửu Khê Di Yên	Mỗi lần gây [00ff00]attack_usebasedamage_p1%[-] tấn công cơ bản
+2884		Tấn công cơ bản, gây [00ff00]attack_usebasedamage_p1%[-] tấn công cơ bản
+2885		Tấn công cơ bản, gây [00ff00]attack_usebasedamage_p1%[-] tấn công cơ bản
+2886	Ki Bán Phù	Khiến địch giảm [00ff00]attackspeed_v1[-] tốc đánh và [00ff00]runspeed_v1[-] di chuyển, duy trì [00ff00]skill_statetime1/15[-] giây
+2888	Phong Tuyết Bộ Pháp	Tăng cho bản thân [00ff00]basic_damage_v1[-] tấn công, [00ff00]runspeed_v1[-] di chuyển, [00ff00]attackspeed_v1[-] tốc đánh, [00ff00]deadlystrike_v1[-] tỉ lệ bạo kích và [00ff00]attackrate_v1[-] chính xác, duy trì [00ff00]skill_statetime1/15[-] giây
+2891		Tấn công cơ bản, gây [00ff00]attack_usebasedamage_p1%[-] tấn công cơ bản
+2892		Tấn công cơ bản, gây [00ff00]attack_usebasedamage_p1%[-] tấn công cơ bản
+2893		Gây [00ff00]attack_usebasedamage_p1%[-] tấn công cơ bản
+2898	Thương Hải Nguyệt Minh	Tăng [00ff00]all_series_resist_v1[-] điểm kháng, giảm [00ff00]attackrate_p1%[-] chính xác địch
+2930	Thận Trọng	Khi Đồng Hành xuất chiến, ưu tiên tấn công mục tiêu gần nhất và +[00ff00]30%[-] kháng tất cả
+2931	Bình Tĩnh	Khi Đồng Hành xuất chiến, ưu tiên tấn công địch gây sát thương cho nhân vật, đồng thời kháng tỉ lệ thuộc tính +[00ff00]45%[-] 
+2932	Hiếu Thắng	Khi Đồng Hành xuất chiến, ưu tiên tấn công người chơi phe địch
+2933	Nghĩa Khí	Khi Đồng Hành xuất chiến, ưu tiên tấn công địch gây sát thương cho nhân vật và +[00ff00] 10%[-] sát thương đối với mục tiêu ưu tiên
+2934	Hộ Chủ	Khi Đồng Hành xuất chiến, ưu tiên tấn công địch gây sát thương cho nhân vật và -[00ff00] 10%[-] tấn công của địch 
+2935	Xảo Trá	Khi Đồng Hành xuất chiến, ưu tiên tấn công mục tiêu sinh lực thấp nhất, +[00ff00]5%[-] tấn công bản thân
+2936	Dũng Cảm	Khi Đồng Hành xuất chiến, ưu tiên tấn công mục tiêu sinh lực thấp nhất và +[00ff00]10%[-] kháng tất cả bản thân
+2937	Thông Minh	Đồng Hành xuất chiến, cùng nhân vật tấn công mục tiêu
+2938	Cẩn Thận	Khi Đồng Hành xuất chiến, khi bị tấn công cận chiến sẽ vừa chạy vừa đánh, tỉ lệ hồi phục +[00ff00]10%[-] 
+2939	Dũng Mãnh	Khi Đồng Hành xuất chiến, sinh lực dưới [00ff00]30% tấn công +[00ff00]45%[-] 
+2940	Bất Khuất	Khi Đồng Hành xuất chiến, sinh lực dưới [00ff00]30%[-] kháng tất cả +[00ff00]75%[-] 
+2941	Oai Phong	Khi Đồng Hành xuất chiến, trong phạm vi tầm nhìn, địch có lực chiến thấp hơn nhân vật sẽ -[00ff00]10%[-] tấn công
+2942	Dịu Dàng	Khi Đồng Hành xuất chiến, tăng kháng bạo kích [00ff00]400[-] điểm
+2943	Cuồng Bạo	Khi Đồng Hành xuất chiến, ưu tiên tấn công mục tiêu sinh lực dưới [00ff00]30%[-], khi sinh lực dưới [00ff00]30%[-] tấn công +[00ff00]30%[-] 
+3202	Sơn Băng Địa Liệt	Gây sát thương xung quanh bản thân [00ff00]attack_usebasedamage_p1%[-] tấn công cơ bản, kèm [00ff00]state_hurt_attack2/15[-] giây bị thương
+3205	Thất Thám Xà Bàn	Mỗi lần gây [00ff00]attack_usebasedamage_p1%[-] tấn công cơ bản
+3209	Xạ Thạch Hổ	Gây [00ff00]attack_usebasedamage_p1%[-] tấn công cơ bản cho mục tiêu, kèm [00ff00]state_palsy_attack2/15[-] giây hiệu quả tê liệt
+3213	Bổ Nhào	Gây cho 1 mục tiêu bạo kích bằng [00ff00]attack_usebasedamage_p1%[-] tấn công cơ bản
+3216	Kích Nộ	Tăng [00ff00]attackspeed_v1[-] tốc đánh và [00ff00]attackrate_v1[-] chính xác, duy trì [00ff00]skill_statetime1/15[-] giây
+3219	Độc Dịch	Mỗi lần gây [00ff00]attack_usebasedamage_p1%[-] tấn công cơ bản, gồm 6 lần
+3225	Hộ Giá	Mỗi lần chạm đất và tấn công đều gây [00ff00]attack_usebasedamage_p1%[-] tấn công cơ bản
+3232	Thanh Long Phân Hải Trảo	Tăng [00ff00]basic_damage_v1[-] tấn công, [00ff00]ignore_defense_v1[-] bỏ qua né tránh và [00ff00]deadlystrike_v1[-] tỉ lệ bạo kích
+3233	Huyền Võ Đại Hoang Chung	Tăng [00ff00]lifemax_v1[-] sinh lực tối đa, [00ff00]defense_v1[-] né tránh và [00ff00]resist_allseriesstate_time_v1[-] kháng thời gian thuộc tính
+3235	Kim Thi	Gây [00ff00]attack_usebasedamage_p1%[-] tấn công cơ bản kèm [00ff00]state_hurt_attack2/15[-] giây bị thương
+3238	Mật Lâm Đấu Phồn Tinh	Gây [00ff00]attack_usebasedamage_p1%[-] tấn công cơ bản kèm [00ff00]state_zhican_attack2/15[-] giây tàn phế
+3241	Nghịch Lưu	Gây [00ff00]attack_usebasedamage_p1%[-] tấn công cơ bản kèm [00ff00]state_slowall_attack2/15[-] giây làm chậm
+3244	Tam Muội Li Hỏa Ngục	Gây [00ff00]attack_usebasedamage_p1%[-] tấn công cơ bản cho mục tiêu, kèm [00ff00]state_palsy_attack2/15[-] giây hiệu quả tê liệt
+3247	Bát Phương Tinh Lôi Đỗng	Gây [00ff00]attack_usebasedamage_p1%[-] tấn công cơ bản kèm [00ff00]state_stun_attack2/15[-] giây choáng
+3250	Quần Thể Kim Cang-Cao	[00ff00]userdesc_1011/15[-] giây miễn dịch sát thương. Cách [00ff00]vitality_recover_life2/15[-] giây hồi [00ff00]Thể chất*vitality_recover_life1%[-] sinh lực, duy trì [00ff00]userdesc_1021/15[-] giây
+3252	Quần Thể Minh Vương-Cao	Trong [00ff00]skill_statetime1/15[-] giây miễn dịch thuộc tính, hiệu quả bất lợi và tăng [00ff00]defense_v1[-] né tránh
+3254	Luân Hồi Vãng Sinh	Khi trọng thương có [00ff00]userdesc_1071%[-] hồi phục [00ff00]userdesc_1072%[-] sinh lực, giải trừ thuộc tính, hiệu quả bất lợi, tăng [00ff00]basic_damage_v1[-] tấn công, duy trì [00ff00]userdesc_1081/15[-] giây
+3257	Phá Thiên Nhất Kích	Khiến mục tiêu giảm [00ff00]dotdamage_maxlife_p1%[-] sinh lực, tối đa không được vượt quá [00ff00]dotdamage_maxlife_p3[-] sinh lực, gây đánh lui, định thân [00ff00]state_fixed_attack2/15[-] giây
+3259	Thập Phương Câu Tĩnh	Có [00ff00]rand_ignoreskill1%[-] xóa [00ff00]rand_ignoreskill2[-] hiệu quả tăng ích
+3261	Quần Thể Độc Chướng-Cao	Gây trúng độc, giảm [00ff00]shield_attrib1[-]% hộ thuẫn ngăn sát thương và giảm [00ff00]all_series_resist_v1[-] kháng tất cả, duy trì [00ff00]skill_statetime1/15[-] giây
+3266	Phù Đồ Lưu Kim Thể	Khi cùng ra trận giúp chủ nhân tăng [00ff00]reduce_final_damage_p1[-]% triệt tiêu sát thương cuối, [00ff00]all_series_resist_p1%[-] kháng tất cả cơ bản và [00ff00]resist_allseriesstate_time_v1[-] điểm thời gian kháng thuộc tính của nhân vật.
+3267	Sâm La Vạn Tượng Bộ	Khi cùng ra trận giúp chủ nhân tăng [00ff00]enhance_final_damage_p1[-]% sát thương cuối, [00ff00]defense_p1[-]% né tránh cơ bản và [00ff00]add_seriesstate_rate_v1[-] tỉ lệ hiệu quả thuộc tính
+3268	Luân Hải Vô Nhai Quyết	Khi cùng ra trận giúp chủ nhân tăng [00ff00]enhance_final_damage_p1[-]% sát thương cuối, [00ff00]lifecurmax_p1[-]% sinh lực hiện tại và [00ff00]weaken_deadlystrike_damage_p1[-]% miễn sát thương bạo kích
+3269	Tu La Phần Ngục Kình	Khi cùng ra trận giúp chủ nhân tăng [00ff00]enhance_final_damage_p1[-]% sát thương cuối, [00ff00]deadlystrike_p1[-]% tỉ lệ bạo kích cơ bản và [00ff00]ignore_all_resist_v2[-] bỏ qua kháng tất cả
+3270	Chí Tôn Tù Thiên Thủ	Khi cùng ra trận giúp chủ nhân tăng [00ff00]enhance_final_damage_p1[-]% sát thương cuối, [00ff00]basic_damage_v1[-] tấn công và [00ff00]ignore_defense_v1[-] bỏ qua né tránh
+3278	Cửu Cung Phi Tinh	Mỗi ám khí gây [00ff00]attack_usebasedamage_p1%[-] tấn công cơ bản, có [00ff00]state_zhican_attack1%[-] kèm [00ff00]state_zhican_attack2/15[-] giây hiệu quả tàn phế
+3283	Phong Quyển Sa	Mỗi lần gây [00ff00]attack_usebasedamage_p1%[-] tấn công cơ bản, gồm 6 lần
+3289	Âm Phong Thực Cốt	Mỗi lần độc công gây [00ff00]dotdamage_wood1%[-] tấn công cơ bản, tổng [00ff00]userdesc_1091[-] lần
+3292	Hàng Long Hữu Hối	Mỗi con rồng gây [00ff00]attack_usebasedamage_p1%[-] tấn công cơ bản cho mục tiêu
+3295	Bạo Vũ Lê Hoa	Mỗi phi tiêu gây [00ff00]attack_usebasedamage_p1%[-] tấn công cơ bản cho mục tiêu
+3445	Huyết Chiến Bát Phương-Cao	Tăng [00ff00]add_usebasedmg_p12%[-] tấn công cơ bản, có [00ff00]add_hurt_r2%[-] gây [00ff00]add_hurt_t2/15[-] giây Bị Thương. Khi thi triển kỹ năng tăng [00ff00]remote_dmg_p1%[-] kháng sát thương tầm xa
+3447	Bá Vương Nộ Hống-Cao	Tăng [00ff00]melee_dmg_p1%[-] kháng sát thương tầm xa và cận chiến, duy trì [00ff00]skill_statetime1/15[-] giây, tối đa cộng dồn [00ff00]superposemagic1[-] tầng. Tăng [00ff00]add_usebasedmg_p12[-]% tấn công cơ bản và [00ff00]add_hurt_t2/15[-] giây Bị Thương. Mỗi lần thời gian giảm [00ff00]reduce_cd_time12/15[-] giây
+3449	Kim Chung Tráo-Cao	Hồi phục [00ff00]dir_recover_life_pp1/100%[-] sinh lực tối đa; Giảm chờ [00ff00]deccdtime2/15[-] giây, thời gian duy trì tăng [00ff00]add_state_time12/15[-] giây; tăng thêm [00ff00]all_series_resist_p1%[-] kháng tất cả cơ bản và [00ff00]lifereplenish_p1%[-] hiệu suất hồi sinh lực
+3451	Nhất Kích Sát Thần-Cao	Tăng [00ff00]deadlystrike_p1%[-] tỉ lệ bạo kích cơ bản, duy trì [00ff00]skill_statetime1/15[-] giây. Tăng [00ff00]add_usebasedmg_p12%[-] tấn công cơ bản. Chuyển hóa [00ff00]add_steallife_p2/100%[-] sát thương gây ra thành hồi sinh lực
+3453	Hàng Long Côn-Cao	Tăng [00ff00]add_usebasedmg_p12%[-] tấn công cơ bản, chuyển hóa [00ff00]add_steallife_p2/100%[-] sát thương gây ra thành hồi sinh lực. Tăng [00ff00]add_hurt_r2%[-] gây Bị Thương và [00ff00]add_hurt_t2/15[-] giây Bị Thương
+3455	Đại Lực Kim Cang Chỉ-Cao	Tấn công cơ bản tăng [00ff00]add_usebasedmg_p12%[-], tỉ lệ bạo kích cuối tăng [00ff00]add_deadlystrike_p12%[-]; [00ff00]add_fixed_r2%[-] tỉ lệ gây [00ff00]add_fixed_t2/15[-] giây định thân
+3457	Kim Cang Phục Ma-Cao	Mỗi lần giảm chờ Kim Cang Phục Ma [00ff00]reduce_cd_time12/15[-] giây; Kim Cang Phục Ma tăng duy trì [00ff00]add_state_time12/15[-] giây; Tăng [00ff00]addms_hittotal_c12[-] mục tiêu có thể tấn công của Đại Lực Kim Cang Chỉ
+3459	Thập Nhị Cầm Long Thủ-Cao	Tăng [00ff00]add_usebasedmg_p12%[-] tấn công cơ bản. Có [00ff00]state_forceatk_attack1%[-] gây [00ff00]state_forceatk_attack2/15[-] giây Khiêu Khích kẻ địch. Trong [00ff00]skill_statetime1/15[-] giây giảm [00ff00]physics_potentialdamage_p1%[-] tấn công cơ bản của địch. Đánh trúng mục tiêu giảm [00ff00]reduce_cd_time12/15[-] giây thời gian chờ
+3801	Băng Thanh Ngọc Nhuận	Tăng [00ff00]lifecurmax_p1%[-] sinh lực hiện tại, cách [00ff00]userdesc_1011/15[-] giây xóa thời gian chờ tất cả kỹ năng
+3803	Mục Như Thanh Phong	Tăng [00ff00]enhance_final_damage_p1[-]% sát thương cuối, mỗi [00ff00]ignoreattackontime1/15[-] giây bỏ qua tấn công [00ff00]ignoreattackontime2/15[-] giây
+3804	Nghịch Thủy Hành Châu	Tăng [00ff00]enhance_final_damage_p1[-]% sát thương cuối, mỗi [00ff00]userdesc_1011/15[-] giây giải trừ và miễn dịch thuộc tính, hiệu quả bất lợi, duy trì [00ff00]skill_statetime1/15[-] giây
+3806	Thiên Địa Quy Tâm	Tăng [00ff00]enhance_final_damage_p1[-]% sát thương cuối, [00ff00]attackrate_p1%[-] chính xác cơ bản, [00ff00]deadlystrike_p1%[-] tỉ lệ bạo kích cơ bản, [00ff00]defense_p1%[-] né tránh cơ bản và [00ff00]all_series_resist_p1%[-] kháng tất cả cơ bản
+3807	Đồng Phu Thiết Cốt	Tăng [00ff00]lifecurmax_p1%[-] sinh lực hiện tại và [00ff00]reduce_final_damage_p1[-]% triệt tiêu sát thương cuối
+3902	Hồng Môn Yến	Gây [00ff00]attack_usebasedamage_p1%[-] tấn công cơ bản, kèm [00ff00]state_palsy_attack2/15[-] giây hiệu quả tê liệt cho mục tiêu
+3906	Hàng Băng Thích	Mỗi gai nhọn gây [00ff00]attack_usebasedamage_p1%[-] tấn công cơ bản cho mục tiêu
+3909	Hạt Hoàng Cổ	Mỗi lần độc công gây [00ff00]dotdamage_wood1%[-] tấn công cơ bản đồng thời có [00ff00]state_zhican_attack1%[-] tỉ lệ gây [00ff00]state_zhican_attack2/15[-] giây tàn phế, tổng [00ff00]userdesc_1091[-] lần
+3914	Ngục Hỏa Thiên Diệm	Mỗi lần gây [00ff00]attack_usebasedamage_p1%[-] tấn công cơ bản cho mục tiêu, tổng 3 lần
+3918	Thanh Sơn Ngã Ý	Mỗi Hỏa Cầu gây [00ff00]attack_usebasedamage_p1%[-] tấn công cơ bản
+3921	Sức Mạnh Nữ Đế	Tăng [00ff00]physics_potentialdamage_p1%[-] tấn công cơ bản, [00ff00]all_series_resist_p1%[-] kháng tất cả cơ bản và [00ff00]attackspeed_v1[-] điểm tốc đánh, duy trì [00ff00]skill_statetime1/15[-] giây; khi bị tấn công có [00ff00]userdesc_1011%[-] tỉ lệ khiến kẻ tấn công đóng băng trong [00ff00]state_freeze_attack2/15[-] giây, giãn cách kích hoạt [00ff00]userdesc_1021/15[-] giây
+3924	Phi Yến Lăng Ba	Gây [00ff00]attack_usebasedamage_p1%[-] tấn công cơ bản
+3925	Ngân Bình Ngọc Toái	Gây [00ff00]attack_usebasedamage_p1%[-] tấn công cơ bản
+3928	Hợp Tung Liên Hoành	Gây [00ff00]attack_usebasedamage_p1%[-] sát thương cơ bản cho mục tiêu, giảm [00ff00]reduce_final_damage_p1[-]% triệt tiêu sát thương cuối, duy trì [00ff00]skill_statetime1/15[-] giây
+3932	Âm Dương Quyết	Tăng [00ff00]physics_potentialdamage_p1%[-] tấn công cơ bản và [00ff00]steallife_p1%[-] hút sinh lực, duy trì [00ff00]skill_statetime1/15[-] giây
+3933	Phù Đồ Lưu Kim Thể	Khi cùng ra trận giúp chủ nhân tăng [00ff00]reduce_final_damage_p1[-]% triệt tiêu sát thương cuối, [00ff00]enhance_final_damage_p1[-]% sát thương cuối, [00ff00]all_series_resist_p1%[-] kháng tất cả cơ bản và [00ff00]resist_allseriesstate_time_v1[-] điểm thời gian kháng thuộc tính của nhân vật.
+3934	Sâm La Vạn Tượng Bộ	Khi cùng ra trận giúp chủ nhân tăng [00ff00]enhance_final_damage_p1[-]% sát thương cuối, [00ff00]reduce_final_damage_p1[-]% triệt tiêu sát thương cuối, [00ff00]defense_p1[-]% né tránh cơ bản và [00ff00]add_seriesstate_rate_v1[-] tỉ lệ hiệu quả thuộc tính
+3935	Luân Hải Vô Nhai Quyết	Khi cùng ra trận giúp chủ nhân tăng [00ff00]enhance_final_damage_p1[-]% sát thương cuối, [00ff00]reduce_final_damage_p1[-]% triệt tiêu sát thương cuối, [00ff00]lifecurmax_p1[-]% sinh lực hiện tại và [00ff00]weaken_deadlystrike_damage_p1[-]% miễn sát thương bạo kích
+3936	Tu La Phần Ngục Kình	Khi cùng ra trận giúp chủ nhân tăng [00ff00]enhance_final_damage_p1[-]% sát thương cuối, [00ff00]reduce_final_damage_p1[-]% triệt tiêu sát thương cuối, [00ff00]deadlystrike_p1[-]% tỉ lệ bạo kích cơ bản và [00ff00]ignore_all_resist_v2[-] bỏ qua kháng tất cả
+3937	Chí Tôn Tù Thiên Thủ	Khi cùng ra trận giúp chủ nhân tăng [00ff00]enhance_final_damage_p1[-]% sát thương cuối, [00ff00]reduce_final_damage_p1[-]% triệt tiêu sát thương cuối, [00ff00]basic_damage_v1[-] tấn công và [00ff00]ignore_defense_vp1%[-] bỏ qua né tránh cơ bản
+4001	Đường Môn Ám Khí	Gây [00ff00]attack_usebasedamage_p1%[-] tấn công cơ bản + [00ff00]attack_wooddamage_v1[-] sát thương hệ Mộc
+4006	Triền Thân Thích	Gây [00ff00]attack_usebasedamage_p1%[-] tấn công cơ bản + [00ff00]attack_wooddamage_v1[-] sát thương hệ Mộc, có [00ff00]state_zhican_attack1%[-] kèm [00ff00]state_zhican_attack2/15[-] giây Tàn Phế và Định Thân. Cùng lúc được đặt tối đa [00ff00]skill_maxmissile1[-] bẫy, tích lũy sử dụng [00ff00]skill_point1/100[-] lần
+4008	Bạo Vũ Lê Hoa	Gây [00ff00]attack_usebasedamage_p1%[-] tấn công cơ bản + [00ff00]attack_wooddamage_v1[-] điểm Sát thương hệ Mộc. Số lần dùng tối đa tích lũy [00ff00]skill_point1/100[-] lần
+4010	Mê Ảnh Tung	Di chuyển nhanh về phía mục tiêu, cấp kỹ năng càng cao thời gian chờ càng ngắn; Hàm Sa Xạ Ảnh gây [00ff00]attack_usebasedamage_p1%[-] tấn công cơ bản + [00ff00]attack_wooddamage_v1[-] điểm Sát thương hệ Mộc
+4011	Tâm Phách	Tăng vĩnh viễn [00ff00]miss_remote_rate1/100[-]% tỉ lệ né tránh tấn công tầm xa và [00ff00]state_stun_resistrate1[-] kháng tỉ lệ Choáng
+4012	Cửu Cung Phi Tinh	Mỗi phi tiêu gây [00ff00]attack_usebasedamage_p1%[-] tấn công cơ bản + [00ff00]attack_wooddamage_v1[-] sát thương hệ Mộc, có [00ff00]state_zhican_attack1%[-] kèm [00ff00]state_zhican_attack2/15[-] giây Tàn Phế
+4015	Tôi Độc Thuật	Bản thân tăng [00ff00]physics_potentialdamage_p1%[-] tấn công cơ bản và [00ff00]deadlystrike_damage_p1%[-] sát thương bạo kích. Đồng đội tăng [00ff00]userdesc_1021%[-] sát thương bạo kích
+4017	Ám Khí-Cao	[Đường Môn Ám Khí] tăng [00ff00]attack_usebasedamage_p1%[-] tấn công cơ bản + [00ff00]attack_wooddamage_v1[-] sát thương hệ Mộc
+4019	Tâm Nhãn	Tăng [00ff00]melee_dmg_p1%[-] kháng sát thương tầm xa và cận chiến, cộng dồn tối đa [00ff00]superposemagic1[-] lần, duy trì [00ff00]skill_statetime1/15[-] giây
+4024	Tâm Ma	Vĩnh viễn tăng [00ff00]physics_potentialdamage_p1%[-] tấn công cơ bản, [00ff00]lifemax_p1%[-] sinh lực cơ bản, [00ff00]all_series_resist_p1%[-] kháng tất cả cơ bản, [00ff00]attackspeed_v1[-] điểm tốc đánh, [00ff00]state_zhican_attackrate1[-] điểm tỉ lệ tàn phế và [00ff00]state_stun_resisttime1[-] điểm thời gian kháng choáng
+4027	Di Hình Hoán Ảnh	Có [00ff00]userdesc_1011%[-] tỉ lệ kích hoạt , xóa thời gian chờ [Mê Ảnh Tung], giảm chờ [Triền Thân Thích] [00ff00]reduce_cd_time22/15[-] giây, giảm [Bạo Vũ Lê Hoa] [00ff00]reduce_cd_time32/15[-] giây, giảm [Cửu Cung Phi Tinh] [00ff00]reduce_cd_time42/15[-] giây, giãn cách thi triển [00ff00]userdesc_1021/15[-] giây
+4037	Triền Thân Thích-Sơ	Giãn cách [00ff00]userdesc_1011/15[-] giây
+4038	Bạo Vũ Lê Hoa-Sơ	Tăng [00ff00]add_usebasedmg_p12%[-] tấn công cơ bản
+4039	Mê Ảnh Tung-Sơ	Tăng vĩnh viễn [00ff00]userdesc_1011%[-] né tránh cơ bản
+4041	Cửu Cung Phi Tinh-Sơ	Cách xa mỗi 1m sát thương tăng [00ff00]add_adddmgbydist2/10%[-], tối đa tăng [00ff00]50%[-]
+4042	Triền Thân Thích-Trung	Giãn cách [00ff00]userdesc_1011/15[-] giây. Được đặt tối đa thêm [00ff00]add_skill_max_ms12[-] bẫy, tăng [00ff00]add_zhican_t2/15[-] giây thời gian duy trì Tàn Phế và Định Thân
+4043	Bạo Vũ Lê Hoa-Trung	Tăng [00ff00]add_usebasedmg_p12%[-] tấn công cơ bản, [00ff00]add_att_speed12[-] tốc đánh, tích lũy sử dụng tăng [00ff00]add_skill_point12/100[-] lần, giảm chờ [00ff00]deccdtime2/15[-] giây
+4044	Mê Ảnh Tung-Trung	Tăng vĩnh viễn [00ff00]userdesc_1011%[-] né tránh cơ bản. Có [00ff00]userdesc_1021%[-] nhận hiệu quả tăng ích: Tăng [00ff00]defense_p1%[-] né tránh cơ bản, miễn dịch bất lợi và hiệu quả Choáng, duy trì [00ff00]skill_statetime1/15[-] giây
+4047	Cửu Cung Phi Tinh-Trung	Giảm chờ [00ff00]deccdtime2/15[-] giây. Cách xa mỗi 1m sát thương tăng [00ff00]add_adddmgbydist2/10%[-], tối đa tăng [00ff00]50%[-]
+4052	Triền Thân Thích-Cao	Giãn cách [00ff00]userdesc_1011/15[-] giây. Được đặt tối đa thêm [00ff00]add_skill_max_ms12[-] bẫy, tăng [00ff00]add_zhican_t2/15[-] giây thời gian duy trì Tàn Phế và Định Thân. Có [00ff00]rand_ignoreskill1%[-] xóa [00ff00]rand_ignoreskill2[-] hiệu quả tăng ích
+4054	Bạo Vũ Lê Hoa-Cao	Tăng [00ff00]add_usebasedmg_p12%[-] tấn công cơ bản và [00ff00]add_deadlydmg_p12%[-] sát thương bạo kích. Tăng [00ff00]add_att_speed12[-] tốc đánh, số lần sử dụng tối đa tăng [00ff00]add_skill_point12/100[-] lần, giảm chờ [00ff00]deccdtime2/15[-] giây
+4056	Mê Ảnh Tung-Cao	Tăng vĩnh viễn [00ff00]userdesc_1011%[-] né tránh cơ bản. Có [00ff00]userdesc_1021%[-] nhận hiệu quả tăng ích: Tăng [00ff00]defense_p1%[-] né tránh cơ bản, miễn dịch bất lợi và hiệu quả Choáng, duy trì [00ff00]skill_statetime1/15[-] giây. Có [00ff00]userdesc_1031%[-] tỉ lệ kích hoạt
+4059	Cửu Cung Phi Tinh-Cao	Tăng [00ff00]add_usebasedmg_p12%[-] tấn công cơ bản. Giảm chờ [00ff00]deccdtime2/15[-] giây. Cách xa mỗi 1m sát thương tăng [00ff00]add_adddmgbydist2/10%[-], tối đa tăng [00ff00]50%[-]
+4060	Truy Tinh Trục Điện	Có [00ff00]userdesc_1011%[-] gây Định Thân và giảm [00ff00]all_series_resist_p1%[-] kháng tất cả cơ bản, duy trì [00ff00]state_fixed_attack2/15[-] giây. Giãn cách [00ff00]userdesc_1012/15[-] giây
+4101	Côn Lôn Kiếm Pháp	Gây [00ff00]attack_usebasedamage_p1%[-] tấn công cơ bản + [00ff00]attack_earthdamage_v1[-] sát thương hệ Thổ
+4106	Tiên Nhân Chỉ Lộ	Gây [00ff00]attack_usebasedamage_p1%[-] tấn công cơ bản + [00ff00]attack_earthdamage_v1[-] sát thương hệ Thổ, kèm [00ff00]state_stun_attack2/15[-] giây Choáng và [00ff00]state_fixed_attack2/15[-] giây Định Thân, tích lũy sử dụng [00ff00]skill_point1/100[-] lần
+4108	Hỗn Độn Kiếm Trận	Mỗi [00ff00]0.33[-] giây gây [00ff00]attack_usebasedamage_p1%[-] tấn công cơ bản + [00ff00]attack_earthdamage_v1[-] sát thương hệ Thổ, duy trì 8 giây
+4110	Tiếu Phong Tam Liên Kích	Mỗi cơn lốc gây [00ff00]attack_usebasedamage_p1%[-] tấn công cơ bản + [00ff00]attack_earthdamage_v1[-] điểm sát thương hệ Thổ, có [00ff00]state_stun_attack1%[-] kèm [00ff00]state_stun_attack2/15[-] giây Choáng
+4111	Túy Tiên Thác Cốt	Tăng vĩnh viễn [00ff00]physics_potentialdamage_p1%[-] tấn công cơ bản, [00ff00]attackspeed_v1[-] tốc đánh, [00ff00]runspeed_v1[-] di chuyển và [00ff00]state_slowall_resistrate1[-] kháng tỉ lệ Làm Chậm
+4112	Lôi Động Cửu Thiên	Gây [00ff00]attack_usebasedamage_p1%[-] tấn công cơ bản + [00ff00]attack_earthdamage_v1[-] sát thương hệ Thổ, mỗi lần sát thương tăng [00ff00]ms_powerwhencol1[-]%, có [00ff00]state_stun_attack1%[-] kèm [00ff00]state_stun_attack2/15[-] giây Choáng
+4115	Ngự Phong Hành	Khi bị tấn công sẽ có [00ff00]userdesc_1011%[-] tạo thành hộ thuẫn hấp thụ [00ff00]Nhanh nhẹn*magicshield1/100[-] sát thương, duy trì [00ff00]magicshield2/15[-] giây. Mỗi [00ff00]userdesc_1012/15[-] giây bị tấn công sẽ [00ff00]100%[-] tạo thành hộ thuẫn
+4116	Kiếm Pháp-Cao	Tăng vĩnh viễn [00ff00]state_stun_attacktime1[-] thời gian Choáng. [Côn Lôn Kiếm Pháp] tăng  [00ff00]attack_usebasedamage_p1%[-] tấn công cơ bản + [00ff00]attack_earthdamage_v1[-] sát thương hệ Thổ
+4118	Hỗn Nguyên Càn Khôn	Đánh trúng tăng [00ff00]steallife_p1%[-] hút sinh lực, khiến địch giảm [00ff00]lifereplenish_p1%[-] hiệu suất hồi sinh lực, [00ff00]runspeed_p1%[-] di chuyển, tối đa cộng dồn [00ff00]superposemagic1[-] lần, duy trì [00ff00]skill_statetime1/15[-] giây
+4124	Sương Ngạo Côn Lôn	Vĩnh viễn tăng [00ff00]physics_potentialdamage_p1%[-] tấn công cơ bản, [00ff00]lifemax_p1%[-] sinh lực cơ bản, [00ff00]all_series_resist_p1%[-] kháng tất cả cơ bản, [00ff00]attackspeed_v1[-] điểm tốc đánh, [00ff00]state_stun_attackrate1[-] điểm tỉ lệ choáng và [00ff00]state_slowall_resisttime1[-] điểm kháng thời gian làm chậm
+4130	Nhất Khí Tam Thanh	Có [00ff00]userdesc_1011%[-] kích hoạt, hấp thụ tối đa [00ff00]Nhanh nhẹn*magicshield1/100[-] sát thương, cộng dồn tối đa [00ff00]superposemagic1[-] lần, duy trì [00ff00]magicshield2/15[-] giây, hấp thụ sát thương đạt tối đa hiệu sẽ quả biến mất. Giãn cách thi triển [00ff00]userdesc_1021/15[-] giây
+4133	Tiên Nhân Chỉ Lộ-Sơ	Tăng [00ff00]deadlystrike_p1%[-] tỉ lệ bạo kích cơ bản và [00ff00]state_stun_attacktime1[-] thời gian Choáng, duy trì [00ff00]skill_statetime1/15[-] giây
+4135	Tiếu Phong Tam Liên Kích	Chuyển hóa [00ff00]add_steallife_p2/100%[-] sát thương gây ra thành hồi sinh lực. Có [00ff00]state_drag_attack1%[-] kéo kẻ địch lại
+4136	Hỗn Độn Kiếm Trận-Sơ	Thời gian duy trì tăng [00ff00]addms_life12/15[-] giây
+4138	Lôi Động Cửu Thiên-Sơ	Tăng [00ff00]add_usebasedmg_p12%[-] tấn công cơ bản
+4139	Tiên Nhân Chỉ Lộ-Trung	Tăng [00ff00]deadlystrike_p1%[-] tỉ lệ bạo kích cơ bản và [00ff00]state_stun_attacktime1[-] thời gian Choáng, duy trì [00ff00]skill_statetime1/15[-] giây. Tăng [00ff00]add_usebasedmg_p12%[-] tấn công cơ bản, trong [00ff00]2.5[-] giây giải trừ, miễn dịch bất lợi và hiệu quả Làm Chậm, thời gian duy trì được cộng dồn
+4141	Tiếu Phong Tam Liên Kích-Trung	Tăng [00ff00]add_usebasedmg_p12%[-] tấn công cơ bản. Chuyển hóa [00ff00]add_steallife_p2/100%[-] sát thương gây ra thành hồi sinh lực. Có [00ff00]state_drag_attack1%[-] kéo kẻ địch lại 
+4142	Hỗn Độn Kiếm Trận-Trung	Thời gian duy trì tăng [00ff00]addms_life12/15[-] giây. Giảm [00ff00]all_series_resist_p1%[-] kháng tất cả cơ bản 
+4144	Lôi Động Cửu Thiên-Trung	Tăng [00ff00]add_usebasedmg_p12%[-] tấn công cơ bản, giảm chờ [00ff00]deccdtime2/15[-] giây
+4145	Tiên Nhân Chỉ Lộ-Cao	Tăng [00ff00]deadlystrike_p1%[-] tỉ lệ bạo kích cơ bản và [00ff00]state_stun_attacktime1[-] thời gian Choáng, duy trì [00ff00]skill_statetime1/15[-] giây. Tăng [00ff00]add_usebasedmg_p12%[-] tấn công cơ bản, trong [00ff00]2.5[-] giây giải trừ, miễn dịch bất lợi và hiệu quả Làm Chậm, thời gian duy trì được cộng dồn. Tiếu Phong Tam Liên Kích giảm chờ [00ff00]reduce_cd_time12/15[-] giây
+4147	Tiếu Phong Tam Liên Kích-Cao	Tấn công cơ bản tăng [00ff00]add_usebasedmg_p12%[-], [00ff00]add_steallife_p2/100%[-] tạo thành sẽ chuyển hóa thành sinh lực, có [00ff00]state_drag_attack1%[-] tỉ lệ kéo kẻ địch lại, né tránh cơ bản giảm [00ff00]defense_p1%[-], kháng thuộc tính và trạng thái xấu có tỉ lệ giảm [00ff00]resist_allseriesstate_rate_v1[-], duy trì [00ff00]skill_statetime1/15[-] giây
+4149	Hỗn Độn Kiếm Trận-Cao	Thời gian duy trì tăng [00ff00]addms_life12/15[-] giây. Giảm [00ff00]all_series_resist_p1%[-] kháng tất cả cơ bản. Tăng [00ff00]remote_dmg_p1%[-] kháng sát thương tầm xa 
+4151	Lôi Động Cửu Thiên-Cao	Tăng [00ff00]add_usebasedmg_p12%[-] tấn công cơ bản, giảm chờ [00ff00]deccdtime2/15[-] giây. Mỗi lần đánh trúng, giảm chờ [00ff00]reduce_cd_time12/15[-] giây. Giải trừ và miễn dịch thuộc tính trong [00ff00]skill_statetime1/15[-] giây
+4152	Thiên Thanh Địa Trọc	Tăng [00ff00]userdesc_1011[-] tốc đánh và [00ff00]userdesc_1012%[-] tấn công cơ bản. Xung quanh mỗi thêm 1 kẻ địch giảm [00ff00]attackspeed_v1[-] tốc đánh và [00ff00]physics_potentialdamage_p1%[-] tấn công cơ bản, tăng [00ff00]defense_p1%[-] né tránh cơ bản và [00ff00]all_series_resist_p1%[-] kháng cơ bản, tối đa cộng dồn [00ff00]add_mult_proc_sate12[-] lần
+4201	Cái Bang Chưởng Pháp	Gây [00ff00]attack_usebasedamage_p1%[-] tấn công cơ bản + [00ff00]attack_firedamage_v1[-] sát thương hệ Hỏa
+4206	Hàng Long Hữu Hối	Mỗi con rồng gây [00ff00]attack_usebasedamage_p1%[-] tấn công cơ bản + [00ff00]attack_firedamage_v1[-] sát thương hệ Hỏa, kèm [00ff00]state_palsy_attack2/15[-] giây Tê Liệt. Tích lũy sử dụng [00ff00]skill_point1/100[-] lần
+4208	Khốn Long Công	Mỗi tấn công gây [00ff00]attack_usebasedamage_p1%[-] tấn công cơ bản + [00ff00]attack_firedamage_v1[-] sát thương hệ Hỏa, có [00ff00]state_palsy_attack1%[-] kèm [00ff00]state_palsy_attack2/15[-] giây Tê Liệt và Định Thân
+4211	Túy Điệp Cuồng Vũ	Bản thân tăng [00ff00]runspeed_v1[-] di chuyển và [00ff00]defense_p1%[-] né tránh cơ bản, duy trì [00ff00]skill_statetime1/15[-] giây
+4212	Hóa Hiểm Vi Di	Vĩnh viễn tăng [00ff00]lifemax_p1%[-] sinh lực cơ bản, [00ff00]runspeed_v1[-] điểm di chuyển, [00ff00]defense_p1%[-] né tránh cơ bản và [00ff00]state_hurt_resistrate1[-] điểm kháng tỉ lệ bị thương
+4213	Long Chiến Vu Dã	Mỗi tấn công gây [00ff00]attack_usebasedamage_p1%[-] tấn công cơ bản + [00ff00]attack_firedamage_v1[-] sát thương hệ Hỏa, thêm sát thương [00ff00]dotdamage_maxlife_p1%[-] sinh lực, tối đa không vượt quá [00ff00]dotdamage_maxlife_p3[-] sinh lực 
+4218	Bá Vương Tạ Giáp	Xung quanh mỗi thêm 1 kẻ địch, tự tăng [00ff00]ignore_all_resist2%[-] bỏ qua kháng tính cuối, tối đa cộng dồn [00ff00]add_mult_proc_sate12[-] lần
+4220	Chưởng Pháp-Cao	[Cái Bang Chưởng Pháp] tăng [00ff00]attack_usebasedamage_p1%[-] tấn công cơ bản + [00ff00]attack_firedamage_v1[-] sát thương hệ Hỏa và [00ff00]add_att_speed12[-] tốc đánh
+4222	Du Long Quyết	Mỗi lần hồi phục [00ff00]dir_recover_life_pp1/100%[-] sinh lực. Tăng [00ff00]physics_potentialdamage_p1%[-] tấn công cơ bản, tối đa cộng dồn [00ff00]superposemagic1[-] lần, duy trì [00ff00]skill_statetime1/15[-] giây, giãn cách kích hoạt [00ff00]userdesc_1021/15[-] giây
+4225	Kim Thiền Thoát Xác	Có [00ff00]userdesc_1011%[-] xóa hiệu quả thuộc tính, hiệu quả bất lợi và kích hoạt kỹ năng [Túy Điệp Cuồng Vũ], giãn cách thi triển [00ff00]userdesc_1021/15[-] giây
+4228	Thiên Hạ Vô Cẩu	Vĩnh viễn tăng [00ff00]physics_potentialdamage_p1%[-] tấn công cơ bản, [00ff00]lifemax_p1%[-] sinh lực cơ bản, [00ff00]all_series_resist_p1%[-] kháng tất cả cơ bản, [00ff00]attackspeed_v1[-] điểm tốc đánh, [00ff00]state_palsy_attackrate1[-] điểm tỉ lệ tê liệt và [00ff00]state_hurt_resisttime1[-] điểm kháng thời gian bị thương
+4229	Thâu Thiên Hoán Nhật	Có [00ff00]userdesc_1021%[-] đánh cắp [00ff00]stealstate_type2[-] hiệu quả tăng ích, duy trì [00ff00]skill_stealstate_time1/15[-] giây, giãn cách kích hoạt [00ff00]userdesc_1011/15[-] giây
+4238	Hàng Long Hữu Hối	Tăng [00ff00]add_usebasedmg_p12%[-] tấn công cơ bản và [00ff00]add_attackrating_v12[-] chính xác
+4239	Khốn Long Công	Tăng [00ff00]add_fixed_t2/15[-] giây Định Thân
+4240	Túy Điệp Cuồng Vũ	Tăng [00ff00]defense_p1%[-] né tránh cơ bản và [00ff00]runspeed_v1[-] di chuyển
+4242	Long Chiến Vu Dã	Tăng [00ff00]add_usebasedmg_p12%[-] tấn công cơ bản
+4243	Hàng Long Hữu Hối-Trung	Tăng [00ff00]add_usebasedmg_p12%[-] tấn công cơ bản và [00ff00]add_attackrating_v12[-] chính xác. Tăng [00ff00]add_skill_point12/100[-] lần tích lũy sử dụng
+4244	Khốn Long Công-Trung	Tăng [00ff00]add_fixed_t2/15[-] giây Định Thân. Giảm chờ [00ff00]deccdtime2/15[-] giây
+4245	Túy Điệp Cuồng Vũ-Trung	Tăng [00ff00]defense_p1%[-] né tránh cơ bản và [00ff00]runspeed_v1[-] di chuyển. Thời gian duy trì tăng [00ff00]add_state_time12/15[-] giây
+4247	Long Chiến Vu Dã-Trung	Tăng [00ff00]add_usebasedmg_p12%[-] tấn công cơ bản và [00ff00]add_deadlystrike_p12%[-] tỉ lệ bạo kích cuối
+4248	Hàng Long Hữu Hối-Cao	Tăng [00ff00]add_usebasedmg_p12%[-] tấn công cơ bản, [00ff00]add_attackrating_v12[-] chính xác và [00ff00]add_palsy_r2%[-] tỉ lệ Tê Liệt. Tăng [00ff00]add_skill_point12/100[-] lần tích lũy sử dụng
+4249	Khốn Long Công-Cao	Tăng [00ff00]add_fixed_t2/15[-] giây Định Thân. Giảm chờ [00ff00]deccdtime2/15[-] giây. Khiến địch giảm [00ff00]all_series_resist_p1%[-] kháng tất cả, duy trì [00ff00]userdesc_1011/15[-] giây
+4251	Túy Điệp Cuồng Vũ-Cao	Tăng Túy Điệp Cuồng Vũ [00ff00]defense_p1%[-] điểm né tránh cơ bản và [00ff00]runspeed_v1[-] điểm di chuyển, kéo dài thời gian duy trì Túy Điệp Cuồng Vũ [00ff00]add_state_time12/15[-] giây, đồng thời hồi phục [00ff00]dir_recover_life_pp1/100%[-] sinh lực tối đa
+4253	Long Chiến Vu Dã-Cao	Tăng [00ff00]add_usebasedmg_p12%[-] tấn công cơ bản và [00ff00]add_deadlystrike_p12%[-] tỉ lệ bạo kích cuối, có [00ff00]rand_ignoreskill1%[-] tỉ lệ xóa bỏ [00ff00]rand_ignoreskill2[-] lợi ích
+4301	Ngũ Độc Địch Chú	Độc công gây [00ff00]dotdamage_wood1%[-] tấn công cơ bản + [00ff00]dotdamage_wood2[-] sát thương hệ Mộc, tổng cộng [00ff00]userdesc_1091[-] lần
+4309	Âm Phong Thực Cốt	Có [00ff00]state_zhican_attack1%[-] kèm [00ff00]state_zhican_attack2/15[-] giây Tàn Phế. Mỗi độc công gây [00ff00]dotdamage_wood1%[-] tấn công cơ bản + [00ff00]dotdamage_wood2[-] sát thương hệ Mộc, tổng cộng [00ff00]userdesc_1091[-] lần
+4311	Triệu Hồi Độc Trùng	Tấn công Độc Trùng = Tấn công nhân vật x[00ff00]callnpc_damage2%[-]. Linh Xà [00ff00]userdesc_1011%[-] xác suất gây [00ff00]userdesc_1012/15[-] giây Tàn Phế, Bích Thiềm khiến mục tiêu giảm [00ff00]userdesc_1021[-] Kháng Mộc, Xích Hạt giúp nhân vật tăng [00ff00]userdesc_1031%[-] sát thương bạo kích, Phong Ngô khiến mục tiêu giảm [00ff00]userdesc_1041[-] né tránh, Mặc Thù gây [00ff00]userdesc_1051[-] lần độc công
+4312	Triệu hồi Linh Xà	Tấn công Độc Trùng = Tấn công nhân vật x[00ff00]callnpc_damage2%[-]. Linh Xà [00ff00]userdesc_1011%[-] xác suất gây [00ff00]userdesc_1012/15[-] giây Tàn Phế, Bích Thiềm khiến mục tiêu giảm [00ff00]userdesc_1021[-] Kháng Mộc, Xích Hạt giúp nhân vật tăng [00ff00]userdesc_1031%[-] sát thương bạo kích, Phong Ngô khiến mục tiêu giảm [00ff00]userdesc_1041[-] né tránh, Mặc Thù gây [00ff00]userdesc_1051[-] lần độc công
+4314	Triệu hồi Bích Thiềm	Tấn công Độc Trùng = Tấn công nhân vật x[00ff00]callnpc_damage2%[-]. Linh Xà [00ff00]userdesc_1011%[-] xác suất gây [00ff00]userdesc_1012/15[-] giây Tàn Phế, Bích Thiềm khiến mục tiêu giảm [00ff00]userdesc_1021[-] Kháng Mộc, Xích Hạt giúp nhân vật tăng [00ff00]userdesc_1031%[-] sát thương bạo kích, Phong Ngô khiến mục tiêu giảm [00ff00]userdesc_1041[-] né tránh, Mặc Thù gây [00ff00]userdesc_1051[-] lần độc công
+4316	Triệu Hồi Xích Hạt	Tấn công Độc Trùng = Tấn công nhân vật x[00ff00]callnpc_damage2%[-]. Linh Xà [00ff00]userdesc_1011%[-] xác suất gây [00ff00]userdesc_1012/15[-] giây Tàn Phế, Bích Thiềm khiến mục tiêu giảm [00ff00]userdesc_1021[-] Kháng Mộc, Xích Hạt giúp nhân vật tăng [00ff00]userdesc_1031%[-] sát thương bạo kích, Phong Ngô khiến mục tiêu giảm [00ff00]userdesc_1041[-] né tránh, Mặc Thù gây [00ff00]userdesc_1051[-] lần độc công
+4318	Triệu hồi Phong Ngô	Tấn công Độc Trùng = Tấn công nhân vật x[00ff00]callnpc_damage2%[-]. Linh Xà [00ff00]userdesc_1011%[-] xác suất gây [00ff00]userdesc_1012/15[-] giây Tàn Phế, Bích Thiềm khiến mục tiêu giảm [00ff00]userdesc_1021[-] Kháng Mộc, Xích Hạt giúp nhân vật tăng [00ff00]userdesc_1031%[-] sát thương bạo kích, Phong Ngô khiến mục tiêu giảm [00ff00]userdesc_1041[-] né tránh, Mặc Thù gây [00ff00]userdesc_1051[-] lần độc công
+4320	Triệu hồi Mặc Tri	Tấn công Độc Trùng = Tấn công nhân vật x[00ff00]callnpc_damage2%[-]. Linh Xà [00ff00]userdesc_1011%[-] xác suất gây [00ff00]userdesc_1012/15[-] giây Tàn Phế, Bích Thiềm khiến mục tiêu giảm [00ff00]userdesc_1021[-] Kháng Mộc, Xích Hạt giúp nhân vật tăng [00ff00]userdesc_1031%[-] sát thương bạo kích, Phong Ngô khiến mục tiêu giảm [00ff00]userdesc_1041[-] né tránh, Mặc Thù gây [00ff00]userdesc_1051[-] lần độc công
+4334	Mê Tâm Cổ	Mỗi độc công gây [00ff00]dotdamage_wood1%[-] tấn công cơ bản + [00ff00]dotdamage_wood2[-] sát thương hệ Mộc, tổng cộng [00ff00]userdesc_1091[-] lần. Sát thương độc phải chịu tăng [00ff00]recdot_wood_p1%[-], cứ nửa giây có [00ff00]state_zhican_attack1%[-] kèm [00ff00]state_zhican_attack2/15[-] giây Tàn Phế, duy trì [00ff00]skill_statetime1/15[-] giây
+4338	Ngự Độc Thuật	Tăng vĩnh viễn [00ff00]physics_potentialdamage_p1%[-] tấn công cơ bản, [00ff00]add_dotdshield_p2%[-] sát thương Độc Công lên hộ thuẫn và [00ff00]state_stun_resistrate1[-] kháng tỉ lệ Choáng
+4339	Vạn Cổ Thực Tâm	Gây [00ff00]attack_usebasedamage_p1%[-] tấn công cơ bản + [00ff00]attack_wooddamage_v1[-] sát thương hệ Mộc, dùng [00ff00]receive_dot_alldmg1%[-] sát thương dẫn nổ [00ff00]receive_dot_alldmg3%[-] sát thương độc lên kẻ địch, có [00ff00]state_zhican_attack1%[-] kèm [00ff00]state_zhican_attack2/15[-] giây Tàn Phế
+4341	Bách Độc Xuyên Tâm	Bản thân tăng [00ff00]deadlystrike_p1%[-] tỉ lệ bạo kích cơ bản; Gây bạo kích giảm thời gian chờ triệu hồi Độc Trùng [00ff00]reduce_cd_time_point12/15[-] giây, giãn cách [00ff00]userdesc_1011/15[-] giây
+4343	Địch Chú-Cao	[Ngũ Độc Địch Chú] mỗi lần độc công tăng [00ff00]userdesc_1011/10%[-] tấn công cơ bản + [00ff00]userdesc_1012[-] sát thương hệ Mộc
+4345	Vô Hình Cổ	Có [00ff00]userdesc_1011%[-] thi triển, độc công gây [00ff00]dotdamage_wood1%[-] tấn công cơ bản + [00ff00]dotdamage_wood2[-] sát thương hệ Mộc, tổng cộng [00ff00]userdesc_1091[-] lần, giãn cách thi triển [00ff00]userdesc_1021/15[-] giây
+4347	Hồi Hồn Mật Chú	Có [00ff00]userdesc_1011%[-] tỉ lệ kích hoạt, duy trì [00ff00]skill_statetime1/15[-] giây, giãn cách thi triển [00ff00]userdesc_1021/15[-] giây
+4349	Vạn Độc Tâm Pháp	Vĩnh viễn tăng [00ff00]physics_potentialdamage_p1%[-] tấn công cơ bản, [00ff00]lifemax_p1%[-] sinh lực cơ bản, [00ff00]all_series_resist_p1%[-] kháng tất cả cơ bản, [00ff00]attackspeed_v1[-] điểm tốc đánh, [00ff00]state_zhican_attackrate1[-] điểm tỉ lệ tàn phế và [00ff00]state_stun_resisttime1[-] điểm thời gian kháng choáng
+4350	Ngũ Độc Kỳ Kinh	Có [00ff00]userdesc_1011%[-] truyền nhiễm [00ff00]infect_dot_dmg1%[-] sát thương độc cho [00ff00]infect_dot_dmg3[-] người ở gần, giãn cách thi triển [00ff00]userdesc_1021/15[-] giây
+4362	Âm Phong Thực Cốt	Tăng Âm Phong Thực Cốt [00ff00]add_igdefense_p12%[-] bỏ qua né tránh cuố cùng
+4363	Triệu Hồi Độc Trùng	Tăng tấn công Độc Trùng [00ff00]addcall_npcdmg2%[-]
+4364	Mê Tâm Cổ	Tăng [00ff00]add_recdot_type_p2%[-] sát thương mục tiêu phải chịu
+4365	Vạn Cổ Thực Tâm	Độc công tăng [00ff00]add_usebasedmg_p12%[-] tấn công cơ bản
+4366	Âm Phong Thực Cốt-Trung	Tăng Âm Phong Thực Cốt [00ff00]add_igdefense_p12%[-] bỏ qua né tránh cuối và [00ff00]add_dotdamage_wood2%[-] Độc công cơ bản
+4367	Triệu Hồi Độc Trùng-Trung	Tăng tấn công Độc Trùng [00ff00]addcall_npcdmg2%[-], giảm thời gian chờ [00ff00]deccdtime2/15[-] giây
+4368	Mê Tâm Cổ-Trung	Tăng [00ff00]add_recdot_type_p2%[-] sát thương mục tiêu phải chịu. Thời gian duy trì tăng [00ff00]add_state_time12/15[-] giây. Tăng [00ff00]userdesc_1091[-] lần độc công
+4369	Vạn Cổ Thực Tâm-Trung	Độc công tăng [00ff00]add_usebasedmg_p12%[-] tấn công cơ bản và [00ff00]add_recdot_alldmg12%[-] tỉ lệ dẫn nổ độc công
+4370	Âm Phong Thực Cốt-Cao	Tăng Âm Phong Thực Cốt [00ff00]add_igdefense_p12%[-] bỏ qua né tránh cuối và [00ff00]add_dotdamage_wood2%[-] Độc công cơ bản, dùng Âm Phong Thực Cốt có [00ff00]userdesc_1011%[-] tỉ lệ nhận [00ff00]attackspeed_v1[-] điểm tốc đánh, duy trì [00ff00]skill_statetime1/15[-] giây
+4372	Triệu Hồi Độc Trùng-Cao	Tăng tấn công Độc Trùng [00ff00]addcall_npcdmg2%[-], giảm thời gian chờ [00ff00]deccdtime2/15[-] giây; Tăng kỹ năng Linh Xà [00ff00]add_zhican_r2%[-] tỉ lệ tàn phế và [00ff00]add_zhican_t2/15[-] giây thời gian tàn phế, tăng kỹ năng Bích Thiềm khiến địch giảm [00ff00]wood_resist_v1[-] Kháng Mộc, tăng Xích Hạt giúp nhân vật tăng [00ff00]userdesc_1031%[-] sát thương bạo kích, tăng kỹ năng Phong Ngô khiến địch giảm [00ff00]userdesc_1011[-] né tránh, tăng kỹ năng Mặc Thù [00ff00]userdesc_1022%[-] độc công cơ bản
+4380	Mê Tâm Cổ-Cao	Mê Tâm Cổ khiến mục tiêu chịu sát thương Độc công tăng [00ff00]add_recdot_type_p2%[-], kéo dài thời gian duy trì Mê Tâm Cổ [00ff00]add_state_time12/15[-] giây, tăng [00ff00]userdesc_1091[-] lần Độc công, Mê Tâm Cổ khiến thời gian chờ kỹ năng của mục tiêu tăng thêm [00ff00]allfactionskill_cd_point1/15[-] giây
+4382	Vạn Cổ Thực Tâm-Cao	Độc công tăng [00ff00]add_usebasedmg_p12%[-] tấn công cơ bản và [00ff00]add_recdot_alldmg12%[-] tỉ lệ dẫn nổ độc công. Chuyển hóa [00ff00]add_steallife_p2/100%[-] sát thương gây ra thành hồi sinh lực
+4401	Tàng Kiếm Kiếm Pháp	Gây [00ff00]attack_usebasedamage_p1%[-] tấn công cơ bản + [00ff00]attack_metaldamage_v1[-] sát thương hệ Kim
+4406	Đoạn Triều	Gây cho mục tiêu phạm vi chữ nhật phía trước [00ff00]attack_usebasedamage_p1%[-] tấn công cơ bản + [00ff00]attack_metaldamage_v1[-] sát thương hệ Kim, có [00ff00]state_hurt_attack1%[-] gây Bị Thương [00ff00]state_hurt_attack2/15[-] giây, tích lũy sử dụng [00ff00]skill_point1/100[-] lần
+4410	Tâm Kiếm	Tăng [00ff00]physics_potentialdamage_p1%[-] tấn công cơ bản, [00ff00]deadlystrike_p1%[-] tỉ lệ bạo kích cơ bản và [00ff00]damage4npc_p1%[-] sát thương lên quái, duy trì [00ff00]skill_statetime1/15[-] giây
+4408	Ngọc Tuyền Ngư Dược	Gây [00ff00]attack_usebasedamage_p1%[-] tấn công cơ bản + [00ff00]attack_metaldamage_v1[-] sát thương hệ Kim, có [00ff00]state_hurt_attack1%[-] kèm [00ff00]state_hurt_attack2/15[-] giây Bị Thương
+4412	Kinh Đào	Tăng vĩnh viễn [00ff00]physics_potentialdamage_p1%[-] tấn công cơ bản, [00ff00]attackspeed_v1[-] tốc đánh, [00ff00]runspeed_v1[-] di chuyển và [00ff00]state_zhican_resistrate1[-] kháng tỉ lệ tàn phế
+4413	Phong Tháp Vân Cảnh	Mỗi giây gây [00ff00]attack_usebasedamage_p1%[-] tấn công cơ bản + [00ff00]attack_metaldamage_v1[-] sát thương hệ Kim, có [00ff00]state_hurt_attack1%[-] kèm [00ff00]state_hurt_attack2/15[-] giây Bị Thương
+4417	Hạc Quy Cô Sơn	Giảm [00ff00]physics_potentialdamage_p1%[-] tấn công cơ bản, [00ff00]add_dottype_wood_p2%[-] sát thương độc công của địch. Mỗi kẻ địch giúp bản thân tăng [00ff00]userdesc_1011%[-] tấn công cơ bản, tối đa cộng dồn [00ff00]add_mult_proc_sate12[-] lần
+4420	Kiếm Pháp-Cao	[Tàng Kiếm Kiếm Pháp] tăng [00ff00]attack_usebasedamage_p1%[-] tấn công cơ bản + [00ff00]attack_metaldamage_v1[-] điểm sát thương hệ Kim
+4422	Ánh Ba Tỏa Lan	Tăng [00ff00]all_series_resist_p1%[-] kháng tất cả cơ bản. Giải trừ, miễn dịch bất lợi và hiệu quả Tàn Phế, duy trì [00ff00]skill_statetime1/15[-] giây
+4424	Vân Thê Tùng	Có [00ff00]userdesc_1011%[-] tỉ lệ kích hoạt, hồi [00ff00]recover_life_p1%[-] sinh lực tối đa, mỗi lần đánh trúng gây [00ff00]attack_usebasedamage_p1%[-] tấn công cơ bản + [00ff00]attack_metaldamage_v1[-] sát thương hệ Kim, [00ff00]attack_steallife_p1%[-] sát thương hệ Kim chuyển hóa thành hồi sinh lực, giãn cách thi triển [00ff00]userdesc_1021/15[-] giây
+4427	Phong Lai Ngô Sơn	Vĩnh viễn tăng [00ff00]physics_potentialdamage_p1%[-] tấn công cơ bản, [00ff00]lifemax_p1%[-] sinh lực cơ bản, [00ff00]all_series_resist_p1%[-] kháng tất cả cơ bản, [00ff00]attackspeed_v1[-] điểm tốc đánh, [00ff00]state_hurt_attackrate1[-] điểm tỉ lệ bị thương và [00ff00]state_zhican_resisttime1[-] điểm kháng thời gian tàn phế
+4428	Hoàng Long Thổ Thúy	Có [00ff00]userdesc_1011%[-] kích hoạt, gây [00ff00]attack_usebasedamage_p1%[-] tấn công cơ bản + [00ff00]attack_metaldamage_v1[-] sát thương hệ Kim
+4441	Đoạn Triều-Sơ	Tăng [00ff00]add_deadlydmg_p12%[-] sát thương bạo kích
+4442	Tâm Kiếm-Sơ	Giải trừ, miễn dịch bất lợi và hiệu quả Tàn Phế, duy trì [00ff00]skill_statetime1/15[-] giây
+4444	Ngọc Tuyền Ngư Dược-Sơ	Kẻ địch giảm [00ff00]runspeed_v1[-] di chuyển, duy trì [00ff00]skill_statetime1/15[-] giây
+4445	Phong Tháp Vân Cảnh-Sơ	Gây [00ff00]attack_usebasedamage_p1%[-] tấn công cơ bản + [00ff00]attack_metaldamage_v1[-] sát thương hệ Kim. Có [00ff00]state_nojump_attack1%[-] gây [00ff00]state_nojump_attack2/15[-] giây Khóa Chân
+4447	Đoạn Triều-Trung	Tăng [00ff00]add_deadlydmg_p12%[-] sát thương bạo kích. Trong [00ff00]skill_statetime1/15[-] giây Đoạn Triều tăng [00ff00]add_usebasedmg_p12%[-] tấn công cơ bản và có [00ff00]add_fixed_r2%[-] gây [00ff00]add_fixed_t2/15[-] giây Định Thân 
+4448	Tâm Kiếm-Sơ	Tái lập thời gian chờ [00ff00]Ngọc Tuyền Ngư Dược[-], giải trừ và miễn dịch Tàn Phế và hiệu quả bất lợi, duy trì [00ff00]skill_statetime1/15[-] giây; hồi phục [00ff00]dir_recover_life_pp1/100%[-] sinh lực tối đa
+4450	Ngọc Tuyền Ngư Dược-Trung	Kẻ địch giảm [00ff00]runspeed_v1[-] di chuyển, duy trì [00ff00]skill_statetime1/15[-] giây, có [00ff00]userdesc_1011%[-] tỉ lệ đánh trúng kẻ địch 2 lần
+4452	Phong Tháp Vân Cảnh-Trung	Gây [00ff00]attack_usebasedamage_p1%[-] tấn công cơ bản + [00ff00]attack_metaldamage_v1[-] sát thương hệ Kim. Có [00ff00]state_nojump_attack1%[-] gây [00ff00]state_nojump_attack2/15[-] giây Khóa Chân. Giảm chờ [00ff00]deccdtime2/15[-] giây
+4454	Đoạn Triều-Cao	Tăng [00ff00]add_deadlydmg_p12%[-] sát thương bạo kích. Trong [00ff00]skill_statetime1/15[-] giây Đoạn Triều tăng [00ff00]add_usebasedmg_p12%[-] tấn công cơ bản và có [00ff00]add_fixed_r2%[-] gây [00ff00]add_fixed_t2/15[-] giây Định Thân. Có [00ff00]userdesc_1011%[-] không cần chờ
+4455	Tâm Kiếm-Cao	Tái lập thời gian chờ [00ff00]Ngọc Tuyền Ngư Dược[-], giải trừ và miễn dịch Tàn Phế và hiệu quả bất lợi, duy trì [00ff00]skill_statetime1/15[-] giây; hồi phục [00ff00]dir_recover_life_pp1/100%[-] sinh lực tối đa; thời gian chờ còn lại mỗi lần rút ngắn [00ff00]reduce_cd_time12/15[-] giây
+4457	Ngọc Tuyền Ngư Dược-Cao	Kẻ địch giảm [00ff00]runspeed_v1[-] di chuyển, duy trì [00ff00]skill_statetime1/15[-]giây, có [00ff00]userdesc_1011%[-] tỉ lệ đánh trúng kẻ địch 2 lầ, [00ff00]add_steallife_p2/100%[-] sát thương chuyển thành sinh lực
+4460	Phong Tháp Vân Cảnh-Cao	Gây [00ff00]attack_usebasedamage_p1%[-] tấn công cơ bản + [00ff00]attack_metaldamage_v1[-] sát thương hệ Kim. Có [00ff00]state_nojump_attack1%[-] gây [00ff00]state_nojump_attack2/15[-] giây Khóa Chân. Giảm chờ [00ff00]deccdtime2/15[-] giây. Giảm [00ff00]deadlystrike_damage_p1%[-] sát thương bạo kích, duy trì [00ff00]skill_statetime1/15[-] giây, tối đa cộng dồn [00ff00]superposemagic1[-] lần
+4501	Trường Ca Phiến Quyết	Gây [00ff00]attack_usebasedamage_p1%[-] tấn công cơ bản + [00ff00]attack_earthdamage_v1[-] sát thương hệ Thổ
+4506	Bình Sa Nhạn Lạc	Gây [00ff00]attack_usebasedamage_p1%[-] tấn công cơ bản + [00ff00]attack_earthdamage_v1[-] sát thương hệ Thổ
+4508	Vân Sinh Kết Hải	Bản thân tăng [00ff00]physics_potentialdamage_p1%[-] tấn công cơ bản, [00ff00]all_series_resist_p1%[-] kháng tất cả cơ bản, [00ff00]meleedamagereturn_p1%[-] phản đòn cận chiến và [00ff00]rangedamagereturn_p1%[-] phản đòn tầm xa. Đồng đội tăng [00ff00]userdesc_1011%[-] tấn công cơ bản, [00ff00]userdesc_1021%[-] kháng tất cả cơ bản, [00ff00]userdesc_1031%[-] phản đòn cận chiến và [00ff00]userdesc_1041%[-] phản đòn tầm xa. Duy trì [00ff00]skill_statetime1/15[-] giây
+4512	Thanh Âm Trường Khiếu	Mỗi sóng âm gây [00ff00]attack_usebasedamage_p1%[-] tấn công cơ bản + [00ff00]attack_earthdamage_v1[-] sát thương hệ Thổ, có [00ff00]state_hurt_attack1%[-] kèm [00ff00]state_hurt_attack2/15[-] giây Choáng, Bị Thương, Tàn Phế, Làm Chậm hoặc Tê Liệt
+4517	Thiên Âm Tri Mạch	Vĩnh viễn tăng [00ff00]physics_potentialdamage_p1%[-] tấn công cơ bản, [00ff00]lifemax_p1%[-] sinh lực cơ bản và [00ff00]state_slowall_resistrate1[-] điểm kháng tỉ lệ làm chậm
+4518	Giang Trục Nguyệt Thiên	Mỗi nửa giây gây [00ff00]attack_usebasedamage_p1%[-] tấn công cơ bản + [00ff00]attack_earthdamage_v1[-] sát thương hệ Thổ, có [00ff00]state_stun_attack1%[-] kèm [00ff00]state_stun_attack2/15[-] giây Choáng và giảm [00ff00]attackrate_p1%[-] chính xác cơ bản, [00ff00]deadlystrike_p1%[-] bạo kích cơ bản, duy trì [00ff00]skill_statetime1/15[-] giây. Đồng đội tăng [00ff00]physics_potentialdamage_p1%[-] tấn công cơ bản, [00ff00]attackspeed_v1[-] tốc đánh và [00ff00]runspeed_v1[-] di chuyển
+4522	Dạ Dẫn Phong Lam	Mỗi tuần mỗi khi thêm 1 đồng đội, tự động tăng [00ff00]defense_p1%[-] né tránh cơ bản và [00ff00]resist_allseriesstate_time_v1[-] điểm kháng thời gian thuộc tính, tối đa cộng dồn [00ff00]add_mult_proc_sate12[-] lần
+4525	Phiến Quyết-Cao	[Trường Ca Phiến Quyết] tăng [00ff00]attack_usebasedamage_p1%[-] tấn công cơ bản + [00ff00]attack_earthdamage_v1[-] sát thương hệ Thổ
+4527	Ma Âm Triền Nhiễu	Có [00ff00]userdesc_1011%[-] tỉ lệ giảm [00ff00]physics_potentialdamage_p1%[-] tấn công cơ bản, [00ff00]attackrate_p1%[-] chính xác cơ bản, [00ff00]deadlystrike_p1%[-] bạo kích cơ bản và [00ff00]all_series_resist_p1%[-] kháng tất cả cơ bản của kẻ địch, duy trì [00ff00]skill_statetime1/15[-] giây, giãn cách thi triển [00ff00]userdesc_1021/15[-] giây
+4529	Hồi Mộng Trục Quang	Có [00ff00]userdesc_1021%[-] tỉ lệ kích hoạt, gây cho kẻ địch [00ff00]state_hurt_attack2/15[-] giây Bị Thương, Tàn Phế, Làm Chậm, Tê Liệt hoặc Choáng. Cứ [00ff00]recover_life_p2/15[-] giây hồi [00ff00]recover_life_p1%[-] sinh lực bản thân, duy trì [00ff00]userdesc_1011/15[-] giây, giãn cách thi triển [00ff00]userdesc_1031/15[-] giây
+4538	Ngân Chúc Thanh Vận	Vĩnh viễn tăng [00ff00]physics_potentialdamage_p1%[-] tấn công cơ bản, [00ff00]lifemax_p1%[-] sinh lực cơ bản, [00ff00]all_series_resist_p1%[-] kháng tất cả cơ bản, [00ff00]attackspeed_v1[-] điểm tốc đánh, [00ff00]state_stun_attackrate1[-] điểm tỉ lệ choáng và [00ff00]state_slowall_resisttime1[-] điểm kháng thời gian làm chậm
+4539	Dương Xuân Bạch Tuyết	<Trường Ca Phiến Quyết> khiến mục tiêu tạm không thể hồi sinh lực, tỉ lệ kích hoạt [00ff00]userdesc_1021%[-], duy trì [00ff00]skill_statetime1/15[-] giây, giãn cách thi triển [00ff00]userdesc_1011/15[-] giây
+4551	Bình Sa Nhạn Lạc-Sơ	Tăng [00ff00]add_usebasedmg_p12%[-] tấn công cơ bản
+4552	Vân Sinh Kết Hải-Sơ	Hồi [00ff00]recover_life_v1[-] sinh lực mỗi giây
+4554	Thanh Âm Trường Khiếu	Chuyển hóa [00ff00]add_steallife_p2/100%[-] sát thương gây ra thành hồi sinh lực
+4556	Giang Trục Nguyệt Thiên	Tăng [00ff00]add_usebasedmg_p12%[-] tấn công cơ bản
+4557	Bình Sa Nhạn Lạc-Trung	Tăng [00ff00]add_usebasedmg_p12%[-] tấn công cơ bản, có [00ff00]add_stun_r2%[-] gây Choáng [00ff00]add_stun_t2/15[-] giây
+4558	Vân Sinh Kết Hải-Trung	Kéo dài [00ff00]addms_life12/15[-] giây, hồi [00ff00]recover_life_v1[-] sinh lực mỗi giây
+4560	Thanh Âm Trường Khiếu	Sát thương gây ra [00ff00]add_steallife_p2/100%[-] chuyển thành sinh lực hồi phục, tỉ lệ bạo kích cuối tăng [00ff00]add_deadlystrike_p12%[-]
+4562	Giang Trục Nguyệt Thiên	Tăng [00ff00]add_usebasedmg_p12%[-] tấn công cơ bản, giảm chờ [00ff00]deccdtime2/15[-] giây
+4563	Bình Sa Nhạn Lạc-Cao	Tăng [00ff00]add_usebasedmg_p12%[-] tấn công cơ bản, có [00ff00]add_stun_r2%[-] gây Choáng [00ff00]add_stun_t2/15[-] giây. Khiến mục tiêu giảm [00ff00]physics_potentialdamage_p1%[-] tấn công cơ bản, duy trì [00ff00]skill_statetime1/15[-] giây
+4564	Vân Sinh Kết Hải-Cao	Kéo dài [00ff00]addms_life12/15[-] giây, hồi [00ff00]recover_life_v1[-] sinh lực mỗi giây. Kết thúc gây [00ff00]attack_usebasedamage_p1%[-] tấn công cơ bản + [00ff00]attack_earthdamage_v1[-] sát thương hệ Thổ
+4567	Thanh Âm Trường Khiếu	Sát thương gây ra [00ff00]add_steallife_p2/100%[-] chuyển thành sinh lực hồi phục, tỉ lệ bạo kích cuối tăng [00ff00]add_deadlystrike_p12%[-]; khi thi triển [00ff00]rand_ignoreskill1%[-] xóa [00ff00]rand_ignoreskill2[-] Bùa Chú của người chơi phe ta xung quanh
+4569	Giang Trục Nguyệt Thiên	Tăng [00ff00]add_usebasedmg_p12%[-] tấn công cơ bản, giảm chờ [00ff00]deccdtime2/15[-] giây. Gây sát thương có [00ff00]state_drag_attack1%[-] tỉ lệ kéo kẻ địch vào giữa
+4601	Thiên Sơn Cầm Khúc	Gây [00ff00]attack_usebasedamage_p1%[-] tấn công cơ bản + [00ff00]attack_waterdamage_v1[-] sát thương hệ Thủy
+4606	Phi Yến Lăng Ba	Gây [00ff00]attack_usebasedamage_p1%[-] tấn công cơ bản + [00ff00]attack_waterdamage_v1[-] sát thương hệ Thủy, mục tiêu mỗi khi mất 1% sinh lực thì sát thương tăng [00ff00]loselife_dmg_p1/100%[-], có [00ff00]state_slowall_attack1%[-] kèm [00ff00]state_slowall_attack2/15[-] giây Làm Chậm. Tích lũy sử dụng [00ff00]skill_point1/100[-] lần
+4608	Ngân Bình Ngọc Toái	Gây [00ff00]attack_usebasedamage_p1%[-] tấn công cơ bản + [00ff00]attack_waterdamage_v1[-] sát thương hệ Thủy, mục tiêu chịu [00ff00]mult_skill_state3 tầng[-] Bùa Chú, mỗi tầng giảm [00ff00]physics_potentialdamage_p1%[-] tấn công cơ bản, duy trì [00ff00]skill_statetime1/15[-] giây. Đối phương bị tấn công sẽ mất 1 tầng bùa chú
+4611	Không Sơn Ngưng Vân	Bản thân tăng [00ff00]mult_skill_state3 tầng[-] Khí Kình, mỗi tầng tăng [00ff00]physics_potentialdamage_p1%[-] tấn công cơ bản và [00ff00]attackspeed_v1[-] tốc đánh, duy trì [00ff00]skill_statetime1/15[-] giây. Bị tấn công sẽ mất 1 tầng hiệu quả, mỗi [00ff00]2[-] giây tối đa mất 1 tầng
+4612	Song Đạn Như Nhất	Tăng vĩnh viễn [00ff00]physics_potentialdamage_p1%[-] tấn công cơ bản, [00ff00]attackspeed_v1[-] tốc đánh và [00ff00]state_palsy_resistrate1[-] kháng tỉ lệ Tê Liệt
+4613	Thủy Long Ngâm	Gây [00ff00]attack_usebasedamage_p1%[-] tấn công cơ bản + [00ff00]attack_waterdamage_v1[-] sát thương hệ Thủy, có [00ff00]state_slowall_attack1%[-] kèm [00ff00]state_slowall_attack2/15[-] giây Làm Chậm, [00ff00]rand_ignoreskill1%[-] xóa [00ff00]rand_ignoreskill2[-] hiệu quả tăng ích hoặc Khí Kình của địch
+4619	Phượng Thê Ngô Đồng	Mỗi cách [00ff00]userdesc_1011/15[-] giây, ở vị trí bản thân tự động thi triển luồng khí duy trì [00ff00]5[-] giây, mỗi [00ff00]0.66[-] giây hồi phục [00ff00]dir_recover_life_pp1/100%[-] sinh lực tối đa và cộng dồn tăng [00ff00]physics_potentialdamage_p1%[-] tấn công cơ bản, tối đa cộng dồn [00ff00]superposemagic1[-] tầng; mỗi 2 giây tự động mất 1 tầng hiệu quả
+4622	Xuy Vân Kình	[Thiên Sơn Cầm Khúc] tăng [00ff00]attack_usebasedamage_p1%[-] tấn công cơ bản + [00ff00]attack_waterdamage_v1[-] sát thương hệ Thủy
+4624	Thủy Mộ Thiên Hoa	Tăng [00ff00]ignore_defense_p1%[-] bỏ qua né tránh cuối, [00ff00]weaken_deadlystrike_damage_p1%[-] miễn sát thương bạo kích, đồng đội tăng [00ff00]userdesc_1011%[-] miễn sát thương bạo kích
+4626	Nghịch Thủy Hàn	Có [00ff00]userdesc_1011%[-] tỉ lệ kích hoạt, tăng [00ff00]steallife_p1%[-] hút sinh lực, [00ff00]all_series_resist_p1%[-] kháng tất cả cơ bản. Giải trừ, miễn dịch thuộc tính và hiệu quả bất lợi, duy trì [00ff00]skill_statetime1/15[-] giây. Giãn cách kích hoạt [00ff00]userdesc_1021/15[-] giây
+4629	Kiếm Đảm Cầm Tâm	Vĩnh viễn tăng [00ff00]physics_potentialdamage_p1%[-] tấn công cơ bản, [00ff00]lifemax_p1%[-] sinh lực cơ bản, [00ff00]all_series_resist_p1%[-] kháng tất cả cơ bản, [00ff00]attackspeed_v1[-] điểm tốc đánh, [00ff00]state_slowall_attackrate1[-] điểm tỉ lệ làm chậm và [00ff00]state_palsy_resisttime1[-] điểm kháng thời gian tê liệt
+4634	Cầm Sắt Hòa Minh	Có [00ff00]userdesc_1011%[-] tỉ lệ kích hoạt, [00ff00]state_slowall_attack1%[-] tỉ lệ khiến địch bị Làm Chậm [00ff00]state_slowall_attack2/15[-] giây, đồng thời hồi phục cho bản thân [00ff00]dir_recover_life_pp1/100%[-] sinh lực tối đa
+4637	Phi Yến Lăng Ba-Sơ	Giảm chờ [00ff00]reduce_cd_time12/15[-] giây
+4638	Phi Yến Lăng Ba-Trung	Giảm chờ [00ff00]reduce_cd_time12/15[-] giây. Tăng [00ff00]add_usebasedmg_p12%[-] tấn công cơ bản
+4639	Phi Yến Lăng Ba-Cao	Mỗi lần giảm chờ [00ff00]reduce_cd_time12/15[-] giây. Tăng [00ff00]add_usebasedmg_p12%[-] tấn công cơ bản. Tăng [00ff00]deadlystrike_p1%[-] bạo kích cơ bản, duy trì [00ff00]skill_statetime1/15[-] giây, tối đa cộng dồn [00ff00]superposemagic1[-] lần
+4640	Ngân Bình Ngọc Toái-Sơ	Bỏ qua [00ff00]add_igdefense_p12%[-] né tránh cuối
+4641	Ngân Bình Ngọc Toái-Trung	Bỏ qua [00ff00]add_igdefense_p12%[-] né tránh cuối. Tăng [00ff00]add_usebasedmg_p12%[-] tấn công cơ bản, có [00ff00]state_freeze_attack1%[-] kèm [00ff00]state_freeze_attack2/15[-] giây Đóng Băng 
+4642	Ngân Bình Ngọc Toái-Cao	Bỏ qua [00ff00]add_igdefense_p12%[-] né tránh cuối. Tăng [00ff00]add_usebasedmg_p12%[-] tấn công cơ bản, có [00ff00]state_freeze_attack1%[-] kèm [00ff00]state_freeze_attack2/15[-] giây Đóng Băng. Tăng [00ff00]weaken_deadlystrike_damage_p1%[-] sát thương bạo kích phải chịu
+4643	Không Sơn Ngưng Vân-Sơ	Hồi phục [00ff00]dir_recover_life_pp1/100%[-] sinh lực tối đa
+4644	Không Sơn Ngưng Vân-Trung	Hồi phục [00ff00]dir_recover_life_pp1/100%[-] sinh lực tối đa; Phản Kích gây ra [00ff00]add_usebasedmg_p12%[-] tấn công cơ bản, [00ff00]add_slowall_r2%[-] tỉ lệ Làm Chậm [00ff00]add_slowall_t2/15[-] giây
+4645	Không Sơn Ngưng Vân-Cao	Hồi phục [00ff00]dir_recover_life_pp1/100%[-] sinh lực tối đa; Phản Kích gây ra [00ff00]add_usebasedmg_p12%[-] tấn công cơ bản, [00ff00]add_slowall_r2%[-] tỉ lệ Làm Chậm [00ff00]add_slowall_t2/15[-] giây; giải trừ và miễn dịch hiệu quả bất lợi và tê liệt, duy trì [00ff00]skill_statetime1/15[-] giây
+4646	Thủy Long Ngâm-Sơ	Có [00ff00]ignore_dmgskill1/100%[-] không thể nhận hiệu quả tăng ích hoặc Khí Kình, duy trì [00ff00]skill_statetime1/15[-] giây. 
+4647	Thủy Long Ngâm-Trung	Có [00ff00]ignore_dmgskill1/100%[-] không thể nhận hiệu quả tăng ích hoặc Khí Kình, duy trì [00ff00]skill_statetime1/15[-] giây. Tấn công cơ bản tăng [00ff00]add_usebasedmg_p12%[-]. 
+4648	Thủy Long Ngâm-Cao	Có [00ff00]ignore_dmgskill1/100%[-] không thể nhận hiệu quả tăng ích hoặc Khí Kình, duy trì [00ff00]skill_statetime1/15[-] giây. Tấn công cơ bản tăng [00ff00]add_usebasedmg_p12%[-]. Giảm chờ [00ff00]deccdtime2/15[-] giây
+4801	Nhâm Mạch-Khúc Cốt	Khi đánh thường trúng mục tiêu, có [00ff00]userdesc_1011%[-] tỉ lệ gây [00ff00]attack_usebasedamage_p1%[-] tấn công cơ bản thêm cho mục tiêu và mục tiêu xung quanh, giãn cách kích hoạt [00ff00]userdesc_1021/15[-] giây
+4804	Đốc Mạch-Khúc Cốt	Khi bị tấn công có [00ff00]userdesc_1011%[-] tỉ lệ phản kích mục tiêu, gây [00ff00]attack_usebasedamage_p1%[-] tấn công cơ bản và [00ff00]state_confuse_attack2/15[-] giây hỗn loạn, giãn cách kích hoạt [00ff00]userdesc_1021/15[-] giây
+4807	Xung Mạch-U Môn	Khi bị tấn công có [00ff00]userdesc_1011%[-] xóa đồng thời miễn dịch thuộc tính và hiệu quả bất lợi, duy trì [00ff00]skill_statetime1/15[-] giây, giãn cách kích hoạt [00ff00]userdesc_1021/15[-] giây
+4809	Dương Khiêu-Tinh Minh	Khi gây trọng thương kẻ địch, bản thân sẽ hồi [00ff00]dir_recover_life_pp1/100%[-] sinh lực, giãn cách [00ff00]userdesc_1021/15[-] giây
+4811	Âm Khiêu-Công Tôn	Mục tiêu trúng kỹ năng sẽ giảm [00ff00]lifereplenish_p1%[-] hiệu suất hồi sinh lực, duy trì [00ff00]skill_statetime1/15[-] giây, giãn cách kích hoạt [00ff00]userdesc_1021/15[-] giây
+4813	Dương Duy-Kim Môn	Bỏ qua kháng tất cả tăng [00ff00]ignore_all_resist_vp1%[-], duy trì [00ff00]userdesc_1011/15[-] giây, giãn cách kích hoạt [00ff00]userdesc_1021/15[-] giây
+5001	Bá Đao Đao Quyết	Gây [00ff00]attack_usebasedamage_p1%[-] tấn công cơ bản + [00ff00]attack_metaldamage_v1[-] sát thương hệ Kim
+5005	Hóa Huyết Kiếp Quang	Đao thứ 1 gây [00ff00]attack_usebasedamage_p1%[-] tấn công cơ bản + [00ff00]attack_metaldamage_v1[-] sát thương hệ Kim, đao thứ 2 tấn công bằng [00ff00]sinh lực tối đa bản thân x damage_maxlife_p1/100%[-]. Mỗi đao đều có [00ff00]state_hurt_attack1%[-] tỉ lệ gây bị thương [00ff00]state_hurt_attack2/15[-] giây. Tích lũy dùng tối đa [00ff00]skill_point1/100[-] lần
+5008	Hiệp Sơn Siêu Hải	Gây [00ff00]attack_usebasedamage_p1%[-] tấn công cơ bản + [00ff00]attack_metaldamage_v1[-] điểm sát thương hệ Kim
+5011	Nghịch Huyết Tiệt Mạch	Trong [00ff00]7[-] giây mỗi [00ff00]0.66[-] giây gây [00ff00]attack_usebasedamage_p1%[-] tấn công cơ bản + [00ff00]attack_metaldamage_v1[-] sát thương hệ Kim, mỗi lần sát thương có [00ff00]state_hurt_attack1%[-] tỉ lệ gây [00ff00]state_hurt_attack2/15[-] giây bị thương
+5015	Dục Huyết Đạo Phong	Đa số trạng thái bị khống chế có thể thi triển, tiêu hao [FF3030]make_npc_lose_lifeP1%[-] sinh lực hiện tại giải trừ và miễn dịch hiệu quả bất lợi và hiệu quả thuộc tính, tăng [00ff00]lifemax_p1%[-] sinh lực cơ bản, [00ff00]physics_potentialdamage_p1%[-] tấn công cơ bản, mỗi [00ff00]2 giây[-] giảm chờ Hóa Huyết Kiếp Quang [00ff00]reduce_cd_time_point12/15[-] giây, duy trì [00ff00]skill_statetime1/15[-] giây
+5023	Thiết Sách Hoành Giang	Vĩnh viễn tăng [00ff00]lifemax_p1%[-] sinh lực cơ bản, [00ff00]physics_potentialdamage_p1%[-] tấn công cơ bản và [00ff00]state_zhican_resistrate1[-] điểm kháng tỉ lệ tàn phế
+5024	Tàn Dương Ánh Huyết	Sát thương gây ra tăng bằng [00ff00]Tỉ lệ sinh lực tổn thất hiện tại *lowhp_damage_att_p1%[-]. Khi sinh lực bản thân ít hơn [00ff00]hitfilter_hp2%[-], mỗi giây hồi [00ff00]dir_recover_life_pp1/100%[-] sinh lực tối đa
+5025	Đao Pháp-Cao	Tăng [Bá Đao Đao Quyết] [00ff00]userdesc_1011%[-] tấn công cơ bản + [00ff00]userdesc_1012[-] sát thương hệ Kim
+5026	Tị Thực Tựu Hư	Bị động tăng [00ff00]userdesc_1011%[-] kháng tất cả cơ bản, mỗi lần bị tấn công giảm bản thân kháng tất cả cơ bản [00ff00]all_series_resist_p1%[-], duy trì [00ff00]skill_statetime1/15[-] giây, tối đa cộng dồn [00ff00]superposemagic1[-] tầng
+5028	Bĩ Cực Thái Lai	Thi triển cách nhau [00ff00]userdesc_1012/15[-] giây, [00ff00]userdesc_1011%[-] tỉ lệ kích hoạt: Lần sau [00ff00]userdesc_1022[-] khi chịu sát thương sẽ miễn dịch sát thương này và hồi [00ff00]dir_recover_life_pp1/100%[-] sinh lực tối đa đồng thời vô địch [00ff00]skill_statetime1/15[-] giây
+5031	Bá Đao Trấn Phái	Vĩnh viễn tăng [00ff00]physics_potentialdamage_p1%[-] tấn công cơ bản, [00ff00]lifemax_p1%[-] sinh lực cơ bản, [00ff00]all_series_resist_p1%[-] kháng tất cả cơ bản, [00ff00]attackspeed_v1[-] điểm tốc đánh, [00ff00]state_hurt_attackrate1[-] điểm tỉ lệ bị thương và [00ff00]state_zhican_resisttime1[-] điểm kháng thời gian tàn phế
+5032	Thừa Thắng Trục Bắc	Sau khi thi triển tăng [00ff00]deadlystrike_damage_p1%[-] sát thương bạo kích, [00ff00]all_series_resist_p1%[-] kháng tất cả cơ bản,[00ff00]attackspeed_v1[-] điểm tốc đánh, [00ff00]runspeed_v1[-] điểm di chuyển
+5034	Liên Hoàn Đao	Đánh trúng sẽ lấy của kẻ địch [00ff00]physics_potentialdamage_p1%[-] tấn công cơ bản, tối đa cộng dồn [00ff00]superposemagic1%[-] tầng
+5037	Hóa Huyết Kiếp Quang-Sơ	Gây [00ff00]attack_usebasedamage_p1%[-] tấn công cơ bản + [00ff00]attack_metaldamage_v1[-] điểm sát thương hệ Kim
+5038	Hóa Huyết Kiếp Quang-Trung	Gây [00ff00]attack_usebasedamage_p1%[-] tấn công cơ bản + [00ff00]attack_metaldamage_v1[-] sát thương hệ Kim, mỗi lần giảm chờ Nghịch Huyết Tiệt Mạch [00ff00]reduce_cd_time_point12/15[-] giây
+5039	Hóa Huyết Kiếp Quang-Cao	Gây [00ff00]attack_usebasedamage_p1%[-] tấn công cơ bản + [00ff00]attack_metaldamage_v1[-] sát thương hệ Kim, mỗi lần giảm chờ Nghịch Huyết Tiệt Mạch [00ff00]reduce_cd_time_point12/15[-] giây, tỉ lệ bạo kích cuối Hóa Huyết Kiếp Quang tăng [00ff00]add_deadlystrike_p12%[-]
+5040	Hiệp Sơn Siêu Hải-Sơ	Xóa và miễn dịch thuộc tính, duy trì [00ff00]skill_statetime1/15[-] giây
+5041	Hiệp Sơn Siêu Hải-Trung	Xóa và miễn dịch thuộc tính, duy trì [00ff00]skill_statetime1/15[-] giây, rút ngắn giãn cách thi triển [00ff00]deccdtime2/15[-] giây
+5042	Hiệp Sơn Siêu Hải-Cao	Xóa và miễn dịch thuộc tính, miễn sát thương bạo kích tăng [00ff00]weaken_deadlystrike_damage_p1%[-], duy trì [00ff00]skill_statetime1/15[-] giây, rút ngắn giãn cách thi triển [00ff00]deccdtime2/15[-] giây
+5043	Nghịch Huyết Tiệt Mạch-Sơ	Kháng tất cả cơ bản giảm [00ff00]all_series_resist_p1%[-], Di chuyển giảm [00ff00]runspeed_v1[-]
+5044	Nghịch Huyết Tiệt Mạch-Trung	Kháng tất cả cơ bản giảm [00ff00]all_series_resist_p1%[-], Di chuyển giảm [00ff00]runspeed_v1[-]; Nghịch Huyết Tiệt Mạch duy trì tăng thêm [00ff00]addms_life12/15[-] giây
+5045	Nghịch Huyết Tiệt Mạch-Cao	Kháng tất cả cơ bản giảm [00ff00]all_series_resist_p1%[-], Di chuyển giảm [00ff00]runspeed_v1[-]; Nghịch Huyết Tiệt Mạch duy trì tăng thêm [00ff00]addms_life12/15[-] giây; sát thương liên tục mở rộng phạm vi và ảnh hưởng thêm [00ff00]addms_hittotal_c12[-] kẻ địch
+5046	Dục Huyết Đạo Phong-Sơ	Tấn công tăng [00ff00]sinh lực tối đa bản thân x damage_maxlife_p1/100%[-]
+5047	Dục Huyết Đạo Phong-Trung	Tấn công tăng [00ff00]sinh lực tối đa bản thân x damage_maxlife_p1/100%[-], tăng vĩnh viễn [00ff00]lifemax_p1%[-] sinh lực cơ bản và [00ff00]lifereplenish_p1%[-] hiệu suất hồi sinh lực
+5048	Dục Huyết Đạo Phong-Cao	Tấn công tăng [00ff00]sinh lực tối đa bản thân x damage_maxlife_p1/100%[-],tăng vĩnh viễn [00ff00]lifemax_p1%[-] sinh lực cơ bản và [00ff00]lifereplenish_p1%[-] hiệu suất hồi sinh lực, Vô Địch [00ff00]skill_statetime1/15[-] giây
+5201	Hoa Sơn Kiếm Pháp	Gây [00ff00]attack_usebasedamage_p1%[-] tấn công cơ bản + [00ff00]attack_wooddamage_v1[-] sát thương hệ Mộc
+5206	Tiêu Sử Thừa Long	Tiêu hao [00ff00]check_buff_superpose2[-] điểm Kiếm Ý để thi triển, gây [00ff00]attack_usebasedamage_p1%[-] tấn công cơ bản + [00ff00]attack_wooddamage_v1[-] sát thương hệ Mộc, [00ff00]state_zhican_attack1%[-] tỉ lệ Tàn Phế [00ff00]state_zhican_attack2/15[-] giây. Mỗi [00ff00]userdesc_1011/15 giây[-] tự động nhận [00ff00]1 điểm[-] Kiếm Ý
+5209	Thiên Thân Đảo Huyền	Gây [00ff00]attack_usebasedamage_p1%[-] tấn công cơ bản + [00ff00]attack_wooddamage_v1[-] sát thương hệ Mộc, địch bị đánh trúng tấn công cơ bản giảm [00ff00]physics_potentialdamage_p1%[-], duy trì [00ff00]skill_statetime1/15[-] giây
+5212	Triều Dương Kiếm Khí	Gây [00ff00]attack_usebasedamage_p1%[-] tấn công cơ bản + [00ff00]attack_wooddamage_v1[-] sát thương hệ Mộc, [00ff00]state_zhican_attack1%[-] tỉ lệ Tàn Phế [00ff00]state_zhican_attack2/15[-] giây. sau khi thi triển nhận [00ff00]mult_skill_state3[-] điểm Kiếm Ý
+5215	Phong Tống Tử Hà	Tiêu hao [00ff00]check_buff_superpose2[-] điểm Kiếm Ý để thi triển, gây [00ff00]attack_usebasedamage_p1%[-] tấn công cơ bản + [00ff00]attack_wooddamage_v1[-] sát thương hệ Mộc, [00ff00]state_zhican_attack1%[-] tỉ lệ Tàn Phế [00ff00]state_zhican_attack2/15[-] giây; Khi thi triển tiêu hao tối đa 5 [00ff00]Tử Hà Kiếm Khí[-] để tăng số lần tấn công tương ứng; Sau khi học kỹ năng này, thi triển [8dccf7]<Tiêu Sử Thừa Long>[-] sẽ nhận 1 [00ff00]Tử Hà Kiếm Khí[-]
+5219	Bão Nguyên Kình	Bản thân vĩnh viễn tăng [00ff00]deadlystrike_p1%[-] tỉ lệ bạo kích cơ bản, [00ff00]runspeed_v1[-] điểm di chuyển, [00ff00]attackspeed_v1[-] điểm Tốc Đánh và [00ff00]state_stun_resistrate1[-] điểm tỉ lệ kháng choáng
+5220	Phá Chiêu	[8dccf7]<Thiên Thân Đảo Huyền>[-] tỉ lệ bạo kích cuối tăng [00ff00]add_deadlystrike_p12%[-], sau thi triển trong [00ff00]userdesc_1011/15[-] giây không bị sát thương, trong thời gian này lần đầu bị tấn công trúng sẽ giảm chờ [8dccf7]<Thiên Thân Đảo Huyền>[-] [00ff00]reduce_cd_time_point12/15 giây[-], đồng thời hồi phục [00ff00]mult_skill_state3[-] điểm Kiếm Ý và [00ff00]dir_recover_life_pp1/100% + userdesc_1021/100% x số kẻ địch xung quanh (tối đa 5)[-] sinh lực tối đa
+5223	Kiếm Pháp-Cao	Tăng [8dccf7]<Hoa Sơn Kiếm Pháp>[-] [00ff00]userdesc_1011%[-] tấn công cơ bản + [00ff00]userdesc_1021[-] sát thương hệ Mộc
+5224	Tử Hà Thần Công	Kháng Hút Sinh Lực tăng [00ff00]steallife_resist_p1%[-], kháng tất cả sát thương tăng một mức bằng [00ff00]tỉ lệ sinh lực tổn thất xlowhp_damage_beatt_p1%[-]
+5225	Vân Thiên Hồ Quang	[00ff00]userdesc_1011%[-] tỉ lệ kích hoạt, gây [00ff00]attack_usebasedamage_p1%[-] tấn công cơ bản + [00ff00]attack_wooddamage_v1[-] sát thương hệ Mộc, đòn tấn công này có thêm [00ff00]add_steallife_p2/100%[-] hút sinh lực
+5227	Hỗn Nguyên Công	Vĩnh viễn tăng [00ff00]physics_potentialdamage_p1%[-] tấn công cơ bản, [00ff00]lifemax_p1%[-] sinh lực cơ bản, [00ff00]all_series_resist_p1%[-] kháng tất cả cơ bản, [00ff00]attackspeed_v1[-] điểm tốc đánh, [00ff00]state_zhican_attackrate1[-] điểm tỉ lệ tàn phế và [00ff00]state_stun_resisttime1[-] điểm thời gian kháng choáng
+5228	Thiên Quang Vân Ảnh	Tỉ lệ bạo kích cuối của [8dccf7]<Vân Thiên Hồ Quang>[-] tăng [00ff00]add_deadlystrike_p12%[-]. Tấn công kỹ năng có [00ff00]userdesc_1011%[-] tỉ lệ kích hoạt, gây [00ff00]attack_usebasedamage_p1%[-] tấn công cơ bản + [00ff00]attack_wooddamage_v1[-] sát thương hệ Mộc
+5230	Hoa Sơn Nộ Khí	
+5237	Tiêu Sử Thừa Long-Sơ	Tỉ lệ bạo kích cuối tăng [00ff00]add_deadlystrike_p12%[-]
+5238	Tiêu Sử Thừa Long-Trung	Tỉ lệ bạo kích cuối tăng [00ff00]add_deadlystrike_p12%[-]. Thi triển thành công sẽ giải trừ và miễn dịch hiệu quả thuộc tính/bất lợi, duy trì [00ff00]skill_statetime1/15[-] giây
+5239	Tiêu Sử Thừa Long-Trung	Tỉ lệ bạo kích cuối tăng [00ff00]add_deadlystrike_p12%[-], tấn công cơ bản tăng [00ff00]add_usebasedmg_p12%[-]. Thi triển thành công sẽ giải trừ và miễn dịch hiệu quả thuộc tính/bất lợi, duy trì [00ff00]skill_statetime1/15[-] giây
+5240	Thiên Thân Đảo Huyền-Sơ	[00ff00]state_zhican_attack1%[-] tỉ lệ gây [00ff00]state_zhican_attack2/15[-] giây Tàn Phế
+5241	Thiên Thân Đảo Huyền-Trung	[00ff00]state_zhican_attack1%[-] tỉ lệ gây [00ff00]state_zhican_attack2/15[-] giây Tàn Phế. Sát thương tăng thêm [00ff00]add_steallife_p2/100%[-] hút sinh lực
+5242	Thiên Thân Đảo Huyền-Cao	[00ff00]state_zhican_attack1%[-] tỉ lệ gây [00ff00]state_zhican_attack2/15[-] giây Tàn Phế, [00ff00]rand_ignoreskill1%[-] tỉ lệ xóa [00ff00]rand_ignoreskill2[-] hiệu quả tăng ích. Sát thương tăng thêm [00ff00]add_steallife_p2/100%[-] hút sinh lực
+5243	Triều Dương Kiếm Khí-Sơ	Tấn công cơ bản tăng [00ff00]add_usebasedmg_p12%[-], khiến địch di chuyển giảm [00ff00]runspeed_p1%[-], duy trì [00ff00]skill_statetime1/15[-] giây
+5244	Triều Dương Kiếm Khí-Trung	Tấn công cơ bản tăng [00ff00]add_usebasedmg_p12%[-], khiến địch di chuyển giảm [00ff00]runspeed_p1%[-], Bản thân sát thương bạo kích tăng [00ff00]deadlystrike_damage_p1%[-], duy trì [00ff00]skill_statetime1/15[-] giây
+5245	Triều Dương Kiếm Khí-Cao	Tấn công cơ bản tăng [00ff00]add_usebasedmg_p12%[-], khiến địch di chuyển giảm [00ff00]runspeed_p1%[-], bản thân sát thương bạo kích tăng [00ff00]deadlystrike_damage_p1%[-], duy trì [00ff00]skill_statetime1/15[-] giây. Khi bị tấn công kỹ năng có [00ff00]userdesc_1011%[-] tỉ lệ tái lập thời gian chờ
+5246	Phong Tống Tử Hà-Sơ	Mỗi tiêu hao 1 [00ff00]Tử Hà Kiếm Khí[-] có [00ff00]userdesc_1011%[-] tỉ lệ hồi phục 1 điểm Kiếm Ý
+5247	Phong Tống Tử Hà-Trung	Tấn công cơ bản tăng [00ff00]add_usebasedmg_p12%[-], mỗi tiêu hao 1 [00ff00]Tử Hà Kiếm Khí[-] có [00ff00]userdesc_1011%[-] tỉ lệ hồi phục 1 điểm Kiếm Ý
+5248	Phong Tống Tử Hà-Cao	Tấn công cơ bản tăng [00ff00]add_usebasedmg_p12%[-], mỗi tiêu hao 1 [00ff00]Tử Hà Kiếm Khí[-] có [00ff00]userdesc_1011%[-] tỉ lệ hồi phục 1 điểm Kiếm Ý. Mỗi [00ff00]userdesc_1021/15[-] giây tự động nhận 1 [00ff00]Tử Hà Kiếm Khí[-]
+5301	Tuyệt Học-Phong Hổ Vân Long	Sát thương bạo kích tăng [00ff00]deadlystrike_damage_p1%[-], sinh lực dưới 30% khi bị tấn công thì hiệu quả này sẽ chuyển thành miễn sát thương bạo kích cho bản thân trong thời gian ngắn
+5302	Tuyệt Học-Huy Duệ Sinh Phong	Tăng phản đòn miễn thương [00ff00]return_resist_p1%[-], cứ dùng 2 lần kỹ năng sẽ tăng [00ff00]attackspeed_v1[-] tốc đánh, hệ phái cận chiến tăng thêm [00ff00]runspeed_v1[-] di chuyển, duy trì [00ff00]skill_statetime1/15[-] giây, giãn cách kích hoạt [00ff00]userdesc_1011/15[-] giây
+5306	Tuyệt Học-Kim Chung Tráo	Khi bị tấn công có [00ff00]userdesc_1011%[-] tỉ lệ kích hoạt, xóa thuộc tính và hiệu quả bất lợi, hồi phục [00ff00]dir_recover_life_pp1/100%[-] sinh lực tối đa
+5307	Tuyệt Học-Huyết Chiến Bát Phương	[8dccf7]<Huyết Chiến Bát Phương>[-] mỗi lần chính xác tăng tấn công cơ bản [00ff00]add_usebasedmg_p12%[-], tối đa cộng dồn [00ff00]superposemagic1[-] lần
+5309	Tuyệt Học-Từ Hàng Phổ Độ	Phản đòn sát thương tầm xa và cận chiến tăng [00ff00]userdesc_1011%[-]
+5310	Tuyệt Học-Bạch Lộ Ngưng Sương	Tấn công cơ bản tăng [00ff00]physics_potentialdamage_p1%[-], kháng sát thương tầm xa và gần tăng [00ff00]remote_dmg_p1%[-], tối đa cộng dồn gấp [00ff00]superposemagic1[-] lần, duy trì [00ff00]skill_statetime1/15[-] giây
+5312	Tuyệt Học-Hỏa Phượng Liêu Nguyên	Né tránh cơ bản tăng [00ff00]defense_p1%[-], duy trì [00ff00]skill_statetime1/15[-] giây
+5313	Tuyệt Học-Đào Hoa Tiễn Thuật	Tấn công cơ bản tăng [00ff00]physics_potentialdamage_p1%[-], né tránh cơ bản tăng [00ff00]defense_p1%[-], tối đa cộng dồn gấp [00ff00]superposemagic1[-] lần, duy trì [00ff00]skill_statetime1/15[-] giây
+5315	Tuyệt Học-Bạch Hồng Quán Nhật	[00ff00]userdesc_1011%[-] tỉ lệ tái lập giãn cách thi triển
+5316	Tuyệt Học-Thất Thám Xà Bàn	Thi triển [8dccf7]<Bạch Hồng Quán Nhật>[-] giảm chờ [00ff00]reduce_cd_time_point12/15 giây[-] của [8dccf7]<Thất Thám Xà Bàn>[-]
+5318	Tuyệt Học-Vô Ngã Vô Kiếm	[8dccf7]<Vô Ngã Vô Kiếm>[-] tấn công cơ bản tăng [00ff00]add_usebasedmg_p12%[-], trong [00ff00]skill_statetime1/15[-] giây vô hiệu hiệu quả hồi phục, thời gian duy trì có thể cộng dồn
+5319	Tuyệt Học-Tọa Vọng Vô Ngã	[8dccf7]<Tọa Vọng Vô Ngã>[-] kèm kháng sát thương tầm xa và cận chiến [00ff00]remote_dmg_p1%[-], tối đa cộng dồn gấp [00ff00]userdesc_1011[-] lần
+5321	Tuyệt Học-Tử Vong Hồi Toàn	Gây [00ff00]attack_usebasedamage_p1%[-] tấn công cơ bản + [00ff00]attack_firedamage_v1[-] sát thương hệ Hỏa, sát thương này sẽ được cộng thêm sát thương bạo kích của Bí Kíp Tử Vong Hồi Toàn
+5322	Tuyệt Học-Huyết Nguyệt Chi Ảnh 	Khi sinh lực dưới [00ff00]hitfilter_hp2%[-] mỗi giây hồi phục [00ff00]dir_recover_life_pp1/100%[-] sinh lực tối đa, mỗi giây giảm thêm thời gian chờ của Tử Vong Hồi Toàn [00ff00]reduce_cd_time_point12/15[-] giây, Ma Diệm Tại Thiên [00ff00]reduce_cd_time_point22/15[-] giây và Nhiếp Hồn Loạn Tâm [00ff00]reduce_cd_time_point32/15[-] giây
+5324	Tuyệt Học-Đại Lực Kim Cang Chỉ	Tấn công cơ bản tăng [00ff00]physics_potentialdamage_p1%[-], tối đa cộng dồn gấp [00ff00]superposemagic1[-] lần, duy trì [00ff00]skill_statetime1/15[-] giây
+5325	Tuyệt Học-La Hán Trận	Mỗi đánh trúng 1 mục tiêu hồi phục [00ff00]dir_recover_life_pp1/100%[-] sinh lực tối đa
+5327	Tuyệt Học-Triệu Hồi Bảo Bảo	Hồi phục [00ff00]dir_recover_life_pp1/100%[-] sinh lực tối đa
+5328	Tuyệt Học-Băng Tâm Tuyết Liên	Trong [00ff00]skill_statetime1/15[-] giây [8dccf7]<Thúy Yên Ngự Tản Quyết>[-] tấn công cơ bản tăng [00ff00]add_usebasedmg_p12%[-], tối đa cộng dồn gấp [00ff00]superposemagic1[-] lần
+5330	Tuyệt Học-Bạo Vũ Lê Hoa	[00ff00]userdesc_1011%[-] tỉ lệ giảm [00ff00]reduce_cd_time_point12/15[-] giây chờ Bạo Vũ Lê Hoa
+5331	Tuyệt Học-Cửu Cung Phi Tinh	Sát thương bạo kích tăng [00ff00]deadlystrike_damage_p1%[-], tỉ lệ bạo kích cơ bản tăng [00ff00]deadlystrike_p1%[-], tối đa cộng dồn gấp [00ff00]superposemagic1[-] lần, duy trì [00ff00]skill_statetime1/15[-] giây
+5333	Tuyệt Học-Hỗn Độn Kiếm Trận	Thời gian chờ giảm [00ff00]deccdtime2/15[-] giây
+5334	Tuyệt Học-Tiếu Phong Tam Liên Kích	Tỉ lệ bạo kích cuối tăng [00ff00]add_deadlystrike_p12%[-], sát thương bạo kích tăng [00ff00]add_deadlydmg_p12%[-]
+5336	Tuyệt Học-Hàng Long Hữu Hối	Thời gian chờ giảm [00ff00]deccdtime2/15[-] giây
+5337	Tuyệt Học-Long Chiến Vu Dã	Tấn công cơ bản của Hỏa Cầu [8dccf7]<Long Chiến Vu Dã>[-] tăng [00ff00]add_usebasedmg_p12%[-] và có [00ff00]state_drag_attack1%[-] tỉ lệ Kéo Lại
+5339	Tuyệt Học-Ngũ Độc Địch Pháp	Sát thương bạo kích tăng [00ff00]deadlystrike_damage_p1%[-], tối đa cộng dồn gấp [00ff00]superposemagic1[-] lần, duy trì [00ff00]skill_statetime1/15[-] giây
+5340	Tuyệt Học-Ngự Cổ Tâm Kinh	Mỗi lần công thường chính xác sẽ giảm [00ff00]reduce_cd_time_point12/15[-] giây chờ Mê Tâm Cổ và Vạn Cổ Thực Tâm
+5342	Tuyệt Học-Ngọc Tuyền Ngư Dược	Sát thương bạo kích tăng [00ff00]deadlystrike_damage_p1%[-], miễn sát thương bạo kích tăng [00ff00]weaken_deadlystrike_damage_p1%[-], duy trì [00ff00]skill_statetime1/15[-] giây
+5343	Tuyệt Học-Ánh Ba Tỏa Lan	Mỗi lần cộng dồn [00ff00]lifemax_p1%[-] sinh lực cơ bản, duy trì [00ff00]skill_statetime1/15[-] giây, tối đa cộng dồn gấp [00ff00]superposemagic1[-] lần, hồi phục[00ff00]dir_recover_life_pp1/100%[-] sinh lực tối đa
+5345	Tuyệt Học-Dư Âm Nhiễu Lương	Trong [00ff00]skill_statetime1/15[-] giây [8dccf7]<Thanh Âm Trường Khiếu>[-] tấn công cơ bản tăng [00ff00]add_usebasedmg_p12%[-], hoặc [8dccf7]<Bình Sa Nhạn Lạc>[-] tấn công cơ bản tăng [00ff00]add_usebasedmg_p22%[-]
+5346	Tuyệt Học-Vân Sinh Kết Hải	Hút sinh lực tăng [00ff00]userdesc_1011%[-], tỉ lệ bạo kích tăng [00ff00]userdesc_1021[-]
+5348	Tuyệt Học-Cầm Sắt Hòa Minh	[8dccf7]<Cầm Sắt Hòa Minh>[-] tấn công cơ bản tăng [00ff00]add_usebasedmg_p12%[-]
+5349	Tuyệt Học-Mai Hoa Tam Lộng	Ngân Bình Ngọc Toái thời gian chờ giảm [00ff00]deccdtime2/15[-] giây, Không Sơn Ngưng Vân thời gian chờ giảm [00ff00]userdesc_1012/15[-] giây,Thủy Long Ngâm thời gian chờ giảm [00ff00]userdesc_1022/15[-] giây
+5351	Tuyệt Học-Dục Huyết Đạo Phong	Hồi phục [00ff00]dir_recover_life_pp1/100%[-] sinh lực tối đa
+5352	Tuyệt Học-Hiệp Sơn Siêu Hải	Tăng [00ff00]all_series_resist_p1%[-] kháng tất cả
+5354	Tuyệt Học-Phong Tống Tử Hà	Sát thương của tổng sát thương tăng một mức bằng [00ff00]tỉ lệ sinh lực phe địch đã tổn thất * add_loselife_dmg_p2%[-]
+5355	Tuyệt Học-Tiêu Sử Thừa Long	[8dccf7]<Tiêu Sử Thừa Long>[-] tấn công cơ bản tăng [00ff00]add_usebasedmg_p12%[-]
+5151	Bất Động Như Sơn Trận 2	[00ff00]enhance_final_damage_p1[-]% tăng sát thương cuối 
+5152	Ngạo Hàn Bất Diệt Thể 2	[00ff00]enhance_final_damage_p1[-]% tăng sát thương cuối 
+5153	Đạp Tinh Trích Nguyệt Bộ 2	[00ff00]enhance_final_damage_p1[-]% tăng sát thương cuối 
+5154	Hồng Loan Khiên Ti Thủ 2	[00ff00]enhance_final_damage_p1[-]% tăng sát thương cuối 
+5155	Nhất Xuyên Trấn Hải Quyết 2	[00ff00]enhance_final_damage_p1[-]% tăng sát thương cuối 
+5156	Thiên Hỏa Lưu Ly Bộ 2	[00ff00]enhance_final_damage_p1[-]% tăng sát thương cuối 
+5157	Hỗn Nguyên Kim Cang Thể 2	[00ff00]enhance_final_damage_p1[-]% tăng sát thương cuối 
+5158	Lưu Phong Hồi Tuyết Vũ 2	[00ff00]enhance_final_damage_p1[-]% tăng sát thương cuối 
+5159	Thất Xảo Linh Lung Bộ 2	[00ff00]enhance_final_damage_p1[-]% tăng sát thương cuối 
+5160	Bàn Sơn Điền Hải Kình 2	[00ff00]enhance_final_damage_p1[-]% tăng sát thương cuối 
+5161	Thiên La Thiên Cơ Bộ 2	[00ff00]enhance_final_damage_p1[-]% tăng sát thương cuối 
+5162	Bát Hoang Viêm Long Kình 2	[00ff00]enhance_final_damage_p1[-]% tăng sát thương cuối 
+5163	Phù Đồ Lưu Kim Thể 2	[00ff00]energy_v1[-] điểm linh hoạt, [00ff00]add_seriesstate_time_v1[-] điểm thời gian thuộc tính và [00ff00]lifemax_v1[-] điểm sinh lực
+5164	Sâm La Vạn Tượng Bộ 2	[00ff00]strength_v1[-] điểm sức mạnh, [00ff00]resist_allseriesstate_time_v1[-] điểm kháng thời gian thuộc tính và [00ff00]basic_damage_v1[-] điểm tấn công
+5165	Hãn Hải Vô Nhai Quyết 2	[00ff00]vitality_v1[-] điểm thể chất, [00ff00]resist_allseriesstate_rate_v1[-] điểm tỉ lệ kháng thuộc tính và [00ff00]all_series_resist_v1[-] điểm kháng tất cả
+5166	Tu La Phần Ngục Kình 2	[00ff00]energy_v1[-] điểm linh hoạt, [00ff00]add_seriesstate_time_v1[-] điểm thời gian thuộc tính và [00ff00]lifemax_v1[-] điểm sinh lực
+5167	Chí Tôn Tù Thiên Thủ 2	[00ff00]dexterity_v1[-] nhanh nhẹn, [00ff00]add_seriesstate_rate_v1[-] tỉ lệ thuộc tính và [00ff00]deadlystrike_v1[-] tỉ lệ bạo kích
+5168	Bất Động Như Sơn Trận 3	[00ff00]defense_p1[-]% né tránh cơ bản
+5169	Ngạo Hàn Bất Diệt Thể 3	[00ff00]weaken_deadlystrike_damage_p1%[-] miễn sát thương bạo kích
+5170	Đạp Tinh Trích Nguyệt Bộ 3	[00ff00]deadlystrike_p1[-]% tỉ lệ bạo kích cơ bản
+5171	Hồng Loan Khiên Ti Thủ 3	[00ff00]ignore_defense_v1[-] điểm bỏ qua né tránh
+5501	Minh Giáo Ngự Hoàn Quyết	Gây [00ff00]attack_usebasedamage_p1%[-] tấn công cơ bản + [00ff00]attack_firedamage_v1[-] sát thương hệ Hỏa
+5506	Phần Sơn Phệ Xuyên	Gây [00ff00]attack_usebasedamage_p1%[-] tấn công cơ bản + [00ff00]attack_firedamage_v1[-] sát thương hệ Hỏa
+5508	Điện Quang Thạch Hỏa	Gây [00ff00]attack_usebasedamage_p1%[-] tấn công cơ bản + [00ff00]attack_firedamage_v1[-] sát thương hệ Hỏa, có [00ff00]state_palsy_attack1%[-] kèm [00ff00]state_palsy_attack2/15[-] giây Tê Liệt
+5511	Hỏa Quang Tàn Ảnh	Tăng [00ff00]runspeed_v1[-] điểm di chuyển và [00ff00]defense_p1%[-] né tránh cơ bản và gây cho mục tiêu xung quanh [00ff00]attack_usebasedamage_p1%[-] tấn công cơ bản + [00ff00]attack_firedamage_v1[-] điểm sát thương hệ Hỏa, [00ff00]state_palsy_attack1%[-] tỉ lệ tê liệt [00ff00]state_palsy_attack2/15[-] giây, duy trì [00ff00]skill_statetime1/15[-] giây.
+5514	Quang Minh Dẫn	Vĩnh viễn tăng [00ff00]physics_potentialdamage_p1%[-] tấn công cơ bản, [00ff00]runspeed_v1[-] điểm di chuyển, [00ff00]defense_p1%[-] né tránh cơ bản và [00ff00]state_hurt_resistrate1[-] điểm kháng tỉ lệ bị thương.
+5515	Hủy Thiên Diệt Địa	Đa số dưới trạng thái bị khống chế đều có thể thi triển, khi bay lên mỗi lần tấn công có [00ff00]state_palsy_attack1%[-] tỉ lệ tê liệt [00ff00]state_palsy_attack2/15[-] giây, khi đáp xuống gây cho mục tiêu [00ff00]attack_usebasedamage_p1%[-] tấn công cơ bản + [00ff00]attack_firedamage_v1[-] điểm sát thương hệ Hỏa
+5518	Hủy Thiên Diệt Địa_Giai Đoạn 2	Khi tiếp đất gây [00ff00]attack_usebasedamage_p1%[-] tấn công cơ bản + [00ff00]attack_firedamage_v1[-] sát thương hệ Hỏa cho mục tiêu
+5524	Thánh Hỏa Thao Thiên	Tấn công [00ff00]sinh lực tối đa mục tiêu xdamage_maxlife_p1%[-], sinh lực mục tiêu tối đa [00ff00]damage_maxlife_p2%[-] sinh lực tối đa bản thân
+5526	Ngự Hoàn Quyết-Cao	Tăng[8dccf7]<Minh Giáo Ngự Hoàn Quyết>[-][00ff00]userdesc_1011%[-] tấn công cơ bản + [00ff00]userdesc_1021[-] sát thương hệ Hỏa
+5527	Dẫn Hỏa Thiêu Thân	Tăng bỏ qua kháng tính cuối [00ff00]ignore_all_resist2%[-]
+5530	Tinh Hỏa Liêu Nguyên	Có [00ff00]userdesc_1011%[-] xác suất kích hoạt hồi sinh lực [00ff00]dir_recover_life_pp1/100%[-], xóa và miễn dịch hiệu quả khống chế duy trì [00ff00]skill_statetime1/15[-] giây, xóa 1 lần thời gian chờ [8dccf7]<Hủy Thiên Diệt Địa>[-], giãn cách kích hoạt [00ff00]userdesc_1021/15[-] giây
+5533	Minh Tôn Thánh Thể	Vĩnh viễn tăng [00ff00]physics_potentialdamage_p1%[-] tấn công cơ bản, [00ff00]lifemax_p1%[-] sinh lực cơ bản, [00ff00]defense_p1%[-] né tránh cơ bản, [00ff00]attackspeed_v1[-] điểm tốc đánh, [00ff00]state_palsy_attackrate1[-] điểm tỉ lệ tê liệt và [00ff00]state_hurt_resisttime1[-] điểm kháng thời gian bị thương
+5534	Hỏa Vũ Lăng Thiên	Khi xung quanh có thêm 1 kẻ địch, tự động tăng [00ff00]defense_p1%[-] né tránh cơ bản và [00ff00]physics_potentialdamage_p1%[-] tấn công cơ bản, tối đa cộng dồn [00ff00]add_mult_proc_sate12[-] lần
+5537	Phần Sơn Phệ Xuyên-Sơ	Tỉ lệ bạo kích cuối tăng [00ff00]add_deadlystrike_p12%[-]
+5538	Phần Sơn Phệ Xuyên-Trung	Tỉ lệ bạo kích cuối tăng [00ff00]add_deadlystrike_p12%[-], [00ff00]add_steallife_p2/100%[-] sát thương chuyển đổi thành hồi phục sinh lực
+5539	Phần Sơn Phệ Xuyên-Cao	Tỉ lệ bạo kích cuối tăng [00ff00]add_deadlystrike_p12%[-], [00ff00]add_steallife_p2/100%[-] sát thương chuyển đổi thành hồi phục sinh lực, thời gian chờ giảm [00ff00]deccdtime2/15[-] giây
+5540	Điện Quang Thạch Hỏa-Sơ	Tăng [00ff00]add_usebasedmg_p12%[-] tấn công cơ bản
+5541	Điện Quang Thạch Hỏa-Trung	Tăng [00ff00]add_usebasedmg_p12%[-] tấn công cơ bản, tăng thời gian tê liệt [00ff00]add_palsy_t2/15[-] giây, tăng [00ff00]add_fixed_r2%[-] xác suất gây [00ff00]add_fixed_t2/15[-] giây định thân
+5542	Điện Quang Thạch Hỏa-Cao	Tăng [00ff00]add_usebasedmg_p12%[-] tấn công cơ bản, tăng thời gian tê liệt [00ff00]add_palsy_t2/15[-] giây, tăng [00ff00]add_fixed_r2%[-] xác suất gây [00ff00]add_fixed_t2/15[-] giây định thân, sau khi thi triển thành công giải trừ/miễn dịch thuộc tính và hiệu quả bất lợi ngoại trừ đóng băng, duy trì [00ff00]skill_statetime1/15[-] giây.
+5544	Hỏa Quang Tàn Ảnh-Sơ	Kháng tất cả cơ bản giảm [00ff00]all_series_resist_p1%[-], di chuyển giảm [00ff00]runspeed_v1[-], duy trì [00ff00]skill_statetime1/15[-] giây
+5546	Hỏa Quang Tàn Ảnh-Trung	Kháng tất cả cơ bản giảm [00ff00]all_series_resist_p1%[-], di chuyển giảm [00ff00]runspeed_v1[-]. Tỉ lệ kháng thuộc tính và thời gian giảm [00ff00]resist_allseriesstate_rate_v1[-], tỉ lệ kháng bất lợi và thời gian giảm [00ff00]resist_allspecialstate_rate_v1[-], duy trì [00ff00]skill_statetime1/15[-] giây
+5548	Hỏa Quang Tàn Ảnh-Cao	Kháng tất cả cơ bản giảm [00ff00]all_series_resist_p1%[-], di chuyển giảm [00ff00]runspeed_v1[-]. Tỉ lệ kháng hiệu quả và thời gian thuộc tính giảm [00ff00]resist_allseriesstate_rate_v1[-], tỉ lệ kháng hiệu quả và thời gian bất lợi giảm [00ff00]resist_allspecialstate_rate_v1[-], duy trì [00ff00]skill_statetime1/15[-] giây. [Hỏa Quang Tàn Ảnh] mỗi lần đánh trúng có thể rút ngắn thời gian chờ [Phần Sơn Phệ Xuyên] [00ff00]userdesc_1012/15[-] giây
+5550	Hủy Thiên Diệt Địa-Sơ	Tăng [00ff00]add_usebasedmg_p12%[-] tấn công cơ bản, miễn dịch khống chế [00ff00]userdesc_1011/15[-] giây
+5552	Hủy Thiên Diệt Địa-Trung	Tăng [00ff00]add_usebasedmg_p12%[-] tấn công cơ bản, miễn dịch khống chế, tăng [00ff00]lifemax_p1%[-] sinh lực cơ bản [00ff00]userdesc_1011/15[-] giây, hồi phục [00ff00]dir_recover_life_pp1/100%[-] sinh lực tối đa
+5555	Hủy Thiên Diệt Địa-Cao	Tăng [00ff00]add_usebasedmg_p12%[-] tấn công cơ bản, miễn dịch khống chế, tăng [00ff00]lifemax_p1%[-] sinh lực cơ bản [00ff00]userdesc_1011/15[-] giây, hồi phục [00ff00]dir_recover_life_pp1/100%[-] sinh lực tối đa; sau né tránh giảm thời gian chờ Hủy Thiên Diệt Địa [00ff00]reduce_cd_time_point12/15[-] giây, giãn cách kích hoạt [00ff00]userdesc_1021/15[-] giây.
+5559	Tuyệt Học-Hỏa Quang Tàn Ảnh	Giảm [00ff00]weaken_deadlystrike_damage_p1%[-] miễn sát thương bạo kích và [00ff00]ignore_defense_vp1%[-] bỏ qua né tránh cơ bản, duy trì [00ff00]skill_statetime1/15[-] giây
+5561	Tuyệt Học-Bất Diệt Quang	Mỗi lần né tránh hồi phục [00ff00]dir_recover_life_pp1/100%[-] sinh lực tối đa và tăng [00ff00]deadlystrike_p1%[-] bạo kích cơ bản, duy trì [00ff00]skill_statetime1/15[-] giây, tối đa cộng dồn [00ff00]superposemagic1[-] lần, giãn cách kích hoạt [00ff00]userdesc_1011/15[-] giây.
+5601	Đoàn Thị Phiến Quyết	Gây [00ff00]attack_usebasedamage_p1%[-] tấn công cơ bản + [00ff00]attack_waterdamage_v1[-] sát thương hệ Thủy
+5606	Nhất Dương Chỉ	Gây cho mục tiêu [00ff00]attack_usebasedamage_p1%[-] tấn công cơ bản + [00ff00]attack_waterdamage_v1[-] sát thương hệ Thủy, đồng thời có [00ff00]state_slowall_attack1%[-] xác suất kèm [00ff00]state_slowall_attack2/15[-] giây hiệu quả Làm Chậm
+5608	Ngũ La Khinh Yên	Gây cho mục tiêu [00ff00]attack_usebasedamage_p1%[-] tấn công cơ bản + [00ff00]attack_waterdamage_v1[-] sát thương hệ Thủy, đồng thời đánh lui mục tiêu và có [00ff00]state_slowall_attack1%[-] xác suất gây [00ff00]state_slowall_attack2/15[-] giây hiệu quả Làm Chậm
+5611	Lục Mạch Thần Kiếm	Tối đa cộng dồn [00ff00]skill_point1/100[-] mạch. Mỗi mạch Thần Kiếm gây cho mục tiêu [00ff00]attack_usebasedamage_p1%[-] tấn công cơ bản + [00ff00]attack_waterdamage_v1[-] sát thương hệ Thủy, cứ cộng dồn 3 mạch sẽ giúp 1 mạch Thần Kiếm tăng [00ff00]add_usebasedmg_p12%[-] tấn công cơ bản
+5625	Đoàn Thị Tâm Pháp	Vĩnh viễn tăng [00ff00]physics_potentialdamage_p1%[-] tấn công cơ bản, [00ff00]state_palsy_resistrate1[-] kháng tỉ lệ tê liệt và [00ff00]runspeed_v1[-]di chuyển
+5626	Thủy Long Ngục	Giam mục tiêu chỉ định trong khu vực [00ff00]skill_statetime1/15[-] giây, gây cho tất cả mục tiêu [00ff00]attack_usebasedamage_p1%[-] tấn công cơ bản + [00ff00]attack_waterdamage_v1[-] sát thương hệ Thủy, gây thêm 1 lần sát thương cho kẻ địch chạm vào Thủy Long Ngục và có [00ff00]state_freeze_attack1%[-] xác suất gây [00ff00]state_freeze_attack2/15[-] giây Đóng Băng
+5633	Diệu Đế Chỉ	Tăng [00ff00]ignore_defense_p1%[-] bỏ qua né tránh cuối, mỗi lần công thường chính xác có [00ff00]userdesc_1011%[-] xác suất khiến Nhất Dương Chỉ giảm thời gian chờ [00ff00]reduce_cd_time_point12/15[-] giây
+5635	Phiến Quyết-Cao	Tăng [Đoàn Thị Phiến Quyết][00ff00]attack_usebasedamage_p1%[-] tấn công cơ bản + [00ff00]attack_waterdamage_v1[-] sát thương hệ Thủy
+5637	Họa Địa Vi Lao	Trong khu vực Thủy Long Ngục, bản thân tăng [00ff00]meleedamagereturn_p1%[-] phản đòn cận chiến và  phản đòn tầm xa; Trong khu vực, bản thân và đồng đội tăng [00ff00]attackspeed_v1[-] tốc đánh và [00ff00]runspeed_v1[-] di chuyển; Ngoài khu vực, bản thân tăng [00ff00]physics_potentialdamage_p1%[-] tấn công cơ bản và [00ff00]lifereplenish_p1%[-] hiệu suất hồi sinh lực
+5642	Khô Vinh Thiền Công	Có [00ff00]userdesc_1011%[-] xác suất kích hoạt mỗi giây hồi phục [00ff00]recover_life_p1%[-] sinh lực, duy trì [00ff00]skill_statetime1/15[-] giây, xóa 1 lần thời gian chờ [8dccf7]<Thủy Long Ngục>[-], giãn cách kích hoạt [00ff00]userdesc_1021/15[-] giây
+5645	Thiên Long Thần Công	Vĩnh viễn tăng [00ff00]physics_potentialdamage_p1%[-] tấn công cơ bản, [00ff00]lifemax_p1%[-] sinh lực cơ bản, [00ff00]all_series_resist_p1%[-] kháng tất cả cơ bản, [00ff00]attackspeed_v1[-] điểm tốc đánh, [00ff00]state_slowall_attackrate1[-] điểm tỉ lệ làm chậm và [00ff00]state_palsy_resisttime1[-] điểm kháng thời gian tê liệt
+5646	Bắc Minh Thần Công	Phe địch giảm [00ff00]physics_potentialdamage_p1%[-] tấn công cơ bản, duy trì [00ff00]userdesc_1011/15[-] giây, tối đa cộng dồn x[00ff00]superposemagic1[-]. Công thường kích hoạt Vòng Băng gây cho mục tiêu [00ff00]attack_usebasedamage_p1%[-] tấn công cơ bản + [00ff00]attack_waterdamage_v1[-] sát thương hệ Thủy, giãn cách kích hoạt [00ff00]userdesc_1021/15[-] giây
+5650	Nhất Dương Chỉ-Sơ	Tỉ lệ bạo kích cuối tăng [00ff00]add_deadlystrike_p12%[-]
+5651	Nhất Dương Chỉ-Trung	Tỉ lệ bạo kích cuối tăng [00ff00]add_deadlystrike_p12%[-]. Thời gian chờ giảm [00ff00]deccdtime2/15[-] giây
+5652	Nhất Dương Chỉ-Cao	Tỉ lệ bạo kích cuối tăng [00ff00]add_deadlystrike_p12%[-]. Thời gian chờ giảm [00ff00]deccdtime2/15[-] giây. Mỗi lần hồi phục [00ff00]dir_recover_life_pp1/100%[-] sinh lực tối đa
+5654	Ngũ La Khinh Yên-Sơ	Tăng [00ff00]attackspeed_v1[-] tốc đánh và [00ff00]runspeed_v1[-] di chuyển, duy trì [00ff00]skill_statetime1/15[-] giây
+5655	Ngũ La Khinh Yên-Trung	Tăng [00ff00]attackspeed_v1[-] tốc đánh và [00ff00]runspeed_v1[-] di chuyển, duy trì [00ff00]skill_statetime1/15[-] giây. Tăng tỉ lệ làm chậm gây ra [00ff00]add_slowall_r2%[-] và thời gian làm chậm gây ra [00ff00]add_slowall_t2/15[-] giây
+5656	Ngũ La Khinh Yên-Cao	Tăng [00ff00]attackspeed_v1[-] tốc đánh và [00ff00]runspeed_v1[-] di chuyển, duy trì [00ff00]skill_statetime1/15[-] giây. Tăng tỉ lệ làm chậm gây ra [00ff00]add_slowall_r2%[-] và thời gian làm chậm gây ra [00ff00]add_slowall_t2/15[-] giây. Thời gian chờ giảm [00ff00]deccdtime2/15[-] giây
+5658	Lục Mạch Thần Kiếm-Sơ	Tăng Lục Mạch Thần Kiếm [00ff00]add_usebasedmg_p12%[-] tấn công cơ bản
+5659	Lục Mạch Thần Kiếm-Trung	Tăng Lục Mạch Thần Kiếm [00ff00]add_usebasedmg_p12%[-] tấn công cơ bản, mỗi lần bắn gây [00ff00]attack_usebasedamage_p1%[-] tấn công cơ bản + [00ff00]attack_waterdamage_v1[-] sát thương hệ Thủy
+5660	Lục Mạch Thần Kiếm-Cao	Tăng Lục Mạch Thần Kiếm [00ff00]add_usebasedmg_p12%[-] tấn công cơ bản và [00ff00]add_deadlydmg_p12%[-] sát thương bạo kích, mỗi lần bắn gây [00ff00]attack_usebasedamage_p1%[-] tấn công cơ bản + [00ff00]attack_waterdamage_v1[-] sát thương hệ Thủy
+5663	Thủy Long Ngục-Sơ	Tăng [00ff00]add_usebasedmg_p12%[-] tấn công cơ bản
+5664	Thủy Long Ngục-Trung	Tấn công cơ bản tăng [00ff00]add_usebasedmg_p12%[-]; Khiến địch giảm miễn sát thương bạo kích [00ff00]weaken_deadlystrike_damage_p1%[-] và [00ff00]runspeed_v1[-] di chuyển, duy trì [00ff00]userdesc_1011/15[-] giây
+5665	Thủy Long Ngục-Cao	Tấn công cơ bản tăng [00ff00]add_usebasedmg_p12%[-]; Khiến địch giảm miễn sát thương bạo kích [00ff00]weaken_deadlystrike_damage_p1%[-], [00ff00]runspeed_v1[-] di chuyển và [00ff00]defense_p1%[-] né tránh cơ bản, duy trì [00ff00]userdesc_1011/15[-] giây; Mỗi lần chính xác phe địch hồi phục [00ff00]dir_recover_life_pp1/100%[-] sinh lực tối đa, đồng thời trong [00ff00]userdesc_1021/15[-] giây tăng [00ff00]lifecurmax_p1%[-] sinh lực tối đa, giãn cách kích hoạt [00ff00]1[-] giây
+5672	Tuyệt Học-Nhất Dương Chỉ	Tăng Nhất Dương Chỉ [00ff00]add_usebasedmg_p12%[-] tấn công cơ bản, [00ff00]rand_ignoreskill1%[-] xác suất xóa [00ff00]rand_ignoreskill2[-] lợi ích
+5674	Tuyệt Học-Ngũ La Khinh Yên	Cứ cách mục tiêu bị tấn công [00ff00]1[-]m sát thương tăng [00ff00]add_adddmgbydist2/10%[-], tối đa tăng [00ff00]80%[-], duy trì [00ff00]skill_statetime1/15[-] giây
+5701	Thanh Long Phân Thiên Địa	Tăng [00ff00]basic_damage_v1[-] tấn công, [00ff00]ignore_defense_v1[-] bỏ qua né tránh, [00ff00]deadlystrike_v1[-] tỉ lệ bạo kích, [00ff00]deadlystrike_damage_p1%[-] sát thương bạo kích
+5702	Huyền Võ Ngự Dương Giáp	Tăng [00ff00]lifemax_v1[-] sinh lực, [00ff00]defense_v1[-] điểm né tránh, [00ff00]resist_allseriesstate_time_v1[-] kháng thời gian thuộc tính, kháng Hút Sinh Lực tăng [00ff00]steallife_resist_p1%[-]
+5703	Khải Minh Chi Nộ	Tăng [00ff00]state_hurt_attackrate1[-] điểm tỉ lệ bị thương và [00ff00]state_hurt_attacktime1[-] thời gian bị thương, mỗi lần gây [00ff00]attack_usebasedamage_p1%[-] tấn công cơ bản, tổng cộng 3 lần, kèm [00ff00]state_hurt_attack2/15[-] giây bị thương
+5705	Mật Lâm Hoán Kinh	Tăng [00ff00]state_zhican_attackrate1[-] điểm tỉ lệ tàn phế và [00ff00]state_zhican_attacktime1[-] thời gian tàn phế, mỗi lần gây [00ff00]attack_usebasedamage_p1%[-] tấn công cơ bản, tổng cộng 3 lần, kèm [00ff00]state_zhican_attack2/15[-] giây tàn phế
+5707	Nộ Sương Cuồng Thao	Tăng [00ff00]state_slowall_attackrate1[-] điểm tỉ lệ làm chậm và [00ff00]state_slowall_attacktime1[-] thời gian làm chậm, mỗi lần gây [00ff00]attack_usebasedamage_p1%[-] tấn công cơ bản, tổng cộng 3 lần, kèm [00ff00]state_slowall_attack2/15[-] giây làm chậm
+5709	Phần Sương Hỏa Ngục	Tăng [00ff00]state_palsy_attackrate1[-] điểm tỉ lệ tê liệt và [00ff00]state_palsy_attacktime1[-] thời gian tê liệt, mỗi lần gây [00ff00]attack_usebasedamage_p1%[-] tấn công cơ bản, tổng cộng 3 lần, kèm [00ff00]state_palsy_attack2/15[-] giây hiệu quả tê liệt
+5711	Đại Địa Lôi Đỗng	Tăng [00ff00]state_stun_attackrate1[-] điểm tỉ lệ choáng và [00ff00]state_stun_attacktime1[-] thời gian gây choáng, mỗi lần gây [00ff00]attack_usebasedamage_p1%[-] tấn công cơ bản, tổng cộng 3 lần, kèm [00ff00]state_stun_attack2/15[-] giây choáng
+5713	Siêu Quần Thể Kim Cang	[00ff00]userdesc_1011/15[-] giây miễn dịch sát thương. Cách [00ff00]vitality_recover_life2/15[-] giây hồi [00ff00]Thể chất*vitality_recover_life1%[-] sinh lực, sinh lực tăng [00ff00]physics_potentialdamage_p1%[-] điểm tấn công, duy trì [00ff00]userdesc_1021/15[-] giây
+5716	Siêu Quần Thể Minh Vương	Trong [00ff00]skill_statetime1/15[-] giây miễn dịch thuộc tính, hiệu quả bất lợi và tăng [00ff00]defense_v1[-] né tránh và [00ff00]deadlystrike_damage_p1%[-] sát thương bạo kích
+5718	Luân Hồi Lục Đạo	Khi trọng thương có [00ff00]100%[-] tạo thành hộ thuẫn hồi phục [00ff00]userdesc_1072%[-] sinh lực, giải trừ thuộc tính, hiệu quả bất lợi, tăng [00ff00]basic_damage_v1[-] tấn công, duy trì [00ff00]userdesc_1081/15[-] giây
+5721	Phá Thiên Võng Nguyệt	Tăng [00ff00]state_confuse_attackrate1[-] điểm hỗn loạn và[00ff00]state_confuse_attacktime1[-] thời gian hỗn loạn, thêm sát thương [00ff00]dotdamage_maxlife_p1%[-] sinh lực, tối đa không được vượt quá [00ff00]dotdamage_maxlife_p3[-] sinh lực, tổng cộng 2 lần, kèm [00ff00]state_confuse_attack2/15[-] giây Hỗn Loạn
+5724	Bách Niệm Cự Diệt	Có [00ff00]rand_ignoreskill1%[-] xóa [00ff00]rand_ignoreskill2[-] hiệu quả tăng ích [00ff00]enhance_final_damage_p1[-]% sát thương cuối
+5726	Quần Thể Sương Độc Chướng	Gây trúng độc, giảm [00ff00]shield_attrib1[-]% hộ thuẫn ngăn sát thương và giảm [00ff00]all_series_resist_v1[-] kháng tất cả [00ff00]reduce_final_damage_p1[-]% triệt tiêu sát thương cuối, duy trì[00ff00]skill_statetime1/15[-] giây
+5728	Khải Minh Chi Giáp	Mỗi lần tấn công có [00ff00]ignore_invincible_rate2%[-] khả năng nhận Kim Cang Hộ Thể, duy trì [00ff00]skill_statetime1/15[-] giây
+5729	Đoạn Cấp	Tăng đồng hành [00ff00]userdesc_1011%[-] hút sinh lực, tăng chủ nhân [00ff00]userdesc_1021%[-] hút sinh lực, duy trì[00ff00]skill_statetime1/15[-] giây
+5801	Vạn Hoa Bút Pháp	Tạo thành [00ff00]attack_usebasedamage_p1%[-] Cơ sở công kích+ [00ff00]attack_earthdamage_v1[-] Điểm Thổ hệ tổn thương
+5805	Chấp Dĩnh Điểm Mặc	Tạo thành [00ff00]attack_usebasedamage_p1%[-] Cơ sở công kích+[00ff00]attack_earthdamage_v1[-] Điểm Thổ hệ tổn thương. Đối trúng đích mục tiêu tăng thêm [00ff00]mult_skill_state3[-] Tầng [ Múa bút làm mực ] Hiệu quả, tiếp tục [00ff00]skill_statetime1/15[-] Giây
+5808	Lan Tồi Ngọc Chiết	Tạo thành [00ff00]attack_usebasedamage_p1%[-] Cơ sở công kích+[00ff00]attack_earthdamage_v1[-] Điểm Thổ hệ tổn thương. Trúng đích mang theo [ Múa bút làm mực ] Mục tiêu lúc, tiêu hao một tầng [ Múa bút làm mực ] Hiệu quả cũng đối cùng chung quanh địch nhân tạo thành [00ff00]userdesc_1011%[-] Cơ sở công kích+ [00ff00]userdesc_1021[-] Điểm Thổ hệ tổn thương; Sử dụng số lần nhiều nhất tính gộp lại [00ff00]skill_point1/100[-] Lần
+5810	Mặc Hổ Như Sinh	Tạo thành [00ff00]attack_usebasedamage_p1%[-] Cơ sở công kích+[00ff00]attack_earthdamage_v1[-] Điểm Thổ hệ tổn thương, [00ff00]state_stun_attack1%[-] Tỉ lệ mê muội [00ff00]state_stun_attack2/15[-] Giây; Đối trúng đích mục tiêu tăng thêm [00ff00]mult_skill_state3[-] Tầng [ Múa bút làm mực ] Hiệu quả, tiếp tục [00ff00]skill_statetime1/15[-] Giây
+5812	Hội Hổ Điểm Tình	Tạo thành [00ff00]attack_usebasedamage_p1%[-] Cơ sở công kích+[00ff00]attack_earthdamage_v1[-] Điểm Thổ hệ tổn thương. Thủy mặc hổ lực công kích làm nhân vật chính lực công kích *[00ff00]callnpc_damage2%[-], tiếp tục [00ff00]skill_statetime1/15[-] Giây
+5824	Vạn Hoa Tâm Pháp	Vĩnh cửu tăng lên [00ff00]physics_potentialdamage_p1%[-] Cơ sở lực công kích, [00ff00]lifemax_p1%[-] Cơ sở sinh mệnh cùng [00ff00]state_slowall_resistrate1[-] Điểm kháng chậm chạp tỉ lệ
+5831	Mặc Thủ Thành Quy	Mỗi tầng [ Bảo thủ không chịu thay đổi ] Tăng độ nhanh nhẹn *[00ff00]add_shield2/100[-] Điểm chống cự tổn thương, nhiều nhất điệp gia [00ff00]superposemagic1[-] Tầng, [ Bảo thủ không chịu thay đổi ] Hiệu quả cùng hộ thuẫn đồng đều tiếp tục [00ff00]userdesc_1011/15[-] Giây, hộ thuẫn phát động khoảng cách [00ff00]userdesc_1021/15[-] Giây
+5835	Cao Phổ Công	Tăng lên [ Vạn hoa bút pháp ][00ff00]attack_usebasedamage_p1%[-] Cơ sở công kích+ [00ff00]attack_earthdamage_v1[-] Điểm Thổ hệ tổn thương
+5837	Dữ Hổ Thiêm Dực	[ Cùng hổ thêm cánh ] Tạo thành [00ff00]attack_usebasedamage_p1%[-] Cơ sở công kích+[00ff00]attack_earthdamage_v1[-] Điểm Thổ hệ tổn thương, phát động khoảng cách [00ff00]skill_mintimepercast_v1/15[-] Giây. Cự hình thủy mặc hổ lực công kích làm nhân vật chính lực công kích *[00ff00]callnpc_damage2%[-], tiếp tục [00ff00]userdesc_1011/15[-] Giây
+5839	Dữ Hổ Thiêm Dực	Tạo thành [00ff00]attack_usebasedamage_p1%[-] Cơ sở công kích+[00ff00]attack_earthdamage_v1[-] Điểm Thổ hệ tổn thương. Cự hình thủy mặc hổ lực công kích làm nhân vật chính lực công kích *[00ff00]userdesc_1042%[-], tiếp tục [00ff00]userdesc_1051/15[-] Giây
+5844	Hổ Khiếu Sơn Lâm	Có [00ff00]userdesc_1021%[-] Tỉ lệ tăng thêm đầy tầng [8dccf7]< Bảo thủ không chịu thay đổi >[-] Hiệu quả, thanh trừ một lần [8dccf7]< Lan phá vỡ ngọc gãy >[-] Thời gian cooldown, thanh trừ cùng miễn dịch khống chế hiệu quả, gia tăng hấp thụ sinh mệnh [00ff00]steallife_p1%[-] Tiếp tục [00ff00]userdesc_1011/15[-] Giây, phát động khoảng cách [00ff00]userdesc_1031/15[-] Giây
+5849	Thanh Tâm Tĩnh Khí	Vĩnh cửu tăng lên [00ff00]physics_potentialdamage_p1%[-] Cơ sở lực công kích, [00ff00]lifemax_p1%[-] Cơ sở sinh mệnh, [00ff00]all_series_resist_p1%[-] Cơ sở toàn hệ kháng tính, [00ff00]attackspeed_v1[-] Điểm công kích tốc độ, [00ff00]state_stun_attackrate1[-] Điểm mê muội tỉ lệ cùng [00ff00]state_slowall_resisttime1[-] Điểm kháng chậm chạp thời gian
+5850	Mặc Nhiễm Thất Sắc	Giảm xuống mỗi cái địch nhân [00ff00]lifereplenish_p1%[-] Hồi phục hiệu suất, cũng điệp gia mình tăng lên [00ff00]physics_potentialdamage_p1%[-] Cơ sở lực công kích, nhiều nhất điệp gia [00ff00]add_mult_proc_sate12[-] Lần
+5853	Sơ_Chấp Dĩnh Điểm Mặc	Giảm xuống mục tiêu [00ff00]all_series_resist_p1%[-] Cơ sở toàn hệ kháng tính, tiếp tục [00ff00]userdesc_1011/15[-] Giây
+5854	Trung_Chấp Dĩnh Điểm Mặc	Giảm xuống mục tiêu [00ff00]all_series_resist_p1%[-] Cơ sở toàn hệ kháng tính, tiếp tục [00ff00]userdesc_1011/15[-] Giây, mỗi gian phòng cách 2 Giây có [00ff00]state_fixed_attack1%[-] Tỉ lệ tạo thành [00ff00]state_fixed_attack2/15[-] Giây định thân
+5855	Cao_Chấp Dĩnh Điểm Mặc	Giảm xuống mục tiêu [00ff00]all_series_resist_p1%[-] Cơ sở toàn hệ kháng tính, tiếp tục [00ff00]userdesc_1011/15[-] Giây, mỗi gian phòng cách 2 Giây có [00ff00]state_fixed_attack1%[-] Tỉ lệ tạo thành [00ff00]state_fixed_attack2/15[-] Giây định thân. Chấp dĩnh điểm mực gia tăng [00ff00]add_stun_r2%[-] Tỉ lệ tạo thành [00ff00]add_stun_t2/15[-] Giây mê muội, đề cao nhân vật chính tự thân [00ff00]deadlystrike_damage_p1%[-] Hiểu ý tổn thương tiếp tục [00ff00]userdesc_1011/15[-] Giây
+5859	Sơ_Lan Tồi Ngọc Chiết	Đề cao [00ff00]add_deadlystrike_p12%[-] Cuối cùng hiểu ý tỉ lệ cùng [00ff00]add_deadlydmg_p12%[-] Hiểu ý tổn thương
+5860	Trung_Lan Tồi Ngọc Chiết	Đề cao [00ff00]add_deadlystrike_p12%[-] Cuối cùng hiểu ý tỉ lệ cùng [00ff00]add_deadlydmg_p12%[-] Hiểu ý tổn thương;[00ff00]userdesc_1011%[-] Tỉ lệ sẽ không tiến nhập làm lạnh
+5861	Cao_Lan Tồi Ngọc Chiết	Đề cao [00ff00]add_deadlystrike_p12%[-] Cuối cùng hiểu ý tỉ lệ cùng [00ff00]add_deadlydmg_p12%[-] Hiểu ý tổn thương;[00ff00]userdesc_1011%[-] Tỉ lệ sẽ không tiến nhập làm lạnh; Đề cao [ Lan phá vỡ ngọc gãy ] Cùng [ Múa bút làm mực ][00ff00]add_usebasedmg_p12%[-] Cơ sở công kích
+5863	Sơ_Mặc Hổ Như Sinh	Đề cao [00ff00]add_usebasedmg_p12%[-] Cơ sở công kích, gia tăng [00ff00]userdesc_1011 Cái [-] Mục tiêu công kích số lượng
+5864	Trung_Mặc Hổ Như Sinh	Đề cao [00ff00]add_usebasedmg_p12%[-] Cơ sở công kích, gia tăng [00ff00]userdesc_1011 Cái [-] Mục tiêu công kích số lượng; Thời gian cooldown rút ngắn [00ff00]deccdtime2/15[-] Giây
+5865	Cao_Mặc Hổ Như Sinh	Đề cao [00ff00]add_usebasedmg_p12%[-] Cơ sở công kích, gia tăng [00ff00]userdesc_1011 Cái [-] Mục tiêu công kích số lượng; Thời gian cooldown rút ngắn [00ff00]deccdtime2/15[-] Giây; Mỗi lần xuyên thấu sau tổn thương đề cao [00ff00]addpowerwhencol12%[-], nhiều nhất đề cao [00ff00]addpowerwhencol13%[-]
+5868	Sơ_Hội Hổ Điểm Tình	Đề cao [00ff00]userdesc_1011%[-] Cơ sở toàn hệ kháng tính
+5869	Trung_Hội Hổ Điểm Tình	Đề cao [00ff00]userdesc_1011%[-] Cơ sở toàn hệ kháng tính; Thời gian cooldown rút ngắn [00ff00]deccdtime2/15[-] Giây
+5870	Cao_Hội Hổ Điểm Tình	Đề cao [00ff00]userdesc_1011%[-] Cơ sở toàn hệ kháng tính cùng [00ff00]userdesc_1021%[-] Sinh mệnh hấp thụ; Thời gian cooldown rút ngắn [00ff00]deccdtime2/15[-] Giây
+5872	Tuyệt Học_Vạn Hoa Bút Pháp	Lần đầu trúng đích có [00ff00]userdesc_1011%[-] Tỉ lệ giảm bớt kỹ năng chủ động thời gian cooldown [00ff00]reduce_cd_time_point12/15[-] Giây
+5874	Tuyệt Học_Mặc Thủ Thành Quy	Thu hoạch được [8dccf7]< Bảo thủ không chịu thay đổi >[-] Lúc ngoài định mức gia tăng gần viễn trình tổn thương kháng tính [00ff00]userdesc_1011/10%[-], nhiều nhất điệp gia [00ff00]superposemagic1[-] Lần, tiếp tục [00ff00]skill_statetime1/15[-] Giây

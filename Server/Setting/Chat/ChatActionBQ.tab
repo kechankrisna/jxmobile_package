@@ -1,0 +1,19 @@
+NpcType	ChatID	Sort	Name	ActionID	ActionEvent	ActionLoop	Content	Icon	IconAtlas
+0	1	1	Hỏi thăm	1	10002	1	Ta là「$M」, xin chỉ giáo!	Action5	UI/Atlas/NewAtlas/ActionEmotions/ActionEmotions.prefab
+0	2	2	Cười lớn	2	10002	1	Ha ha ha	Action6	UI/Atlas/NewAtlas/ActionEmotions/ActionEmotions.prefab
+0	3	3	Tức giận	3	10002	1	Hừ! Lý nào lại như thế!	Action7	UI/Atlas/NewAtlas/ActionEmotions/ActionEmotions.prefab
+0	4	4	Hành lễ	4	10001	1	Tại hạ thua rồi!	Action8	UI/Atlas/NewAtlas/ActionEmotions/ActionEmotions.prefab
+0	5	5	Cạn ly	5	10002	1	Nào, cạn ly!	Action9	UI/Atlas/NewAtlas/ActionEmotions/ActionEmotions.prefab
+0	6	6	Khóc	6	10002	1	Thật quá đáng, hu hu...	Action11	UI/Atlas/NewAtlas/ActionEmotions/ActionEmotions.prefab
+0	7	7	Nhảy múa	7	10002	1	Hãy nhảy theo âm nhạc và tiết tấu của ta...	Action10	UI/Atlas/NewAtlas/ActionEmotions/ActionEmotions.prefab
+2353|2354|2355|2356|2357|2358|2359|2360|2361	1	1	Hỏi thăm	1	10002	1	Ta là「$M」, xin chỉ giáo!	Action5	UI/Atlas/NewAtlas/ActionEmotions/ActionEmotions.prefab
+2353|2354|2355|2356|2357|2358|2359|2360|2361	2	2	Cười lớn	2	10002	1	Ha ha ha	Action6	UI/Atlas/NewAtlas/ActionEmotions/ActionEmotions.prefab
+2353|2354|2355|2356|2357|2358|2359|2360|2361	3	3	Hành lễ	3	10005	1	Tại hạ thua rồi!	Action8	UI/Atlas/NewAtlas/ActionEmotions/ActionEmotions.prefab
+2353|2354|2355|2356|2357|2358|2359|2360|2361	4	4	Cạn ly	5	10002	1	Nào, cạn ly!	Action9	UI/Atlas/NewAtlas/ActionEmotions/ActionEmotions.prefab
+2353|2354|2355|2356|2357|2358|2359|2360|2361	5	5	Nhảy múa	6	10002	1	Hãy nhảy theo âm nhạc và tiết tấu của ta...	Action10	UI/Atlas/NewAtlas/ActionEmotions/ActionEmotions.prefab
+2353|2354|2355|2356|2357|2358|2359|2360|2361	6	6	Hành lễ	7	10002	1	Ta là「$M」, xin chỉ giáo!	Action5	UI/Atlas/NewAtlas/ActionEmotions/ActionEmotions.prefab
+-1	1	1	Đạp Ca	9	10016	1		Action12	UI/Atlas/NewAtlas/ActionEmotions/ActionEmotions.prefab
+-1	2	1	Múa Rong Biển	10	10020	1		Action13	UI/Atlas/NewAtlas/ActionEmotions/ActionEmotions.prefab
+-1	3	1	Hoàng Cát Nghinh Xuân	13	10063	1		Action14	UI/Atlas/NewAtlas/ActionEmotions/ActionEmotions.prefab
+-1	4	1	Hàn Đông Nhiệt Vũ	14	10067	1		Action15	UI/Atlas/NewAtlas/ActionEmotions/ActionEmotions.prefab
+-1	5	1	Phiên Yến Lưu Vân	15	10069	1		Action16	UI/Atlas/NewAtlas/ActionEmotions/ActionEmotions.prefab

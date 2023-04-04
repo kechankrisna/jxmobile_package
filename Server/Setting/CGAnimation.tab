@@ -1,0 +1,24 @@
+CGID	Des	Event	Param1	Param2	Param3	Param4	Param5	Param6
+1	UI ẩn	SetAllUiVisable	0					
+1	Hình động	PlayCameraAnimation	Scenes/camera/xsc_cam1.controller					
+1	Đóng ui	CloseWindow	BgBlackAll					
+1	Ẩn người chơi	ShowAllRepresentObj	0					
+1	Hiện người chơi	ShowPlayer	1					
+1	Phát hiệu ứng	PlayEffect	9110	0	0	0	1	
+1	Cấm thao tác	ForbiddenOperation	1					
+1	Hiệu ứng ảnh động	PlayCameraEffect	9109					
+1	Hiện người chơi khác	ShowAllRepresentObj	1	149				
+1		End	147					
+2	UI ẩn	SetAllUiVisable	0					
+2	Hình động	PlayCameraAnimation	Scenes/camera/xinshoucun02/xsc02_cam1.controller					
+2	Đóng ui	CloseWindow	BgBlackAll					
+2	Ẩn người chơi	ShowAllRepresentObj	0					
+2	Hiện người chơi	ShowPlayer	1					
+2	Phát hiệu ứng	PlayEffect	9213	0	0	0	1	
+2	Cấm thao tác	ForbiddenOperation	1					
+2	Hiệu ứng ảnh động	PlayCameraEffect	9214					
+2	Hiện người chơi khác	ShowAllRepresentObj	1	203				
+2	Trì hoãn phát hình động mới	Play	3	150				
+2		End	202					
+3	Mở ui	OpenWindow	BossReferral	Nạp	Lan Chân	Vong Ưu Đảo Thiếu Nữ		
+3	Đóng ui	CloseWindowTimer	BossReferral	30				

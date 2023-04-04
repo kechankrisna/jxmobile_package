@@ -1,0 +1,382 @@
+AwardID	Rank	Award	AwardRate	Rate	AuctionAward	AuctionAwardCount	AuctionAwardRate	Desc
+1	1	item|947|4;item|3085|1						Hàn Ngọc Lộc Vương
+1	2	item|947|2;item|3086|1						Hàn Ngọc Lộc Vương
+1	3	item|947|1;item|3087|1						Hàn Ngọc Lộc Vương
+1	4	item|3087|1	item|947|1	50				Hàn Ngọc Lộc Vương
+1	5	item|3087|1	item|947|1	50				Hàn Ngọc Lộc Vương
+1	-1	item|3087|1						
+2	1	item|948|4;item|3085|1						Đại Địa Lang Vương
+2	2	item|948|2;item|3086|1						Đại Địa Lang Vương
+2	3	item|948|1;item|3087|1						Đại Địa Lang Vương
+2	4	item|3087|1	item|948|1	50				Đại Địa Lang Vương
+2	5	item|3087|1	item|948|1	50				Đại Địa Lang Vương
+2	-1	item|3087|1						
+3	1	item|949|4;item|3085|1						Bạch Mi Hầu Vương
+3	2	item|949|2;item|3086|1						Bạch Mi Hầu Vương
+3	3	item|949|1;item|3087|1						Bạch Mi Hầu Vương
+3	4	item|3087|1	item|949|1	50				Bạch Mi Hầu Vương
+3	5	item|3087|1	item|949|1	50				Bạch Mi Hầu Vương
+3	-1	item|3087|1						
+4	1	item|947|2;item|3085|1						Hàn Ngọc Lộc Vương
+4	2	item|947|1;item|3086|1	item|947|1	50				Hàn Ngọc Lộc Vương
+4	-1	item|3087|1						
+5	1	item|948|2;item|3085|1						Đại Địa Lang Vương
+5	2	item|948|1;item|3086|1	item|948|1	50				Đại Địa Lang Vương
+5	-1	item|3087|1						
+6	1	item|949|2;item|3085|1						Bạch Mi Hầu Vương
+6	2	item|949|1;item|3086|1	item|949|1	50				Bạch Mi Hầu Vương
+6	-1	item|3087|1						
+7	1	item|952|4;item|3085|1						Cửu Vĩ Hồ Vương (Lv40)
+7	2	item|952|2;item|3086|1						Cửu Vĩ Hồ Vương (Lv40)
+7	3	item|952|1;item|3087|1						Cửu Vĩ Hồ Vương (Lv40)
+7	4	item|3087|1	item|952|1	50				Cửu Vĩ Hồ Vương (Lv40)
+7	5	item|3087|1	item|952|1	50				Cửu Vĩ Hồ Vương (Lv40)
+7	-1	item|3087|1						
+8	1	item|954|4;item|3085|1						Song Thủ Dị Thú (Lv40)
+8	2	item|954|2;item|3086|1						Song Thủ Dị Thú (Lv40)
+8	3	item|954|1;item|3087|1						Song Thủ Dị Thú (Lv40)
+8	4	item|3087|1	item|954|1	50				Song Thủ Dị Thú (Lv40)
+8	5	item|3087|1	item|954|1	50				Song Thủ Dị Thú (Lv40)
+8	-1	item|3087|1						
+9	1	item|953|4;item|3085|1						Bôn Diệm Báo Vương (Lv40)
+9	2	item|953|2;item|3086|1						Bôn Diệm Báo Vương (Lv40)
+9	3	item|953|1;item|3087|1						Bôn Diệm Báo Vương (Lv40)
+9	4	item|3087|1	item|953|1	50				Bôn Diệm Báo Vương (Lv40)
+9	5	item|3087|1	item|953|1	50				Bôn Diệm Báo Vương (Lv40)
+9	-1	item|3087|1						
+10	1	item|955|4;item|3085|1						Cửu Vĩ Hồ Vương (Lv50)
+10	2	item|955|2;item|3086|1						Cửu Vĩ Hồ Vương (Lv50)
+10	3	item|955|1;item|3087|1						Cửu Vĩ Hồ Vương (Lv50)
+10	4	item|3087|1	item|955|1	50				Cửu Vĩ Hồ Vương (Lv50)
+10	5	item|3087|1	item|955|1	50				Cửu Vĩ Hồ Vương (Lv50)
+10	-1	item|3087|1						
+11	1	item|2224|4;item|3085|1						Song Thủ Dị Thú (Lv50)
+11	2	item|2224|2;item|3086|1						Song Thủ Dị Thú (Lv50)
+11	3	item|2224|1;item|3087|1						Song Thủ Dị Thú (Lv50)
+11	4	item|3087|1	item|2224|1	50				Song Thủ Dị Thú (Lv50)
+11	5	item|3087|1	item|2224|1	50				Song Thủ Dị Thú (Lv50)
+11	-1	item|3087|1						
+12	1	item|956|4;item|3085|1						Bôn Diệm Báo Vương (Lv50)
+12	2	item|956|2;item|3086|1						Bôn Diệm Báo Vương (Lv50)
+12	3	item|956|1;item|3087|1						Bôn Diệm Báo Vương (Lv50)
+12	4	item|3087|1	item|956|1	50				Bôn Diệm Báo Vương (Lv50)
+12	5	item|3087|1	item|956|1	50				Bôn Diệm Báo Vương (Lv50)
+12	-1	item|3087|1						
+13	1	item|955|2;item|3085|1						Cửu Vĩ Hồ Vương (Lv60)
+13	2	item|955|1;item|3086|1	item|955|1	50				Cửu Vĩ Hồ Vương (Lv60)
+13	-1	item|3087|1						
+14	1	item|2224|2;item|3085|1						Song Thủ Dị Thú (Lv60)
+14	2	item|2224|1;item|3086|1	item|2224|1	50				Song Thủ Dị Thú (Lv60)
+14	-1	item|3087|1						
+15	1	item|956|2;item|3085|1						Bôn Diệm Báo Vương (Lv60)
+15	2	item|956|1;item|3086|1	item|956|1	50				Bôn Diệm Báo Vương (Lv60)
+15	-1	item|3087|1						
+16	1	item|957|4;item|3085|1						Định Hải Kim Cang (Lv60)
+16	2	item|957|2;item|3086|1						Định Hải Kim Cang (Lv60)
+16	3	item|957|1;item|3087|1						Định Hải Kim Cang (Lv60)
+16	4	item|3087|1	item|957|1	50				Định Hải Kim Cang (Lv60)
+16	5	item|3087|1	item|957|1	50				Định Hải Kim Cang (Lv60)
+16	-1	item|3087|1						
+17	1	item|958|4;item|3085|1						Kim Sí Bằng Hoàng (Lv60)
+17	2	item|958|2;item|3086|1						Kim Sí Bằng Hoàng (Lv60)
+17	3	item|958|1;item|3087|1						Kim Sí Bằng Hoàng (Lv60)
+17	4	item|3087|1	item|958|1	50				Kim Sí Bằng Hoàng (Lv60)
+17	5	item|3087|1	item|958|1	50				Kim Sí Bằng Hoàng (Lv60)
+17	-1	item|3087|1						
+18	1	item|959|4;item|3085|1						Ngân Giác Tê Hoàng (Lv60)
+18	2	item|959|2;item|3086|1						Ngân Giác Tê Hoàng (Lv60)
+18	3	item|959|1;item|3087|1						Ngân Giác Tê Hoàng (Lv60)
+18	4	item|3087|1	item|959|1	50				Ngân Giác Tê Hoàng (Lv60)
+18	5	item|3087|1	item|959|1	50				Ngân Giác Tê Hoàng (Lv60)
+18	-1	item|3087|1						
+19	1	item|960|4;item|3085|1						Định Hải Kim Cang (Lv70)
+19	2	item|960|2;item|3086|1						Định Hải Kim Cang (Lv70)
+19	3	item|960|1;item|3087|1						Định Hải Kim Cang (Lv70)
+19	4	item|3087|1	item|960|1	50				Định Hải Kim Cang (Lv70)
+19	5	item|3087|1	item|960|1	50				Định Hải Kim Cang (Lv70)
+19	-1	item|3087|1						
+20	1	item|961|4;item|3085|1						Kim Sí Bằng Hoàng (Lv70)
+20	2	item|961|2;item|3086|1						Kim Sí Bằng Hoàng (Lv70)
+20	3	item|961|1;item|3087|1						Kim Sí Bằng Hoàng (Lv70)
+20	4	item|3087|1	item|961|1	50				Kim Sí Bằng Hoàng (Lv70)
+20	5	item|3087|1	item|961|1	50				Kim Sí Bằng Hoàng (Lv70)
+20	-1	item|3087|1						
+21	1	item|2522|4;item|3085|1						Ngân Giác Tê Hoàng (Lv70)
+21	2	item|2522|2;item|3086|1						Ngân Giác Tê Hoàng (Lv70)
+21	3	item|2522|1;item|3087|1						Ngân Giác Tê Hoàng (Lv70)
+21	4	item|3087|1	item|2522|1	50				Ngân Giác Tê Hoàng (Lv70)
+21	5	item|3087|1	item|2522|1	50				Ngân Giác Tê Hoàng (Lv70)
+21	-1	item|3087|1						
+22	1	item|960|2;item|3085|1						Định Hải Kim Cang (Lv80)
+22	2	item|960|1;item|3086|1	item|960|1	50				Định Hải Kim Cang (Lv80)
+22	-1	item|3087|1						
+23	1	item|961|2;item|3085|1						Kim Sí Bằng Hoàng (Lv80)
+23	2	item|961|1;item|3086|1	item|961|1	50				Kim Sí Bằng Hoàng (Lv80)
+23	-1	item|3087|1						
+24	1	item|2522|2;item|3085|1						Ngân Giác Tê Hoàng (Lv80)
+24	2	item|2522|1;item|3086|1	item|2522|1	50				Ngân Giác Tê Hoàng (Lv80)
+24	-1	item|3087|1						
+25	1	item|962|4;item|3085|1						Xích Tinh Hổ Hoàng (Lv80) 
+25	2	item|962|2;item|3086|1						Xích Tinh Hổ Hoàng (Lv80) 
+25	3	item|962|1;item|3087|1						Xích Tinh Hổ Hoàng (Lv80) 
+25	4	item|3087|1	item|962|1	50				Xích Tinh Hổ Hoàng (Lv80) 
+25	5	item|3087|1	item|962|1	50				Xích Tinh Hổ Hoàng (Lv80) 
+25	-1	item|3087|1						
+26	1	item|963|4;item|3085|1						Hám Thiên Hùng Hoàng (Lv80) 
+26	2	item|963|2;item|3086|1						Hám Thiên Hùng Hoàng (Lv80) 
+26	3	item|963|1;item|3087|1						Hám Thiên Hùng Hoàng (Lv80) 
+26	4	item|3087|1	item|963|1	50				Hám Thiên Hùng Hoàng (Lv80) 
+26	5	item|3087|1	item|963|1	50				Hám Thiên Hùng Hoàng (Lv80) 
+26	-1	item|3087|1						
+27	1	item|964|4;item|3085|1						Tử Bối Ngạc Hoàng (Lv80) 
+27	2	item|964|2;item|3086|1						Tử Bối Ngạc Hoàng (Lv80) 
+27	3	item|964|1;item|3087|1						Tử Bối Ngạc Hoàng (Lv80) 
+27	4	item|3087|1	item|964|1	50				Tử Bối Ngạc Hoàng (Lv80) 
+27	5	item|3087|1	item|964|1	50				Tử Bối Ngạc Hoàng (Lv80) 
+27	-1	item|3087|1						
+28	1	item|965|4;item|3085|1						Xích Tinh Hổ Hoàng (Lv90) 
+28	2	item|965|2;item|3086|1						Xích Tinh Hổ Hoàng (Lv90) 
+28	3	item|965|1;item|3087|1						Xích Tinh Hổ Hoàng (Lv90) 
+28	4	item|3087|1	item|965|1	50				Xích Tinh Hổ Hoàng (Lv90) 
+28	5	item|3087|1	item|965|1	50				Xích Tinh Hổ Hoàng (Lv90) 
+28	-1	item|3087|1						
+29	1	item|966|4;item|3085|1						Hám Thiên Hùng Hoàng (Lv90) 
+29	2	item|966|2;item|3086|1						Hám Thiên Hùng Hoàng (Lv90) 
+29	3	item|966|1;item|3087|1						Hám Thiên Hùng Hoàng (Lv90) 
+29	4	item|3087|1	item|966|1	50				Hám Thiên Hùng Hoàng (Lv90) 
+29	5	item|3087|1	item|966|1	50				Hám Thiên Hùng Hoàng (Lv90) 
+29	-1	item|3087|1						
+30	1	item|3421|4;item|3085|1						Tử Bối Ngạc Hoàng (Lv90) 
+30	2	item|3421|2;item|3086|1						Tử Bối Ngạc Hoàng (Lv90) 
+30	3	item|3421|1;item|3087|1						Tử Bối Ngạc Hoàng (Lv90) 
+30	4	item|3087|1	item|3421|1	50				Tử Bối Ngạc Hoàng (Lv90) 
+30	5	item|3087|1	item|3421|1	50				Tử Bối Ngạc Hoàng (Lv90) 
+30	-1	item|3087|1						
+31	1	item|965|2;item|3085|1						Xích Tinh Hổ Hoàng (Lv100)
+31	2	item|965|1;item|3086|1	item|965|1	50				Xích Tinh Hổ Hoàng (Lv100)
+31	-1	item|3087|1						
+32	1	item|966|2;item|3085|1						Hám Thiên Hùng Hoàng (Lv100)
+32	2	item|966|1;item|3086|1	item|966|1	50				Hám Thiên Hùng Hoàng (Lv100)
+32	-1	item|3087|1						
+33	1	item|3421|2;item|3085|1						Tử Bối Ngạc Hoàng (Lv100)
+33	2	item|3421|1;item|3086|1	item|3421|1	50				Tử Bối Ngạc Hoàng (Lv100)
+33	-1	item|3087|1						
+34	1	item|4598|4;item|3085|1						Băng Lân Tích Hoàng (Lv100) 
+34	2	item|4598|2;item|3086|1						Băng Lân Tích Hoàng (Lv100) 
+34	3	item|4598|1;item|3087|1						Băng Lân Tích Hoàng (Lv100) 
+34	4	item|3087|1	item|4598|1	50				Băng Lân Tích Hoàng (Lv100) 
+34	5	item|3087|1	item|4598|1	50				Băng Lân Tích Hoàng (Lv100) 
+34	-1	item|3087|1						
+35	1	item|4599|4;item|3085|1						Ngân Câu Hạt Hoàng (Lv100) 
+35	2	item|4599|2;item|3086|1						Ngân Câu Hạt Hoàng (Lv100) 
+35	3	item|4599|1;item|3087|1						Ngân Câu Hạt Hoàng (Lv100) 
+35	4	item|3087|1	item|4599|1	50				Ngân Câu Hạt Hoàng (Lv100) 
+35	5	item|3087|1	item|4599|1	50				Ngân Câu Hạt Hoàng (Lv100) 
+35	-1	item|3087|1						
+36	1	item|4600|4;item|3085|1						Cuồng Tông Ngao Hoàng (Lv100) 
+36	2	item|4600|2;item|3086|1						Cuồng Tông Ngao Hoàng (Lv100) 
+36	3	item|4600|1;item|3087|1						Cuồng Tông Ngao Hoàng (Lv100) 
+36	4	item|3087|1	item|4600|1	50				Cuồng Tông Ngao Hoàng (Lv100) 
+36	5	item|3087|1	item|4600|1	50				Cuồng Tông Ngao Hoàng (Lv100) 
+36	-1	item|3087|1						
+37	1	item|4601|4;item|3085|1						Băng Lân Tích Hoàng (Lv110) 
+37	2	item|4601|2;item|3086|1						Băng Lân Tích Hoàng (Lv110) 
+37	3	item|4601|1;item|3087|1						Băng Lân Tích Hoàng (Lv110) 
+37	4	item|3087|1	item|4601|1	50				Băng Lân Tích Hoàng (Lv100) 
+37	5	item|3087|1	item|4601|1	50				Băng Lân Tích Hoàng (Lv100) 
+37	-1	item|3087|1						
+38	1	item|4602|4;item|3085|1						Ngân Câu Hạt Hoàng (Lv110) 
+38	2	item|4602|2;item|3086|1						Ngân Câu Hạt Hoàng (Lv110) 
+38	3	item|4602|1;item|3087|1						Ngân Câu Hạt Hoàng (Lv110) 
+38	4	item|3087|1	item|4602|1	50				Ngân Câu Hạt Hoàng (Lv110) 
+38	5	item|3087|1	item|4602|1	50				Ngân Câu Hạt Hoàng (Lv110) 
+38	-1	item|3087|1						
+39	1	item|4603|4;item|3085|1						Cuồng Tông Ngao Hoàng (Lv110) 
+39	2	item|4603|2;item|3086|1						Cuồng Tông Ngao Hoàng (Lv110) 
+39	3	item|4603|1;item|3087|1						Cuồng Tông Ngao Hoàng (Lv110) 
+39	4	item|3087|1	item|4603|1	50				Cuồng Tông Ngao Hoàng (Lv110) 
+39	5	item|3087|1	item|4603|1	50				Cuồng Tông Ngao Hoàng (Lv110) 
+39	-1	item|3087|1						
+40	1	item|4601|2;item|3085|1						Băng Lân Tích Hoàng (Lv120)
+40	2	item|4601|1;item|3086|1	item|4601|1	50				Băng Lân Tích Hoàng (Lv120)
+40	-1	item|3087|1						
+41	1	item|4602|2;item|3085|1						Ngân Câu Hạt Hoàng (Lv120)
+41	2	item|4602|1;item|3086|1	item|4602|1	50				Ngân Câu Hạt Hoàng (Lv120)
+41	-1	item|3087|1						
+42	1	item|4603|2;item|3085|1						Cuồng Tông Ngao Hoàng (Lv120)
+42	2	item|4603|1;item|3086|1	item|4603|1	50				Cuồng Tông Ngao Hoàng (Lv120)
+42	-1	item|3087|1						
+43	1	item|7425|4;item|3085|1						Long Văn Sư Vương (Lv120)
+43	2	item|7425|2;item|3086|1						Long Văn Sư Vương (Lv120)
+43	3	item|7425|1;item|3087|1						Long Văn Sư Vương (Lv120)
+43	4	item|3087|1	item|7425|1	50				Long Văn Sư Vương (Lv120)
+43	5	item|3087|1	item|7425|1	50				Long Văn Sư Vương (Lv120)
+43	-1	item|3087|1						
+44	1	item|7426|4;item|3085|1						Cự Ngao Phong Hậu (Lv120)
+44	2	item|7426|2;item|3086|1						Cự Ngao Phong Hậu (Lv120)
+44	3	item|7426|1;item|3087|1						Cự Ngao Phong Hậu (Lv120)
+44	4	item|3087|1	item|7426|1	50				Cự Ngao Phong Hậu (Lv120)
+44	5	item|3087|1	item|7426|1	50				Cự Ngao Phong Hậu (Lv120)
+44	-1	item|3087|1						
+45	1	item|7427|4;item|3085|1						Long Văn Sư Vương (Lv130)
+45	2	item|7427|2;item|3086|1						Long Văn Sư Vương (Lv130)
+45	3	item|7427|1;item|3087|1						Long Văn Sư Vương (Lv130)
+45	4	item|3087|1	item|7427|1	50				Long Văn Sư Vương (Lv130)
+45	5	item|3087|1	item|7427|1	50				Long Văn Sư Vương (Lv130)
+45	-1	item|3087|1						
+46	1	item|7428|4;item|3085|1						Cự Ngao Phong Hậu (Lv130)
+46	2	item|7428|2;item|3086|1						Cự Ngao Phong Hậu (Lv130)
+46	3	item|7428|1;item|3087|1						Cự Ngao Phong Hậu (Lv130)
+46	4	item|3087|1	item|7428|1	50				Cự Ngao Phong Hậu (Lv130)
+46	5	item|3087|1	item|7428|1	50				Cự Ngao Phong Hậu (Lv130)
+46	-1	item|3087|1						
+47	1	item|947|4;item|3085|1						Hàn Ngọc Lộc Vương
+47	2	item|947|3;item|3086|1						Hàn Ngọc Lộc Vương
+47	-1	item|3087|1						
+48	1	item|948|4;item|3085|1						Đại Địa Lang Vương
+48	2	item|948|3;item|3086|1						Đại Địa Lang Vương
+48	-1	item|3087|1						
+49	1	item|949|4;item|3085|1						Bạch Mi Hầu Vương
+49	2	item|949|3;item|3086|1						Bạch Mi Hầu Vương
+49	-1	item|3087|1						
+50	1	item|955|4;item|3085|1						Cửu Vĩ Hồ Vương (Lv50)
+50	2	item|955|3;item|3086|1						Cửu Vĩ Hồ Vương (Lv50)
+50	-1	item|3087|1						
+51	1	item|2224|4;item|3085|1						Song Thủ Dị Thú (Lv50)
+51	2	item|2224|3;item|3086|1						Song Thủ Dị Thú (Lv50)
+51	-1	item|3087|1						
+52	1	item|956|4;item|3085|1						Bôn Diệm Báo Vương (Lv50)
+52	2	item|956|3;item|3086|1						Bôn Diệm Báo Vương (Lv50)
+52	-1	item|3087|1						
+53	1	item|960|4;item|3085|1						Định Hải Kim Cang (Lv70)
+53	2	item|960|3;item|3086|1						Định Hải Kim Cang (Lv70)
+53	-1	item|3087|1						
+54	1	item|961|4;item|3085|1						Kim Sí Bằng Hoàng (Lv70)
+54	2	item|961|3;item|3086|1						Kim Sí Bằng Hoàng (Lv70)
+54	-1	item|3087|1						
+55	1	item|2522|4;item|3085|1						Ngân Giác Tê Hoàng (Lv70)
+55	2	item|2522|3;item|3086|1						Ngân Giác Tê Hoàng (Lv70)
+55	-1	item|3087|1						
+56	1	item|965|4;item|3085|1						Xích Tinh Hổ Hoàng (Lv90) 
+56	2	item|965|3;item|3086|1						Xích Tinh Hổ Hoàng (Lv90) 
+56	-1	item|3087|1						
+57	1	item|966|4;item|3085|1						Hám Thiên Hùng Hoàng (Lv90) 
+57	2	item|966|3;item|3086|1						Hám Thiên Hùng Hoàng (Lv90) 
+57	-1	item|3087|1						
+58	1	item|3421|4;item|3085|1						Tử Bối Ngạc Hoàng (Lv90) 
+58	2	item|3421|3;item|3086|1						Tử Bối Ngạc Hoàng (Lv90) 
+58	-1	item|3087|1						
+59	1	item|4601|4;item|3085|1						Băng Lân Tích Hoàng (Lv110) 
+59	2	item|4601|3;item|3086|1						Băng Lân Tích Hoàng (Lv110) 
+59	-1	item|3087|1						
+60	1	item|4602|4;item|3085|1						Ngân Câu Hạt Hoàng (Lv110) 
+60	2	item|4602|3;item|3086|1						Ngân Câu Hạt Hoàng (Lv110) 
+60	-1	item|3087|1						
+61	1	item|4603|4;item|3085|1						Cuồng Tông Ngao Hoàng (Lv110) 
+61	2	item|4603|3;item|3086|1						Cuồng Tông Ngao Hoàng (Lv110) 
+61	-1	item|3087|1						
+71	1	item|7492|4;item|3085|1						Long Văn Sư Vương (Lv140)
+71	2	item|7492|2;item|3086|1						Long Văn Sư Vương (Lv140)
+71	3	item|7492|1;item|3087|1						Long Văn Sư Vương (Lv140)
+71	4	item|3087|1	item|7492|1	50				Long Văn Sư Vương (Lv140)
+71	5	item|3087|1	item|7492|1	50				Long Văn Sư Vương (Lv140)
+71	-1	item|3087|1						
+72	1	item|7493|4;item|3085|1						Cự Ngao Phong Hậu (Lv140)
+72	2	item|7493|2;item|3086|1						Cự Ngao Phong Hậu (Lv140)
+72	3	item|7493|1;item|3087|1						Cự Ngao Phong Hậu (Lv140)
+72	4	item|3087|1	item|7493|1	50				Cự Ngao Phong Hậu (Lv140)
+72	5	item|3087|1	item|7493|1	50				Cự Ngao Phong Hậu (Lv140)
+72	-1	item|3087|1						
+73	1	item|8357|4;item|3085|1						Long Văn Sư Vương Lv150
+73	2	item|8357|2;item|3086|1						Long Văn Sư Vương Lv150
+73	3	item|8357|1;item|3087|1						Long Văn Sư Vương Lv150
+73	4	item|3087|1	item|8357|1	50				Long Văn Sư Vương Lv150
+73	5	item|3087|1	item|8357|1	50				Long Văn Sư Vương Lv150
+73	-1	item|3087|1						
+74	1	item|8358|4;item|3085|1						Cự Ngao Phong Hậu (Lv150)
+74	2	item|8358|2;item|3086|1						Cự Ngao Phong Hậu (Lv150)
+74	3	item|8358|1;item|3087|1						Cự Ngao Phong Hậu (Lv150)
+74	4	item|3087|1	item|8358|1	50				Cự Ngao Phong Hậu (Lv150)
+74	5	item|3087|1	item|8358|1	50				Cự Ngao Phong Hậu (Lv150)
+74	-1	item|3087|1						
+75	1	item|9796|4;item|3085|1						Long Văn Sư Vương (Lv160)
+75	2	item|9796|2;item|3086|1						Long Văn Sư Vương (Lv160)
+75	3	item|9796|1;item|3087|1						Long Văn Sư Vương (Lv160)
+75	4	item|3087|1	item|9796|1	50				Long Văn Sư Vương (Lv160)
+75	5	item|3087|1	item|9796|1	50				Long Văn Sư Vương (Lv160)
+75	-1	item|3087|1						
+76	1	item|9797|4;item|3085|1						Cự Ngao Phong Hậu (Lv160)
+76	2	item|9797|2;item|3086|1						Cự Ngao Phong Hậu (Lv160)
+76	3	item|9797|1;item|3087|1						Cự Ngao Phong Hậu (Lv160)
+76	4	item|3087|1	item|9797|1	50				Cự Ngao Phong Hậu (Lv160)
+76	5	item|3087|1	item|9797|1	50				Cự Ngao Phong Hậu (Lv160)
+76	-1	item|3087|1						
+77	1	item|9998|4;item|3085|1			item|10127|1	4	1500	Vạn Độc Cúc Hoàng (Lv140)
+77	2	item|9998|2;item|3086|1			item|10127|1	2	1500	Vạn Độc Cúc Hoàng (Lv140)
+77	3	item|9998|1;item|3087|1			item|10127|1	1	1500	Vạn Độc Cúc Hoàng (Lv140)
+77	4	item|3087|1	item|9998|1	50				Vạn Độc Cúc Hoàng (Lv140)
+77	5	item|3087|1	item|9998|1	50				Vạn Độc Cúc Hoàng (Lv140)
+77	-1	item|3087|1						
+78	1	item|9999|4;item|3085|1			item|10126|1	4	1500	Huyền Băng Điêu Hoàng (Lv140)
+78	2	item|9999|2;item|3086|1			item|10126|1	2	1500	Huyền Băng Điêu Hoàng (Lv140)
+78	3	item|9999|1;item|3087|1			item|10126|1	1	1500	Huyền Băng Điêu Hoàng (Lv140)
+78	4	item|3087|1	item|9999|1	50				Huyền Băng Điêu Hoàng (Lv140)
+78	5	item|3087|1	item|9999|1	50				Huyền Băng Điêu Hoàng (Lv140)
+78	-1	item|3087|1						
+79	1	item|10000|4;item|3085|1			item|10127|1	4	1500	Vạn Độc Cúc Hoàng (Lv150)
+79	2	item|10000|2;item|3086|1			item|10127|1	2	1500	Vạn Độc Cúc Hoàng (Lv150)
+79	3	item|10000|1;item|3087|1			item|10127|1	1	1500	Vạn Độc Cúc Hoàng (Lv150)
+79	4	item|3087|1	item|10000|1	50				Vạn Độc Cúc Hoàng (Lv150)
+79	5	item|3087|1	item|10000|1	50				Vạn Độc Cúc Hoàng (Lv150)
+79	-1	item|3087|1						
+80	1	item|10001|4;item|3085|1			item|10126|1	4	1500	Huyền Băng Điêu Hoàng (Lv150)
+80	2	item|10001|2;item|3086|1			item|10126|1	2	1500	Huyền Băng Điêu Hoàng (Lv150)
+80	3	item|10001|1;item|3087|1			item|10126|1	1	1500	Huyền Băng Điêu Hoàng (Lv150)
+80	4	item|3087|1	item|10001|1	50				Huyền Băng Điêu Hoàng (Lv150)
+80	5	item|3087|1	item|10001|1	50				Huyền Băng Điêu Hoàng (Lv150)
+80	-1	item|3087|1						
+81	1	item|10002|4;item|3085|1			item|10127|1	4	1500	Vạn Độc Cúc Hoàng (Lv160)
+81	2	item|10002|2;item|3086|1			item|10127|1	2	1500	Vạn Độc Cúc Hoàng (Lv160)
+81	3	item|10002|1;item|3087|1			item|10127|1	1	1500	Vạn Độc Cúc Hoàng (Lv160)
+81	4	item|3087|1	item|10002|1	50				Vạn Độc Cúc Hoàng (Lv160)
+81	5	item|3087|1	item|10002|1	50				Vạn Độc Cúc Hoàng (Lv160)
+81	-1	item|3087|1						
+82	1	item|10003|4;item|3085|1			item|10126|1	4	1500	Huyền Băng Điêu Hoàng (Lv160)
+82	2	item|10003|2;item|3086|1			item|10126|1	2	1500	Huyền Băng Điêu Hoàng (Lv160)
+82	3	item|10003|1;item|3087|1			item|10126|1	1	1500	Huyền Băng Điêu Hoàng (Lv160)
+82	4	item|3087|1	item|10003|1	50				Huyền Băng Điêu Hoàng (Lv160)
+82	5	item|3087|1	item|10003|1	50				Huyền Băng Điêu Hoàng (Lv160)
+82	-1	item|3087|1						
+83	1	item|4601|2;item|3085|1						Băng Lân Tích Hoàng (Lv140)
+83	2	item|4601|1;item|3086|1						Băng Lân Tích Hoàng (Lv140)
+83	-1	item|3087|1						
+84	1	item|4602|2;item|3085|1						Ngân Câu Hạt Hoàng (Lv140)
+84	2	item|4602|1;item|3086|1						Ngân Câu Hạt Hoàng (Lv140)
+84	-1	item|3087|1						
+85	1	item|4603|2;item|3085|1						Cuồng Tông Ngao Hoàng (Lv140)
+85	2	item|4603|1;item|3086|1						Cuồng Tông Ngao Hoàng (Lv140)
+85	-1	item|3087|1						
+86	1	item|10435|4;item|3085|1			item|10127|1	4	1500	Vạn Độc Cúc Hoàng (Lv170)
+86	2	item|10435|2;item|3086|1			item|10127|1	2	1500	Vạn Độc Cúc Hoàng (Lv170)
+86	3	item|10435|1;item|3087|1			item|10127|1	1	1500	Vạn Độc Cúc Hoàng (Lv170)
+86	4	item|3087|1	item|10435|1	50				Vạn Độc Cúc Hoàng (Lv170)
+86	5	item|3087|1	item|10435|1	50				Vạn Độc Cúc Hoàng (Lv170)
+86	-1	item|3087|1						
+87	1	item|10436|4;item|3085|1			item|10126|1	4	1500	Huyền Băng Điêu Hoàng (Lv170)
+87	2	item|10436|2;item|3086|1			item|10126|1	2	1500	Huyền Băng Điêu Hoàng (Lv170)
+87	3	item|10436|1;item|3087|1			item|10126|1	1	1500	Huyền Băng Điêu Hoàng (Lv170)
+87	4	item|3087|1	item|10436|1	50				Huyền Băng Điêu Hoàng (Lv170)
+87	5	item|3087|1	item|10436|1	50				Huyền Băng Điêu Hoàng (Lv170)
+87	-1	item|3087|1						
+88	1	item|10433|4;item|3085|1						Long Văn Sư Vương (Lv170)
+88	2	item|10433|2;item|3086|1						Long Văn Sư Vương (Lv170)
+88	3	item|10433|1;item|3087|1						Long Văn Sư Vương (Lv170)
+88	4	item|3087|1	item|10433|1	50				Long Văn Sư Vương (Lv170)
+88	5	item|3087|1	item|10433|1	50				Long Văn Sư Vương (Lv170)
+88	-1	item|3087|1						
+89	1	item|10434|4;item|3085|1						Cự Ngao Phong Hậu (Lv170)
+89	2	item|10434|2;item|3086|1						Cự Ngao Phong Hậu (Lv170)
+89	3	item|10434|1;item|3087|1						Cự Ngao Phong Hậu (Lv170)
+89	4	item|3087|1	item|10434|1	50				Cự Ngao Phong Hậu (Lv170)
+89	5	item|3087|1	item|10434|1	50				Cự Ngao Phong Hậu (Lv170)
+89	-1	item|3087|1						

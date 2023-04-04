@@ -1,0 +1,9 @@
+NpcName	NpcTemplateId	TimeFrame	NpcLevel
+Tần Nhuệ Sĩ	1833	OpenLevel89	85
+Tần Nhuệ Sĩ	1833	OpenLevel99	95
+Tần Nhuệ Sĩ	1833	OpenLevel109	105
+Tần Nhuệ Sĩ	1833	OpenLevel119	115
+Tần Nhuệ Sĩ	1833	OpenLevel129	125
+Tần Nhuệ Sĩ	1833	OpenLevel139	135
+Tần Nhuệ Sĩ	1833	OpenLevel149	145
+Tần Nhuệ Sĩ	1833	OpenLevel159	155

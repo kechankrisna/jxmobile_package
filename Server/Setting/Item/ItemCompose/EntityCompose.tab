@@ -1,0 +1,323 @@
+TargetTemplateID	Desc	BagSort	IsShowFrag	NoSellAttachTarget	IsHideTip	ConsumeType	ConsumeCount	KinMsg	ChildTemplateID1	NeedCount1	ChildTemplateID2	NeedCount2	ChildTemplateID3	NeedCount3	ChildTemplateID4	NeedCount4	ChildTemplateID5	NeedCount5	ChildTemplateID6	NeedCount6	ChildTemplateID7	NeedCount7	ChildTemplateID8	NeedCount8	ValidTime
+788	Tàng Bảo Đồ-Cao	1				Coin	2000		1424	1	1425	1	1426	1	1427	1	1428	1							
+2592	Túi Bánh Ít	2				Coin	2000		2586	1	2587	1	2588	1	2589	1									
+3403	Hộp Quà Tạ Ơn	3				Coin	2000		3398	1	3399	1	3400	1	3401	1									
+4808	Đèn Thỏ	4							4800	1	4807	1													
+2688	Hoa Tửu	5				Coin	2000		2684	1	2685	1													
+2690	Thi Kiếm	6				Coin	2000		2686	1	2687	1													
+2875	Bánh Trung Thu	7			1	Coin	1000		2872	3	2873	1	2874	1											
+5422	Đèn Thỏ	8							5420	4	5421	1													
+7455	Tiểu Bạch Khuyển	93	1						7484	5															
+7418	Quyển Yếu Quyết Hiếm Ngẫu Nhiên Bậc 1	94	1						7419	3															
+6148	Hộp Chọn Đồng Hành SSS	10							7619	5															
+7670	Rương Chọn Đá Hồn Lv5	12	1	1					7671	3															
+10149	Mảnh Đá Hồn Diệp Vô Tâm-Sơ	12							10170	100															
+10475	Mảnh Đá Hồn Vân Hạo Nhiên-Sơ	12							10478	100															
+4282	【Hiếm】Thái Hư Linh	11							7620	3															
+9445	Dây Ngũ Sắc	13							9440	1	9441	1	9442	1	9443	1	9444	1							
+9448	Cửu Khổng Châm	14							9446	9	9447	1													
+10252	Ngoại Trang Vũ Khí T3-20 Ngày	15							10254	5															
+10239	Trang Sức-Heo Vàng	16	1						10256	5															
+5566	【Hiếm】Vũ Khí Bậc 16 (Chưa giám định)	89	1						10316	10															
+5626	【Hiếm】Áo Bậc 16 (Chưa giám định)	89	1						10376	10															
+5576	【Hiếm】Xá Tử Liên (Chưa giám định)	89	1						10326	10															
+5586	【Hiếm】Diễn Hoa Giới (Chưa giám định)	89	1						10336	10															
+5596	【Hiếm】Uất Kim Bội (Chưa giám định)	89	1						10346	10															
+5606	【Hiếm】Tỷ Dực Phù (Chưa giám định)	89	1						10356	10															
+5616	【Hiếm】Nón Bậc 16 (Chưa giám định)	89	1						10366	10															
+5636	【Hiếm】Hộ Uyển Bậc 16 (Chưa giám định)	89	1						10386	10															
+5646	【Hiếm】Đai Bậc 16 (Chưa giám định)	89	1						10396	10															
+5656	【Hiếm】Giày Bậc 16 (Chưa giám định)	89	1						10406	10															
+5666	【Kế Thừa】Vũ Khí Bậc 16 (Chưa giám định)	90	1						10321	5															
+5726	【Kế Thừa】Áo Bậc 16 (Chưa giám định)	90	1						10381	5															
+5676	【Kế Thừa】Xá Tử Liên (Chưa giám định)	90	1						10331	5															
+5686	【Kế Thừa】Diễn Hoa Giới (Chưa giám định)	90	1						10341	5															
+5696	【Kế Thừa】Uất Kim Bội (Chưa giám định)	90	1						10351	5															
+5706	【Kế Thừa】Tỷ Dực Phù (Chưa giám định)	90	1						10361	5															
+5716	【Kế Thừa】Nón Bậc 16 (Chưa giám định)	90	1						10371	5															
+5736	【Kế Thừa】Hộ Uyển Bậc 16 (Chưa giám định)	90	1						10391	5															
+5746	【Kế Thừa】Đai Bậc 16 (Chưa giám định)	90	1						10401	5															
+5756	【Kế Thừa】Giày Bậc 16 (Chưa giám định)	90	1						10411	5															
+5565	【Hiếm】Vũ Khí Bậc 15 (Chưa giám định)	91	1						5765	10															
+5625	【Hiếm】Áo Bậc 15 (Chưa giám định)	91	1						5825	10															
+5575	【Hiếm】Bách Hoa Liên (Chưa giám định)	91	1						5775	10															
+5585	【Hiếm】Tiêm Vũ Giới (Chưa giám định)	91	1						5785	10															
+5595	【Hiếm】U Huỳnh Bội (Chưa giám định)	91	1						5795	10															
+5605	【Hiếm】Y Hà Phù (Chưa giám định)	91	1						5805	10															
+5615	【Hiếm】Nón Bậc 15 (Chưa giám định)	91	1						5815	10															
+5635	【Hiếm】Hộ Uyển Bậc 15 (Chưa giám định)	91	1						5835	10															
+5645	【Hiếm】Đai Bậc 15 (Chưa giám định)	91	1						5845	10															
+5655	【Hiếm】Giày Bậc 15 (Chưa giám định)	91	1						5855	10															
+5665	【Kế Thừa】Vũ Khí Bậc 15 (Chưa giám định)	92	1						5770	5															
+5725	【Kế Thừa】Áo Bậc 15 (Chưa giám định)	92	1						5830	5															
+5675	【Kế Thừa】Bách Hoa Liên (Chưa giám định)	92	1						5780	5															
+5685	【Kế Thừa】Tiêm Vũ Giới (Chưa giám định)	92	1						5790	5															
+5695	【Kế Thừa】U Huỳnh Bội (Chưa giám định)	92	1						5800	5															
+5705	【Kế Thừa】Y Hà Phù (Chưa giám định)	92	1						5810	5															
+5715	【Kế Thừa】Nón Bậc 15 (Chưa giám định)	92	1						5820	5															
+5735	【Kế Thừa】Hộ Uyển Bậc 15 (Chưa giám định)	92	1						5840	5															
+5745	【Kế Thừa】Đai Bậc 15 (Chưa giám định)	92	1						5850	5															
+5755	【Kế Thừa】Giày Bậc 15 (Chưa giám định)	92	1						5860	5															
+5564	【Hiếm】Vũ Khí Bậc 14 (Chưa giám định)	93	1						5764	10															
+5624	【Hiếm】Áo Bậc 14 (Chưa giám định)	93	1						5824	10															
+5574	【Hiếm】Tiên Lạc Liên (Chưa giám định)	93	1						5774	10															
+5584	【Hiếm】Tiễn Ngư Giới (Chưa giám định)	93	1						5784	10															
+5594	【Hiếm】Chúc Chiếu Bội (Chưa giám định)	93	1						5794	10															
+5604	【Hiếm】Song Ngư Phù (Chưa giám định)	93	1						5804	10															
+5614	【Hiếm】Nón Bậc 14 (Chưa giám định)	93	1						5814	10															
+5634	【Hiếm】Hộ Uyển Bậc 14 (Chưa giám định)	93	1						5834	10															
+5644	【Hiếm】Đai Bậc 14 (Chưa giám định)	93	1						5844	10															
+5654	【Hiếm】Giày Bậc 14 (Chưa giám định)	93	1						5854	10															
+5664	【Kế Thừa】Vũ Khí Bậc 14 (Chưa giám định)	94	1						5769	5															
+5724	【Kế Thừa】Áo Bậc 14 (Chưa giám định)	94	1						5829	5															
+5674	【Kế Thừa】Tiên Lạc Liên (Chưa giám định)	94	1						5779	5															
+5684	【Kế Thừa】Tiện Ngư Giới (Chưa giám định)	94	1						5789	5															
+5694	【Kế Thừa】Chúc Chiếu Bội (Chưa giám định)	94	1						5799	5															
+5704	【Kế Thừa】Song Ngư Phù (Chưa giám định)	94	1						5809	5															
+5714	【Kế Thừa】Nón Bậc 14 (Chưa giám định)	94	1						5819	5															
+5734	【Kế Thừa】Hộ Uyển Bậc 14 (Chưa giám định)	94	1						5839	5															
+5744	【Kế Thừa】Đai Bậc 14 (Chưa giám định)	94	1						5849	5															
+5754	【Kế Thừa】Giày Bậc 14 (Chưa giám định)	94	1						5859	5															
+5563	【Hiếm】Vũ Khí Bậc 13 (Chưa giám định)	95	1						5763	10															
+5623	【Hiếm】Áo Bậc 13 (Chưa giám định)	95	1						5823	10															
+5573	【Hiếm】Lăng Tiêu Liên (Chưa giám định)	95	1						5773	10															
+5583	【Hiếm】Kỳ Lân Giới (Chưa giám định)	95	1						5783	10															
+5593	【Hiếm】Tì Hưu Bội (Chưa giám định)	95	1						5793	10															
+5603	【Hiếm】Quảng Hàn Phù (Chưa giám định)	95	1						5803	10															
+5613	【Hiếm】Nón Bậc 13 (Chưa giám định)	95	1						5813	10															
+5633	【Hiếm】Hộ Uyển Bậc 13 (Chưa giám định)	95	1						5833	10															
+5643	【Hiếm】Đai Bậc 13 (Chưa giám định)	95	1						5843	10															
+5653	【Hiếm】Giày Bậc 13 (Chưa giám định)	95	1						5853	10															
+5663	【Kế Thừa】Vũ Khí Bậc 13 (Chưa giám định)	96	1						5768	5															
+5723	【Kế Thừa】Áo Bậc 13 (Chưa giám định)	96	1						5828	5															
+5673	【Kế Thừa】Lăng Tiêu Liên (Chưa giám định)	96	1						5778	5															
+5683	【Kế Thừa】Kỳ Lân Giới (Chưa giám định)	96	1						5788	5															
+5693	【Kế Thừa】Tì Hưu Bội (Chưa giám định)	96	1						5798	5															
+5703	【Kế Thừa】Quảng Hàn Phù (Chưa giám định)	96	1						5808	5															
+5713	【Kế Thừa】Nón Bậc 13 (Chưa giám định)	96	1						5818	5															
+5733	【Kế Thừa】Hộ Uyển Bậc 13 (Chưa giám định)	96	1						5838	5															
+5743	【Kế Thừa】Đai Bậc 13 (Chưa giám định)	96	1						5848	5															
+5753	【Kế Thừa】Giày Bậc 13 (Chưa giám định)	96	1						5858	5															
+5562	【Hiếm】Vũ Khí Bậc 12 (Chưa giám định)	97	1						5762	10															
+5622	【Hiếm】Áo Bậc 12 (Chưa giám định)	97	1						5822	10															
+5572	【Hiếm】Lăng Tiêu Liên (Chưa giám định)	97	1						5772	10															
+5582	【Hiếm】Kỳ Lân Giới (Chưa giám định)	97	1						5782	10															
+5592	【Hiếm】Tì Hưu Bội (Chưa giám định)	97	1						5792	10															
+5602	【Hiếm】Quảng Hàn Phù (Chưa giám định)	97	1						5802	10															
+5612	【Hiếm】Nón Bậc 12 (Chưa giám định)	97	1						5812	10															
+5632	【Hiếm】Hộ Uyển Bậc 12 (Chưa giám định)	97	1						5832	10															
+5642	【Hiếm】Đai Bậc 12 (Chưa giám định)	97	1						5842	10															
+5652	【Hiếm】Giày Bậc 12 (Chưa giám định)	97	1						5852	10															
+5662	【Kế Thừa】Vũ Khí Bậc 12 (Chưa giám định)	98	1						5767	5															
+5722	【Kế Thừa】Áo Bậc 12 (Chưa giám định)	98	1						5827	5															
+5672	【Kế Thừa】Lăng Tiêu Liên (Chưa giám định)	98	1						5777	5															
+5682	【Kế Thừa】Kỳ Lân Giới (Chưa giám định)	98	1						5787	5															
+5692	【Kế Thừa】Tì Hưu Bội (Chưa giám định)	98	1						5797	5															
+5702	【Kế Thừa】Quảng Hàn Phù (Chưa giám định)	98	1						5807	5															
+5712	【Kế Thừa】Nón Bậc 12 (Chưa giám định)	98	1						5817	5															
+5732	【Kế Thừa】Hộ Uyển Bậc 12 (Chưa giám định)	98	1						5837	5															
+5742	【Kế Thừa】Đai Bậc 12 (Chưa giám định)	98	1						5847	5															
+5752	【Kế Thừa】Giày Bậc 12 (Chưa giám định)	98	1						5857	5															
+5561	【Hiếm】Vũ Khí Bậc 11 (Chưa giám định)	99	1						5761	10															
+5621	【Hiếm】Áo Bậc 11 (Chưa giám định)	99	1						5821	10															
+5571	【Hiếm】Càn Khôn Liên (Chưa giám định)	99	1						5771	10															
+5581	【Hiếm】Bạch Trạch Giới (Chưa giám định)	99	1						5781	10															
+5591	【Hiếm】Thiên Tâm Bội (Chưa giám định)	99	1						5791	10															
+5601	【Hiếm】Xích Tiêu Phù (Chưa giám định)	99	1						5801	10															
+5611	【Hiếm】Nón Bậc 11 (Chưa giám định)	99	1						5811	10															
+5631	【Hiếm】Hộ Uyển Bậc 11 (Chưa giám định)	99	1						5831	10															
+5641	【Hiếm】Đai Bậc 11 (Chưa giám định)	99	1						5841	10															
+5651	【Hiếm】Giày Bậc 11 (Chưa giám định)	99	1						5851	10															
+5661	【Kế Thừa】Vũ Khí Bậc 11 (Chưa giám định)	100	1						5766	5															
+5721	【Kế Thừa】Áo Bậc 11 (Chưa giám định)	100	1						5826	5															
+5671	【Kế Thừa】Càn Khôn Liên (Chưa giám định)	100	1						5776	5															
+5681	【Kế Thừa】Bạch Trạch Giới (Chưa giám định)	100	1						5786	5															
+5691	【Kế Thừa】Thiên Tâm Bội (Chưa giám định)	100	1						5796	5															
+5701	【Kế Thừa】Xích Tiêu Phù (Chưa giám định)	100	1						5806	5															
+5711	【Kế Thừa】Nón Bậc 11 (Chưa giám định)	100	1						5816	5															
+5731	【Kế Thừa】Hộ Uyển Bậc 11 (Chưa giám định)	100	1						5836	5															
+5741	【Kế Thừa】Đai Bậc 11 (Chưa giám định)	100	1						5846	5															
+5751	【Kế Thừa】Giày Bậc 11 (Chưa giám định)	100	1						5856	5															
+1131	【Hiếm】Vũ Khí Bậc 10 (Chưa giám định)	101	1						3667	10															
+1191	【Hiếm】Áo Bậc 10 (Chưa giám định)	101	1						3679	10															
+1141	【Hiếm】Hồng Nhạn Liên (Chưa giám định)	101	1						3669	10															
+1151	【Hiếm】Thụy Tường Giới (Chưa giám định)	101	1						3671	10															
+1161	【Hiếm】Bắc Minh Bội (Chưa giám định)	101	1						3673	10															
+1171	【Hiếm】Tử Phách Phù (Chưa giám định)	101	1						3675	10															
+1181	【Hiếm】Nón Bậc 10 (Chưa giám định)	101	1						3677	10															
+1201	【Hiếm】Hộ Uyển Bậc 10 (Chưa giám định)	101	1						3681	10															
+1211	【Hiếm】Đai Bậc 10 (Chưa giám định)	101	1						3683	10															
+1221	【Hiếm】Giày Bậc 10 (Chưa giám định)	101	1						3685	10															
+3648	【Kế Thừa】Vũ Khí Bậc 10 (Chưa giám định)	102	1						3668	5															
+3660	【Kế Thừa】Áo Bậc 10 (Chưa giám định)	102	1						3680	5															
+3650	【Kế Thừa】Hồng Nhạn Liên (Chưa giám định)	102	1						3670	5															
+3652	【Kế Thừa】Thụy Tường Giới (Chưa giám định)	102	1						3672	5															
+3654	【Kế Thừa】Bắc Minh Bội (Chưa giám định)	102	1						3674	5															
+3656	【Kế Thừa】Tử Phách Phù (Chưa giám định)	102	1						3676	5															
+3658	【Kế Thừa】Nón Bậc 10 (Chưa giám định)	102	1						3678	5															
+3662	【Kế Thừa】Hộ Uyển Bậc 10 (Chưa giám định)	102	1						3682	5															
+3664	【Kế Thừa】Đai Bậc 10 (Chưa giám định)	102	1						3684	5															
+3666	【Kế Thừa】Giày Bậc 10 (Chưa giám định)	102	1						3686	5															
+1130	【Hiếm】Vũ Khí Bậc 9 (Chưa giám định)	103	1						2945	10															
+1190	【Hiếm】Áo Bậc 9 (Chưa giám định)	103	1						2981	10															
+1140	【Hiếm】Triều Lộ Liên (Chưa giám định)	103	1						2951	10															
+1150	【Hiếm】Ứng Long Giới (Chưa giám định)	103	1						2957	10															
+1160	【Hiếm】Côn Bằng Bội (Chưa giám định)	103	1						2963	10															
+1170	【Hiếm】Tiên Duyên Phù (Chưa giám định)	103	1						2969	10															
+1180	【Hiếm】Nón Bậc 9 (Chưa giám định)	103	1						2975	10															
+1200	【Hiếm】Hộ Uyển Bậc 9 (Chưa giám định)	103	1						2987	10															
+1210	【Hiếm】Đai Bậc 9 (Chưa giám định)	103	1						2993	10															
+1220	【Hiếm】Giày Bậc 9 (Chưa giám định)	103	1						2999	10															
+3647	【Kế Thừa】Vũ Khí Bậc 9 (Chưa giám định)	104	1						2948	5															
+3659	【Kế Thừa】Áo Bậc 9 (Chưa giám định)	104	1						2984	5															
+3649	【Kế Thừa】Triều Lộ Liên (Chưa giám định)	104	1						2954	5															
+3651	【Kế Thừa】Ứng Long Giới (Chưa giám định)	104	1						2960	5															
+3653	【Kế Thừa】Côn Bằng Bội (Chưa giám định)	104	1						2966	5															
+3655	【Kế Thừa】Tiên Duyên Phù (Chưa giám định)	104	1						2972	5															
+3657	【Kế Thừa】Nón Bậc 9 (Chưa giám định)	104	1						2978	5															
+3661	【Kế Thừa】Hộ Uyển Bậc 9 (Chưa giám định)	104	1						2990	5															
+3663	【Kế Thừa】Đai Bậc 9 (Chưa giám định)	104	1						2996	5															
+3665	【Kế Thừa】Giày Bậc 9 (Chưa giám định)	104	1						3002	5															
+1129	【Hiếm】Vũ Khí Bậc 8 (Chưa giám định)	105	1						2944	10															
+1189	【Hiếm】Áo Bậc 8 (Chưa giám định)	105	1						2980	10															
+1139	【Hiếm】Quần Điểu Liên (Chưa giám định)	105	1						2950	10															
+1149	【Hiếm】Hình Thiên Giới (Chưa giám định)	105	1						2956	10															
+1159	【Hiếm】Long Thủ Bội (Chưa giám định)	105	1						2962	10															
+1169	【Hiếm】Thanh Hư Phù (Chưa giám định)	105	1						2968	10															
+1179	【Hiếm】Nón Bậc 8 (Chưa giám định)	105	1						2974	10															
+1199	【Hiếm】Hộ Uyển Bậc 8 (Chưa giám định)	105	1						2986	10															
+1209	【Hiếm】Đai Bậc 8 (Chưa giám định)	105	1						2992	10															
+1219	【Hiếm】Giày Bậc 8 (Chưa giám định)	105	1						2998	10															
+1619	【Kế Thừa】Vũ Khí Bậc 8 (Chưa giám định)	106	1						2947	5															
+1667	【Kế Thừa】Áo Bậc 8 (Chưa giám định)	106	1						2983	5															
+1627	【Kế Thừa】Quần Điểu Liên (Chưa giám định)	106	1						2953	5															
+1635	【Kế Thừa】Hình Thiên Giới (Chưa giám định)	106	1						2959	5															
+1643	【Kế Thừa】Long Thủ Bội (Chưa giám định)	106	1						2965	5															
+1651	【Kế Thừa】Thanh Hư Phù (Chưa giám định)	106	1						2971	5															
+1659	【Kế Thừa】Nón Bậc 8 (Chưa giám định)	106	1						2977	5															
+1675	【Kế Thừa】Hộ Uyển Bậc 8 (Chưa giám định)	106	1						2989	5															
+1683	【Kế Thừa】Đai Bậc 8 (Chưa giám định)	106	1						2995	5															
+1691	【Kế Thừa】Giày Bậc 8 (Chưa giám định)	106	1						3001	5															
+1128	【Hiếm】Vũ Khí Bậc 7 (Chưa giám định)	107	1						2943	10															
+1188	【Hiếm】Áo Bậc 7 (Chưa giám định)	107	1						2979	10															
+1138	【Hiếm】Bắc Thần Liên (Chưa giám định)	107	1						2949	10															
+1148	【Hiếm】Thương Khung Giới (Chưa giám định)	107	1						2955	10															
+1158	【Hiếm】Câu Vân Bội (Chưa giám định)	107	1						2961	10															
+1168	【Hiếm】Thiên Ma Phù (Chưa giám định)	107	1						2967	10															
+1178	【Hiếm】Nón Bậc 7 (Chưa giám định)	107	1						2973	10															
+1198	【Hiếm】Hộ Uyển Bậc 7 (Chưa giám định)	107	1						2985	10															
+1208	【Hiếm】Đai Bậc 7 (Chưa giám định)	107	1						2991	10															
+1218	【Hiếm】Giày Bậc 7 (Chưa giám định)	107	1						2997	10															
+1618	【Kế Thừa】Vũ Khí Bậc 7 (Chưa giám định)	108	1						2946	5															
+1666	【Kế Thừa】Áo Bậc 7 (Chưa giám định)	108	1						2982	5															
+1626	【Kế Thừa】Bắc Thần Liên (Chưa giám định)	108	1						2952	5															
+1634	【Kế Thừa】Thương Khung Giới (Chưa giám định)	108	1						2958	5															
+1642	【Kế Thừa】Câu Vân Bội (Chưa giám định)	108	1						2964	5															
+1650	【Kế Thừa】Thiên Ma Phù (Chưa giám định)	108	1						2970	5															
+1658	【Kế Thừa】Nón Bậc 7 (Chưa giám định)	108	1						2976	5															
+1674	【Kế Thừa】Hộ Uyển Bậc 7 (Chưa giám định)	108	1						2988	5															
+1682	【Kế Thừa】Đai Bậc 7 (Chưa giám định)	108	1						2994	5															
+1690	【Kế Thừa】Giày Bậc 7 (Chưa giám định)	108	1						3000	5															
+1127	【Hiếm】Vũ Khí Bậc 6 (Chưa giám định)	109	1						2090	10															
+1187	【Hiếm】Áo Bậc 6 (Chưa giám định)	109	1						2126	10															
+1137	【Hiếm】Bí Ẩn Liên (Chưa giám định)	109	1						2096	10															
+1147	【Hiếm】Hỏa Phủ Giới (Chưa giám định)	109	1						2102	10															
+1157	【Hiếm】Nhạn Hành Bội (Chưa giám định)	109	1						2108	10															
+1167	【Hiếm】Lôi Thần Phù (Chưa giám định)	109	1						2114	10															
+1177	【Hiếm】Nón Bậc 6 (Chưa giám định)	109	1						2120	10															
+1197	【Hiếm】Hộ Uyển Bậc 6 (Chưa giám định)	109	1						2132	10															
+1207	【Hiếm】Đai Bậc 6 (Chưa giám định)	109	1						2138	10															
+1217	【Hiếm】Giày Bậc 6 (Chưa giám định)	109	1						2144	10															
+1617	【Kế Thừa】Vũ Khí Bậc 6 (Chưa giám định)	110	1						2093	5															
+1665	【Kế Thừa】Áo Bậc 6 (Chưa giám định)	110	1						2129	5															
+1625	【Kế Thừa】Bí Ẩn Liên (Chưa giám định)	110	1						2099	5															
+1633	【Kế Thừa】Hỏa Phủ Giới (Chưa giám định)	110	1						2105	5															
+1641	【Kế Thừa】Nhạn Hành Bội (Chưa giám định)	110	1						2111	5															
+1649	【Kế Thừa】Lôi Thần Phù (Chưa giám định)	110	1						2117	5															
+1657	【Kế Thừa】Nón Bậc 6 (Chưa giám định)	110	1						2123	5															
+1673	【Kế Thừa】Hộ Uyển Bậc 6 (Chưa giám định)	110	1						2135	5															
+1681	【Kế Thừa】Đai Bậc 6 (Chưa giám định)	110	1						2141	5															
+1689	【Kế Thừa】Giày Bậc 6 (Chưa giám định)	110	1						2147	5															
+1126	【Hiếm】Vũ Khí Bậc 5 (Chưa giám định)	111	1						2089	10															
+1186	【Hiếm】Áo Bậc 5 (Chưa giám định)	111	1						2125	10															
+1136	【Hiếm】Ôn Nhuận Liên (Chưa giám định)	111	1						2095	10															
+1146	【Hiếm】Hoang Vu Giới (Chưa giám định)	111	1						2101	10															
+1156	【Hiếm】Long Ngư Bội (Chưa giám định)	111	1						2107	10															
+1166	【Hiếm】Thiên Canh Phù (Chưa giám định)	111	1						2113	10															
+1176	【Hiếm】Nón Bậc 5 (Chưa giám định)	111	1						2119	10															
+1196	【Hiếm】Hộ Uyển Bậc 5 (Chưa giám định)	111	1						2131	10															
+1206	【Hiếm】Đai Bậc 5 (Chưa giám định)	111	1						2137	10															
+1216	【Hiếm】Giày Bậc 5 (Chưa giám định)	111	1						2143	10															
+1616	【Kế Thừa】Vũ Khí Bậc 5 (Chưa giám định)	112	1						2092	5															
+1664	【Kế Thừa】Áo Bậc 5 (Chưa giám định)	112	1						2128	5															
+1624	【Kế Thừa】Ôn Nhuận Liên (Chưa giám định)	112	1						2098	5															
+1632	【Kế Thừa】Hoang Vu Giới (Chưa giám định)	112	1						2104	5															
+1640	【Kế Thừa】Long Ngư Bội (Chưa giám định)	112	1						2110	5															
+1648	【Kế Thừa】Thiên Canh Phù (Chưa giám định)	112	1						2116	5															
+1656	【Kế Thừa】Nón Bậc 5 (Chưa giám định)	112	1						2122	5															
+1672	【Kế Thừa】Hộ Uyển Bậc 5 (Chưa giám định)	112	1						2134	5															
+1680	【Kế Thừa】Đai Bậc 5 (Chưa giám định)	112	1						2140	5															
+1688	【Kế Thừa】Giày Bậc 5 (Chưa giám định)	112	1						2146	5															
+1125	【Hiếm】Vũ Khí Bậc 4 (Chưa giám định)	113	1						2088	10															
+1185	【Hiếm】Áo Bậc 4 (Chưa giám định)	113	1						2124	10															
+1135	【Hiếm】Ngũ Sắc Hạng Liên (Chưa giám định)	113	1						2094	10															
+1145	【Hiếm】Phá Quân Giới (Chưa giám định)	113	1						2100	10															
+1155	【Hiếm】Ngọc Thiền Bội (Chưa giám định)	113	1						2106	10															
+1165	【Hiếm】Xuất Vân Phù (Chưa giám định)	113	1						2112	10															
+1175	【Hiếm】Nón Bậc 4 (Chưa giám định)	113	1						2118	10															
+1195	【Hiếm】Hộ Uyển Bậc 4 (Chưa giám định)	113	1						2130	10															
+1205	【Hiếm】Đai Bậc 4 (Chưa giám định)	113	1						2136	10															
+1215	【Hiếm】Giày Bậc 4 (Chưa giám định)	113	1						2142	10															
+1615	【Kế Thừa】Vũ Khí Bậc 4 (Chưa giám định)	114	1						2091	5															
+1663	【Kế Thừa】Áo Bậc 4 (Chưa giám định)	114	1						2127	5															
+1623	【Kế Thừa】Ngũ Sắc Hạng Liên (Chưa giám định)	114	1						2097	5															
+1631	【Kế Thừa】Phá Quân Giới (Chưa giám định)	114	1						2103	5															
+1639	【Kế Thừa】Ngọc Thiền Bội (Chưa giám định)	114	1						2109	5															
+1647	【Kế Thừa】Xuất Vân Phù (Chưa giám định)	114	1						2115	5															
+1655	【Kế Thừa】Nón Bậc 4 (Chưa giám định)	114	1						2121	5															
+1671	【Kế Thừa】Hộ Uyển Bậc 4 (Chưa giám định)	114	1						2133	5															
+1679	【Kế Thừa】Đai Bậc 4 (Chưa giám định)	114	1						2139	5															
+1687	【Kế Thừa】Giày Bậc 4 (Chưa giám định)	114	1						2145	5															
+3021	Lý Phi Sa	201	1						3395	10															
+3392	Hồng Ly	202	1						3396	10															
+3393	Lục Tung	203	1						3397	10															
+3311	Bát Gia Tướng Y	301	1						3312	10															
+1378	Đồng Hành-Độc Cô Kiếm	401	1						3406	10															
+2253	Đồng Hành-Nam Cung Phi	402	1						3407	10															
+2254	Đồng Hành-Dương Ảnh Phong	403	1						3408	10															
+1398	Đồng Hành-Kinh Kha	404	1						3409	10															
+2258	Đồng Hành-Ngu Cơ	405	1						3410	10															
+2259	Đồng Hành-Nhạc Phi	406	1						3411	10															
+1399	Đồng Hành-Lý Quảng 	407	1						3412	10															
+1400	Đồng Hành-Triệu Vân	408	1						3413	10															
+1401	Đồng Hành-Lý Nguyên Bá	409	1						3414	10															
+3449	Cương Bậc 7	501	1						3466	20															
+3454	Yên Bậc 7	501	1						3473	20															
+3459	Bàn Đạp Bậc 7	501	1						3480	20															
+3448	Cương Bậc 6	502	1						3465	20															
+3453	Yên Bậc 6	502	1						3472	20															
+3458	Bàn Đạp Bậc 6	502	1						3479	20															
+3447	Cương Bậc 5	503	1						3464	20															
+3452	Yên Bậc 5	503	1						3471	20															
+3457	Bàn Đạp Bậc 5	503	1						3478	20															
+3446	Cương Bậc 4	504	1						3463	20															
+3451	Yên Bậc 4	504	1						3470	20															
+3456	Bàn Đạp Bậc 4	504	1						3477	20															
+3445	Cương Bậc 3	505	1						3462	20															
+3450	Yên Bậc 3	505	1						3469	20															
+3455	Bàn Đạp Bậc 3	505	1						3476	20															
+3416	Cương Bậc 2	506	1						3461	10															
+3418	Yên Bậc 2	506	1						3468	10															
+3420	Bàn Đạp Bậc 2	506	1						3475	10															
+3415	Cương Bậc 1	507	1						3460	5															
+3417	Yên Bậc 1	507	1						3467	5															
+3419	Bàn Đạp Bậc 1	507	1						3474	5															
+6694	Hộp Quà Hào Hiệp	9				Coin	2000	800	6686	1	6687	1	6688	1	6689	1	6691	1	6690	1	6692	1	6693	1	
+9855	Thịnh Điển Lệnh	15				Coin	1000	900	9850	1	9851	1	9852	1	9853	1	9854	1							2018/11/25 23:59
+10146	【Môn Khách】Tần Thủy Hoàng	410	1						10195	5															
+10128	Đá Hồn Hoàn Nhan Tông Hàn-Sơ	16							10196	5															
+9971	Đá Hồn Phong Hành Chu-Sơ	17							10277	5															
+7648	Đá Hồn Vương Đằng-Sơ	18							10278	5															
+9401	Đá Hồn Mạnh Thương Lam-Sơ	21							10554	5															
+4849	Đá Hồn Đường Hiểu-Sơ	22							10555	5															
+9974	Đá Hồn Phương Công Vọng-Sơ	23							10556	5															

@@ -1,0 +1,68 @@
+Kind	KeyID	UiGroupID	Desc	NotVersion_tx	NotVersion_vn	NotVersion_hk	NotVersion_xm	NotVersion_en	NotVersion_kor	NotVersion_th
+Chat	1	1	Xin chào!							
+Angry	2	1	Nộ Khí Xung Thiên							
+PkExcercise	3	1	Tỉ Thí Nào							
+QuickTeamUp	4	1	Lập Tổ Đội							
+Prison	5	1	Truy nã							
+RedBag	6	1	Lì Xì							
+HonorLevel	7	1	Quân Hàm							
+Title	8	1	Danh hiệu							
+Charm	64	1	Hấp dẫn							
+Partner	9	1	Hỗ Trợ Đồng Hành							
+Friend	10	2	Hảo Hữu							
+FriendFamiliar	11	2	Can Đảm Tương Chiếu							
+Foe	12	2	Kẻ Thù							
+Family	13	2	Tình Nghĩa Bang Hội							
+KinFuben	14	2	Thí Luyện Bang Hội							
+GetMeFight	15	2	Đến Truyền Công							
+FamilyContribute	16	2	Cống Hiến Bang Hội							
+PayOff	17	2	Đã Phát Lương							
+FirstAuctionDeal	18	2	Muốn Mua							
+EquipRefinement	19	3	Tẩy Luyện Trang Bị							
+EnhanceOnce	20	3	Cường Hóa Trang Bị							
+EnhanceFailure	21	3	Thiếu Chút May Mắn							
+EnhanceMaster	22	3	Cao Thủ Cường Hóa							
+InsetOnce	23	3	Khảm Trang Bị							
+InsetFull	24	3	Đã Khảm Đầy							
+InsetMaster	25	3	Thợ Khảm							
+PerfectDay	26	4	Ngày Hoàn Mỹ							
+TheBox	27	4	Rương Hoàng Kim							
+SignIn	28	4	Đến Điểm Danh							
+MoneyTree	29	4	Rung Cây Tiền							
+XiuLian	31	5	Luyện Công Ngoài Thành							
+CommerceTask	32	5	Nhiệm Vụ Thương Hội							
+Cangbaotu	33	5	Tàng Bảo Đồ							
+Dungeon	34	5	Địa Cung Ngẫu Nhiên							
+HighCangbaotu	35	5	Tàng Bảo Đồ-Cao							
+PunishTask	36	5	Nhiệm Vụ Trừng Ác							
+TeamFuben	37	5	Bí Cảnh Tổ Đội							
+SearchFuben	38	5	Tìm Kiếm Ải							
+RandomFuben	39	5	Lăng Tuyệt Phong							
+RandomFubenCard	65	5	Thu thập thẻ							
+JuanZhou	66	5	Quyển Nhiệm Vụ							
+RankBattle	40	6	Võ Thần Điện							
+Battle	41	6	Quyết Chiến Sa Trường							
+Rank	42	6	Dục Huyết Phấn Chiến							
+HeroChallenge	43	6	Khiêu Chiến Anh Hùng							
+QunYingHui	67	6	Quần Anh Hội							
+TeamBattle	44	6	Thông Thiên Tháp							
+FactionBattle	45	6	Thi Đấu Môn Phái							
+WhiteTiger	46	7	Bạch Hổ Đường							
+Boss	47	7	Minh Chủ Võ Lâm							
+BossRob	48	7	Lần đầu đoạt điểm Minh Chủ Võ Lâm							
+BossNumberOne	49	7	Hạng 1 Minh Chủ Võ Lâm							
+BossChallenge	50	7	Khiêu chiến Minh Chủ Võ Lâm 1 lần							
+FieldLeader	51	7	Thủ Lĩnh Dã Ngoại							
+FieldBoss	52	7	Danh Tướng							
+ImperialTombEmperor	68	7	Thủy Hoàng/Nữ Đế							
+KinEscort	53	7	Vận Tiêu Bang Hội							
+DomainBattle	54	7	Lãnh Thổ Chiến							
+TeacherStudentElite	56	2	Sư Đồ Tinh Anh							
+TeacherStudentMaster	57	2	Sư Đồ Tông Sư							
+TeamBattleFurniture	58	6	Thông Thiên Tháp 8							
+FactionBattleNew	59	6	Tân Vương Thi Đấu Môn Phái							
+FactionBattleBrother	60	6	Đại Sư Huynh Thi Đấu Môn Phái							
+HuaShanLunJian	61	6	Quán Quân Hoa Sơn Luận Kiếm							
+InDifferBattle	69	6	Tâm Ma Ảo Cảnh							
+IDIPZan	70	2	Thích trang cá nhân		1	1	1	1	1	1
+IDIPPopularity	71	2	Nổi tiếng		1	1	1	1	1	1

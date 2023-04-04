@@ -1,0 +1,118 @@
+TemplateId	Name	Kind	ShowType	ItemType	DetailType	Level	RequireLevel	RealLevel	Icon	BigIcon	ObjID	Intro	Price	Quality	ItemValue	Sellable	ClassName	ResEffect	FightPower	Attrib1Type	Attrib1Value1	Attrib1Value2	Attrib1Value3	Attrib2Type	Attrib2Value1	Attrib2Value2	Attrib2Value3	Attrib3Type	Attrib3Value1	Attrib3Value2	Attrib3Value3	Attrib4Type	Attrib4Value1	Attrib4Value2	Attrib4Value3	Attrib5Type	Attrib5Value1	Attrib5Value2	Attrib5Value3	Attrib6Type	Attrib6Value1	Attrib6Value2	Attrib6Value3	Attrib7Type	Attrib7Value1	Attrib7Value2	Attrib7Value3	Attrib8Type	Attrib8Value1	Attrib8Value2	Attrib8Value3	Attrib9Type	Attrib9Value1	Attrib9Value2	Attrib9Value3	Attrib10Type	Attrib10Value1	Attrib10Value2	Attrib10Value3	HoleCount	InsetLevel
+71	Hộ Uyển T1	T1_Cuff_Q1	7101	9	1	1	1	1					5000	1	5000	1	equip		0	attackrate_v	120																																								
+72	Hộ Uyển T2	T2_Cuff_Q1	7102	9	1	2	26	3					10000	2	10000	1	equip		0	attackrate_v	160																																							1	2
+73	Hộ Uyển T3	T3_Cuff_Q1	7103	9	1	3	43	6					20000	3	20000	1	equip		0	attackrate_v	200																																							2	3
+74	Hộ Uyển T4	T4_Cuff_Q1	7104	9	1	4	53	9					40000	4	40000	1	equip		0	attackrate_v	300																																							3	4
+75	Hộ Uyển T5	T5_Cuff_Q1	7105	9	1	5	63	12					80000	5	80000	1	equip		0	attackrate_v	400																																							4	4
+76	Hộ Uyển T6	T6_Cuff_Q1	7106	9	1	6	73	15					160000	6	160000	1	equip		0	attackrate_v	500																																							4	5
+77	Hộ Uyển T7	T7_Cuff_Q1	7107	9	1	7	83	18					320000	7	320000	1	equip		0	attackrate_v	600																																							4	5
+78	Hộ Uyển T8	T8_Cuff_Q1	7108	9	1	8	93	21					450000	8	450000	1	equip		0	attackrate_v	700																																							5	5
+79	Hộ Uyển T9	T9_Cuff_Q1	7109	9	1	9	103	24					600000	8	600000	1	equip		0	attackrate_v	800																																							6	6
+80	Hộ Uyển T10	T10_Cuff_Q1	7110	9	1	10	113	27					800000	8	800000	1	equip		0	attackrate_v	900																																							7	6
+4971	Hộ Uyển T11	T11_Cuff_Q1	7111	9	1	11	123	30					1000000	8	1000000	1	equip		0	attackrate_v	1000																																							7	7
+4972	Hộ Uyển T12	T12_Cuff_Q1	7112	9	1	12	133	33					1200000	8	1200000	1	equip		0	attackrate_v	1100																																							7	7
+4973	Hộ Uyển T13	T13_Cuff_Q1	7113	9	1	13	143	36					1350000	8	1350000	1	equip		0	attackrate_v	1210																																							7	7
+4974	Hộ Uyển T14	T14_Cuff_Q1	7114	9	1	14	153	39					1480000	8	1480000	1	equip		0	attackrate_v	1331																																							7	7
+4975	Hộ Uyển T15	T15_Cuff_Q1	7115	9	1	15	163	42					1636000	8	1636000	1	equip		0	attackrate_v	1464																																							7	7
+4976	Hộ Uyển T16	T16_Cuff_Q1	7116	9	1	16	173	45					1800000	8	1800000	1	equip		0	attackrate_v	1611																																							7	7
+4977	Hộ Uyển T17	T17_Cuff_Q1	7117	9	1	17	183	48					1980000	8	1980000	1	equip		0	attackrate_v	1772																																							7	7
+4978	Hộ Uyển T18	T18_Cuff_Q1	7118	9	1	18	193	51					800000	8	800000	1	equip		0	attackrate_v	1949																																							7	7
+4979	Hộ Uyển T19	T19_Cuff_Q1	7119	9	1	19	203	54					800000	8	800000	1	equip		0	attackrate_v	2144																																							7	7
+4980	Hộ Uyển T20	T20_Cuff_Q1	7120	9	1	20	213	57					800000	8	800000	1	equip		0	attackrate_v	2358																																							7	7
+1578	【Kế Thừa】Hộ Uyển Bậc 1	T1_Cuff_Q3	7501	9	3	1	1	2					20000	1	20000	1	equip		0	attackrate_v	140																																								
+1579	【Kế Thừa】Hộ Uyển Bậc 2	T2_Cuff_Q3	7502	9	3	2	26	5					40000	2	40000	1	equip		0	attackrate_v	180																																							2	2
+1580	【Kế Thừa】Hộ Uyển Bậc 3	T3_Cuff_Q3	7503	9	3	3	43	8					80000	3	80000	1	equip		0	attackrate_v	250																																							3	3
+1581	【Kế Thừa】Hộ Uyển Bậc 4	T4_Cuff_Q3	7504	9	3	4	53	11					200000	4	200000	1	equip		0	attackrate_v	350																																							3	4
+1582	【Kế Thừa】Hộ Uyển Bậc 5	T5_Cuff_Q3	7505	9	3	5	63	14					450000	5	450000	1	equip		0	attackrate_v	450																																							4	4
+1583	【Kế Thừa】Hộ Uyển Bậc 6	T6_Cuff_Q3	7506	9	3	6	73	17					600000	6	600000	1	equip		0	attackrate_v	550																																							4	5
+1584	【Kế Thừa】Hộ Uyển Bậc 7	T7_Cuff_Q3	7507	9	3	7	83	20					800000	7	800000	1	equip		0	attackrate_v	650																																							5	5
+1585	【Kế Thừa】Hộ Uyển Bậc 8	T8_Cuff_Q3	7508	9	3	8	93	23					1200000	8	1200000	1	equip		0	attackrate_v	808																																							5	6
+3613	【Kế Thừa】Hộ Uyển Bậc 9	T9_Cuff_Q3	7509	9	3	9	103	26					1620000	8	1800000	1	equip		0	attackrate_v	900																																							6	6
+3614	【Kế Thừa】Hộ Uyển Bậc 10	T10_Cuff_Q3	7510	9	3	10	113	29					2160000	8	2400000	1	equip		0	attackrate_v	1000																																							7	6
+5171	【Kế Thừa】Hộ Uyển Bậc 11	T11_Cuff_Q3	7511	9	3	11	123	32					2880000	8	3200000	1	equip		0	attackrate_v	1100																																							7	7
+5172	【Kế Thừa】Hộ Uyển Bậc 12	T12_Cuff_Q3	7512	9	3	12	133	35					3450000	8	3840000	1	equip		0	attackrate_v	1200																																							7	7
+5173	【Kế Thừa】Hộ Uyển Bậc 13	T13_Cuff_Q3	7513	9	3	13	143	38					3960000	8	4224000	1	equip		0	attackrate_v	1320																																							7	7
+5174	【Kế Thừa】Hộ Uyển Bậc 14	T14_Cuff_Q3	7514	9	3	14	153	41					4360000	8	4350000	1	equip		0	attackrate_v	1452																																							7	7
+5175	【Kế Thừa】Hộ Uyển Bậc 15	T15_Cuff_Q3	7515	9	3	15	163	44					4800000	8	4809000	1	equip		0	attackrate_v	1597																																							7	7
+5176	【Kế Thừa】Hộ Uyển Bậc 16	T16_Cuff_Q3	7516	9	3	16	173	47					5300000	8	5300000	1	equip		0	attackrate_v	1757																																							7	7
+5177	【Kế Thừa】Hộ Uyển Bậc 17	T17_Cuff_Q3	7517	9	3	17	183	50					5800000	8	5800000	1	equip		0	attackrate_v	1933																																							7	7
+5178	【Kế Thừa】Hộ Uyển Bậc 18	T18_Cuff_Q3	7518	9	3	18	193	53					2400000	8	2400000	1	equip		0	attackrate_v	2126																																							7	7
+5179	【Kế Thừa】Hộ Uyển Bậc 19	T19_Cuff_Q3	7519	9	3	19	203	56					2400000	8	2400000	1	equip		0	attackrate_v	2338																																							7	7
+5180	【Kế Thừa】Hộ Uyển Bậc 20	T20_Cuff_Q3	7520	9	3	20	213	59					2400000	8	2400000	1	equip		0	attackrate_v	2572																																							7	7
+171	【Hiếm】Hộ Uyển Bậc 1	T1_Cuff_Q2	7201	9	2	1	1	4					50000	1	50000	1	equip		0	attackrate_v	172																																								
+172	【Hiếm】Hộ Uyển Bậc 2	T2_Cuff_Q2	7202	9	2	2	26	7					100000	2	100000	1	equip		0	attackrate_v	230																																							3	3
+173	【Hiếm】Hộ Uyển Bậc 3	T3_Cuff_Q2	7203	9	2	3	43	10					250000	3	250000	1	equip		0	attackrate_v	330																																							3	4
+174	【Hiếm】Hộ Uyển Bậc 4	T4_Cuff_Q2	7204	9	2	4	53	13					600000	4	600000	1	equip		0	attackrate_v	430																																							4	4
+175	【Hiếm】Hộ Uyển Bậc 5	T5_Cuff_Q2	7205	9	2	5	63	16					1250000	5	1250000	1	equip		0	attackrate_v	530																																							4	5
+176	【Hiếm】Hộ Uyển Bậc 6	T6_Cuff_Q2	7206	9	2	6	73	19					1500000	6	1500000	1	equip		0	attackrate_v	630																																							5	5
+177	【Hiếm】Hộ Uyển Bậc 7	T7_Cuff_Q2	7207	9	2	7	83	22					2000000	7	2000000	1	equip		0	attackrate_v	770																																							5	6
+178	【Hiếm】Hộ Uyển Bậc 8	T8_Cuff_Q2	7208	9	2	8	93	25					2700000	8	2700000	1	equip		0	attackrate_v	848																																							6	6
+179	【Hiếm】Hộ Uyển Bậc 9	T9_Cuff_Q2	7209	9	2	9	103	28					3600000	8	4000000	1	equip		0	attackrate_v	1001																																							7	6
+180	【Hiếm】Hộ Uyển Bậc 10	T10_Cuff_Q2	7210	9	2	10	113	31					4500000	8	5000000	1	equip		0	attackrate_v	1102																																							7	7
+5071	【Hiếm】Hộ Uyển Bậc 11	T11_Cuff_Q2	7211	9	2	11	123	34					5700000	8	6250000	1	equip		0	attackrate_v	1200																																							7	7
+5072	【Hiếm】Hộ Uyển Bậc 12	T12_Cuff_Q2	7212	9	2	12	133	37					6840000	8	7500000	1	equip		0	attackrate_v	1320																																							7	7
+5073	【Hiếm】Hộ Uyển Bậc 13	T13_Cuff_Q2	7213	9	2	13	143	40					7120000	8	8250000	1	equip		0	attackrate_v	1452																																							7	7
+5074	【Hiếm】Hộ Uyển Bậc 14	T14_Cuff_Q2	7214	9	2	14	153	43					7840000	8	7830000	1	equip		0	attackrate_v	1597																																							7	7
+5075	【Hiếm】Hộ Uyển Bậc 15	T15_Cuff_Q2	7215	9	2	15	163	46					8630000	8	8628000	1	equip		0	attackrate_v	1757																																							7	7
+5076	【Hiếm】Hộ Uyển Bậc 16	T16_Cuff_Q2	7216	9	2	16	173	49					9500000	8	9500000	1	equip		0	attackrate_v	1933																																							7	7
+5077	【Hiếm】Hộ Uyển Bậc 17	T17_Cuff_Q2	7217	9	2	17	183	52					10450000	8	10450000	1	equip		0	attackrate_v	2126																																							7	7
+5078	【Hiếm】Hộ Uyển Bậc 18	T18_Cuff_Q2	7218	9	2	18	193	55					5000000	8	5000000	1	equip		0	attackrate_v	2338																																							7	7
+5079	【Hiếm】Hộ Uyển Bậc 19	T19_Cuff_Q2	7219	9	2	19	203	58					5000000	8	5000000	1	equip		0	attackrate_v	2572																																							7	7
+5080	【Hiếm】Hộ Uyển Bậc 20	T20_Cuff_Q2	7220	9	2	20	213	61					5000000	8	5000000	1	equip		0	attackrate_v	2830																																							7	7
+2785	【Hoàng Kim】Hộ Uyển Bậc 6	T6_Cuff_Q4	7306	9	4	6	73	101					19500000	7	19500000	1	equip		18000	attackrate_v	820																																							5	6
+2786	【Hoàng Kim】Hộ Uyển Bậc 7	T7_Cuff_Q4	7307	9	4	7	83	102					30800000	7	30800000	1	equip		28800	attackrate_v	1001																																							6	6
+2787	【Hoàng Kim】Hộ Uyển Bậc 8	T8_Cuff_Q4	7308	9	4	8	93	103					45900000	7	45900000	1	equip		43200	attackrate_v	1102																																							7	6
+3633	【Hoàng Kim】Hộ Uyển Bậc 9	T9_Cuff_Q4	7309	9	4	9	103	104					61600000	7	61600000	1	equip		57600	attackrate_v	1200																																							7	7
+3634	【Hoàng Kim】Hộ Uyển Bậc 10	T10_Cuff_Q4	7310	9	4	10	113	105					77000000	7	77000000	1	equip		72000	attackrate_v	1400																																							7	7
+5395	【Hoàng Kim】Hộ Uyển Bậc 11	T11_Cuff_Q4	7311	9	4	11	123	106					92650000	7	92650000	1	equip		86400	attackrate_v	1600																																							7	7
+5396	【Hoàng Kim】Hộ Uyển Bậc 12	T12_Cuff_Q4	7312	9	4	12	133	107					108300000	7	108300000	1	equip		108300	attackrate_v	1800																																							7	7
+5397	【Hoàng Kim】Hộ Uyển Bậc 13	T13_Cuff_Q4	7313	9	4	13	143	108					122700000	7	122700000	1	equip		122700	attackrate_v	1980																																							7	7
+5398	【Hoàng Kim】Hộ Uyển Bậc 14	T14_Cuff_Q4	7314	9	4	14	153	109					137100000	7	137100000	1	equip		137100	attackrate_v	2178																																							7	7
+5399	【Hoàng Kim】Hộ Uyển Bậc 15	T15_Cuff_Q4	7315	9	4	15	163	110					151500000	7	151500000	1	equip		151500	attackrate_v	2396																																							7	7
+9780	【Hoàng Kim】Bao Tay Bậc 16	T16_Cuff_Q4	7316	9	4	16	173	111					165900000	7	165900000	1	equip		165900	attackrate_v	2635																																							7	7
+9781	【Hoàng Kim】Bao Tay Bậc 17	T17_Cuff_Q4	7317	9	4	17	183	112					180300000	8	180300000	1	equip		180300	attackrate_v	2899																																							7	7
+9782	【Hoàng Kim】Bao Tay Bậc 18	T18_Cuff_Q4	7318	9	4	18	193	113					151500000	7	151500000	1	equip		151500	attackrate_v	3189																																							7	7
+9783	【Hoàng Kim】Bao Tay Bậc 19	T19_Cuff_Q4	7319	9	4	19	203	114					151500000	7	151500000	1	equip		151500	attackrate_v	3508																																							7	7
+9784	【Hoàng Kim】Bao Tay Bậc 20	T20_Cuff_Q4	7320	9	4	20	213	115					151500000	7	151500000	1	equip		151500	attackrate_v	3858																																							7	7
+10071	【Bạch Kim】Bao Tay Bậc 10	T10_Cuff_Q5	7910	9	5	10	113	105					84200000	7	84200000	1	equip		79200	attackrate_v	1600																																							7	7
+10072	【Bạch Kim】Bao Tay Bậc 11	T11_Cuff_Q5	7911	9	5	11	123	106					103450000	7	103450000	1	equip		97200	attackrate_v	1800																																							7	7
+10073	【Bạch Kim】Bao Tay Bậc 12	T12_Cuff_Q5	7912	9	5	12	133	107					122700000	7	122700000	1	equip		122700	attackrate_v	2000																																							7	7
+10074	【Bạch Kim】Bao Tay Bậc 13	T13_Cuff_Q5	7913	9	5	13	143	108					140700000	7	140700000	1	equip		140700	attackrate_v	2200																																							7	7
+10075	【Bạch Kim】Bao Tay Bậc 14	T14_Cuff_Q5	7914	9	5	14	153	109					158700000	7	158700000	1	equip		158700	attackrate_v	2400																																							7	7
+10076	【Bạch Kim】Bao Tay Bậc 15	T15_Cuff_Q5	7915	9	5	15	163	110					176700000	7	176700000	1	equip		176700	attackrate_v	2700																																							7	7
+10077	【Bạch Kim】Bao Tay Bậc 16	T16_Cuff_Q5	7916	9	5	16	173	111					194700000	7	194700000	1	equip		194700	attackrate_v	2928																																							7	7
+10078	【Bạch Kim】Bao Tay Bậc 17	T17_Cuff_Q5	7917	9	5	17	183	112					212700000	8	212700000	1	equip		212700	attackrate_v	3221																																							7	7
+10079	【Bạch Kim】Bao Tay Bậc 18	T18_Cuff_Q5	7918	9	5	18	193	113					176700000	7	176700000	1	equip		169200	attackrate_v	3543																																							7	7
+10080	【Bạch Kim】Bao Tay Bậc 19	T19_Cuff_Q5	7919	9	5	19	203	114					176700000	7	176700000	1	equip		169200	attackrate_v	3897																																							7	7
+10081	【Bạch Kim】Bao Tay Bậc 20	T20_Cuff_Q5	7920	9	5	20	213	115					176700000	7	176700000	1	equip		169200	attackrate_v	4287																																							7	7
+435	Hộ Uyển T1 (Thấp)	T1_Cuff_Test_Q1	7101	9	1	1	1	1					20000	1	3000	1	equip		0	attackrate_v	120																																								
+436	Hộ Uyển T2 (Thấp)	T2_Cuff_Test_Q1	7102	9	1	2	1	3					40000	2	3000	1	equip		0	attackrate_v	160																																							3	1
+437	Hộ Uyển T3 (Thấp)	T3_Cuff_Test_Q1	7103	9	1	3	1	6					80000	3	3000	1	equip		0	attackrate_v	200																																							3	2
+438	Hộ Uyển T4 (Thấp)	T4_Cuff_Test_Q1	7104	9	1	4	1	9					200000	4	3000	1	equip		0	attackrate_v	240																																							3	3
+439	Hộ Uyển T5 (Thấp)	T5_Cuff_Test_Q1	7105	9	1	5	1	12					500000	5	3000	1	equip		0	attackrate_v	300																																							3	3
+440	Hộ Uyển T6 (Thấp)	T6_Cuff_Test_Q1	7106	9	1	6	73	15					1200000	6	3000	1	equip		0	attackrate_v	500																																							4	5
+441	Hộ Uyển T7 (Thấp)	T7_Cuff_Test_Q1	7107	9	1	7	83	18					3200000	7	3000	1	equip		0	attackrate_v	600																																							4	5
+442	Hộ Uyển T8 (Thấp)	T8_Cuff_Test_Q1	7108	9	1	8	93	21					7000000	8	3000	1	equip		0	attackrate_v	700																																							5	5
+3836	Hộ Uyển T9 (Thấp) 	T9_Cuff_Test_Q1	7109	9	1	9	103	24					7000000	8	3000	1	equip		0	attackrate_v	800																																							6	6
+3837	Hộ Uyển T10 (Thấp)	T10_Cuff_Test_Q1	7110	9	1	10	113	27					7000000	8	3000	1	equip		0	attackrate_v	900																																							7	6
+443	Hộ Uyển T1 (Trung)	T1_Cuff_Test_Q2	7101	9	2	1	1	1					20000	1	3000	1	equip		0	attackrate_v	120																																								
+444	Hộ Uyển T2 (Trung)	T2_Cuff_Test_Q2	7102	9	2	2	20	3					40000	2	3000	1	equip		0	attackrate_v	160																																							3	1
+445	Hộ Uyển T3 (Trung)	T3_Cuff_Test_Q2	7103	9	2	3	46	6					80000	3	3000	1	equip		0	attackrate_v	200																																							3	2
+446	Hộ Uyển T4 (Trung)	T4_Cuff_Test_Q2	7104	9	2	4	56	9					200000	4	3000	1	equip		0	attackrate_v	240																																							3	3
+447	Hộ Uyển T5 (Trung)	T5_Cuff_Test_Q2	7105	9	2	5	66	12					500000	5	3000	1	equip		0	attackrate_v	300																																							3	3
+448	【Kế Thừa】Hộ Uyển Bậc 6	T6_Cuff_Test_Q2	7506	9	2	6	73	15					600000	6	600000	1	equip		0	attackrate_v	550																																							4	5
+449	Hộ Uyển T7 (Trung)	T7_Cuff_Test_Q2	7107	9	2	7	83	18					3200000	7	3000	1	equip		0	attackrate_v	650																																							5	5
+450	Hộ Uyển T8 (Trung)	T8_Cuff_Test_Q2	7108	9	2	8	93	21					7000000	8	3000	1	equip		0	attackrate_v	808																																							5	6
+3838	Hộ Uyển T9 (Trung) 	T9_Cuff_Test_Q2	7109	9	2	9	103	24					7000000	8	3000	1	equip		0	attackrate_v	900																																							6	6
+3839	Hộ Uyển T10 (Trung)	T10_Cuff_Test_Q2	7110	9	2	10	113	27					7000000	8	3000	1	equip		0	attackrate_v	1000																																							7	6
+451	Hộ Uyển T1 (Cao)	T1_Cuff_Test_Q3	7201	9	3	1	1	1					20000	1	3000	1	equip		0	attackrate_v	120																																								
+452	Hộ Uyển T2 (Cao)	T2_Cuff_Test_Q3	7202	9	3	2	26	3					40000	2	3000	1	equip		0	attackrate_v	160																																							3	3
+453	Hộ Uyển T3 (Cao)	T3_Cuff_Test_Q3	7203	9	3	3	43	6					80000	3	3000	1	equip		0	attackrate_v	200																																							3	4
+454	Hộ Uyển T4 (Cao)	T4_Cuff_Test_Q3	7204	9	3	4	53	9					200000	4	3000	1	equip		0	attackrate_v	240																																							4	4
+455	Hộ Uyển T5 (Cao)	T5_Cuff_Test_Q3	7205	9	3	5	63	12					500000	5	3000	1	equip		0	attackrate_v	300																																							4	5
+456	Hộ Uyển T6 (Cao)	T6_Cuff_Test_Q3	7206	9	3	6	73	15					1200000	6	3000	1	equip		0	attackrate_v	630																																							5	5
+457	Hộ Uyển T7 (Cao)	T7_Cuff_Test_Q3	7207	9	3	7	83	18					3200000	7	3000	1	equip		0	attackrate_v	420																																							5	6
+458	Hộ Uyển T8 (Cao)	T8_Cuff_Test_Q3	7208	9	3	8	93	21					7000000	8	3000	1	equip		0	attackrate_v	480																																							6	6
+3840	Hộ Uyển T9 (Cao) 	T9_Cuff_Test_Q3	7209	9	3	9	103	24					7000000	8	3000	1	equip		0	attackrate_v	1001																																							7	6
+3841	Hộ Uyển T10 (Cao)	T10_Cuff_Test_Q3	7210	9	3	10	113	27					7000000	8	3000	1	equip		0	attackrate_v	1102																																							7	7
+1253	Hộ Uyển T1 (Đặc chế) 	Cus_T1_Cuff_Q1	7101	9	1	1	1	1					5000	1	5000	1	equip		0	attackrate_v	120																																								

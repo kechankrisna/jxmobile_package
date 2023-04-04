@@ -1,0 +1,15 @@
+szKey	szName	szAltas	szSprite	nDay1	nDay2	nDay3	nDay4	nDay5	nDay6	nDay7
+AdventureFuben	Sơn Tặc Mật Quật	UI/Atlas/NewAtlas/Icon/ActivityIcon/ActivityIcon.prefab	shanzeimiku	1						
+ExplorationFuben	Tìm Kho Báu	UI/Atlas/NewAtlas/Icon/ActivityIcon/ActivityIcon.prefab	guanqiatansuo	5						
+TeamFuben	Bí Cảnh Tổ Đội	UI/Atlas/NewAtlas/Icon/ActivityIcon/ActivityIcon.prefab	zuduimijing		1					
+KinGather	Lửa Trại Bang Hội	UI/Atlas/NewAtlas/Icon/ActivityIcon/ActivityIcon.prefab	jiazujuji		1					
+RandomFuben	Lăng Tuyệt Phong	UI/Atlas/NewAtlas/Icon/ActivityIcon/ActivityIcon.prefab	lingjuefeng			1				
+KinDonate	Góp Bang Hội	UI/Atlas/Item/CurrencyIcon/CurrencyIcon.prefab	jianshezijinbig			10				
+Boss	Minh Chủ Võ Lâm	UI/Atlas/NewAtlas/Icon/ActivityIcon/ActivityIcon.prefab	wulinmengzhu				1			
+CommerceTask	Nhiệm Vụ Thương Hội	UI/Atlas/NewAtlas/Icon/ActivityIcon/ActivityIcon.prefab	shanghuirenwu				1			
+Battle	Chiến Trường Tống Kim	UI/Atlas/NewAtlas/Icon/ActivityIcon/ActivityIcon.prefab	songjinzhanchang					1		
+CangBaoTu	Tàng Bảo Đồ	UI/Atlas/NewAtlas/Icon/ActivityIcon/ActivityIcon.prefab	cangbaotu					5		
+PunishTask	Nhiệm Vụ Trừng Ác	UI/Atlas/NewAtlas/Icon/ActivityIcon/ActivityIcon.prefab	chengjierenwu						3	
+GoldBox	Mở Rương Hoàng Kim	UI/Atlas/Item/Item/Item.prefab	GoldChest						3	
+WhiteTigerFuben	Bạch Hổ Đường	UI/Atlas/NewAtlas/Icon/ActivityIcon/ActivityIcon.prefab	baihutang							1
+PartnerRefinement	Tẩy tủy Đồng Hành	UI/Atlas/Item/Item/Item.prefab	xisuidan							1

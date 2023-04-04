@@ -1,0 +1,44 @@
+SkillId	CastType	CastRadius	DamageRadius	desc
+206	target	750	200	Nhất Kích Sát Thần
+310	direction	600		Giang Hải Ngưng Ba
+407	direction	700		Phi Hỏa Lưu Tinh
+410	target	900	200	Cửu Diệu Liên Châu
+412	direction	900		Xuyên Vân Phá Nguyệt
+510	direction	700		Bạch Hồng Quán Nhật
+609	direction	350	200	Kiếm Phi Kinh Thiên
+611	direction	750	200	Nhân Kiếm Hợp Nhất
+266	direction	700		Hàng Long Côn
+806	direction	700		Tuyền Cơ La Vũ
+808	target	900	270	Vũ Đả Lê Hoa
+4006	target	800	200	Triền Thân Thích
+4008	target	800	120	Bạo Vũ Lê Hoa
+4010	direction	550		Mê Ảnh Tung
+4106	direction	700		Tiên Nhân Chỉ Lộ
+4206	direction	700		Hàng Long Hữu Hối
+4208	target	700	210	Khốn Long Công
+4213	target	700	270	Long Chiến Vu Dã
+4309	target	1000	200	Âm Phong Thực Cốt
+4334	target	700	130	Mê Tâm Cổ
+4339	target	1000	270	Vạn Cổ Thực Tâm
+4406	direction	900		Đoạn Triều
+4408	target	750	200	Ngọc Tuyền Ngư Dược
+4413	target	700	270	Phong Tháp Vân Cảnh
+4506	direction	700		Bình Sa Nhạn Lạc
+4518	target	700	340	Giang Trục Nguyệt Thiên
+4606	direction	700		Phi Yến Lăng Ba
+4608	target	700	180	Ngân Bình Ngọc Toái
+4613	direction	700		Thủy Long Ngâm
+722	target	700	180	Nhiếp Hồn Loạn Tâm
+5005	direction	350		Hóa Huyết Kiếp Quang
+5008	direction	700		Hiệp Sơn Siêu Hải
+5206	direction	700		Tiêu Sử Thừa Long
+5209	direction	350		Thiên Thân Đảo Huyền
+5212	direction	700		Triều Dương Kiếm Khí
+5506	direction	900		Phần Sơn Phệ Xuyên
+5508	target	750	200	Điện Quang Thạch Hỏa
+5518	target	750	300	Hủy Thiên Diệt Địa
+5608	direction	700		Ngũ La Khinh Yên
+5626	target	700	350	Thủy Long Ngục
+5808	direction	700		Lan Tồi Ngọc Chiết
+5812	target	700	350	Hội Hổ Điểm Tình
+5839	target	700	350	Dữ Hổ Thiêm Dực

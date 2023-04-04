@@ -1,0 +1,147 @@
+TemplateId	Name	Kind	ItemType	BigIcon	CDType	ClassName	DetailType	Icon	Intro	ItemValue	Level	ObjID	Price	Quality	RequireLevel	Sellable	Stack	ExtParam1	ExtParam2	ExtParam3	ExtParam4	ExtParam5	ExtParam6	ExtParam7	ExtParam8	ExtParam9	ExtParam10
+583	Thử nghiệm trang bị đồng hành	test33	35	100		PartnerEquip	2	100		1	1		1000		1	1	99999										
+584	Thử nghiệm trang bị đồng hành	test34	35	100		PartnerEquip	2	100		1	1		1000		1	1	99999										
+586	Nón Đồng Hành	test36	35	100		PartnerEquip	2	100		1	1		1000		1	1	99999										
+587	Dây Chuyền Đồng Hành	test37	35	100		PartnerEquip	2	100		1	1		1000		1	1	99999										
+588	Áo Đồng Hành	test38	35	100		PartnerEquip	2	100		1	1		1000		1	1	99999										
+589	Quần Đồng Hành	test39	35	100		PartnerEquip	2	100		1	1		1000		1	1	99999										
+590	Tay Đồng Hành	test40	35	100		PartnerEquip	2	100		1	1		1000		1	1	99999										
+591	Giày Đồng Hành	test41	35	100		PartnerEquip	2	100		1	1		1000		1	1	99999										
+592	Nón Đồng Hành 2	test42	35	100		PartnerEquip	2	100		1	1		1000		1	1	99999										
+593	Dây Chuyền Đồng Hành 2	test43	35	100		PartnerEquip	2	100		1	1		1000		1	1	99999										
+594	Áo Đồng Hành 2	test44	35	100		PartnerEquip	2	100		1	1		1000		1	1	99999										
+595	Quần Đồng Hành 2	test45	35	100		PartnerEquip	2	100		1	1		1000		1	1	99999										
+596	Tay Đồng Hành 2	test46	35	100		PartnerEquip	2	100		1	1		1000		1	1	99999										
+597	Giày Đồng Hành 2	test47	35	100		PartnerEquip	2	100		1	1		1000		1	1	99999										
+603	Bùa Sinh Lực-Sơ	Rune_1_Lv1	35	100		PartnerEquip	2	100		5000	1		1000	1	1	1	99999										
+604	Bùa Sinh Lực-Trung	Rune_1_Lv2	35	100		PartnerEquip	2	100		15000	2		1000	2	1	1	99999										
+605	Bùa Sinh Lực-Cao	Rune_1_Lv3	35	100		PartnerEquip	2	100		40000	3		1000	3	1	1	99999										
+606	Bùa Sinh Lực-Cường Hiệu	Rune_1_Lv4	35	100		PartnerEquip	2	100		120000	4		1000	4	1	1	99999										
+607	Bùa Sinh Lực-Đặc Hiệu	Rune_1_Lv5	35	100		PartnerEquip	2	100		480000	5		1000	5	1	1	99999										
+608	Bùa Sinh Lực-Hoàn Mỹ	Rune_1_Lv6	35	100		PartnerEquip	2	100		1920000	6		1000	6	1	1	99999										
+609	Bùa Tấn Công-Sơ	Rune_2_Lv1	35	100		PartnerEquip	2	100		5000	1		1000	1	1	1	99999										
+610	Bùa Tấn Công-Trung	Rune_2_Lv2	35	100		PartnerEquip	2	100		15000	2		1000	2	1	1	99999										
+611	Bùa Tấn Công-Cao	Rune_2_Lv3	35	100		PartnerEquip	2	100		40000	3		1000	3	1	1	99999										
+612	Bùa Tấn Công-Cường Hiệu	Rune_2_Lv4	35	100		PartnerEquip	2	100		120000	4		1000	4	1	1	99999										
+613	Bùa Tấn Công-Đặc Hiệu	Rune_2_Lv5	35	100		PartnerEquip	2	100		480000	5		1000	5	1	1	99999										
+614	Bùa Tấn Công-Hoàn Mỹ	Rune_2_Lv6	35	100		PartnerEquip	2	100		1920000	6		1000	6	1	1	99999										
+615	Bùa Kháng Tất Cả-Sơ	Rune_3_Lv1	35	100		PartnerEquip	2	100		5000	1		1000	1	1	1	99999										
+616	Bùa Kháng Tất Cả-Trung	Rune_3_Lv2	35	100		PartnerEquip	2	100		15000	2		1000	2	1	1	99999										
+617	Bùa Kháng Tất Cả-Cao	Rune_3_Lv3	35	100		PartnerEquip	2	100		40000	3		1000	3	1	1	99999										
+618	Bùa Kháng Tất Cả-Cường Hiệu	Rune_3_Lv4	35	100		PartnerEquip	2	100		120000	4		1000	4	1	1	99999										
+619	Bùa Kháng Tất Cả-Đặc Hiệu	Rune_3_Lv5	35	100		PartnerEquip	2	100		480000	5		1000	5	1	1	99999										
+620	Bùa Kháng Tất Cả-Hoàn Mỹ	Rune_3_Lv6	35	100		PartnerEquip	2	100		1920000	6		1000	6	1	1	99999										
+621	Bùa Chính Xác-Sơ	Rune_4_Lv1	35	100		PartnerEquip	2	100		5000	1		1000	1	1	1	99999										
+622	Bùa Chính Xác-Trung	Rune_4_Lv2	35	100		PartnerEquip	2	100		15000	2		1000	2	1	1	99999										
+623	Bùa Chính Xác-Cao	Rune_4_Lv3	35	100		PartnerEquip	2	100		40000	3		1000	3	1	1	99999										
+624	Bùa Chính Xác-Cường Hiệu	Rune_4_Lv4	35	100		PartnerEquip	2	100		120000	4		1000	4	1	1	99999										
+625	Bùa Chính Xác-Đặc Hiệu	Rune_4_Lv5	35	100		PartnerEquip	2	100		480000	5		1000	5	1	1	99999										
+626	Bùa Chính Xác-Hoàn Mỹ	Rune_4_Lv6	35	100		PartnerEquip	2	100		1920000	6		1000	6	1	1	99999										
+627	Bùa Né Tránh-Sơ	Rune_5_Lv1	35	100		PartnerEquip	2	100		5000	1		1000	1	1	1	99999										
+628	Bùa Né Tránh-Trung	Rune_5_Lv2	35	100		PartnerEquip	2	100		15000	2		1000	2	1	1	99999										
+629	Bùa Né Tránh-Cao	Rune_5_Lv3	35	100		PartnerEquip	2	100		40000	3		1000	3	1	1	99999										
+630	Bùa Né Tránh-Cường Hiệu	Rune_5_Lv4	35	100		PartnerEquip	2	100		120000	4		1000	4	1	1	99999										
+631	Bùa Né Tránh-Đặc Hiệu	Rune_5_Lv5	35	100		PartnerEquip	2	100		480000	5		1000	5	1	1	99999										
+632	Bùa Né Tránh-Hoàn Mỹ	Rune_5_Lv6	35	100		PartnerEquip	2	100		1920000	6		1000	6	1	1	99999										
+633	Bùa Bạo Kích-Sơ	Rune_6_Lv1	35	100		PartnerEquip	2	100		5000	1		1000	1	1	1	99999										
+634	Bùa Bạo Kích-Trung	Rune_6_Lv2	35	100		PartnerEquip	2	100		15000	2		1000	2	1	1	99999										
+635	Bùa Bạo Kích-Cao	Rune_6_Lv3	35	100		PartnerEquip	2	100		40000	3		1000	3	1	1	99999										
+636	Bùa Bạo Kích-Cường Hiệu	Rune_6_Lv4	35	100		PartnerEquip	2	100		120000	4		1000	4	1	1	99999										
+637	Bùa Bạo Kích-Đặc Hiệu	Rune_6_Lv5	35	100		PartnerEquip	2	100		480000	5		1000	5	1	1	99999										
+638	Bùa Bạo Kích-Hoàn Mỹ	Rune_6_Lv6	35	100		PartnerEquip	2	100		1920000	6		1000	6	1	1	99999										
+639	Bùa Bỏ Qua Né Tránh-Sơ	Rune_7_Lv1	35	100		PartnerEquip	2	100		5000	1		1000	1	1	1	99999										
+640	Bùa Bỏ Qua Né Tránh-Trung	Rune_7_Lv2	35	100		PartnerEquip	2	100		15000	2		1000	2	1	1	99999										
+641	Bùa Bỏ Qua Né Tránh-Cao	Rune_7_Lv3	35	100		PartnerEquip	2	100		40000	3		1000	3	1	1	99999										
+642	Bùa Bỏ Qua Né Tránh-Cường Hiệu	Rune_7_Lv4	35	100		PartnerEquip	2	100		120000	4		1000	4	1	1	99999										
+643	Bùa Bỏ Qua Né Tránh-Đặc Hiệu	Rune_7_Lv5	35	100		PartnerEquip	2	100		480000	5		1000	5	1	1	99999										
+644	Bùa Bỏ Qua Né Tránh-Hoàn Mỹ	Rune_7_Lv6	35	100		PartnerEquip	2	100		1920000	6		1000	6	1	1	99999										
+645	Bùa Giảm Bạo Kích-Sơ	Rune_8_Lv1	35	100		PartnerEquip	2	100		5000	1		1000	1	1	1	99999										
+646	Bùa Giảm Bạo Kích-Trung	Rune_8_Lv2	35	100		PartnerEquip	2	100		15000	2		1000	2	1	1	99999										
+647	Bùa Giảm Bạo Kích-Cao	Rune_8_Lv3	35	100		PartnerEquip	2	100		40000	3		1000	3	1	1	99999										
+648	Bùa Giảm Bạo Kích-Cường Hiệu	Rune_8_Lv4	35	100		PartnerEquip	2	100		120000	4		1000	4	1	1	99999										
+649	Bùa Giảm Bạo Kích-Đặc Hiệu	Rune_8_Lv5	35	100		PartnerEquip	2	100		480000	5		1000	5	1	1	99999										
+650	Bùa Giảm Bạo Kích-Hoàn Mỹ	Rune_8_Lv6	35	100		PartnerEquip	2	100		1920000	6		1000	6	1	1	99999										
+651	Bùa Hiệu Quả-Sơ	Rune_9_Lv1	35	100		PartnerEquip	2	100		5000	1		1000	1	1	1	99999										
+652	Bùa Hiệu Quả-Trung	Rune_9_Lv2	35	100		PartnerEquip	2	100		15000	2		1000	2	1	1	99999										
+653	Bùa Hiệu Quả-Cao	Rune_9_Lv3	35	100		PartnerEquip	2	100		40000	3		1000	3	1	1	99999										
+654	Bùa Hiệu Quả-Cường Hiệu	Rune_9_Lv4	35	100		PartnerEquip	2	100		120000	4		1000	4	1	1	99999										
+655	Bùa Hiệu Quả-Đặc Hiệu	Rune_9_Lv5	35	100		PartnerEquip	2	100		480000	5		1000	5	1	1	99999										
+656	Bùa Hiệu Quả-Hoàn Mỹ	Rune_9_Lv6	35	100		PartnerEquip	2	100		1920000	6		1000	6	1	1	99999										
+657	Bùa Giảm Hiệu Quả-Sơ	Rune_10_Lv1	35	100		PartnerEquip	2	100		5000	1		1000	1	1	1	99999										
+658	Bùa Giảm Hiệu Quả-Trung	Rune_10_Lv2	35	100		PartnerEquip	2	100		15000	2		1000	2	1	1	99999										
+659	Bùa Giảm Hiệu Quả-Cao	Rune_10_Lv3	35	100		PartnerEquip	2	100		40000	3		1000	3	1	1	99999										
+660	Bùa Giảm Hiệu Quả-Cường Hiệu	Rune_10_Lv4	35	100		PartnerEquip	2	100		120000	4		1000	4	1	1	99999										
+661	Bùa Giảm Hiệu Quả-Đặc Hiệu	Rune_10_Lv5	35	100		PartnerEquip	2	100		480000	5		1000	5	1	1	99999										
+662	Bùa Giảm Hiệu Quả-Hoàn Mỹ	Rune_10_Lv6	35	100		PartnerEquip	2	100		1920000	6		1000	6	1	1	99999										
+663	Bùa Hồi Phục-Sơ	Rune_11_Lv1	35	100		PartnerEquip	2	100		5000	1		1000	1	1	1	99999										
+664	Bùa Hồi Phục-Trung	Rune_11_Lv2	35	100		PartnerEquip	2	100		15000	2		1000	2	1	1	99999										
+665	Bùa Hồi Phục-Cao	Rune_11_Lv3	35	100		PartnerEquip	2	100		40000	3		1000	3	1	1	99999										
+666	Bùa Hồi Phục-Cường Hiệu	Rune_11_Lv4	35	100		PartnerEquip	2	100		120000	4		1000	4	1	1	99999										
+667	Bùa Hồi Phục-Đặc Hiệu	Rune_11_Lv5	35	100		PartnerEquip	2	100		480000	5		1000	5	1	1	99999										
+668	Bùa Hồi Phục-Hoàn Mỹ	Rune_11_Lv6	35	100		PartnerEquip	2	100		1920000	6		1000	6	1	1	99999										
+727	Bùa Thao Thiết-Cao	Rune_12_Lv3	35	100		PartnerEquip	2	100		120000	4		1000	4	1	1	99999										
+728	Bùa Đế Giang-Cao	Rune_13_Lv3	35	100		PartnerEquip	2	100		120000	4		1000	4	1	1	99999										
+729	Bùa Chúc Long-Cao	Rune_14_Lv3	35	100		PartnerEquip	2	100		120000	4		1000	4	1	1	99999										
+730	Bùa Quỳ Ngưu-Cao	Rune_15_Lv3	35	100		PartnerEquip	2	100		120000	4		1000	4	1	1	99999										
+731	Bùa Cùng Kỳ-Cao	Rune_16_Lv3	35	100		PartnerEquip	2	100		120000	4		1000	4	1	1	99999										
+732	Bùa Côn Bằng-Cao	Rune_17_Lv3	35	100		PartnerEquip	2	100		120000	4		1000	4	1	1	99999										
+733	Bùa Đằng Xà-Cao	Rune_18_Lv3	35	100		PartnerEquip	2	100		120000	4		1000	4	1	1	99999										
+734	Bùa Tì Hưu-Cao	Rune_19_Lv3	35	100		PartnerEquip	2	100		120000	4		1000	4	1	1	99999										
+669	Bùa Thao Thiết-Cường Hiệu	Rune_12_Lv4	35	100		PartnerEquip	2	100		360000	4		1000	4	1	1	99999										
+670	Bùa Đế Giang-Cường Hiệu	Rune_13_Lv4	35	100		PartnerEquip	2	100		360000	4		1000	4	1	1	99999										
+671	Bùa Chúc Long-Cường Hiệu	Rune_14_Lv4	35	100		PartnerEquip	2	100		360000	4		1000	4	1	1	99999										
+672	Bùa Quỳ Ngưu-Cường Hiệu	Rune_15_Lv4	35	100		PartnerEquip	2	100		360000	4		1000	4	1	1	99999										
+673	Bùa Cùng Kỳ-Cường Hiệu	Rune_16_Lv4	35	100		PartnerEquip	2	100		360000	4		1000	4	1	1	99999										
+674	Bùa Côn Bằng-Cường Hiệu	Rune_17_Lv4	35	100		PartnerEquip	2	100		360000	4		1000	4	1	1	99999										
+675	Bùa Đằng Xà-Cường Hiệu	Rune_18_Lv4	35	100		PartnerEquip	2	100		360000	4		1000	4	1	1	99999										
+676	Bùa Tì Hưu-Cường Hiệu	Rune_19_Lv4	35	100		PartnerEquip	2	100		360000	4		1000	4	1	1	99999										
+677	Bùa Huyền Vũ-Đặc Hiệu	Rune_20_Lv5	35	100		PartnerEquip	2	100		1440000	5		1000	5	1	1	99999										
+678	Bùa Thanh Long-Đặc Hiệu	Rune_21_Lv5	35	100		PartnerEquip	2	100		1440000	5		1000	5	1	1	99999										
+679	Bùa Phượng Hoàng-Đặc Hiệu	Rune_22_Lv5	35	100		PartnerEquip	2	100		1440000	5		1000	5	1	1	99999										
+680	Bùa Bạch Hổ-Đặc Hiệu	Rune_23_Lv5	35	100		PartnerEquip	2	100		1440000	5		1000	5	1	1	99999										
+681	Bùa Chu Tước-Đặc Hiệu	Rune_24_Lv5	35	100		PartnerEquip	2	100		1440000	5		1000	5	1	1	99999										
+682	Bùa Ứng Long-Đặc Hiệu	Rune_25_Lv5	35	100		PartnerEquip	2	100		1440000	5		1000	5	1	1	99999										
+683	Bùa Bạch Trạch-Đặc Hiệu	Rune_26_Lv5	35	100		PartnerEquip	2	100		1440000	5		1000	5	1	1	99999										
+684	Bùa Kỳ Lân-Đặc Hiệu	Rune_27_Lv5	35	100		PartnerEquip	2	100		1440000	5		1000	5	1	1	99999										
+685	Bùa Huyền Vũ-Hoàn Mỹ	Rune_20_Lv6	35	100		PartnerEquip	2	100		6720000	6		1000	6	1	1	99999										
+686	Bùa Thanh Long-Hoàn Mỹ	Rune_21_Lv6	35	100		PartnerEquip	2	100		6720000	6		1000	6	1	1	99999										
+687	Bùa Phượng Hoàng-Hoàn Mỹ	Rune_22_Lv6	35	100		PartnerEquip	2	100		6720000	6		1000	6	1	1	99999										
+688	Bùa Bạch Hổ-Hoàn Mỹ	Rune_23_Lv6	35	100		PartnerEquip	2	100		6720000	6		1000	6	1	1	99999										
+689	Bùa Chu Tước-Hoàn Mỹ	Rune_24_Lv6	35	100		PartnerEquip	2	100		6720000	6		1000	6	1	1	99999										
+690	Bùa Ứng Long-Hoàn Mỹ	Rune_25_Lv6	35	100		PartnerEquip	2	100		6720000	6		1000	6	1	1	99999										
+691	Bùa Bạch Trạch-Hoàn Mỹ	Rune_26_Lv6	35	100		PartnerEquip	2	100		6720000	6		1000	6	1	1	99999										
+692	Bùa Kỳ Lân-Hoàn Mỹ	Rune_27_Lv6	35	100		PartnerEquip	2	100		6720000	6		1000	6	1	1	99999										
+693	Bùa Thao Thiết-Cao	RuneScoll_12_Lv3	35	100		PartnerScroll	3	100		40000	3		1000	3	1	1	99999										
+694	Bùa Đế Giang-Cao	RuneScoll_13_Lv3	35	100		PartnerScroll	3	100		40000	3		1000	3	1	1	99999										
+695	Bùa Chúc Long-Cao	RuneScoll_14_Lv3	35	100		PartnerScroll	3	100		40000	3		1000	3	1	1	99999										
+696	Bùa Quỳ Ngưu-Cao	RuneScoll_15_Lv3	35	100		PartnerScroll	3	100		40000	3		1000	3	1	1	99999										
+697	Bùa Cùng Kỳ-Cao	RuneScoll_16_Lv3	35	100		PartnerScroll	3	100		40000	3		1000	3	1	1	99999										
+698	Bùa Côn Bằng-Cao	RuneScoll_17_Lv3	35	100		PartnerScroll	3	100		40000	3		1000	3	1	1	99999										
+699	Bùa Đằng Xà-Cao	RuneScoll_18_Lv3	35	100		PartnerScroll	3	100		40000	3		1000	3	1	1	99999										
+700	Bùa Tì Hưu-Cao	RuneScoll_19_Lv3	35	100		PartnerScroll	3	100		40000	3		1000	3	1	1	99999										
+701	Bùa Kháng Tất Cả-Cường Hiệu	RuneScoll_3_Lv4	35	100		PartnerScroll	3	100		80000	4		1000	4	1	1	99999										
+702	Bùa Chính Xác-Cường Hiệu	RuneScoll_4_Lv4	35	100		PartnerScroll	3	100		80000	4		1000	4	1	1	99999										
+703	Bùa Né Tránh-Cường Hiệu	RuneScoll_5_Lv4	35	100		PartnerScroll	3	100		80000	4		1000	4	1	1	99999										
+704	Bùa Bạo Kích-Cường Hiệu	RuneScoll_6_Lv4	35	100		PartnerScroll	3	100		80000	4		1000	4	1	1	99999										
+705	Bùa Bỏ Qua Né Tránh-Cường Hiệu	RuneScoll_7_Lv4	35	100		PartnerScroll	3	100		80000	4		1000	4	1	1	99999										
+706	Bùa Giảm Bạo Kích-Cường Hiệu	RuneScoll_8_Lv4	35	100		PartnerScroll	3	100		80000	4		1000	4	1	1	99999										
+707	Bùa Hiệu Quả-Cường Hiệu	RuneScoll_9_Lv4	35	100		PartnerScroll	3	100		80000	4		1000	4	1	1	99999										
+708	Bùa Giảm Hiệu Quả-Cường Hiệu	RuneScoll_10_Lv4	35	100		PartnerScroll	3	100		80000	4		1000	4	1	1	99999										
+709	Bùa Hồi Phục-Cường Hiệu	RuneScoll_11_Lv4	35	100		PartnerScroll	3	100		80000	4		1000	4	1	1	99999										
+710	Bùa Huyền Vũ-Đặc Hiệu	RuneScroll_20_Lv5	35	100		PartnerScroll	3	100		720000	5		1000	5	1	1	99999										
+711	Bùa Thanh Long-Đặc Hiệu	RuneScroll_21_Lv5	35	100		PartnerScroll	3	100		720000	5		1000	5	1	1	99999										
+712	Bùa Phượng Hoàng-Đặc Hiệu	RuneScroll_22_Lv5	35	100		PartnerScroll	3	100		720000	5		1000	5	1	1	99999										
+713	Bùa Bạch Hổ-Đặc Hiệu	RuneScroll_23_Lv5	35	100		PartnerScroll	3	100		720000	5		1000	5	1	1	99999										
+714	Bùa Chu Tước-Đặc Hiệu	RuneScroll_24_Lv5	35	100		PartnerScroll	3	100		720000	5		1000	5	1	1	99999										
+715	Bùa Ứng Long-Đặc Hiệu	RuneScroll_25_Lv5	35	100		PartnerScroll	3	100		720000	5		1000	5	1	1	99999										
+716	Bùa Bạch Trạch-Đặc Hiệu	RuneScroll_26_Lv5	35	100		PartnerScroll	3	100		720000	5		1000	5	1	1	99999										
+717	Bùa Kỳ Lân-Đặc Hiệu	RuneScroll_27_Lv5	35	100		PartnerScroll	3	100		720000	5		1000	5	1	1	99999										
+718	Bùa Kháng Tất Cả-Hoàn Mỹ	RuneScoll_3_Lv6	35	100		PartnerScroll	3	100		960000	6		1000	6	1	1	99999										
+719	Bùa Chính Xác-Hoàn Mỹ	RuneScoll_4_Lv6	35	100		PartnerScroll	3	100		960000	6		1000	6	1	1	99999										
+720	Bùa Né Tránh-Hoàn Mỹ	RuneScoll_5_Lv6	35	100		PartnerScroll	3	100		960000	6		1000	6	1	1	99999										
+721	Bùa Bạo Kích-Hoàn Mỹ	RuneScoll_6_Lv6	35	100		PartnerScroll	3	100		960000	6		1000	6	1	1	99999										
+722	Bùa Bỏ Qua Né Tránh-Hoàn Mỹ	RuneScoll_7_Lv6	35	100		PartnerScroll	3	100		960000	6		1000	6	1	1	99999										
+723	Bùa Giảm Bạo Kích-Hoàn Mỹ	RuneScoll_8_Lv6	35	100		PartnerScroll	3	100		960000	6		1000	6	1	1	99999										
+724	Bùa Hiệu Quả-Hoàn Mỹ	RuneScoll_9_Lv6	35	100		PartnerScroll	3	100		960000	6		1000	6	1	1	99999										
+725	Bùa Giảm Hiệu Quả-Hoàn Mỹ	RuneScoll_10_Lv6	35	100		PartnerScroll	3	100		960000	6		1000	6	1	1	99999										
+726	Bùa Hồi Phục-Hoàn Mỹ	RuneScoll_11_Lv6	35	100		PartnerScroll	3	100		960000	6		1000	6	1	1	99999										

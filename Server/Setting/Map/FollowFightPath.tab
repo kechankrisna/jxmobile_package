@@ -1,0 +1,29 @@
+OrgMap	TargetMap	Operation	Param	Desc
+1400	1401	GoPos	4241_12084	Công Thành Chiến: Tương Dương-Đạo Hương Thôn
+1400	1402	GoPos	4243_9540	Công Thành Chiến: Tương Dương-Ba Lăng Huyện
+1400	1403	GoPos	4241_6958	Công Thành Chiến: Tương Dương-Giang Tân Thôn
+1400	1404	GoPos	4356_4051	Công Thành Chiến: Tương Dương-Vĩnh Lạc Trấn
+1401	1400	GoPos	18692_11131	Công Thành Chiến: Đạo Hương Thôn-Tương Dương
+1402	1400	GoPos	18692_11131	Công Thành Chiến: Ba Lăng Huyện-Tương Dương
+1403	1400	GoPos	18692_11131	Công Thành Chiến: Giang Tân Thôn-Tương Dương
+1404	1400	GoPos	18692_11131	Công Thành Chiến: Vĩnh Lạc Trấn-Tương Dương
+1401	1405	GoPos	3796_10714	Công Thành Chiến: Đạo Hương Thôn-Động Đình Hồ
+1401	1406	GoPos	3465_3227	Công Thành Chiến: Đạo Hương Thôn-Miêu Lĩnh
+1405	1401	GoPos	14051_5675	Công Thành Chiến: Động Đình Hồ-Đạo Hương Thôn
+1406	1401	GoPos	3880_9923	Công Thành Chiến: Miêu Lĩnh-Đạo Hương Thôn
+1402	1407	GoPos	3796_10714	Công Thành Chiến: Ba Lăng Huyện-Điểm Thương Sơn
+1402	1408	GoPos	3465_3227	Công Thành Chiến: Ba Lăng Huyện-Hưởng Thủy Động
+1407	1402	GoPos	12057_10464	Công Thành Chiến: Điểm Thương Sơn-Ba Lăng Huyện
+1408	1402	GoPos	10721_7852	Công Thành Chiến: Hưởng Thủy Động-Ba Lăng Huyện
+1403	1409	GoPos	3465_3227	Công Thành Chiến: Giang Tân Thôn-Kiến Tính Phong
+1403	1410	GoPos	3796_10714	Công Thành Chiến: Giang Tân Thôn-Kiếm Môn Quan
+1409	1403	GoPos	3300_6500	Công Thành Chiến: Kiến Tính Phong-Giang Tân Thôn
+1410	1403	GoPos	11801_4971	Công Thành Chiến: Kiếm Môn Quan-Giang Tân Thôn
+1404	1411	GoPos	3465_3227	Công Thành Chiến: Vĩnh Lạc Trấn-Tiến Cúc Động
+1404	1412	GoPos	3796_10714	Công Thành Chiến: Vĩnh Lạc Trấn-Phục Ngưu Sơn
+1411	1404	GoPos	13311_9897	Công Thành Chiến: Tiến Cúc Động-Vĩnh Lạc Trấn
+1412	1404	GoPos	6483_11594	Công Thành Chiến: Phục Ngưu Sơn-Vĩnh Lạc Trấn
+1028	1027	GoPos	3625_1990	Bạch Hổ Đường: Tầng 1-2
+1027	1029	GoPos	10260_9563	Bạch Hổ Đường: Tầng 4-5
+1026	1028	WhiteTigerFuben	0	Bạch Hổ Đường: Sảnh Chờ to tầng 1
+1028	1026	WhiteTigerFuben	1	Bạch Hổ Đường: Tầng 1 về Sảnh Chờ

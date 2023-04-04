@@ -1,0 +1,9 @@
+NpcName	NpcTemplateId	TimeFrame	NpcLevel
+Tần Cự Cơ	1832	OpenLevel89	85
+Tần Cự Cơ	1832	OpenLevel99	95
+Tần Cự Cơ	1832	OpenLevel109	105
+Tần Cự Cơ	1832	OpenLevel119	115
+Tần Cự Cơ	1832	OpenLevel129	125
+Tần Cự Cơ	1832	OpenLevel139	135
+Tần Cự Cơ	1832	OpenLevel149	145
+Tần Cự Cơ	1832	OpenLevel159	155

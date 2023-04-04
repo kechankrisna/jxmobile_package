@@ -1,0 +1,35 @@
+goto_ty	1205	6519
+Out_sn	1520	6495
+goto_sn	6171	18080
+Out_ty	5887	18062
+sn	906	3587
+sn	6251	8948
+ty	995	12577
+ty	12515	24113
+GoOut	1967	18145
+Entrance	2322	18120
+chuangong	1557	6592
+chuangong	1555	6424
+xuyuanshu	5532	21036
+mingxiang	1509	6521
+Chủ Tọa	4591	6510
+Điểm thú cưng 1	2315	18379
+Điểm thú cưng 1	2370	18324
+Điểm thú cưng 1	2427	18260
+Điểm thú cưng 1	2455	18182
+Điểm thú cưng 1	2468	18110
+Điểm thú cưng 1	2449	18059
+Điểm thú cưng 1	2414	18035
+Điểm thú cưng 1	2398	17979
+Điểm thú cưng 1	2377	17900
+Điểm thú cưng 1	2309	17845
+Điểm thú cưng 2	5889	18243
+Điểm thú cưng 2	5843	18219
+Điểm thú cưng 2	5808	18176
+Điểm thú cưng 2	5775	18130
+Điểm thú cưng 2	5756	18099
+Điểm thú cưng 2	5774	18037
+Điểm thú cưng 2	5799	17984
+Điểm thú cưng 2	5813	17958
+Điểm thú cưng 2	5839	17934
+Điểm thú cưng 2	5893	17909

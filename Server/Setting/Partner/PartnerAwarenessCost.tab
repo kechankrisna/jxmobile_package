@@ -1,0 +1,50 @@
+nPartnerId	Name	nUiEffectId	nAwarenessSkillId	nNeedSeveranceItem	bNeedWeapon	nCost1	nCost2	nCost3	nCost4	nCost5
+9	Trương Tam Phong	1	3272	600	1	4	6	144	5	7
+4	Quỷ Cốc Tử	1	3272	300	1	13	14	19	21	18
+6	Tần Thủy Hoàng	1	3272	300	1	17	18	19	21	22
+144	Hoàn Nhan Hồng Liệt	1	3272	300	1	11	12	13	14	20
+5	Hạng Vũ	2	3273	300	1	17	18	19	21	20
+7	Võ Tắc Thiên	1	3272	300	1	11	12	13	14	22
+11	Độc Cô Kiếm	2	3273	75	1	38	41	49	51	24
+12	Nam Cung Phi	2	3273	75	1	39	40	50	58	55
+13	Dương Ảnh Phong	2	3273	75	1	37	42	56	36	23
+14	Đường Giản	2	3273	75	1	40	39	42	41	37
+17	Lý Nguyên Bá	2	3273	75	1	46	40	24	51	23
+18	Triệu Vân	2	3273	75	1	48	39	25	52	56
+19	Lý Quảng	2	3273	75	1	47	38	27	55	54
+20	Kinh Kha	2	3273	75	1	45	42	29	50	57
+21	Ngu Cơ	2	3273	75	1	44	41	26	53	58
+22	Nhạc Phi	2	3273	75	1	43	37	28	49	36
+23	Nguyệt My Nhi	2	3273	25	0	60	59	77	78	80
+24	Dương Anh	2	3273	25	0	61	83	81	82	84
+26	Thanh Hiểu Sư Thái	2	3273	25	0	63	93	59	83	89
+25	Chúc Tử Hư	2	3273	25	0	62	76	79	85	94
+27	Hoàng Mộ Vân	2	3273	25	0	64	86	80	81	88
+28	Đạo Nhất Chân Nhân	2	3273	25	0	65	82	84	95	90
+29	Đoan Mộc Duệ	2	3273	25	0	66	86	76	92	79
+36	Mạnh Tri Thu	2	3273	25	0	78	60	79	59	77
+37	Cao Trường Cung	2	3273	25	0	65	60	59	77	74
+38	Triết Biệt	2	3273	25	0	64	78	61	66	75
+39	Tần Lương Ngọc	2	3273	25	0	62	66	61	65	83
+40	Viên Thừa Chí	2	3273	25	0	61	63	64	62	84
+41	Ngao Bái	2	3273	25	0	63	76	79	65	80
+42	Hàn Thế Trung	2	3273	25	0	66	64	62	63	73
+145	Băng Lân Tích Hoàng	3	3274	25	0	74	73	61	95	87
+146	Ngân Câu Hạt Hoàng	3	3274	25	0	73	74	64	94	85
+147	Cuồng Tông Ngao Hoàng	4	3275	25	0	73	75	62	89	93
+43	Xích Tinh Hổ Hoàng	3	3274	25	0	74	73	65	92	88
+44	Hám Thiên Hùng Hoàng	3	3274	25	0	73	74	63	90	91
+45	Tử Bối Ngạc Hoàng	4	3275	25	0	73	75	66	85	94
+46	Định Hải Kim Cang	3	3274	25	0	75	73	61	95	87
+47	Kim Sí Bằng Hoàng	3	3274	25	0	75	74	64	94	85
+48	Ngân Giác Tê Hoàng	3	3274	25	0	74	75	62	89	93
+49	Trương Phong	2	3273	25	0	82	83	81	95	84
+50	Nam Cung Diệt	2	3273	25	0	92	90	91	87	88
+51	Phương Miễn	2	3273	25	0	87	76	86	91	93
+52	Đường Ảnh	2	3273	25	0	60	76	77	79	94
+53	Thu Y Thủy	2	3273	25	0	83	89	93	95	84
+54	Thiên Tinh Đạo Trưởng	2	3273	25	0	78	87	80	81	82
+55	Yên Nhược Tuyết	2	3273	25	0	86	88	92	89	85
+56	Dương Hi Liệt	2	3273	25	0	90	91	92	87	86
+57	Thượng Quan Phi Long	2	3273	25	0	95	94	93	82	81
+58	Nạp Lan Tiềm Lẫm	2	3273	25	0	80	59	60	77	78

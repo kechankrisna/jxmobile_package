@@ -1,0 +1,7 @@
+nMapTemplateId	szMapName	szType	szName	nX	nY	nNpcTemplate	nDir	szMiniMapSyncKey
+8002	Ngoại Thành	gate_n	Cổng Bắc	11593	9426	2842	23	DES_GateB
+8002	Ngoại Thành	gate_s	Cổng Nam	11622	5054	2842	39	DES_GateN
+8001	Nội Thành	xuanwu	Bia Thủ Huyền Vũ	18284	24152	2846	16	DES_Gate_XW
+8001	Nội Thành	zhuque	Bia Thủ Chu Tướcộ	18257	12697	2844	16	DES_Gate_ZQ
+8001	Nội Thành	baihu	Bia Thủ Bạch Hổ	12502	18451	2845	32	DES_Gate_BH
+8001	Nội Thành	qinglong	Bia Thủ Thanh Long	23955	18422	2843	32	DES_Gate_QL

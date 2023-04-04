@@ -1,0 +1,11 @@
+TemplateId	Name	Kind	ItemType	BigIcon	CDType	ClassName	DetailType	Icon	Intro	ItemValue	Level	ObjID	Price	Quality	RequireLevel	Sellable	Stack	ExtParam1	ExtParam2	ExtParam3	ExtParam4	ExtParam5	ExtParam6	ExtParam7	ExtParam8	ExtParam9	ExtParam10
+201	Mảnh Đá Sinh Lực	life_stone_piece	34	230		Stone	3	230	3 Mảnh Đá Sinh Lực ghép được 1 Đá Sinh Lực Lv1		1	2	1000		1	1	99999										
+202	Mảnh Đá Tấn Công	physcical_damage_stone_piece	34	240		Stone	3	240	3 Mảnh Đá Tấn Công ghép được 1 Đá Tấn Công Lv1		1	2	1000		1	1	99999										
+203	Mảnh Đá Kháng Tính	all_resist_stone_piece	34	250		Stone	3	250	3 Mảnh Đá Kháng Tính ghép được 1 Đá Kháng Tính Lv1		1	2	1000		1	1	99999										
+204	Mảnh Đá Bỏ Qua Kháng	ignore_all_resist_stone_piece	34	260		Stone	3	260	3 Mảnh Đá Bỏ Qua Kháng ghép được 1 Đá Bỏ Qua Kháng Lv1		1	2	1000		1	1	99999										
+205	Mảnh Đá Né Tránh	defense_stone_piece	34	270		Stone	3	270	3 Mảnh Đá Né Tránh ghép được 1 Đá Né Tránh Lv1		1	2	1000		1	1	99999										
+206	Mảnh Đá Bỏ Qua Né Tránh	ignore_defense_stone_piece	34	280		Stone	3	280	3 Mảnh Đá Bỏ Qua Né Tránh ghép được 1 Đá Bỏ Qua Né Tránh Lv1		1	2	1000		1	1	99999										
+207	Mảnh Đá Bạo Kích	deadlystrike_stone_piece	34	290		Stone	3	290	3 Mảnh Đá Bạo Kích ghép được 1 Đá Bạo Kích Lv1		1	2	1000		1	1	99999										
+208	Mảnh Đá Giảm Bạo Kích	weaken_deadlystrike_stone_piece	34	300		Stone	3	300	3 Mảnh Đá Giảm Bạo Kích ghép được 1 Đá Giảm Bạo Kích Lv1		1	2	1000		1	1	99999										
+209	Mảnh Đá Hiệu Quả	add_seriesstate_stone_piece	34	310		Stone	3	310	3 Mảnh Đá Hiệu Quả ghép được 1 Đá Hiệu Quả Lv1		1	2	1000		1	1	99999										
+210	Mảnh Đá Giảm Hiệu Quả	resist_allseriesstate_stone_piece	34	320		Stone	3	320	3 Mảnh Đá Giảm Hiệu Quả ghép được 1 Đá Giảm Hiệu Quả Lv1		1	2	1000		1	1	99999										

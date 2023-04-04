@@ -1,0 +1,255 @@
+Index	TemplateID	Name	Kind	Camp	ClassName	ScriptParam	NpcResID	FaceID	BigFaceID	DefaultDialog	ReviveFrame	NpcAttribID	NormalSkill1	NormalSkillLevel1	NormalSkill2	NormalSkillLevel2	NormalSkill3	NormalSkillLevel3	VisionRadius	ActiveRadius	AiFile	Treasure	DropFile	FightMode	RunSpeed	BloodStyle	ForbitMove	TitleID	AuraSkillId	AuraSkillLevel	StartActEvent	Tag	DropType	WalkSpeed	NameColor	Experience	GouHuoRate	TransBossNpcTID	TransBossRate	IsNotShowShadow	FixExperience	IsNotBYStealLife	SyncFirst	Sex
+Birthplace_npc1	413	Nạp Lan Chân	2	1	ClientTaskNpc		177	13	113	Hôm nay gặp ngươi, ta mới cảm thấy mình đã ở trên đảo này mười mấy năm rồi.		1	21	1							Setting/Npc/Ai/CommonActive.ini			0	15	3																		
+Birthplace_npc2	414	Ân Phương	2	1	ClientTaskNpc		125	208	308	Sẽ có một ngày ta trở thành đại hiệp danh chấn thiên hạ!		1	21	1							Setting/Npc/Ai/CommonActive.ini			0	15	3																		
+Birthplace_npc3	415	Dương Ảnh Phong	2	1	ClientTaskNpc		1101	225	325	Để trở thành thiên hạ đệ nhất, dù hy sinh mạng này có sá chi!		1	56	1							Setting/Npc/Ai/CommonActive.ini			0	15	3																		
+Birthplace_npc4	416	Nạp Lan Tiềm Lẫm	2	1	ClientTaskNpc		187	212	312	Tâm không tịnh, vạn sự bất thành, hãy hành sự cẩn thận.		1	21	1							Setting/Npc/Ai/CommonActive.ini			0	15	3																		
+Birthplace_npc5	417	Hồ Thần Y	2	1			5022	223	323	Vong Ưu Đảo đúng là một kho báu, Chân Nhi cũng là y sư giỏi, không biết sao lại yêu tên tiểu tử thối đó!		1	21	1							Setting/Npc/Ai/CommonActive.ini			0	15	3																		
+Birthplace_npc6	418	Nạp Lan Chân	2	1			177	13	113	Mong Dương đại ca mau khỏe.		1	21	1							Setting/Npc/Ai/CommonActive.ini			0	15	3																		
+Birthplace_npc7	578	Ân Phương	2	1			125	208	308	Muốn vang danh thiên hạ phải luyện kiếm! Ơ, ta không cố ý...		1	21	1							Setting/Npc/Ai/CommonActive.ini			0	15	3																		
+Birthplace_npc8	419	Dương Ảnh Phong	2	1			1101	225	325	Giang hồ hiểm ác, lòng người khó lường, ôi, 		1	56	1							Setting/Npc/Ai/CommonActive.ini			0	15	3																		
+Birthplace_npc9	954	Nạp Lan Tiềm Lẫm	2	1			187	212	312	Chân Nhi tính tình ngoài mềm trong cứng, có câu nói con gái lấy chồng như bát nước đổ đi, điều này...!		1	21	1							Setting/Npc/Ai/CommonActive.ini			0	15	3																		
+Birthplace_npc11	956	Liệp Ưng	5	1			147					1	21	1							Setting/Npc/Ai/CommonActive.ini			0	15	3																		
+Birthplace_npc12	1080	Nạp Lan Chân	0	1			177	13	113	Hôm nay gặp ngươi, ta mới cảm thấy mình đã ở trên đảo này mười mấy năm rồi.		1	21	1							Setting/Npc/Ai/partner/FellowCommon.ini			0	40	3																		
+Birthplace_npc13	1081	Dương Ảnh Phong	0	1			1101	225	325	Để trở thành thiên hạ đệ nhất, dù hy sinh mạng này có sá chi!		1	56	1							Setting/Npc/Ai/partner/FellowCommon.ini			0	30	3																		
+Birthplace_npc14	1277	Dương Ảnh Phong Trọng Thương	4	1			457	225	325			1	56	1							Setting/Npc/Ai/partner/FellowCommon.ini			0	30	3																		
+Birthplace_npc15	1278	Ác Đồ	2	1			123		993	Đại hiệp thật dũng mãnh, khó có đối thủ!		1	21	1							Setting/Npc/Ai/CommonActive.ini			0	15	3						NoTurn												
+Birthplace_npc10	955	Xích Tâm Hoa	2	1	TaskNpc	14|3|Đang thu thập...	323					1	21	1							Setting/Npc/Ai/CommonActive.ini			0	15	3						NoTurn												
+Task_syy_caiji_caoyao	1276	Tử Lan Thảo	2	1	TaskNpc	45|3|Đang thu thập...	448					1	21	1							Setting/Npc/Ai/CommonActive.ini			0	15	3						NoTurn												
+House_caiji_caoyao	2213	Tử Lan Thảo	2	1	TaskNpc	3104|3|Đang thu thập...	448					1	21	1							Setting/Npc/Ai/CommonActive.ini			0	15	3						NoTurn												
+Task_qicaixiaohua	2732	Hoa Bảy Màu	2	1	TaskNpc	3258|3|Đang thu thập...	448					1	21	1							Setting/Npc/Ai/CommonActive.ini			0	15	3						NoTurn												
+Task_syy_caiji_xiangzi1	1284	Rương Vật Phẩm	2	1	TaskNpc	25|3|Đang thu thập...	446					1	21	1							Setting/Npc/Ai/CommonActive.ini			0	15	3						NoTurn												
+Task_syy_caiji_xiangzi2	1285	Rương Vật Phẩm	2	1	TaskNpc	24|3|Đang thu thập...	446					1	21	1							Setting/Npc/Ai/CommonActive.ini			0	15	3						NoTurn												
+Task_xsd_caiji_guozi	1252	Quả	2	1	TaskNpc	312|3|Đang thu thập...	328					1	21	1							Setting/Npc/Ai/CommonActive.ini			0	15	3						NoTurn												
+Task_wys_caiji_guozi	1349	Quả	2	1	TaskNpc	76|3|Đang thu thập...	328					1	21	1							Setting/Npc/Ai/CommonActive.ini			0	15	3						NoTurn												
+Task_jiangguo	2733	Quả Mọng	2	1	TaskNpc	3276|3|Đang thu thập...	328					1	21	1							Setting/Npc/Ai/CommonActive.ini			0	15	3						NoTurn												
+Task_caiji_muchai	1273	Củi	2	1	TaskNpc	74|3|Đang thu thập...	445					1	21	1							Setting/Npc/Ai/CommonActive.ini			0	15	3						NoTurn												
+House_caiji_muchai	2214	Đống Gỗ	2	1	TaskNpc	3102|3|Đang thu thập...	445					1	21	1							Setting/Npc/Ai/CommonActive.ini			0	15	3						NoTurn												
+Task_hsmd_caiji_muchai	1274	Củi	2	1	TaskNpc	264|3|Đang thu thập...	445					1	21	1							Setting/Npc/Ai/CommonActive.ini			0	15	3						NoTurn												
+Task_hsmd_caiji_guozi	1275	Quả	2	1	TaskNpc	283|3|Đang thu thập...	440					1	21	1							Setting/Npc/Ai/CommonActive.ini			0	15	3						NoTurn												
+Task_Syy_npc4	722	Tử Lan Hoa	2	1	TaskNpc	45|3|Đang thu thập...	323					1	21	1							Setting/Npc/Ai/CommonActive.ini			0	15	3						NoTurn												
+Task_dth_caiji_xianjing	1280	Bẫy Thú	4	1			450					1	21	1							Setting/Npc/Ai/CommonActive.ini			0	15	3						NoTurn												
+Task_scene_guozi	1262	Trái Cây	4	1			447					1	21	1							Setting/Npc/Ai/CommonActive.ini			0	15	3																		
+Task_scene_luoye	1264	Đống Lá Rơi	4	1			444					1	21	1							Setting/Npc/Ai/CommonActive.ini			0	15	3																		
+Task_scene_yifu	1266	Áo Thất Lạc	4	1			449					1	21	1							Setting/Npc/Ai/CommonActive.ini			0	15	3																		
+Task_scene_zuji	1272	Dấu Chân	4	1			441					1	21	1							Setting/Npc/Ai/CommonActive.ini			0	15	3																		
+Task_scene_biaoji1	1267	Biển Báo	4	1			442					1	21	1							Setting/Npc/Ai/CommonActive.ini			0	15	3																		
+Task_scene_biaoji2	1268	Biển Báo	4	1			443					1	21	1							Setting/Npc/Ai/CommonActive.ini			0	15	3																		
+Task_Client_lq	1160	Lư Thanh	2	1	ClientTaskNpc		1121		993	Không biết sư huynh chưởng môn giờ ra sao...		1	56	1							Setting/Npc/Ai/CommonActive.ini			0	15	3																		
+Task_Client_qiaofu	1163	Tiều Phu	2	1	ClientTaskNpc		173		993	Muốn tìm đường hãy đến tìm ta!		1	56	1							Setting/Npc/Ai/CommonActive.ini			0	15	3																		
+Task_Client_wydz	1165	Đệ Tử Võ Di	2	1	ClientTaskNpc		169		993	Sẽ có một ngày ta khôi phục được Võ Di Kiếm Phái!		1	56	1							Setting/Npc/Ai/CommonActive.ini			0	15	3																		
+Task_Client_zhanglin	1166	Trương Lâm	2	1	ClientTaskNpc		135		993	Một thời huy hoàng, nay chỉ còn dư âm.		1	56	1							Setting/Npc/Ai/CommonActive.ini			0	15	3																		
+Task_Client_zhaoqiniang	1169	Triệu Thất Nương	2	1	ClientTaskNpc		184		993	May mà năm xưa lão nương tinh tường, chọn Lão Chu nhà ta!		1	56	1							Setting/Npc/Ai/CommonActive.ini			0	15	3																		
+Task_Client_zhoumujiang	1170	Chu Mộc Tượng	2	1	ClientTaskNpc		142		993	Nguyện cho những người yêu nhau có thể đến được với nhau!		1	56	1							Setting/Npc/Ai/CommonActive.ini			0	15	3																		
+Task_Client_zhouxiaofu	1173	Chu Tiểu Phú	2	1	ClientTaskNpc		134		993	Tiêu Tường hãy yên tâm, ta nhất định sẽ cưới nàng!		1	56	1							Setting/Npc/Ai/CommonActive.ini			0	15	3																		
+Task_Client_hexiaoqiang	1176	Hà Tiêu Tường	2	1	ClientTaskNpc		176		993	Tiểu Phú, lòng ta chỉ có ngươi, đừng làm ta thất vọng...		1	56	1							Setting/Npc/Ai/CommonActive.ini			0	15	3																		
+Task_Client_jianyun	1178	Kiếm Vân	2	1	ClientTaskNpc		165		993	Không trở thành đại hiệp như Độc Cô Kiếm, ta cũng phải trở thành 1 tiểu hiệp!		1	56	1							Setting/Npc/Ai/CommonActive.ini			0	15	3																		
+Task_Client_qiuyu	1181	Thu Vũ	2	1	ClientTaskNpc		105		993	Tên con được lấy từ chữ Kiếm của Độc Cô Kiếm, Vân của Lưu Vân, mong muốn có thể giống như họ, có khát vọng cứu quốc...		1	56	1							Setting/Npc/Ai/CommonActive.ini			0	15	3																		
+Task_Client_laowang	1183	Lão Vương	2	1	ClientTaskNpc		170		993	Ngươi không nhận ra ta sao? Lão Vương cạnh nhà đây!		1	56	1							Setting/Npc/Ai/CommonActive.ini			0	15	3																		
+Task_Client_jialaoshi	1185	Giả Bộc Trực	2	1	ClientTaskNpc		146		993	Không biết Nam Cung cô nương trong sa mạc hiện giờ như thế nào.....		1	56	1							Setting/Npc/Ai/CommonActive.ini			0	15	3																		
+Task_Client_wanjincai	1379	Vạn Kim Tài	2	1	ClientTaskNpc		146		993	Không biết Nam Cung cô nương trong sa mạc hiện giờ như thế nào.....		1	56	1							Setting/Npc/Ai/CommonActive.ini			0	15	3																		
+Task_Client_shangren	1957	Thương Nhân	2	1	ClientTaskNpc		146		993	Không biết Nam Cung cô nương trong sa mạc hiện giờ như thế nào.....		1	56	1							Setting/Npc/Ai/CommonActive.ini			0	15	3																		
+Task_Client_weibing	1202	Vệ Binh	2	1	ClientTaskNpc		150		993	Loạn lạc liên miên, bách tính thật đáng thương!		1	56	1							Setting/Npc/Ai/CommonActive.ini			0	15	3																		
+Task_Client_hemei	1205	Hà Mai	2	1	ClientTaskNpc		183		993	Nếu ngày đó Độc Cô Kiếm đồng ý với cha ta thì sẽ ra sao nhỉ...		1	56	1							Setting/Npc/Ai/CommonActive.ini			0	15	3																		
+Task_Client_duanfurong	1208	Đoàn Phù Dung	2	1	ClientTaskNpc		178		993	Đã chế tạo được「Độc Cô Kiếm」, quá thỏa mãn!		1	56	1							Setting/Npc/Ai/CommonActive.ini			0	15	3																		
+Task_Client_jiangbo	1210	Thiết Vân	2	1	ClientTaskNpc		150		993			1	56	1							Setting/Npc/Ai/CommonActive.ini			0	15	3																		
+Task_Client_cunmin	1233	Thôn Dân	2	1	ClientTaskNpc		170		993	Khụ... khụ... Gần đây cảm thấy sức khỏe không còn tốt nữa...		1	56	1							Setting/Npc/Ai/CommonActive.ini			0	15	3																		
+Task_Client_hushandizi	1235	Đệ Tử Hoa Sơn	2	1	ClientTaskNpc		1120		993	Chưởng môn...		1	56	1							Setting/Npc/Ai/CommonActive.ini			0	15	3																		
+Task_Client_shaolindizi	1239	Đệ Tử Thiếu Lâm	2	1	ClientTaskNpc		163		993	Người xuất gia nên làm việc thiện...		1	56	1							Setting/Npc/Ai/CommonActive.ini			0	15	3																		
+Task_Client_haitong	1241	Đứa Bé	2	1	ClientTaskNpc		191		993	Ha ha ha! Tên hòa thượng này quá thật thà rồi!		1	56	1							Setting/Npc/Ai/CommonActive.ini			0	15	3																		
+Task_Client_wuzhi	1243	Vô Trí Đại Sư	2	1	ClientTaskNpc		163		993	A Di Đà Phật, thiện tai thiện tai.		1	56	1							Setting/Npc/Ai/CommonActive.ini			0	15	3																		
+Task_Client_yintong	1340	Tiểu Ân Đồng	2	1	ClientTaskNpc		192		993	Hãy nhớ thường xuyên đến chơi nhé!		1	56	1							Setting/Npc/Ai/CommonActive.ini			0	15	3																		
+Task_Client_tianxing	1391	Thiên Tinh Đạo Trưởng	2	1	ClientTaskNpc		13	215	315	Vô Ưu Giáo lại xuất hiện, võ lâm lại sắp gánh chịu kiếp nạn...		1	56	1							Setting/Npc/Ai/CommonActive.ini			0	15	3																		
+Task_Client_huashanzhanglao	1434	Hoa Sơn Trưởng Lão	2	1	ClientTaskNpc		13	215	315	Vô Ưu Giáo lại xuất hiện, võ lâm lại sắp gánh chịu kiếp nạn...		1	56	1							Setting/Npc/Ai/CommonActive.ini			0	15	3																		
+Task_Client_yanjiangjun	1440	Nghiêm Tướng Quân	2	1	ClientTaskNpc		1113	215	315	Hừ! Đại Tống đã có binh hùng tướng mạnh bảo vệ, đâu cần người khác!		1	56	1							Setting/Npc/Ai/CommonActive.ini			0	15	3																		
+Task_Client_maoshandaozhang	1443	Mao Sư Đạo Trưởng	2	1	ClientTaskNpc		169	215	315	Yên tâm, chỉ cần ta bói cho một quẻ, đảm bảo sau này mọi sự hanh thông!		1	56	1							Setting/Npc/Ai/CommonActive.ini			0	15	3																		
+Task_Client_shenmishaonv1	1626	Thiếu Nữ Bí Ẩn	2	1	ClientTaskNpc		1102			...		1	56	1							Setting/Npc/Ai/CommonActive.ini			0	15	3																		
+Task_Client_shenmishaonv2	1629	Thiếu Nữ Bí Ẩn	2	1	ClientTaskNpc		103			...		1	56	1							Setting/Npc/Ai/CommonActive.ini			0	15	3																		
+Task_Client_baiyishaonv	1646	Thiếu Nữ Áo Trắng	2	1	ClientTaskNpc		105			...		1	56	1							Setting/Npc/Ai/CommonActive.ini			0	15	3																		
+Task_Client_guqingxue	1648	Cố Thanh Tuyết	2	1	ClientTaskNpc		105			...		1	56	1							Setting/Npc/Ai/CommonActive.ini			0	15	3																		
+Task_Client_yunxiaofeng	1650	Vân Tiếu Phong	2	1	ClientTaskNpc		5012			...		1	56	1							Setting/Npc/Ai/CommonActive.ini			0	15	3																		
+Task_Client_acao	1652	A Bang	2	1	ClientTaskNpc		1126			...		1	56	1							Setting/Npc/Ai/CommonActive.ini			0	15	3																		
+Task_Client_yangying	1654	Dương Anh	2	1	ClientTaskNpc		141			...		1	56	1							Setting/Npc/Ai/CommonActive.ini			0	15	3																		
+Task_Client_dugujian	1656	Độc Cô Kiếm	2	1	ClientTaskNpc		5032			...		1	56	1							Setting/Npc/Ai/CommonActive.ini			0	15	3																		
+Task_Client_nangongfeiyun	1934	Nam Cung Phi	2	1	ClientTaskNpc		5027			...		1	56	1							Setting/Npc/Ai/CommonActive.ini			0	15	3																		
+Task_Client_yanruoxue	1935	Yên Nhược Tuyết	2	1	ClientTaskNpc		1129			...		1	56	1							Setting/Npc/Ai/CommonActive.ini			0	15	3																		
+Task_Client_chaisong	1936	Sài Tung	2	1	ClientTaskNpc		132			...		1	56	1							Setting/Npc/Ai/CommonActive.ini			0	15	3																		
+Task_Client_chaisong1	1943	Bạch Y Tú Sĩ	2	1	ClientTaskNpc		132			...		1	56	1							Setting/Npc/Ai/CommonActive.ini			0	15	3																		
+Task_Client_cunzhang	1944	Thôn Trưởng	2	1	ClientTaskNpc		173			...		1	56	1							Setting/Npc/Ai/CommonActive.ini			0	15	3																		
+Task_Client_shouwei	1946	Thôn Dân Thủ Vệ	2	1	ClientTaskNpc		173			...		1	56	1							Setting/Npc/Ai/CommonActive.ini			0	15	3																		
+Task_Client_zhaoshengquan	1949	Triệu Thăng Quyền	2	1	ClientTaskNpc		1109			...		1	56	1							Setting/Npc/Ai/CommonActive.ini			0	15	3																		
+Task_Client_zhaowushuang	1951	Triệu Vô Song	2	1	ClientTaskNpc		127			...		1	56	1							Setting/Npc/Ai/CommonActive.ini			0	15	3																		
+Task_Client_longwu	2745	Long Ngũ	2	1	ClientTaskNpc		658			...		1	56	1							Setting/Npc/Ai/CommonActive.ini			0	15	3																		
+Task_Client_shuanger	2747	Sương Nhi	2	1	ClientTaskNpc		661			...		1	56	1							Setting/Npc/Ai/CommonActive.ini			0	15	3																		
+Task_Npc_lq	1161	Lư Thanh	2	1			1121		993	Không biết sư huynh chưởng môn giờ ra sao...		1	56	1							Setting/Npc/Ai/CommonActive.ini			0	15	3																		
+Task_Npc_qiaofu	1164	Tiều Phu	2	1			173		993	Muốn tìm đường hãy đến tìm ta!		1	56	1							Setting/Npc/Ai/CommonActive.ini			0	15	3																		
+Task_Npc_wydz	1167	Đệ Tử Võ Di	2	1			169		993	Sẽ có một ngày ta khôi phục được Võ Di Kiếm Phái!		1	56	1							Setting/Npc/Ai/CommonActive.ini			0	15	3																		
+Task_Npc_zhanglin	1168	Trương Lâm	2	1			135		993	Một thời huy hoàng, nay chỉ còn dư âm.		1	56	1							Setting/Npc/Ai/CommonActive.ini			0	15	3																		
+Task_Npc_zhaoqiniang	1171	Triệu Thất Nương	2	1			184		993	May mà năm xưa lão nương tinh tường, chọn Lão Chu nhà ta!		1	56	1							Setting/Npc/Ai/CommonActive.ini			0	15	3																		
+Task_Npc_zhoumujiang	1175	Chu Mộc Tượng	2	1			101		993	Nguyện cho những người yêu nhau có thể đến được với nhau!		1	56	1							Setting/Npc/Ai/CommonActive.ini			0	15	3																		
+Task_Npc_zhouxiaofu	1174	Chu Tiểu Phú	2	1			134		993	Tiêu Tường hãy yên tâm, ta nhất định sẽ cưới nàng!		1	56	1							Setting/Npc/Ai/CommonActive.ini			0	15	3																		
+Task_Npc_hexiaoqiang	1177	Hà Tiêu Tường	2	1			176		993	Tiểu Phú, lòng ta chỉ có ngươi, đừng làm ta thất vọng...		1	56	1							Setting/Npc/Ai/CommonActive.ini			0	15	3																		
+Task_Npc_jianyun	1179	Kiếm Vân	2	1			165		993	Không trở thành đại hiệp như Độc Cô Kiếm, ta cũng phải trở thành 1 tiểu hiệp!		1	56	1							Setting/Npc/Ai/CommonActive.ini			0	15	3																		
+Task_Npc_qiuyu	1182	Thu Vũ	2	1			105		993	Tên con được lấy từ chữ Kiếm của Độc Cô Kiếm, Vân của Lưu Vân, mong muốn có thể giống như họ, có khát vọng cứu quốc...		1	56	1							Setting/Npc/Ai/CommonActive.ini			0	15	3																		
+Task_Npc_laowang	1184	Lão Vương	2	1			170		993	Ngươi không nhận ra ta sao? Lão Vương cạnh nhà đây!		1	56	1							Setting/Npc/Ai/CommonActive.ini			0	15	3																		
+Task_Npc_jialaoshi	1186	Giả Bộc Trực	2	1			146		993	Không biết Nam Cung cô nương trong sa mạc hiện giờ như thế nào.....		1	56	1							Setting/Npc/Ai/CommonActive.ini			0	15	3																		
+Task_Npc_wanjincai	1380	Vạn Kim Tài	2	1			146		993	Không biết Nam Cung cô nương trong sa mạc hiện giờ như thế nào.....		1	56	1							Setting/Npc/Ai/CommonActive.ini			0	15	3																		
+Task_Npc_shangren	1958	Thương Nhân	2	1			146		993	Không biết Nam Cung cô nương trong sa mạc hiện giờ như thế nào.....		1	56	1							Setting/Npc/Ai/CommonActive.ini			0	15	3																		
+Task_Npc_weibing	1204	Vệ Binh	2	1			150		993	Loạn lạc liên miên, bách tính thật đáng thương!		1	56	1							Setting/Npc/Ai/CommonActive.ini			0	15	3																		
+Task_Npc_hemei	1206	Hà Mai	2	1			183		993	Nếu ngày đó Độc Cô Kiếm đồng ý với cha ta thì sẽ ra sao nhỉ...		1	56	1							Setting/Npc/Ai/CommonActive.ini			0	15	3																		
+Task_Npc_duanfurong	1209	Đoàn Phù Dung	2	1			178		993	Đã chế tạo được「Độc Cô Kiếm」, quá thỏa mãn!		1	56	1							Setting/Npc/Ai/CommonActive.ini			0	15	3																		
+Task_Npc_jiangbo	1211	Thiết Vân	2	1			150		993			1	56	1							Setting/Npc/Ai/CommonActive.ini			0	15	3																		
+Task_Npc_cunmin	1234	Thôn Dân	2	1			170		993	Khụ... khụ... Gần đây cảm thấy sức khỏe không còn tốt nữa...		1	56	1							Setting/Npc/Ai/CommonActive.ini			0	15	3																		
+Task_Npc_huashandizi	1236	Đệ Tử Hoa Sơn	2	1			1120		993	Chưởng môn...		1	56	1							Setting/Npc/Ai/CommonActive.ini			0	15	3																		
+Task_Npc_shaolindizi	1240	Đệ Tử Thiếu Lâm	2	1			163		993	Người xuất gia nên làm việc thiện...		1	56	1							Setting/Npc/Ai/CommonActive.ini			0	15	3																		
+Task_Npc_haitong	1242	Đứa Bé	2	1			191		993	Ha ha ha! Tên hòa thượng này quá thật thà rồi!		1	56	1							Setting/Npc/Ai/CommonActive.ini			0	15	3																		
+Task_Npc_wuzhi	1244	Vô Trí Đại Sư	2	1			163		993	A Di Đà Phật, thiện tai thiện tai.		1	56	1							Setting/Npc/Ai/CommonActive.ini			0	15	3																		
+Task_Npc_yintong	1341	Tiểu Ân Đồng	2	1			192		993	Hãy nhớ thường xuyên đến chơi nhé!		1	56	1							Setting/Npc/Ai/CommonActive.ini			0	15	3																		
+Task_Npc_tianxing	1392	Thiên Tinh Đạo Trưởng	2	1			13	215	315	Vô Ưu Giáo lại xuất hiện, võ lâm lại sắp gánh chịu kiếp nạn...		1	56	1							Setting/Npc/Ai/CommonActive.ini			0	15	3																		
+Task_Npc_huashanzhanglao	1435	Hoa Sơn Trưởng Lão	2	1			13	215	315	Vô Ưu Giáo lại xuất hiện, võ lâm lại sắp gánh chịu kiếp nạn...		1	56	1							Setting/Npc/Ai/CommonActive.ini			0	15	3																		
+Task_Npc_houzi	1437	Khỉ Tinh Nghịch	2	1			117			Xèo xèo		1	56	1							Setting/Npc/Ai/CommonActive.ini			0	15	3																		
+Task_Npc_yanjiangjun	1441	Nghiêm Tướng Quân	2	1			1113			Hừ! Đại Tống đã có binh hùng tướng mạnh bảo vệ, đâu cần người khác!		1	56	1							Setting/Npc/Ai/CommonActive.ini			0	15	3																		
+Task_Npc_maoshandaozhang	1444	Mao Sư Đạo Trưởng	2	1			169			Yên tâm, chỉ cần ta bói cho một quẻ, đảm bảo sau này mọi sự hanh thông!		1	56	1							Setting/Npc/Ai/CommonActive.ini			0	15	3																		
+Task_Npc_shenmishaonv1	1627	Thiếu Nữ Bí Ẩn	2	1			1102			...		1	56	1							Setting/Npc/Ai/CommonActive.ini			0	15	3																		
+Task_Npc_shenmishaonv2	1630	Thiếu Nữ Bí Ẩn	2	1			103			...		1	56	1							Setting/Npc/Ai/CommonActive.ini			0	15	3																		
+Task_Npc_baiyishaonv	1647	Thiếu Nữ Bí Ẩn	2	1			105			...		1	56	1							Setting/Npc/Ai/CommonActive.ini			0	15	3																		
+Task_Npc_guqingxue	1649	Cố Thanh Tuyết	2	1			105			...		1	56	1							Setting/Npc/Ai/CommonActive.ini			0	15	3																		
+Task_Npc_yunxiaofeng	1651	Vân Tiếu Phong	2	1			5012			...		1	56	1							Setting/Npc/Ai/CommonActive.ini			0	15	3																		
+Task_Npc_acao	1653	A Bang	2	1			1126			...		1	56	1							Setting/Npc/Ai/CommonActive.ini			0	15	3																		
+Task_Npc_yangying	1655	Dương Anh	2	1			141			...		1	56	1							Setting/Npc/Ai/CommonActive.ini			0	15	3																		
+Task_Npc_dugujian	1657	Độc Cô Kiếm	2	1			5032			...		1	56	1							Setting/Npc/Ai/CommonActive.ini			0	15	3																		
+Task_Npc_nangongfeiyun	1937	Nam Cung Phi	2	1			5027			...		1	56	1							Setting/Npc/Ai/CommonActive.ini			0	15	3																		
+Task_Npc_yanruoxue	1938	Yên Nhược Tuyết	2	1			1129			...		1	56	1							Setting/Npc/Ai/CommonActive.ini			0	15	3																		
+Task_Npc_chaisong	1939	Sài Tung	2	1			132			...		1	56	1							Setting/Npc/Ai/CommonActive.ini			0	15	3																		
+Task_Npc_chaisong1	1942	Bạch Y Tú Sĩ	2	1			132			...		1	56	1							Setting/Npc/Ai/CommonActive.ini			0	15	3																		
+Task_Npc_cunzhang	1945	Thôn Trưởng	2	1			173			...		1	56	1							Setting/Npc/Ai/CommonActive.ini			0	15	3																		
+Task_Npc_shouwei	1947	Thôn Dân Thủ Vệ	2	1			173			...		1	56	1							Setting/Npc/Ai/CommonActive.ini			0	15	3																		
+Task_Npc_zhaoshengquan	1950	Triệu Thăng Quyền	2	1			1109			...		1	56	1							Setting/Npc/Ai/CommonActive.ini			0	15	3																		
+Task_Npc_zhaowushuang	1952	Triệu Vô Song	2	1			127			...		1	56	1							Setting/Npc/Ai/CommonActive.ini			0	15	3																		
+Task_Npc_longwu	2746	Long Ngũ	2	1			658			...		1	56	1							Setting/Npc/Ai/CommonActive.ini			0	15	3																		
+Task_Npc_shuanger	2748	Sương Nhi	2	1			661			...		1	56	1							Setting/Npc/Ai/CommonActive.ini			0	15	3																		
+Task_Follow_lq	1162	Lư Thanh	0	1			1121		993	Sẽ có một ngày ta sẽ trở thành kiếm khách giống Độc Cô đại hiệp và Nam Cung đại hiệp.		1	56	1							Setting/Npc/Ai/partner/FellowCommon.ini			0	50	3																		
+Task_Follow_jianyun	1180	Kiếm Vân	0	1			165		993			1	56	1							Setting/Npc/Ai/partner/FellowCommon.ini			0	50	3																		
+Task_Follow_duanfurong	1214	Đoàn Phù Dung	0	1			178		993			1	56	1							Setting/Npc/Ai/partner/FellowCommon.ini			0	50	3																		
+Task_Follow_qiaofu	1250	Tiều Phu	0	1			173		993			1	56	1							Setting/Npc/Ai/partner/FellowCommon.ini			0	50	3																		
+Task_Follow_shaolindizi	1261	Đệ Tử Thiếu Lâm	0	1			163		993			1	56	1							Setting/Npc/Ai/partner/FellowCommon.ini			0	50	3																		
+Task_Follow_yinfang	1382	Ân Phương	0	1			125	208	308	Ta muốn trở thành đại hiệp! Sau đó sẽ tiêu diệt hết bọn chúng!		1	56	1							Setting/Npc/Ai/partner/FellowCommon.ini			0	50	3																		
+Task_Follow_maoshandaozhang	1452	Mao Sư Đạo Trưởng	0	1			169		208	308		1	56	1							Setting/Npc/Ai/partner/FellowCommon.ini			0	50	3																		
+Task_Follow_shibing	1457	Thân Vệ Nghiêm Gia Quân	0	1			150					1	56	1							Setting/Npc/Ai/partner/FellowCommon.ini			0	50	3																		
+Task_Follow_shenmishaonv2	1632	Thiếu Nữ Bí Ẩn	0	1			103					1	56	1							Setting/Npc/Ai/partner/FellowCommon.ini			0	50	3																		
+Task_Follow_yunxiaofeng	1658	Vân Tiếu Phong	0	1			5012					1	56	1							Setting/Npc/Ai/partner/FellowCommon.ini			0	50	3																		
+Task_Follow_acao	1659	A Bang	0	1			1126					1	56	1							Setting/Npc/Ai/partner/FellowCommon.ini			0	50	3																		
+Task_Follow_yangying	1661	Dương Anh	0	1			141					1	56	1							Setting/Npc/Ai/partner/FellowCommon.ini			0	50	3																		
+Task_Follow_dugujian	1662	Độc Cô Kiếm	0	1			5032					1	56	1							Setting/Npc/Ai/partner/FellowCommon.ini			0	50	3																		
+Task_Follow_shuanger	2749	Sương Nhi	0	1			661					1	56	1							Setting/Npc/Ai/partner/FellowCommon.ini			0	50	3																		
+Task_Move_zhouxiaofu	1215	Chu Tiểu Phú	0	1			134		993			1	56	1							Setting/Npc/Ai/CommonActive.ini			0	15	3																		
+Task_Move_wuyidizi	1310	Đệ Tử Võ Di	0	1			169		993			1	56	1							Setting/Npc/Ai/CommonActive.ini			0	15	3																		
+Task_Move_zhanglin	1311	Trương Lâm	0	1			135		993			1	56	1							Setting/Npc/Ai/CommonActive.ini			0	15	3																		
+Task_Move_nalanqianlin	1342	Nạp Lan Tiềm Lẫm	0	1			187	212	312	Ha ha ha! Ta là thiên hạ đệ nhất!		1	56	1							Setting/Npc/Ai/CommonActive.ini			0	20	3																		
+Task_Move_yangyingfeng	1343	Dương Ảnh Phong	0	1			1101	225	325	Đệ nhất thiên hạ... Ta đã làm đúng hay sai?		1	56	1							Setting/Npc/Ai/CommonActive.ini			0	20	3																		
+Task_Move_wanjincai	1381	Vạn Kim Tài	0	1			146			Hi hi, tiền vô như nước...		1	56	1							Setting/Npc/Ai/CommonActive.ini			0	20	3																		
+Task_Move_luzhaohao	1384	Lư Triệu Hạo	0	1			101			Phi Long Bảo thành lập mấy mươi năm, ai dám xâm phạm?		1	56	1							Setting/Npc/Ai/CommonActive.ini			0	20	3																		
+Task_Move_huashandizi	1433	Đệ Tử Hoa Sơn	0	1			1120			Phi Long Bảo thành lập mấy mươi năm, ai dám xâm phạm?		1	56	1							Setting/Npc/Ai/CommonActive.ini			0	20	3																		
+Task_Move_qiaofu	1432	Tiều Phu	0	1			173			Hi hi, con đường này chỉ ta biết mà thôi!		1	56	1							Setting/Npc/Ai/CommonActive.ini			0	20	3																		
+Task_Move_duanfurong	1436	Đoàn Phù Dung	0	1			178			Hi hi, con đường này chỉ ta biết mà thôi!		1	56	1							Setting/Npc/Ai/CommonActive.ini			0	20	3																		
+Task_Move_houzi	1438	Khỉ Tinh Nghịch	0	1			117			Két... Két...		1	56	1							Setting/Npc/Ai/CommonActive.ini			0	20	3																		
+Task_Move_yanjiangjun	1442	Nghiêm Tướng Quân	0	1			1113			Hừ! Đại Tống đã có binh hùng tướng mạnh bảo vệ, đâu cần người khác!		1	56	1							Setting/Npc/Ai/CommonActive.ini			0	20	3																		
+Task_Move_maoshandaozhang	1445	Mao Sư Đạo Trưởng	0	1			169			Yên tâm, chỉ cần ta bói cho một quẻ, đảm bảo sau này mọi sự hanh thông!		1	56	1							Setting/Npc/Ai/CommonActive.ini			0	20	3																		
+Task_Move_shibing	1453	Thân Vệ Nghiêm Gia Quân	0	1			150			Bảo vệ Nghiêm Tướng Quân! Bảo vệ vương triều Đại Tống!		1	56	1							Setting/Npc/Ai/CommonActive.ini			0	20	3																		
+Task_Move_shenmiren	1454	Người Bí Ẩn	0	1			24			Thú vị đấy...		1	56	1							Setting/Npc/Ai/CommonActive.ini			0	20	3																		
+Task_Move_yinfang	1612	Ân Phương	0	1			125	208	308	Ta muốn trở thành đại hiệp! Sau đó sẽ tiêu diệt hết bọn chúng!		1	56	1							Setting/Npc/Ai/CommonActive.ini			0	20	3																		
+Task_Move_shenmishaonv1	1628	Thiếu Nữ Bí Ẩn	0	1			1102			...		1	56	1							Setting/Npc/Ai/CommonActive.ini			0	20	3																		
+Task_Move_shenmishaonv2	1631	Thiếu Nữ Bí Ẩn	0	1			103			...		1	56	1							Setting/Npc/Ai/CommonActive.ini			0	20	3																		
+Task_Move_yangying	1660	Dương Anh	0	1			141			...		1	56	1							Setting/Npc/Ai/CommonActive.ini			0	20	3																		
+Task_Move_dugujian	1764	Độc Cô Kiếm	0	1			5032			...		1	56	1							Setting/Npc/Ai/CommonActive.ini			0	20	3																		
+Task_Move_longwu	2750	Long Ngũ	0	1			658			...		1	56	1							Setting/Npc/Ai/CommonActive.ini			0	20	3																		
+Task_Syy_yyf1	730	Dương Ảnh Phong	2	1	ClientTaskNpc		1101	225	325	Sẽ có một ngày ta sẽ trở thành kiếm khách giống Độc Cô đại hiệp và Nam Cung đại hiệp.		1	56	1							Setting/Npc/Ai/CommonActive.ini			0	15	3																		
+Task_Syy_yyf2	731	Dương Ảnh Phong	2	1			1101	225	325	Sẽ có một ngày ta sẽ trở thành kiếm khách giống Độc Cô đại hiệp và Nam Cung đại hiệp.		1	56	1							Setting/Npc/Ai/CommonActive.ini			0	15	3																		
+Task_Syy_yyf3	732	Dương Ảnh Phong	0	1			1101	225	325	Sẽ có một ngày ta sẽ trở thành kiếm khách giống Độc Cô đại hiệp và Nam Cung đại hiệp.		1	21	1							Setting/Npc/Ai/partner/FellowCommon.ini			0	30	3																		
+Task_Syy_yyf4	733	Dương Ảnh Phong	2	1			1101	225	325	Sẽ có một ngày ta sẽ trở thành kiếm khách giống Độc Cô đại hiệp và Nam Cung đại hiệp.		1	21	1							Setting/Npc/Ai/CommonActive.ini			0	15	3																		
+Task_Syy_npc1	719		2	1					993			1	21	1							Setting/Npc/Ai/CommonActive.ini			0	15	3																		
+Task_Syy_npc2	720	Nạp Lan Chân	2	1	ClientTaskNpc		177	13	113	Dương đại ca chắc chắn có thể trở thành đại nhân vật trong giang hồ! Ta chỉ cần ở bên cạnh người là đủ rồi...		1	21	1							Setting/Npc/Ai/CommonActive.ini			0	15	3																		
+Task_Syy_npc3	721	Nạp Lan Chân	2	1			177	13	113	Dương đại ca chắc chắn có thể trở thành đại nhân vật trong giang hồ! Ta chỉ cần ở bên cạnh người là đủ rồi...		1	21	1							Setting/Npc/Ai/CommonActive.ini			0	15	3																		
+Task_Syy_npc6	724	Nạp Lan Chân	0	1			177	13	113	Dương đại ca chắc chắn có thể trở thành đại nhân vật trong giang hồ! Ta chỉ cần ở bên cạnh người là đủ rồi...		1	21	1							Setting/Npc/Ai/partner/FellowCommon.ini			0	30	3																		
+Task_Syy_npc7	725	Nạp Lan Chân	0	1			177	13	113	Dương đại ca chắc chắn có thể trở thành đại nhân vật trong giang hồ! Ta chỉ cần ở bên cạnh người là đủ rồi...		1	21	1							Setting/Npc/Ai/CommonActive.ini			0	25	3																		
+Task_Syy_npc5	723	Mã Tặc	0	1	FixExpNpc		173		993		150	611	166	1	200	1			500	500	Setting/Npc/Ai/CommonPassive.ini			1	18	1										1								
+Task_Syy_npc8	726	Địa Bì	0	1	FixExpNpc		170				150	611	21	1					500	500	Setting/Npc/Ai/CommonPassive.ini			1	18	1										1								
+Task_Wys_yyf1	1003	Dương Ảnh Phong	2	1	ClientTaskNpc		1101	225	325	Vị Hồng Y Thiếu Nữ này thân thủ khó lường, thôi cứ giúp một tay trước vậy!		1	56	1							Setting/Npc/Ai/CommonActive.ini			1	15	3																		
+Task_Wys_yyf2	1004	Dương Ảnh Phong	2	1			1101	225	325	Vị Hồng Y Thiếu Nữ này thân thủ khó lường, thôi cứ giúp một tay trước vậy!		1	56	1							Setting/Npc/Ai/CommonActive.ini			0	15	3																		
+Task_Wys_yyf3	1082	Dương Ảnh Phong	0	1			1101	225	325	Vị Hồng Y Thiếu Nữ này thân thủ khó lường, thôi cứ giúp một tay trước vậy!		1	56	1							Setting/Npc/Ai/partner/FellowCommon.ini			0	30	3																		
+Task_Wys_zx1	1156	Tử Hiên	0	1			131	20	120	Ta phải làm sao đây!		1	56	1							Setting/Npc/Ai/partner/FellowCommon.ini			0	30	3																		
+Task_Wys_yme1	1005	Nguyệt My Nhi	2	1	ClientTaskNpc		1102	22	122	Chỉ là vài tên giặc cỏ thôi! Không lo! Phiền phức ở phía sau kìa!		1	56	1							Setting/Npc/Ai/CommonActive.ini			0	15	3																		
+Task_Wys_yme2	1006	Nguyệt My Nhi	2	1			1102	22	122	Chỉ là vài tên giặc cỏ thôi! Không lo! Phiền phức ở phía sau kìa!		1	56	1										0	15	3																		
+Task_Wys_yme3	1083	Nguyệt My Nhi	0	1			1102	22	122	Chỉ là vài tên giặc cỏ thôi! Không lo! Phiền phức ở phía sau kìa!		1	56	1							Setting/Npc/Ai/partner/FellowCommon.ini			0	30	3																		
+Task_Wys_npc2	1046	Lâu La	0	1	FixExpNpc		170		993		150	611	166	1	200	1			500	500	Setting/Npc/Ai/CommonPassive.ini			1	18	1										1								
+Task_Wys_npc3	1047	Ác Bá	0	1	FixExpNpc		170		993		150	611	166	1	200	1			500	500	Setting/Npc/Ai/CommonPassive.ini			1	18	1										1								
+Task_Wys_npc1	1009	Giả Thiếu 	0	1	FixExpNpc		170		993		36	611	166	1	200	1			500	500	Setting/Npc/Ai/CommonPassive.ini			1	18	1										1								
+Task_Wys_npc4	1048	Sát Thủ	0	1	FixExpNpc		170		993		150	611	166	1	200	1			500	500	Setting/Npc/Ai/CommonPassive.ini			1	18	1										1								
+Task_Wys_npc5	1058	Đống Lửa Nhỏ	4	1			380																			3																		
+Task_Wys_npc6	1059	Thôn Nữ	2	1			105		993	Dương Ảnh Phong còn trẻ vậy đã đạt thành tựu lớn! Nhìn lại ngươi xem!		1	56	1							Setting/Npc/Ai/CommonActive.ini			0	15	3																		
+Task_Wys_npc7	1060	Nam Thôn Dân	2	1			173		993	Hừ! Có gì giỏi! Chỉ là tên thư sinh mà thôi!		1	56	1							Setting/Npc/Ai/CommonActive.ini			0	15	3																		
+Task_Wys_npc8	1068	Nam Thôn Dân	2	1	ClientTaskNpc		173		993	Hừ! Có gì giỏi! Chỉ là tên thư sinh mà thôi!		1	56	1							Setting/Npc/Ai/CommonActive.ini			0	15	3																		
+Task_Wys_npc11	1090	Nam Thôn Dân	0	1			173		993	Hừ! Có gì giỏi! Chỉ là tên thư sinh mà thôi!		1	56	1							Setting/Npc/Ai/partner/FellowCommon.ini			0	40	3																		
+Task_Wys_npc9	1077	Lục Lâm Đầu Lĩnh	2	1	ClientTaskNpc		173		993			1	56	1							Setting/Npc/Ai/CommonActive.ini			0	15	3																		
+Task_Wys_npc10	1078	Lục Lâm Đầu Lĩnh	2	1			173		993			1	56	1							Setting/Npc/Ai/CommonActive.ini			0	15	3																		
+Task_Yds_yyf1	1049	Dương Ảnh Phong	2	1	ClientTaskNpc		1101	225	325	Vị Hồng Y Thiếu Nữ này thân thủ khó lường, thôi cứ giúp một tay trước vậy!		1	56	1							Setting/Npc/Ai/CommonActive.ini			0	30	3																		
+Task_Yds_yyf2	1050	Dương Ảnh Phong	2	1			1101	225	325	Vị Hồng Y Thiếu Nữ này thân thủ khó lường, thôi cứ giúp một tay trước vậy!		1	56	1							Setting/Npc/Ai/CommonActive.ini			0	15	3																		
+Task_Yds_yyf3	1079	Dương Ảnh Phong	0	1			1101	225	325	Vị Hồng Y Thiếu Nữ này thân thủ khó lường, thôi cứ giúp một tay trước vậy!		1	56	1							Setting/Npc/Ai/partner/FellowCommon.ini			0	30	3																		
+Task_Yds_npc1	1067	Trác Phi Phàm	2	1	ClientTaskNpc		194	218	318	「Võ Đạo Đức Kinh」xuất hiện, võ lâm lại dậy sóng... Mong đừng ảnh hưởng đến bá tánh.		1	21	1							Setting/Npc/Ai/CommonActive.ini			0	15	3																		
+Task_Yds_npc2	1069	Trác Phi Phàm	2	1			194	218	318	「Võ Đạo Đức Kinh」xuất hiện, võ lâm lại dậy sóng... Mong đừng ảnh hưởng đến bá tánh.		1	21	1							Setting/Npc/Ai/CommonActive.ini			0	15	3																		
+Task_Yds_npc3	1070	Tử Hiên	2	1	ClientTaskNpc		131	20	120	Ân nghĩa khó vẹn toàn... Dù không muốn, nhưng biết làm sao...		1	21	1							Setting/Npc/Ai/CommonActive.ini			0	15	3																		
+Task_Yds_npc4	1071	Tử Hiên	2	1			131	20	120	Ân nghĩa khó vẹn toàn... Dù không muốn, nhưng biết làm sao...		1	21	1							Setting/Npc/Ai/CommonActive.ini			0	15	3																		
+Task_Yds_npc5	1074	Lý Đại Ngưu	2	1			173	20	120	Hừ! Bản lĩnh của ta là do phụ thân truyền dạy!		1	21	1							Setting/Npc/Ai/CommonActive.ini			0	15	3																		
+Task_Yds_npc6	1075	Tặc Phỉ	0	1	FixExpNpc		170		993		150	611	166	1	200	1			500	500	Setting/Npc/Ai/CommonPassive.ini			1	18	1										1								
+Task_Yds_npc7	1076	Tàng Kiếm Gia Đinh	0	1	FixExpNpc		170		993		150	611	166	1	200	1			500	500	Setting/Npc/Ai/CommonPassive.ini			1	18	1										1								
+Task_Dth_yyf1	1093	Dương Ảnh Phong	2	1	ClientTaskNpc		1101	225	325	Vị Hồng Y Thiếu Nữ này thân thủ khó lường, thôi cứ giúp một tay trước vậy!		1	56	1							Setting/Npc/Ai/CommonActive.ini			0	15	3																		
+Task_Dth_yyf2	1095	Dương Ảnh Phong	2	1			1101	225	325	Vị Hồng Y Thiếu Nữ này thân thủ khó lường, thôi cứ giúp một tay trước vậy!		1	56	1							Setting/Npc/Ai/CommonActive.ini			0	15	3																		
+Task_Dth_yyf3	1094	Dương Ảnh Phong	0	1			1101	225	325	Vị Hồng Y Thiếu Nữ này thân thủ khó lường, thôi cứ giúp một tay trước vậy!		1	56	1							Setting/Npc/Ai/partner/FellowCommon.ini			0	30	3																		
+Task_Dth_npc1	1091	Tử Hiên	2	1	ClientTaskNpc		131	20	120	Ân nghĩa khó vẹn toàn... Dù không muốn, nhưng biết làm sao...		1	21	1							Setting/Npc/Ai/CommonActive.ini			0	15	3																		
+Task_Dth_npc2	1092	Tử Hiên	2	1			131	20	120	Ân nghĩa khó vẹn toàn... Dù không muốn, nhưng biết làm sao...		1	21	1							Setting/Npc/Ai/CommonActive.ini			0	15	3																		
+Task_Dth_npc3	1096	Nguyệt My Nhi	2	1	ClientTaskNpc		1102	22	122	Chỉ là vài tên giặc cỏ thôi! Không lo! Phiền phức ở phía sau kìa!		1	56	1							Setting/Npc/Ai/CommonActive.ini			0	15	3																		
+Task_Dth_npc4	1097	Nguyệt My Nhi	2	1			1102	22	122	Chỉ là vài tên giặc cỏ thôi! Không lo! Phiền phức ở phía sau kìa!		1	56	1							Setting/Npc/Ai/CommonActive.ini			0	15	3																		
+Task_Dth_npc5	1098	Tường Vi	2	1	ClientTaskNpc		103	18	118	Cha thật hồ đồ! Trác Phi Phàm có gì hay ho chứ? Hừ!		1	21	1							Setting/Npc/Ai/CommonActive.ini			0	15	3																		
+Task_Dth_npc6	1099	Tường Vi	2	1			103	18	118	Cha thật hồ đồ! Trác Phi Phàm có gì hay ho chứ? Hừ!		1	21	1							Setting/Npc/Ai/CommonActive.ini			0	15	3																		
+Task_Dth_npc7	1100	Nạp Lan Chân	2	1	ClientTaskNpc		177	13	113	Dương đại ca chắc chắn có thể trở thành đại nhân vật trong giang hồ! Ta chỉ cần ở bên cạnh người là đủ rồi...		1	21	1							Setting/Npc/Ai/CommonActive.ini			0	15	3																		
+Task_Dth_npc8	1101	Nạp Lan Chân	2	1			177	13	113	Dương đại ca chắc chắn có thể trở thành đại nhân vật trong giang hồ! Ta chỉ cần ở bên cạnh người là đủ rồi...		1	21	1							Setting/Npc/Ai/CommonActive.ini			0	15	3																		
+Task_Dth_npc9	1102	Mạnh Tri Thu	2	1	ClientTaskNpc		156	203	303	Trong tay không kiếm, trong lòng có kiếm, người kiếm hợp nhất!		1	56	1							Setting/Npc/Ai/CommonActive.ini			0	15	3																		
+Task_Dth_npc10	1103	Mạnh Tri Thu	2	1			156	203	303	Trong tay không kiếm, trong lòng có kiếm, người kiếm hợp nhất!		1	56	1							Setting/Npc/Ai/CommonActive.ini			0	15	3																		
+Task_Dth_npc11	1106	Tử Hiên	0	1			131	20	120	Ân nghĩa khó vẹn toàn... Dù không muốn, nhưng biết làm sao...		1	21	1							Setting/Npc/Ai/CommonActive.ini			0	20	3																		
+Task_Dth_npc12	1107	Nguyệt My Nhi	0	1			1102	22	122	Chỉ là vài tên giặc cỏ thôi! Không lo! Phiền phức ở phía sau kìa!		1	56	1							Setting/Npc/Ai/CommonActive.ini			0	20	3																		
+Task_Dth_npc20	1281	Tường Vi	0	1			103	18	118	Chỉ là vài tên giặc cỏ thôi! Không lo! Phiền phức ở phía sau kìa!		1	56	1							Setting/Npc/Ai/CommonActive.ini			0	20	3																		
+Task_Dth_npc13	1108	Tường Vi	0	1			103	18	118	Cha thật hồ đồ! Trác Phi Phàm có gì hay ho chứ? Hừ!		1	21	1							Setting/Npc/Ai/partner/FellowCommon.ini			0	30	3																		
+Task_Dth_npc14	1109	Thương Ưng	0	1			147					1	21	1							Setting/Npc/Ai/CommonActive.ini			0	15	3																		
+Task_Dth_npc15	1110	Lý Tổng Quản	2	1			106		993			1	21	1							Setting/Npc/Ai/CommonActive.ini			0	15	3																		
+Task_Dth_npc16	1111	Thân Vệ Nghiêm Gia Quân	2	1			150	215	315			1	21	1							Setting/Npc/Ai/CommonActive.ini			0	15	3																		
+Task_Dth_npc17	1112	Khả Hàm	2	1			191		993			1	21	1							Setting/Npc/Ai/CommonActive.ini			0	15	3																		
+Task_Dth_npc18	1113	Lư Triệu Hạo	2	1			101		993			1	21	1							Setting/Npc/Ai/CommonActive.ini			0	15	3																		
+Task_Dth_npc19	1130	Nạp Lan Chân	0	1			177	13	113	Dương đại ca chắc chắn có thể trở thành đại nhân vật trong giang hồ! Ta chỉ cần ở bên cạnh người là đủ rồi...		1	21	1							Setting/Npc/Ai/CommonActive.ini			0	15	3																		
+Task_Dth_enemy1	1146	Vô Ưu Giáo Đồ	0	1	FixExpNpc		170		993		150	611	166	1	200	1			500	500	Setting/Npc/Ai/CommonPassive.ini			1	18	1										1								
+Task_Flb_enemy1	1245	Đệ Tử Phi Long Bảo	0	1	FixExpNpc		151		993		150	611	166	1	200	1			500	500	Setting/Npc/Ai/CommonPassive.ini			1	18	1										1								
+Task_Flb_friend1	1247	Phi Long Bảo Tinh Nhuệ	0	0	FixExpNpc		150		993		150	611	166	1	200	1			500	500	Setting/Npc/Ai/CommonActive.ini			1	18	1										1								
+Task_Flb_enemy2	1246	Đệ Tử Vô Ưu Giáo	0	1	FixExpNpc		170		993		150	611	166	1	200	1			500	500	Setting/Npc/Ai/CommonActive.ini			1	18	1										1								
+Task_Flb_enemy3	1248	Vô Ưu Giáo Tinh Nhuệ	0	1	FixExpNpc		170		993		150	611	166	1	200	1			500	500	Setting/Npc/Ai/CommonPassive.ini			1	18	1										1								
+Task_Ml_enemy1	1187	Tặc Phỉ	0	1	FixExpNpc		170		993		150	611	166	1	200	1			500	500	Setting/Npc/Ai/CommonPassive.ini			1	18	1										1								
+Task_Ml_enemy2	1188	Thủ Lĩnh Tặc Phỉ	0	1	FixExpNpc		170		993		150	611	166	1	200	1			500	500	Setting/Npc/Ai/CommonPassive.ini			1	18	1										1								
+Task_Ml_enemy3	1216	Ngũ Sắc Giáo Trưởng Lão	0	1	FixExpNpc		170		993		150	611	166	1	200	1			500	500	Setting/Npc/Ai/CommonPassive.ini			1	18	1										1								
+Task_Hsmd_enemy1	1251	Gấu Đen	0	1	FixExpNpc		116				150	611	166	1	200	1			500	500	Setting/Npc/Ai/CommonPassive.ini			1	18	1										1								
+Task_Xsd_enemy1	1237	Mãnh Hổ	0	1	FixExpNpc		170		993		150	611	166	1	200	1			500	500	Setting/Npc/Ai/CommonPassive.ini			1	18	1										1								
+Task_Xsd_enemy2	1238	Sát Thủ Thần Bí	0	1	FixExpNpc		170		993		150	611	166	1	200	1			500	500	Setting/Npc/Ai/CommonPassive.ini			1	18	1										1								
+Task_Dth_enemy2	1147	Vô Ưu Giáo Hộ Pháp	0	1	FixExpNpc		170		993		150	611	166	1	200	1			500	500	Setting/Npc/Ai/CommonPassive.ini			1	18	1										1								
+Task_Dth_enemy3	1148	Vô Ưu Giáo Tử Sĩ	0	1	FixExpNpc		170		993		150	611	166	1	200	1			500	500	Setting/Npc/Ai/CommonPassive.ini			1	18	1										1								
+Task_Dth_enemy4	1149	Vô Ưu Giáo Tử Sĩ	0	1	FixExpNpc		170		993		150	611	166	1	200	1			500	500	Setting/Npc/Ai/CommonPassive.ini			1	18	1										1								
+Task_Jhd_enemy	1424	Khỉ	0	1	FixExpNpc		117		993		150	611	166	1	200	1			500	500	Setting/Npc/Ai/CommonPassive.ini			1	18	1										1								
+Task_Jhd_enemy2	1427	Ngũ Sắc Giáo Mật Thám	0	1	FixExpNpc		174		993		150	611	166	1	200	1			500	500	Setting/Npc/Ai/CommonPassive.ini			1	18	1										1								
+Task_Wyp_enemy1	1429	Sát Thủ Áo Đỏ	0	1	FixExpNpc		101		993		150	611	166	1	200	1			500	500	Setting/Npc/Ai/CommonPassive.ini			1	18	1										1								
+Task_Wyjd_enemy1	1428	Sát Thủ Áo Đỏ	0	1	FixExpNpc		101		993		150	611	166	1	200	1			500	500	Setting/Npc/Ai/CommonPassive.ini			1	18	1										1								
+Task_HuaShan_enemy1	1425	Ngũ Sắc Giáo Thám Tử	0	1	FixExpNpc		174		993		150	611	166	1	200	1			500	500	Setting/Npc/Ai/CommonPassive.ini			1	18	1										1								
+Task_HuaShan_enemy2	1426	Khỉ Tinh Nghịch	0	1	FixExpNpc		117		993		150	611	166	1	200	1			500	500	Setting/Npc/Ai/CommonPassive.ini			1	18	1										1								
+Task_LinAnYiDao_enemy1	1431	Nữ Thích Khách Hắc Y	0	1	FixExpNpc		164		993		150	611	166	1	200	1			500	500	Setting/Npc/Ai/CommonPassive.ini			1	18	1										1								
+Task_LinAnXiaoDao_enemy1	2751	Tinh Nhuệ Sĩ Binh	0	1	FixExpNpc		150		993		150	611	166	1	200	1			500	500	Setting/Npc/Ai/CommonPassive.ini			1	18	1										1								
+Task_Gzc_enemy1	1451	Kim Quốc Tử Sĩ	0	1	FixExpNpc		164		993		150	611	21	1	200	1			500	500	Setting/Npc/Ai/CommonPassive.ini			1	18	1										1								
+Task_Lgf_Gold	1374	Rối Thiên Cơ-Kim	0	1	FixExpNpc		190		993		15	111	166	1	200	1			500	500				1	18	1										1								
+Task_Lgf_Wood	1375	Rối Thiên Cơ-Mộc	0	1	FixExpNpc		190		993		15	112	166	1	200	1			500	500				1	18	1										1								
+Task_Lgf_Water	1376	Rối Thiên Cơ-Thủy	0	1	FixExpNpc		190		993		15	113	166	1	200	1			500	500				1	18	1										1								
+Task_Lgf_Fire	1377	Rối Thiên Cơ-Hỏa	0	1	FixExpNpc		190		993		15	114	166	1	200	1			500	500				1	18	1										1								
+Task_Lgf_Earth	1378	Rối Thiên Cơ-Thổ	0	1	FixExpNpc		190		993		15	115	166	1	200	1			500	500				1	18	1										1								
+Task_Fxsz_enemy1	1948	Gia Đinh	0	1	FixExpNpc		101		993		30	115	166	1	200	1			500	500				1	18	1										1								

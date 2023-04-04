@@ -1,0 +1,9 @@
+Index	NpcName	TitleID	NpcTemplateId	WalkNearLength	CanAutoPath	NpcLevel	XPos	YPos	StandDir	Quantity	NpcType	NpcCamp	NpcDroprate	NpcSeriesAuto	NpcSeriesMetal	NpcSeriesWood	NpcSeriesWater	NpcSeriesFire	NpcSeriesEarth	Removewhendeath	ChangeColorScheme
+NpcTrapToJJC	Đến Giang Tân Thôn		73	50	1	1	3300	6500	0	-1	0	0		0	0	0	0	0	0	0	0
+ZY_Longzhu_sun	Long Trụ Nhật Diệu		1732	50	1	1	6552	6364	0	-1	0	0		0	0	0	0	0	0	0	0
+ZY_YD_defense	Đại Doanh Phe Thủ		1732	50	1	1	4528	4606	8	-1	0	0		0	0	0	0	0	0	0	0
+ZY_YD_attack1	Doanh Địa-Thiên		1732	50	1	1	9736	10051	32	-1	0	0		0	0	0	0	0	0	0	0
+ZY_YD_attack2	Doanh Địa-Địa		1732	50	1	1	3559	9511	16	-1	0	0		0	0	0	0	0	0	0	0
+ZY_YD_attack3	Doanh Địa-Nhân		1732	50	1	1	11009	5177	48	-1	0	0		0	0	0	0	0	0	0	0
+WallGuard	Hậu Doanh Chướng Ngại		104	50		1	4444	4689	24	-1	0	0		0	0	0	0	0	0	0	0
+WallGuard	Hậu Doanh Chướng Ngại		104	50		1	4628	4505	24	-1	0	0		0	0	0	0	0	0	0	0

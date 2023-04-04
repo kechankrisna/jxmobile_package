@@ -1,0 +1,60 @@
+SkillId	AttackType	AutoFightTarget	Desc	desc2	faction	
+208	1	1	Bá Vương Nộ Hống	Kỹ năng môn phái	Thiên Vương	
+306	3	0	Từ Hàng Phổ Độ	Kỹ năng môn phái	Nga Mi	
+310	2	0	Giang Hải Ngưng Ba	Kỹ năng môn phái	Nga Mi	
+308	3	0	Bạch Lộ Ngưng Sương	Kỹ năng môn phái	Nga Mi	AttackType
+312	1	1	Thiên Vũ Bảo Luân	Kỹ năng môn phái	Nga Mi	1 mặc định 1 là bình thường
+407	2	0	Phi Hỏa Lưu Tinh	Kỹ năng môn phái	Đào Hoa	2 là cưỡng chế phương hướng
+410	3	0	Cửu Diệu Liên Châu	Kỹ năng môn phái	Đào Hoa	3 là cưỡng chế mục tiêu
+412	2	0	Xuyên Vân Phá Nguyệt	Kỹ năng môn phái	Đào Hoa	
+507	3	0	Thất Thám Xà Bàn	Kỹ năng môn phái	Tiêu Dao	AutoFightTarget
+510	2	0	Bạch Hồng Quán Nhật	Kỹ năng môn phái	Tiêu Dao	Không có mục tiêu, có cần chọn mục tiêu không
+513	1	1	Phong Quyển Tàn Vân	Kỹ năng môn phái	Tiêu Dao	
+609	2	0	Vô Ngã Vô Kiếm	Kỹ năng môn phái	Võ Đang	
+615	1	1	Thiên Địa Vô Cực	Kỹ năng môn phái	Võ Đang	
+611	2	0	Nhân Kiếm Hợp Nhất	Kỹ năng môn phái	Võ Đang	
+708	3	0	Tử Vong Hồi Toàn	Kỹ năng môn phái	Thiên Nhẫn	
+722	3	1	Nhiếp Hồn Loạn Tâm	Kỹ năng môn phái	Thiên Nhẫn	
+816	3	0	Băng Tung Vô Ảnh	Kỹ năng môn phái	Thúy Yên	
+806	2	0	Tuyền Cơ La Vũ	Kỹ năng môn phái	Thúy Yên	
+266	2	0	Hàng Long Côn	Kỹ năng môn phái	Thiếu Lâm	
+272	1	1	Thập Nhị Cầm Long Thủ	Kỹ năng môn phái	Thiếu Lâm	
+268	3	0	Đại Lực Kim Cang Chỉ	Kỹ năng môn phái	Thiếu Lâm	
+4010	2	0	Mê Ảnh Tung	Kỹ năng môn phái	Đường Môn	
+4008	3	1	Bạo Vũ Lê Hoa	Kỹ năng môn phái	Đường Môn	
+4012	3	1	Cửu Cung Phi Tinh	Kỹ năng môn phái	Đường Môn	
+4106	2	0	Tiên Nhân Chỉ Lộ	Kỹ năng môn phái	Côn Lôn	
+4110	3	0	Tiếu Phong Tam Liên Kích	Kỹ năng môn phái	Côn Lôn	
+4112	3	0	Lôi Động Cửu Thiên	Kỹ năng môn phái	Côn Lôn	
+4213	3	0	Long Chiến Vu Dã	Kỹ năng môn phái	Cái Bang	
+4334	3	0	Mê Tâm Cổ	Kỹ năng môn phái	Ngũ Độc	
+4512	3	0	Thanh Âm Trường Khiếu	Kỹ năng môn phái	Trường Ca	
+4608	3	0	Ngân Bình Ngọc Toái	Kỹ năng môn phái	Thiên Sơn	
+5005	1	0	Hóa Huyết Kiếp Quang	Kỹ năng môn phái	Bá Đao	
+5008	2	0	Hiệp Sơn Siêu Hải	Kỹ năng môn phái	Bá Đao	
+5011	1	1	Nghịch Huyết Tiệt Mạch	Kỹ năng môn phái	Bá Đao	
+5015	1	1	Dục Huyết Đạo Phong	Kỹ năng môn phái	Bá Đao	
+5206	2	0	Tiêu Sử Thừa Long	Kỹ năng môn phái	Hoa Sơn	
+5209	1	1	Thiên Thân Đảo Huyền	Kỹ năng môn phái	Hoa Sơn	
+5212	1	1	Triều Dương Kiếm Khí	Kỹ năng môn phái	Hoa Sơn	
+5215	3	1	Phong Tống Tử Hà	Kỹ năng môn phái	Hoa Sơn	
+5518	3	1	Hủy Thiên Diệt Địa	Kỹ năng môn phái	Minh Giáo	
+5611	3	1	Lục Mạch Thần Kiếm	Kỹ năng môn phái	Đoàn Thị	
+5805	3	1	Chấp Dĩnh Điểm Mặc	Kỹ năng môn phái	Vạn Hoa	
+5810	3	1	Mặc Hổ Như Sinh	Kỹ năng môn phái	Vạn Hoa	
+5812	3	1	Hội Hổ Điểm Tình	Kỹ năng môn phái	Vạn Hoa	
+5839	3	1	Dữ Hổ Thiêm Dực	Kỹ năng môn phái	Vạn Hoa	
+2116	3	0	Từ Hàng Phổ Độ	Phó bản Tân Thủ		
+2118	3	0	Bạch Lộ Ngưng Sương	Phó bản Tân Thủ		
+2119	2	0	Giang Hải Ngưng Ba	Phó bản Tân Thủ		
+2128	2	0	Phi Hỏa Lưu Tinh	Phó bản Tân Thủ		
+2130	3	0	Cửu Diệu Liên Châu	Phó bản Tân Thủ		
+2132	2	0	Xuyên Vân Phá Nguyệt	Phó bản Tân Thủ		
+2143	3	0	Thất Thám Xà Bàn	Phó bản Tân Thủ		
+2147	2	0	Bạch Hồng Quán Nhật	Phó bản Tân Thủ		
+2190	2	0	Hàng Long Côn	Phó bản Tân Thủ		
+2983	2	0	Tuyền Cơ La Vũ	Phó bản Tân Thủ		
+3409	2	0	Mê Ảnh Tung	Phó bản Tân Thủ		
+3418	2	0	Tiên Nhân Chỉ Lộ	Phó bản Tân Thủ		
+3422	2	0	Tiếu Phong Tam Liên Kích	Phó bản Tân Thủ		
+3423	3	0	Lôi Động Cửu Thiên	Phó bản Tân Thủ		

@@ -1,0 +1,534 @@
+Name	Path	IsPreLoad	Layer	Desc	BlackBg	AutoHideInFightMode	IsStay	OpenSound	CloseSound	OpenAni	CloseAni	BackBtnClose
+Login	UI/Prefabs/Login/Login_v1.prefab		LAYER_NORMAL	Đăng nhập								
+LoginBg	UI/Prefabs/Login/Login_Bg.prefab		LAYER_NORMAL	Nền đăng nhập	1							
+SituationalDialogue	UI/Prefabs/SituationalDialogue.prefab		LAYER_NORMAL	Đối thoại cốt truyện						SituationalDialogueOpen		
+MessageBox	UI/Prefabs/Tips&notice/MessageBox.prefab		LAYER_POPUP	Cửa sổ thường				8002	8003	NormalOpen		1
+Commander	UI/Prefabs/Debug/Commander.prefab		LAYER_DEBUG	Giao diện Cơ Ái Mẫu								
+HomeScreenTask	UI/Prefabs/HomeScreen/HomeScreenTask.prefab		LAYER_HOME	Giao diện chính-Nhiệm vụ								
+HomeScreenBattle	UI/Prefabs/HomeScreen/HomeScreenBattle.prefab		LAYER_HOME	Giao diện chính-Kỹ năng			1					
+HomeScreenExpBar	UI/Prefabs/HomeScreen/HomeScreenExpBar.prefab		LAYER_HOME	Giao diện chính-EXP								
+Task	UI/Prefabs/Task/NewTask.prefab		LAYER_NORMAL	Nhiệm vụ	1			8002	8003	NormalOpen	NormalClose	1
+PkMode	UI/Prefabs/HomeScreen/Modewidget.prefab		LAYER_HOME	Dạng PK								
+PkModeGuide	UI/Prefabs/HomeScreen/ModeWidgetGuide.prefab		LAYER_GUIDE	Chỉ dẫn PK								
+TeamRequestQueue	UI/Prefabs/Team/TeamRequestQueue.prefab		LAYER_NORMAL	Danh sách xin phép đội						NormalOpen		
+RoleHead	UI/Prefabs/Role/RoleHead.prefab		LAYER_HOME	Hình đại diện								
+ChatLargePanel	UI/Prefabs/ChatNew/ChatLargePanel.prefab		LAYER_NORMAL	Chi tiết trò chuyện								
+ChatRightPopup	UI/Prefabs/ChatNew/ChatRightPopup.prefab		LAYER_POPUP	Biểu cảm trò chuyện								
+CopyTipPanel	UI/Prefabs/ChatNew/CopyTipPanel.prefab		LAYER_NORMAL	Sao chép								
+ChatSmall	UI/Prefabs/Chat/ChatSmall.prefab		LAYER_HOME	Giao diện chính-Trò chuyện								
+FakeJoyStick	UI/Prefabs/FakeJoyStick.prefab		LAYER_HOME	Giao diện cần điều khiển								
+HomeScreenFuben	UI/Prefabs/Fuben/HomeScreenFuben.prefab		LAYER_HOME	Giao diện Chiến Đấu-Thông tin phó bản								
+PersonalFubenEntrance	UI/Prefabs/Fuben/FubenEntrance.prefab		LAYER_NORMAL	Giao diện chính ải thường	1					NormalOpen	NormalClose	
+PersonalFubenSucces	UI/Prefabs/Fuben/PersonalFubenSuccesPanel.prefab		LAYER_NORMAL	Ải-Thắng	1							
+PersonalFubenFail	UI/Prefabs/Fuben/PersonalFubenFail.prefab		LAYER_NORMAL	Ải-Thua	1					NormalOpen	NormalClose	
+PersonalFubenDeath	UI/Prefabs/Fuben/DeathInformationPopup.prefab		LAYER_NORMAL	Ải-Cửa sổ tử vong	1					NormalOpen	NormalClose	
+GetPosition	UI/Prefabs/GetPosition.prefab		LAYER_DEBUG									
+GetNotice	UI/Prefabs/Tips&notice/GetNotice.prefab		LAYER_INFO									
+ItemBox	UI/Prefabs/Role&BagPannle.prefab		LAYER_NORMAL	Hành Trang	1			8002	8003	NormalOpen	NormalClose	1
+TaskNotice	UI/Prefabs/Tips&notice/TaskNotice.prefab		LAYER_INFO									
+SystemNotice	UI/Prefabs/Tips&notice/SystemNotice.prefab		LAYER_INFO				1					
+LoadingTips	UI/Prefabs/Tips&notice/LoadingTips.prefab		LAYER_LOADING				1					
+TopButton	UI/Prefabs/HomeScreen/HomeScreenTopButton.prefab		LAYER_HOME	Giao diện chính-Các nút tính năng			1					
+NpcStrip	UI/Prefabs/NPCstrip.prefab		LAYER_INFO									
+LogMsg	UI/Prefabs/Debug/LogMsg.prefab		LAYER_DEBUG									
+SkillPanel	UI/Prefabs/Skill/SkillPanel.prefab		LAYER_NORMAL	Giao diện kỹ năng	1			8002	8003	NormalOpen	NormalClose	1
+EquipTips	UI/Prefabs/Tips&notice/equipmengttipspanle.prefab		LAYER_POPUP	Giao diện trang bị						NormalOpen		1
+InscriptionTips	UI/Prefabs/Tips&notice/InscriptionTips.prefab		LAYER_POPUP	Giao diện thông tin Minh Văn						NormalOpen		1
+SkillCheatsPanel	UI/Prefabs/Skill/SkillCheatsPanel.prefab		LAYER_POPUP	Giao diện thông tin bí kíp						NormalOpen		1
+SkillCheatsComparePanel	UI/Prefabs/Skill/SkillCheatsPanel.prefab		LAYER_POPUP	Giao diện so sánh thông tin bí kíp						NormalOpen		1
+CheatsOperationPanel	UI/Prefabs/Skill/CheatsPanel.prefab		LAYER_NORMAL	Giao diện thao tác bí kíp	1					NormalOpen		1
+CompareTips	UI/Prefabs/Tips&notice/equipmengttipspanle.prefab		LAYER_POPUP	Giao diện thông tin Đồng Hành						NormalOpen		1
+HomeScreenMiniMap	UI/Prefabs/HomeScreen/HomeScreenMiniMap.prefab		LAYER_HOME	Giao diện chính-Bản đồ nhỏ								
+BattleTopButton	UI/Prefabs/HomeScreen/BattleTopButton.prefab		LAYER_HOME	Giao diện Chiến Đấu-Hành Trang Về Thành								
+TeamFubenEntrance	UI/Prefabs/Fuben/FubenDetails.prefab		LAYER_NORMAL	Giao diện thông tin chi tiết phó bản tổ đội	1					NormalOpen	NormalClose	1
+RandomFubenMission	UI/Prefabs/Fuben/MijingAccountPanle.prefab		LAYER_NORMAL		1					NormalOpen	NormalClose	
+TeamFubenMission	UI/Prefabs/Fuben/MijingAccountPanle_Team.prefab		LAYER_NORMAL		1					NormalOpen	NormalClose	
+CommonDeathPopup	UI/Prefabs/Tips&notice/CommonDeathPopup.prefab		LAYER_NORMAL							NormalOpen		
+CommonShop	UI/Prefabs/Shop/CommonShop.prefab		LAYER_NORMAL		1					NormalOpen	NormalClose	1
+MiniMap	UI/Prefabs/MiniMap/MiniMap.prefab		LAYER_NORMAL	 bản đồ	1					NormalOpen	NormalClose	1
+BattleLabel	UI/Prefabs/Label.prefab		LAYER_HOME									
+WorldMap	UI/Prefabs/MiniMap/WorldMap.prefab		LAYER_NORMAL	Thế Giới	1					NormalOpen	NormalClose	1
+RefinementPanel	UI/Prefabs/Strengthen/Refinement.prefab		LAYER_POPUP									1
+SocialPanel	UI/Prefabs/SocialNew/SocialPanel.prefab		LAYER_NORMAL	Giao diện Cộng Đồng	1			8002	8003	NormalOpen	NormalClose	1
+Partner	UI/Prefabs/Companion/CompanionPanel.prefab		LAYER_NORMAL	Giao diện Đồng Hành	1			8002	8003	NormalOpen	NormalClose	1
+StrengthenPanel	UI/Prefabs/Strengthen/StrengthenPanel.prefab		LAYER_NORMAL	Giao diện Cường Hóa	1					NormalOpen	NormalClose	1
+WantedTips	UI/Prefabs/SocialNew/PublishWantedPanel.prefab		LAYER_POPUP	Cửa sổ truy nã						NormalOpen		
+ChatSetting	UI/Prefabs/Chat/ChatSetting.prefab		LAYER_NORMAL	Thiết lập trò chuyện	1					NormalOpen		1
+WantedAccountS	UI/Prefabs/SocialNew/RevengeSettlePanel.prefab		LAYER_NORMAL	Giao diện tổng kết truy nã	1					NormalOpen	NormalClose	
+ChatItemPopup	UI/Prefabs/Chat/ChatItemPopup.prefab		LAYER_POPUP									1
+FubenSectionPanel	UI/Prefabs/Fuben/FubenSelectionPanel.prefab		LAYER_NORMAL	Danh sách thẻ chương phó bản	1	1				NormalOpen	NormalClose	1
+RefineNotice	UI/Prefabs/Strengthen/RefineNotice.prefab		LAYER_POPUP									
+CreateRole	UI/Prefabs/Login/CreateRolePanel.prefab		LAYER_HOME	Tạo nhân vật								
+MissionAward	UI/Prefabs/Fuben/MissionAwardPanel.prefab		LAYER_NORMAL	Thưởng hoàn thành	1					NormalOpen	NormalClose	
+Setting	UI/Prefabs/Setting/Setting.prefab		LAYER_NORMAL	Giao diện thiết lập	1					NormalOpen	NormalClose	1
+RankPanel	UI/Prefabs/Rank/RankPanel.prefab		LAYER_NORMAL	Võ Thần Điện	1			8002	8003	NormalOpen	NormalClose	1
+FamilyDonation	UI/Prefabs/Family/FamilyDonationPanel.prefab		LAYER_NORMAL		1					NormalOpen	NormalClose	1
+CardPickingResult	UI/Prefabs/Companion/CardPickingResult.prefab		LAYER_NORMAL	Kết quả rút thẻ	1					NormalOpen	NormalClose	
+ChatEmotionLink	UI/Prefabs/ChatNew/ChatEmotionLinkPanel.prefab		LAYER_NORMAL									1
+NpcDialog	UI/Prefabs/Npc/NpcDialogue.prefab		LAYER_NORMAL	Đối thoại mặc định						NormalOpen		
+EquipStarAttribTips	UI/Prefabs/Tips&notice/EquipStarAttribTipsNew.prefab		LAYER_POPUP									1
+DebrisPanel	UI/Prefabs/Duobao/DuobaoPanel.prefab		LAYER_NORMAL	Đoạt mảnh	1			8002	8003	NormalOpen	NormalClose	
+DebrisRobList	UI/Prefabs/Duobao/FragSnatchTarget.prefab		LAYER_NORMAL	Danh sách đoạt mảnh	1					NormalOpen	NormalClose	
+DebrisFlipCard	UI/Prefabs/Duobao/FragSnatchFailure.prefab		LAYER_NORMAL	Đoạt mảnh thất bại lật thẻ	1					NormalOpen	NormalClose	
+DebrisResult	UI/Prefabs/Duobao/ComposeSuccessAni.prefab		LAYER_NORMAL	Kết quả ghép đoạt mảnh	1					NormalOpen	NormalClose	
+DebrisAvoidRob	UI/Prefabs/Duobao/SaleforMSJP.prefab		LAYER_NORMAL	Đoạt mảnh mua miễn chiến						NormalOpen		
+DebrisMoreRobResult	UI/Prefabs/Duobao/FragmentSnathAccount.prefab		LAYER_NORMAL	Kết quả đoạt liên tiếp						NormalOpen		
+BossPanel	UI/Prefabs/Boss/Boss.prefab		LAYER_NORMAL	Giao diện khiêu chiến Minh Chủ Võ Lâm	1	1				NormalOpen	NormalClose	1
+BossRobList	UI/Prefabs/Boss/BossRobList.prefab		LAYER_NORMAL	Giao diện danh sách đoạt khiêu chiến Minh Chủ Võ Lâm						NormalOpen		1
+BossRobResult	UI/Prefabs/Boss/BossRobResult.prefab		LAYER_NORMAL	Giao diện thống kê đoạt khiêu chiến Minh Chủ Võ Lâm	1					NormalOpen	NormalClose	
+ShowAward	UI/Prefabs/Tips&notice/ShowAward.prefab		LAYER_NORMAL	Cổng nhận thưởng thường	1					NormalOpen	NormalClose	
+QuickUseItem	UI/Prefabs/TreasureMap.prefab		LAYER_NORMAL	Nhìn giống đạo cụ dùng nhanh						NormalOpen		
+MyAuctionPanel	UI/Prefabs/Family/MyAuctionPanel.prefab		LAYER_NORMAL		1					NormalOpen	NormalClose	1
+HomeScreenBattleInfo	UI/Prefabs/BattleField/HomeScreenBattleInfo.prefab		LAYER_HOME	Thông tin Chiến Trường								
+BattleReport	UI/Prefabs/BattleField/BattleReport.prefab		LAYER_NORMAL	Chiến Báo Chiến Trường	1					NormalOpen	NormalClose	1
+CommerceTaskPanel	UI/Prefabs/Task/CommerceTaskPanel.prefab		LAYER_NORMAL	Nhiệm Vụ Thương Hội	1			8002	8003	NormalOpen	NormalClose	1
+VoiceRecord	UI/Prefabs/Chat/VoicePanle.prefab		LAYER_INFO	Giao diện nhắc nhở ghi âm								
+CommerceHelpPanel	UI/Prefabs/Task/CommerceHelpPanel.prefab		LAYER_POPUP									
+LevelUpPopup	UI/Prefabs/Role/LevelUp.prefab		LAYER_POPUP	Cửa sổ tăng cấp						NormalOpen		
+AchievementPanel	UI/Prefabs/Achievement/AchievementPanel.prefab		LAYER_NORMAL	Giao diện thành tựu	1			8002	8003	NormalOpen	NormalClose	1
+BattleEntrance	UI/Prefabs/BattleField/BattleEntrance.prefab		LAYER_NORMAL	Báo danh chiến trường	1					NormalOpen	NormalClose	1
+AchievementDisplay	UI/Prefabs/Achievement/AchievementDisplay.prefab		LAYER_POPUP									
+FubenStarAward	UI/Prefabs/Fuben/FubenStarAward.prefab		LAYER_NORMAL	Thưởng Cấp Sao Ải						NormalOpen		
+TitleChangePanel	UI/Prefabs/TitleChangePanel.prefab		LAYER_POPUP	Đổi danh hiệu						NormalOpen		1
+ChatAchievementPopup	UI/Prefabs/Achievement/ChatAchievementPopup.prefab		LAYER_POPUP									1
+NotifyMsgList	UI/Prefabs/Tips&notice/NewsPanel.prefab		LAYER_NORMAL	Danh sách xử lý thông tin	1					NormalOpen	NormalClose	1
+DungeonInviteList	UI/Prefabs/Dungeons/InvitePanel.prefab		LAYER_NORMAL	Danh sách mời Địa Cung						NormalOpen		1
+BgBlack	UI/Prefabs/HomeScreen/BgBlack.prefab		LAYER_BG	Tìm vật cản đen								
+HelperList	UI/Prefabs/Helper/SelectHelper.prefab		LAYER_NORMAL	DS Trợ chiến						NormalOpen		
+ExplorationFubenPanel	UI/Prefabs/Fuben/ExplorationFubenPanel.prefab		LAYER_HOME	Do thám bản đồ								1
+MeetEnemyPanel	UI/Prefabs/Fuben/MeetEnemyPanel.prefab		LAYER_NORMAL	Tìm kiếm gặp địch						NormalOpen		
+PartnerDetail	UI/Prefabs/Companion/CompanionDetailPanel.prefab		LAYER_NORMAL	Giao diện thông tin Đồng Hành	1					NormalOpen	NormalClose	1
+KinJoinPanel	UI/Prefabs/NewFamily/JoinFamilyPanel.prefab		LAYER_NORMAL	Vào giao diện bang hội	1					NormalOpen	NormalClose	1
+KinCreatePanel	UI/Prefabs/NewFamily/CreateFamily.prefab		LAYER_NORMAL	Giao diện lập bang hội	1					NormalOpen	NormalClose	1
+KinDetailPanel	UI/Prefabs/NewFamily/FamilyPanel.prefab		LAYER_NORMAL	Giao diện chi tiết Bang Hội	1			8002	8003	NormalOpen	NormalClose	1
+KinApplyList	UI/Prefabs/NewFamily/ApplyListPanel.prefab		LAYER_NORMAL	Giao diện xin phép bang hội	1					NormalOpen	NormalClose	1
+KinRecruit	UI/Prefabs/NewFamily/RecruitPanel.prefab		LAYER_NORMAL		1					NormalOpen	NormalClose	1
+KinMgrPanel	UI/Prefabs/NewFamily/KinMgrPanel.prefab		LAYER_NORMAL		1					NormalOpen	NormalClose	1
+KinChangeCareer	UI/Prefabs/NewFamily/FamilyCareer.prefab		LAYER_NORMAL		1					NormalOpen	NormalClose	1
+KinAnswerPanel	UI/Prefabs/NewFamily/AnswerPanel.prefab		LAYER_NORMAL	Giao diện vấn đáp bang hội						NormalOpen		
+KinApplyMsgPanel	UI/Prefabs/NewFamily/MessageApplyPanel.prefab		LAYER_NORMAL	Lời nhắn xin phép bang						NormalOpen		
+KinApplyCustomMsgPanel	UI/Prefabs/NewFamily/MessageChangePanel.prefab		LAYER_NORMAL	Thiết lập lời nhắn xin phép bang						NormalOpen		
+KinApplyViewMsgPanel	UI/Prefabs/NewFamily/MessagePanel.prefab		LAYER_NORMAL	Xem lời nhắn xin phép bang						NormalOpen		
+KinDicePanel	UI/Prefabs/NewFamily/DicePanel.prefab		LAYER_NORMAL									
+KinDeclareEditor	UI/Prefabs/NewFamily/FamilyDeclarationPanel.prefab		LAYER_NORMAL		1					NormalOpen	NormalClose	1
+ViewRolePanel	UI/Prefabs/OthersDetailPanel.prefab		LAYER_NORMAL	Xem	1					NormalOpen		1
+MapLoading	UI/Prefabs/Loading/Loading.prefab	1	LAYER_LOADING	Tiến độ đổi cảnh			1					
+MailDetailedPanel	UI/Prefabs/Chat/MailDetailedPanel.prefab		LAYER_NORMAL	Nội dung hộp thư								1
+CalendarPanel	UI/Prefabs/Calendar/Calendar.prefab		LAYER_NORMAL	Lịch hoạt động	1					NormalOpen	NormalClose	1
+ActivityTip	UI/Prefabs/Calendar/ActivityTip.prefab		LAYER_POPUP									1
+AutoSkillSetting	UI/Prefabs/AutoSkillSetting.prefab		LAYER_NORMAL	Giao diện thiết lập tự chiến đấu	1					NormalOpen	NormalClose	1
+FightPowerTip	UI/Prefabs/Tips&notice/FightPowerTip.prefab		LAYER_INFO									
+ViewFight	UI/Prefabs/Chat/ViewFight.prefab		LAYER_NORMAL	UI chiến đấu								
+Guide	UI/Prefabs/Guide.prefab		LAYER_GUIDE	Giao diện hướng dẫn								
+ColorMsgPanel	UI/Prefabs/ChatNew/ColorPanel.prefab		LAYER_NORMAL									1
+PrayPanel	UI/Prefabs/Pray/PrayPanel.prefab		LAYER_NORMAL	Giao diện chúc phúc	1					NormalOpen	NormalClose	1
+FriendApplyPanel	UI/Prefabs/SocialNew/FriendApplyPanel.prefab		LAYER_NORMAL	Danh sách xin phép hảo hữu						NormalOpen		1
+AddFriendPanel	UI/Prefabs/SocialNew/AddFriendPanel.prefab		LAYER_NORMAL	Tìm kết bạn						NormalOpen		1
+RightPopup	UI/Prefabs/RightPopup.prefab		LAYER_POPUP	Danh sách thao tác menu chuột phải								1
+RoleInformationPanel	UI/Prefabs/Role/RoleInformationPanel.prefab		LAYER_NORMAL	Thông tin hình đại diện	1					NormalOpen		1
+ChuangGongPanel	UI/Prefabs/Chat/ChuangGongPanel.prefab		LAYER_NORMAL	Truyền Công						NormalOpen	NormalClose	
+PortraitSelectPanel	UI/Prefabs/Role/HeadSelectPanel.prefab		LAYER_NORMAL	Chọn hình đại diện	1					NormalOpen	NormalClose	1
+QYHbattleInfo	UI/Prefabs/QueYingHui/QYHbattleInfo.prefab		LAYER_NORMAL									
+QYHEntrance	UI/Prefabs/QueYingHui/QYHEntrance.prefab		LAYER_NORMAL		1					NormalOpen	NormalClose	
+QYHAccount	UI/Prefabs/QueYingHui/QYHAccount.prefab		LAYER_NORMAL		1					NormalOpen	NormalClose	
+QYHLeftInfo	UI/Prefabs/QueYingHui/QYHLeftInfo.prefab		LAYER_NORMAL									
+BattleFieldTips	UI/Prefabs/BattleField/TipsForKills.prefab		LAYER_INFO	Ẩn thông tin gợi ý trong Chiến Trường								
+WelfareActivity	UI/Prefabs/WelfareActivities/WelfareActivities.prefab		LAYER_NORMAL	Giao diện phúc lợi	1					NormalOpen	NormalClose	1
+ChangeName	UI/Prefabs/Role/ChangeNamePanel.prefab		LAYER_NORMAL	Đổi tên						NormalOpen		1
+RankBoardPanel	UI/Prefabs/Rank/RankingListPanel.prefab		LAYER_NORMAL	Xếp Hạng	1					NormalOpen	NormalClose	1
+AutoLeaveTip	UI/Prefabs/Fuben/AutomaticallyLeavePanel.prefab		LAYER_INFO	Nhắc nhở tự thoát tìm kiếm								
+NumberKeyboard	UI/Prefabs/Shop/KeyboardPanel.prefab		LAYER_POPUP	Bàn phím số								1
+AchievementTitle	UI/Prefabs/Achievement/AchievementTipPanel.prefab		LAYER_POPUP	Khung danh hiệu giao diện thành tựu								
+ActivityQuestion	UI/Prefabs/Quiz/Quiz.prefab		LAYER_NORMAL	UI hoạt động Vấn Đáp	1					NormalOpen	NormalClose	1
+KinMailPanel	UI/Prefabs/NewFamily/FamliyMailPanel.prefab		LAYER_NORMAL	Thư Bang Hội								1
+SpecialLife	UI/Prefabs/SpecialLife.prefab		LAYER_NORMAL	Thanh sinh lực BOSS								
+PartnerItemComposePanel	UI/Prefabs/Companion/CompanionRelevantPanel.prefab		LAYER_NORMAL	Ghép trang bị Đồng Hành		1						
+TeamFubenPanel	UI/Prefabs/Fuben/TeamFuebnPanel.prefab		LAYER_NORMAL	Phó bản tổ đội	1					NormalOpen	NormalClose	1
+MissionAwardList	UI/Prefabs/Fuben/MissionAwardList.prefab		LAYER_NORMAL	UI nhận bù thưởng hoàn thành	1					NormalOpen	NormalClose	
+PartnerItemGainPanel	UI/Prefabs/Companion/CompanionEquipmentPanel.prefab		LAYER_NORMAL	Danh sách nhận trang bị		1						
+TeamPanel	UI/Prefabs/Team/TeamPanel.prefab		LAYER_NORMAL	Giao diện đội	1					NormalOpen	NormalClose	1
+AwardTips	UI/Prefabs/Tips&notice/AwardTips.prefab		LAYER_POPUP	Giao diện phần thưởng thường	1					NormalOpen		
+CompanionShow	UI/Prefabs/Companion/CompanionRecruitPanel.prefab		LAYER_NORMAL	Hiện Đồng Hành	1					NormalOpen		
+ReadyGo	UI/Prefabs/Yibuzhandou/ReadyGo.prefab		LAYER_INFO	3 2 1 bắt đầu								
+RankBattleResult	UI/Prefabs/Yibuzhandou/RankBattleResult.prefab		LAYER_NORMAL	Giao diện tổng kết Võ Thần Điện	1					NormalOpen	NormalClose	
+ItemTips	UI/Prefabs/Tips&notice/BigItemTips.prefab		LAYER_POPUP	Giao diện thông tin đạo cụ thường						NormalOpen		1
+ItemCompareTips	UI/Prefabs/Tips&notice/BigItemTips.prefab		LAYER_POPUP	Giao diện thông tin so sánh đạo cụ thường						NormalOpen		1
+InputBox	UI/Prefabs/Tips&notice/InputBox.prefab		LAYER_POPUP	Cửa sổ nhập thường						NormalOpen		1
+RockerGuidePanel	UI/Prefabs/RockerGuidePanel.prefab		LAYER_NORMAL									
+KinBuildingLevelUp	UI/Prefabs/NewFamily/FamilyBuildingLevelup.prefab		LAYER_NORMAL		1					NormalOpen	NormalClose	1
+KinVaultPanel	UI/Prefabs/NewFamily/FamilyVaultPanel.prefab		LAYER_NORMAL		1					NormalOpen	NormalClose	1
+KinStore	UI/Prefabs/Family/FamilyStore.prefab		LAYER_NORMAL		1					NormalOpen	NormalClose	1
+QYHLeavePanel	UI/Prefabs/QueYingHui/QYHLeavePanel.prefab		LAYER_HOME									
+PlayerLevelUp	UI/Prefabs/Role/LevelUpPanel.prefab		LAYER_NORMAL	Hiện thuộc tính tăng cấp						NormalOpen	NormalClose	
+HonorLevelPanel	UI/Prefabs/Role/TitlePanel.prefab		LAYER_NORMAL	Quân Hàm	1					NormalOpen	NormalClose	1
+HonorLevelUp	UI/Prefabs/Role/TitleUp.prefab		LAYER_NORMAL		1					NormalOpen	NormalClose	
+HeroChallenge	UI/Prefabs/HeroChallenge/HeroChallenge.prefab		LAYER_NORMAL	Khiêu Chiến Anh Hùng	1					NormalOpen	NormalClose	1
+HeroChallengeChosse	UI/Prefabs/HeroChallenge/RoleChoose.prefab		LAYER_NORMAL	Chọn Khiêu Chiến Anh Hùng	1					NormalOpen	NormalClose	1
+TeammateSelectPop	UI/Prefabs/Team/TeammateSelectPop.prefab		LAYER_POPUP									1
+FloatingWindowDisplay	UI/Prefabs/QuickUse.prefab		LAYER_HOME	Cửa sổ dùng nhanh đạo cụ		1				NormalOpen		
+SkillShow	UI/Prefabs/Skill/SkillTipPanel.prefab		LAYER_POPUP	Giao diện hiện kỹ năng chi tiết	1					NormalOpen		1
+PartnerExpUse	UI/Prefabs/Companion/CompanionExpUsePanel.prefab		LAYER_POPUP	UI Bình EXP Đồng Hành dùng						NormalOpen		1
+KinFireDisplay	UI/Prefabs/NewFamily/FamilyRoastPanel.prefab		LAYER_HOME	Thông tin Lửa Trại								
+StarAwardList	UI/Prefabs/Fuben/StarAwardList.prefab		LAYER_NORMAL	Danh sách thưởng cấp sao						NormalOpen		
+RoleHeadPop	UI/Prefabs/Tips&notice/RoleHeadPop.prefab		LAYER_NORMAL	Nhấp nhân vật hiện hình đại diện						NormalOpen		
+UseItemPop	UI/Prefabs/Tips&notice/RoleHeadPopUse.prefab		LAYER_NORMAL	Đạo cụ hoạt động						NormalOpen		
+GeneralHelpPanel	UI/Prefabs/Help/Help.prefab		LAYER_POPUP	Hướng dẫn thường						NormalOpen		1
+RockerGuideNpcPanel	UI/Prefabs/RockerGuideNpcPanel.prefab		LAYER_NORMAL									
+NoticePanel	UI/Prefabs/Login/NoticePanel.prefab		LAYER_NORMAL	Thông báo						NormalOpen		1
+HonorLevelPayPop	UI/Prefabs/Role/HonorLevelPayPop.prefab		LAYER_NORMAL									
+BossResult	UI/Prefabs/Boss/BossResult.prefab		LAYER_NORMAL		1	1				NormalOpen	NormalClose	1
+BossLeaderPanel	UI/Prefabs/Calendar/BossLeaderPanel.prefab		LAYER_NORMAL		1					NormalOpen	NormalClose	1
+SnowballPanel	UI/Prefabs/Calendar/SnowballPanel.prefab		LAYER_NORMAL		1					NormalOpen		
+ChangeFactionPanel	UI/Prefabs/ChangeFactionPanel.prefab		LAYER_NORMAL		1					NormalOpen		
+HSLJPanel	UI/Prefabs/HuaShanLunJian/HSLJPanel.prefab		LAYER_NORMAL		1					NormalOpen		
+TeamRelatedPanel	UI/Prefabs/HuaShanLunJian/TeamRelatedPanel.prefab		LAYER_NORMAL		1					NormalOpen		
+CreateTeamPanel	UI/Prefabs/HuaShanLunJian/CreateTeamPanel.prefab		LAYER_NORMAL		1					NormalOpen		
+HSLJAccount	UI/Prefabs/HuaShanLunJian/HSLJAccount.prefab		LAYER_NORMAL		1					NormalOpen		
+HSLJBattleInfo	UI/Prefabs/HuaShanLunJian/HSLJBattleInfo.prefab		LAYER_HOME									
+HSLJBattlefieldPanel	UI/Prefabs/HuaShanLunJian/HSLJBattlefieldPanel.prefab		LAYER_NORMAL		1							
+TeamDetailsPanel	UI/Prefabs/HuaShanLunJian/TeamDetailsPanel.prefab		LAYER_NORMAL		1							
+AssistCompanionPanel	UI/Prefabs/HuaShanLunJian/AssistCompanionPanel.prefab		LAYER_NORMAL							NormalOpen	NormalClose	
+GuessingChampionPanel	UI/Prefabs/HuaShanLunJian/GuessingChampionPanel.prefab		LAYER_NORMAL		1					NormalOpen	NormalClose	
+GuessingStakePanel	UI/Prefabs/HuaShanLunJian/GuessingStakePanel.prefab		LAYER_NORMAL		1					NormalOpen	NormalClose	
+GuessingSurePanel	UI/Prefabs/HuaShanLunJian/GuessingSurePanel.prefab		LAYER_NORMAL		1					NormalOpen	NormalClose	
+PlayerNumberPanel	UI/Prefabs/HuaShanLunJian/PlayerNumberPanel.prefab		LAYER_NORMAL		1					NormalOpen	NormalClose	
+SkillAuxiliaryPanel	UI/Prefabs/Skill/SkillAuxiliaryPanel.prefab		LAYER_NORMAL		1					NormalOpen		
+ExpUpPanel	UI/Prefabs/Calendar/ExpUpPanel.prefab		LAYER_NORMAL		1					NormalOpen	NormalClose	
+FamilyCampPanel	UI/Prefabs/NewFamily/FamilyCampPanel.prefab		LAYER_NORMAL		1					NormalOpen	NormalClose	1
+BuffTip	UI/Prefabs/Tips&notice/BuffTip.prefab		LAYER_NORMAL									1
+BuffTip2	UI/Prefabs/Tips&notice/BuffTip2.prefab		LAYER_POPUP							NormalOpen		1
+KinNestDisplay	UI/Prefabs/NewFamily/KinNestDisplay.prefab		LAYER_NORMAL	Thông tin Sào Huyệt Đạo Tặc								
+AttributeDescription	UI/Prefabs/Tips&notice/AttributeDescription.prefab		LAYER_POPUP	Miêu tả thuộc tính								1
+QuickBuyOrUse	UI/Prefabs/Tips&notice/AlternativeUse.prefab		LAYER_NORMAL	Dùng đạo cụ hoặc mua số lần						NormalOpen		1
+ScreenRecord	UI/Prefabs/HomeScreen/HomeScreenVideo.prefab		LAYER_POPUP	Giao diện dừng ghi hình								
+StrongerPanel	UI/Prefabs/BecomeStronger/StrongerPanel.prefab		LAYER_NORMAL	Mạnh Hơn	1					NormalOpen	NormalClose	1
+TeamActivityHelp	UI/Prefabs/Team/TeamActivityHelp.prefab		LAYER_NORMAL									1
+KinBattle	UI/Prefabs/NewFamily/FamilyWar.prefab		LAYER_NORMAL	Bang Hội Chiến	1					NormalOpen	NormalClose	1
+SetNumber	UI/Prefabs/NewFamily/FamilyWarSetting.prefab											1
+AssistTools	UI/Prefabs/Debug/AssistTools.prefab		LAYER_DEBUG	Công Cụ Hỗ Trợ								
+GameMsg	UI/Prefabs/Debug/GameMsg.prefab		LAYER_DEBUG	Hình thông tin trò chơi								
+CardPreview	UI/Prefabs/Companion/CompanionpreviewPanel.prefab		LAYER_NORMAL	Xem trước rút thẻ	1					NormalOpen	NormalClose	1
+TeamBattlePanel	UI/Prefabs/Calendar/StarTowerPanel.prefab		LAYER_NORMAL	Giao diện báo danh Thông Thiên Tháp	1							1
+TeamBattleInfo	UI/Prefabs/Calendar/StarTowerBattleInfo.prefab		LAYER_NORMAL	Điểm số Thông Thiên Tháp								
+TeamBattleAccount	UI/Prefabs/Calendar/StarTowerAccount.prefab		LAYER_NORMAL	Giao diện Thông Thiên Tháp	1					ShengLiSuaDongHua		
+Reload	UI/Prefabs/Debug/Reload.prefab		LAYER_DEBUG	Tải lại giao diện scripts								
+FactionBattlePanel	UI/Prefabs/Calendar/FactionAthleticsPanel.prefab		LAYER_NORMAL	Giao diện Thi Đấu Môn Phái	1					NormalOpen	NormalClose	1
+FactionReportPanel	UI/Prefabs/Calendar/FactionReport.prefab		LAYER_NORMAL	Nút đóng Thi Đấu Môn Phái						NormalOpen	NormalClose	
+EverydayTargetAwardTip	UI/Prefabs/Calendar/CalendarAwardTipPanel.prefab		LAYER_NORMAL	Tip thưởng mục tiêu ngày								1
+FactionBattleRankEffect	UI/Prefabs/Calendar/FactionAthleticsRankingPanel.prefab		LAYER_INFO	Hiệu ứng phân cấp Thi Đấu Môn Phái								
+FieldPracticePanel	UI/Prefabs/Field/FieldPracticePanel.prefab		LAYER_NORMAL	Tu luyện	1					NormalOpen	NormalClose	1
+AuctionPanel	UI/Prefabs/transaction/TransactionPanel.prefab		LAYER_NORMAL	Giao diện Đấu Giá	1					NormalOpen	NormalClose	1
+AuctionRecordPanel	UI/Prefabs/Family/AuctionRecordPanel.prefab		LAYER_NORMAL	Nhật ký	1					NormalOpen	NormalClose	1
+LoginAwardsPanel	UI/Prefabs/WelfareActivities/NewServerReward/LoginAwardsPanel.prefab		LAYER_NORMAL	Đăng nhập nhận thưởng	1					NormalOpen	NormalClose	1
+TaskFinish	UI/Prefabs/Task/TaskPanel.prefab		LAYER_NORMAL	UI thưởng nhiệm vụ								1
+MarketStallPanel	UI/Prefabs/transaction/StallPanel.prefab		LAYER_NORMAL	Giao diện Bày Bán	1					NormalOpen	NormalClose	1
+MarketStallBuyPanel	UI/Prefabs/transaction/ItemsPurchasePanel.prefab		LAYER_NORMAL	Mua từ Bày Bán						NormalOpen	NormalClose	1
+MarketStallSellPanel	UI/Prefabs/transaction/ItemsSalePanel.prefab		LAYER_NORMAL	Bán từ Bày Bán						NormalOpen	NormalClose	1
+ItemSellPanel	UI/Prefabs/transaction/ItemsSellPanel.prefab		LAYER_NORMAL	Bán vật phẩm						NormalOpen	NormalClose	1
+BgBlackAll	UI/Prefabs/HomeScreen/BgBlackAll.prefab		LAYER_HOME	Nền đen								
+CreateNameInput	UI/Prefabs/Login/NamePanel.prefab		LAYER_POPUP	Nhập tên nhân vật	1							
+InterludeDescribePanel	UI/Prefabs/Login/InterludeDescribePanel.prefab		LAYER_NORMAL	Giới thiệu ban đầu						InterludeDescribe	InterludeDescribeClose	
+KinTrainMatPanel	UI/Prefabs/NewFamily/FamilyTestPanel.prefab		LAYER_NORMAL	Thí Luyện Bang Hội Xe Vật Tư ui	1					NormalOpen	NormalClose	1
+SurveyPanel	UI/Prefabs/SurveryPanel.prefab		LAYER_NORMAL	Câu hỏi khảo sát	1					NormalOpen	NormalClose	1
+BossReferral	UI/Prefabs/Fuben/BossDebutPanel.prefab		LAYER_NORMAL	Giới thiệu BOSS ải								
+StoryBlackBg	UI/Prefabs/Fuben/BlackScreenPlotPanel.prefab		LAYER_NORMAL	Cốt truyện màn hình đen								
+LingJueFengLayerPanel	UI/Prefabs/Fuben/LingJueFengLayerPanel.prefab		LAYER_INFO	Hiệu ứng UI Lăng Tuyệt Phong								
+TaskStoryBlackPanel	UI/Prefabs/Task/TaskStoryPanel.prefab		LAYER_NORMAL	Chat nhiệm vụ giao diện tối						TaskStoryPanelOpen	TaskStoryPanelClose	
+SwornFriendsConnectPanel	UI/Prefabs/Task/SwornFriendsConnectPanel.prefab		LAYER_NORMAL	Đối thoại kết bái						TaskStoryPanelOpen	TaskStoryPanelClose	
+SwornFriendsTitlePanel	UI/Prefabs/SocialNew/SwornPanel.prefab 		LAYER_NORMAL	Danh hiệu chính kết bái						NormalOpen	NormalClose	
+SwornFriendsPersonalTitlePanel	UI/Prefabs/SocialNew/PersonalSwornPanel.prefab 		LAYER_NORMAL	Danh hiệu kết bái cá nhân						NormalOpen	NormalClose	
+SwornFriendsConnected	UI/Prefabs/SocialNew/SwornEffectsPanel.prefab		LAYER_POPUP	Giao diện kết bái thành công						NormalOpen		
+NearbyTeamPanel	UI/Prefabs/Team/NearTeamPanel.prefab		LAYER_NORMAL	Giao diện xem đội gần						NormalOpen	NormalClose	1
+PartnerArrayPanel	UI/Prefabs/Companion/CompanionArrayPanel.prefab		LAYER_NORMAL	Giao diện bày trận Đồng Hành xuất chiến	1							1
+BossLeaderOutputPanel	UI/Prefabs/Calendar/BossLeaderOutputPanel.prefab		LAYER_NORMAL	Sát thương danh tướng								1
+PartnerSelectSkillBook	UI/Prefabs/Companion/CompanionSkillBookPanel.prefab		LAYER_POPUP	UI chọn sách kỹ năng Đồng Hành						NormalOpen		1
+PartnerStoryPanel	UI/Prefabs/Companion/CompanionStoryPanel.prefab		LAYER_POPUP	UI cốt truyện Đồng Hành truyền kỳ						NormalOpen		1
+PartnerSelectCoverSkill	UI/Prefabs/Companion/CompanionSkillBookCoverPanel.prefab		LAYER_NORMAL	UI chọn kỹ năng thay thế Đồng Hành						NormalOpen		1
+RedBagPanel	UI/Prefabs/NewFamily/FamilyRedPaperPanel.prefab		LAYER_NORMAL	Lì Xì	1					NormalOpen	NormalClose	1
+RedBagDetailPanel	UI/Prefabs/NewFamily/GetRedPaperPanel.prefab		LAYER_POPUP	Lì Xì						NormalOpen	NormalClose	1
+ChapterPanel	UI/Prefabs/Fuben/ChapterPanel.prefab		LAYER_NORMAL	Chương-Biểu Hiện	1					ChapterPanel		
+GiftSystem	UI/Prefabs/SocialNew/GiftSystemPanel.prefab		LAYER_NORMAL	Quà	1					NormalOpen	NormalClose	1
+GiftPlay	UI/Prefabs/SocialNew/GiftPlayPanel.prefab		LAYER_NORMAL	Hiệu ứng quà						NormalOpen	NormalClose	
+PartnerProtential	UI/Prefabs/Companion/CompanionQualityUpPanel.prefab		LAYER_NORMAL	UI Tư Chất Đơn Đồng Hành dùng								1
+ItemSelectPanel	UI/Prefabs/Tips&notice/ItemSelectPanel.prefab		LAYER_POPUP	UI đạo cụ lựa chọn								1
+PartnerSkillTips	UI/Prefabs/Companion/CompanionSkillTipPanel.prefab		LAYER_POPUP	Giao diện hiện kỹ năng chi tiết	1					NormalOpen	NormalClose	1
+PartnerReInitPanel	UI/Prefabs/Companion/CompanionWashingPanel.prefab		LAYER_NORMAL	Tẩy tủy Đồng Hành	1					NormalOpen	NormalClose	
+EquipMakerPanel	UI/Prefabs/NewFamily/EquipMakerPanel.prefab		LAYER_NORMAL	Binh Giáp	1					NormalOpen	NormalClose	1
+MessageBoxBig	UI/Prefabs/Tips&notice/MessageBoxBig.prefab		LAYER_POPUP	Cửa sổ thường (Lớn)				8002	8003	NormalOpen		
+AsyncPartner	UI/Prefabs/Yibuzhandou/AsyncPanel.prefab		LAYER_HOME	Danh sách Đồng Hành bất thường								1
+TeamBattleResultPanel	UI/Prefabs/Calendar/StarTowerAccountFinal.prefab		LAYER_NORMAL	Tổng kết Thông Thiên Tháp	1					NormalOpen	NormalClose	1
+FlowerBoxPlay	UI/Prefabs/SocialNew/GiftPlayAllPanel.prefab		LAYER_NORMAL	99 Cỏ May Mắn Hoa Hồng						NormalOpen	NormalClose	
+ShowSkillPreView	UI/Prefabs/Login/ShowSkillPreView.prefab		LAYER_HOME	Đăng nhập hiện kỹ năng								
+HomeScreenVoice	UI/Prefabs/HomeScreen/HomeScreenVoice.prefab		LAYER_HOME	Giao diện chính-Voice								
+TrialPanel	UI/Prefabs/Calendar/TrialPanel.prefab		LAYER_NORMAL	Khiêu chiến cốt truyện	1							1
+FiveElements	UI/Prefabs/FiveElements.prefab		LAYER_NORMAL	Quan hệ Ngũ Hành	1							
+SupplementBox	UI/Prefabs/WelfareActivities/RewardBackPanel.prefab		LAYER_NORMAL	Cửa sổ nhận bù								1
+PrivilegePanel	UI/Prefabs/Role/PrivilegePanel.prefab		LAYER_NORMAL	Quyền đăng nhập						NormalOpen		1
+NewInformationPanel	UI/Prefabs/Calendar/NewInformationPanel.prefab		LAYER_NORMAL	Tin mới	1					NormalOpen	NormalClose	1
+HomeScreenCommunity	UI/Prefabs/HomeScreen/HomeScreenCommunity.prefab		LAYER_NORMAL	Giao diện chính-Cộng Đồng						NormalOpen		1
+SharePanel	UI/Prefabs/SharePanel.prefab		LAYER_POPUP	Giao diện chia sẻ						NormalOpen		1
+ShowOffPanel	UI/Prefabs/ShowOffPanel.prefab		LAYER_NORMAL	Chia sẻ chi tiết						NormalOpen		1
+FactionMonkeyPanel	UI/Prefabs/Calendar/ElectionPanel.prefab		LAYER_NORMAL	Môn Phái Đại Sư Huynh						NormalOpen	NormalClose	1
+PartnerGradeLevelup	UI/Prefabs/Companion/CompanionPotentialUpPanel.prefab		LAYER_POPUP	Hiển thị đột phá Đồng Hành								
+DomainBattleReport	UI/Prefabs/NewFamily/TerritoryBattlefieldPanel.prefab 		LAYER_NORMAL	Chiến báo	1					NormalOpen	NormalClose	1
+StoneTipsPanel	UI/Prefabs/Tips&notice/BigItemTips2.prefab		LAYER_POPUP	Giao diện thông tin Đá Hồn						NormalOpen		1
+DomainBattleTip	UI/Prefabs/NewFamily/TerritoryTipPanel.prefab		LAYER_NORMAL	Gợi ý lãnh thổ						NormalOpen	NormalClose	1
+DomainBattleHomeInfo	UI/Prefabs/NewFamily/TerritoryInfoPanel.prefab		LAYER_HOME	Giao diện chính Lãnh Thổ Chiến								1
+CrossDomainBattleInfo	UI/Prefabs/NewFamily/TerritoryInfoPanel2.prefab		LAYER_HOME	Giao diện thông tin Lãnh Thổ Chiến Liên SV								
+WaiyiPreview	UI/Prefabs/Role/DressColour.prefab		LAYER_NORMAL	Xem trước nhuộm màu ngoại trang	1					NormalOpen		1
+WhiteTigerFubenEntryList	UI/Prefabs/Calendar/BaihutangEnterPanel.prefab		LAYER_NORMAL									
+LeavePanel	UI/Prefabs/LeavePanel.prefab		LAYER_HOME	Thoát giao diện								
+TeamMatchPanel	UI/Prefabs/Team/TeamMatchingPanel.prefab		LAYER_NORMAL	Giao diện Ghép đội						NormalOpen		1
+GMListPanel	UI/Prefabs/Debug/GMList.prefab		LAYER_NORMAL	Giao diện GM						NormalOpen	NormalClose	
+KinChangeName	UI/Prefabs/NewFamily/FamilyChangeNamePanel.prefab		LAYER_NORMAL	Sửa tên Bang Hội						NormalOpen		1
+CardCollection	UI/Prefabs/Tips&notice/CardCollectionTips.prefab		LAYER_NORMAL	Sách Thu Thập								1
+CollectionCardList	UI/Prefabs/Tips&notice/CardCheckPanel.prefab		LAYER_NORMAL	Xem danh sách thẻ								1
+GrowInvestPanel	UI/Prefabs/WelfareActivities/GrowInvestPanel.prefab		LAYER_POPUP	1 Quyển Gợi Ý Đầu Tư						NormalOpen	NormalClose	1
+OnlineOnHookPanel	UI/Prefabs/Tips&notice/Managed.prefab		LAYER_BG	Ủy thác online						NormalOpen	NormalClose	1
+ExchangePanel	UI/Prefabs/Exchange.prefab		LAYER_NORMAL	Đổi						NormalOpen	NormalClose	1
+DomainMap	UI/Prefabs/MiniMap/TerritoryMapPanel.prefab		LAYER_NORMAL	Bản đồ lãnh địa	1					NormalOpen	NormalClose	1
+ArenaPanel	UI/Prefabs/Arena/ArenaPanel.prefab		LAYER_NORMAL	Khiêu chiến Lôi Đài						NormalOpen	NormalClose	1
+ChallengerPanel	UI/Prefabs/Arena/SelectChallengerPanel.prefab		LAYER_NORMAL	Xin khiêu chiến Lôi Đài						NormalOpen	NormalClose	
+ArenaAccount	UI/Prefabs/Arena/ArenaAccount.prefab		LAYER_NORMAL	Hiện tin chiến đấu Lôi Đài	1					ArenaAccount		
+ArenaBattleInfo	UI/Prefabs/Arena/ArenaBattleInfo.prefab		LAYER_NORMAL	Điểm chiến đấu Lôi Đài								
+ArenaChallengerInfoPanel	UI/Prefabs/Arena/ArenaChallengeInfo.prefab		LAYER_NORMAL	Thông tin								
+WatchMenuPanel	UI/Prefabs/Arena/ArenaMatchPanel.prefab		LAYER_NORMAL	Quan chiến								
+VaultDonationPanel	UI/Prefabs/NewFamily/VaultDonationPanel.prefab		LAYER_NORMAL	Số lần góp						NormalOpen	NormalClose	1
+BloodPanel	UI/Prefabs/NewFamily/BloodPanel.prefab		LAYER_HOME	Thanh sinh lực								
+StudentReportPanel	UI/Prefabs/MasterApprentice/ApprenticeTarget.prefab		LAYER_NORMAL	Hồi báo mục tiêu Sư Đồ						NormalOpen	NormalClose	
+TeacherGiftPanel	UI/Prefabs/MasterApprentice/MasterGivePanel.prefab		LAYER_NORMAL	Tặng Sư Đồ	1					NormalOpen	NormalClose	
+TeacherDeclarationPanel	UI/Prefabs/MasterApprentice/MasterDeclarationPanel.prefab		LAYER_NORMAL	Thông báo nhận đệ tử						NormalOpen	NormalClose	
+TeacherRewardPanel	UI/Prefabs/MasterApprentice/MasterAwardPanel.prefab		LAYER_NORMAL	Xem thưởng xuất sư	1					NormalOpen	NormalClose	
+QixiPoemPanel	UI/Prefabs/Calendar/DoubleSeventhFestivalInterlude.prefab		LAYER_NORMAL									
+QixiAnimationPanel	UI/Prefabs/Calendar/HuaBanYuFengguPanel.prefab		LAYER_NORMAL									
+QixiSendGiftPanel	UI/Prefabs/Calendar/DoubleSeventhFestivalGifePanel.prefab		LAYER_NORMAL									
+GatherBoxAnimation	UI/Prefabs/Tips&notice/KinGatherPanel.prefab		LAYER_NORMAL									
+FBInvitationPanel	UI/Prefabs/SocialNew/FBInvitationPanel.prefab		LAYER_NORMAL									1
+EvaluatePanel	UI/Prefabs/EvaluatePanel.prefab		LAYER_NORMAL									
+EquipmentEvolutionPanel	UI/Prefabs/Strengthen/EquipmentEvolutionPanel.prefab		LAYER_NORMAL	Tiến hóa trang bị	1					NormalOpen	NormalClose	
+RefinePanel	UI/Prefabs/Strengthen/RefinePanel.prefab		LAYER_POPUP	Tinh luyện trang bị	1							
+ImperialTombPanel	UI/Prefabs/Calendar/ImperialTombPanel.prefab		LAYER_NORMAL		1							1
+RegressionPrivilegePanel	UI/Prefabs/WelfareActivities/WelcomeBack/WelcomeBackPanel.prefab		LAYER_NORMAL	Đặc Quyền	1							
+HomeScreenTip	UI/Prefabs/Fuben/HomeScreenTip.prefab		LAYER_INFO	Gợi ý Lăng Tuyệt Phong								
+JuanZhouPanel	UI/Prefabs/Tips&notice/ReelTipPanel.prefab		LAYER_NORMAL	Giao diện đạo cụ trục quyển								
+BlessPanel	UI/Prefabs/Calendar/BlessingPanel.prefab		LAYER_NORMAL	Tặng chúc phúc	1							
+BlessPanelWord	UI/Prefabs/Calendar/NewYearBlessingPanel.prefab		LAYER_NORMAL	Tặng chúc phúc 2	1							
+AgreementPanel	UI/Prefabs/Login/AgreementPanel.prefab		LAYER_NORMAL	Điều khoản								
+AgreementLargePanel	UI/Prefabs/Login/AgreementLargePanel.prefab		LAYER_NORMAL	Điều khoản								
+Comment	UI/Prefabs/Tips&notice/CommentPanel.prefab		LAYER_NORMAL	Hướng dẫn bình luận								
+DreamlandPanel	UI/Prefabs/Calendar/DreamlandPanel.prefab		LAYER_NORMAL	Tâm Ma Ảo Cảnh-Tuyển Chọn Môn Phái	1							
+DreamlandGivePanel	UI/Prefabs/Calendar/DreamlandGivePanel.prefab		LAYER_NORMAL	Tâm Ma Ảo Cảnh tặng								
+DreamlandMapPanel	UI/Prefabs/Calendar/DreamlandMapPanel.prefab		LAYER_NORMAL	Bản đồ trong Tâm Ma Ảo Cảnh								
+RedPaperSharePanel	UI/Prefabs/Tips&notice/RedPaperSharePanel.prefab		LAYER_NORMAL	Lì Xì Zalo						NormalOpen		
+DreamlandLevelUpPanel	UI/Prefabs/Calendar/DreamlandLevelUpPanel.prefab		LAYER_NORMAL	Tăng cấp trang bị Tâm Ma Ảo Cảnh								
+WeekendQuizPanel	UI/Prefabs/Quiz/WeekendQuizPanel.prefab 		LAYER_NORMAL	Vấn Đáp						NormalOpen	NormalClose	
+DreamlandInfoPanel	UI/Prefabs/Calendar/DreamlandInfoPanel.prefab		LAYER_HOME	Giao diện chính Tâm Ma Ảo Cảnh								
+DreamlandCheatsPanel	UI/Prefabs/Calendar/DreamlandCheatsPanel.prefab		LAYER_NORMAL	Trang bị nhân vật Tâm Ma Ảo Cảnh	1							
+DreamlandShopPanel	UI/Prefabs/Calendar/DreamlandShopPanel.prefab		LAYER_NORMAL	Danh sách bán Tâm Ma Ảo Cảnh								
+HorsePanel	UI/Prefabs/MountsPanel.prefab		LAYER_NORMAL	Giao diện Thú Cưỡi	1					NormalOpen		1
+TxtWeixinGameCenter	UI/Prefabs/Rank/TxtGameCenter.prefab		LAYER_NORMAL	Nội dung nhắc nhở đăng nhập						NormalOpen		1
+DreamlandJoinPanel	UI/Prefabs/Calendar/DreamlandJoinPanel.prefab		LAYER_NORMAL	Báo danh Tâm Ma Ảo Cảnh	1							
+DreamlandStrengthenPanel	UI/Prefabs/Calendar/DreamlandStrengthenPanel.prefab		LAYER_NORMAL	Giao diện Cường Hóa Tâm Ma								
+DreamlandReportPanel	UI/Prefabs/Calendar/DreamlandReportPanel.prefab		LAYER_NORMAL	Tâm Ma Chiến Báo	1							
+SnowballEffectPanel	UI/Prefabs/Calendar/SnowballEffectPanel.prefab		LAYER_NORMAL	Hiệu ứng Tuyết Rơi						NormalOpen	NormalClose	
+InscriptionChangePanel	UI/Prefabs/Tips&notice/InscriptionChangePanel.prefab		LAYER_NORMAL	Thay Đá Khắc Chữ								
+BiWuZhaoQinPanel	UI/Prefabs/Calendar/OpenMarriagePanel.prefab		LAYER_NORMAL	Giao diện Chiêu Thân	1							
+TextSelectPanel	UI/Prefabs/Calendar/TitleSeletePanel.prefab		LAYER_POPUP	Máy chọn file								
+BiWuZhaoQinList	UI/Prefabs/Calendar/JoinMarriagePanel.prefab		LAYER_NORMAL	Giao diện tham gia chiêu thân	1							
+QQFriendApplyPanel	UI/Prefabs/SocialNew/QQFriendApplyPanel.prefab		LAYER_NORMAL	Giao diện kết bạn	1					NormalOpen		
+TxtTipPanel	UI/Prefabs/Tips&notice/TxtTipPanel.prefab		LAYER_POPUP	Hướng dẫn						NormalOpen		
+WishingPanel	UI/Prefabs/Calendar/WishingTreePanel.prefab		LAYER_NORMAL									
+WishListPanel	UI/Prefabs/Calendar/WishListPanel.prefab		LAYER_NORMAL									
+WishListCheckPanel	UI/Prefabs/Calendar/WishListChackPanel.prefab		LAYER_NORMAL									
+FightTablePanel	UI/Prefabs/Calendar/TournamentMarriagePanel.prefab		LAYER_NORMAL	Giao diện bảng chiến đấu	1					NormalOpen	NormalClose	
+MainShowOffPanel	UI/Prefabs/MainCityShowOffPanel.prefab		LAYER_NORMAL	Giao diện	1					NormalOpen		
+FriendRecallPanel	UI/Prefabs/WelfareActivities/WelcomeBack/PartnersBackPanel.prefab		LAYER_NORMAL	Kêu Gọi Người Chơi	1							
+PartnerAwarenessPanel	UI/Prefabs/Companion/CompanionAwakenPanel.prefab		LAYER_NORMAL	UI thức tỉnh Đồng Hành	1							
+PartnerSelectPanel	UI/Prefabs/Companion/CompanionAwakenSelectPanel.prefab		LAYER_POPUP	UI chọn Đồng Hành								
+LoginActNpcPanel	UI/Prefabs/WelfareActivities/NewServerReward/NewYearNpcPanel.prefab		LAYER_NORMAL	NPC Đăng Nhập Năm Mới	1							
+NewYearTxtPanel	UI/Prefabs/Calendar/NewYearTxtPanel.prefab		LAYER_NORMAL	Nhập nội dung tặng chúc phúc								
+ChouJiangEffectPanel	UI/Prefabs/ZodiacEffectsPanel.prefab		LAYER_INFO	Hiệu ứng rút thưởng								
+TextSelectPanel2	UI/Prefabs/Calendar/MarriageTitlePanel.prefab		LAYER_POPUP	Máy chọn file, 2 dòng								
+QingRenJieDazuoPanel	UI/Prefabs/Calendar/QingrenjieEffectsPanel.prefab		LAYER_NORMAL									
+QingRenJieInvitePanel	UI/Prefabs/Calendar/QingrenjieInteractionPanel.prefab		LAYER_NORMAL									
+QingRenJieTitlePanel	UI/Prefabs/Calendar/QingrenjieTitlePanel.prefab		LAYER_NORMAL									
+MessageBoxInput	UI/Prefabs/Tips&notice/MessageBoxInput.prefab		LAYER_POPUP	Cửa sổ nhập				8002	8003	NormalOpen		
+SendGiftPanel	UI/Prefabs/SocialNew/DanGivePanel.prefab		LAYER_NORMAL	Tặng quà	1							
+FriendImpressionPanel	UI/Prefabs/SocialNew/FriendImpressionPanel.prefab		LAYER_NORMAL	Hảo hữu	1							
+FriendImpressionAgreePanel	UI/Prefabs/SocialNew/FriendImpressionAgreePanel.prefab		LAYER_NORMAL	Miêu tả hảo hữu								
+ChatHostList	UI/Prefabs/ChatNew/AnchorPanel.prefab		LAYER_NORMAL	Lịch dẫn chương trình	1							
+HouseDecorationPanel	UI/Prefabs/Home/HomeSettingPanel.prefab		LAYER_NORMAL	UI Lắp đặt Gia Viên								
+FurnitureMake	UI/Prefabs/Home/HomeMakePanel.prefab		LAYER_NORMAL	UI Chế tạo gia cụ	1							
+HouseComfortablePanle	UI/Prefabs/Home/HomeComfortablePanle.prefab		LAYER_POPUP	UI Độ thoải mái Gia Viên								
+HouseComfortableDetailsPanle	UI/Prefabs/Home/HomeComfortableDetailsPanle.prefab		LAYER_POPUP	UI Gia cụ tăng độ thoải mái								
+HouseManagerPanel	UI/Prefabs/Home/HomeManagePanel.prefab		LAYER_NORMAL	UI Quản Lý Gia Viên	1							
+HouseSharePanel	UI/Prefabs/Home/HomeSharePanel.prefab		LAYER_NORMAL	Chia sẻ hình ảnh Gia Viên								
+FurnitureOptUi	UI/Prefabs/Home/HomeUsePanel.prefab		LAYER_POPUP	UI Dùng gia cụ								
+HouseCameraPanel	UI/Prefabs/Home/HomeCameraPanel.prefab		LAYER_POPUP	Góc chụp								
+VitalitySkillPanel	UI/Prefabs/Tips&notice/VitalitySkillPanel.prefab		LAYER_NORMAL	Tăng cấp kỹ năng Chân Nguyên	1							
+PlantHelpCurePanel	UI/Prefabs/Home/HomeAssistPanel.prefab		LAYER_NORMAL	Giúp chăm sóc	1							
+PlantCurePanel	UI/Prefabs/Tips&notice/PlantTipPanel.prefab		LAYER_NORMAL	Chăm sóc cây	1							
+PlantCureConfirmPanel	UI/Prefabs/Tips&notice/PlantPromptPanel.prefab		LAYER_NORMAL	Xác nhận chăm sóc cây								
+VitalityEffectPanel	UI/Prefabs/Strengthen/VitalityEffectPanel.prefab		LAYER_POPUP	Hiệu ứng Tịnh Tâm								
+PlantStatePanel	UI/Prefabs/Home/HomePlantPanel.prefab		LAYER_HOME	Nhắc nhở trạng thái cây trồng								
+HouseInvitePanel	UI/Prefabs/Home/HomeInvitePanel.prefab		LAYER_POPUP	Mời vào ở								
+ProgressBarPanel	UI/Prefabs/Tips&notice/BarPanel.prefab		LAYER_NORMAL	Thanh tiến độ						NormalOpen	NormalClose	
+ItemTemplateSellPanel	UI/Prefabs/Home/HomeSellPanel.prefab		LAYER_NORMAL	Vật phẩm bán						NormalOpen	NormalClose	1
+HomeSettingGuide	UI/Prefabs/Home/HomeSettingGuide.prefab		LAYER_NORMAL		1							
+AchievementList	UI/Prefabs/Achievement/AchievementFurniturePanel.prefab		LAYER_NORMAL		1							
+MuseEffectPanel	UI/Prefabs/Strengthen/VitalityEffectPanel2.prefab		LAYER_NORMAL	Hiệu ứng Tịnh Tâm						NormalOpen	NormalClose	
+BattleRankEffectPanel	UI/Prefabs/Effect/BattleRankEffectPanel.prefab		LAYER_INFO	Hiệu ứng vòng loại Chiến Trường								
+OperationSet	UI/Prefabs/OperationSetPanel.prefab		LAYER_NORMAL	Thiết lập phím tắt	1					NormalOpen		1
+GrowFlowersPanel	UI/Prefabs/FestivaIActivity/GrowFlowersPanel.prefab		LAYER_NORMAL	Hoạt động ngày lễ trồng cây Gia Viên						NormalOpen		
+AthleticsHonor	UI/Prefabs/Calendar/HonorPanel.prefab		LAYER_NORMAL	Vinh Dự Võ Lâm	1							
+AthleticsHonorTip	UI/Prefabs/Calendar/HonorTipPanel.prefab		LAYER_NORMAL	Vinh Dự Võ Lâm								
+AthleticsHonorAni	UI/Prefabs/Calendar/HonorRankPanel.prefab		LAYER_NORMAL	Vinh Dự Võ Lâm								
+ShowGainItem	UI/Prefabs/Effect/AnniversaryBoxPanel.prefab		LAYER_NORMAL	UI hiện vật phẩm	1							
+BeautyCompetitionPanel	UI/Prefabs/Calendar/BeautyCompetitionPanel.prefab		LAYER_NORMAL	Danh sách tặng Võ Lâm Đệ Nhất Mỹ Nhân						NormalOpen		1
+NpcBiWuZhaoQinUi	UI/Prefabs/SocialNew/SpokespersonPanel.prefab		LAYER_NORMAL	NPC Tỉ Võ Chiêu Thân Ui	1							
+PortraitItemPreviewPanel	UI/Prefabs/Tips&notice/HeadPreviewPanel.prefab		LAYER_NORMAL									
+LockScreenPanel	UI/Prefabs/LockScreenPanel.prefab		LAYER_INFO	Khóa màn hình								
+CardPickRecordPanel	UI/Prefabs/Companion/CompanionRecordPanel.prefab		LAYER_NORMAL	Lịch sử và gợi ý chiêu mộ	1					NormalOpen		1
+WLDHJoinPanel	UI/Prefabs/WuLinDaHui/WLDHJoinPanel.prefab		LAYER_NORMAL		1					NormalOpen		
+WLDHRankPanel	UI/Prefabs/WuLinDaHui/WLDHRankPanel.prefab		LAYER_NORMAL							NormalOpen		
+WLDHBattlefieldPanel	UI/Prefabs/WuLinDaHui/WLDHBattlefieldPanel.prefab		LAYER_NORMAL	Chiến Báo	1					NormalOpen		
+WeddingInterludePanel	UI/Prefabs/Marry/WeddingInterludePanel.prefab		LAYER_NORMAL	Giao diện hiệu ứng bắt đầu Bái Đường								
+WeddingHeadPointPanel	UI/Prefabs/Marry/WeddingHeadPointPanel.prefab		LAYER_NORMAL	Giao diện tên nhân vật theo sau Bái Đường								
+WeddingTxtPanel	UI/Prefabs/Marry/WeddingTxtPanel.prefab		LAYER_NORMAL	Nhắc nhở hôn lễ								
+CampBattleInfo	UI/Prefabs/CampBattle/CampBattleInfo.prefab		LAYER_HOME	Thông tin Chiến Trường Phe								
+CampBattlePanel	UI/Prefabs/CampBattle/CampBattlePanel.prefab		LAYER_NORMAL	Thông tin Đối trận Chiến Trường Phe	1							
+SkillBookEquipPanel	UI/Prefabs/Skill/SkillBookEquipPanel.prefab		LAYER_NORMAL		1							1
+JingMaiPanel	UI/Prefabs/Meridian/MeridianPanel.prefab		LAYER_NORMAL	Hệ thống Kinh Mạch	1							
+ChatPrefixPanel	UI/Prefabs/ChatNew/ChatPrefixPanel.prefab		LAYER_NORMAL	Thiết lập tiền tố trò chuyện	1					NormalOpen		1
+JingMaiTipsPanel	UI/Prefabs/Meridian/MeridianTipPanel.prefab		LAYER_NORMAL	Giao diện thuộc tính kinh mạch								
+MarriageRequestPanel	UI/Prefabs/Marry/MarriageRequestPanel.prefab		LAYER_NORMAL	Giao diện cầu hôn						NormalOpen		
+JingMaiMapPanel	UI/Prefabs/Meridian/MeridianMapPanel.prefab		LAYER_NORMAL		1							
+YanHuaAniPanel	UI/Prefabs/Effect/Yanhua_520.prefab		LAYER_NORMAL	Giao diện hiệu ứng pháo hoa cầu hôn								
+MarriageTitlePanel	UI/Prefabs/Marry/MarryTitlePanel.prefab		LAYER_POPUP	Sửa danh hiệu kết hôn								
+MarriagePaperPanel	UI/Prefabs/Marry/MarryBookPanel.prefab		LAYER_NORMAL	Hôn Thư	1							
+WeddingBookPanel	UI/Prefabs/Marry/MarryPanel.prefab		LAYER_NORMAL	Giao diện đặt hôn lễ	1					NormalOpen		
+WeddingBookDetailPanel	UI/Prefabs/Marry/MarryReservePanel.prefab		LAYER_NORMAL	Giao diện thông tin đặt hôn lễ	1					NormalOpen		
+WeddingCashGiftPanel	UI/Prefabs/Marry/MarryCashGiftPanel.prefab		LAYER_POPUP	Tặng Tiền mừng	1							
+WeddingChoosePromisePanel	UI/Prefabs/Marry/MarryOathPanel.prefab		LAYER_NORMAL	Giao diện chọn lời hứa cầu hôn								
+WeddingEnterPanel	UI/Prefabs/Marry/MarryEnterPanel.prefab		LAYER_NORMAL	Giao diện xin vào hôn lễ								
+WeddingWelcomeApplyPanel	UI/Prefabs/Marry/MarrySendPanel.prefab		LAYER_NORMAL	Giao diện mời vào hôn lễ								
+WeddingDatePanel	UI/Prefabs/Marry/MarryDatePanel.prefab		LAYER_NORMAL	Giao diện chọn thời gian hôn lễ						NormalOpen		
+WeddingSendPromisePanel	UI/Prefabs/Marry/MarrySwearPanel.prefab		LAYER_NORMAL	Giao diện lời thề kết hôn								
+WeddingWelcomePanel	UI/Prefabs/Marry/MarryCardPanel.prefab		LAYER_NORMAL	Giao diện thông tin thiệp mời	1							
+WeddingBlessingPanel	UI/Prefabs/Marry/MarryBlessing.prefab		LAYER_NORMAL	Giao diện tặng chúc phúc kết hôn								
+RelationshipPanel	UI/Prefabs/SocialNew/RelationshipPanel.prefab		LAYER_NORMAL	Quan hệ phổ	1							
+QQGroupPanel	UI/Prefabs/SocialNew/QQGroupPanel.prefab		LAYER_NORMAL	Danh sách nhóm Zalo	1							
+NationalCollectPanel	UI/Prefabs/Calendar/NationalCollectPanel.prefab		LAYER_NORMAL	Hộp Thu Thập Ngày Lễ	1							
+ActionBQPanel	UI/Prefabs/ActionPanel.prefab		LAYER_NORMAL	Động tác biểu cảm								
+FrameSettingPanel	UI/Prefabs/FrameSettingPanel.prefab		LAYER_NORMAL	Giao diện thiết lập góc nhìn								
+ViewPanel	UI/Prefabs/ViewPanel.prefab		LAYER_NORMAL	Giao diện điều chỉnh góc nhìn								
+PhotographPanel	UI/Prefabs/PhotographPanel.prefab		LAYER_NORMAL	Giao diện chụp hình góc nhìn								
+SelectScrollView	UI/Prefabs/Shop/DressTypePanel.prefab		LAYER_NORMAL	Danh sách lăn chọn								
+ShopGiftPanel	UI/Prefabs/Shop/ShopGiftPanel.prefab		LAYER_NORMAL	Tặng Ngoại Trang								
+DiscountCouponPanel	UI/Prefabs/Tips&notice/OnSalePopup.prefab		LAYER_NORMAL	Phiếu Giảm Giá								
+SharePanelNew	UI/Prefabs/Role/SharePanelNew.prefab		LAYER_NORMAL	Giao diện chia sẻ mới						NormalOpen		1
+WuLinDaShiZhanBao	UI/Prefabs/HomeScreen/HomeScreenBattlefield.prefab?		LAYER_HOME	Chiến Báo Võ Lâm Đại Sự								
+QuestionAnswerPanel	UI/Prefabs/Calendar/MatrixAnswerPanel.prefab		LAYER_NORMAL	Giao diện Vấn Đáp								
+JueYaoTips	UI/Prefabs/Tips&notice/PracticeTip.prefab		LAYER_NORMAL	Tip Yếu Quyết								
+JueYaoCompareTips	UI/Prefabs/Tips&notice/PracticeTip.prefab		LAYER_NORMAL	Tip Yếu Quyết								
+ZhenFaStrengthPanel	UI/Prefabs/Strengthen/PracticePanel.prefab		LAYER_NORMAL	Tu Luyện Trận Pháp								
+ZhenFaBoxTips	UI/Prefabs/Tips&notice/PracticeTipPanel.prefab		LAYER_POPUP	Tips Rương Trận Pháp						NormalOpen		
+ChristmasWishPanel	UI/Prefabs/Calendar/ChristmasWishPanel.prefab		LAYER_NORMAL		1							
+ChristmasWishListPanel	UI/Prefabs/Calendar/ChristmasWishListPanel.prefab		LAYER_NORMAL									
+QYHMatchingPanel	UI/Prefabs/QueYingHui/QYHMatchingPanel.prefab		LAYER_NORMAL	Giao diện ghép Quần Anh Hội Liên SV								
+QYHChoicePanel	UI/Prefabs/QueYingHui/QYHChoicePanel.prefab		LAYER_NORMAL	Giao diện chọn môn phái Quần Anh Hội Liên SV	1							
+QYHNewEntrance	UI/Prefabs/QueYingHui/QYHNewEntrance.prefab		LAYER_NORMAL	Giao diện vào Quần Anh Hội Liên SV	1							
+TerritoryAssistPanel	UI/Prefabs/NewFamily/TerritoryAssistPanel.prefab		LAYER_NORMAL	Giao diện báo danh trợ chiến Thành Chiến Liên SV	1							
+TerritoryFamilyAssistPanel	UI/Prefabs/NewFamily/TerritoryFamilyAssistPanel.prefab		LAYER_NORMAL	DS trợ chiến Thành Chiến Liên SV	1							
+TerritoryCrossBattlefieldPanel	UI/Prefabs/NewFamily/TerritoryCrossBattlefieldPanel.prefab		LAYER_NORMAL	Chiến Báo Thành Chiến Liên SV								
+TerritoryChangePanel	UI/Prefabs/NewFamily/TerritoryChangePanel.prefab		LAYER_NORMAL	Đổi Doanh Địa Thành Chiến Liên SV								
+LabaFestivalPanel	UI/Prefabs/Calendar/LabaFestivalPanel.prefab		LAYER_NORMAL	Giao diện chính Bánh Chưng	1							
+LabaFestivalFriendPanel	UI/Prefabs/Calendar/LabaFestivalFriendPanel.prefab		LAYER_NORMAL	Giao diện Hảo Hữu Bánh Chưng								
+LabaFestivalAssistPanel	UI/Prefabs/Calendar/LabaFestivalAssistPanel.prefab		LAYER_NORMAL	Giao diện giúp đỡ người chơi Bánh Chưng								
+LabaFestivalExchangePanel	UI/Prefabs/Calendar/LabaFestivalExchangePanel.prefab		LAYER_NORMAL	Giao diện trao đổi nguyên liệu Bánh Chưng								
+LanternQuestionPanel	UI/Prefabs/NewYearCalendar/CoupletsPanel.prefab		LAYER_NORMAL	UI câu đố đèn	1							
+MonsterNianRankPanel	UI/Prefabs/NewYearCalendar/NewYearMonsterPanel.prefab		LAYER_NORMAL	UI xếp hạng câu đố đèn	1							
+PetOptUi	UI/Prefabs/Home/PetUsePanel.prefab		LAYER_POPUP	UI Gia Viên Thú Cưng sử dụng								
+NewYearQAMainPanel	UI/Prefabs/NewYearCalendar/RedEnvelopesPanel.prefab		LAYER_NORMAL	ui Vấn Đáp Năm Mới								
+NewYearQAAnswerPanel	UI/Prefabs/NewYearCalendar/QuestionAnsweringPanel.prefab		LAYER_NORMAL	ui trả lời Vấn Đáp Năm Mới								
+NewYearQASetPanel	UI/Prefabs/NewYearCalendar/ProposeQuestionPanel.prefab		LAYER_NORMAL	ui ra đề Vấn Đáp Năm Mới								
+NewYearQARedbagPanel	UI/Prefabs/Effect/RedPaperRain.prefab		LAYER_NORMAL	Mưa Lì Xì Vấn Đáp Năm Mới								
+PetFeedPanel	UI/Prefabs/Home/PetFeedPanel.prefab		LAYER_NORMAL	Nuôi thú cưng	1							
+PetChangeName	UI/Prefabs/Home/PetChangeNamePanel.prefab		LAYER_NORMAL	Đổi tên thú cưng	1							
+ScreenFramePanel	UI/Prefabs/ScreenFramePanel.prefab		LAYER_INFO	Giao diện Iphone X								
+DreamlandDangerInfoPanel	UI/Prefabs/Calendar/DreamlandDangerInfoPanel.prefab		LAYER_HOME	Giao diện chính Tuyệt Địa Tâm Ma Ảo Cảnh								
+DreamlandDangerMapPanel	UI/Prefabs/Calendar/DreamlandDangerMapPanel.prefab		LAYER_NORMAL	Bản đồ Tuyệt Địa Tâm Ma Ảo Cảnh								
+DreamlandDangerCollectionPanel	UI/Prefabs/Calendar/DreamlandDangerCollectionPanel.prefab		LAYER_NORMAL	Hiện Tuyệt Địa Tâm Ma						NormalOpen		
+MagicBowlPanel	UI/Prefabs/Home/HomeCornucopiaPanel.prefab		LAYER_NORMAL	Giao diện Tụ Bảo Bồn	1					NormalOpen	NormalClose	1
+MagicBowlRefinementPanel	UI/Prefabs/Home/Refinement2.prefab		LAYER_POPUP									1
+KickPlayerPanel	UI/Prefabs/NewFamily/NearbyMemberPanel.prefab		LAYER_NORMAL	Giao diện đá bay						NormalOpen	NormalClose	1
+PrisonRemainTimePanel	UI/Prefabs/Role/PrisonRemainTimePanel.prefab		LAYER_HOME	Giao diện đếm ngược Thiên Lao								
+KinSecretSelectPanel	UI/Prefabs/NewFamily/FamilyMijingSelectPanel.prefab		LAYER_NORMAL	Giao diện chọn phòng Bí Cảnh Bang Hội	1							
+MagicBowlSelectMaterialPanel	UI/Prefabs/Home/HomeInscriptionForgedPanel.prefab		LAYER_NORMAL	Tụ Bảo Bồn chọn nguyên liệu	1					NormalOpen	NormalClose	
+MessageBoxSelect	UI/Prefabs/Tips&notice/MessageBoxSelect.prefab		LAYER_POPUP	Cửa sổ chọn 3				8002	8003	NormalOpen		1
+MagicBowlPrayResultPanel	UI/Prefabs/Home/HomePrayChangePanel.prefab		LAYER_POPUP	Kết quả cầu phúc Tụ Bảo Bồn								
+CharmTip	UI/Prefabs/Tips&notice/GlamourTip.prefab		LAYER_INFO									
+MagicBowlHarvestPanel	UI/Prefabs/Home/HomeCornucopiaHarvestPanel.prefab		LAYER_HOME	Nhắc nhở nhận Minh Văn Tụ Bảo Bồn								
+ZhouTianShowPanel	UI/Prefabs/Skill/SkillTipPanel2.prefab		LAYER_POPUP	Xem thông tin Chu Thiên						NormalOpen		
+MedalFightWaitPanel	UI/Prefabs/Calendar/MedalReadyPanel.prefab		LAYER_NORMAL		1					NormalOpen	NormalClose	1
+MedalFightPanel	UI/Prefabs/Calendar/MedalAnswerPanel.prefab		LAYER_NORMAL		1					NormalOpen	NormalClose	1
+SpecialTips	UI/Prefabs/Tips&notice/SpecialTips.prefab		LAYER_INFO	Thông tin hiển thị 10 giây								
+TerritoryRewardAdditionPanel	UI/Prefabs/NewFamily/TerritoryRewardAdditionPanel.prefab		LAYER_NORMAL	Giao diện tăng thưởng công thành								
+DanceForestConferencePanel	UI/Prefabs/Calendar/DanceForestConferencePanel.prefab		LAYER_NORMAL	Giao diện Vũ Lâm Đại Hội								
+AnniversaryPanel	UI/Prefabs/Calendar/AnniversaryPanel.prefab		LAYER_NORMAL	Giao diện hoạt động kỷ niệm	1							
+AnniversaryTipPanel	UI/Prefabs/Calendar/AnniversaryTipPanel.prefab		LAYER_NORMAL	Giao diện hướng dẫn								
+MibenBookTips	UI/Prefabs/Tips&notice/LostKnowledgeTip2.prefab		LAYER_NORMAL	Tips Bí Quyển								
+MibenBookCompareTips	UI/Prefabs/Tips&notice/LostKnowledgeTip2.prefab		LAYER_NORMAL	Tips Bí Quyển								
+DuanpianBookTips	UI/Prefabs/Tips&notice/LostKnowledgeTip1.prefab		LAYER_NORMAL	Hướng dẫn								
+DuanpianBookCompareTips	UI/Prefabs/Tips&notice/LostKnowledgeTip1.prefab		LAYER_NORMAL	Hướng dẫn								
+WorldCupPanel	UI/Prefabs/Calendar/WorldCupPanel.prefab		LAYER_NORMAL	Thu Thập Cup Thế Giới								
+WorldCupGuessPanel	UI/Prefabs/NewInformation/WorldCupGuessingCompetition.prefab		LAYER_NORMAL	Dự Đoán Cúp TG								
+WorldCupGuessSelPanel	UI/Prefabs/Calendar/WorldCupGuessPanel.prefab		LAYER_NORMAL	Chọn Dự Đoán Cúp TG								
+WorldCupTransferPanel	UI/Prefabs/Calendar/WorldCupTransformationPanel.prefab		LAYER_NORMAL	Chuyển Đổi Cup Thế Giới								
+WorldCupTransSelPanel	UI/Prefabs/Calendar/WorldCupChoicePanel.prefab		LAYER_NORMAL	Chọn Chuyển Đổi Cup Thế Giới								
+RuinsTreasureEntrance	UI/Prefabs/Calendar/RuinsTreasureEntrance.prefab		LAYER_NORMAL	Tiểu Đội Tầm Bảo báo danh	1							
+PartnerCardActivityPanel	UI/Prefabs/Companion/CompanionGuest/HomeGuestPanel.prefab		LAYER_NORMAL	Phái Môn Khách	1							
+PartnerCardDetailTip	UI/Prefabs/Companion/CompanionGuest/CompanionGuestTip.prefab		LAYER_NORMAL	Gợi ý chi tiết Môn Khách								
+PartnerCardDevilPanel	UI/Prefabs/Companion/CompanionGuest/CompanionGuestDevil.prefab		LAYER_NORMAL	Giao Diện Tâm Ma	1							
+KinEncounterJoinPanel	UI/Prefabs/NewFamily/FamilyEngagementPanel.prefab		LAYER_NORMAL	Giao diện vào Bang Hội Chiến	1					NormalOpen	NormalClose	1
+KinEncounterScreenPanel	UI/Prefabs/NewFamily/HomeScreenEngagementInfo.prefab		LAYER_HOME	Giao diện chính-Bang Hội Chiến								
+KinEncounterRankPanel	UI/Prefabs/NewFamily/FamilyEngagementRankPanel.prefab		LAYER_NORMAL	Bang Hội Chiến-Hạng diệt địch								
+KinEncounterResultPanel	UI/Prefabs/NewFamily/FamilyEngagementReport.prefab		LAYER_NORMAL	Giao diện tổng kết Bang Hội Chiến	1							
+KinEncounterShopPanel	UI/Prefabs/NewFamily/FamilyEngagementStore.prefab		LAYER_NORMAL	Kho Quân Giới Bang Hội Chiến	1							
+PartnerCardQuestionPanel	UI/Prefabs/Companion/CompanionGuest/HomeGuestQuestionPanel.prefab		LAYER_NORMAL	Giao diện Vấn Đáp Thăm Hỏi Môn Khách		··						
+PartnerCardGetGuidePanel	UI/Prefabs/Companion/CompanionGuest/GetEntouragePanel.prefab		LAYER_NORMAL	Giao diện chỉ dẫn nhận Môn Khách								
+ChuanZhenQiQiaoPanel	UI/Prefabs/Calendar/QiQiaoFestival.prefab		LAYER_NORMAL	Nối Tơ Duyên Nồng	1					NormalOpen	NormalClose	
+PartnerCardAttribPanel	UI/Prefabs/Companion/CompanionGuest/CompanionGuestDetail.prefab		LAYER_NORMAL	Giao Diện Thuộc Tính	1							
+WeddingProcessPanel	UI/Prefabs/Marry/WeddingProcessPanel.prefab		LAYER_NORMAL	Giao diện quy trình kết hôn								
+KinDPTaskPanel	UI/Prefabs/Task/DinnerTaskPanel.prefab		LAYER_NORMAL	Giao diện nhiệm vụ Tiệc Bang Hội	1					NormalOpen	NormalClose	1
+KinDPTaskHelpPanel	UI/Prefabs/Task/DinnerHelpPanel.prefab		LAYER_POPUP									
+KinDinnerPartyGuessPanel	UI/Prefabs/NewFamily/FamilyIdiomInputPanel.prefab		LAYER_NORMAL	Nhập thành ngữ Tiệc Bang Hội						NormalOpen		1
+WaiYiTryPanel	UI/Prefabs/Role/OutfitGuidePanel.prefab		LAYER_NORMAL		1					NormalOpen	NormalClose	1
+LoverRecommondPanel	UI/Prefabs/SocialNew/LoverTaskPanel.prefab		LAYER_NORMAL	Giao diện Đề Cử Tình Duyên	1							
+PeachPanel	UI/Prefabs/Calendar/PeachPanel.prefab		LAYER_NORMAL	Giao diện Cây Hoa Đào	1					NormalOpen		1
+StrongerDetailsPanel	UI/Prefabs/BecomeStronger/StrongerDetailsPanel.prefab		LAYER_POPUP	Danh sách phụ kiện mạnh hơn						NormalOpen		1
+StrongerDetailsHelpPanel	UI/Prefabs/BecomeStronger/StrongerDetailsHelpPanel.prefab		LAYER_POPUP	Danh sách đề cử phụ kiện mạnh hơn						NormalOpen		1
+ToyPanel	UI/Prefabs/ToyPanel.prefab		LAYER_NORMAL	Đồ chơi								
+AchievementLikePanel	UI/Prefabs/Achievement/AchievementCollectionPanel.prefab		LAYER_NORMAL	Danh sách thành tựu thu thập								
+TaskQuestionPanel	UI/Prefabs/Task/TaskQuestionPanel.prefab		LAYER_NORMAL	Vấn đáp nhiệm vụ phân tuyến								
+FiveElements3	UI/Prefabs/FiveElements3.prefab		LAYER_NORMAL	Quan hệ Ngũ Hành	1							
+SimplifyItemPanel	UI/Prefabs/Tips&notice/SimplifyItemPanel.prefab		LAYER_POPUP	Giao diện thông tin đạo cụ thường						NormalOpen		1
+ClueMapPanel	UI/Prefabs/Task/PoBaiTuJuanPanel.prefab		LAYER_NORMAL	Giao diện manh mối nhiệm vụ	1							
+FiveElements2	UI/Prefabs/FiveElements2.prefab		LAYER_NORMAL	Quan hệ Ngũ Hành	1							
+CeremonyPanel	UI/Prefabs/Calendar/CeremonyPanel.prefab		LAYER_NORMAL		1							
+CeremonyInvitationPanel	UI/Prefabs/Calendar/CeremonyInvitationPanel.prefab		LAYER_NORMAL									
+CeremonyPartitionGoldPanel	UI/Prefabs/Calendar/CeremonyPartitionGoldPanel.prefab		LAYER_NORMAL	Giao diện Ta muốn đến Thịnh Điển chia Nguyên Bảo	1					NormalOpen	NormalClose	
+MaterialBoxPanel	UI/Prefabs/Calendar/WineBoxPanel.prefab		LAYER_NORMAL	Rương Ủ Rượu								
+MaterialCollectPanel	UI/Prefabs/Calendar/AlcoholcollectPanel.prefab		LAYER_NORMAL	Giao diện thu thập Rượu Ngon								
+YXJQ_SharePanel	UI/Prefabs/Calendar/GinkgoSensibilityShare.prefab		LAYER_NORMAL	Chia sẻ Ngân Hạnh Gửi Tình								
+YXJQ_PlayerQS	UI/Prefabs/Calendar/GinkgoSustenancePanel.prefab		LAYER_NORMAL	Viết thư Ngân Hạnh Gửi Tình								
+YXJQ_MainPanel	UI/Prefabs/Calendar/GinkgoLovePanel.prefab		LAYER_NORMAL	UI chính Ngân Hạnh Gửi Tình								
+YXJQ_ChooseList	UI/Prefabs/Calendar/GinkgoChoicePanel.prefab		LAYER_NORMAL	Ngân Hạnh Gửi Tình chọn đối tượng			
+DXZRankPanel	UI/Prefabs/BattleField/SnowHonorPanel.prefab		LAYER_NORMAL	Giao diện Vinh Dự Ném Tuyết	1					
+ViewRoleJueXueTip	UI/Prefabs/Skill/LostKnowledgeTip.prefab		LAYER_NORMAL	Tuyệt Học								
+PartnerCardComposePanel	UI/Prefabs/Companion/CompanionGuest/CompanionGuestCallPanel.prefab		LAYER_NORMAL	Giao diện Ghép Môn Khách								
+KinDefendPanel	UI/Prefabs/NewFamily/FamilyDefendingWarJoinPanel.prefab		LAYER_NORMAL	Bảo Vệ Quốc Gia-Bang Hội chọn độ khó	1							
+KinDefendApplyPanel	UI/Prefabs/NewFamily/FamilyDefendingWarApplyPanel.prefab		LAYER_NORMAL	Duyệt xin phép						NormalOpen	NormalClose	1
+KinDefendStatePanel	UI/Prefabs/NewFamily/FamilyDefendingWarStatePanel.prefab		LAYER_NORMAL	Trạng thái								1
+KinDefendSkillPanel	UI/Prefabs/NewFamily/FamilyDefendingWarSkillPanel.prefab		LAYER_NORMAL	Kỹ năng						NormalOpen	NormalClose	1
+ToyReadyPanel	UI/Prefabs/ToyBtnPanel.prefab		LAYER_HOME									

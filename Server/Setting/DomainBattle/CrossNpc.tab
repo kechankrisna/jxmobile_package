@@ -1,0 +1,16 @@
+nMapTemplateId	szMapName	nNpcTemplate	szNpcClass	szNpcName	nX	nY	nDir	szMiniMapSyncKey
+8002	Ngoại Thành	2839	cross_domain_pillar	Long Trụ-Bắc	14861	10191		OCC_Longzhu_B
+8002	Ngoại Thành	2840	cross_domain_pillar	Long Trụ-Trung	13159	7279		OCC_Longzhu_Z
+8002	Ngoại Thành	2841	cross_domain_pillar	Long Trụ-Nam	14863	4967		OCC_Longzhu_N
+8001	Nội Thành	2847	cross_domain_throne	Vương Tọa 	18229	18435	20	OCC_Throne
+8001	Nội Thành	2870	cross_domain_throne_fight	Vương Tọa 	18229	18435	20	OCC_Throne
+8000	Vương Thành	2831	cross_domain_pillar	Long Trụ Thiên Phúc	9481	27218		OCC_Longzhu_TF
+8000	Vương Thành	2832	cross_domain_pillar	Long Trụ Địa Tải	27037	27212		OCC_Longzhu_DZ
+8000	Vương Thành	2833	cross_domain_pillar	Long Trụ Phong Dương 	9470	9614		OCC_Longzhu_FY
+8000	Vương Thành	2834	cross_domain_pillar	Long Trụ Vân Thùy	27035	9632		OCC_Longzhu_YC
+8000	Vương Thành	2835	cross_domain_pillar	Long Trụ Long Phi	14547	22154		OCC_Longzhu_LF
+8000	Vương Thành	2836	cross_domain_pillar	Long Trụ Hổ Dực	21906	22158		OCC_Longzhu_HY
+8000	Vương Thành	2837	cross_domain_pillar	Long Trụ Điểu Tường	14548	14728		OCC_Longzhu_NX
+8000	Vương Thành	2838	cross_domain_pillar	Long Trụ Xà Bàn	21899	14730		OCC_Longzhu_SP
+8000	Vương Thành	2847	cross_domain_throne	Vương Tọa	18229	18435	20	OCC_Throne
+8000	Vương Thành	2870	cross_domain_throne_fight	Vương Tọa	18229	18435	20	OCC_Throne

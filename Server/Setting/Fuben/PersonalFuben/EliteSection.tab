@@ -1,0 +1,58 @@
+nSectionIdx	nSubSectionIdx	nFubenIndex	szTitle	szUiTypeName	szUiAtlas	nType	bFFHideUi
+1	1	1	Tuyết Sơn Cổ Đạo	Fuben6_1	UI/Atlas/Fuben/FubenMap_03.prefab	1	
+1	2	2	Ly Ưu Sơn	Fuben3_1	UI/Atlas/Fuben/FubenMap_01.prefab	1	
+1	3	3	Vô Ưu Cấm Địa	Fuben4_3	UI/Atlas/Fuben/FubenMap_01.prefab	2	
+1	4	4	Ly Ưu Sơn Động	Fuben1_3	UI/Atlas/Fuben/FubenMap_01.prefab	1	
+2	1	5	Hô Khiếu Sơn Đạo	Fuben5_2	UI/Atlas/Fuben/FubenMap_01.prefab	2	
+2	2	6	Tàng Kiếm Sơn Trang	Fuben2_4	UI/Atlas/Fuben/FubenMap_01.prefab	1	
+2	3	7	Vong Ưu Lữ Đạo	Fuben5_3	UI/Atlas/Fuben/FubenMap_03.prefab	3	
+2	4	8	Tâm Ma Trận	Fuben1_1	UI/Atlas/Fuben/FubenMap_01.prefab	1	
+2	5	9	Tàng Kiếm U Cốc	Fuben8_3	UI/Atlas/Fuben/FubenMap_03.prefab	1	
+2	6	10	Kiếm Khí Phong	Fuben1_4	UI/Atlas/Fuben/FubenMap_01.prefab	2	
+3	1	11	Thiên Sơn Cổ Đạo	Fuben4_4	UI/Atlas/Fuben/FubenMap_01.prefab	1	
+3	2	12	Hồng Diệp Cốc	Fuben5_1	UI/Atlas/Fuben/FubenMap_01.prefab	2	
+3	3	13	Lăng Tuyệt Phong	Fuben3_4	UI/Atlas/Fuben/FubenMap_01.prefab	1	
+3	4	14	Vô Ưu Cấm Địa	Fuben6_4	UI/Atlas/Fuben/FubenMap_03.prefab	3	
+3	5	15	Trích Tinh Địa Lao	Fuben3_2	UI/Atlas/Fuben/FubenMap_01.prefab	1	
+3	6	16	Thông Thiên Tháp	Fuben6_2	UI/Atlas/Fuben/FubenMap_03.prefab	1	
+3	7	17	Bi Ma Sơn Trang	Fuben7_3	UI/Atlas/Fuben/FubenMap_03.prefab	2	
+4	1	18	Chân núi Hành Sơn	Fuben5_4	UI/Atlas/Fuben/FubenMap_03.prefab	1	
+4	2	19	Cửu Hầu Động	Fuben7_2	UI/Atlas/Fuben/FubenMap_03.prefab	2	
+4	3	20	Phúc Duyên Trang	Fuben7_1	UI/Atlas/Fuben/FubenMap_03.prefab	1	
+4	4	21	Bích Hà Đảo	Fuben8_3	UI/Atlas/Fuben/FubenMap_03.prefab	3	
+4	5	22	Lâm An Thành Đông	Fuben4_1	UI/Atlas/Fuben/FubenMap_01.prefab	1	
+5	1	23	Võ Di Phái	Fuben5_1	UI/Atlas/Fuben/FubenMap_01.prefab	1	
+5	2	24	Võ Di Cấm Địa	Fuben8_2	UI/Atlas/Fuben/FubenMap_03.prefab	2	
+5	3	25	Lâm An Dịch Đạo	Fuben1_2	UI/Atlas/Fuben/FubenMap_01.prefab	1	
+5	4	26	Ám Ảnh Trúc Lâm	Fuben2_1	UI/Atlas/Fuben/FubenMap_01.prefab	2	
+5	5	27	U Ám Địa Lao	Fuben5_3	UI/Atlas/Fuben/FubenMap_03.prefab	1	
+6	1	28	Ngoài Trường An	Fuben2_4	UI/Atlas/Fuben/FubenMap_01.prefab	3	
+6	2	29	Hoa Sơn Phái	Fuben1_1	UI/Atlas/Fuben/FubenMap_01.prefab	1	
+6	3	30	Thiếu Lâm U Cốc	Fuben4_2	UI/Atlas/Fuben/FubenMap_01.prefab	1	
+6	4	31	Chiến Trường Cổ	Fuben7_1	UI/Atlas/Fuben/FubenMap_03.prefab	2	
+6	5	32	Tiêu Sắt Chiến Trường	Fuben2_1	UI/Atlas/Fuben/FubenMap_01.prefab	1	
+3	8	33	Tu Võ Mật Địa	Fuben2_1	UI/Atlas/Fuben/FubenMap_01.prefab	1	
+7	1	34	Thiên Sơn Thê Đạo	Fuben2_1	UI/Atlas/Fuben/FubenMap_03.prefab	1	
+7	2	35	Mê Cung Động Đình	Fuben5_3	UI/Atlas/Fuben/FubenMap_01.prefab	1	
+7	3	36	Đấu Trường Thiên Vương	Fuben2_4	UI/Atlas/Fuben/FubenMap_01.prefab	1	
+7	4	37	Hang Ngũ Sắc	Fuben1_1	UI/Atlas/Fuben/FubenMap_01.prefab	1	
+7	5	38	Tam Ma Tuyệt Địa	Fuben4_2	UI/Atlas/Fuben/FubenMap_03.prefab	1	
+7	6	39	Bi Khấp Hoang Cốc	Fuben7_1	UI/Atlas/Fuben/FubenMap_01.prefab	1	
+7	7	40	Phượng Hoàng Sơn	Fuben2_1	UI/Atlas/Fuben/FubenMap_01.prefab	1	
+8	1	41	Cuồng Phong Cốc	Fuben2_4	UI/Atlas/Fuben/FubenMap_01.prefab	1	
+8	2	42	Táng Mã Cương	Fuben1_1	UI/Atlas/Fuben/FubenMap_01.prefab	1	
+8	3	43	Phủ Nha Mật Thất	Fuben4_2	UI/Atlas/Fuben/FubenMap_03.prefab	1	
+8	4	44	Phong Tuyết Sơn Trang	Fuben7_1	UI/Atlas/Fuben/FubenMap_01.prefab	1	
+8	5	45	Đường Môn U Kính	Fuben2_1	UI/Atlas/Fuben/FubenMap_01.prefab	1	
+9	1	46	Mê Cung Giữa Hồ	Fuben7_1	UI/Atlas/Fuben/FubenMap_03.prefab	1	
+9	2	47	Tích Lịch Đường	Fuben2_1	UI/Atlas/Fuben/FubenMap_03.prefab	1	
+9	3	48	Phượng Trì Hắc Lao	Fuben2_4	UI/Atlas/Fuben/FubenMap_03.prefab	1	
+9	4	49	Âm Ám Mật Thất	Fuben1_1	UI/Atlas/Fuben/FubenMap_03.prefab	1	
+9	5	50	Thiên Nhẫn Mê Cung	Fuben4_2	UI/Atlas/Fuben/FubenMap_03.prefab	1	
+9	6	51	Thiên Nhẫn Chủ Điện	Fuben7_1	UI/Atlas/Fuben/FubenMap_03.prefab	1	
+500	1	500	Bao Vây Bạch Thủy	Fuben500_1	UI/Atlas/Fuben/FubenMap_01.prefab	1	
+500	2	501	Hồn Trung Nghĩa	Fuben500_2	UI/Atlas/Fuben/FubenMap_01.prefab	1	
+600	1	600	Thủ Tương Dương	Fuben600_1	UI/Atlas/Fuben/FubenMap_01.prefab	1	
+900	1	900	Luyện Công Ngoài Thành	Fuben900_1	UI/Atlas/Fuben/FubenMap_01.prefab	1	
+1000	1	1000	Mật Động Động Thiên	Fuben1000_1	UI/Atlas/Fuben/FubenMap_01.prefab	1	
+1000	2	1001	Mật Động Động Thiên	Fuben1000_1	UI/Atlas/Fuben/FubenMap_01.prefab	1	

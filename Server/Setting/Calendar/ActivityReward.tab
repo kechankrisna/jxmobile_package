@@ -1,0 +1,765 @@
+nId	nLevelMin	nLevelMax	szTimeBegin	szTimeEnd	tbAwardInfo	Desc
+1	1	999			Gold|0	Minh Chủ Võ Lâm: Nguyên Bảo
+1	1	999	OpenLevel179		Item|10376	Minh Chủ Võ Lâm: Mảnh Áo Hiếm T16
+1	1	999	OpenLevel169	OpenLevel179	Item|5825	Minh Chủ Võ Lâm: Mảnh Áo Hiếm T15
+1	1	999	OpenLevel159	OpenLevel169	Item|5824	Minh Chủ Võ Lâm: Mảnh Áo Hiếm T14
+1	1	999	OpenLevel149	OpenLevel159	Item|5823	Minh Chủ Võ Lâm: Mảnh Áo Hiếm T13
+1	1	999	OpenLevel139	OpenLevel149	Item|5822	Minh Chủ Võ Lâm: Mảnh Áo Hiếm T12
+1	1	999	OpenLevel129	OpenLevel139	Item|5821	Minh Chủ Võ Lâm: Mảnh Áo Hiếm T11
+1	1	999	OpenLevel119	OpenLevel129	Item|3679	Minh Chủ Võ Lâm: Mảnh Áo Hiếm T10
+1	1	999	OpenLevel109	OpenLevel119	Item|2981	Minh Chủ Võ Lâm: Mảnh Áo Hiếm T9
+1	1	999	OpenLevel99	OpenLevel109	Item|2980	Minh Chủ Võ Lâm: Mảnh Áo Hiếm T8
+1	1	999	OpenDay188		Item|1396	Minh Chủ Võ Lâm: Hoàng Đế Lệnh
+1	1	999	OpenLevel89		Item|3445	Minh Chủ Võ Lâm: Ngự Thiên Cương (Cương bậc 3) 
+1	1	999	OpenLevel89		Item|3416	Minh Chủ Võ Lâm: Giáng Long Cương (Cương bậc 2) 
+1	1	999	OpenLevel89		Item|2804	Minh Chủ Võ Lâm: Hòa Thị Bích
+1	1	999	OpenLevel149		Item|10014	Minh Chủ Võ Lâm: Tùy Hầu Châu
+1	1	999	OpenLevel89	OpenLevel99	Item|2979	Minh Chủ Võ Lâm: Mảnh Áo Hiếm T7
+1	1	999	OpenLevel139		Item|3552	Minh Chủ Võ Lâm: Đồng Hành Quỷ Cốc Tử
+1	1	999	OpenLevel109		Item|2255	Minh Chủ Võ Lâm: Đồng Hành Đường Giản
+1	1	999	OpenLevel89	OpenLevel109	Item|2254	Minh Chủ Võ Lâm: Đồng Hành Dương Ảnh Phong
+1	1	999	OpenLevel79	OpenLevel89	Item|2253	Minh Chủ Võ Lâm: Đồng Hành Nam Cung Phi
+1	1	999	OpenLevel49	OpenLevel69	Item|1378	Minh Chủ Võ Lâm: Đồng Hành Độc Cô Kiếm
+1	1	999	OpenLevel109		Item|3897	Minh Chủ Võ Lâm: Đá Hồn Đường Giản
+1	1	999	OpenLevel139		Item|9977	Minh Chủ Võ Lâm: Đá Hồn Quỷ Cốc Tử (Âm)
+1	1	999	OpenLevel139		Item|9980	Minh Chủ Võ Lâm: Đá Hồn Quỷ Cốc Tử (Dương)
+1	1	999	OpenLevel89	OpenLevel109	Item|2881	Minh Chủ Võ Lâm: Đá Hồn Dương Ảnh Phong
+1	1	999	OpenLevel79	OpenLevel109	Item|2880	Minh Chủ Võ Lâm: Đá Hồn Nam Cung Phi
+1	1	999	OpenLevel79	OpenLevel109	Item|2668	Minh Chủ Võ Lâm: Đá Hồn Độc Cô Kiếm
+1	1	999	OpenDay399		Item|4310	Minh Chủ Võ Lâm: Kim Thuộc Lv5
+1	1	999	OpenDay224	OpenDay399	Item|4309	Minh Chủ Võ Lâm: Kim Thuộc Lv4
+1	1	999	OpenDay99	OpenDay224	Item|4308	Minh Chủ Võ Lâm: Kim Thuộc Lv3
+1	1	999	OpenLevel69	OpenDay99	Item|4307	Minh Chủ Võ Lâm: Kim Thuộc Lv2
+1	1	999	OpenLevel79	OpenLevel89	Item|1395	Minh Chủ Võ Lâm: Trục Lộc Lệnh
+1	1	999	OpenLevel79	OpenLevel89	Item|2126	Minh Chủ Võ Lâm: Mảnh Áo Hiếm T6
+1	1	999	OpenLevel69	OpenLevel79	Item|2125	Minh Chủ Võ Lâm: Mảnh Áo Hiếm T5
+1	1	999	OpenLevel59	OpenLevel89	Item|1394	Minh Chủ Võ Lâm: Danh Tướng Lệnh
+1	1	999	OpenLevel59	OpenLevel69	Item|2124	Minh Chủ Võ Lâm: Mảnh Áo Hiếm T4
+1	1	999	OpenLevel49	OpenLevel59	Item|1184	Minh Chủ Võ Lâm: Áo Hiếm T3
+1	1	999		OpenLevel49	Item|1183	Minh Chủ Võ Lâm: Áo Hiếm T2
+1	1	999		OpenLevel89	Item|1393	Minh Chủ Võ Lâm: Minh Chủ Lệnh
+1	1	999		OpenLevel89	Contrib|0	Minh Chủ Võ Lâm:  Cống hiến
+2	1	999			SilverBoard|0	Thương Hội; Ngân Sức
+2	1	999			Gold|0	Thương Hội; Nguyên Bảo
+2	1	999			Contrib|0	Thương Hội; Cống hiến
+2	1	59			Item|787	Thương Hội; Tàng Bảo Đồ
+2	60	999			Item|3013	Thương Hội; Bùa Chưa Giám Định
+2	1	999			Item|786	Thương Hội; Rương Hoàng Kim
+2	1	39			Item|1153	Thương Hội; Ngọc Bội Hiếm T2
+2	1	39			Item|1637	Thương Hội; Ngọc Bội Kế Thừa T2
+2	40	49			Item|1154	Thương Hội; Ngọc Bội Hiếm T3
+2	40	49			Item|1638	Thương Hội; Ngọc Bội Kế Thừa T3
+2	50	59			Item|2106	Thương Hội; Mảnh Ngọc Bội Hiếm T4
+2	50	59			Item|2109	Thương Hội; Mảnh Ngọc Bội Kế Thừa T4
+2	60	69			Item|2107	Thương Hội; Mảnh Ngọc Bội Hiếm T5
+2	60	69			Item|2110	Thương Hội; Mảnh Ngọc Bội Kế Thừa T5
+2	70	79			Item|2108	Thương Hội; Mảnh Ngọc Bội Hiếm T6
+2	70	79			Item|2111	Thương Hội; Mảnh Ngọc Bội Kế Thừa T6
+2	80	89			Item|2961	Thương Hội; Mảnh Ngọc Bội Hiếm T7
+2	80	89			Item|2964	Thương Hội; Mảnh Ngọc Bội Kế Thừa T7
+2	90	99			Item|2962	Thương Hội; Mảnh Ngọc Bội Hiếm T8
+2	90	999			Item|4873	Thương Hội; Đá Hồn Tống Thu Thạch-Sơ
+2	90	99			Item|2965	Thương Hội; Mảnh Ngọc Bội Kế Thừa T8
+2	100	109			Item|2963	Thương Hội; Mảnh Ngọc Bội Hiếm T9
+2	100	109			Item|2966	Thương Hội; Mảnh Ngọc Bội Kế Thừa T9
+2	110	119			Item|3673	Thương Hội; Mảnh Ngọc Bội Hiếm T10
+2	110	119			Item|3674	Thương Hội; Mảnh Ngọc Bội Kế Thừa T10
+2	120	129			Item|5791	Thương Hội; Mảnh Ngọc Bội Hiếm T11
+2	120	129			Item|5796	Thương Hội; Mảnh Ngọc Bội Kế Thừa T11
+2	130	139			Item|5792	Thương Hội: Mảnh Ngọc Bội Hiếm T12
+2	130	139			Item|5797	Thương Hội: Mảnh Ngọc Bội Kế Thừa T12
+2	140	149			Item|5793	Thương Hội;Mảnh Ngọc Bội Hiếm T13
+2	140	149			Item|5798	Thương Hội;Mảnh Ngọc Bội Kế Thừa T13
+2	150	159			Item|5794	Thương Hội;Mảnh Ngọc Bội Hiếm T14
+2	150	159			Item|5799	Thương Hội;Mảnh Ngọc Bội Kế Thừa T14
+2	160	169			Item|5795	Thương Hội; Mảnh Ngọc Bội Hiếm T15
+2	160	169			Item|5800	Thương Hội; Mảnh Ngọc Bội Kế Thừa T15
+2	170	179			Item|10346	Thương Hội;Mảnh Ngọc Bội Hiếm T16
+2	170	179			Item|10351	Thương Hội;Mảnh Ngọc Bội Kế Thừa T16
+3	1	999			Gold|0	Chiến Trường: Nguyên Bảo
+3	1	999			Energy|0	Chiến Trường: Nguyên Khí
+3	1	999			Contrib|0	Chiến Trường: Cống hiến
+3	1	999			Item|1346	Chiến Trường: EXP
+3	1	999			Item|1737	Chiến Trường: Đá Hồn Thiệu Hồng Uyên
+3	1	999			Item|1738	Chiến Trường: Đá Hồn Bạch Ngạn Kính
+3	60	999			Item|2535	Chiến Trường: Đá Hồn-Lý Hiển Trung
+3	60	999			Item|2536	Chiến Trường: Đá Hồn-Đồ Đơn Khắc Ninh
+3	80	999			Item|3476	Chiến Trường: Mảnh Bàn Đạp-Cao
+3	1	39			Item|1143	Chiến Trường: Hiếm Nhẫn T2
+3	40	49			Item|1144	Chiến Trường: Hiếm Nhẫn T3
+3	50	59			Item|2100	Chiến Trường: Mảnh Nhẫn Hiếm T4
+3	60	69			Item|2101	Chiến Trường: Mảnh Nhẫn Hiếm T5
+3	70	79			Item|2102	Chiến Trường: Mảnh Nhẫn Hiếm T6
+3	80	89			Item|2955	Chiến Trường: Mảnh Nhẫn Hiếm T7
+3	90	99			Item|2956	Chiến Trường: Mảnh Nhẫn Hiếm T8
+3	100	109			Item|2957	Chiến Trường: Mảnh Nhẫn Hiếm T9
+3	110	119			Item|3671	Chiến Trường: Mảnh Nhẫn Hiếm T10
+3	120	129			Item|5781	Chiến Trường: Mảnh Nhẫn Hiếm T11
+3	130	139			Item|5782	Chiến Trường: Mảnh Nhẫn Hiếm T12
+3	140	149			Item|5783	Chiến Trường: Mảnh Nhẫn Hiếm T13
+3	150	159			Item|5784	Chiến Trường: Mảnh Nhẫn T14 Hiếm
+3	160	169			Item|5785	Chiến Trường: Mảnh Nhẫn Hiếm T15
+3	170	179			Item|10336	Chiến Trường: Mảnh Nhẫn Hiếm T16
+4	1	999			Item|1343	Tàng Bảo Đồ; Đồ Cổ
+4	60	999			Item|4464	Tàng Bảo Đồ; Nguyên Liệu Gia Cụ
+4	1	999			Item|1381	Tàng Bảo Đồ; Thủy Tinh
+4	1	999			Item|786	Tàng Bảo Đồ; Rương Hoàng Kim
+4	1	999			Item|785	Tàng Bảo Đồ; Chìa Hoàng Kim
+4	1	999			Item|792	Tàng Bảo Đồ; Rương Cổ
+4	1	999			Coin|0	Tàng Bảo Đồ; Bạc
+6	1	999			Gold|0	Trừng Ác; Nguyên Bảo
+6	1	999			Contrib|0	Trừng Ác; Cống hiến
+6	1	999			Item|1346	Trừng Ác; EXP
+6	1	39			Item|1669	Trừng Ác; Hộ Uyển Kế Thừa T2
+6	1	39			Item|1193	Trừng Ác; Hộ Uyển Hiếm T2
+6	40	49			Item|1670	Trừng Ác; Hộ Uyển Kế Thừa T3
+6	40	49			Item|1194	Trừng Ác; Hộ Uyển Hiếm T3
+6	50	59			Item|2133	Trừng Ác; Mảnh Hộ Uyển Kế Thừa T4
+6	50	59			Item|2130	Trừng Ác; Mảnh Hộ Uyển Hiếm T4
+6	60	69			Item|2134	Trừng Ác; Mảnh Hộ Uyển Kế Thừa T5
+6	60	69			Item|2131	Trừng Ác; Mảnh Hộ Uyển Hiếm T5
+6	70	79			Item|2135	Trừng Ác; Mảnh Hộ Uyển Kế Thừa T6
+6	70	79			Item|2132	Trừng Ác; Mảnh Hộ Uyển Hiếm T6
+6	80	89			Item|2988	Trừng Ác; Mảnh Hộ Uyển Kế Thừa T7
+6	80	89			Item|2985	Trừng Ác; Mảnh Hộ Uyển Hiếm T7
+6	90	99			Item|2989	Trừng Ác; Mảnh Hộ Uyển Kế Thừa T8
+6	90	99			Item|2986	Trừng Ác; Mảnh Hộ Uyển Hiếm T8
+6	100	109			Item|2990	Trừng Ác; Mảnh Hộ Uyển Kế Thừa T9
+6	100	109			Item|2987	Trừng Ác; Mảnh Hộ Uyển Hiếm T9
+6	110	119			Item|3682	Trừng Ác; Mảnh Hộ Uyển Kế Thừa T10
+6	110	119			Item|3681	Trừng Ác; Mảnh Hộ Uyển Hiếm T10
+6	120	129			Item|5836	Trừng Ác; Mảnh Hộ Uyển Kế Thừa T11
+6	120	129			Item|5831	Trừng Ác; Mảnh Hộ Uyển Hiếm T11
+6	130	139			Item|5832	Trừng Ác: Mảnh Hộ Uyển Kế Thừa T12
+6	130	139			Item|5837	Trừng Ác: Mảnh Hộ Uyển Hiếm T12
+6	140	149			Item|5833	Trừng Ác;Mảnh Hộ Uyển Kế Thừa T13
+6	140	149			Item|5838	Trừng Ác;Mảnh Hộ Uyển Hiếm T13
+6	150	159			Item|5834	Trừng Ác;Mảnh Hộ Uyển T14 Kế Thừa
+6	150	159			Item|5839	Trừng Ác;Mảnh Hộ Uyển T14 Hiếm
+6	160	169			Item|5840	Trừng Ác;Mảnh Hộ Uyển Kế Thừa T15
+6	160	169			Item|5835	Trừng Ác;Mảnh Hộ Uyển Hiếm T15
+6	170	179			Item|10391	Trừng Ác; Mảnh Hộ Uyển Kế Thừa T16
+6	170	179			Item|10386	Trừng Ác; Mảnh Hộ Uyển Hiếm T16
+7	1	999			SilverBoard|0	Bí cảnh tổ đội; Ngân Sức
+7	1	999			Gold|0	Bí cảnh tổ đội; Nguyên Bảo
+7	1	169			Item|1346	Bí cảnh tổ đội; EXP
+7	1	999			Item|2169	Bí cảnh tổ đội; Đá Hồn Lv4 Ngẫu Nhiên
+7	1	999			Item|1381	Bí cảnh tổ đội; Thủy Tinh
+7	1	39			Item|1173	Bí Cảnh Tổ Đội: 【Hiếm】Nón cấp 2
+7	40	49			Item|1174	Bí Cảnh Tổ Đội: 【Hiếm】Nón cấp 3 
+7	50	59			Item|1175	Bí Cảnh Tổ Đội: 【Hiếm】Nón cấp 4
+7	60	69			Item|1176	Bí Cảnh Tổ Đội: 【Hiếm】Nón cấp 5
+7	70	79			Item|1177	Bí Cảnh Tổ Đội: 【Hiếm】Nón cấp 6
+7	80	89			Item|1178	Bí Cảnh Tổ Đội: 【Hiếm】Nón cấp 7
+7	90	99			Item|1179	Bí Cảnh Tổ Đội:【Hiếm】Nón Lv8
+7	100	109			Item|1180	Bí Cảnh Tổ Đội: 【Hiếm】Nón Bậc 9
+7	110	119			Item|1181	Bí Cảnh Tổ Đội: 【Hiếm】Nón Bậc 10
+7	120	129			Item|5611	Bí Cảnh Tổ Đội: 【Hiếm】Nón Lv11
+7	130	139			Item|5612	Bí Cảnh Tổ Đội: 【Hiếm】Nón Lv12
+7	140	149			Item|5613	Bí Cảnh Tổ Đội:【Hiếm】Nón Lv13
+7	150	159			Item|5614	Bí Cảnh Tổ Đội:【Hiếm】Nón Lv14
+7	160	169			Item|5615	Bí Cảnh Tổ Đội:【Hiếm】Nón Lv15
+7	170	179			Item|10366	Bí Cảnh Tổ Đội: Nón【Hiếm】Lv16
+7	1	39			Item|1709	Bí cảnh tổ đội; Đá Hồn Trác Phi Phàm-Sơ
+7	1	39			Item|1710	Bí Cảnh Tổ Đội; Đá Hồn Nguyệt Minh Dao-Sơ
+7	1	39			Item|2237	Bí Cảnh Tổ Đội: Nguyệt Minh Dao
+7	1	39			Item|2195	Bí cảnh tổ đội: Tử Hiên
+7	1	39			Item|2200	Bí cảnh tổ đội: Tường Vi
+7	1	39			Item|2205	Bí cảnh tổ đội: Trác Phi Phàm
+7	40	59			Item|1721	Bí cảnh tổ đội; Đá Hồn Trương Lâm Tâm-Sơ
+7	40	59			Item|1722	Bí Cảnh Tổ Đội; Đá Hồn Phong Ngọc Thư -Sơ
+7	40	59			Item|2238	Bí Cảnh Tổ Đội; Phong Ngọc Thư
+7	40	59			Item|2201	Bí cảnh tổ đội: Trương Như Mộng
+7	40	59			Item|2194	Bí cảnh tổ đội: Nam Cung Thái Hồng
+7	40	59			Item|2204	Bí cảnh tổ đội: Trương Lâm Tâm
+7	60	79			Item|1768	Bí cảnh tổ đội; Đá Hồn Nam Cung Diệt-Sơ
+7	60	79			Item|1729	Bí Cảnh Tổ Đội; Đá Hồn Khúc Hà-Sơ
+7	60	79			Item|2239	Bí Cảnh Tổ Đội: Khúc Hà
+7	60	79			Item|2213	Bí cảnh tổ đội: Trương Phong
+7	60	79			Item|2219	Bí cảnh tổ đội: Phương Miễn
+7	60	79			Item|2217	Bí cảnh tổ đội: Nam Cung Diệt
+7	80	99			Item|1770	Bí Cảnh Tổ Đội; Đá Hồn Thu Y Thủy-Sơ
+7	80	99			Item|1763	Bí Cảnh Tổ Đội; Đá Hồn Yên Nhược Tuyết-Sơ
+7	80	99			Item|2265	Bí Cảnh Tổ Đội: Gia Luật Tị Li
+7	80	99			Item|2262	Bí Cảnh Tổ Đội: Đường Ảnh
+7	80	99			Item|2263	Bí Cảnh Tổ Đội: Thu Y Thủy
+7	80	99			Item|2214	Bí Cảnh Tổ Đội: Yên Nhược Tuyết
+7	100	119			Item|3855	Bí Cảnh Tổ Đội; Đá Hồn Hà Nhân Ngã-Sơ
+7	100	119			Item|3373	Bí Cảnh Tổ Đội; Đá Hồn Huyền Thiên Đạo Nhân-Sơ
+7	120	179			Item|4874	Bí Cảnh Tổ Đội; Đá Hồn Cổ Yên Nhiên-Sơ
+7	120	179			Item|5433	Bí Cảnh Tổ Đội; Đá Hồn Thạch Hiên Viên-Sơ
+8	1	100			Item|786	Tìm kiếm; Rương Hoàng Kim
+8	1	100			Item|785	Tìm kiếm; Chìa Hoàng Kim
+8	1	100			Item|1234	Tìm kiếm; Hoa Hồng
+8	1	100			Item|1235	Tìm kiếm; Cỏ May Mắn
+8	1	100			Item|787	Tìm kiếm; Tàng Bảo Đồ
+8	1	100			Coin|0	Tìm kiếm; Bạc
+9	1	999			Gold|0	Võ Thần Điện: Nguyên Bảo
+9	1	999			Energy|0	Võ Thần Điện: Nguyên Khí
+9	1	999			Contrib|0	Võ Thần Điện: Cống hiến
+9	110	999	OpenDay399		Item|4325	Võ Thần Điện: Đá Lv5
+9	90	999	OpenDay224		Item|4324	Võ Thần Điện: Đá Lv4
+9	70	999	OpenDay99		Item|4323	Võ Thần Điện: Đá Lv3
+9	60	999	OpenLevel69		Item|4322	Võ Thần Điện: Đá Lv2
+9	60	999			Item|2528	Võ Thần Điện: Đá Hồn Dương Anh
+9	1	999			Item|1731	Võ Thần Điện: Đá Hồn Dương Thiết Tâm
+9	170	179			Item|10326	Võ Thần Điện: Mảnh Dây Chuyền Hiếm T16
+9	160	169			Item|5775	Võ Thần Điện: Mảnh Dây Chuyền Hiếm T15
+9	160	169			Item|5780	Võ Thần Điện: Mảnh Dây Chuyền Kế Thừa T15
+9	150	159			Item|5774	Võ Thần Điện: Mảnh Dây Chuyền Hiếm T14
+9	150	159			Item|5779	Võ Thần Điện: Mảnh Dây Chuyền Kế Thừa T14
+9	140	149			Item|5773	Võ Thần Điện: Mảnh Dây Chuyền Hiếm T13
+9	140	149			Item|5778	Võ Thần Điện: Mảnh Dây Chuyền Kế Thừa T13
+9	130	139			Item|5772	Võ Thần Điện: Mảnh Dây Chuyền Hiếm T12
+9	130	139			Item|5777	Võ Thần Điện: Mảnh Dây Chuyền Kế Thừa T12
+9	120	129			Item|5771	Võ Thần Điện: Mảnh Dây Chuyền Hiếm T11
+9	120	129			Item|5776	Võ Thần Điện: Mảnh Dây Chuyền Kế Thừa T11
+9	110	119			Item|3669	Võ Thần Điện: Mảnh Dây Chuyền Hiếm T10
+9	110	119			Item|3670	Võ Thần Điện: Mảnh Dây Chuyền Kế Thừa T10
+9	100	109			Item|2951	Võ Thần Điện: Mảnh Dây Chuyền Hiếm T9
+9	100	109			Item|2954	Võ Thần Điện: Mảnh Dây Chuyền Kế Thừa T9
+9	90	99			Item|2950	Võ Thần Điện: Mảnh Dây Chuyền Hiếm T8
+9	90	99			Item|2953	Võ Thần Điện: Mảnh Dây Chuyền Kế Thừa T8
+9	80	89			Item|2949	Võ Thần Điện: Mảnh Dây Chuyền Hiếm T7
+9	80	89			Item|2952	Võ Thần Điện: Mảnh Dây Chuyền Kế Thừa T7
+9	70	79			Item|2096	Võ Thần Điện: Mảnh Dây Chuyền Hiếm T6
+9	70	79			Item|2099	Võ Thần Điện: Mảnh Dây Chuyền Kế Thừa T6
+9	60	69			Item|2095	Võ Thần Điện: Mảnh Dây Chuyền Hiếm T5
+9	60	69			Item|2098	Võ Thần Điện: Mảnh Dây Chuyền Kế Thừa T5
+9	50	59			Item|2094	Võ Thần Điện: Mảnh Dây Chuyền Hiếm T4
+9	50	59			Item|2097	Võ Thần Điện: Mảnh Dây Chuyền Kế Thừa T4
+9	40	49			Item|1134	Võ Thần Điện: Dây Chuyền Hiếm T3
+9	40	49			Item|1622	Võ Thần Điện: Dây Chuyền Kế Thừa T3
+9	1	39			Item|1133	Võ Thần Điện: Dây Chuyền Hiếm T2
+9	1	39			Item|1621	Võ Thần Điện: Dây Chuyền Kế Thừa T2
+10	1	999			SilverBoard|0	Lăng Tuyệt Phong; Ngân Sức
+10	1	999			Gold|0	Lăng Tuyệt Phong; Nguyên Bảo
+10	1	999			Item|1346	Lăng Tuyệt Phong; EXP
+10	1	999			Item|2169	Lăng Tuyệt Phong; Đá Hồn Lv4 Ngẫu Nhiên
+10	1	999			Item|1384	Lăng Tuyệt Phong: Đồng Hành S
+10	1	999			Item|1383	Lăng Tuyệt Phong: Đồng Hành A
+10	1	999			Item|1382	Lăng Tuyệt Phong: Đồng Hành B
+11	1	999			Gold|0	Quần Anh Hội: Nguyên Bảo
+11	1	999			ZhenQi|0	Quần Anh Hội: Chân Khí
+11	1	999			Energy|0	Quần Anh Hội: Nguyên Khí
+11	1	999			Contrib|0	Quần Anh Hội: Cống Hiến
+11	1	999			Coin|0	Quần Anh Hội: Bạc
+11	1	999			Item|7374	Quần Anh Hội: Đá Hồn Hà Linh Phiêu-Sơ
+11	1	999			Item|6067	Quần Anh Hội: Đá Hồn Diệp Thanh Dương-Sơ
+11	1	999			Item|6149	Quần Anh Hội: Xung Huyệt Nhâm Mạch
+11	1	999			Item|6150	Quần Anh Hội: Xung Huyệt Đốc Mạch
+11	1	999			Item|6276	Quần Anh Hội: Xung Huyệt Xung Mạch
+11	1	999			ZhenQi|0	Quần Anh Hội: Chân Khí
+12	1	999			Item|10007	Danh Tướng: Bạch Kim Đồ Phổ (Đai)
+12	1	999			Item|10008	Danh Tướng: Bạch Kim Đồ Phổ (Hộ Uyển)
+12	1	999			Item|9398	Danh Tướng: Đá Hồn Lâm Thanh Vũ-Sơ
+12	1	999			Item|9401	Danh Tướng: Đá Hồn Mạnh Thương Lam-Sơ
+12	1	999			Item|10128	Danh Tướng: Đá Hồn Hoàn Nhan Tông Hàn-Sơ
+12	1	999			Item|10149	Danh Tướng: Đá Hồn Diệp Vô Tâm-Sơ
+12	1	999			Item|10475	Danh Tướng: Đá Hồn Thanh Vân-Sơ
+12	1	999	OpenDay353		Item|4605	Danh Tướng: Đồng Hành SSS
+12	1	999	OpenDay353		Item|3543	Danh Tướng: Hạng Vũ-Bá Vương Kích
+12	1	999		OpenLevel69	Item|1124	Danh Tướng: Vũ Khí T3
+12	1	999		OpenLevel69	Item|1125	Danh Tướng: Vũ Khí T4
+12	1	999	OpenLevel69	OpenLevel79	Item|1126	Danh Tướng: Vũ Khí T5
+12	1	999	OpenLevel79	OpenLevel89	Item|1127	Danh Tướng: Vũ Khí T6
+12	1	999	OpenLevel89	OpenLevel99	Item|1128	Danh Tướng: Vũ Khí T7
+12	1	999	OpenLevel99	OpenLevel109	Item|1129	Danh Tướng: Vũ Khí T8
+12	1	999	OpenLevel109	OpenLevel119	Item|1130	Danh Tướng: Vũ Khí T9
+12	1	999	OpenLevel119	OpenLevel129	Item|1131	Danh Tướng: Vũ Khí T10
+12	1	999	OpenLevel129	OpenLevel139	Item|5561	Danh Tướng: Vũ Khí T11
+12	1	999	OpenLevel139	OpenLevel149	Item|5562	Danh Tướng: Vũ Khí T12
+12	1	999	OpenLevel149	OpenLevel159	Item|5563	Danh Tướng: Vũ Khí T13
+12	1	999	OpenLevel159	OpenLevel169	Item|5564	Danh Tướng: Vũ Khí T14
+12	1	999	OpenLevel169	OpenLevel179	Item|5565	Danh Tướng: Vũ Khí T15
+12	1	999	OpenLevel179		Item|5566	Danh Tướng: Vũ Khí T16
+12	1	999	OpenLevel69	OpenDay224	Item|4317	Danh Tướng: Da Lv2
+12	1	999	OpenDay99	OpenDay399	Item|4318	Danh Tướng: Da Lv3
+12	1	999	OpenDay224		Item|4319	Danh Tướng: Da Lv4
+12	1	999	OpenDay399		Item|4320	Danh Tướng: Da Lv5
+13	1	999			SilverBoard|0	Thủ Lĩnh Dã Ngoại: Ngân Sức
+13	1	999			Gold|0	Thủ Lĩnh Dã Ngoại: Nguyên Bảo
+13	1	999			Contrib|0	Thủ Lĩnh Dã Ngoại: Cống hiến
+13	1	999	OpenLevel129		ZhenQi|0	Thủ Lĩnh Dã Ngoại: Chân Khí
+13	1	999	OpenLevel129		Item|2804	Thủ Lĩnh Dã Ngoại: Hòa Thị Bích
+13	1	999	OpenLevel129		Item|7429	Thủ Lĩnh Dã Ngoại: Đá Hồn Long Văn Sư Vương-Sơ
+13	1	999	OpenLevel129		Item|7432	Thủ Lĩnh Dã Ngoại: Đá Hồn Cự Ngao Phong Hậu-Sơ
+13	1	999	OpenLevel149		Item|10127	Thủ Lĩnh Dã Ngoại: Đá Hồn Vạn Độc Cúc Hoàng-Sơ
+13	1	999	OpenLevel149		Item|10126	Thủ Lĩnh Dã Ngoại: Đá Hồn Huyền Băng Điêu Hoàng-Sơ
+13	1	999		OpenDay35	Item|1406	Thủ Lĩnh Dã Ngoại: Hàn Ngọc Lộc Vương
+13	1	999		OpenDay35	Item|1407	Thủ Lĩnh Dã Ngoại: Đại Địa Lang Vương
+13	1	999		OpenDay35	Item|2221	Thủ Lĩnh Dã Ngoại: Bạch Mi Hầu Vương
+13	1	999	OpenDay6	OpenDay116	Item|1409	Thủ Lĩnh Dã Ngoại: Bôn Diệm Báo Vương
+13	1	999	OpenDay6	OpenDay116	Item|1408	Thủ Lĩnh Dã Ngoại: Cửu Vĩ Hồ Vương
+13	1	999	OpenDay6	OpenDay116	Item|2222	Thủ Lĩnh Dã Ngoại: Song Thủ Dị Thú
+13	1	999	OpenDay35	OpenDay251	Item|1403	Thủ Lĩnh Dã Ngoại: Định Hải Kim Cang
+13	1	999	OpenDay35	OpenDay251	Item|1402	Thủ Lĩnh Dã Ngoại: Kim Sí Bằng Hoàng
+13	1	999	OpenDay35	OpenDay251	Item|2511	Thủ Lĩnh Dã Ngoại: Ngân Giác Tê Hoàng
+13	1	999	OpenDay116	OpenLevel129	Item|1404	Thủ Lĩnh Dã Ngoại: Hám Thiên Hùng Hoàng
+13	1	999	OpenDay116	OpenLevel129	Item|1405	Thủ Lĩnh Dã Ngoại: Xích Tinh Hổ Hoàng
+13	1	999	OpenDay116	OpenLevel129	Item|2260	Thủ Lĩnh Dã Ngoại: Tử Bối Ngạc Hoàng
+13	1	999	OpenDay251		Item|4576	Thủ Lĩnh Dã Ngoại: Băng Lân Tích Hoàng
+13	1	999	OpenDay251		Item|4577	Thủ Lĩnh Dã Ngoại: Ngân Câu Hạt Hoàng
+13	1	999	OpenDay251		Item|4578	Thủ Lĩnh Dã Ngoại: Cuồng Tông Ngao Hoàng
+13	1	999			Item|2240	Thủ Lĩnh Dã Ngoại: Hộ Thân Phù Hiếm
+14	1	100			Item|787	Vấn Đáp: Tàng Bảo Đồ
+14	1	100			Item|1346	Vấn Đáp: EXP
+15	1	999			Item|1346	Truyền Công; EXP
+15	1	999			Contrib|0	Truyền Công; Cống hiến
+18	1	999			SilverBoard|0	Lửa Trại Bang Hội; Ngân Sức
+18	1	999			Gold|0	Lửa Trại Bang Hội; Nguyên Bảo
+18	1	999			Contrib|0	Lửa Trại Bang Hội; Cống hiến
+18	1	999			Item|1346	Lửa Trại Bang Hội;  EXP
+18	1	999			Item|10014	Lửa Trại Bang Hội;  Tùy Hầu Châu
+18	1	999			Item|2169	Lửa Trại Bang Hội;  Đá Hồn Lv4 Ngẫu Nhiên
+18	1	999			Item|2424	Lửa Trại Bang Hội;  Tín Vật Môn Phái
+18	1	999			Item|1307	Lửa Trại Bang Hội;  Rương Bang Hội
+21	1	999			Gold|0	Sơn Tặc Mật Quật: Nguyên Bảo
+21	1	999			Item|1346	Sơn Tặc Mật Quật: EXP
+21	90	999			Item|4874	Sơn Tặc Mật Quật: Đá Hồn Cổ Yên Nhiên-Sơ
+21	1	79			Item|222	Sơn Tặc Mật Quật: Thủy Tinh Lục
+21	80	999			Item|223	Sơn Tặc Mật Quật: Thủy Tinh Lam
+21	40	999			Item|3079	Sơn Tặc Mật Quật: Tín Vật Sơn Tặc
+21	60	999			Item|787	Sơn Tặc Mật Quật: Tàng Bảo Đồ
+23	1	999			SilverBoard|0	Khiêu Chiến Anh Hùng: Ngân Sức
+23	1	999			Gold|0	Khiêu Chiến Anh Hùng: Nguyên Bảo
+23	1	999			Item|1346	Khiêu Chiến Anh Hùng: EXP
+23	1	39			Item|1203	Khiêu Chiến Anh Hùng: Đai Hiếm T2
+23	1	39			Item|1677	Khiêu Chiến Anh Hùng: Đai Kế Thừa T2
+23	40	49			Item|1204	Khiêu Chiến Anh Hùng: Đai Hiếm T3
+23	40	49			Item|1678	Khiêu Chiến Anh Hùng: Đai Kế Thừa T3
+23	50	59			Item|2136	Khiêu Chiến Anh Hùng: Mảnh Đai Hiếm T4
+23	50	59			Item|1679	Khiêu Chiến Anh Hùng: Đai Kế Thừa T4
+23	60	69			Item|2137	Khiêu Chiến Anh Hùng: Mảnh Đai Hiếm T5
+23	60	69			Item|2140	Khiêu Chiến Anh Hùng: Mảnh Đai Kế Thừa T5
+23	70	79			Item|2138	Khiêu Chiến Anh Hùng: Mảnh Đai Hiếm T6
+23	70	79			Item|2141	Khiêu Chiến Anh Hùng: Mảnh Đai Kế Thừa T6
+23	80	89			Item|2991	Khiêu Chiến Anh Hùng: Mảnh Đai Hiếm T7
+23	80	89			Item|2994	Khiêu Chiến Anh Hùng: Mảnh Đai Kế Thừa T7
+23	90	99			Item|2992	Khiêu Chiến Anh Hùng: Mảnh Đai Hiếm T8
+23	90	99			Item|2995	Khiêu Chiến Anh Hùng: Mảnh Đai Kế Thừa T8
+23	100	109			Item|2993	Khiêu Chiến Anh Hùng: Mảnh Đai Hiếm T9
+23	100	109			Item|2996	Khiêu Chiến Anh Hùng: Mảnh Đai Kế Thừa T9
+23	110	119			Item|3683	Khiêu Chiến Anh Hùng: Mảnh Đai Hiếm T10
+23	110	119			Item|3684	Khiêu Chiến Anh Hùng: Mảnh Đai Kế Thừa T10
+23	120	129			Item|5841	Khiêu Chiến Anh Hùng: Mảnh Đai Hiếm T11
+23	120	129			Item|5846	Khiêu Chiến Anh Hùng: Mảnh Đai Kế Thừa T11
+23	130	139			Item|5842	Khiêu Chiến Anh Hùng: Mảnh Đai Hiếm T12
+23	130	139			Item|5847	Khiêu Chiến Anh Hùng: Mảnh Đai Kế Thừa T12
+23	140	149			Item|5843	Khiêu Chiến Anh Hùng: Mảnh Đai Hiếm T13
+23	140	149			Item|5848	Khiêu Chiến Anh Hùng: Mảnh Đai Kế Thừa T13
+23	150	159			Item|5844	Khiêu Chiến Anh Hùng: Mảnh Đai Hiếm T14
+23	150	159			Item|5849	Khiêu Chiến Anh Hùng: Mảnh Đai Kế Thừa T14
+23	160	169			Item|5845	Khiêu Chiến Anh Hùng: Mảnh Đai Hiếm T15
+23	160	169			Item|5850	Khiêu Chiến Anh Hùng: Mảnh Đai Kế Thừa T15
+23	170	179			Item|10396	Khiêu Chiến Anh Hùng: Mảnh Đai Hiếm T16
+23	170	179			Item|10401	Khiêu Chiến Anh Hùng: Mảnh Đai Kế Thừa T16
+23	1	999			Item|1733	Khiêu Chiến Anh Hùng: Đá Liễu Tiêu Đình
+23	60	999			Item|2530	Khiêu Chiến Anh Hùng: Đá Hồn-Chúc Tử Hư
+24	1	999			Contrib|0	
+25	1	999			Gold|0	Bạch Hổ Đường: Nguyên Bảo
+25	1	999			Energy|0	Bạch Hổ Đường: Nguyên Khí
+25	1	999			Contrib|0	Bạch Hổ Đường: Cống hiến
+25	1	999			Item|2804	Bạch Hổ Đường: Hòa Thị Bích
+25	1	999			Item|10491	Tuyệt Học-Huy Duệ Sinh Phong-Gốc
+25	1	999			Item|10490	Tuyệt Học-Phong Hổ Vân Long-Gốc
+25	80	999	OpenLevel109		Item|1526	Bạch Hổ Đường: Cao-Phụ Ma Thạch
+25	80	999	OpenLevel109		Item|4849	Bạch Hổ Đường: Đá Hồn Đường Hiểu
+25	80	999			Item|3022	Bạch Hổ Đường: Đá Hồn-Lôi
+25	80	999			Item|2161	Bạch Hổ Đường: Sách Đồng Hành Lv5
+25	80	999			Item|2160	Bạch Hổ Đường: Sách Đồng Hành Lv4
+25	80	999			Item|788	Bạch Hổ Đường: Tàng Bảo Đồ-Cao
+25	1	999			Item|1392	Bạch Hổ Đường: Phụ Ma Thạch Lv2
+25	1	79			Item|1740	Bạch Hổ Đường: Đá Lôi Phong
+25	1	79			Item|1741	Bạch Hổ Đường: Đá Lôi Đồng
+25	1	79			Item|1742	Bạch Hổ Đường: Đá Đường Quyên Quyên
+25	1	79			Item|1743	Bạch Hổ Đường: Đá Lôi Chấn Thiên
+25	1	999			Item|1381	Bạch Hổ Đường: Thủy Tinh
+26	1	999			Gold|0	Thông Thiên Tháp: Nguyên Bảo
+26	1	999			Contrib|0	Thông Thiên Tháp: Cống hiến
+26	1	999			Item|1346	Thông Thiên Tháp: EXP
+26	1	999			Item|2169	Thông Thiên Tháp: Đá Hồn Lv4 Ngẫu Nhiên
+26	1	39			Item|1213	Thông Thiên Tháp: Giày Hiếm T2
+26	40	49			Item|1214	Thông Thiên Tháp: Giày Hiếm T3
+26	50	59			Item|2142	Thông Thiên Tháp: Mảnh Giày Hiếm T4
+26	60	69			Item|2143	Thông Thiên Tháp: Mảnh Giày Hiếm T5
+26	70	79			Item|2144	Thông Thiên Tháp: Mảnh Giày Hiếm T6
+26	80	89			Item|2997	Thông Thiên Tháp: Mảnh Giày Hiếm T7
+26	90	99			Item|2998	Thông Thiên Tháp: Mảnh Giày Hiếm T8
+26	100	109			Item|2999	Thông Thiên Tháp: Mảnh Giày Hiếm T9
+26	110	119			Item|3685	Thông Thiên Tháp: Mảnh Giày Hiếm T10
+26	120	129			Item|5851	Thông Thiên Tháp: Mảnh Giày Hiếm T11
+26	130	139			Item|5852	Thông Thiên Tháp: Mảnh Giày Hiếm T12
+26	140	149			Item|5853	Thông Thiên Tháp: Mảnh Giày Hiếm T13
+26	150	159			Item|5854	Thông Thiên Tháp: T14 Mảnh Giày Hiếm
+26	160	169			Item|5855	Thông Thiên Tháp: Mảnh Giày Hiếm T15
+26	170	179			Item|10406	Thông Thiên Tháp: Mảnh Giày Hiếm T16
+26	1	119			Item|1736	Thông Thiên Tháp: Đá Hồn Hoàn Nhan Tương-Sơ
+26	60	999			Item|2533	Thông Thiên Tháp: Đá Hồn Đoan Mộc Duệ-Sơ
+26	100	999			Item|6100	Thông Thiên Tháp: Đá Hồn Tiêu Ngọc Trúc-Sơ
+26	120	999			Item|9971	Thông Thiên Tháp: Đá Hồn Phong Hành Chu-Sơ
+27	1	999			Gold|0	Thi Đấu Môn Phái: Nguyên Bảo
+27	1	999			Item|1346	Thi Đấu Môn Phái: EXP
+27	1	999			Item|1713	Thi Đấu Môn Phái: Đá Hồn Tiểu Ảnh Phong
+27	60	999			Item|2534	Thi Đấu Môn Phái: Đá Hồn Mạnh Tri Thu
+27	1	999			Item|2424	Thi Đấu Môn Phái: Tín Vật Môn Phái
+27	1	999			Contrib|0	Thi Đấu Môn Phái: Cống hiến phái
+27	70	999			Item|6149	Thi Đấu Môn Phái: Bí Quyển Huyệt Nhâm Mạch-Khúc Cốt
+27	60	89			Item|4321	Thi Đấu Môn Phái: Đá Lv1
+27	60	89			Item|4301	Thi Đấu Môn Phái: Lụa Lv1
+27	60	89			Item|4306	Thi Đấu Môn Phái: Kim Loại Lv1
+27	60	89			Item|4316	Thi Đấu Môn Phái: Da Lv1
+27	60	89			Item|4311	Thi Đấu Môn Phái: Đá Lv1
+27	90	110			Item|4302	Thi Đấu Môn Phái: Lụa Lv2
+27	90	110			Item|4307	Thi Đấu Môn Phái: Kim Loại Lv2
+27	90	110			Item|4317	Thi Đấu Môn Phái: Da Lv2
+27	90	110			Item|4312	Thi Đấu Môn Phái: Đá Lv2
+27	110	999			Item|4303	Thi Đấu Môn Phái: Lụa Lv3
+27	110	999			Item|4308	Thi Đấu Môn Phái: Kim Loại Lv3
+27	110	999			Item|4318	Thi Đấu Môn Phái: Da Lv3
+27	110	999			Item|4313	Thi Đấu Môn Phái: Đá Lv3
+28	1	999			SilverBoard|0	Vận Tiêu Bang Hội: Ngân Sức
+28	1	999			Gold|0	Vận Tiêu Bang Hội: Nguyên Bảo
+28	1	999			Item|1346	Vận Tiêu Bang Hội: EXP
+28	1	999			Contrib|0	
+28	1	999			Coin|0	
+28	1	999			Item|1969	Vận Tiêu Bang Hội: Tư Chất Đơn
+29	1	999			Item|1346	Luyện Công Ngoài Thành: EXP
+30	1	999			Gold|0	Thí Luyện Bang Hội: Nguyên Bảo
+30	1	999			Contrib|0	Thí Luyện Bang Hội: Cống Hiến
+30	1	999			Item|2424	Thí Luyện Bang Hội: Tín Vật Môn Phái
+30	1	999			Item|1968	Thí Luyện Bang Hội: Tư Chất Đơn
+30	1	999			Item|1734	Thí Luyện Bang Hội: Lý Điềm Nhi
+30	1	999	OpenLevel69	OpenLevel99	Item|4312	Thí Luyện Bang Hội: Ngọc Lv2
+30	1	999	OpenDay99	OpenDay399	Item|4313	Thí Luyện Bang Hội: Ngọc Lv3
+30	1	999	OpenDay224		Item|4314	Thí Luyện Bang Hội: Ngọc Lv4
+30	1	999	OpenDay399		Item|4315	Thí Luyện Bang Hội: Ngọc Lv5
+31	1	999			Item|1346	Thí Luyện Giang Hồ: EXP
+31	1	999			Item|2154	Thí Luyện Giang Hồ: Đá Hồn ngẫu nhiên
+33	20	999	OpenDay279		Item|4056	Công Thành Chiến: Đồng Hành-Hoàn Nhan Hồng Liệt
+33	20	999	OpenDay279		Item|4057	Công Thành Chiến: Hoàn Nhan Hồng Liệt-Vũ Khí Bổn Mạng
+33	20	999	OpenLevel69		Item|10004	Công Thành Chiến: Bạch Kim Đồ Phổ (Vũ Khí)
+33	20	999	OpenLevel69		Item|10005	Công Thành Chiến: Bạch Kim Đồ Phổ (Áo)
+33	20	999	OpenLevel69		Item|10006	Công Thành Chiến: Bạch Kim Đồ Phổ (Nón)
+33	20	999		OpenLevel79	Item|1394	Công Thành Chiến: Danh Tướng Lệnh
+33	20	999	OpenLevel69	OpenLevel99	Item|1395	Công Thành Chiến: Trục Lộc Lệnh
+33	20	999	OpenLevel89		Item|1396	Công Thành Chiến: Hoàng Đế Lệnh
+33	20	999	OpenDay279		Item|7394	Công Thành Chiến: Nguyên Khí
+33	20	999			Item|2400	Công Thành Chiến :Ô Vân Đạp Tuyết
+33	20	999	OpenLevel79	OpenLevel89	Item|7387	Công Thành Chiến: Chân Nguyên Bậc 2
+33	20	999	OpenLevel89	OpenLevel99	Item|7388	Công Thành Chiến: Chân Nguyên Bậc 3
+33	20	999	OpenLevel99	OpenLevel109	Item|7389	Công Thành Chiến: Chân Nguyên Bậc 4
+33	20	999	OpenLevel109	OpenLevel119	Item|7390	Công Thành Chiến: Chân Nguyên Bậc 5
+33	20	999	OpenLevel119	OpenLevel129	Item|7391	Công Thành Chiến: Chân Nguyên Bậc 6
+33	20	999	OpenLevel69	OpenLevel99	Item|4302	Công Thành Chiến: Tơ Lụa Lv2
+33	20	999	OpenDay99	OpenDay224	Item|4303	Công Thành Chiến: Tơ Lụa Lv3
+33	20	999	OpenDay224	OpenDay399	Item|4304	Công Thành Chiến: Tơ Lụa Lv4
+33	20	999	OpenDay399		Item|4305	Công Thành Chiến: Tơ Lụa Lv5
+33	20	999	OpenLevel69	OpenLevel99	Item|4312	Công Thành Chiến: Ngọc Lv2
+33	20	999	OpenDay99	OpenDay224	Item|4313	Công Thành Chiến: Ngọc Lv3
+33	20	999	OpenDay224	OpenDay399	Item|4314	Công Thành Chiến: Ngọc Lv4
+33	20	999	OpenDay399		Item|4315	Công Thành Chiến: Ngọc Lv5
+33	20	999	OpenDay279		Item|4053	Công Thành Chiến: Đá Hồn Hoàn Nhan Hồng Liệt-Chân
+33	20	999	OpenLevel69	OpenLevel129	Item|2696	Công Thành Chiến: Đá Hồn Hoàn Nhan Hồng Liệt
+33	20	999		OpenLevel129	Item|1739	Công Thành Chiến: Đá Hồn Gia Luật Sở Tài
+33	20	999	OpenLevel129		Item|7377	Công Thành Chiến: Đá Hồn Ngu Doãn Văn
+33	20	999	OpenLevel129		Item|7741	Công Thành Chiến: Đá Hồn Không Tướng
+33	20	999			Contrib|0	Công Thành Chiến: Cống hiến
+34	30	999			SilverBoard|0	Hoạt động Thu Thập Lăng Tuyệt Phong: Ngân Sức
+34	30	999			Gold|0	Hoạt động Thu Thập Lăng Tuyệt Phong: Nguyên Bảo
+34	30	999			Item|227	Hoạt động Thu Thập Lăng Tuyệt Phong: Thủy Tinh Vàng
+34	30	999			Item|225	Hoạt động Thu Thập Lăng Tuyệt Phong: Thủy Tinh Cam
+34	30	999			Item|224	Hoạt động Thu Thập Lăng Tuyệt Phong: Thủy Tinh Tím
+34	30	999			Item|223	Hoạt động Thu Thập Lăng Tuyệt Phong: Thủy Tinh Lam
+35	1	999			Gold|0	Hoa Sơn Luận Kiếm: Nguyên Bảo
+35	1	999			Energy|0	Hoa Sơn Luận Kiếm: Nguyên Khí
+35	1	999			Contrib|0	Hoa Sơn Luận Kiếm: Cống hiến
+35	1	999	OpenLevel109		Item|6068	Hoa Sơn Luận Kiếm: Đá Hồn Băng Nghi
+35	1	999			Item|2532	Hoa Sơn Luận Kiếm: Đá Hồn Đạo Nhất Chân Nhân
+35	1	999		OpenLevel109	Item|1735	Hoa Sơn Luận Kiếm: Đá Hồn Lý Thiên Mục
+35	1	999		OpenLevel109	Item|1431	Hoa Sơn Luận Kiếm: Bí Kíp Võ Lâm-Trung
+35	1	999	OpenLevel129		Item|7912	Hoa Sơn Luận Kiếm: Dịch Cốt Kinh-Quyển 1
+35	1	999	OpenLevel109		Item|1432	Hoa Sơn Luận Kiếm: Bí Kíp Võ Lâm-Hạ
+35	1	999	OpenLevel89		Item|3476	Hoa Sơn Luận Kiếm: Mảnh Bàn Đạp-Cao
+35	1	999			Item|2424	Hoa Sơn Luận Kiếm: Tín Vật Môn Phái
+35	1	999	OpenLevel129		Item|225	Hoa Sơn Luận Kiếm: Thủy Tinh Cam
+35	1	999			Item|224	Hoa Sơn Luận Kiếm: Thủy Tinh Tím
+36	1	999			Gold|0	Hoa Sơn Luận Kiếm: Nguyên Bảo
+36	1	999			Energy|0	Hoa Sơn Luận Kiếm: Nguyên Khí
+36	1	999			Contrib|0	Hoa Sơn Luận Kiếm: Cống hiến
+36	1	999	OpenLevel109		Item|6068	Hoa Sơn Luận Kiếm: Đá Hồn Băng Nghi
+36	1	999			Item|2532	Hoa Sơn Luận Kiếm: Đá Hồn Đạo Nhất Chân Nhân
+36	1	999		OpenLevel109	Item|1735	Hoa Sơn Luận Kiếm: Đá Hồn Lý Thiên Mục
+36	1	999		OpenLevel109	Item|1431	Hoa Sơn Luận Kiếm: Bí Kíp Võ Lâm-Trung
+36	1	999	OpenLevel109		Item|1432	Hoa Sơn Luận Kiếm: Bí Kíp Võ Lâm-Hạ
+36	1	999	OpenLevel89		Item|3476	Hoa Sơn Luận Kiếm: Mảnh Bàn Đạp-Cao
+36	1	999			Item|2424	Hoa Sơn Luận Kiếm: Tín Vật Môn Phái
+36	1	999			Item|224	Hoa Sơn Luận Kiếm: Thủy Tinh Tím
+37	1	999			Gold|0	Tần Lăng-Nguyên Bảo
+37	1	999			Item|10014	Tần Lăng-Tùy Hầu Châu
+37	1	999			Item|2804	Tần Lăng-Hòa Thị Bích
+37	1	999			Item|2840	Tần Lăng-Dạ Minh Châu
+37	1	999			Item|223	Tần Lăng-Thủy Tinh Lam
+37	1	999			Item|2824	Tần Lăng-Đá Hồn Huyền Thiên Võ Cơ-Sơ
+37	1	999			Item|2825	Tần Lăng-Đá Hồn Bạch Khởi-Sơ
+37	1	999			Item|2826	Tần Lăng-Đá Hồn Lý Tư-Sơ
+38	1	999	OpenDay234		Item|3544	Thủy Hoàng Giáng Thế: Vũ Khí Bổn Mạng Tần Thủy Hoàng
+38	1	999	OpenDay204		Item|3554	Thủy Hoàng Giáng Thế: Đồng Hành-Tần Thủy Hoàng
+38	1	999		OpenLevel119	Item|1396	Thủy Hoàng Giáng Thế: Hoàng Đế Lệnh
+38	1	999	OpenDay153		Item|2794	Thủy Hoàng Giáng Thế: Hoàng Kim Đồ Phổ (Vũ Khí) 
+38	1	999	OpenDay153		Item|2795	Thủy Hoàng Giáng Thế: Hoàng Kim Đồ Phổ (Áo) 
+38	1	999	OpenDay153		Item|2804	Thủy Hoàng Giáng Thế: Hòa Thị Bích
+38	1	999		OpenLevel119	Item|2800	Thủy Hoàng Giáng Thế: Hoàng Kim Đồ Phổ (Dây Chuyền) 
+38	1	999			Item|10011	Thủy Hoàng Giáng Thế: Bạch Kim Đồ Phổ (Nhẫn) 
+38	1	999		OpenLevel119	Item|2797	Thủy Hoàng Giáng Thế: Hoàng Kim Đồ Phổ (Đai) 
+38	1	999	OpenLevel119		Item|10012	Thủy Hoàng Giáng Thế: Bạch Kim Đồ Phổ (Ngọc Bội)
+38	1	999	OpenLevel119		Item|10013	Thủy Hoàng Giáng Thế: Bạch Kim Đồ Phổ (Hộ Thân Phù)
+38	1	999	OpenLevel119		Item|10014	Thủy Hoàng Giáng Thế: Tùy Hầu Châu
+38	1	999		OpenDay204	Item|2827	Thủy Hoàng Giáng Thế: Đá Hồn Tần Thủy Hoàng (Âm) 
+38	1	999		OpenDay204	Item|2828	Thủy Hoàng Giáng Thế: Đá Hồn Tần Thủy Hoàng (Dương) 
+38	1	999		OpenDay153	Item|2824	Thủy Hoàng Giáng Thế: Đá Hồn Huyền Thiên Võ Cơ-Sơ
+38	1	999		OpenDay153	Item|2825	Thủy Hoàng Giáng Thế: Đá Hồn Bạch Khởi-Sơ
+38	1	999		OpenDay153	Item|2826	Thủy Hoàng Giáng Thế: Đá Hồn Lý Tư-Sơ
+39	1	999			Item|1346	EXP
+39	1	999		OpenDay33	Contrib|0	Hoạt động cuối tuần
+39	1	999	OpenDay33		Energy|0	Hoạt động cuối tuần
+40	1	999			Contrib|0	Hoạt động cuối tuần
+41	1	999		OpenDay33	Contrib|0	Hoạt động cuối tuần
+41	1	999	OpenDay33		Energy|0	Hoạt động cuối tuần
+42	1	999			SilverBoard|0	Tâm Ma Ảo Cảnh: Ngân Sức
+42	1	999			Gold|0	Tâm Ma Ảo Cảnh: Nguyên Bảo
+42	1	999			Contrib|0	Tâm Ma Ảo Cảnh: Cống hiến
+42	1	999			Item|1397	Tâm Ma Ảo Cảnh: Truyền Thuyết Lệnh
+42	1	69			Item|2101	Tâm Ma Ảo Cảnh: Mảnh Nhẫn Hiếm T5
+42	70	79			Item|2102	Tâm Ma Ảo Cảnh: Mảnh Nhẫn Hiếm T6
+42	80	89			Item|2955	Tâm Ma Ảo Cảnh: Mảnh Nhẫn Hiếm T7
+42	90	99			Item|2956	Tâm Ma Ảo Cảnh: Mảnh Nhẫn Hiếm T8
+42	100	109			Item|2957	Tâm Ma Ảo Cảnh: Mảnh Nhẫn Hiếm T9
+42	110	119			Item|3671	Tâm Ma Ảo Cảnh: Mảnh Nhẫn Hiếm T10
+42	120	129			Item|5781	Tâm Ma Ảo Cảnh: Mảnh Nhẫn Hiếm T11
+42	130	139			Item|5782	Tâm Ma Ảo Cảnh: Mảnh Nhẫn Hiếm T12
+42	140	149			Item|5783	Tâm Ma Ảo Cảnh: Mảnh Nhẫn Hiếm T13
+42	150	159			Item|5784	Tâm Ma Ảo Cảnh: Mảnh Nhẫn Hiếm T14
+42	160	169			Item|5785	Tâm Ma Ảo Cảnh: Mảnh Nhẫn Hiếm T15
+42	170	179			Item|10336	Tâm Ma Ảo Cảnh: Mảnh Nhẫn Hiếm T16
+42	80	999			Item|3469	Tâm Ma Ảo Cảnh: Mảnh Yên-Cao
+42	80	999			Item|3468	Tâm Ma Ảo Cảnh: Mảnh Yên-Trung
+42	80	999			Item|3467	Tâm Ma Ảo Cảnh: Mảnh Yên-Thấp
+42	1	999			Item|3494	Tâm Ma Ảo Cảnh: Tâm Ma Bảo Châu
+42	120	999			Item|10449	Tâm Ma Ảo Cảnh: Đá Hồn Thiên Âm-Sơ
+42	90	999			Item|3854	Tâm Ma Ảo Cảnh: Đá Hồn Hắc Diện Lang Quân-Sơ
+43	20	999			Item|1397	Ném Tuyết: Truyền Thuyết Lệnh
+43	20	999			Item|1396	Ném Tuyết: Hoàng Đế Lệnh
+43	20	999			Item|1395	Ném Tuyết: Trục Lộc Lệnh
+43	20	999			Item|2682	Ném Tuyết: Thiên Kiếm Lệnh
+43	20	999			Item|2804	Ném Tuyết: Hòa Thị Bích
+43	20	999			Item|3536	Ném Tuyết: Liệt Diệm Phi Tuyết
+43	20	999			Gold|0	Ném Tuyết: Nguyên Bảo
+43	20	999			Energy|0	Ném Tuyết: Nguyên Khí
+43	20	999			ZhenQi|0	Ném Tuyết: Chân Khí
+43	20	999			Contrib|0	Ném Tuyết: Cống hiến
+44	1	999			SilverBoard|0	Ngồi Thiền Tịnh Tâm: Ngân Sức
+44	1	999			Gold|0	Ngồi Thiền Tịnh Tâm: Nguyên Bảo
+44	1	999			Energy|0	Ngồi Thiền Tịnh Tâm: Nguyên Khí
+44	1	999			Item|1346	Ngồi Thiền Tịnh Tâm: EXP
+45	1	999	OpenLevel129Add30		Item|2801	Nữ Đế Hồi Sinh: Hoàng Kim Đồ Phổ (Nhẫn) 
+45	1	999	OpenLevel139Add30		Item|2803	Nữ Đế Hồi Sinh: Hoàng Kim Đồ Phổ (Hộ Thân Phù)
+45	1	999	OpenLevel129Add30		Item|2798	Nữ Đế Hồi Sinh: Hoàng Kim Đồ Phổ (Hộ Uyển) 
+45	1	999	OpenLevel139Add30		Item|2799	Nữ Đế Hồi Sinh: Hoàng Kim Đồ Phổ (Giày)
+45	1	999	OpenLevel139Add30		Item|3545	Nữ Đế Hồi Sinh: Võ Tắc Thiên-Minh Không Phượng Chỉ
+45	1	999	OpenLevel129		Item|3555	Nữ Đế Hồi Sinh: Đồng Hành·Võ Tắc Thiên
+45	1	999	OpenLevel129		Item|10010	Nữ Đế Hồi Sinh: Bạch Kim Đồ Phổ (Dây Chuyền)
+45	1	999	OpenLevel129		Item|10009	Nữ Đế Hồi Sinh: Bạch Kim Đồ Phổ (Giày)
+45	1	999	OpenLevel129		Item|10014	Nữ Đế Hồi Sinh: Tùy Hầu Châu
+45	1	999	OpenLevel129		Item|2804	Nữ Đế Hồi Sinh: Hòa Thị Bích
+45	1	999	OpenLevel129		Item|1396	Nữ Đế Hồi Sinh: Hoàng Đế Lệnh
+45	1	999	OpenLevel129		Item|6127	Nữ Đế Hồi Sinh: Đá Hồn Võ Tắc Thiên (Âm)
+45	1	999	OpenLevel129		Item|6126	Nữ Đế Hồi Sinh: Đá Hồn Võ Tắc Thiên (Dương)
+45	1	999	OpenLevel129	OpenLevel129Add30	Item|2794	Nữ Đế Hồi Sinh: Hoàng Kim Đồ Phổ (Vũ Khí) 
+45	1	999	OpenLevel129	OpenLevel129Add30	Item|2795	Nữ Đế Hồi Sinh: Hoàng Kim Đồ Phổ (Áo) 
+45	1	999	OpenLevel129	OpenLevel139Add30	Item|2800	Nữ Đế Hồi Sinh: Hoàng Kim Đồ Phổ (Dây Chuyền) 
+45	1	999	OpenLevel129	OpenLevel129Add30	Item|2802	Nữ Đế Hồi Sinh: Hoàng Kim Đồ Phổ (Ngọc Bội) 
+45	1	999	OpenLevel129	OpenLevel139Add30	Item|2796	Nữ Đế Hồi Sinh: Hoàng Kim Đồ Phổ (Nón) 
+45	1	999	OpenLevel129	OpenLevel139Add30	Item|2797	Nữ Đế Hồi Sinh: Hoàng Kim Đồ Phổ (Đai) 
+45	1	999	OpenLevel129	OpenLevel139Add30	Item|6130	Nữ Đế Hồi Sinh: Đá Hồn Vô Tự Bi-Sơ
+45	1	999	OpenLevel129	OpenLevel139Add30	Item|6129	Nữ Đế Hồi Sinh: Đá Hồn Nguyên Phương-Sơ
+45	1	999	OpenLevel129	OpenLevel139Add30	Item|6128	Nữ Đế Hồi Sinh: Đá Hồn Địch Nhân Kiệt-Sơ
+46	1	999			Gold|0	Liên SV, Chiến Trường Bách Nhân: Nguyên Bảo
+46	1	999			Energy|0	Liên SV, Chiến Trường Bách Nhân: Nguyên Khí
+46	1	999			Contrib|0	Liên SV, Chiến Trường Bách Nhân: Cống Hiến
+46	1	999			Item|3476	Liên SV, Chiến Trường Bách Nhân: Mảnh Bàn Đạp-Cao
+46	1	999			Item|3475	Liên SV, Chiến Trường Bách Nhân: Mảnh Bàn Đạp-Trung
+46	90	99			Item|2956	Liên SV, Chiến Trường Bách Nhân: Mảnh Nhẫn Hiếm T8
+46	100	109			Item|2957	Liên SV ,Chiến Trường Bách Nhân: Mảnh Nhẫn Hiếm T9
+46	110	119			Item|3671	Liên SV, Chiến Trường Bách Nhân: Mảnh Nhẫn Hiếm T10
+46	120	129			Item|5781	Liên SV, Chiến Trường Bách Nhân: Mảnh Nhẫn Hiếm T11
+46	130	139			Item|5782	Liên SV, Chiến Trường Bách Nhân: Mảnh Nhẫn Hiếm T12
+46	140	149			Item|5783	Liên SV, Chiến Trường Bách Nhân: Mảnh Nhẫn Hiếm T13
+46	150	159			Item|5784	Liên SV, Chiến Trường Bách Nhân: Mảnh Nhẫn Hiếm T14
+46	160	169			Item|5785	Liên SV, Chiến Trường Bách Nhân: Mảnh Nhẫn Hiếm T15
+46	170	179			Item|10336	Liên SV, Chiến Trường Bách Nhân: Mảnh Nhẫn Hiếm T16
+46	90	999			Item|6069	Liên SV, Chiến Trường Bách Nhân: Đá Hồn Dương Tái Hưng
+46	90	999			Item|6070	Liên SV, Chiến Trường Bách Nhân: Đá Hồn Hoàn Nhan Lâu Thất
+46	60	89			Item|2535	Liên SV, Chiến Trường Bách Nhân: Đá Hồn Lý Hiển Trung
+46	60	89			Item|2536	Liên SV, Chiến Trường Bách Nhân: Đá Hồn Đồ Đơn Khắc Ninh
+46	1	999			Item|1737	Liên SV, Chiến Trường Bách Nhân: Đá Hồn Thiệu Hồng Uyên
+46	1	999			Item|1738	Liên SV, Chiến Trường Bách Nhân: Đá Hồn Bạch Ngạn Kính
+46	1	999			Item|1970	Liên SV, Chiến Trường Bách Nhân: Chiêu Thư Tống Kim
+47	1	999			Item|1394	Danh Tướng: Danh Tướng Lệnh
+47	1	999	OpenDay52		Item|1395	Danh Tướng: Trục Lộc Lệnh
+47	1	999	OpenDay353		Item|1396	Danh Tướng: Hoàng Đế Lệnh
+47	1	999	OpenLevel149		Item|1397	Danh Tướng: Truyền Thuyết Lệnh
+47	1	999			Item|1455	Danh Tướng: Đồng Hành S
+47	1	999	OpenDay52		Item|4604	Danh Tướng: Đồng Hành SS
+47	1	999	OpenDay353		Item|4605	Danh Tướng: Đồng Hành SSS
+47	1	999	OpenDay353		Item|6112	Danh Tướng: Đá Hồn Ngu Cơ Tuyệt Thế
+47	1	999	OpenDay353		Item|3543	Danh Tướng: Hạng Vũ-Bá Vương Kích
+47	1	999		OpenLevel69	Item|1124	Danh Tướng: Vũ Khí T3
+47	1	999		OpenLevel69	Item|1125	Danh Tướng: Vũ Khí T4
+47	1	999	OpenLevel69	OpenLevel79	Item|1126	Danh Tướng: Vũ Khí T5
+47	1	999	OpenLevel79	OpenLevel89	Item|1127	Danh Tướng: Vũ Khí T6
+47	1	999	OpenLevel89	OpenLevel99	Item|1128	Danh Tướng: Vũ Khí T7
+47	1	999	OpenLevel99	OpenLevel109	Item|1129	Danh Tướng: Vũ Khí T8
+47	1	999	OpenLevel109	OpenLevel119	Item|1130	Danh Tướng: Vũ Khí T9
+47	1	999	OpenLevel119	OpenLevel129	Item|1131	Danh Tướng: Vũ Khí T10
+47	1	999	OpenLevel129	OpenLevel139	Item|5561	Danh Tướng: Vũ Khí T11
+47	1	999	OpenLevel139	OpenLevel149	Item|5562	Danh Tướng: Vũ Khí T12
+47	1	999	OpenLevel149	OpenLevel159	Item|5563	Danh Tướng: Vũ Khí T13
+47	1	999	OpenLevel159	OpenLevel169	Item|5564	Danh Tướng: Vũ Khí T14
+47	1	999	OpenLevel169	OpenLevel179	Item|5565	Danh Tướng: Vũ Khí T15
+47	1	999	OpenLevel179		Item|5566	Danh Tướng: Vũ Khí T16
+47	1	999	OpenLevel69	OpenDay224	Item|4317	Danh Tướng: Da Lv2
+47	1	999	OpenDay99	OpenDay399	Item|4318	Danh Tướng: Da Lv3
+47	1	999	OpenDay224		Item|4319	Danh Tướng: Da Lv4
+47	1	999	OpenDay399		Item|4320	Danh Tướng: Da Lv5
+48	1	999			Item|7281	Trận Pháp Thí Luyện: Bí Quyển Trận Pháp Cổ
+48	1	999			Item|7282	Trận Pháp Thí Luyện: Mật Tịch Trận Pháp Kế Thừa
+48	1	999			Item|7283	Trận Pháp Thí Luyện: Mật Tịch Trận Pháp Hiếm
+48	1	999			Item|7286	Trận Pháp Thí Luyện: Trận Pháp Thí Luyện-Rương Hoàng Kim
+48	1	999			Item|7287	Trận Pháp Thí Luyện: Trận Pháp Thí Luyện-Rương Hỗ Trợ
+49	1	999			Item|4056	Công Thành Liên SV: Đồng Hành-Hoàn Nhan Hồng Liệt
+49	1	999			Item|4057	Công Thành Liên SV: Vũ Khí Bổn Mạng Hoàn Nhan Hồng Liệt
+49	1	999	OpenLevel129		Item|1397	Công Thành Liên Server: Truyền Thuyết Lệnh
+49	1	999			Item|1396	Công Thành Liên SV: Hoàng Đế Lệnh
+49	1	999			Item|7394	Công Thành Liên Server: Nguyên Khí Tinh Hoa (5000)
+49	1	999		OpenLevel139	Item|4053	Công Thành Liên SV: Đá Hồn Hoàn Nhan Hồng Liệt-Sơ
+49	1	999			Item|7377	Công Thành Liên Server: Đá Hồn Ngu Doãn Văn-Sơ
+49	1	999			Item|7648	Công Thành Liên Server: Đá Hồn Vương Đằng-Sơ
+49	1	999			Item|7741	Công Thành Liên Server: Đá Hồn Không Tướng-Sơ
+49	1	999			Item|7649	Công Thành Liên Server: Đá Hồn Vương Vân Tiêu-Sơ
+49	1	999		OpenLevel129	Item|7650	Công Thành Liên Server: Đá Hồn Kinh Tuyết-Sơ
+49	1	999	OpenLevel139		Item|9974	Công Thành Liên Server: Đá Hồn Phương Công Vọng-Sơ
+50	1	999			Gold|0	Bí Cảnh Bang Hội: Nguyên Bảo
+50	1	999			Contrib|0	Bí Cảnh Bang Hội: Cống hiến
+50	1	999			Item|10014	Bí Cảnh Bang Hội:  Tùy Hầu Châu
+50	1	999			Item|2424	Bí Cảnh Bang Hội:  Tín Vật Môn Phái
+50	1	999			Item|3693	Bí Cảnh Bang Hội: Vũ khí bổn mạng đồng hành SS tùy chọn
+50	1	999			Item|6149	Bí Cảnh Bang Hội: Bí Quyển Huyệt Nhâm Mạch-Khúc Cốt
+50	1	999	OpenLevel89		Item|6150	Bí Cảnh Bang Hội: Bí Quyển Huyệt Đốc Mạch-Trường Cường
+50	1	999	OpenLevel99		Item|6276	Bí Cảnh Bang Hội: Bí Quyển Huyệt Xung Mạch·U Môn
+50	1	999	OpenLevel89		Item|7648	Bí Cảnh Bang Hội: Đá Hồn Vương Đằng-Sơ
+50	1	999			Item|7649	Bí Cảnh Bang Hội: Đá Hồn Vương Vân Tiêu-Sơ
+50	1	999			Item|7650	Bí Cảnh Bang Hội: Đá Hồn Thiên Âm-Sơ
+50	1	999			Item|2804	Bí Cảnh Bang Hội: Hòa Thị Bích
+50	1	999		OpenLevel109	Item|3714	Bí Cảnh Bang Hội: Tẩy Tủy Kinh·Thượng
+50	1	999	OpenLevel109		Item|3715	Bí Cảnh Bang Hội: Tẩy Tủy Kinh·Trung
+50	1	999	OpenLevel109		Item|3716	Bí Cảnh Bang Hội: Tẩy Tủy Kinh·Hạ
+51	1	999			SilverBoard|0	Tâm Ma Tuyệt Địa: Ngân Sức
+51	1	999			Gold|0	Tâm Ma Tuyệt Địa: Nguyên Bảo
+51	1	999			Contrib|0	Tâm Ma Tuyệt Địa: Cống hiến
+51	1	999			Item|1397	Tâm Ma Tuyệt Địa: Truyền Thuyết Lệnh
+51	1	69			Item|2101	Tâm Ma Tuyệt Địa: Mảnh Nhẫn Hiếm T5
+51	70	79			Item|2102	Tâm Ma Tuyệt Địa: Mảnh Nhẫn Hiếm T6
+51	80	89			Item|2955	Tâm Ma Tuyệt Địa: Mảnh Nhẫn Hiếm T7
+51	90	99			Item|2956	Tâm Ma Tuyệt Địa: Mảnh Nhẫn Hiếm T8
+51	100	109			Item|2957	Tâm Ma Tuyệt Địa: Mảnh Nhẫn Hiếm T9
+51	110	119			Item|3671	Tâm Ma Tuyệt Địa: Mảnh Nhẫn Hiếm T10
+51	120	129			Item|5781	Tâm Ma Tuyệt Địa: Mảnh Nhẫn Hiếm T11
+51	130	139			Item|5782	Tâm Ma Tuyệt Địa: Mảnh Nhẫn Hiếm T12
+51	140	149			Item|5783	Tâm Ma Tuyệt Địa: Mảnh Nhẫn Hiếm T13
+51	150	159			Item|5784	Tâm Ma Tuyệt Địa: Mảnh Nhẫn Hiếm T14
+51	160	169			Item|5785	Tâm Ma Tuyệt Cảnh: Mảnh Nhẫn Hiếm T15
+51	80	999			Item|3469	Tâm Ma Tuyệt Địa: Mảnh Yên-Cao
+51	80	999			Item|3468	Tâm Ma Tuyệt Địa: Mảnh Yên-Trung
+51	80	999			Item|3467	Tâm Ma Tuyệt Địa: Mảnh Yên-Thấp
+51	1	999			Item|3494	Tâm Ma Tuyệt Địa: Tâm Ma Bảo Châu
+51	120	999			Item|10449	Tâm Ma Tuyệt Cảnh: Đá Hồn Thiên Âm-Sơ
+51	90	999			Item|3854	Tâm Ma Tuyệt Địa: Đá Hồn Hắc Diện Lang Quân-Sơ
+52	1	999			Item|10014	Di Tích Tầm Bảo:Tùy Hầu Châu
+52	1	999			Item|9398	Di Tích Tầm Bảo: Đá Hồn Lâm Thanh Vũ-Sơ
+52	1	999			Item|7459	Di Tích Tầm Bảo:  Bùa Cường Hóa Phòng Cụ
+52	1	999			Item|7463	Di Tích Tầm Bảo:  Bùa Cường Hóa Trang Sức
+52	1	999	OpenLevel109		Item|9401	Di Tích Tầm Bảo: Đá Hồn Mạnh Thương Lam-Sơ
+52	1	999	OpenLevel99	OpenLevel109	Item|8855	Di Tích Tầm Bảo:【Trác Việt】Bùa Tẩy Luyện Nón Bậc 8
+52	1	999	OpenLevel99	OpenLevel109	Item|8881	Di Tích Tầm Bảo:【Trác Việt】Bùa Tẩy Luyện Hộ Uyển Bậc 8
+52	1	999	OpenLevel99	OpenLevel109	Item|8894	Di Tích Tầm Bảo:【Trác Việt】Bùa Tẩy Luyện Đai Bậc 8
+52	1	999	OpenLevel99	OpenLevel109	Item|8907	Di Tích Tầm Bảo:【Trác Việt】Bùa Tẩy Luyện Giày Bậc 8
+52	1	999	OpenLevel99	OpenLevel109	ZhenQi|0	Di Tích Tầm Bảo:  Chân Khí
+52	1	999	OpenLevel109	OpenLevel149	Item|9320	Di Tích Tầm Bảo: 【Kế Thừa】Mảnh Tuyệt Học
+52	1	999	OpenLevel109	OpenLevel149	Item|9313	Di Tích Tầm Bảo: 【Kế Thừa】Bí Quyển Tuyệt Học
+52	1	999	OpenLevel149		Item|9321	Di Tích Tầm Bảo:【Trác Việt】Mảnh Tuyệt Học
+52	1	999	OpenLevel149		Item|9314	Di Tích Tầm Bảo:【Trác Việt】Bí Quyển Tuyệt Học
+52	1	999	OpenLevel109	OpenLevel119	Item|8856	Di Tích Tầm Bảo:【Trác Việt】Bùa Tẩy Luyện Nón Bậc 9
+52	1	999	OpenLevel109	OpenLevel119	Item|8882	Di Tích Tầm Bảo:【Trác Việt】Bùa Tẩy Luyện Hộ Uyển Bậc 9
+52	1	999	OpenLevel109	OpenLevel119	Item|8895	Di Tích Tầm Bảo:【Trác Việt】Bùa Tẩy Luyện Đai Bậc 9
+52	1	999	OpenLevel109	OpenLevel119	Item|8908	Di Tích Tầm Bảo:【Trác Việt】Bùa Tẩy Luyện Giày Bậc 9
+52	1	999	OpenLevel119	OpenLevel129	Item|8857	Di Tích Tầm Bảo:【Trác Việt】Bùa Tẩy Luyện Nón Bậc 10
+52	1	999	OpenLevel119	OpenLevel129	Item|8883	Di Tích Tầm Bảo:【Trác Việt】Bùa Tẩy Luyện Hộ Uyển Bậc 10
+52	1	999	OpenLevel119	OpenLevel129	Item|8896	Di Tích Tầm Bảo:【Trác Việt】Bùa Tẩy Luyện Đai Bậc 10
+52	1	999	OpenLevel119	OpenLevel129	Item|8909	Di Tích Tầm Bảo:【Trác Việt】Bùa Tẩy Luyện Giày Bậc 10
+52	1	999	OpenLevel129	OpenLevel139	Item|8858	Di Tích Tầm Bảo:【Trác Việt】Bùa Tẩy Luyện Nón Bậc 11
+52	1	999	OpenLevel129	OpenLevel139	Item|8884	Di Tích Tầm Bảo:【Trác Việt】Bùa Tẩy Luyện Hộ Uyển Bậc 11
+52	1	999	OpenLevel129	OpenLevel139	Item|8897	Di Tích Tầm Bảo:【Trác Việt】Bùa Tẩy Luyện Đai Bậc 11
+52	1	999	OpenLevel129	OpenLevel139	Item|8910	Di Tích Tầm Bảo:【Trác Việt】Bùa Tẩy Luyện Giày Bậc 11
+52	1	999	OpenLevel139	OpenLevel149	Item|8859	Di Tích Tầm Bảo:【Trác Việt】Bùa Tẩy Luyện Nón Bậc 12
+52	1	999	OpenLevel139	OpenLevel149	Item|8885	Di Tích Tầm Bảo:【Trác Việt】Bùa Tẩy Luyện Hộ Uyển Bậc 12
+52	1	999	OpenLevel139	OpenLevel149	Item|8898	Di Tích Tầm Bảo:【Trác Việt】Bùa Tẩy Luyện Đai Bậc 12
+52	1	999	OpenLevel139	OpenLevel149	Item|8911	Di Tích Tầm Bảo:【Trác Việt】Bùa Tẩy Luyện Giày Bậc 12
+52	1	999	OpenLevel149	OpenLevel159	Item|8860	Di Tích Tầm Bảo:【Trác Việt】Bùa Tẩy Luyện Nón Bậc 13
+52	1	999	OpenLevel149	OpenLevel159	Item|8886	Di Tích Tầm Bảo:【Trác Việt】Bùa Tẩy Luyện Hộ Uyển Bậc 13
+52	1	999	OpenLevel149	OpenLevel159	Item|8899	Di Tích Tầm Bảo:【Trác Việt】Bùa Tẩy Luyện Đai Bậc 13
+52	1	999	OpenLevel149	OpenLevel159	Item|8912	Di Tích Tầm Bảo:【Trác Việt】Bùa Tẩy Luyện Giày Bậc 13
+52	1	999	OpenLevel159	OpenLevel169	Item|8861	Di Tích Tầm Bảo:【Trác Việt】Bùa Tẩy Luyện Nón Bậc 14
+52	1	999	OpenLevel159	OpenLevel169	Item|8887	Di Tích Tầm Bảo:【Trác Việt】Bùa Tẩy Luyện Hộ Uyển Bậc 14
+52	1	999	OpenLevel159	OpenLevel169	Item|8900	Di Tích Tầm Bảo:【Trác Việt】Bùa Tẩy Luyện Đai Bậc 14
+52	1	999	OpenLevel159	OpenLevel169	Item|8913	Di Tích Tầm Bảo:【Trác Việt】Bùa Tẩy Luyện Giày Bậc 14
+52	1	999	OpenLevel169	OpenLevel179	Item|8862	Di Tích Tầm Bảo:【Trác Việt】Bùa Tẩy Luyện Nón Bậc 15
+52	1	999	OpenLevel169	OpenLevel179	Item|8888	Di Tích Tầm Bảo:【Trác Việt】Bùa Tẩy Luyện Hộ Uyển Bậc 15
+52	1	999	OpenLevel169	OpenLevel179	Item|8901	Di Tích Tầm Bảo:【Trác Việt】Bùa Tẩy Luyện Đai Bậc 15
+52	1	999	OpenLevel169	OpenLevel179	Item|8914	Di Tích Tầm Bảo:【Trác Việt】Bùa Tẩy Luyện Giày Bậc 15
+52	1	999	OpenLevel179		Item|8863	Di Tích Tầm Bảo:【Trác Việt】Bùa Tẩy Luyện Nón Bậc 16
+52	1	999	OpenLevel179		Item|8889	Di Tích Tầm Bảo:【Trác Việt】Bùa Tẩy Luyện Hộ Uyển Bậc 16
+52	1	999	OpenLevel179		Item|8902	Di Tích Tầm Bảo:【Trác Việt】Bùa Tẩy Luyện Đai Bậc 16
+52	1	999	OpenLevel179		Item|8915	Di Tích Tầm Bảo:【Trác Việt】Bùa Tẩy Luyện Giày Bậc 16
+53	60	999	OpenLevel89		Energy|0	Bang Hội Chiến: Nguyên khí
+53	60	999	OpenLevel89		ZhenQi|0	Bang Hội Chiến: Chân khí
+53	60	999	OpenLevel89		Item|1346	Bang Hội Chiến; EXP
+54	1	999			Item|9477	Nhiệm vụ Môn Khách: Độ thân mật
+55	35	79			Item|1234	Nhiệm vụ Tình Duyên: Hoa Hồng
+55	35	79			Item|1235	Nhiệm vụ Tình Duyên: Cỏ May Mắn
+55	35	79			Item|1969	Nhiệm vụ Tình Duyên: Tư Chất Đơn (Khóa)
+55	35	79	OpenLevel59		Item|9509	Nhiệm vụ Tình Duyên: Mèo Tình Duyên (3 Ngày)
+56	1	999			Item|3693	Bảo Vệ Bang Hội: Vũ khí bổn mạng đồng hành SS tùy chọn
+56	1	999		OpenLevel119	Item|6149	Bảo Vệ Bang Hội: Bí Quyển Nhâm Mạch-Khúc Cốt
+56	1	999			Item|6150	Bảo Vệ Bang Hội: Bí Quyển Đốc Mạch-Trường Cường
+56	1	999	OpenLevel99		Item|6276	Bảo Vệ Bang Hội: Bí Quyển Xung Mạch-U Môn
+56	1	999	OpenLevel129		Item|6277	Bảo Vệ Bang Hội: Bí Quyển Dương Khiêu-Tinh Minh
+56	1	999			Item|7648	Bảo Vệ Bang Hội: Đá Hồn-Sơ-Vương Đằng
+56	1	999			Item|10128	Bảo Vệ Bang Hội: Đá Hồn-Sơ-Hoàn Nhan Tông Hàn
+56	1	999			Item|7650	Bảo Vệ Bang Hội: Đá Hồn Kinh Tuyết-Sơ
+56	1	999			Item|2804	Bảo Vệ Bang Hội: Hòa Thị Bích
+56	1	999		OpenLevel99	Item|3714	Bảo Vệ Bang Hội: Tẩy Tủy Kinh-Thượng
+56	1	999	OpenLevel109		Item|3715	Bảo Vệ Bang Hội: Tẩy Tủy Kinh-Trung
+56	1	999	OpenLevel119		Item|3716	Bảo Vệ Bang Hội: Tẩy Tủy Kinh-Hạ
+57	1	999			Item|1346	Quyết Chiến Lăng Tuyệt: EXP
+57	1	999			Item|224	Lăng Tuyệt Phong: Thủy Tinh Tím
+57	1	999			Energy|0	Quyết Chiến Lăng Tuyệt: Nguyên khí
+57	1	999			Item|2804	Lăng Tuyệt Phong:Hòa Thị Bích
+58	1	999			Item|10626	Lãnh Thổ Chiến: Đá Hồn Bản Trần-Sơ
+58	1	999			Item|10627	Lãnh Thổ Chiến: Đá Hồn Đoàn Trí Hưng-Sơ
+58	1	999			Energy|0	Lãnh Thổ Chiến: Nguyên Khí
+58	1	999			Item|1397	Lãnh Thổ Chiến: Truyền Thuyết Lệnh
+58	1	999			Item|10142	Lãnh Thổ Chiến: Hoàn Nhan Hồng Liệt-Phong Ấn Ưng
+58	1	999			Item|3557	Lãnh Thổ Chiến: Đồng Hành-Trương Tam Phong
+58	1	999			Item|4056	Lãnh Thổ Chiến: Đồng Hành-Hoàn Nhan Hồng Liệt
+58	1	999			Item|10635	Lãnh Thổ Chiến: Rương Chọn Vũ Khí Bổn Mạng SSS

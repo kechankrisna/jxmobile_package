@@ -1,0 +1,38 @@
+ColorID	Red	Green	Blue	Alpha	Des
+1	100	100	100	100	Màu bối cảnh kém sáng
+2	8	80	124	255	Ẩn màu người chơi
+3	88	0	0	255	Lửa Đỏ
+4	0	255	76	255	Suy Yếu-Lục
+5	250	255	163	255	Màu mặc định khi không có phe
+100	255	146	255	255	Phe Bang Hội, Kim
+101	255	168	94	255	Phe Bang Hội, Tống
+102	85	255	145	255	Phe Bang Hội, Trung lập
+200	255	255	255	255	Danh hiệu Lv1 (Trắng)
+201	231	255	199	255	Danh hiệu Lv2 (Lục) Top
+202	94	255	81	255	Danh hiệu Lv2 (Lục) Bottom
+203	29	122	0	255	Danh hiệu Lv2 (Lục) Outline
+204	203	255	251	255	Danh hiệu Lv3 (Lam) Top
+205	79	211	255	255	Danh hiệu Lv3 (Lam) Bottom
+206	0	115	229	255	Danh hiệu Lv3 (Lam) Outline
+207	255	240	249	255	Danh hiệu Lv4 (Tím) Top
+208	220	141	255	255	Danh hiệu Lv4 (Tím) Bottom
+209	178	0	255	255	Danh hiệu Lv4 (Tím) Outline
+210	255	255	255	255	Danh hiệu Lv5 (Hồng) Top
+211	255	135	170	255	Danh hiệu Lv5 (Hồng) Bottom
+212	221	0	105	255	Danh hiệu Lv5 (Hồng) Outline
+213	255	255	255	255	Danh hiệu Lv6 (Cam) Top
+214	255	140	88	255	Danh hiệu Lv6 (Cam) Bottom
+215	193	36	0	255	Danh hiệu Lv6 (Cam) Outline
+216	255	255	253	255	Danh hiệu Lv7 (Kim) Top
+217	255	206	2	255	Danh hiệu Lv7 (Kim) Bottom
+218	197	61	0	255	Danh hiệu Lv7 (Kim) Outline
+219	255	255	255	255	Danh hiệu đặc biệt (Tinh Anh VLTKm)  Top
+220	20	211	18	255	Danh hiệu đặc biệt (Tinh Anh VLTKm)  Bottom
+221	5	97	0	255	Danh hiệu đặc biệt (Tinh Anh VLTKm)  Outline
+222	255	250	137	255	Danh hiệu đặc biệt (Hồng Bá Thiên Hạ)  Top
+223	235	32	32	255	Danh hiệu đặc biệt (Hồng Bá Thiên Hạ)  Bottom
+224	131	0	4	255	Danh hiệu đặc biệt (Hồng Bá Thiên Hạ)  Outline
+300	255	39	39	255	Diệt Nhanh Đỏ (Thuần Sắc) 
+301	51	0	0	255	Diệt Nhanh Đỏ (Miêu Biên) 
+302	255	255	255	255	Vũ Khí Bạch Kim-Top
+303	255	204	96	255	Vũ Khí Bạch Kim-Bottom

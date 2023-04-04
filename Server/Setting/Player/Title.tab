@@ -1,0 +1,967 @@
+Type	TitleID	Name	Achievement	ColorDesc	ColorID	GTopColorID	GBottomColorID	OutlineColorID	Timeout	ImgAltlas	ImgPrefix	EffectResID	EffecUitResID	Rank	WorldNotify	Desc	Quality	Icon
+null1	1	Chưa dùng							100					1		ID danh hiệu chưa dùng		
+null2	2	Chưa dùng							100	UI/Atlas/SkillIcon/SkillIcon.prefab	TianwangSkill_0			1		ID danh hiệu chưa dùng		
+null3	3	Chưa dùng							100			17		1		ID danh hiệu chưa dùng		
+null4	4	Chưa dùng												1		ID danh hiệu chưa dùng		
+null5	5	Chưa dùng												1		ID danh hiệu chưa dùng		
+null6	6	Chưa dùng												1		ID danh hiệu chưa dùng		
+null7	7	Chưa dùng												1		ID danh hiệu chưa dùng		
+null8	8	Chưa dùng												1		ID danh hiệu chưa dùng		
+punish_1	9	Nhiệm vụ Trừng Ác-Lâu La		Danh hiệu Trắng	200									1		Nhiệm Vụ Trừng Ác	1	
+punish_2	10	Nhiệm vụ Trừng Ác-Lâu La		Danh hiệu Lục	200	201	202	203						1		Nhiệm Vụ Trừng Ác	2	
+punish_3	11	Nhiệm vụ Trừng Ác-Tinh Anh		Danh hiệu lam	200	204	205	206						1		Nhiệm Vụ Trừng Ác	3	
+punish_4	12	Nhiệm vụ Trừng Ác-Đầu Mục		Danh hiệu Tím	200	207	208	209						1		Nhiệm Vụ Trừng Ác	4	
+punish_5	13	Nhiệm vụ Trừng Ác-Đầu Mục		Danh hiệu Cam	200	213	214	215						1		Nhiệm Vụ Trừng Ác	6	
+dota	14	Đặc Sát		Danh hiệu Lục	200	201	202	203						1		Danh hiệu Chiến Trường	2	
+dota	15	Bạo Tẩu		Danh hiệu lam	200	204	205	206						2		Danh hiệu Chiến Trường	3	
+dota	16	Vô Địch		Danh hiệu Tím	200	207	208	209						3		Danh hiệu Chiến Trường	4	
+dota	17	Chiến Trường Chúa Tể		Danh hiệu Hồng	200	210	211	212						4		Danh hiệu Chiến Trường	5	
+dota	18	Như Thần		Danh hiệu Cam	200	213	214	215						5		Danh hiệu Chiến Trường	6	
+dota	19	Siêu Thần		Danh hiệu Vàng	200	216	217	218						6		Danh hiệu Chiến Trường	7	
+CommerceTask1	20	Chưa trưởng thành		Danh hiệu Trắng	200									1		Vật thu thập Thương Hội	1	
+CommerceTask2	21	Dược Thảo Thủ Vệ		Danh hiệu Trắng	200									1		Thủ Vệ Thương Hội	1	
+CommerceTask3	22	Chưa đầy		Danh hiệu Trắng	200									1		Vật Thu Thập Tiệc	1	
+CommerceTask4	23																	
+CommerceTask5	24																	
+CommerceTask6	25																	
+QYMJ	26	Sơn Tặc Đầu Mục		Danh hiệu lam	200	204	205	206						1		Danh hiệu NPC Sơn Tặc Mật Quật	3	
+BHT	27	Đầu Mục Tầng 1		Danh hiệu lam	200	204	205	206						1		Danh hiệu NPC Bạch Hổ Đường	3	
+BHT	28	Đầu Mục tầng 2		Danh hiệu lam	200	204	205	206						1		Danh hiệu NPC Bạch Hổ Đường	3	
+BHT	29	Đầu Mục Tầng 3		Danh hiệu lam	200	204	205	206						1		Danh hiệu NPC Bạch Hổ Đường	3	
+BHT	30	Thủ Lĩnh Tầng 4		Danh hiệu Tím	200	207	208	209						1		Danh hiệu NPC Bạch Hổ Đường	4	
+InDifferShopNpc	31	Đồng Tẩu Vô Khi		Danh hiệu Hồng	200	210	211	212						1		Danh hiệu NPC Tâm Ma Ảo Cảnh	5	
+FactionNpcTitle1	50	Thiên Vương Thiếu Bang Chủ		Danh hiệu Hồng	200	210	211	212								Danh hiệu NPC phái	5	
+FactionNpcTitle2	51	Thiếu Lâm Thủ Tọa		Danh hiệu Hồng	200	210	211	212								Danh hiệu NPC phái	5	
+FactionNpcTitle3	52	Tàng Kiếm Thiếu Chưởng Môn		Danh hiệu Hồng	200	210	211	212								Danh hiệu NPC phái	5	
+FactionNpcTitle4	53	Tiêu Dao Thiếu Chưởng Môn		Danh hiệu Hồng	200	210	211	212								Danh hiệu NPC phái	5	
+FactionNpcTitle5	54	Đường Môn Thiếu Môn Chủ		Danh hiệu Hồng	200	210	211	212								Danh hiệu NPC phái	5	
+FactionNpcTitle6	55	Ngũ Độc Thiếu Chưởng Môn		Danh hiệu Hồng	200	210	211	212								Danh hiệu NPC phái	5	
+FactionNpcTitle7	56	Nga Mi Thiếu Chưởng Môn		Danh hiệu Hồng	200	210	211	212								Danh hiệu NPC phái	5	
+FactionNpcTitle8	57	Thúy Yên Thiếu Chưởng Môn		Danh hiệu Hồng	200	210	211	212								Danh hiệu NPC phái	5	
+FactionNpcTitle9	58	Thiên Sơn Thiếu Chưởng Môn		Danh hiệu Hồng	200	210	211	212								Danh hiệu NPC phái	5	
+FactionNpcTitle10	59	Đào Hoa Thiếu Đảo Chủ		Danh hiệu Hồng	200	210	211	212								Danh hiệu NPC phái	5	
+FactionNpcTitle11	60	Thiên Nhẫn Thiếu Giáo Chủ		Danh hiệu Hồng	200	210	211	212								Danh hiệu NPC phái	5	
+FactionNpcTitle12	61	Cái Bang Truyền Công Trưởng Lão		Danh hiệu Hồng	200	210	211	212								Danh hiệu NPC phái	5	
+FactionNpcTitle13	62	Võ Đang Thiếu Chưởng Môn		Danh hiệu Hồng	200	210	211	212								Danh hiệu NPC phái	5	
+FactionNpcTitle14	63	Côn Lôn Thiếu Chưởng Môn		Danh hiệu Hồng	200	210	211	212								Danh hiệu NPC phái	5	
+FactionNpcTitle15	64	Trường Ca Thiếu Chưởng Môn		Danh hiệu Hồng	200	210	211	212								Danh hiệu NPC phái	5	
+FactionNpcTitle16	65	Bá Đao Thiếu Môn Chủ		Danh hiệu Hồng	200	210	211	212								Danh hiệu NPC phái	5	
+FactionNpcTitle17	66	Hoa Sơn Thiếu Chưởng Môn		Danh hiệu Hồng	200	210	211	212								Danh hiệu NPC phái	5	
+FactionNpcTitle18	67	Minh Giáo Thiếu Chưởng Môn		Danh hiệu Hồng	200	210	211	212								Danh hiệu NPC phái	5	
+FactionNpcTitle19	68	Đoàn Thị Thiếu Chủ		Danh hiệu Hồng	200	210	211	212								Danh hiệu NPC phái	5	
+FactionNpcTitle20	69	Vạn Hoa Thiếu Chủ		Danh hiệu Hồng	200	210	211	212								Danh hiệu NPC phái	5	
+citynpc1	100	Đường Môn Thiếu Hiệp		Danh hiệu lam	200	204	205	206						1		Danh hiệu npc thành thị	3	
+citynpc2	101	Giang Hồ Nữ Hiệp		Danh hiệu lam	200	204	205	206						1		Danh hiệu npc thành thị	3	
+citynpc3	102	Thủ Vệ Hoàng Thành		Danh hiệu Lục	200	201	202	203						1		Danh hiệu npc thành thị	2	
+citynpc4	103	Tiếp Dẫn Hoạt Động		Danh hiệu Hồng	200	210	211	212						1		Danh hiệu npc thành thị	5	
+citynpc5	104	Thanh Lệ Giai Nhân		Danh hiệu Lục	200	201	202	203						1		Danh hiệu npc thành thị	2	
+citynpc6	105	Diễn Tập Chiến Trường		Danh hiệu Lục	200	201	202	203						1		Danh hiệu npc thành thị	2	
+citynpc7	106	Lén Lút		Danh hiệu Lục	200	201	202	203						1		Danh hiệu npc thành thị	2	
+citynpc8	107	Thầy Đúc Kiếm		Danh hiệu lam	200	204	205	206						1		Danh hiệu npc thành thị	3	
+citynpc9	108	Võ Lâm Tân Tú		Danh hiệu lam	200	204	205	206						1		Danh hiệu npc thành thị	3	
+citynpc10	109	Nhiệm Vụ Thương Hội		Danh hiệu Hồng	200	210	211	212						1		Danh hiệu npc thành thị	5	
+citynpc11	110	Chủ Ẩn Hương Lâu		Danh hiệu lam	200	204	205	206									3	
+citynpc12	111	Tàng Kiếm Công Tử		Danh hiệu lam	200	204	205	206									3	
+citynpc13	112	Phong Diệp Minh Châu		Danh hiệu lam	200	204	205	206									3	
+citynpc14	113	Bi Ma Kiếm Thánh		Danh hiệu Tím	200	207	208	209									4	
+citynpc15	114	Minh Chủ Võ Lâm		Danh hiệu Tím	200	207	208	209									4	
+citynpc16	115	Tỉ Võ Trường		Danh hiệu Hồng	200	210	211	212									5	
+citynpc17	116	Báo Danh Lôi Đài		Danh hiệu Hồng	200	210	211	212									5	
+citynpc18	117	Chủ Quán Vong Ưu		Danh hiệu Tím	200	207	208	209									4	
+citynpc19	118	Cô Gái Bán Vé Thuyền		Danh hiệu Hồng	200	210	211	212						1		Danh hiệu NPC Lễ Tình Nhân	5	
+citynpc20	119	Hoa Sứ		Danh hiệu Tím	200	207	208	209						1		Danh hiệu Npc Tết Trồng Cây	4	
+citynpc21	120	Quản Lý Gia Viên		Danh hiệu Hồng	200	210	211	212								NPC Quản Lý Gia Viên	5	
+citynpc22	121	Sứ Giả Miss VLTKM		Danh hiệu Hồng	200	210	211	212								NPC Miss Võ Lâm Truyền Kỳ Mobile	5	
+citynpc23	122	Thương Hội Thiếu Gia		Danh hiệu lam	200	204	205	206						1			3	
+citynpc24	123	Đào Hoa Đảo Chủ		Danh hiệu Tím	200	207	208	209								Tỉ lệ hiện NPC	4	
+citynpc25	124	Thương Nhân Hôn Lễ		Danh hiệu Hồng	200	210	211	212								Danh hiệu Phụng Hỉ	5	
+citynpc26	125	Chủ Trì Hôn Lễ		Danh hiệu Hồng	200	210	211	212								Danh hiệu Nguyệt Lão	5	
+citynpc27	126	Mai Mối		Danh hiệu Hồng	200	210	211	212								Danh hiệu Hồng Nương	5	
+citynpc28	127	Nghĩa Quân Thống Soái		Danh hiệu Tím	200	207	208	209									4	
+citynpc29	128			Danh hiệu Tím	200	207	208	209									4	
+citynpc30	129			Danh hiệu Tím	200	207	208	209									4	
+citynpc31	130			Danh hiệu Hồng	200	210	211	212									5	
+citynpc32	131			Danh hiệu Hồng	200	210	211	212									5	
+citynpc33	132			Danh hiệu Hồng	200	210	211	212									5	
+citynpc34	133			Danh hiệu Hồng	200	210	211	212									5	
+citynpc35	134			Danh hiệu Hồng	200	210	211	212									5	
+citynpc36	135			Danh hiệu Hồng	200	210	211	212									5	
+citynpc37	136			Danh hiệu Hồng	200	210	211	212									5	
+citynpc38	137			Danh hiệu Hồng	200	210	211	212									5	
+citynpc39	138			Danh hiệu Hồng	200	210	211	212									5	
+citynpc40	139			Danh hiệu Hồng	200	210	211	212									5	
+citynpc41	140			Danh hiệu Cam	200	213	214	215									6	
+citynpc42	141			Danh hiệu Cam	200	213	214	215									6	
+citynpc43	142			Danh hiệu Cam	200	213	214	215									6	
+citynpc44	143			Danh hiệu Cam	200	213	214	215									6	
+citynpc45	144			Danh hiệu Cam	200	213	214	215									6	
+citynpc46	145			Danh hiệu Cam	200	213	214	215									6	
+citynpc47	146			Danh hiệu Cam	200	213	214	215									6	
+citynpc48	147			Danh hiệu Cam	200	213	214	215									6	
+citynpc49	148			Danh hiệu Cam	200	213	214	215									6	
+citynpc50	149			Danh hiệu Cam	200	213	214	215									6	
+birthplacenpc1	150	Vô Ưu Thiếu Nữ		Danh hiệu Tím	200	207	208	209								NPC Tân Thủ Thôn	4	
+birthplacenpc2	151	Tuyệt Thế Kiêu Hùng		Danh hiệu Hồng	200	210	211	212								NPC Tân Thủ Thôn	5	
+birthplacenpc3	152	Thôn Dân		Danh hiệu lam	200	204	205	206								NPC Tân Thủ Thôn	3	
+birthplacenpc4	153	Thôn Dân		Danh hiệu lam	200	204	205	206								NPC Tân Thủ Thôn	3	
+birthplacenpc5	154	Thôn Dân		Danh hiệu lam	200	204	205	206								NPC Tân Thủ Thôn	3	
+birthplacenpc6	155	Thôn Dân		Danh hiệu lam	200	204	205	206								NPC Tân Thủ Thôn	3	
+birthplacenpc7	156	Tàng Kiếm Trang Chủ		Danh hiệu Tím	200	207	208	209								NPC Tân Thủ Thôn	4	
+birthplacenpc8	157	Thôn Dân		Danh hiệu Lục	200	201	202	203								NPC Tân Thủ Thôn	2	
+birthplacenpc9	158	Thôn Dân		Danh hiệu Lục	200	201	202	203								NPC Tân Thủ Thôn	2	
+birthplacenpc10	159	Thôn Dân		Danh hiệu Lục	200	201	202	203								NPC Tân Thủ Thôn	2	
+birthplacenpc11	160	Quản Lý Sư Đồ		Danh hiệu Hồng	200	210	211	212								NPC Tân Thủ Thôn	5	
+Battle_NPC_1	201	Tống Đại Tướng		Danh hiệu Tím	200	207	208	209								Danh hiệu NPC Chiến Trường	4	
+Battle_NPC_2	202	Tống Nguyên Soái		Danh hiệu Cam	200	213	214	215								Danh hiệu NPC Chiến Trường	6	
+Battle_NPC_3	203	Kim Đại Tướng		Danh hiệu Tím	200	207	208	209								Danh hiệu NPC Chiến Trường	4	
+Battle_NPC_4	204	Kim Nguyên Soái		Danh hiệu Cam	200	213	214	215								Danh hiệu NPC Chiến Trường	6	
+Battle_NPC_5	205	Tấn công		Danh hiệu Trắng	200											Danh hiệu NPC Chiến Trường	1	
+Battle_NPC_6	206	Hồi Sinh Lực		Danh hiệu Trắng	200											Danh hiệu NPC Chiến Trường	1	
+Battle_Player_1	210	Tống Binh		Danh hiệu Trắng	200											Danh hiệu người chơi Chiến Trường	1	
+Battle_Player_2	211	Tống Hiệu Úy		Danh hiệu Lục	200	201	202	203								Danh hiệu người chơi Chiến Trường	2	
+Battle_Player_3	212	Tống Thống Lĩnh		Danh hiệu lam	200	204	205	206								Danh hiệu người chơi Chiến Trường	3	
+Battle_Player_4	213	Tống Phó Tướng		Danh hiệu Tím	200	207	208	209								Danh hiệu người chơi Chiến Trường	4	
+Battle_Player_5	214	Tống Đại Tướng		Danh hiệu Hồng	200	210	211	212								Danh hiệu người chơi Chiến Trường	5	
+Battle_Player_6	215	Tống Nguyên Soái		Danh hiệu Cam	200	213	214	215								Danh hiệu người chơi Chiến Trường	6	
+Battle_Player_7	216	Tuyển thủ Chiến Trường Tháng	Title_Normal;	Danh hiệu lam	200	204	205	206						1		Nhận tư cách Chiến Trường Tống Kim Tháng	3	
+Battle_Player_8	217	Tuyển Thủ Chiến Trường Quý	Title_Normal;Title_Purple	Danh hiệu Tím	200	207	208	209						1		Nhận tư cách Chiến Trường Tống Kim Quý	4	
+Battle_Player_10	219	Kim Binh		Danh hiệu Trắng	200											Danh hiệu người chơi Chiến Trường	1	
+Battle_Player_11	220	Kim Hiệu Úy		Danh hiệu Lục	200	201	202	203								Danh hiệu người chơi Chiến Trường	2	
+Battle_Player_12	221	Kim Thống Lĩnh		Danh hiệu lam	200	204	205	206								Danh hiệu người chơi Chiến Trường	3	
+Battle_Player_13	222	Kim Phó Tướng		Danh hiệu Tím	200	207	208	209								Danh hiệu người chơi Chiến Trường	4	
+Battle_Player_14	223	Kim Đại Tướng		Danh hiệu Hồng	200	210	211	212								Danh hiệu người chơi Chiến Trường	5	
+Battle_Player_15	224	Kim Nguyên Soái		Danh hiệu Cam	200	213	214	215								Danh hiệu người chơi Chiến Trường	6	
+Battle_Player_16	225	Đánh Đâu Thắng Đó	Title_Normal;Title_Gold	Danh hiệu Vàng	200	216	217	218	31536000					1		Đạt hạng 1 Chiến Trường Tống Kim-Năm	7	
+KinTaskNpc1	300	Võ Si		Danh hiệu lam	200	204	205	206						1		NPC Nhiệm vụ Bang Hội	3	
+FactionBattle1	301	Thiên Vương Tân Vương	Title_Normal;Title_Pink	Danh hiệu Hồng	200	210	211	212						1		Hạng 1 Thi Đấu Môn Phái nhận được danh hiệu này	5	
+FactionBattle2	302	Tiêu Dao Tân Vương	Title_Normal;Title_Pink	Danh hiệu Hồng	200	210	211	212						1		Hạng 1 Thi Đấu Môn Phái nhận được danh hiệu này	5	
+FactionBattle3	303	Đào Hoa Tân Vương	Title_Normal;Title_Pink	Danh hiệu Hồng	200	210	211	212						1		Hạng 1 Thi Đấu Môn Phái nhận được danh hiệu này	5	
+FactionBattle4	304	Nga Mi Tân Vương	Title_Normal;Title_Pink	Danh hiệu Hồng	200	210	211	212						1		Hạng 1 Thi Đấu Môn Phái nhận được danh hiệu này	5	
+FactionBattle5	305	Võ Đang Tân Vương	Title_Normal;Title_Pink	Danh hiệu Hồng	200	210	211	212						1		Hạng 1 Thi Đấu Môn Phái nhận được danh hiệu này	5	
+FactionBattle6	306	Thiên Nhẫn Tân Vương	Title_Normal;Title_Pink	Danh hiệu Hồng	200	210	211	212						1		Hạng 1 Thi Đấu Môn Phái nhận được danh hiệu này	5	
+FactionBattle7	307	Thiếu Lâm Tân Vương	Title_Normal;Title_Pink	Danh hiệu Hồng	200	210	211	212						1		Hạng 1 Thi Đấu Môn Phái nhận được danh hiệu này	5	
+FactionBattle8	308	Thúy Yên Tân Vương	Title_Normal;Title_Pink	Danh hiệu Hồng	200	210	211	212						1		Hạng 1 Thi Đấu Môn Phái nhận được danh hiệu này	5	
+FactionBattle9	309	Đường Môn Tân Vương	Title_Normal;Title_Pink	Danh hiệu Hồng	200	210	211	212						1		Hạng 1 Thi Đấu Môn Phái nhận được danh hiệu này	5	
+FactionBattle10	310	Côn Lôn Tân Vương	Title_Normal;Title_Pink	Danh hiệu Hồng	200	210	211	212						1		Hạng 1 Thi Đấu Môn Phái nhận được danh hiệu này	5	
+FactionBattle11	311	Thiên Vương Đại Sư Huynh	Title_Normal;Title_Orange	Danh hiệu Cam	200	213	214	215	2592000					1		Hạng 1 tuyển chọn Môn Phái Đại Sư Huynh/Đại Sư Tỷ được danh hiệu này	6	
+FactionBattle12	312	Tiêu Dao Đại Sư Huynh	Title_Normal;Title_Orange	Danh hiệu Cam	200	213	214	215	2592000					1		Hạng 1 tuyển chọn Môn Phái Đại Sư Huynh/Đại Sư Tỷ được danh hiệu này	6	
+FactionBattle13	313	Đào Hoa Đại Sư Tỷ	Title_Normal;Title_Orange	Danh hiệu Cam	200	213	214	215	2592000					1		Hạng 1 tuyển chọn Môn Phái Đại Sư Huynh/Đại Sư Tỷ được danh hiệu này	6	
+FactionBattle14	314	Nga Mi Đại Sư Tỷ	Title_Normal;Title_Orange	Danh hiệu Cam	200	213	214	215	2592000					1		Hạng 1 tuyển chọn Môn Phái Đại Sư Huynh/Đại Sư Tỷ được danh hiệu này	6	
+FactionBattle15	315	Võ Đang Đại Sư Huynh	Title_Normal;Title_Orange	Danh hiệu Cam	200	213	214	215	2592000					1		Hạng 1 tuyển chọn Môn Phái Đại Sư Huynh/Đại Sư Tỷ được danh hiệu này	6	
+FactionBattle16	316	Thiên Nhẫn Đại Sư Tỷ	Title_Normal;Title_Orange	Danh hiệu Cam	200	213	214	215	2592000					1		Hạng 1 tuyển chọn Môn Phái Đại Sư Huynh/Đại Sư Tỷ được danh hiệu này	6	
+FactionBattle17	317	Thiếu Lâm Đại Sư Huynh	Title_Normal;Title_Orange	Danh hiệu Cam	200	213	214	215	2592000					1		Hạng 1 tuyển chọn Môn Phái Đại Sư Huynh/Đại Sư Tỷ được danh hiệu này	6	
+FactionBattle18	318	Thúy Yên Đại Sư Tỷ	Title_Normal;Title_Orange	Danh hiệu Cam	200	213	214	215	2592000					1		Hạng 1 tuyển chọn Môn Phái Đại Sư Huynh/Đại Sư Tỷ được danh hiệu này	6	
+FactionBattle19	319	Đường Môn Đại Sư Huynh	Title_Normal;Title_Orange	Danh hiệu Cam	200	213	214	215	2592000					1		Hạng 1 tuyển chọn Môn Phái Đại Sư Huynh/Đại Sư Tỷ được danh hiệu này	6	
+FactionBattle20	320	Côn Lôn Đại Sư Tỷ	Title_Normal;Title_Orange	Danh hiệu Cam	200	213	214	215	2592000					1		Hạng 1 tuyển chọn Môn Phái Đại Sư Huynh/Đại Sư Tỷ được danh hiệu này	6	
+FactionBattle21	321	Cái Bang Tân Vương	Title_Normal;Title_Pink	Danh hiệu Hồng	200	210	211	212						1		Hạng 1 Thi Đấu Môn Phái nhận được danh hiệu này	5	
+FactionBattle22	322	Cái Bang Đại Sư Huynh	Title_Normal;Title_Orange	Danh hiệu Cam	200	213	214	215	2592000					1		Hạng 1 tuyển chọn Môn Phái Đại Sư Huynh/Đại Sư Tỷ được danh hiệu này	6	
+FactionBattle23	323	Ngũ Độc Tân Vương	Title_Normal;Title_Pink	Danh hiệu Hồng	200	210	211	212						1		Hạng 1 Thi Đấu Môn Phái nhận được danh hiệu này	5	
+FactionBattle24	324	Ngũ Độc Đại Sư Tỷ	Title_Normal;Title_Orange	Danh hiệu Cam	200	213	214	215	2592000					1		Hạng 1 tuyển chọn Môn Phái Đại Sư Huynh/Đại Sư Tỷ được danh hiệu này	6	
+FactionBattle25	325	Tàng Kiếm Tân Vương	Title_Normal;Title_Pink	Danh hiệu Hồng	200	210	211	212						1		Hạng 1 Thi Đấu Môn Phái nhận được danh hiệu này	5	
+FactionBattle26	326	Tàng Kiếm Đại Sư Huynh	Title_Normal;Title_Orange	Danh hiệu Cam	200	213	214	215	2592000					1		Hạng 1 tuyển chọn Môn Phái Đại Sư Huynh/Đại Sư Tỷ được danh hiệu này	6	
+FactionBattle27	327	Trường Ca Tân Vương	Title_Normal;Title_Pink	Danh hiệu Hồng	200	210	211	212						1		Hạng 1 Thi Đấu Môn Phái nhận được danh hiệu này	5	
+FactionBattle28	328	Trường Ca Đại Sư Tỷ	Title_Normal;Title_Orange	Danh hiệu Cam	200	213	214	215	2592000					1		Hạng 1 tuyển chọn Môn Phái Đại Sư Huynh/Đại Sư Tỷ được danh hiệu này	6	
+FactionBattle29	329	Thiên Sơn Tân Vương	Title_Normal;Title_Pink	Danh hiệu Hồng	200	210	211	212						1		Hạng 1 Thi Đấu Môn Phái nhận được danh hiệu này	5	
+FactionBattle30	330	Thiên Sơn Đại Sư Huynh	Title_Normal;Title_Orange	Danh hiệu Cam	200	213	214	215	2592000					1		Hạng 1 tuyển chọn Môn Phái Đại Sư Huynh/Đại Sư Tỷ được danh hiệu này	6	
+FactionBattle31	331	Thiên Sơn Đại Sư Tỷ	Title_Normal;Title_Orange	Danh hiệu Cam	200	213	214	215	2592000					1		Hạng 1 tuyển chọn Môn Phái Đại Sư Huynh/Đại Sư Tỷ được danh hiệu này	6	
+FactionBattle32	332	Thiên Vương Tân Vương Tháng	Title_Normal;Title_Pink	Danh hiệu Hồng	200	210	211	212	2592000					1		Danh hiệu dành cho hạng 1 Thi Đấu Môn Phái Tháng	5	
+FactionBattle33	333	Tiêu Dao Tân Vương Tháng	Title_Normal;Title_Pink	Danh hiệu Hồng	200	210	211	212	2592000					1		Danh hiệu dành cho hạng 1 Thi Đấu Môn Phái Tháng	5	
+FactionBattle34	334	Đào Hoa Tân Vương Tháng	Title_Normal;Title_Pink	Danh hiệu Hồng	200	210	211	212	2592000					1		Danh hiệu dành cho hạng 1 Thi Đấu Môn Phái Tháng	5	
+FactionBattle35	335	Nga Mi Tân Vương Tháng	Title_Normal;Title_Pink	Danh hiệu Hồng	200	210	211	212	2592000					1		Danh hiệu dành cho hạng 1 Thi Đấu Môn Phái Tháng	5	
+FactionBattle36	336	Võ Đang Tân Vương Tháng	Title_Normal;Title_Pink	Danh hiệu Hồng	200	210	211	212	2592000					1		Danh hiệu dành cho hạng 1 Thi Đấu Môn Phái Tháng	5	
+FactionBattle37	337	Thiên Nhẫn Tân Vương Tháng	Title_Normal;Title_Pink	Danh hiệu Hồng	200	210	211	212	2592000					1		Danh hiệu dành cho hạng 1 Thi Đấu Môn Phái Tháng	5	
+FactionBattle38	338	Thiếu Lâm Tân Vương Tháng	Title_Normal;Title_Pink	Danh hiệu Hồng	200	210	211	212	2592000					1		Danh hiệu dành cho hạng 1 Thi Đấu Môn Phái Tháng	5	
+FactionBattle39	339	Thúy Yên Tân Vương Tháng	Title_Normal;Title_Pink	Danh hiệu Hồng	200	210	211	212	2592000					1		Danh hiệu dành cho hạng 1 Thi Đấu Môn Phái Tháng	5	
+FactionBattle40	340	Đường Môn Tân Vương Tháng	Title_Normal;Title_Pink	Danh hiệu Hồng	200	210	211	212	2592000					1		Danh hiệu dành cho hạng 1 Thi Đấu Môn Phái Tháng	5	
+FactionBattle41	341	Côn Lôn Tân Vương Tháng	Title_Normal;Title_Pink	Danh hiệu Hồng	200	210	211	212	2592000					1		Danh hiệu dành cho hạng 1 Thi Đấu Môn Phái Tháng	5	
+FactionBattle42	342	Cái Bang Tân Vương Tháng	Title_Normal;Title_Pink	Danh hiệu Hồng	200	210	211	212	2592000					1		Danh hiệu dành cho hạng 1 Thi Đấu Môn Phái Tháng	5	
+FactionBattle43	343	Ngũ Độc Tân Vương Tháng	Title_Normal;Title_Pink	Danh hiệu Hồng	200	210	211	212	2592000					1		Danh hiệu dành cho hạng 1 Thi Đấu Môn Phái Tháng	5	
+FactionBattle44	344	Tàng Kiếm Tân Vương Tháng	Title_Normal;Title_Pink	Danh hiệu Hồng	200	210	211	212	2592000					1		Danh hiệu dành cho hạng 1 Thi Đấu Môn Phái Tháng	5	
+FactionBattle45	345	Trường Ca Tân Vương Tháng	Title_Normal;Title_Pink	Danh hiệu Hồng	200	210	211	212	2592000					1		Danh hiệu dành cho hạng 1 Thi Đấu Môn Phái Tháng	5	
+FactionBattle46	346	Thiên Sơn Tân Vương Tháng	Title_Normal;Title_Pink	Danh hiệu Hồng	200	210	211	212	2592000					1		Danh hiệu dành cho hạng 1 Thi Đấu Môn Phái Tháng	5	
+FactionBattle47	347	Thiên Vương Tân Vương Quý	Title_Normal;Title_Pink	Danh hiệu Hồng	200	210	211	212	7776000					1		Danh hiệu dành cho Hạng 1 Thi Đấu Môn Phái Quý	5	
+FactionBattle48	348	Tiêu Dao Tân Vương Quý	Title_Normal;Title_Pink	Danh hiệu Hồng	200	210	211	212	7776000					1		Danh hiệu dành cho Hạng 1 Thi Đấu Môn Phái Quý	5	
+FactionBattle49	349	Đào Hoa Tân Vương Quý	Title_Normal;Title_Pink	Danh hiệu Hồng	200	210	211	212	7776000					1		Danh hiệu dành cho Hạng 1 Thi Đấu Môn Phái Quý	5	
+FactionBattle50	350	Nga Mi Tân Vương Quý	Title_Normal;Title_Pink	Danh hiệu Hồng	200	210	211	212	7776000					1		Danh hiệu dành cho Hạng 1 Thi Đấu Môn Phái Quý	5	
+FactionBattle51	351	Võ Đang Tân Vương Quý	Title_Normal;Title_Pink	Danh hiệu Hồng	200	210	211	212	7776000					1		Danh hiệu dành cho Hạng 1 Thi Đấu Môn Phái Quý	5	
+FactionBattle52	352	Thiên Nhẫn Tân Vương Quý	Title_Normal;Title_Pink	Danh hiệu Hồng	200	210	211	212	7776000					1		Danh hiệu dành cho Hạng 1 Thi Đấu Môn Phái Quý	5	
+FactionBattle53	353	Thiếu Lâm Tân Vương Quý	Title_Normal;Title_Pink	Danh hiệu Hồng	200	210	211	212	7776000					1		Danh hiệu dành cho Hạng 1 Thi Đấu Môn Phái Quý	5	
+FactionBattle54	354	Thúy Yên Tân Vương Quý	Title_Normal;Title_Pink	Danh hiệu Hồng	200	210	211	212	7776000					1		Danh hiệu dành cho Hạng 1 Thi Đấu Môn Phái Quý	5	
+FactionBattle55	355	Đường Môn Tân Vương Quý	Title_Normal;Title_Pink	Danh hiệu Hồng	200	210	211	212	7776000					1		Danh hiệu dành cho Hạng 1 Thi Đấu Môn Phái Quý	5	
+FactionBattle56	356	Côn Lôn Tân Vương Quý	Title_Normal;Title_Pink	Danh hiệu Hồng	200	210	211	212	7776000					1		Danh hiệu dành cho Hạng 1 Thi Đấu Môn Phái Quý	5	
+FactionBattle57	357	Cái Bang Tân Vương Quý	Title_Normal;Title_Pink	Danh hiệu Hồng	200	210	211	212	7776000					1		Danh hiệu dành cho Hạng 1 Thi Đấu Môn Phái Quý	5	
+FactionBattle58	358	Ngũ Độc Tân Vương Quý	Title_Normal;Title_Pink	Danh hiệu Hồng	200	210	211	212	7776000					1		Danh hiệu dành cho Hạng 1 Thi Đấu Môn Phái Quý	5	
+FactionBattle59	359	Tàng Kiếm Tân Vương Quý	Title_Normal;Title_Pink	Danh hiệu Hồng	200	210	211	212	7776000					1		Danh hiệu dành cho Hạng 1 Thi Đấu Môn Phái Quý	5	
+FactionBattle60	360	Trường Ca Tân Vương Quý	Title_Normal;Title_Pink	Danh hiệu Hồng	200	210	211	212	7776000					1		Danh hiệu dành cho Hạng 1 Thi Đấu Môn Phái Quý	5	
+FactionBattle61	361	Thiên Sơn Tân Vương Quý	Title_Normal;Title_Pink	Danh hiệu Hồng	200	210	211	212	7776000					1		Danh hiệu dành cho Hạng 1 Thi Đấu Môn Phái Quý	5	
+FactionBattle62	362	Bá Đao Tân Vương	Title_Normal;Title_Pink	Danh hiệu Hồng	200	210	211	212						1		Hạng 1 Thi Đấu Môn Phái nhận được danh hiệu này	5	
+FactionBattle63	363	Bá Đao Tân Vương Tháng	Title_Normal;Title_Pink	Danh hiệu Hồng	200	210	211	212	2592000					1		Danh hiệu dành cho hạng 1 Thi Đấu Môn Phái Tháng	5	
+FactionBattle64	364	Bá Đao Tân Vương Quý	Title_Normal;Title_Pink	Danh hiệu Hồng	200	210	211	212	7776000					1		Danh hiệu dành cho Hạng 1 Thi Đấu Môn Phái Quý	5	
+FactionBattle65	365	Bá Đao Đại Sư Huynh	Title_Normal;Title_Orange	Danh hiệu Cam	200	213	214	215	2592000					1		Hạng 1 tuyển chọn Môn Phái Đại Sư Huynh/Đại Sư Tỷ được danh hiệu này	6	
+FactionBattle66	366	Bá Đao Đại Sư Tỷ	Title_Normal;Title_Orange	Danh hiệu Cam	200	213	214	215	2592000					1		Hạng 1 tuyển chọn Môn Phái Đại Sư Huynh/Đại Sư Tỷ được danh hiệu này	6	
+FactionBattle67	367	Võ Đang Đại Sư Tỷ	Title_Normal;Title_Orange	Danh hiệu Cam	200	213	214	215	2592000					1		Hạng 1 tuyển chọn Môn Phái Đại Sư Huynh/Đại Sư Tỷ được danh hiệu này	6	
+FactionBattle62	368	Hoa Sơn Tân Vương	Title_Normal;Title_Pink	Danh hiệu Hồng	200	210	211	212						1		Hạng 1 Thi Đấu Môn Phái nhận được danh hiệu này	5	
+FactionBattle63	369	Hoa Sơn Tân Vương Tháng	Title_Normal;Title_Pink	Danh hiệu Hồng	200	210	211	212	2592000					1		Danh hiệu dành cho hạng 1 Thi Đấu Môn Phái Tháng	5	
+FactionBattle64	370	Hoa Sơn Tân Vương Quý	Title_Normal;Title_Pink	Danh hiệu Hồng	200	210	211	212	7776000					1		Danh hiệu dành cho Hạng 1 Thi Đấu Môn Phái Quý	5	
+FactionBattle65	371	Hoa Sơn Đại Huynh	Title_Normal;Title_Orange	Danh hiệu Cam	200	213	214	215	2592000					1		Hạng 1 tuyển chọn Môn Phái Đại Sư Huynh/Đại Sư Tỷ được danh hiệu này	6	
+FactionBattle66	372	Hoa Sơn Đại Tỷ	Title_Normal;Title_Orange	Danh hiệu Cam	200	213	214	215	2592000					1		Hạng 1 tuyển chọn Môn Phái Đại Sư Huynh/Đại Sư Tỷ được danh hiệu này	6	
+FactionBattle67	373	Côn Lôn Đại Huynh	Title_Normal;Title_Orange	Danh hiệu Cam	200	213	214	215	2592000					1		Hạng 1 tuyển chọn Môn Phái Đại Sư Huynh/Đại Sư Tỷ được danh hiệu này	6	
+DrinkHouse_1	374	Người hướng dẫn thu thập nội dung	Title_Normal;Title_Pink	Danh hiệu Hồng	200	210	211	212						1		NPC Giang Hồ Thịnh Điển	5	
+FactionBattle68	375	Minh Giáo Tân Vương	Title_Normal;Title_Pink	Danh hiệu Hồng	200	210	211	212						1		Hạng 1 Thi Đấu Môn Phái nhận được danh hiệu này	5	
+FactionBattle69	376	Minh Giáo Tân Vương Tháng	Title_Normal;Title_Pink	Danh hiệu Hồng	200	210	211	212	2592000					1		Danh hiệu dành cho hạng 1 Thi Đấu Môn Phái Tháng	5	
+FactionBattle70	377	Minh Giáo Tân Vương Quý	Title_Normal;Title_Pink	Danh hiệu Hồng	200	210	211	212	7776000					1		Danh hiệu dành cho Hạng 1 Thi Đấu Môn Phái Quý	5	
+FactionBattle71	378	Minh Giáo Đại Sư Huynh	Title_Normal;Title_Orange	Danh hiệu Cam	200	213	214	215	2592000					1		Hạng 1 tuyển chọn Môn Phái Đại Sư Huynh/Đại Sư Tỷ được danh hiệu này	6	
+FactionBattle72	379	Minh Giáo Đại Sư Tỷ	Title_Normal;Title_Orange	Danh hiệu Cam	200	213	214	215	2592000					1		Hạng 1 tuyển chọn Môn Phái Đại Sư Huynh/Đại Sư Tỷ được danh hiệu này	6	
+FactionBattle73	380	Thiên Vương Đại Sư Tỷ	Title_Normal;Title_Orange	Danh hiệu Cam	200	213	214	215	2592000					1		Hạng 1 tuyển chọn Môn Phái Đại Sư Huynh/Đại Sư Tỷ được danh hiệu này	6	
+FactionBattle74	381	Đoàn Thị Tân Vương	Title_Normal;Title_Pink	Danh hiệu Hồng	200	210	211	212						1		Hạng 1 Thi Đấu Môn Phái nhận được danh hiệu này	5	
+FactionBattle75	382	Đoàn Thị Tân Vương Tháng	Title_Normal;Title_Pink	Danh hiệu Hồng	200	210	211	212	2592000					1		Danh hiệu dành cho hạng 1 Thi Đấu Môn Phái Tháng	5	
+FactionBattle76	383	Đoàn Thị Tân Vương Quý	Title_Normal;Title_Pink	Danh hiệu Hồng	200	210	211	212	7776000					1		Danh hiệu dành cho Hạng 1 Thi Đấu Môn Phái Quý	5	
+FactionBattle77	384	Đoàn Thị Đại Sư Huynh	Title_Normal;Title_Orange	Danh hiệu Cam	200	213	214	215	2592000					1		Hạng 1 tuyển chọn Môn Phái Đại Sư Huynh/Đại Sư Tỷ được danh hiệu này	6	
+FactionBattle78	385	Đoàn Thị Đại Sư Tỷ	Title_Normal;Title_Orange	Danh hiệu Cam	200	213	214	215	2592000					1		Hạng 1 tuyển chọn Môn Phái Đại Sư Huynh/Đại Sư Tỷ được danh hiệu này	6	
+FactionBattle79	386	Thiên Nhẫn Đại Tỷ	Title_Normal;Title_Orange	Danh hiệu Cam	200	213	214	215	2592000					1		Hạng 1 tuyển chọn Môn Phái Đại Sư Huynh/Đại Sư Tỷ được danh hiệu này	6	
+FactionBattle80	387	Vạn Hoa Tân Vương	Title_Normal;Title_Pink	Danh hiệu Hồng	200	210	211	212						1		Hạng 1 Thi Đấu Môn Phái nhận được danh hiệu này	5	
+FactionBattle81	388	Vạn Hoa Tân Vương Tháng	Title_Normal;Title_Pink	Danh hiệu Hồng	200	210	211	212	2592000					1		Danh hiệu dành cho hạng 1 Thi Đấu Môn Phái Tháng	5	
+FactionBattle82	389	Vạn Hoa Tân Vương Quý	Title_Normal;Title_Pink	Danh hiệu Hồng	200	210	211	212	7776000					1		Danh hiệu dành cho Hạng 1 Thi Đấu Môn Phái Quý	5	
+FactionBattle83	390	Vạn Hoa Đại Sư Huynh	Title_Normal;Title_Orange	Danh hiệu Cam	200	213	214	215	2592000					1		Hạng 1 tuyển chọn Môn Phái Đại Sư Huynh/Đại Sư Tỷ được danh hiệu này	6	
+FactionBattle84	391	Vạn Hoa Đại Sư Tỷ	Title_Normal;Title_Orange	Danh hiệu Cam	200	213	214	215	2592000					1		Hạng 1 tuyển chọn Môn Phái Đại Sư Huynh/Đại Sư Tỷ được danh hiệu này	6	
+FactionBattle85	392	Cái Bang Đại Sư Tỷ	Title_Normal;Title_Orange	Danh hiệu Cam	200	213	214	215	2592000					1		Hạng 1 tuyển chọn Môn Phái Đại Sư Huynh/Đại Sư Tỷ được danh hiệu này	6	
+Card_collection_1	400	Giang Hồ Bách Hiểu Sinh	Title_Normal;Title_Purple	Danh hiệu Tím	200	213	214	215		  		9248		1		Danh hiệu Top 30 Thu Thập Lăng Tuyệt Phong!	4	
+Card_collection_1	401	Lăng Tuyệt Tiếu Hồng Trần	Title_Normal;Title_Pink	Danh hiệu Hồng	200	213	214	215		  		9247		1		Danh hiệu Top 10 Thu Thập Lăng Tuyệt Phong!	5	
+Card_collection_1	402	Cửu Thiên Tiêu Dao Du	Title_Normal;Title_Orange	Danh hiệu Cam	200	216	217	218		  		9246		1		Danh hiệu hạng 1 Thu Thập Lăng Tuyệt Phong!	6	
+Card_collection_gq	403	Lòng Tỏ Dạ Sáng	Title_Normal;Title_Purple	Danh hiệu Tím	200	207	208	209						1		Danh hiệu thu thập Cẩm Tú Sơn Hà Top 30	4	
+Card_collection_gq	404	Vạn Sự Thông	Title_Normal;Title_Pink	Danh hiệu Hồng	200	210	211	212						2		Danh hiệu thu thập Cẩm Tú Sơn Hà Top 10	5	
+Card_collection_gq	405	Tri Thiên Hiểu Địa	Title_Normal;Title_Orange	Danh hiệu Cam	200	213	214	215						3		Danh hiệu thu thập Cẩm Tú Sơn Hà hạng 1	6	
+hd_putiantongqing1	406	Đông Như Trẩy Hội	Title_Normal;Title_Purple	Danh hiệu Tím	200	207	208	209						1		Danh hiệu Chúc Phúc Ngày Lễ Top 30	4	
+hd_putiantongqing2	407	Khách Quý Đông Đúc	Title_Normal;Title_Pink	Danh hiệu Hồng	200	210	211	212						1		Danh hiệu Chúc Phúc Ngày Lễ Top 10	5	
+hd_putiantongqing3	408	Hảo Hữu Vô Số	Title_Normal;Title_Orange	Danh hiệu Cam	200	213	214	215						1		Danh hiệu Chúc Phúc Ngày Lễ hạng 1	6	
+QSHL_Leader1	500	Phi Công		Danh hiệu Tím	200	207	208	209						2		Danh hiệu Tần Lăng	4	
+QSHL_Leader2	501	Sát Thần		Danh hiệu Tím	200	207	208	209						2		Danh hiệu Tần Lăng	4	
+QSHL_Leader3	502	Quỷ Tướng		Danh hiệu Tím	200	207	208	209						2		Danh hiệu Tần Lăng	4	
+QSHL_Boss	503	Thiên Cổ Nhất Đế		Danh hiệu Cam	200	213	214	215						3		Danh hiệu Tần Lăng	6	
+QSHL_BossFaker	504	Thủy Hoàng Thế Thân		Danh hiệu Cam	200	213	214	215						3		Danh hiệu Tần Lăng	6	
+NDYZ_Leader1	505	Nữ Đế Thủ Hộ		Danh hiệu Tím	200	207	208	209						2		Danh hiệu Tần Lăng	4	
+NDYZ_Leader2	506	Vệ Đội Trưởng		Danh hiệu Tím	200	207	208	209						2		Danh hiệu Tần Lăng	4	
+NDYZ_Leader3	507	Thần Thám		Danh hiệu Tím	200	207	208	209						2		Danh hiệu Tần Lăng	4	
+NDYZ_Boss	508	Nữ Đế Vô Song		Danh hiệu Cam	200	213	214	215						3		Danh hiệu Tần Lăng	6	
+NDYZ_BossFaker	509	Ngụy Đế Loan Cơ		Danh hiệu Cam	200	213	214	215						3		Danh hiệu Tần Lăng	6	
+KinTrain_Captain	550	Huynh Đệ Đồng Tâm		Danh hiệu Tím	200	207	208	209						1		Danh hiệu Thí Luyện Bang Hội-Mới	4	
+KinTrain_Boss	551	Kim Đại Tướng		Danh hiệu Cam	200	213	214	215						1		Danh hiệu Thí Luyện Bang Hội-Mới	6	
+KinTrain_shibing	552	Có Chuyện Muốn Nói		Danh hiệu Tím	200	207	208	209						1		Danh hiệu Thí Luyện Bang Hội-Mới	4	
+XMJD_title	600	Siêu Phàm		Danh hiệu Tím		207	208	209		UI/Atlas/Title/Title.prefab	T1_			1		Lực chiến Tâm Ma Tuyệt Địa nhận danh hiệu	4	
+XMJD_title	601	Xuất Trần		Danh hiệu Tím		207	208	209		UI/Atlas/Title/Title.prefab	T2_			2		Lực chiến Tâm Ma Tuyệt Địa nhận danh hiệu	4	
+XMJD_title	602	Kinh Hồng		Danh hiệu Tím		207	208	209		UI/Atlas/Title/Title.prefab	T3_			3		Lực chiến Tâm Ma Tuyệt Địa nhận danh hiệu	4	
+XMJD_title	603	Lăng Vân		Danh hiệu Tím		207	208	209		UI/Atlas/Title/Title.prefab	T4_			4		Lực chiến Tâm Ma Tuyệt Địa nhận danh hiệu	4	
+XMJD_title	604	Ngự Không		Danh hiệu Tím		207	208	209		UI/Atlas/Title/Title.prefab	T5_			5		Lực chiến Tâm Ma Tuyệt Địa nhận danh hiệu	4	
+XMJD_title	605	Tiềm Long		Danh hiệu Tím		207	208	209		UI/Atlas/Title/Title.prefab	T6_			6		Lực chiến Tâm Ma Tuyệt Địa nhận danh hiệu	4	
+XMJD_title	606	Ngạo Thế		Danh hiệu Tím		207	208	209		UI/Atlas/Title/Title.prefab	T7_			7		Lực chiến Tâm Ma Tuyệt Địa nhận danh hiệu	4	
+XMJD_title	607	Ỷ Thiên		Danh hiệu Tím		207	208	209		UI/Atlas/Title/Title.prefab	T8_			8		Lực chiến Tâm Ma Tuyệt Địa nhận danh hiệu	4	
+XMJD_title	608	Chí Tôn		Danh hiệu Tím		207	208	209		UI/Atlas/Title/Title.prefab	T9_			9		Lực chiến Tâm Ma Tuyệt Địa nhận danh hiệu	4	
+XMJD_title	609	Võ Thánh		Danh hiệu Tím		207	208	209		UI/Atlas/Title/Title.prefab	T12_			10		Lực chiến Tâm Ma Tuyệt Địa nhận danh hiệu	4	
+XMJD_title	610	Vô Song		Danh hiệu Tím		207	208	209		UI/Atlas/Title/Title.prefab	T15_			11		Lực chiến Tâm Ma Tuyệt Địa nhận danh hiệu	4	
+Achievement1	1000	Cùng Nhau Xuất Chiến	Title_Normal;Title_Purple	Danh hiệu Tím	200	207	208	209						1		Xuất chiến 4 đồng hành cấp S trở lên	4	
+Achievement3	1002	Sinh Tử Có Nhau	Title_Normal;Title_Pink	Danh hiệu Hồng	200	210	211	212						1		Độ thân mật cùng 3 hảo hữu đạt Lv40	5	
+Achievement6	1005	Bách Luyện Thành Cang	Title_Normal;Title_Purple	Danh hiệu Tím	200	207	208	209						1		Tham gia 20 lần Thí Luyện Bang Hội	4	
+Achievement7	1006	Niềm Vui Giúp Người	Title_Normal;	Danh hiệu lam	200	204	205	206						1		Truyền công hoặc được truyền công 30 lần	3	
+Achievement8	1007	Ở Hiền Gặp Lành	Title_Normal;Title_Purple	Danh hiệu Tím	200	207	208	209						1		Truyền công hoặc được truyền công 100 lần	4	
+Achievement9	1008	Hào Phóng	Title_Normal;Title_Purple	Danh hiệu Tím	200	207	208	209						1		Hoàn thành 1000 lần Góp Bang Hội	4	
+Achievement10	1009	Cao Thủ Cường Hóa	Title_Normal;	Danh hiệu lam	200	204	205	206						1		Cường hóa trang bị toàn thân +60 trở lên	3	
+Achievement11	1010	Bậc Thầy Cường Hóa	Title_Normal;Title_Purple	Danh hiệu Tím	200	207	208	209						1		Cường hóa trang bị toàn thân +80 trở lên	4	
+Achievement12	1011	Thợ Khảm	Title_Normal;	Danh hiệu lam	200	204	205	206						1		Toàn thân khảm đầy Đá Hồn Lv4 trở lên	3	
+Achievement13	1012	Bậc Thầy Khảm Nạm	Title_Normal;Title_Purple	Danh hiệu Tím	200	207	208	209						1		Toàn thân khảm đầy Đá Hồn Lv5 trở lên	4	
+Achievement18	1017	Giang Hồ	Title_Normal;Title_Purple	Danh hiệu Tím	200	207	208	209						1		Tích lũy điểm danh 100 ngày	4	
+Achievement21	1020	Tài Nguyên Quảng Tiến	Title_Normal;	Danh hiệu lam	200	204	205	206						1		Dùng Rung Cây Tiền 200 lần	3	
+Achievement22	1021	Thần Tài Đến	Title_Normal;Title_Purple	Danh hiệu Tím	200	207	208	209						1		Dùng Rung Cây Tiền 1000 lần	4	
+Achievement25	1024	Buôn Bán Khắp Nơi	Title_Normal;Title_Purple	Danh hiệu Tím	200	207	208	209						1		Hoàn thành 100 lần nhiệm vụ Thương Hội	4	
+Achievement26	1025	Tầm Bảo	Title_Normal;	Danh hiệu lam	200	204	205	206						1		Đào kho báu 200 lần	3	
+Achievement27	1026	Đoạt Bảo Kỳ Binh	Title_Normal;Title_Purple	Danh hiệu Tím	200	207	208	209						1		Đào kho báu 1000 lần	4	
+Achievement28	1027	Danh Mãn Giang Hồ	Title_Normal;Title_Purple	Danh hiệu Tím	200	207	208	209						1		Hoàn thành 1000 lần nhiệm vụ Trừng Ác	4	
+Achievement29	1028	Phong Vân Nổi Dậy	Title_Normal;	Danh hiệu lam	200	204	205	206						1		Bí Cảnh Phong Vân Sơn Trang đạt「Trác Việt」	3	
+Achievement30	1029	Võ Di Kinh Hồn	Title_Normal;	Danh hiệu lam	200	204	205	206						1		Bí Cảnh Võ Di Cấm Địa đạt「Trác Việt」 đạt	3	
+Achievement31	1030	Bí Cảnh Dung Hỏa	Title_Normal;	Danh hiệu lam	200	204	205	206						1		Bí Cảnh Dung Hỏa Tịch Lịch đạt「Trác Việt」	3	
+Achievement32	1031	Xông Vào Thúy Trúc U Cốc	Title_Normal;	Danh hiệu lam	200	204	205	206						1		Bí Cảnh Thúy Trúc U Cốc đạt「Trác Việt」	3	
+Achievement33	1032	Cao Thủ Lăng Tuyệt	Title_Normal;	Danh hiệu lam	200	204	205	206						1		Vượt ải Lăng Tuyệt Phong cấp 5	3	
+Achievement34	1033	Vượt Đỉnh	Title_Normal;Title_Purple	Danh hiệu Tím	200	207	208	209						1		Võ Thần Điện đạt Top 10	4	
+Achievement35	1034	Tuyệt Đỉnh	Title_Normal;Title_Pink	Danh hiệu Hồng	200	210	211	212						1		Võ Thần Điện đạt hạng 1	5	
+Achievement36	1035	Thường Thắng Sư	Title_Normal;	Danh hiệu lam	200	204	205	206						1		Tham gia Chiến Trường thắng 10 trận	3	
+Achievement37	1036	Túy Ngọa Sa Trường	Title_Normal;Title_Purple	Danh hiệu Tím	200	207	208	209						1		Tham gia 100 lần Chiến Trường	4	
+Achievement38	1037	Nhất Tướng Công Thành	Title_Normal;Title_Pink	Danh hiệu Hồng	200	210	211	212						1		Tham gia Chiến Trường thắng 100 trận	5	
+Achievement39	1038	Quân Công Cái Thế	Title_Normal;Title_Purple	Danh hiệu Tím	200	207	208	209						1		Hạng cá nhân đạt hạng 1 đủ 10 lần	4	
+Achievement40	1039	Quân Thần	Title_Normal;Title_Pink	Danh hiệu Hồng	200	210	211	212						1		Hạng cá nhân đạt hạng 1 đủ 100 lần	5	
+Achievement41	1040	Bách Chiến Bách Thắng	Title_Normal;Title_Purple	Danh hiệu Tím	200	207	208	209						1		Vượt thành công 10 lượt Khiêu Chiến Anh Hùng 10 lần	4	
+Achievement42	1041	Bách Chiến Thành Ma	Title_Normal;Title_Pink	Danh hiệu Hồng	200	210	211	212						1		Vượt thành công 10 lượt Khiêu Chiến Anh Hùng 100 lần	5	
+Achievement44	1043	Minh Chủ Xem Trọng	Title_Normal;	Danh hiệu lam	200	204	205	206						1		Khiêu chiến Minh Chủ Võ Lâm hạng chung cuộc cá nhân Top 10	3	
+Achievement45	1044	Minh Chủ Khen Ngợi	Title_Normal;Title_Purple	Danh hiệu Tím	200	207	208	209						1		Khiêu chiến Minh Chủ Võ Lâm hạng chung cuộc cá nhân Hạng 1	4	
+Achievement46	1045	Minh Chủ Thán Phục	Title_Normal;Title_Pink	Danh hiệu Hồng	200	210	211	212						1		Nhận 100 lần khiêu chiến Minh Chủ Võ Lâm cá nhân đạt hạng 1 chung cuộc	5	
+Achievement47	1046	Thủ Lĩnh Thợ Săn	Title_Normal;Title_Purple	Danh hiệu Tím	200	207	208	209						1		Diệt 100 Thủ Lĩnh Dã Ngoại	4	
+Achievement48	1047	Dã Địa Vương	Title_Normal;Title_Pink	Danh hiệu Hồng	200	210	211	212						1		Diệt 500 Thủ Lĩnh Dã Ngoại	5	
+Achievement49	1048	Thích Bảo Rương	Title_Normal;Title_Purple	Danh hiệu Tím	200	207	208	209						1		Mở 300 Rương Hoàng Kim	4	
+Achievement50	1049	Cuồng Bảo Rương	Title_Normal;Title_Pink	Danh hiệu Hồng	200	210	211	212						1		Mở 1000 Rương Hoàng Kim	5	
+Achievement51	1050	Luyện Cấp Cuồng Ma	Title_Normal;Title_Purple	Danh hiệu Tím	200	207	208	209						1		Mở trạng thái Tu Luyện 200 lần	4	
+Achievement52	1051	Thiên Nhai Lãng Khách	Title_Normal;Title_Purple	Danh hiệu Tím	200	207	208	209						1		Hoàn thành 1000 lần Tìm Kho Báu	4	
+Achievement53	1052	Thông Thiên Lộ	Title_Normal;Title_Purple	Danh hiệu Tím	200	207	208	209						1		Vào 10 lần Thông Thiên Tháp Tầng 7	4	
+Achievement54	1053	Một Bước Lên Trời	Title_Normal;Title_Pink	Danh hiệu Hồng	200	210	211	212						1		Vào 50 lần Thông Thiên Tháp Tầng 7	5	
+Achievement56	1055	Thợ Săn Bạch Hổ Đường	Title_Normal;Title_Pink	Danh hiệu Hồng	200	210	211	212						1		Trong Bạch Hổ Đường diệt 500 người chơi	5	
+Achievement57	1056	Danh Tướng Xem Trọng	Title_Normal;	Danh hiệu lam	200	204	205	206						1		Bang Hội tiêu diệt 10 lần Danh Tướng	3	
+Achievement58	1057	Danh Tướng Tán Thưởng	Title_Normal;Title_Purple	Danh hiệu Tím	200	207	208	209						1		Bang Hội tiêu diệt 100 lần Danh Tướng	4	
+Achievement59	1058	Danh Tướng Kinh Ngạc	Title_Normal;Title_Pink	Danh hiệu Hồng	200	210	211	212						1		Bang Hội tiêu diệt 500 lần Danh Tướng	5	
+Achievement60	1059	Tiêu Hành Thiên Hạ	Title_Normal;Title_Purple	Danh hiệu Tím	200	207	208	209						1		Hộ tống 100 Tiêu Xa về đích thành công	4	
+Achievement61	1060	Vô Tình	Title_Normal;	Danh hiệu lam	200	204	205	206						1		Trong Công Thành Chiến diệt 200 người chơi địch	3	
+Achievement62	1061	La Sát	Title_Normal;Title_Purple	Danh hiệu Tím	200	207	208	209						1		Trong Công Thành Chiến diệt 500 người chơi địch	4	
+Achievement63	1062	Chiến Thần	Title_Normal;Title_Pink	Danh hiệu Hồng	200	210	211	212						1		Trong Công Thành Chiến diệt 1000 người chơi địch	5	
+Achievement64	1063	Gương Sáng Noi Theo	Title_Normal;	Danh hiệu lam	200	204	205	206						1		Có 10 đệ tử xuất sư	3	
+Achievement65	1064	Học Trò Khắp Chốn	Title_Normal;Title_Purple	Danh hiệu Tím	200	207	208	209						1		Có 20 đệ tử xuất sư	4	
+Achievement66	1065	Nhất Đại Tôn Sư	Title_Normal;Title_Orange	Danh hiệu Cam	200	213	214	215						1		Có 30 đệ tử xuất sư	6	
+Achievement67	1066	Thần Công Thiên Xảo	Title_Normal;Title_Pink	Danh hiệu Hồng	200	210	211	212						1		Cấp Gia Viên đạt Lv6	5	
+Achievement68	1067	Danh Môn Vọng Đình	Title_Normal;Title_Pink	Danh hiệu Hồng	200	210	211	212						1		Độ thoải mái Gia Viên đạt Lv25	5	
+Achievement69	1068	Ai Thấy Cũng Yêu	Title_Normal;Title_Pink	Danh hiệu Hồng	200	210	211	212						1		Hấp dẫn đạt 100000	5	
+Achievement70	1069	Thương Hội Mật Hữu	Title_Normal;Title_Purple	Danh hiệu Tím	200	207	208	209						1		Hoàn thành 400 Quyển Nhiệm vụ 	4	
+Achievement71	1070	Tài Năng	Title_Normal;	Danh hiệu lam	200	204	205	206						1		Quần Anh Hội giành 6 trận thắng liên tiếp	3	
+Achievement72	1071	Thể Hiện	Title_Normal;Title_Purple	Danh hiệu Tím	200	207	208	209						1		Quần Anh Hội giành 6 trận thắng liên tiếp đủ 5 lần	4	
+Achievement73	1072	Ngạo Thị Quần Anh	Title_Normal;Title_Pink	Danh hiệu Hồng	200	210	211	212						1		Quần Anh Hội giành 6 trận thắng liên tiếp đủ 50 lần	5	
+Achievement74	1073	Sinh Tồn Cao Thủ	Title_Normal;	Danh hiệu lam	200	204	205	206						1		Thắng 1 lần trong Tâm Ma Ảo Cảnh	3	
+Achievement75	1074	Sinh Tồn Đại Sư	Title_Normal;Title_Purple	Danh hiệu Tím	200	207	208	209						1		Thắng tích lũy 10 lần trong Tâm Ma Ảo Cảnh	4	
+Achievement76	1075	Đế Hoàng Tùy Tùng	Title_Normal;Title_Purple	Danh hiệu Tím	200	207	208	209						1		Bang hội diệt Tần Thủy Hoàng/Võ Tắc Thiên 20 lần	4	
+Achievement77	1076	Đế Hoàng Thân Vệ	Title_Normal;Title_Pink	Danh hiệu Hồng	200	210	211	212						1		Bang hội diệt Tần Thủy Hoàng/Võ Tắc Thiên 100 lần	5	
+Achievement78	1077	Kiếm Hiệp Chân Chính	Title_Normal;Title_Pink	Danh hiệu Hồng	200	210	211	212						1		Tích lũy điểm danh 200 ngày	5	
+Achievement79	1078	Kiếm Hiệp Vĩnh Viễn	Title_Normal;Title_Orange	Danh hiệu Cam	200	213	214	215						1		Tích lũy điểm danh 500 ngày	6	
+Achievement80	1079	Kiếm Tâm Bất Lão	Title_Normal;Title_Gold	Danh hiệu Vàng	200	216	217	218						1		Tích lũy điểm danh 1000 ngày	7	
+Achievement81	1080	Chăm Chỉ Chuyên Cần	Title_Normal;Title_Purple	Danh hiệu Tím	200	207	208	209						1		Liên tục 30 ngày đạt 100 điểm năng động	4	
+Achievement82	1081	Ngũ Đỉnh Vạn Chung	Title_Normal;Title_Pink	Danh hiệu Hồng	200	210	211	212						1		Tích lũy 5 lần trong 1 tháng nhận tất cả thưởng điểm danh	5	
+Achievement83	1082	Bậc Thầy Thành Tựu	Title_Normal;	Danh hiệu lam	200	204	205	206						1		Điểm thành tựu đột phá 5000	3	
+Achievement84	1083	Tôn Sư Thành Tựu	Title_Normal;Title_Purple	Danh hiệu Tím	200	207	208	209						1		Điểm thành tựu đột phá 7500	4	
+Achievement85	1084	Thành Công	Title_Normal;Title_Pink	Danh hiệu Hồng	200	210	211	212						1		Điểm thành tựu đột phá 10000	5	
+Achievement86	1085	Công Thành Danh Toại	Title_Normal;Title_Orange	Danh hiệu Cam	200	213	214	215						1		Điểm thành tựu đột phá 12000	6	
+Achievement87	1086	Bậc Thầy Tẩy Luyện	Title_Normal;	Danh hiệu lam	200	204	205	206						1		Tẩy 1 trang bị trên người đến 6 hoặc trên 6 thuộc tính Tím	3	
+Achievement88	1087	Tôn Sư Tẩy Luyện	Title_Normal;Title_Purple	Danh hiệu Tím	200	207	208	209						1		Trang bị trên người tẩy luyện đến 6 hoặc trên 6 thuộc tính Tím	4	
+Achievement89	1088	Tỉnh Mộng	Title_Normal;Title_Pink	Danh hiệu Hồng	200	210	211	212						1		Thức tỉnh 4 Đồng Hành	5	
+Achievement90	1089	Quán Tuyệt Giang Hồ	Title_Normal;Title_Orange	Danh hiệu Cam	200	213	214	215						1		Đoạt Quán Quân Hoa Sơn Luận Kiếm 10 lần	6	
+Achievement91	1090	Vệ Miện Đại Sư Huynh	Title_Normal;Title_Pink	Danh hiệu Hồng	200	210	211	212						1		Liên tục đảm nhiệm 2 lần Đại Sư Huynh Thi Đấu Môn Phái	5	
+Achievement92	1091	Sống Sót	Title_Normal;Title_Pink	Danh hiệu Hồng	200	210	211	212						1		Trong Tâm Ma Ảo Cảnh/Tuyệt Địa tích lũy chiến thắng 50 lần	5	
+Achievement93	1092	Bậc Thầy Đơn Đấu	Title_Normal;Title_Purple	Danh hiệu Tím	200	207	208	209						1		Ở Tỉ Võ Trường tích lũy thắng 50 trận	4	
+Achievement94	1093	Vua Đơn Đấu	Title_Normal;Title_Pink	Danh hiệu Hồng	200	210	211	212						1		Ở Tỉ Võ Trường tích lũy thắng 100 trận	5	
+Achievement95	1094	Không Đối Thủ	Title_Normal;Title_Purple	Danh hiệu Tím	200	207	208	209						1		Di Tích Tầm Bảo tầng 3 mở Bảo Rương Lớn	4	
+Achievement96	1095	Trời Xanh Chiếu Cố	Title_Normal;Title_Purple	Danh hiệu Tím	200	207	208	209						1		Đào kho báu rơi vào Địa Cung 50 lần	4	
+Achievement97	1096	Thánh Nhân Biết Mọi Việc	Title_Normal;Title_Orange	Danh hiệu Cam	200	213	214	215						1		Hạng 1 trong BXH Thu Thập Thẻ Lăng Tuyệt Phong	6	
+Achievement98	1097	Hô Khiếu Liệt Phong	Title_Normal;	Danh hiệu lam	200	204	205	206						1		Bí Cảnh Hô Khiếu Sơn Đạo đạt 「Trác Việt」	3	
+Achievement99	1098	Tuyết Phong Tử Nhật	Title_Normal;	Danh hiệu lam	200	204	205	206						1		Bí Cảnh Tuyết Phong Tiêu Yên đạt「Trác Việt」t	3	
+Achievement100	1099	Thủy Hoàng Ban Thưởng	Title_Normal;Title_Purple	Danh hiệu Tím	200	207	208	209						1		Ở Tần Lăng nhận 100 Hòa Thị Bích	4	
+Achievement101	1100	Động Lý Càn Khôn	Title_Normal;Title_Pink	Danh hiệu Hồng	200	210	211	212						1		Trong 1 ngày vào Mật Thất Tần Lăng 20 lần	5	
+Achievement102	1101	Tặng Hoa Hồng	Title_Normal;Title_Pink	Danh hiệu Hồng	200	210	211	212						1		Tích lũy tặng 1000 lần Hoa Hồng/Cỏ May Mắn	5	
+Achievement103	1102	Thủ Lưu Dư Hương	Title_Normal;Title_Orange	Danh hiệu Cam	200	213	214	215						1		Tích lũy tặng 50 lần 99 Hoa Hồng/99 Cỏ May Mắn	6	
+Achievement104	1103	Nhật Tích Nguyệt Lụy	Title_Normal;Title_Pink	Danh hiệu Hồng	200	210	211	212						1		Nhận 1000 Hộp Quà Bang Hội	5	
+Achievement105	1104	Lắm Tiền Nhiều Của	Title_Normal;Title_Pink	Danh hiệu Hồng	200	210	211	212						1		Mời mọi người uống rượu 100 lần ở Lửa Trại Bang Hội	5	
+Achievement106	1105	Cao Thủ Hỗ Trợ	Title_Normal;Title_Pink	Danh hiệu Hồng	200	210	211	212						1		Giúp thành viên Bang hoàn thành nhiệm vụ Thương Hội 500 lần	5	
+Achievement107	1106	Nghe Lời Sư Phụ	Title_Normal;Title_Pink	Danh hiệu Hồng	200	210	211	212						1		Hoàn thành hoàn mỹ nhiệm vụ Sư Phụ giao 50 lần	5	
+Achievement108	1107	Bên Nhau Bạc Đầu	Title_Normal;Title_Pink	Danh hiệu Hồng	200	210	211	212						1		Mừng kỷ niệm 1 năm ngày cưới với bạn đời	5	
+Achievement109	1108	Truy Giết	Title_Normal;Title_Pink	Danh hiệu Hồng	200	210	211	212						1		Hoàn thành Truy Nã 100 lần	5	
+Achievement110	1109	Niềm Vui Bội Thu	Title_Normal;Title_Pink	Danh hiệu Hồng	200	210	211	212						1		Thu hoạch cây trưởng thành trong Gia Viên 100 lần	5	
+Achievement111	1110	Gương Lao Động	Title_Normal;Title_Pink	Danh hiệu Hồng	200	210	211	212						1		Giúp Hảo hữu nuôi dưỡng 1000 lần	5	
+Achievement112	1111	Định Quốc Trụ Thạch	Title_Normal;Title_Orange	Danh hiệu Cam	200	213	214	215						1		Ở Công Thành Chiến đạt 100 Liên Trảm	6	
+Achievement113	1112	Thập Toàn Năng	Title_Normal;Title_Orange	Danh hiệu Cam	200	213	214	215						1		Đoạt được Tân Vương của 10 môn phái khác nhau	6	
+TestActivity1	2000	Trung Nguyên Đại Hiệp	Title_Normal;Title_Orange	Danh hiệu Cam	200	213	214	215						1		Biểu tượng thân phận và địa vị, hạng 1 bảng lực chiến nhận danh hiệu này	6	
+TestActivity2	2001	Giang Nam Danh Hiệp	Title_Normal;Title_Pink	Danh hiệu Hồng	200	210	211	212						1		Biểu tượng thân phận và địa vị, hạng 2-10 bảng lực chiến nhận danh hiệu này	5	
+TestActivity3	2002	Nhân Tài Võ Lâm	Title_Normal;Title_Purple	Danh hiệu Tím	200	207	208	209						1		Biểu tượng thân phận và địa vị, hạng 11-50 bảng lực chiến nhận danh hiệu này	4	
+TestActivity4	2003	Giang Hồ Tân Tú	Title_Normal;	Danh hiệu lam	200	204	205	206						1		Biểu tượng thân phận và địa vị, hạng 51-200 bảng lực chiến nhận danh hiệu này	3	
+TestActivity5	2004	Nối Lại Duyên Xưa	Title_Normal;	Danh hiệu lam	200	204	205	206						1		Danh hiệu đặc biệt nhận trong hoạt động Chiêu Mộ Anh Hùng trước khi OB	3	
+Title1	2005	Tung Hoành Giang Hồ	Title_Normal;	Danh hiệu đặc biệt (Lục) 	200	219	220	221						1		Khởi động Game VLTKm nhận danh hiệu này	2	
+Title2	2006	Hồng Bá Thiên Hạ	Title_Normal;	Danh hiệu đặc biệt (Đỏ) 	200	222	223	224						1		Thành viên VLTKm đăng nhập nhận được		
+Title3	2007	Nhân Vật Ngọc Đường	Title_Normal;	Danh hiệu đặc biệt (Đỏ) 	200	222	223	224						1		Bôn tẩu giang hồ, ngạo thị quần hùng!		
+Title4	2008	Bảo Bối Thập Đại Bang Hội	Title_Normal;	Danh hiệu đặc biệt (Đỏ) 	200	222	223	224	5184000					1		Top 10 Bầu Chọn Bảo Bối Bang Hội		
+Title5	2009	Vương Giả Trở Về	Title_Normal;Title_Purple	Danh hiệu Tím	200	207	208	209						1		Danh hiệu đặc biệt người cũ trở về	4	
+Title6	2010	Người Khai Phá	Title_Normal;Title_Purple	Danh hiệu Tím	200	207	208	209						1		Danh hiệu đặc biệt người cũ trở về	4	
+Title7	2011	Ngạo Thế	Title_Normal;Title_Orange	Danh hiệu Cam	200	213	214	215						1	「$M」đạt Top 500 BXH Lực chiến toàn máy chủ, nhận danh hiệu【Thiên Hạ Vô Địch】	Lực chiến toàn máy chủ Top 500	6	
+Title8	2012	Thiên Vương Hào Kiệt	Title_Normal;Title_Orange	Danh hiệu Cam	200	213	214	215						1	「$M」đạt Top 500 BXH Thiên Vương, nhận danh hiệu【Thiên Vương Hào Kiệt】	Lực chiến Thiên Vương toàn máy chủ Top 500	6	
+Title9	2013	Tiêu Dao Hào Kiệt	Title_Normal;Title_Orange	Danh hiệu Cam	200	213	214	215						1	「$M」đạt Top 500 BXH Tiêu Dao, nhận danh hiệu【Tiêu Dao Hào Kiệt】	Lực chiến Tiêu Dao toàn máy chủ Top 500	6	
+Title10	2014	Đào Hoa Hào Kiệt	Title_Normal;Title_Orange	Danh hiệu Cam	200	213	214	215						1	「$M」đạt Top 500 BXH Đào Hoa, nhận danh hiệu【Đào Hoa Hào Kiệt】	Lực chiến Đào Hoa toàn máy chủ Top 500	6	
+Title11	2015	Nga Mi Hào Kiệt	Title_Normal;Title_Orange	Danh hiệu Cam	200	213	214	215						1	「$M」đạt Top 500 BXH Nga Mi, nhận danh hiệu【Nga Mi Hào Kiệt】	Lực chiến Nga Mi toàn máy chủ Top 500	6	
+Title12	2016	Võ Đang Hào Kiệt	Title_Normal;Title_Orange	Danh hiệu Cam	200	213	214	215						1	「$M」đạt Top 500 BXH Võ Đang, nhận danh hiệu【Võ Đang Hào Kiệt】	Lực chiến Võ Đang toàn máy chủ Top 500	6	
+Title13	2017	Thiên Nhẫn Hào Kiệt	Title_Normal;Title_Orange	Danh hiệu Cam	200	213	214	215						1	「$M」đạt Top 500 BXH Thiên Nhẫn, nhận danh hiệu【Thiên Nhẫn Hào Kiệt】	Lực chiến Thiên Nhẫn toàn máy chủ Top 500	6	
+Title14	2018	Thiếu Lâm Hào Kiệt	Title_Normal;Title_Orange	Danh hiệu Cam	200	213	214	215						1	「$M」đạt Top 500 BXH Thiếu Lâm, nhận danh hiệu【Thiếu Lâm Hào Kiệt】	Lực chiến Thiếu Lâm toàn máy chủ Top 500	6	
+Title15	2019	Thúy Yên Hào Kiệt	Title_Normal;Title_Orange	Danh hiệu Cam	200	213	214	215						1	「$M」đạt Top 500 BXH Thúy Yên, nhận danh hiệu【Thúy Yên Hào Kiệt】	Lực chiến Thúy Yên toàn máy chủ Top 500	6	
+Title16	2020	Đường Môn Hào Kiệt	Title_Normal;Title_Orange	Danh hiệu Cam	200	213	214	215						1	「$M」đạt Top 500 BXH Đường Môn, nhận danh hiệu【Đường Môn Hào Kiệt】	Lực chiến Đường Môn toàn máy chủ Top 500	6	
+Title17	2021	Côn Lôn Hào Kiệt	Title_Normal;Title_Orange	Danh hiệu Cam	200	213	214	215						1	「$M」đạt Top 500 BXH Côn Lôn, nhận danh hiệu【Côn Lôn Hào Kiệt】	Lực chiến Côn Lôn toàn máy chủ Top 500	6	
+Title18	2022	Bang Hội Đệ Nhất Nhân Khí	Title_Normal;Title_Orange	Danh hiệu Cam	200	213	214	215						1		Bầu chọn Bang Hội Đệ Nhất Nhân Khí	6	
+Title19	2023	Thịnh Điển Thượng Tân	Title_Normal;Title_Orange	Danh hiệu Cam	200	213	214	215						1		Tặng kèm vé cổng event	6	
+Title20	2024	Hào Kiệt Ngũ Độc	Title_Normal;Title_Orange	Danh hiệu Cam	200	213	214	215						1	「$M」đạt Top 500 BXH Ngũ Độc toàn máy chủ, nhận danh hiệu【Hào Kiệt Ngũ Độc】	Top 500 Lực Chiến Ngũ Độc toàn máy chủ	6	
+Title21	2025	Hào Kiệt Cái Bang	Title_Normal;Title_Orange	Danh hiệu Cam	200	213	214	215						1	「$M」đạt Top 500 BXH Cái Bang toàn máy chủ, nhận danh hiệu【Hào Kiệt Cái Bang】	Top 500 Lực Chiến Cái Bang toàn máy chủ	6	
+Title22	2026	Ma Nữ Tóc Dài	Title_Normal;Title_Pink	Danh hiệu Hồng	200	210	211	212						1			5	
+Title23	2027	Độc Bộ Thiên Hạ	Title_Normal;	Danh hiệu đặc biệt (Đỏ) 	200	222	223	224						1		Danh hiệu dành riêng hoạt động thử nghiệm		
+Title24	2028	Cái Thế Vô Song	Title_Normal;	Danh hiệu đặc biệt (Đỏ) 	200	222	223	224						1		Danh hiệu dành riêng hoạt động thử nghiệm		
+Title25	2029	Danh Nghĩa Đại Hiệp	Title_Normal;	Danh hiệu đặc biệt (Đỏ) 	200	222	223	224	7776000					1				
+Title26	2030	Võ Lâm Tân Tú	Title_Normal;Title_Pink	Danh hiệu Hồng	200	210	211	212	2592000					1		Đại hiệp mới vào giang hồ đã tỏ rõ tài năng, hoạt động Phúc lợi nhận 	5	
+Title27	2031	Lực Hồng Hoang	Title_Normal;Title_Pink	Danh hiệu Hồng	200	210	211	212	2592000					1		Cả giang hồ đều biết đại hiệp rất nỗ lực, đạt thành tựu xuất sắc ở máy chủ mới nhận được	5	
+Title28	2032	Truyền Thuyết Võ Lâm	Title_Normal;Title_Pink	Danh hiệu Hồng	200	210	211	212	2592000					1		Không phải ai cũng xứng với 2 chữ huyền thoại, dành cho người chơi lâu năm trở lại giang hồ	5	
+Title29	2033	Danh Chấn Giang Hồ	Title_Normal;Title_Pink	Danh hiệu Hồng	200	210	211	212	2592000					1		Nhìn là biết cao thủ, người chơi lâu năm trở lại giang hồ đạt được thành tựu nhận 	5	
+Title30	2034	Song Hành	Title_Normal;Title_Orange	Danh hiệu Cam	200	213	214	215	7776000					1		Như Hình Với Bóng	6	
+Title31	2035	Nhớ Mãi	Title_Normal;Title_Orange	Danh hiệu Cam	200	213	214	215	7776000					1		Lâm Triều Hoa đại diện Võ Lâm Truyền Kỳ Mobile	6	
+Title32	2036	Triệu Ân Đồng	Title_Normal;Title_Orange	Danh hiệu Cam	200	213	214	215	7776000					1		Tại hạ vẫn là một đứa trẻ	6	
+Title33	2037	Hoa Dễ Thương	Title_Normal;Title_Orange	Danh hiệu Cam	200	213	214	215	7776000					1		Dành cho hoạt động Mừng Sinh Nhật	6	
+Title34	2038	Cùng Đón Sinh Nhật	Title_Normal;Title_Pink	Danh hiệu Hồng	200	210	211	212	15552000					1		Dành cho hoạt động Mừng Sinh Nhật Võ Lâm Truyền Kỳ	5	
+Title35	2039	Nghĩa Tương Phùng	Title_Normal;Title_Pink	Danh hiệu Hồng	200	210	211	212	15552000					1		Dành cho hoạt động Mừng Sinh Nhật Võ Lâm Truyền Kỳ	5	
+Title36	2040	Nhất Hô Bách Ứng	Title_Normal;	Danh hiệu đặc biệt (Đỏ) 	200	222	223	224	7776000					1		Chỉ cần ta lên tiếng, hơn 100 người trả lời ta, ngươi có tin không? Hoạt động chỉ định mời hảo hữu đạt yêu cầu nhận được		
+Title37	2041	Tàng Kiếm Hào Kiệt	Title_Normal;Title_Orange	Danh hiệu Cam	200	213	214	215						1	「$M」đạt Hạng Lực Chiến Tàng Kiếm Toàn Máy Chủ Top 500, nhận được danh hiệu【Tàng Kiếm Hào Kiệt 】	Hạng Lực Chiến Tàng Kiếm Toàn Máy Chủ Top 500	6	
+Title38	2042	Trường Ca Hào Kiệt	Title_Normal;Title_Orange	Danh hiệu Cam	200	213	214	215						1	「$M」đạt Hạng Lực Chiến Trường Ca Toàn Máy Chủ Top 500, nhận được danh hiệu【Trường Ca Hào Kiệt 】	Hạng Lực Chiến Trường Ca Toàn Máy Chủ Top 500	6	
+Title39	2043	Đệ Nhất Tiềm Long	Title_Normal;Title_Pink	Danh hiệu Hồng	200	210	211	212						1		Trong hoạt động Đua Top Quân Hàm Tiềm Long xếp [FFFE0D]hạng 1[-]	5	
+Title40	2044	Đệ Nhất Ỷ Thiên	Title_Normal;Title_Pink	Danh hiệu Hồng	200	210	211	212						1		Trong hoạt động Đua Top Quân Hàm Ỷ Thiên xếp [FFFE0D]hạng 1[-]	5	
+Title41	2045	Thập Đại Tiềm Long	Title_Normal;Title_Purple	Danh hiệu Tím	200	207	208	209						1		Trong hoạt động Đua Top Quân Hàm Tiềm Long xếp [FFFE0D]hạng 2-10[-]	4	
+Title42	2046	Thập Đại Ỷ Thiên	Title_Normal;Title_Purple	Danh hiệu Tím	200	207	208	209						1		Trong hoạt động Đua Top Quân Hàm Ỷ Thiên xếp [FFFE0D]hạng 2-10[-]	4	
+Title43	2047	Bổng Đả Uyên Ương	Title_Normal;Title_Pink	Danh hiệu Hồng	200	210	211	212						1		Trong hoạt động Danh Tướng Liên SV hoàn thành đòn kết liễu với Hạng Vũ-Chân Thân	5	
+Title44	2048	Duy Ngã Độc Tôn	Title_Normal;Title_Orange	Danh hiệu Cam	200	213	214	215	604800					1	「$M」đạt hạng 1 sát thương Minh Chủ Võ Lâm Liên SV, nhận được danh hiệu【Duy Ngã Độc Tôn】	Hạng 1 sát thương cá nhân Minh Chủ Võ Lâm Liên SV nhận danh hiệu này	6	
+Title45	2049	Bất Phân Thắng Bại	Title_Normal;Title_Pink	Danh hiệu Hồng	200	210	211	212	604800					1		Hạng 2-3 sát thương cá nhân Minh Chủ Võ Lâm Liên SV nhận danh hiệu này	5	
+Title46	2050	Xuất Chúng	Title_Normal;Title_Purple	Danh hiệu Tím	200	207	208	209	604800					1		Hạng 4-10 sát thương cá nhân Minh Chủ Võ Lâm Liên SV nhận danh hiệu này	4	
+Title47	2051	Thầy Tốt Bạn Hiền	Title_Normal;Title_Purple	Danh hiệu Tím	200	207	208	209	2592000					1		Với tư cách sư phụ, trong hoạt động Lễ Sư Đồ, khiêu chiến Thí Luyện Sư Đồ [FFFE0D]5 lần[-] thành công	4	
+Title48	2052	Bách Thế Chi Sư	Title_Normal;Title_Pink	Danh hiệu Hồng	200	210	211	212	2592000					1		Với tư cách sư phụ, trong hoạt động Lễ Sư Đồ, khiêu chiến Thí Luyện Sư Đồ [FFFE0D]10 lần[-] thành công	5	
+Title49	2053	Môn Sinh Tài Ba	Title_Normal;Title_Purple	Danh hiệu Tím	200	207	208	209	2592000					1		Với tư cách đồ đệ, trong hoạt động Lễ Sư Đồ, khiêu chiến Thí Luyện Sư Đồ [FFFE0D]5 lần[-] thành công	4	
+Title50	2054	Thiên Sơn Hào Kiệt	Title_Normal;Title_Orange	Danh hiệu Cam	200	213	214	215						1	Chúc mừng「$M」đạt TOP 500 Lực Chiến Thiên Sơn, nhận danh hiệu【Thiên Sơn Hào Kiệt】	TOP 500 Lực Chiến Thiên Sơn	6	
+Title51	2055	Kiếm Khởi Tinh Đồ	Title_Normal;Title_Orange	Danh hiệu Cam	200	213	214	215						1	Chúc mừng đại hiệp trở thành người dẫn chương trình nổi tiếng, nhận danh hiệu này	Chúc mừng đại hiệp trở thành người dẫn chương trình nổi tiếng, nhận danh hiệu này	6	
+Title52	2056	Quý Tộc Độc Thân	Title_Normal;Title_Gold	Danh hiệu Vàng	200	216	217	218	2592000					1			7	
+Title53	2057	Nhân Duyên	Title_Normal;Title_Pink	Danh hiệu Hồng	200	210	211	212						1		Cốt truyện Kiếm Hiệp Tình Duyên, gặp được lương duyên, cùng đến hạnh phúc!	5	
+Title54	2058	Bá Đao Hào Kiệt	Title_Normal;Title_Orange	Danh hiệu Cam	200	213	214	215						1	Chúc mừng「$M」đạt Top 500 BXH Lực Chiến Bá Đao toàn server, nhận danh hiệu【Bá Đao Hào Kiệt】	Đạt Top 500 BXH Lực Chiến Bá Đao toàn server	6	
+Title55	2059	Hoa Sơn Hào Kiệt	Title_Normal;Title_Orange	Danh hiệu Cam	200	213	214	215						1	「$M」đạt Top 500 Lực Chiến Hoa Sơn, nhận danh hiệu【Hoa Sơn Hào Kiệt】	Top 500 Lực Chiến Hoa Sơn Toàn Server	6	
+Title56	2060	Minh Giáo Hào Kiệt	Title_Normal;Title_Orange	Danh hiệu Cam	200	213	214	215						1	Chúc mừng top 500 hạng lực chiến Minh Giáo toàn server khu「$M」, nhận danh hiệu [Minh Giáo Hào Kiệt]	Top 500 hạng lực chiến Minh Giáo toàn server khu	6	
+Title57	2061	Đoàn Thị Hào Kiệt	Title_Normal;Title_Orange	Danh hiệu Cam	200	213	214	215						1	Chúc mừng「$M」đạt Top 500 Hạng Lực Chiến Đoàn Thị toàn server, nhận danh hiệu【Đoàn Thị Hào Kiệt】	Top 500 Hạng Lực Chiến Đoàn Thị toàn server	6	
+Prison1	2100	Lôi Trì	Title_Normal;	Danh hiệu đặc biệt (Đỏ) 	200	222	223	224						1		Hành động bất nghĩa, nhận tiền phi nghĩa.		
+HK_Title1	2500	Tung Hoành Nhất Bang	Title_Normal;	Danh hiệu đặc biệt (Đỏ) 	200	222	223	224	2592000					1				
+HK_Title2	2501	Nhị Lộ Đại Bang	Title_Normal;	Danh hiệu đặc biệt (Đỏ) 	200	222	223	224	2592000					1				
+HK_Title3	2502	Hải Tuyến Đệ Nhất	Title_Normal;	Danh hiệu đặc biệt (Đỏ) 	200	222	223	224	2592000					1				
+HK_Title4	2503	Người Nắm Quyền	Title_Normal;	Danh hiệu đặc biệt (Đỏ) 	200	222	223	224	2592000					1				
+HK_Title5	2504	Kim Bài Đả Thủ	Title_Normal;	Danh hiệu đặc biệt (Đỏ) 	200	222	223	224	2592000					1				
+HK_Title6	2505	Cổ Hoặc Tử	Title_Normal;	Danh hiệu đặc biệt (Đỏ) 	200	222	223	224	2592000					1				
+HK_Title7	2506	Trọc Thủy Khê Chủ	Title_Normal;	Danh hiệu đặc biệt (Đỏ) 	200	222	223	224	2592000					1				
+HK_Title8	2507	Thiên Hạ Đệ Nhất Bang	Title_Normal;	Danh hiệu đặc biệt (Đỏ) 	200	222	223	224	2592000					1				
+HK_Title9	2508	Sơn Tuyến Vô Địch	Title_Normal;	Danh hiệu đặc biệt (Đỏ) 	200	222	223	224	2592000					1				
+HK_Title10	2509	Tung Hoành Giang Hồ	Title_Normal;	Danh hiệu đặc biệt (Đỏ) 	200	222	223	224	2592000					1				
+HK_Title11	2510	Ngạo Thị Quần Hùng	Title_Normal;	Danh hiệu lam	200	204	205	206	2592000					1			3	
+HK_Title12	2511	Vượt Trội Hơn Người	Title_Normal;	Danh hiệu lam	200	204	205	206	2592000					1			3	
+HK_Title13	2512	Độc Cô Cầu Bại	Title_Normal;	Danh hiệu lam	200	204	205	206	2592000					1			3	
+HK_Title14	2513	Cái Thế Vô Song	Title_Normal;	Danh hiệu lam	200	204	205	206	2592000					1			3	
+HK_Title15	2514	Cao Thủ Tuyệt Đỉnh	Title_Normal;	Danh hiệu lam	200	204	205	206	2592000					1			3	
+HK_Title16	2515	Khó Ai Địch Lại	Title_Normal;	Danh hiệu lam	200	204	205	206	2592000					1			3	
+HK_Title17	2516	Kinh Hồng Hiệp Ảnh	Title_Normal;Title_Orange	Danh hiệu Cam	200	213	214	215						1			6	
+HK_Title18	2517	Danh Trấn Trung Nguyên	Title_Normal;Title_Orange	Danh hiệu Cam	200	213	214	215						1			6	
+HK_Title19	2518	Lẫy Lừng Xưa Nay	Title_Normal;Title_Orange	Danh hiệu Cam	200	213	214	215						1			6	
+HK_Title20	2519	Người Nổi Bật	Title_Normal;Title_Purple	Danh hiệu Tím	200	207	208	209	2592000					1			4	
+HK_Title21	2520	Dẫn Đầu Trào Lưu	Title_Normal;Title_Purple	Danh hiệu Tím	200	207	208	209	2592000					1			4	
+HK_Title22	2521	Ngôi Sao Ngoại Trang	Title_Normal;Title_Purple	Danh hiệu Tím	200	207	208	209	2592000					1			4	
+HK_Admin_Title23	2522	Tiểu Kiếm Hiệp		Danh hiệu Cam	200	213	214	215	2592000					1			6	
+HK_Admin_Title24	2523	GM Đại Hiệp		Danh hiệu Cam	200	213	214	215	2592000					1			6	
+HK_Admin_Title25	2524	Đại Hiệp Hoạt Động		Danh hiệu Cam	200	213	214	215	2592000					1			6	
+HK_Admin_Title26	2525	Đại Hiệp Phát Quà		Danh hiệu đặc biệt (Đỏ) 	200	222	223	224	2592000					1				
+HK_Admin_Title27	2526	Hướng Dẫn Tân Thủ		Danh hiệu Vàng	200	216	217	218	2592000					1			7	
+HK_Admin_Title28	2527	Cái Thế Vô Song		Danh hiệu đặc biệt (Đỏ) 	200	222	223	224						1				
+HK_Admin_Title29	2528	Cao Thủ Tuyệt Đỉnh		Danh hiệu đặc biệt (Đỏ) 	200	222	223	224						1				
+HK_Admin_Title30	2529	Khó Ai Địch Lại		Danh hiệu đặc biệt (Đỏ) 	200	222	223	224						1				
+HK_Admin_Title31	2530	Nguyệt Mãn Càn Khôn		Danh hiệu Tím	200	207	208	209	2592000					1			4	
+HK_Admin_Title32	2531	Hoa Hảo Nguyệt Viên		Danh hiệu lam	200	204	205	206	2592000					1			3	
+HK_Title33	2532	Uy Chấn Võ Lâm	Title_Normal;Title_Orange	Danh hiệu Cam	200	213	214	215	259200					1			6	
+HK_Title34	2533	Đệ Nhất Bang 1	Title_Normal;	Danh hiệu đặc biệt (Đỏ) 	200	222	223	224	1296000					1				
+HK_Title35	2534	Đệ Nhất Bang 2	Title_Normal;	Danh hiệu đặc biệt (Đỏ) 	200	222	223	224	1296000					1				
+HK_Title36	2535	Đệ Nhất Bang 3	Title_Normal;	Danh hiệu đặc biệt (Đỏ) 	200	222	223	224	1296000					1				
+HK_Title37	2536	Hùng Bá Một Phương	Title_Normal;	Danh hiệu đặc biệt (Đỏ) 	200	222	223	224	1296000					1				
+HK_Title38	2537	Nghĩa Bạc Vân Thiên	Title_Normal;	Danh hiệu đặc biệt (Đỏ) 	200	222	223	224						1				
+HK_Title39	2538	Trượng Kiếm Thiên Nhai	Title_Normal;	Danh hiệu đặc biệt (Đỏ) 	200	222	223	224						1				
+HK_Title40	2539	Mãnh Long Quá Giang	Title_Normal;	Danh hiệu đặc biệt (Đỏ) 	200	222	223	224						1				
+HK_Title41	2540	Một Tay Che Trời	Title_Normal;	Danh hiệu đặc biệt (Đỏ) 	200	222	223	224						1				
+HK_Title42	2541	Trăm Trận Trăm Thắng	Title_Normal;	Danh hiệu đặc biệt (Đỏ) 	200	222	223	224						1				
+HK_Title43	2542	Kẻ Thắng Làm Vua	Title_Normal;	Danh hiệu đặc biệt (Đỏ) 	200	222	223	224						1				
+HK_Title44	2543	Cái Thế Anh Hùng	Title_Normal;	Danh hiệu đặc biệt (Đỏ) 	200	222	223	224						1				
+HK_Title45	2544	Nhân Kiếm Hợp Nhất	Title_Normal;	Danh hiệu đặc biệt (Đỏ) 	200	222	223	224						1				
+HK_Title46	2545	Hiệp Can Nghĩa Đảm	Title_Normal;	Danh hiệu đặc biệt (Đỏ) 	200	222	223	224						1				
+HK_Title47	2546	Ngọa Hổ Tàng Long	Title_Normal;	Danh hiệu đặc biệt (Đỏ) 	200	222	223	224						1				
+HK_Title48	2547	Loạn Thế Anh Hùng	Title_Normal;	Danh hiệu đặc biệt (Đỏ) 	200	222	223	224						1				
+HK_Title49	2548	Độc Cô Cửu Kiếm	Title_Normal;Title_Orange	Danh hiệu Cam	200	213	214	215	604800					1			6	
+HK_Title50	2549	Mê Tung Tiên Phái	Title_Normal;	Danh hiệu đặc biệt (Lục) 	200	219	220	221	604800					1				
+HK_Title51	2550	Tài Phú Ngũ Xa	Title_Normal;	Danh hiệu đặc biệt (Đỏ) 	200	222	223	224	604800					1				
+HK_Title52	2551	Võ Lâm Chí Tôn	Title_Normal;Title_Orange	Danh hiệu Cam	200	213	214	215	604800					1			6	
+HK_Title53	2552	Thiên Hạ Vô Song	Title_Normal;Title_Orange	Danh hiệu Cam	200	213	214	215	604800					1			6	
+HK_Title54	2553	Kim Bài Đả Thủ	Title_Normal;	Danh hiệu đặc biệt (Đỏ) 	200	222	223	224	604800					1				
+HK_Title55	2554	Cử Thế Vô Song	Title_Normal;	Danh hiệu đặc biệt (Đỏ) 	200	222	223	224	604800					1				
+HK_Title56	2555	Tài Nghệ Cao Siêu	Title_Normal;	Danh hiệu đặc biệt (Đỏ) 	200	222	223	224	604800					1				
+HK_Title57	2556	Lô Hỏa Thuần Thanh	Title_Normal;	Danh hiệu đặc biệt (Đỏ) 	200	222	223	224	604800					1				
+HK_Title58	2557	Thân Thủ Bất Phàm	Title_Normal;	Danh hiệu đặc biệt (Đỏ) 	200	222	223	224	604800					1				
+HK_Title59	2558	Đạt Đến Đỉnh Cao	Title_Normal;	Danh hiệu đặc biệt (Đỏ) 	200	222	223	224	604800					1				
+HK_Title60	2559	Bá Nhạc	Title_Normal;	Danh hiệu đặc biệt (Đỏ) 	200	222	223	224						1				
+HK_Title61	2560	Chủ Nhân Thần Thú	Title_Normal;Title_Purple	Danh hiệu Tím	200	207	208	209	2592000					1			4	
+HK_Title62	2561	Ngôi Sao Siêu Cấp	Title_Normal;Title_Orange	Danh hiệu Cam	200	213	214	215	1728000					1			6	
+HK_Title63	2562	Linh Hồn Đạo Sư	Title_Normal;Title_Purple	Danh hiệu Tím	200	207	208	209	1728000					1			4	
+HK_Title64	2563	Thần Tài	Title_Normal;	Danh hiệu đặc biệt (Đỏ) 	200	222	223	224	1296000					1				
+HK_Title65	2564	Say Nắng	Title_Normal;Title_Purple	Danh hiệu Tím	200	207	208	209	1296000					1			4	
+HK_Title66	2565	Ngũ Phúc Lâm Môn	Title_Normal;Title_Orange	Danh hiệu Cam	200	213	214	215						1			6	
+HK_Title67	2566	Vạn Sự Như Ý	Title_Normal;	Danh hiệu đặc biệt (Đỏ) 	200	222	223	224	2592000					1				
+HK_Title68	2567	Tài Năng	Title_Normal;	Danh hiệu lam	200	204	205	206	2592000					1			3	
+HK_Title69	2568	Chúng Tinh Bổng Nguyệt	Title_Normal;Title_Purple	Danh hiệu Tím	200	207	208	209	5184000					1			4	
+HK_Title70	2569	Lâm Phong	Title_Normal;Title_Orange	Danh hiệu Cam	200	213	214	215	5184000					1			6	
+HK_Title71	2570	Tuyệt Sắc	Title_Normal;Title_Orange	Danh hiệu Cam	200	213	214	215	5184000					1			6	
+HK_Title72	2571	Tửu Luận Anh Hùng	Title_Normal;	Danh hiệu đặc biệt (Đỏ) 	200	222	223	224	2592000					1				
+FubenNpc	3000	Cổ vũ		Danh hiệu lam	200	204	205	206						1		Danh hiệu NPC phó bản	3	
+FubenNpc	3001	Nhanh Nhẹn		Danh hiệu lam	200	204	205	206						1		Danh hiệu NPC phó bản	3	
+FubenNpc	3002	Trị liệu		Danh hiệu lam	200	204	205	206						1		Danh hiệu NPC phó bản	3	
+FubenNpc	3003	Thi Bộc		Danh hiệu Tím	200	207	208	209						1		Danh hiệu NPC phó bản	4	
+FubenNpc	3004	Phản đòn		Danh hiệu Tím	200	207	208	209						1		Danh hiệu NPC phó bản	4	
+FubenNpc	3005	Diệt nhanh		Danh hiệu đỏ	300			301						1		Danh hiệu NPC phó bản		
+FubenNpc	3006	Kịch độc		Danh hiệu lam	200	204	205	206						1		Danh hiệu NPC phó bản	3	
+FubenNpc	3007	Diệt trước		Danh hiệu đỏ	300			301						1		Danh hiệu NPC phó bản		
+FubenNpc	3008	Cường Thể		Danh hiệu lam	200	204	205	206						1		Danh hiệu NPC phó bản	3	
+FubenNpc	3009	Miễn dịch đánh lui		Danh hiệu lam	200	204	205	206						1		Danh hiệu NPC phó bản	3	
+FubenNpc	3010	Tiếng Vọng Năm Xưa		Danh hiệu Tím	200	207	208	209						1		Danh hiệu NPC phó bản	4	
+FubenNpc	3011	Mở mau		Danh hiệu đỏ	300			301						1		Danh hiệu NPC phó bản		
+FubenNpc	3012	Diệt mau		Danh hiệu đỏ	300			301						1		Danh hiệu NPC phó bản		
+FubenNpc	3013	Phản Xạ		Danh hiệu Tím	200	207	208	209						1		Danh hiệu NPC phó bản	4	
+FubenNpc	3014	Thiên Sơn Nữ Hiệp		Danh hiệu Tím	200	207	208	209						1		Danh hiệu NPC phó bản	4	
+FubenNpc	3015	Võ Lâm Nghĩa Sĩ		Danh hiệu lam	200	204	205	206						1		Danh hiệu NPC phó bản	3	
+FubenNpc	3016	Hộ Vệ Tinh Nhuệ		Danh hiệu Lục	200	201	202	203						1		Danh hiệu NPC phó bản	2	
+VN_Title1	3500	Lưu Danh Thiên Hạ	Title_Normal;	Danh hiệu đặc biệt (Đỏ) 	200	222	223	224						1				
+VN_Title2	3501	Danh hiệu Đỏ 2	Title_Normal;	Danh hiệu đặc biệt (Đỏ) 	200	222	223	224						1				
+VN_Title3	3502	Danh hiệu Đỏ 3	Title_Normal;	Danh hiệu đặc biệt (Đỏ) 	200	222	223	224						1				
+VN_Title4	3503	Danh hiệu Đỏ 4	Title_Normal;	Danh hiệu đặc biệt (Đỏ) 	200	222	223	224						1				
+VN_Title5	3504	Danh hiệu Đỏ 5	Title_Normal;	Danh hiệu đặc biệt (Đỏ) 	200	222	223	224						1				
+VN_Title6	3505	Danh hiệu Đỏ 6	Title_Normal;	Danh hiệu đặc biệt (Đỏ) 	200	222	223	224						1				
+VN_Title7	3506	Danh hiệu Đỏ 7	Title_Normal;	Danh hiệu đặc biệt (Đỏ) 	200	222	223	224						1				
+VN_Title8	3507	Danh hiệu Đỏ 8	Title_Normal;	Danh hiệu đặc biệt (Đỏ) 	200	222	223	224						1				
+VN_Title9	3508	Danh hiệu Đỏ 9	Title_Normal;	Danh hiệu đặc biệt (Đỏ) 	200	222	223	224						1				
+VN_Title10	3509	Danh hiệu Đỏ 10	Title_Normal;	Danh hiệu đặc biệt (Đỏ) 	200	222	223	224						1				
+VN_Title11	3510	Danh hiệu Tím 1	Title_Normal;Title_Purple	Danh hiệu Tím	200	207	208	209	2592000					1			4	
+VN_Title12	3511	Danh hiệu Tím 2	Title_Normal;Title_Purple	Danh hiệu Tím	200	207	208	209	2592000					1			4	
+VN_Title13	3512	Danh hiệu Tím 3	Title_Normal;Title_Purple	Danh hiệu Tím	200	207	208	209	2592000					1			4	
+VN_Title14	3513	Danh hiệu Tím 4	Title_Normal;Title_Purple	Danh hiệu Tím	200	207	208	209	2592000					1			4	
+VN_Title15	3514	Danh hiệu Tím 5	Title_Normal;Title_Purple	Danh hiệu Tím	200	207	208	209	2592000					1			4	
+VN_Title16	3515	Danh hiệu Tím 6	Title_Normal;Title_Purple	Danh hiệu Tím	200	207	208	209	2592000					1			4	
+VN_Title17	3516	Danh hiệu Tím 7	Title_Normal;Title_Purple	Danh hiệu Tím	200	207	208	209	2592000					1			4	
+VN_Title18	3517	Danh hiệu Tím 8	Title_Normal;Title_Purple	Danh hiệu Tím	200	207	208	209	2592000					1			4	
+VN_Title19	3518	Danh hiệu Tím 9	Title_Normal;Title_Purple	Danh hiệu Tím	200	207	208	209	2592000					1			4	
+VN_Title20	3519	Danh hiệu Tím 10	Title_Normal;Title_Purple	Danh hiệu Tím	200	207	208	209	2592000					1			4	
+VN_Title21	3520	Danh hiệu Cam 1	Title_Normal;Title_Orange	Danh hiệu Cam	200	213	214	215	7776000					1			6	
+VN_Title22	3521	Danh hiệu Cam 2	Title_Normal;Title_Orange	Danh hiệu Cam	200	213	214	215	7776000					1			6	
+VN_Title23	3522	Danh hiệu Cam 3	Title_Normal;Title_Orange	Danh hiệu Cam	200	213	214	215	7776000					1			6	
+VN_Title24	3523	Danh hiệu Cam 4	Title_Normal;Title_Orange	Danh hiệu Cam	200	213	214	215	7776000					1			6	
+VN_Title25	3524	Danh hiệu Cam 5	Title_Normal;Title_Orange	Danh hiệu Cam	200	213	214	215	7776000					1			6	
+VN_Title26	3525	Danh hiệu Cam 6	Title_Normal;Title_Orange	Danh hiệu Cam	200	213	214	215	7776000					1			6	
+VN_Title27	3526	Danh hiệu Cam 7	Title_Normal;Title_Orange	Danh hiệu Cam	200	213	214	215	7776000					1			6	
+VN_Title28	3527	Danh hiệu Cam 8	Title_Normal;Title_Orange	Danh hiệu Cam	200	213	214	215	7776000					1			6	
+VN_Title29	3528	Danh hiệu Cam 9	Title_Normal;Title_Orange	Danh hiệu Cam	200	213	214	215	7776000					1			6	
+VN_Title30	3529	Danh hiệu Cam 10	Title_Normal;Title_Orange	Danh hiệu Cam	200	213	214	215	7776000					1			6	
+VN_Title31	3530	Danh Ca Đệ Nhất	Title_Normal;Title_Purple	Danh hiệu Tím	200	207	208	209	5184000					1			4	
+VN_Title32	3531	Danh Ca Sáng Tạo	Title_Normal;Title_Purple	Danh hiệu Tím	200	207	208	209	5184000					1			4	
+VN_Title33	3532	Danh Ca Hài Hước	Title_Normal;Title_Purple	Danh hiệu Tím	200	207	208	209	5184000					1			4	
+VN_Title34	3533	★★★Ngạo Khí Quần Hùng★★★	Title_Normal;Title_Pink	Danh hiệu Hồng	200	210	211	212	7776000					1			5	
+VN_Title35	3534	★★★Kinh Thiên Động Địa★★★	Title_Normal;Title_Pink	Danh hiệu Hồng	200	210	211	212	7776000					1			5	
+VN_Title36	3535	★★★Xuất Quỷ Nhập Thần★★★	Title_Normal;Title_Orange	Danh hiệu Cam	200	213	214	215	7776000					1			6	
+VN_Title37	3536	★★★Cái Thế Độc Tôn★★★	Title_Normal;Title_Pink	Danh hiệu Hồng	200	210	211	212	7776000					1			5	
+VN_Title38	3537	Danh Gia Vọng Tộc	Title_Normal;Title_Pink	Danh hiệu Hồng	200	210	211	212	15552000					1			5	
+VN_Title39	3538	Đệ Nhất Nam Nhân	Title_Normal;Title_Orange	Danh hiệu Cam	200	213	214	215	15552000					1			6	
+VN_Title40	3539	Đệ Nhất Mỹ Nữ	Title_Normal;Title_Orange	Danh hiệu Cam	200	213	214	215	15552000					1			6	
+VN_Title41	3540	★★★Khuynh Quốc Khuynh Thành★★★	Title_Normal;Title_Purple	Danh hiệu Tím	200	207	208	209	2592000					1			4	
+VN_Title42	3541	★★★Chim Sa Cá Lặn★★★	Title_Normal;Title_Purple	Danh hiệu Tím	200	207	208	209	2592000					1			4	
+VN_Title43	3542	★★★Hoa Nhường Nguyệt Thẹn★★★	Title_Normal;Title_Purple	Danh hiệu Tím	200	207	208	209	2592000					1			4	
+VN_Title44	3543	Danh Hiệu Tím 4	Title_Normal;Title_Purple	Danh hiệu Tím	200	207	208	209	2592000					1			4	
+VN_Title45	3544	Danh Hiệu Tím 5	Title_Normal;Title_Purple	Danh hiệu Tím	200	207	208	209	2592000					1			4	
+VN_Title46	3545	Danh Hiệu Hồng 1	Title_Normal;Title_Pink	Danh hiệu Hồng	200	210	211	212	7776000					1			5	
+VN_Title47	3546	Danh Hiệu Hồng 2	Title_Normal;Title_Pink	Danh hiệu Hồng	200	210	211	212	7776000					1			5	
+VN_Title48	3547	Danh Hiệu Hồng 3	Title_Normal;Title_Pink	Danh hiệu Hồng	200	210	211	212	7776000					1			5	
+VN_Title49	3548	Danh Hiệu Hồng 4	Title_Normal;Title_Pink	Danh hiệu Hồng	200	210	211	212	7776000					1			5	
+VN_Title50	3549	Danh Hiệu Hồng 5	Title_Normal;Title_Pink	Danh hiệu Hồng	200	210	211	212	7776000					1			5	
+VN_Title51	3550	Danh Hiệu Cam 1	Title_Normal;Title_Orange	Danh hiệu Cam	200	213	214	215	15552000					1			6	
+VN_Title52	3551	Danh Hiệu Cam 2	Title_Normal;Title_Orange	Danh hiệu Cam	200	213	214	215	15552000					1			6	
+VN_Title53	3552	Danh Hiệu Cam 3	Title_Normal;Title_Orange	Danh hiệu Cam	200	213	214	215	15552000					1			6	
+VN_Title54	3553	Danh Hiệu Cam 4	Title_Normal;Title_Orange	Danh hiệu Cam	200	213	214	215	15552000					1			6	
+VN_Title55	3554	Danh Hiệu Cam 5	Title_Normal;Title_Orange	Danh hiệu Cam	200	213	214	215	15552000					1			6	
+VN_Title56	3555	Thiên Hạ Vô Song	Title_Normal;Title_Orange	Danh hiệu Cam	200	213	214	215	31536000				9272	1		Danh hiệu Đua Top Mừng Sinh Nhật 2018	6	
+VN_Title57	3556	Võ Lâm Thượng Đỉnh	Title_Normal;Title_Gold	Danh hiệu Vàng	200	216	217	218	31536000				9273	1		Danh hiệu tham gia Dạ Tiệc Thượng Đỉnh 2018	7	
+VN_Title58	3557	Việt Nam Chiến Thắng	Title_Normal;Title_Orange	Danh hiệu Cam	200	213	214	215	1296000				9940	1		Cổ vũ đội tuyển Việt Nam thắng lợi	6	
+VN_Title59	3558	Việt Nam Vô Địch	Title_Normal;Title_Orange	Danh hiệu Cam	200	213	214	215	1296000				9941	1		Cổ vũ đội tuyển Việt Nam thắng lợi	6	
+VN_Title60	3559	Hồn Thiêng Đất Việt	Title_Normal;Title_Orange	Danh hiệu Cam	200	213	214	215	2592000				9939	1		Nhận được từ Rương Hồn Thiêng Đất Việt-Hào Hoa	6	
+KinOpenSrvActivity1	4000	Bang Chủ Đệ Nhất Bang Hội	Title_Normal;Title_Orange	Danh hiệu Cam	200	213	214	215	2592000					1		Bang hội hạng 1 vinh dự hoạt động Bách Đại Bang Hội	6	
+KinOpenSrvActivity2	4001	Bang Phó Đệ Nhất Bang Hội	Title_Normal;Title_Orange	Danh hiệu Cam	200	213	214	215	2592000					1		Bang hội hạng 1 vinh dự hoạt động Bách Đại Bang Hội	6	
+KinOpenSrvActivity3	4002	Trưởng Lão Đệ Nhất Bang Hội	Title_Normal;Title_Orange	Danh hiệu Cam	200	213	214	215	2592000					1		Bang hội hạng 1 vinh dự hoạt động Bách Đại Bang Hội	6	
+KinOpenSrvActivity4	4003	Tinh Anh Đệ Nhất Bang Hội	Title_Normal;Title_Orange	Danh hiệu Cam	200	213	214	215	2592000					1		Bang hội hạng 1 vinh dự hoạt động Bách Đại Bang Hội	6	
+KinOpenSrvActivity5	4004	Thành Viên Đệ Nhất Bang Hội	Title_Normal;Title_Orange	Danh hiệu Cam	200	213	214	215	2592000					1		Bang hội hạng 1 vinh dự hoạt động Bách Đại Bang Hội	6	
+KinOpenSrvActivity6	4005	Bang Chủ Thập Đại Bang Hội	Title_Normal;Title_Pink	Danh hiệu Hồng	200	210	211	212	2592000					1		Bang hội Top 10 vinh dự hoạt động Bách Đại Bang Hội	5	
+KinOpenSrvActivity7	4006	Bang Phó Thập Đại Bang Hội	Title_Normal;Title_Pink	Danh hiệu Hồng	200	210	211	212	2592000					1		Bang hội Top 10 vinh dự hoạt động Bách Đại Bang Hội	5	
+KinOpenSrvActivity8	4007	Trưởng Lão Thập Đại Bang Hội	Title_Normal;Title_Pink	Danh hiệu Hồng	200	210	211	212	2592000					1		Bang hội Top 10 vinh dự hoạt động Bách Đại Bang Hội	5	
+KinOpenSrvActivity9	4008	Tinh Anh Thập Đại Bang Hội	Title_Normal;Title_Pink	Danh hiệu Hồng	200	210	211	212	2592000					1		Bang hội Top 10 vinh dự hoạt động Bách Đại Bang Hội	5	
+KinOpenSrvActivity10	4009	Thành Viên Thập Đại Bang Hội	Title_Normal;Title_Pink	Danh hiệu Hồng	200	210	211	212	2592000					1		Bang hội Top 10 vinh dự hoạt động Bách Đại Bang Hội	5	
+KinOpenSrvActivity11	4010	Bang Chủ Trác Việt Bang Hội	Title_Normal;Title_Purple	Danh hiệu Tím	200	207	208	209	2592000					1		Bang hội hạng 11-20 hoạt động Bách Đại Bang Hội	4	
+KinOpenSrvActivity12	4011	Bang Phó Trác Việt Bang Hội	Title_Normal;Title_Purple	Danh hiệu Tím	200	207	208	209	2592000					1		Bang hội hạng 11-20 hoạt động Bách Đại Bang Hội	4	
+KinOpenSrvActivity13	4012	Trưởng Lão Trác Việt Bang Hội	Title_Normal;Title_Purple	Danh hiệu Tím	200	207	208	209	2592000					1		Bang hội hạng 11-20 hoạt động Bách Đại Bang Hội	4	
+KinOpenSrvActivity14	4013	Tinh Anh Trác Việt Bang Hội	Title_Normal;Title_Purple	Danh hiệu Tím	200	207	208	209	2592000					1		Bang hội hạng 11-20 hoạt động Bách Đại Bang Hội	4	
+KinOpenSrvActivity15	4014	Thành Viên Trác Việt Bang Hội	Title_Normal;Title_Purple	Danh hiệu Tím	200	207	208	209	2592000					1		Bang hội hạng 11-20 hoạt động Bách Đại Bang Hội	4	
+KinOpenSrvActivity16	4015	Thủ Lĩnh Đệ Nhất Bang Hội	Title_Normal;Title_Orange	Danh hiệu Cam	200	213	214	215	2592000					1		Bang hội hạng 1 vinh dự hoạt động Bách Đại Bang Hội	6	
+KinOpenSrvActivity17	4016	Thập Đại Bang Hội Thủ Lĩnh	Title_Normal;Title_Pink	Danh hiệu Hồng	200	210	211	212	2592000					1		Bang hội Top 10 vinh dự hoạt động Bách Đại Bang Hội	5	
+KinOpenSrvActivity18	4017	Trác Việt Bang Hội Thủ Lĩnh	Title_Normal;Title_Purple	Danh hiệu Tím	200	207	208	209	2592000					1		Bang hội hạng 11-20 hoạt động Bách Đại Bang Hội	4	
+KinOpenSrvActivity19	4018	Bảo Bối Đệ Nhất Bang Hội	Title_Normal;Title_Orange	Danh hiệu Cam	200	213	214	215	2592000					1		Bang hội hạng 1 vinh dự hoạt động Bách Đại Bang Hội	6	
+KinOpenSrvActivity20	4019	Bảo Bối Thập Đại Bang Hội	Title_Normal;Title_Pink	Danh hiệu Hồng	200	210	211	212	2592000					1		Bang hội Top 10 vinh dự hoạt động Bách Đại Bang Hội	5	
+KinOpenSrvActivity21	4020	Bảo Bối Bang Hội Trác Việt	Title_Normal;Title_Purple	Danh hiệu Tím	200	207	208	209	2592000					1		Bang hội hạng 11-20 hoạt động Bách Đại Bang Hội	4	
+KinOpenSrvActivity22	4042	Chỉ Huy Đệ Nhất Bang Hội	Title_Normal;Title_Orange	Danh hiệu Cam	200	213	214	215	2592000					1		Bang hội hạng 1 vinh dự hoạt động Bách Đại Bang Hội	6	
+KinOpenSrvActivity23	4043	Chỉ Huy Thập Đại Bang Hội	Title_Normal;Title_Pink	Danh hiệu Hồng	200	210	211	212	2592000					1		Bang hội Top 10 vinh dự hoạt động Bách Đại Bang Hội	5	
+KinOpenSrvActivity24	4044	Chỉ Huy Trác Việt Bang Hội	Title_Normal;Title_Purple	Danh hiệu Tím	200	207	208	209	2592000					1		Bang hội hạng 11-20 hoạt động Bách Đại Bang Hội	4	
+KinActivityRankAct1	4021	Thủ Lĩnh Hưng Thịnh	Title_Normal;Title_Orange	Danh hiệu Cam	200	213	214	215	7776000					1		Bang đạt hạng 1 trong hoạt động Hạng Năng Động Bang	6	
+KinActivityRankAct2	4022	Bang Chủ Hưng Thịnh	Title_Normal;Title_Orange	Danh hiệu Cam	200	213	214	215	7776000					1		Bang đạt hạng 1 trong hoạt động Hạng Năng Động Bang	6	
+KinActivityRankAct3	4023	Bang Phó Hưng Thịnh	Title_Normal;Title_Orange	Danh hiệu Cam	200	213	214	215	7776000					1		Bang đạt hạng 1 trong hoạt động Hạng Năng Động Bang	6	
+KinActivityRankAct4	4024	Trưởng Lão Hưng Thịnh	Title_Normal;Title_Orange	Danh hiệu Cam	200	213	214	215	7776000					1		Bang đạt hạng 1 trong hoạt động Hạng Năng Động Bang	6	
+KinActivityRankAct5	4025	Bảo Bối Hưng Thịnh	Title_Normal;Title_Orange	Danh hiệu Cam	200	213	214	215	7776000					1		Bang đạt hạng 1 trong hoạt động Hạng Năng Động Bang	6	
+KinActivityRankAct6	4026	Tinh Anh Hưng Thịnh	Title_Normal;Title_Orange	Danh hiệu Cam	200	213	214	215	7776000					1		Bang đạt hạng 1 trong hoạt động Hạng Năng Động Bang	6	
+KinActivityRankAct7	4027	Thành Viên Hưng Thịnh	Title_Normal;Title_Orange	Danh hiệu Cam	200	213	214	215	7776000					1		Bang đạt hạng 1 trong hoạt động Hạng Năng Động Bang	6	
+KinActivityRankAct8	4028	Thủ Lĩnh Hưng Vượng	Title_Normal;Title_Pink	Danh hiệu Hồng	200	210	211	212	7776000					1		Bang đạt hạng 2 trong hoạt động Hạng Năng Động Bang	5	
+KinActivityRankAct9	4029	Bang Chủ Hưng Vượng	Title_Normal;Title_Pink	Danh hiệu Hồng	200	210	211	212	7776000					1		Bang đạt hạng 2 trong hoạt động Hạng Năng Động Bang	5	
+KinActivityRankAct10	4030	Bang Phó Hưng Vượng	Title_Normal;Title_Pink	Danh hiệu Hồng	200	210	211	212	7776000					1		Bang đạt hạng 2 trong hoạt động Hạng Năng Động Bang	5	
+KinActivityRankAct11	4031	Trưởng Lão Hưng Vượng	Title_Normal;Title_Pink	Danh hiệu Hồng	200	210	211	212	7776000					1		Bang đạt hạng 2 trong hoạt động Hạng Năng Động Bang	5	
+KinActivityRankAct12	4032	Bảo Bối Hưng Vượng	Title_Normal;Title_Pink	Danh hiệu Hồng	200	210	211	212	7776000					1		Bang đạt hạng 2 trong hoạt động Hạng Năng Động Bang	5	
+KinActivityRankAct13	4033	Tinh Anh Hưng Vượng	Title_Normal;Title_Pink	Danh hiệu Hồng	200	210	211	212	7776000					1		Bang đạt hạng 2 trong hoạt động Hạng Năng Động Bang	5	
+KinActivityRankAct14	4034	Thành Viên Hưng Vượng	Title_Normal;Title_Pink	Danh hiệu Hồng	200	210	211	212	7776000					1		Bang đạt hạng 2 trong hoạt động Hạng Năng Động Bang	5	
+KinActivityRankAct15	4035	Năng Động Thủ Lĩnh	Title_Normal;Title_Purple	Danh hiệu Tím	200	207	208	209	7776000					1		Bang đạt hạng 3 trong hoạt động Hạng Năng Động Bang	4	
+KinActivityRankAct16	4036	Năng Động Bang Chủ	Title_Normal;Title_Purple	Danh hiệu Tím	200	207	208	209	7776000					1		Bang đạt hạng 3 trong hoạt động Hạng Năng Động Bang	4	
+KinActivityRankAct17	4037	Năng Động Bang Phó	Title_Normal;Title_Purple	Danh hiệu Tím	200	207	208	209	7776000					1		Bang đạt hạng 3 trong hoạt động Hạng Năng Động Bang	4	
+KinActivityRankAct18	4038	Năng Động Trưởng Lão	Title_Normal;Title_Purple	Danh hiệu Tím	200	207	208	209	7776000					1		Bang đạt hạng 3 trong hoạt động Hạng Năng Động Bang	4	
+KinActivityRankAct19	4039	Năng Động Bảo Bối	Title_Normal;Title_Purple	Danh hiệu Tím	200	207	208	209	7776000					1		Bang đạt hạng 3 trong hoạt động Hạng Năng Động Bang	4	
+KinActivityRankAct20	4040	Năng Động Tinh Anh	Title_Normal;Title_Purple	Danh hiệu Tím	200	207	208	209	7776000					1		Bang đạt hạng 3 trong hoạt động Hạng Năng Động Bang	4	
+KinActivityRankAct21	4041	Năng Động Thành Viên	Title_Normal;Title_Purple	Danh hiệu Tím	200	207	208	209	7776000					1		Bang đạt hạng 3 trong hoạt động Hạng Năng Động Bang	4	
+FoolsDayAct1	4042	Thông Minh Tuyệt Đỉnh	Title_Normal;Title_Pink	Danh hiệu Hồng	200	210	211	212	7776000					1		Đáp đúng tất cả câu hỏi trong ngày của hoạt động 1/4 nhận danh hiệu này	5	
+FoolsDayAct2	4043	Thông Tuệ Như Thỉ	Title_Normal;Title_Purple	Danh hiệu Tím	200	207	208	209	86400					1		Đáp sai nhiều nhất Bang Hội trong ngày của hoạt động 1/4 nhận danh hiệu này	4	
+XM_Title1	4500	Anh Hùng Tửu Hội	Title_Normal;	Danh hiệu đặc biệt (Đỏ) 	200	222	223	224	2592000					1				
+XM_Title2	4501	Hiệp Nghĩa Tâm	Title_Normal;Title_Purple	Danh hiệu Tím	200	207	208	209	604800					1			4	
+XM_Title3	4502	Thiên Lại Âm	Title_Normal;Title_Orange	Danh hiệu Cam	200	213	214	215	5184000					1			6	
+XM_Title4	4503	Linh Hồn Đạo Sư	Title_Normal;Title_Purple	Danh hiệu Tím	200	207	208	209	5184000					1			4	
+XM_Title5	4504	Tuyết Lợi Binh Tàn	Title_Normal;Title_Pink	Danh hiệu Hồng	200	210	211	212	2592000					1			5	
+XM_Title6	4505	Đau Khổ	Title_Normal;Title_Pink	Danh hiệu Hồng	200	210	211	212	2592000					1			5	
+XM_Title7	4506	Lang Quân	Title_Normal;Title_Pink	Danh hiệu Hồng	200	210	211	212	2592000					1			5	
+XM_Title8	4507	Huyền Thoại	Title_Normal;Title_Pink	Danh hiệu Hồng	200	210	211	212	2592000					1			5	
+XM_Title9	4508	Lẫm-Thủ Hộ Thần	Title_Normal;Title_Pink	Danh hiệu Hồng	200	210	211	212	2592000					1			5	
+XM_Admin_Title10	4509	GM Đại Hiệp	Title_Normal;	Danh hiệu đặc biệt (Đỏ) 	200	222	223	224						1				
+XM_Title11	4510	Thiên Trúc Tân Tú	Title_Normal;Title_Purple	Danh hiệu Tím	200	207	208	209	5184000					1			4	
+XM_Title12	4511	Bảo Bối Nổi Tiếng	Title_Normal;Title_Pink	Danh hiệu Hồng	200	210	211	212	5184000					1			5	
+XM_Title13	4512	Thiên Lại Nhân Chứng	Title_Normal;	Danh hiệu đặc biệt (Đỏ) 	200	222	223	224	5184000					1				
+XM_Title14	4513	Đệ Nhất Thủ Lĩnh	Title_Normal;Title_Orange	Danh hiệu Cam	200	213	214	215	2592000					1			6	
+XM_Title15	4514	Đệ Nhất Bang Hội	Title_Normal;	Danh hiệu đặc biệt (Đỏ) 	200	222	223	224	2592000					1				
+XM_Title16	4515	Đỉnh Phong Chí Tôn	Title_Normal;Title_Orange	Danh hiệu Cam	200	213	214	215		UI/Atlas/BeautyTitle/BeautyTitle.prefab  	BeautyTitle1_			1			6	
+XM_Title17	4516	Tương Dương Thủ Úy	Title_Normal;Title_Pink	Danh hiệu Hồng	200	210	211	212						1		Vinh dự hẹn Võ Lâm Truyền Kỳ mới	5	
+XM_Title18	4517	Lâm An Tân Quý	Title_Normal;Title_Pink	Danh hiệu Hồng	200	210	211	212						1		Vinh dự hẹn Võ Lâm Truyền Kỳ mới	5	
+XM_Title19	4518	Vua Dự Đoán World Cup	Title_Normal;Title_Pink	Danh hiệu Hồng	200	210	211	212						1		Nhận từ hoạt động World Cup	5	
+XM_Title20	4519	Hâm Mộ Tốt Nhất	Title_Normal;Title_Purple	Danh hiệu Tím	200	207	208	209						1		Nhận từ hoạt động World Cup	4	
+XM_Title21	4520	Mạnh Nhất Kiếm Hiệp	Title_Normal;	Danh hiệu đặc biệt (Đỏ) 	200	222	223	224	2592000					1		Nhận từ hoạt động offline		
+XM_Title22	4521	Tân Mã Đỉnh	Title_Normal;Title_Gold	Danh hiệu Vàng	200	216	217	218						1		Hạng 1 Lực Chiến Máy Chủ Mới	7	
+XM_Title23	4522	Uy Chấn Tân Mã	Title_Normal;Title_Orange	Danh hiệu Cam	200	213	214	215						1		Top 10 Lực Chiến Máy Chủ Mới	6	
+NewYearQA_1	4600	Thân Mật		Danh hiệu Lục	200	201	202	203						1		Nhận trong hoạt động thử thách từ hộp quà năm mới, đã chứng minh tình bạn giữa hai đại hiệp	2	
+NewYearQA_2	4601	Huynh Đệ		Danh hiệu Lục	200	201	202	203						1		Nhận trong hoạt động thử thách từ hộp quà năm mới, đã chứng minh tình bạn giữa hai đại hiệp	2	
+ZhounianqingQA_1	4602	Thân Mật		Danh hiệu Lục	200	201	202	203						1		Nhận từ Hộp Sinh Nhật, chứng minh tình bạn giữa các bạn	2	
+ZhounianqingQA_2	4603	Huynh Đệ		Danh hiệu Lục	200	201	202	203						1		Nhận từ Hộp Sinh Nhật, chứng minh tình bạn giữa các bạn	2	
+CeremonyQA_1	4604	Thân Mật		Danh hiệu Lục	200	201	202	203						1		Nhận từ hoạt động Khảo Nghiệm Hộp Quà Thịnh Điển, minh chứng cho tình hữu nghị giữa hai người	2	
+CeremonyQA_2	4605	Huynh Đệ		Danh hiệu Lục	200	201	202	203						1		Nhận từ hoạt động Khảo Nghiệm Hộp Quà Thịnh Điển, minh chứng cho tình hữu nghị giữa hai người	2	
+daiyanren1	5000	Võ Đang Kiệt Xuất		Danh hiệu Hồng	200	210	211	212						1		Hoạt động Đại Diện	5	
+daiyanren2	5001	Nga Mi Kiệt Xuất		Danh hiệu Hồng	200	210	211	212						1		Hoạt động Đại Diện	5	
+daiyanren3	5002	Tịch Mạc Song Sát		Danh hiệu Tím	200	207	208	209						1		Hoạt động Đại Diện	4	
+daiyanren4	5003	Tịch Mạc Song Sát		Danh hiệu Tím	200	207	208	209						1		Hoạt động Đại Diện	4	
+LevelOpenSrvActivity1	5004	Nhất Kỵ Tuyệt Trần	Title_Normal;Title_Orange	Danh hiệu Cam	200	213	214	215	2592000					1		Trong hoạt động Đua Top Đẳng Cấp đại hiệp xếp hạng [FFFE0D]Top 10[-], nhận được danh hiệu này	6	
+LevelOpenSrvActivity2	5005	Nhiếp Cảnh Truy Phong	Title_Normal;Title_Pink	Danh hiệu Hồng	200	210	211	212	2592000					1		Chúc mừng đại hiệp trong hoạt động tăng cấp đã đạt hạng [FFFE0D]11-100[-], nhận được danh hiệu này.	5	
+PowerOpenSrvActivity1	5006	Đệ Nhất Thiên Vương	Title_Normal;Title_Orange	Danh hiệu Cam	200	213	214	215	2592000					1		Trong hoạt động đua Top lực chiến đại hiệp đạt hạng [FFFE0D]1[-], nhận được danh hiệu này, hạn dùng [FFFE0D]30 ngày[-]	6	
+PowerOpenSrvActivity2	5007	Đệ Nhất Nga Mi	Title_Normal;Title_Orange	Danh hiệu Cam	200	213	214	215	2592000					1		Trong hoạt động đua Top lực chiến đại hiệp đạt hạng [FFFE0D]1[-], nhận được danh hiệu này, hạn dùng [FFFE0D]30 ngày[-]	6	
+PowerOpenSrvActivity3	5008	Đệ Nhất Đào Hoa	Title_Normal;Title_Orange	Danh hiệu Cam	200	213	214	215	2592000					1		Trong hoạt động đua Top lực chiến đại hiệp đạt hạng [FFFE0D]1[-], nhận được danh hiệu này, hạn dùng [FFFE0D]30 ngày[-]	6	
+PowerOpenSrvActivity4	5009	Đệ Nhất Tiêu Dao	Title_Normal;Title_Orange	Danh hiệu Cam	200	213	214	215	2592000					1		Trong hoạt động đua Top lực chiến đại hiệp đạt hạng [FFFE0D]1[-], nhận được danh hiệu này, hạn dùng [FFFE0D]30 ngày[-]	6	
+PowerOpenSrvActivity5	5010	Đệ Nhất Võ Đang	Title_Normal;Title_Orange	Danh hiệu Cam	200	213	214	215	2592000					1		Trong hoạt động đua Top lực chiến đại hiệp đạt hạng [FFFE0D]1[-], nhận được danh hiệu này, hạn dùng [FFFE0D]30 ngày[-]	6	
+PowerOpenSrvActivity6	5011	Đệ Nhất Thiên Nhẫn	Title_Normal;Title_Orange	Danh hiệu Cam	200	213	214	215	2592000					1		Trong hoạt động đua Top lực chiến đại hiệp đạt hạng [FFFE0D]1[-], nhận được danh hiệu này, hạn dùng [FFFE0D]30 ngày[-]	6	
+PowerOpenSrvActivity7	5012	Thiếu Lâm Đệ Nhất	Title_Normal;Title_Orange	Danh hiệu Cam	200	213	214	215	2592000					1		Trong hoạt động đua Top lực chiến đại hiệp đạt hạng [FFFE0D]1[-], nhận được danh hiệu này, hạn dùng [FFFE0D]30 ngày[-]	6	
+PowerOpenSrvActivity8	5013	Đệ Nhất Thúy Yên	Title_Normal;Title_Orange	Danh hiệu Cam	200	213	214	215	2592000					1		Trong hoạt động đua Top lực chiến đại hiệp đạt hạng [FFFE0D]1[-], nhận được danh hiệu này, hạn dùng [FFFE0D]30 ngày[-]	6	
+PowerOpenSrvActivity9	5014	Đệ Nhất Đường Môn	Title_Normal;Title_Orange	Danh hiệu Cam	200	213	214	215	2592000					1		Trong hoạt động đua Top lực chiến đại hiệp đạt hạng [FFFE0D]1[-], nhận được danh hiệu này, hạn dùng [FFFE0D]30 ngày[-]	6	
+PowerOpenSrvActivity10	5015	Đệ Nhất Côn Lôn	Title_Normal;Title_Orange	Danh hiệu Cam	200	213	214	215	2592000					1		Trong hoạt động đua Top lực chiến đại hiệp đạt hạng [FFFE0D]1[-], nhận được danh hiệu này, hạn dùng [FFFE0D]30 ngày[-]	6	
+PowerOpenSrvActivity11	5016	Cái Bang Đệ Nhất	Title_Normal;Title_Orange	Danh hiệu Cam	200	213	214	215	2592000					1		Trong hoạt động đua Top lực chiến đại hiệp đạt hạng [FFFE0D]1[-], nhận được danh hiệu này, hạn dùng [FFFE0D]30 ngày[-]	6	
+PowerOpenSrvActivity12	5017	Ngũ Độc Đệ Nhất	Title_Normal;Title_Orange	Danh hiệu Cam	200	213	214	215	2592000					1		Trong hoạt động đua Top lực chiến đại hiệp đạt hạng [FFFE0D]1[-], nhận được danh hiệu này, hạn dùng [FFFE0D]30 ngày[-]	6	
+PowerOpenSrvActivity13	5018	Tàng Kiếm Đệ Nhất	Title_Normal;Title_Orange	Danh hiệu Cam	200	213	214	215	2592000					1		Trong hoạt động đua Top lực chiến đại hiệp đạt hạng [FFFE0D]1[-], nhận được danh hiệu này, hạn dùng [FFFE0D]30 ngày[-]	6	
+PowerOpenSrvActivity14	5019	Trường Ca Đệ Nhất	Title_Normal;Title_Orange	Danh hiệu Cam	200	213	214	215	2592000					1		Trong hoạt động đua Top lực chiến đại hiệp đạt hạng [FFFE0D]1[-], nhận được danh hiệu này, hạn dùng [FFFE0D]30 ngày[-]	6	
+PowerOpenSrvActivity15	5020	Thiên Sơn Đệ Nhất	Title_Normal;Title_Orange	Danh hiệu Cam	200	213	214	215	2592000					1		Trong hoạt động đua Top lực chiến đại hiệp đạt hạng [FFFE0D]1[-], nhận được danh hiệu này, hạn dùng [FFFE0D]30 ngày[-]	6	
+PowerOpenSrvActivity16	5021	Bá Đao Đệ Nhất	Title_Normal;Title_Orange	Danh hiệu Cam	200	213	214	215	2592000					1		Trong hoạt động đua Top lực chiến đại hiệp đạt hạng [FFFE0D]1[-], nhận được danh hiệu này, hạn dùng [FFFE0D]30 ngày[-]	6	
+PowerOpenSrvActivity17	5022	Hoa Sơn Đệ Nhất	Title_Normal;Title_Orange	Danh hiệu Cam	200	213	214	215	2592000					1		Trong hoạt động đua Top lực chiến đại hiệp đạt hạng [FFFE0D]1[-], nhận được danh hiệu này, hạn dùng [FFFE0D]30 ngày[-]	6	
+PowerOpenSrvActivity18	5023	Minh Giáo Đệ Nhất	Title_Normal;Title_Orange	Danh hiệu Cam	200	213	214	215	2592000					1		Trong hoạt động đua Top lực chiến đại hiệp đạt hạng [FFFE0D]1[-], nhận được danh hiệu này, hạn dùng [FFFE0D]30 ngày[-]	6	
+PowerOpenSrvActivity19	5024	Đoàn Thị Đệ Nhất	Title_Normal;Title_Orange	Danh hiệu Cam	200	213	214	215	2592000					1		Trong hoạt động đua Top lực chiến đại hiệp đạt hạng [FFFE0D]1[-], nhận được danh hiệu này, hạn dùng [FFFE0D]30 ngày[-]	6	
+PowerOpenSrvActivity20	5025	Vạn Hoa Đệ Nhất	Title_Normal;Title_Orange	Danh hiệu Cam	200	213	214	215	2592000					1		Trong hoạt động đua Top lực chiến đại hiệp đạt hạng [FFFE0D]1[-], nhận được danh hiệu này, hạn dùng [FFFE0D]30 ngày[-]	6	
+WeekendQuestionTitle1	5030	Thấy Nhiều Biết Rộng	Title_Normal;Title_Purple	Danh hiệu Tím	200	207	208	209	864000					1		Trong Loạn Điểm Uyên Ương trả lời đúng [FFFE0D]10[-] câu nhận danh hiệu này, thời hạn [FFFE0D]10 ngày[-]	4	
+WeekendQuestionTitle2	5031	Tinh Thông Kim Cổ	Title_Normal;Title_Pink	Danh hiệu Hồng	200	210	211	212	864000					1		Trong Loạn Điểm Uyên Ương trả lời đúng [FFFE0D]16[-] câu nhận danh hiệu này, thời hạn [FFFE0D]10 ngày[-]	5	
+WeekendIdiom	5032	Học Vấn Siêu Phàm	Title_Normal;Title_Pink	Danh hiệu Hồng	200	210	211	212	864000					1		Đại hiệp trong Hữu Duyên Tương Hội nhận [FFFE0D]40[-] điểm, nhận được danh hiệu, thời hạn [FFFE0D]10 ngày[-]	5	
+DefendFubenTitle1	5033	Tình Tỷ Kim Kiên	Title_Normal;Title_Pink	Danh hiệu Hồng	200	210	211	212	864000					1		Đại hiệp trong Ước Hẹn phòng thủ thành công [FFFE0D]6[-] vòng, nhận được danh hiệu, thời hạn [FFFE0D]10 ngày[-]	5	
+Laba_Messenger1	5034	Thưởng Thiện Phạt Ác Sứ	Title_Normal;Title_Purple	Danh hiệu Tím	200	207	208	209						1		Giỗ Tổ Hùng Vương	4	
+Laba_Boss1	5035	Ngụy Hiệp Khách Đảo Chủ	Title_Normal;Title_Purple	Danh hiệu Tím	200	207	208	209						1		Giỗ Tổ Hùng Vương	4	
+Laba_Boss2	5036	Kẻ Chủ Mưu	Title_Normal;Title_Pink	Danh hiệu Hồng	200	210	211	212						1		Giỗ Tổ Hùng Vương	5	
+LaBa_Wish_1	5037	Chúng Tinh Bổng Nguyệt	Title_Normal;Title_Pink	Danh hiệu Hồng	200	210	211	212	864000							Danh hiệu Hạng nhấn thích tại hoạt động Cây Ước Nguyện	5	
+LaBa_Wish_2	5038	Độc Tú	Title_Normal;Title_Purple	Danh hiệu Tím	200	207	208	209	864000							Danh hiệu Hạng nhấn thích tại hoạt động Cây Ước Nguyện	4	
+LaBa_Wish_3	5039	Độc Lĩnh Phong	Title_Normal;	Danh hiệu lam	200	204	205	206	864000							Danh hiệu Hạng nhấn thích tại hoạt động Cây Ước Nguyện	3	
+ValentinesDayTitle1	5040	Chung Vai Sát Cánh	Title_Normal;Title_Pink	Danh hiệu Hồng	200	210	211	212								Danh hiệu được chọn nhận được từ hoạt động Kết Tình Phiêu Bạt	5	
+ValentinesDayTitle2	5041	Kim Phong Ngọc Lộ	Title_Normal;Title_Pink	Danh hiệu Hồng	200	210	211	212								Danh hiệu được chọn nhận được từ hoạt động Kết Tình Phiêu Bạt	5	
+ValentinesDayTitle3	5042	Duyên Trời Định	Title_Normal;Title_Pink	Danh hiệu Hồng	200	210	211	212								Danh hiệu được chọn nhận được từ hoạt động Kết Tình Phiêu Bạt	5	
+ValentinesDayTitle4	5043	Ngoan Cường	Title_Normal;Title_Pink	Danh hiệu Hồng	200	210	211	212								Danh hiệu được chọn nhận được từ hoạt động Kết Tình Phiêu Bạt	5	
+ValentinesDayTitle5	5044	Tâm Hữu Linh Tê	Title_Normal;Title_Pink	Danh hiệu Hồng	200	210	211	212								Danh hiệu được chọn nhận được từ hoạt động Kết Tình Phiêu Bạt	5	
+ValentinesDayTitle6	5045	Hai Nửa Yêu Thương	Title_Normal;Title_Pink	Danh hiệu Hồng	200	210	211	212								Danh hiệu được chọn nhận được từ hoạt động Kết Tình Phiêu Bạt	5	
+ValentinesDayTitle7	5046	Tình Chàng Ý Thiếp	Title_Normal;Title_Pink	Danh hiệu Hồng	200	210	211	212								Danh hiệu được chọn nhận được từ hoạt động Kết Tình Phiêu Bạt	5	
+ValentinesDayTitle8	5047	Cầm Sắt Hòa Minh	Title_Normal;Title_Pink	Danh hiệu Hồng	200	210	211	212								Danh hiệu được chọn nhận được từ hoạt động Kết Tình Phiêu Bạt	5	
+ValentinesDayTitle9	5048	Hoa Hảo Nguyệt Viên	Title_Normal;Title_Pink	Danh hiệu Hồng	200	210	211	212								Danh hiệu được chọn nhận được từ hoạt động Kết Tình Phiêu Bạt	5	
+ValentinesDayTitle10	5049	Đồng Cam Cộng Khổ	Title_Normal;Title_Pink	Danh hiệu Hồng	200	210	211	212								Danh hiệu được chọn nhận được từ hoạt động Kết Tình Phiêu Bạt	5	
+ArborDay1	5050	Không Cốc U Lan	Title_Normal;Title_Purple	Danh hiệu Tím	200	207	208	209								Danh hiệu được chọn nhận trong hoạt động Lễ Tình Duyên	4	
+ArborDay2	5051	Trêu Hoa Ghẹo Nguyệt	Title_Normal;Title_Purple	Danh hiệu Tím	200	207	208	209								Danh hiệu được chọn nhận trong hoạt động Lễ Tình Duyên	4	
+ArborDay3	5052	Bế Nguyệt Tu Hoa	Title_Normal;Title_Purple	Danh hiệu Tím	200	207	208	209								Danh hiệu được chọn nhận trong hoạt động Lễ Tình Duyên	4	
+ArborDay4	5053	Xuân Nê Hộ Hoa	Title_Normal;Title_Purple	Danh hiệu Tím	200	207	208	209								Danh hiệu được chọn nhận trong hoạt động Lễ Tình Duyên	4	
+ArborDay5	5054	Phi Yến Hàm Nê	Title_Normal;Title_Purple	Danh hiệu Tím	200	207	208	209								Danh hiệu được chọn nhận trong hoạt động Lễ Tình Duyên	4	
+ArborDay6	5055	Liên Châu Hợp	Title_Normal;Title_Pink	Danh hiệu Hồng	200	210	211	212								Danh hiệu được chọn nhận trong hoạt động Lễ Tình Duyên	5	
+ArborDay7	5056	Phượng Hoàng Vu Phi	Title_Normal;Title_Pink	Danh hiệu Hồng	200	210	211	212								Danh hiệu được chọn nhận trong hoạt động Lễ Tình Duyên	5	
+ArborDay8	5057	Tỷ Dực Liên Lý	Title_Normal;Title_Pink	Danh hiệu Hồng	200	210	211	212								Danh hiệu được chọn nhận trong hoạt động Lễ Tình Duyên	5	
+ArborDay9	5058	Tâm Đầu Ý Hợp	Title_Normal;Title_Pink	Danh hiệu Hồng	200	210	211	212								Danh hiệu được chọn nhận trong hoạt động Lễ Tình Duyên	5	
+ArborDay10	5059	Hoa Hảo Nguyệt Viên	Title_Normal;Title_Pink	Danh hiệu Hồng	200	210	211	212								Danh hiệu được chọn nhận trong hoạt động Lễ Tình Duyên	5	
+LevelOpenSrvActivity3	5060	Nhất Kỵ Tuyệt Trần	Title_Normal;Title_Orange	Danh hiệu Cam	200	213	214	215	2592000					1		Chúc mừng Đại hiệp trong hoạt động Đua Cấp mở máy chủ đạt hạng [FFFE0D]1[-], nhận được danh hiệu này	6	
+LevelOpenSrvActivity4	5061	Nhanh Như Chớp	Title_Normal;Title_Pink	Danh hiệu Hồng	200	210	211	212	2592000					1		Trong hoạt động Đua Top Đẳng Cấp đại hiệp xếp hạng [FFFE0D]Top 10[-], nhận được danh hiệu này	5	
+LevelOpenSrvActivity5	5062	Nhiếp Cảnh Truy Phong	Title_Normal;Title_Purple	Danh hiệu Tím	200	207	208	209	2592000					1		Chúc mừng Đại hiệp trong hoạt động Đua Cấp mở máy chủ đạt [FFFE0D]Top 100[-], nhận được danh hiệu này	4	
+daiyanren5	5063	Danh Hiệp Giang Hồ	Title_Normal;Title_Pink	Danh hiệu Hồng	200	210	211	212						1		Hoạt động Đại Diện	5	
+daiyanren6	5064	Danh Hiệp Giang Hồ	Title_Normal;Title_Pink	Danh hiệu Hồng	200	210	211	212						1		Hoạt động Đại Diện	5	
+daiyanren7	5065	Đồng Cảm	Title_Normal;Title_Pink	Danh hiệu Hồng	200	210	211	212	7776000					1		Tham gia Người Đại Diện Tỉ Võ Chiêu Thân nhận	5	
+daiyanren8	5066	Chân Thành	Title_Normal;Title_Pink	Danh hiệu Hồng	200	210	211	212	7776000					1		Tham gia Người Đại Diện Tỉ Võ Chiêu Thân nhận	5	
+daiyanren9	5067	Ý Trung Nhân Lâm Triều Hoa	Title_Normal;Title_Pink	Danh hiệu Hồng	200	210	211	212	7776000					1		Tham gia Người Đại Diện Tỉ Võ Chiêu Thân và nhận	5	
+daiyanren10	5068	Ý Trung Nhân Triệu Ân Đồng	Title_Normal;Title_Pink	Danh hiệu Hồng	200	210	211	212	7776000					1		Tham gia Người Đại Diện Tỉ Võ Chiêu Thân và nhận	5	
+FathersDay1	5069	Sư Đồ Tình Thâm	Title_Normal;Title_Purple	Danh hiệu Tím	200	207	208	209								Danh hiệu được nhận trong hoạt động Một mai học trò đông đúc	4	
+FathersDay2	5070	Trất Phong Mộc Vũ	Title_Normal;Title_Purple	Danh hiệu Tím	200	207	208	209								Danh hiệu được nhận trong hoạt động Một mai học trò đông đúc	4	
+FathersDay3	5071	Hiền Sư Cao Túc	Title_Normal;Title_Purple	Danh hiệu Tím	200	207	208	209								Danh hiệu được nhận trong hoạt động Một mai học trò đông đúc	4	
+FathersDay4	5072	Nhất Tự Chi Sư	Title_Normal;Title_Purple	Danh hiệu Tím	200	207	208	209								Danh hiệu được nhận trong hoạt động Một mai học trò đông đúc	4	
+FathersDay5	5073	Y Bát Tướng Thừa	Title_Normal;Title_Purple	Danh hiệu Tím	200	207	208	209								Danh hiệu được nhận trong hoạt động Một mai học trò đông đúc	4	
+FathersDay6	5074	Tùy Phong Tiềm Nhập Dạ	Title_Normal;Title_Pink	Danh hiệu Hồng	200	210	211	212								Danh hiệu được nhận trong hoạt động Một mai học trò đông đúc	5	
+FathersDay7	5075	Nhuận Vật Tế Vô Thanh	Title_Normal;Title_Pink	Danh hiệu Hồng	200	210	211	212								Danh hiệu được nhận trong hoạt động Một mai học trò đông đúc	5	
+FathersDay8	5076	Danh Sư Cao Đồ	Title_Normal;Title_Pink	Danh hiệu Hồng	200	210	211	212								Danh hiệu được nhận trong hoạt động Một mai học trò đông đúc	5	
+FathersDay9	5077	Học Trò Đông Đúc	Title_Normal;Title_Pink	Danh hiệu Hồng	200	210	211	212								Danh hiệu được nhận trong hoạt động Một mai học trò đông đúc	5	
+FathersDay10	5078	Ơn Nghĩa Một Đời	Title_Normal;Title_Pink	Danh hiệu Hồng	200	210	211	212								Danh hiệu được nhận trong hoạt động Một mai học trò đông đúc	5	
+Wish1	5079	Thuận Lòng	Title_Normal;Title_Orange	Danh hiệu Cam	200	213	214	215						1		Nhận khi xếp hạng cầu nguyện tại hoạt động Tâm Thành Ý Nguyện	6	
+Wish2	5080	Như Ý	Title_Normal;Title_Pink	Danh hiệu Hồng	200	210	211	212						1		Nhận khi xếp hạng cầu nguyện tại hoạt động Tâm Thành Ý Nguyện	5	
+Wish3	5081	Tâm Thành Ý Nguyện	Title_Normal;Title_Purple	Danh hiệu Tím	200	207	208	209						1		Nhận khi xếp hạng cầu nguyện tại hoạt động Tâm Thành Ý Nguyện	4	
+KinsecretFuben1	5100	Hộ Thể Nhuệ Kim	Title_Normal;Title_Gold	Danh hiệu Vàng	200	216	217	218									7	
+KinsecretFuben2	5101	Hộ Thể Cự Mộc		Danh hiệu Lục	200	201	202	203									2	
+KinsecretFuben3	5102	Hộ Thể Hồng Thủy		Danh hiệu Trắng	200												1	
+KinsecretFuben4	5103	Hộ Thể Liệt Hỏa		Danh hiệu đỏ	200	222	223	224										
+KinsecretFuben5	5104	Hộ Thể Hậu Thổ	Title_Normal;Title_Orange	Danh hiệu Cam	200	213	214	215									6	
+KinsecretFuben6	5105	Phản đòn cận chiến		Danh hiệu đỏ	200	222	223	224										
+KinsecretFuben7	5106	Phản đòn tầm xa		Danh hiệu đỏ	200	222	223	224										
+DomainActivity	6000	Tương Dương Thành Chủ	Title_Normal;Title_Gold	Danh hiệu Vàng	200	216	217	218						1		Đoạt Tương Dương trong Công Thành Chiến, nhận danh hiệu thành chủ!	7	
+CrossDomainActivity	6001	Lâm An Thành Chủ	Title_Normal;Title_Gold	Danh hiệu Vàng	200	216	217	218		UI/Atlas/BeautyTitle/BeautyTitle4.prefab  	LACZTitle	9249		1		Đoạt Lâm An trong Công Thành Liên SV, trở thành danh hiệu thành chính!	7	
+TeacherStudent1	6100	Danh hiệu Sư Đồ	Title_Normal;	Danh hiệu đặc biệt (Lục) 	200	219	220	221						1		Danh hiệu sư đồ sau khi thiết lập quan hệ sư đồ	2	
+TeacherStudent2	6101	Danh hiệu Sư Đồ	Title_Normal;	Danh hiệu đặc biệt (Lục) 	200	219	220	221						1		Danh hiệu sư đồ sau khi thiết lập quan hệ sư đồ	2	
+TeacherStudent3	6102	Danh hiệu Sư Đồ	Title_Normal;	Danh hiệu đặc biệt (Lục) 	200	219	220	221						1		Danh hiệu sư đồ sau khi thiết lập quan hệ sư đồ	2	
+TeacherStudent4	6103	Danh hiệu Sư Đồ	Title_Normal;	Danh hiệu đặc biệt (Lục) 	200	219	220	221						1		Danh hiệu sư đồ sau khi thiết lập quan hệ sư đồ	2	
+TeacherStudent5	6104	Danh hiệu Sư Đồ	Title_Normal;	Danh hiệu đặc biệt (Lục) 	200	219	220	221						1		Danh hiệu sư đồ sau khi thiết lập quan hệ sư đồ	2	
+BiWuZhaoQin	6200	Danh hiệu Tình Duyên	Title_Normal;Title_Pink	Danh hiệu Hồng	200	210	211	212						1		Danh hiệu tự chọn khi kết thành quan hệ tình duyên!	5	
+jiebai1	6501	Danh hiệu kết bái	Title_Normal;	Danh hiệu đặc biệt (Lục) 	200	219	220	221						1		Kết bái xong nhận danh hiệu Kim Lan	2	
+HuaShanLunJian01	7000	Giang Hồ Tinh Anh	Title_Normal;Title_Purple	Danh hiệu Tím	200	207	208	209	2592000					1		Trong Hoa Sơn Luận Kiếm võ nghệ của đại hiệp được mọi người công nhận!	4	
+HuaShanLunJian01	7001	Võ Lâm Cao Thủ	Title_Normal;Title_Purple	Danh hiệu Tím	200	207	208	209	2592000					1		Trong Hoa Sơn Luận Kiếm, đại hiệp võ công cao cường, tiếng lành đồn xa!	4	
+HuaShanLunJian01	7002	Võ Lâm Hào Kiệt	Title_Normal;Title_Pink	Danh hiệu Hồng	200	210	211	212	2592000					1		Trong Hoa Sơn Luận Kiếm, danh hiệu mà cao thủ mới có thể nhận!	5	
+HuaShanLunJian01	7003	Danh Chấn Giang Hồ	Title_Normal;Title_Orange	Danh hiệu Cam	200	213	214	215	2592000					1		Trong Hoa Sơn Luận Kiếm, danh hiệu Top 8 Chiến Đội nhận được!	6	
+HuaShanLunJian01	7004	Đỉnh Hoa Sơn	Title_Normal;Title_Gold	Danh hiệu Vàng	200	216	217	218	2592000					1		Trong đấu Hoa Sơn Luận Kiếm, chiến đội nhận thưởng Quán Quân	7	
+HuaShanLunJian	7006	Danh Hiệu Thành Viên Chiến Đội (Tạm) 1		Danh hiệu đỏ	200	222	223	224						1		Danh Hiệu Chiến Đội Đấu Hoa Sơn Luận Kiếm (Tạm)		
+HuaShanLunJian	7007	Danh Hiệu Thành Viên Chiến Đội (Tạm) 2		Danh hiệu lam	200	204	205	206						1		Danh Hiệu Chiến Đội Đấu Hoa Sơn Luận Kiếm (Tạm)	3	
+WuLinDaHui1	7100	Khiêu Chiến Song Đấu	Title_Normal;Title_Purple	Danh hiệu Tím	200	207	208	209	15768000					1		Cao thủ đủ tư cách tham gia Đại Hội Võ Lâm-Song Đấu mới được nhận danh hiệu này!	4	
+WuLinDaHui1	7101	Song Đấu-Cao Thủ	Title_Normal;Title_Purple	Danh hiệu Tím	200	207	208	209	15768000					1		Trong Đại Hội Võ Lâm-Song Đấu, vào Top 100 mới được nhận danh hiệu này!	4	
+WuLinDaHui1	7102	Chung kết Song Đấu-Hào Kiệt	Title_Normal;Title_Pink	Danh hiệu Hồng	200	210	211	212	15768000					1		Trong Đại Hội Võ Lâm-Song Đấu, cao thủ Top 16 vào vòng chung kết mới được nhận danh hiệu này!	5	
+WuLinDaHui1	7103	Võ Lâm Danh Hiệp	Title_Normal;Title_Orange	Danh hiệu Cam	200	213	214	215	15768000	UI/Atlas/BeautyTitle/BeautyTitle.prefab  	WLMXTitle1_			1		Trong Đại Hội Võ Lâm-Song Đấu, vào bán kết mới được nhận danh hiệu này!	6	
+WuLinDaHui1	7104	Võ Lâm Chí Tôn	Title_Normal;Title_Gold	Danh hiệu Vàng	200	216	217	218	15768000	UI/Atlas/BeautyTitle/BeautyTitle2.prefab  	WLZZTitle1_	9191		1		Trong Đại Hội Võ Lâm-Song Đấu, đạt Quán Quân mới được nhận danh hiệu này!	7	
+WuLinDaHui2	7105	Khiêu Chiến Tam Đấu	Title_Normal;Title_Purple	Danh hiệu Tím	200	207	208	209	15768000					1		Cao thủ đủ tư cách tham gia Đại Hội Võ Lâm-Tam Đấu mới được nhận danh hiệu này!	4	
+WuLinDaHui2	7106	Tam Đấu-Cao Thủ	Title_Normal;Title_Purple	Danh hiệu Tím	200	207	208	209	15768000					1		Vào tứ kết Tam Đấu mới được nhận danh hiệu này!	4	
+WuLinDaHui2	7107	Chung kết Tam Đấu-Hào Kiệt	Title_Normal;Title_Pink	Danh hiệu Hồng	200	210	211	212	15768000					1		Trong Đại Hội Võ Lâm-Tam Đấu, cao thủ Top 16 vào vòng chung kết mới được nhận danh hiệu này!	5	
+WuLinDaHui2	7108	Võ Lâm Danh Hiệp	Title_Normal;Title_Orange	Danh hiệu Cam	200	213	214	215	15768000	UI/Atlas/BeautyTitle/BeautyTitle.prefab  	WLMXTitle2_			1		Vào bán kết Tam Đấu mới được nhận danh hiệu này!	6	
+WuLinDaHui2	7109	Võ Lâm Chí Tôn	Title_Normal;Title_Gold	Danh hiệu Vàng	200	216	217	218	15768000	UI/Atlas/BeautyTitle/BeautyTitle2.prefab  	WLZZTitle2_	9191		1		Đoạt hạng 1 Tam Đấu mới được nhận danh hiệu này!	7	
+WuLinDaHui3	7110	Khiêu Chiến Quyết Đấu	Title_Normal;Title_Purple	Danh hiệu Tím	200	207	208	209	15768000					1		Cao thủ đủ tư cách tham gia Đại Hội Võ Lâm Tam Quyết Đấu mới được nhận danh hiệu này!	4	
+WuLinDaHui3	7111	Quyết Đấu-Cao Thủ	Title_Normal;Title_Purple	Danh hiệu Tím	200	207	208	209	15768000					1		Trong Đại Hội Võ Lâm Tam Quyết Đấu, vào Top 100 mới được nhận danh hiệu này!	4	
+WuLinDaHui3	7112	Chung kết Quyết Đấu-Hào Kiệt	Title_Normal;Title_Pink	Danh hiệu Hồng	200	210	211	212	15768000					1		Trong Đại Hội Võ Lâm Tam Quyết Đấu, cao thủ Top 16 vào vòng chung kết mới được nhận danh hiệu này!	5	
+WuLinDaHui3	7113	Võ Lâm Danh Hiệp	Title_Normal;Title_Orange	Danh hiệu Cam	200	213	214	215	15768000	UI/Atlas/BeautyTitle/BeautyTitle2.prefab  	WLMXTitle3_			1		Vào bán kết Tam Quyết Đấu mới được nhận danh hiệu này!	6	
+WuLinDaHui3	7114	Võ Lâm Chí Tôn	Title_Normal;Title_Gold	Danh hiệu Vàng	200	216	217	218	15768000	UI/Atlas/BeautyTitle/BeautyTitle2.prefab  	WLZZTitle3_	9191		1		Đoạt Quán Quân Tam Quyết Đấu mới được nhận danh hiệu này!	7	
+WuLinDaHui4	7115	Khiêu Chiến Tứ Đấu	Title_Normal;Title_Purple	Danh hiệu Tím	200	207	208	209	15768000					1		Cao thủ đủ tư cách tham gia Đại Hội Võ Lâm-Tứ Đấu mới được nhận danh hiệu này!	4	
+WuLinDaHui4	7116	Tứ Đấu-Cao Thủ	Title_Normal;Title_Purple	Danh hiệu Tím	200	207	208	209	15768000					1		Trong Đại Hội Võ Lâm-Tứ Đấu, vào Top 18 mới được nhận danh hiệu này!	4	
+WuLinDaHui4	7117	Chung kết Tứ Đấu-Hào Kiệt	Title_Normal;Title_Pink	Danh hiệu Hồng	200	210	211	212	15768000					1		Trong Đại Hội Võ Lâm-Tứ Đấu, cao thủ Top 16 vào vòng chung kết mới được nhận danh hiệu này!	5	
+WuLinDaHui4	7118	Võ Lâm Danh Hiệp	Title_Normal;Title_Orange	Danh hiệu Cam	200	213	214	215	15768000	UI/Atlas/BeautyTitle/BeautyTitle2.prefab  	WLMXTitle4_			1		Trong Đại Hội Võ Lâm-Tứ Đấu, vào bán kết mới được nhận danh hiệu này!	6	
+WuLinDaHui4	7119	Võ Lâm Chí Tôn	Title_Normal;Title_Gold	Danh hiệu Vàng	200	216	217	218	15768000	UI/Atlas/BeautyTitle/BeautyTitle3.prefab  	WLZZTitle4_	9191		1		Trong Đại Hội Võ Lâm-Tứ Đấu, đạt Quán Quân mới được nhận danh hiệu này!	7	
+BeautyPageantTitle7	7198	Võ Lâm Đệ Tam Mỹ Nhân	Title_Normal;Title_Gold	Danh hiệu Vàng (Chữ hình) 	200	216	217	218	31536000	UI/Atlas/BeautyTitle/BeautyTitle5.prefab  	BeautyTitle5_	9171		1		Giành được Quý Quân Chung Kết「Miss Võ Lâm Truyền Kỳ Mobile」, trang bị danh hiệu này có thể nhận hiệu ứng 「Giai Nhân」	7	
+BeautyPageantTitle8	7199	Võ Lâm Đệ Nhị Mỹ Nhân	Title_Normal;Title_Gold	Danh hiệu Vàng (Chữ hình) 	200	216	217	218	31536000	UI/Atlas/BeautyTitle/BeautyTitle4.prefab  	BeautyTitle4_	9171		1		Giành được Á Quân Chung Kết「Miss Võ Lâm Truyền Kỳ Mobile」, trang bị danh hiệu này có thể nhận hiệu ứng 「Giai Nhân」	7	
+BeautyPageantTitle1	7200	Võ Lâm Đệ Nhất Mỹ Nhân	Title_Normal;Title_Gold	Danh hiệu Vàng (Chữ hình) 	200	216	217	218	31536000	UI/Atlas/BeautyTitle/BeautyTitle.prefab  	BeautyTitle3_	9171		1		Giành được Quán Quân Chung Kết「Miss Võ Lâm Truyền Kỳ Mobile」, trang bị danh hiệu này có thể nhận hiệu ứng「Giai Nhân」	7	
+BeautyPageantTitle2	7201	Võ Lâm Đại Mỹ Nhân TOP 20	Title_Normal;Title_Gold	Danh hiệu Vàng (Chữ hình) 	200	216	217	218	31536000	UI/Atlas/BeautyTitle/BeautyTitle.prefab  	BeautyTitle2_	9171		1		Giành đượcn Top 20 Chung Kết「Miss Võ Lâm Truyền Kỳ Mobile」, trang bị danh hiệu này có thể nhận hiệu ứng「Giai Nhân」	7	
+BeautyPageantTitle3	7202	Đệ Nhất Mỹ Nhân Server	Title_Normal;Title_Orange	Danh hiệu Cam (Chữ hình) 	200	213	214	215	31536000	UI/Atlas/BeautyTitle/BeautyTitle.prefab  	BeautyTitle1_	9170		1		Giành được Quán Quân Sơ Tuyển「Miss Võ Lâm Truyền Kỳ Mobile」, trang bị danh hiệu có thể nhận hiệu ứng「Giai Nhân」	6	
+BeautyPageantTitle4	7203	Thập Đại Mỹ Nhân Server	Title_Normal;Title_Orange	Danh hiệu Cam	200	213	214	215	31536000			9170		1		Giành được Top 10 Sơ Tuyển「Miss Võ Lâm Truyền Kỳ Mobile」, trang bị danh hiệu này có thể nhận hiệu ứng「Giai Nhân」	6	
+BeautyPageantTitle5	7204	Thu Thủy Y Nhân	Title_Normal;Title_Pink	Danh hiệu Hồng	200	210	211	212	31536000					1		Sơ Tuyển「Miss Võ Lâm Truyền Kỳ Mobile」được 199 phiếu	5	
+BeautyPageantTitle6	7205	Quốc Sắc Thiên Hương	Title_Normal;Title_Orange	Danh hiệu Cam	200	213	214	215	31536000					1		Chung kết「Miss Võ Lâm Truyền Kỳ Mobile」được 8000 phiếu	6	
+GoodVoiceTitle1	7206	Tiên Lại Âm	Title_Normal;Title_Gold	Danh hiệu Vàng (Chữ hình) 	200	216	217	218	31536000	UI/Atlas/BeautyTitle/BeautyTitle3.prefab  	GoodVoiceTitle1_	9251		1		Đoạt Quán Quân Chung Kết「VLTK M Voice」,  trang bị danh hiệu này có thể nhận hiệu ứng「Dư Âm Nhiễu Lương」	7	
+GoodVoiceTitle2	7207	Phượng Hoàng Minh	Title_Normal;Title_Gold	Danh hiệu Vàng (Chữ hình) 	200	216	217	218	31536000	UI/Atlas/BeautyTitle/BeautyTitle3.prefab  	GoodVoiceTitle2_	9245		1		Đoạt Á Quân Chung Kết「VLTK M Voice」, trang bị danh hiệu này có thể nhận hiệu ứng「Dư Âm Nhiễu Lương」	7	
+GoodVoiceTitle3	7208	Châu Ngọc Thanh	Title_Normal;Title_Gold	Danh hiệu Vàng (Chữ hình) 	200	216	217	218	31536000	UI/Atlas/BeautyTitle/BeautyTitle3.prefab  	GoodVoiceTitle3_	9246		1		Đoạt Quý Quân Chung Kết「VLTK M Voice」, trang bị danh hiệu này có thể nhận hiệu ứng「Dư Âm Nhiễu Lương」	7	
+GoodVoiceTitle4	7209	Thanh Động Tứ Hải	Title_Normal;Title_Orange	Danh hiệu Cam	200	213	214	215	31536000	UI/Atlas/BeautyTitle/BeautyTitle4.prefab  	GoodVoiceTitle4_	9247		1		Đoạt Quán Quân Bán Kết「VLTK M Voice」, trang bị danh hiệu này có thể nhận hiệu ứng「Dư Âm Nhiễu Lương」	6	
+GoodVoiceTitle5	7210	Truyền Cảm	Title_Normal;Title_Orange	Danh hiệu Cam	200	213	214	215	31536000	UI/Atlas/BeautyTitle/BeautyTitle4.prefab  	GoodVoiceTitle5_	9248		1		Đoạt Quán Quân Sơ Loại「VLTK M Voice」, trang bị danh hiệu này có thể nhận hiệu ứng「Dư Âm Nhiễu Lương」	6	
+GoodVoiceTitle6	7211	Thanh Thoát	Title_Normal;Title_Orange	Danh hiệu Cam	200	213	214	215	31536000			9248		1		Đạt Top 10 Vòng Loại「VLTK M Voice」, trang bị nhận hiệu ứng「Dư Âm Nhiễu Lương」	6	
+GoodVoiceTitle7	7212	Thanh Danh	Title_Normal;Title_Purple	Danh hiệu Tím	200	207	208	209	31536000					1		Sơ loại「VLTK M Voice」được 199 phiếu bầu	4	
+GoodVoiceTitle8	7213	Khúc Hồng Tiêu	Title_Normal;Title_Pink	Danh hiệu Hồng	200	210	211	212	31536000					1		Danh hiệu nhận khi được 10000 phiếu bầu trong「VLTK M Voice」	5	
+GoodVoiceTitle9	7214	Nan Đắc Tri Âm	Title_Normal;Title_Pink	Danh hiệu Hồng	200	210	211	212	31536000					1		Danh hiệu nhận khi đạt Top 10 bảng xếp hạng tổng trong「VLTK M Voice」	5	
+GoodVoiceTitle10	7215	Hoa Đông Cường Thanh	Title_Normal;Title_Orange	Danh hiệu Cam	200	213	214	215	31536000			9247		1		Được Quán Quân Hoa Đông Vòng Chung Kết「VLTK M Voice」, trang bị danh hiệu này có thể nhận hiệu ứng「Dư Âm Nhiễu Lương」	6	
+GoodVoiceTitle11	7216	Hoa Nam Cường Thanh	Title_Normal;Title_Orange	Danh hiệu Cam	200	213	214	215	31536000			9247		1		Được Quán Quân Hoa Nam Vòng Chung Kết「VLTK M Voice」, trang bị danh hiệu này có thể nhận hiệu ứng「Dư Âm Nhiễu Lương」	6	
+GoodVoiceTitle12	7217	Hoa Trung Cường Thanh	Title_Normal;Title_Orange	Danh hiệu Cam	200	213	214	215	31536000			9247		1		Được Quán Quân Hoa Trung Vòng Chung Kết「VLTK M Voice」, trang bị danh hiệu này có thể nhận hiệu ứng「Dư Âm Nhiễu Lương」	6	
+GoodVoiceTitle13	7218	Hoa Bắc Cường Thanh	Title_Normal;Title_Orange	Danh hiệu Cam	200	213	214	215	31536000			9247		1		Được Quán Quân Hoa Bắc Vòng Chung Kết「VLTK M Voice」, trang bị danh hiệu này có thể nhận hiệu ứng「Dư Âm Nhiễu Lương」	6	
+GoodVoiceTitle14	7219	Tây Bắc Cường Thanh	Title_Normal;Title_Orange	Danh hiệu Cam	200	213	214	215	31536000			9247		1		Được Quán Quân Tây Bắc Vòng Chung Kết「VLTK M Voice」, trang bị danh hiệu này có thể nhận hiệu ứng「Dư Âm Nhiễu Lương」	6	
+GoodVoiceTitle15	7220	Tây Nam Cường Thanh	Title_Normal;Title_Orange	Danh hiệu Cam	200	213	214	215	31536000			9247		1		Được Quán Quân Tây Nam Vòng Chung Kết「VLTK M Voice」, trang bị danh hiệu này có thể nhận hiệu ứng「Dư Âm Nhiễu Lương」	6	
+GoodVoiceTitle16	7221	Đông Bắc Cường Thanh	Title_Normal;Title_Orange	Danh hiệu Cam	200	213	214	215	31536000			9247		1		Được Quán Quân Đông Bắc Vòng Chung Kết「VLTK M Voice」, trang bị danh hiệu này có thể nhận hiệu ứng「Dư Âm Nhiễu Lương」	6	
+GoodVoiceTitle17	7222	Hương Cảng Cường Thanh	Title_Normal;Title_Orange	Danh hiệu Cam	200	213	214	215	31536000			9247		1		Được Quán Quân Hương Cảng Vòng Chung Kết「VLTK M Voice」, trang bị danh hiệu này có thể nhận hiệu ứng「Dư Âm Nhiễu Lương」	6	
+GoodVoiceTitle18	7223	Hoa Đông Hảo Thanh	Title_Normal;Title_Pink	Danh hiệu Hồng	200	210	211	212	31536000							Được Top 3 Hoa Đông Vòng Chung Kết「VLTK M Voice」	5	
+GoodVoiceTitle19	7224	Hoa Nam Hảo Thanh	Title_Normal;Title_Pink	Danh hiệu Hồng	200	210	211	212	31536000							Được Top 3 Hoa Nam Vòng Chung Kết「VLTK M Voice」	5	
+GoodVoiceTitle20	7225	Hoa Trung Hảo Thanh	Title_Normal;Title_Pink	Danh hiệu Hồng	200	210	211	212	31536000							Được Top 3 Hoa Trung Vòng Chung Kết「VLTK M Voice」	5	
+GoodVoiceTitle21	7226	Hoa Bắc Hảo Thanh	Title_Normal;Title_Pink	Danh hiệu Hồng	200	210	211	212	31536000							Được Top 3 Hoa Bắc Vòng Chung Kết「VLTK M Voice」	5	
+GoodVoiceTitle22	7227	Tây Bắc Hảo Thanh	Title_Normal;Title_Pink	Danh hiệu Hồng	200	210	211	212	31536000							Được Top 3 Tây Bắc Vòng Chung Kết「VLTK M Voice」	5	
+GoodVoiceTitle23	7228	Tây Nam Hảo Thanh	Title_Normal;Title_Pink	Danh hiệu Hồng	200	210	211	212	31536000							Được Top 3 Tây Nam Vòng Chung Kết「VLTK M Voice」	5	
+GoodVoiceTitle24	7229	Đông Bắc Hảo Thanh	Title_Normal;Title_Pink	Danh hiệu Hồng	200	210	211	212	31536000							Được Top 3 Đông Bắc Vòng Chung Kết「VLTK M Voice」	5	
+GoodVoiceTitle25	7230	Hương Cảng Hảo Thanh	Title_Normal;Title_Pink	Danh hiệu Hồng	200	210	211	212	31536000							Được Top 3 Hương Cảng Vòng Chung Kết「VLTK M Voice」	5	
+GoodVoiceTitle26	7231	Thiên Vương Cường Thanh	Title_Normal;Title_Orange	Danh hiệu Cam	200	213	214	215	31536000			9247		1		Giành quán quân Vòng Chung Kết「VLTK M Voice」, trang bị nhận hiệu ứng「Dư Âm Nhiễu Lương」	6	
+GoodVoiceTitle27	7232	Nga Mi Cường Thanh	Title_Normal;Title_Orange	Danh hiệu Cam	200	213	214	215	31536000			9247		1		Giành quán quân Vòng Chung Kết「VLTK M Voice」, trang bị nhận hiệu ứng「Dư Âm Nhiễu Lương」	6	
+GoodVoiceTitle28	7233	Đào Hoa Cường Thanh	Title_Normal;Title_Orange	Danh hiệu Cam	200	213	214	215	31536000			9247		1		Giành quán quân Vòng Chung Kết「VLTK M Voice」, trang bị nhận hiệu ứng「Dư Âm Nhiễu Lương」	6	
+GoodVoiceTitle29	7234	Tiêu Dao Cường Thanh	Title_Normal;Title_Orange	Danh hiệu Cam	200	213	214	215	31536000			9247		1		Giành quán quân Vòng Chung Kết「VLTK M Voice」, trang bị nhận hiệu ứng「Dư Âm Nhiễu Lương」	6	
+GoodVoiceTitle30	7235	Võ Đang Cường Thanh	Title_Normal;Title_Orange	Danh hiệu Cam	200	213	214	215	31536000			9247		1		Giành quán quân Vòng Chung Kết「VLTK M Voice」, trang bị nhận hiệu ứng「Dư Âm Nhiễu Lương」	6	
+GoodVoiceTitle31	7236	Thiên Nhẫn Cường Thanh	Title_Normal;Title_Orange	Danh hiệu Cam	200	213	214	215	31536000			9247		1		Giành quán quân Vòng Chung Kết「VLTK M Voice」, trang bị nhận hiệu ứng「Dư Âm Nhiễu Lương」	6	
+GoodVoiceTitle32	7237	Thiếu Lâm Cường Thanh	Title_Normal;Title_Orange	Danh hiệu Cam	200	213	214	215	31536000			9247		1		Giành quán quân Vòng Chung Kết「VLTK M Voice」, trang bị nhận hiệu ứng「Dư Âm Nhiễu Lương」	6	
+GoodVoiceTitle33	7238	Thúy Yên Cường Thanh	Title_Normal;Title_Orange	Danh hiệu Cam	200	213	214	215	31536000			9247		1		Giành quán quân Vòng Chung Kết「VLTK M Voice」, trang bị nhận hiệu ứng「Dư Âm Nhiễu Lương」	6	
+GoodVoiceTitle34	7239	Đường Môn Cường Thanh	Title_Normal;Title_Orange	Danh hiệu Cam	200	213	214	215	31536000			9247		1		Giành quán quân Vòng Chung Kết「VLTK M Voice」, trang bị nhận hiệu ứng「Dư Âm Nhiễu Lương」	6	
+GoodVoiceTitle35	7240	Côn Lôn Cường Thanh	Title_Normal;Title_Orange	Danh hiệu Cam	200	213	214	215	31536000			9247		1		Giành quán quân Vòng Chung Kết「VLTK M Voice」, trang bị nhận hiệu ứng「Dư Âm Nhiễu Lương」	6	
+GoodVoiceTitle36	7241	Cái Bang Cường Thanh	Title_Normal;Title_Orange	Danh hiệu Cam	200	213	214	215	31536000			9247		1		Giành quán quân Vòng Chung Kết「VLTK M Voice」, trang bị nhận hiệu ứng「Dư Âm Nhiễu Lương」	6	
+GoodVoiceTitle37	7242	Ngũ Độc Cường Thanh	Title_Normal;Title_Orange	Danh hiệu Cam	200	213	214	215	31536000			9247		1		Giành quán quân Vòng Chung Kết「VLTK M Voice」, trang bị nhận hiệu ứng「Dư Âm Nhiễu Lương」	6	
+GoodVoiceTitle38	7243	Tàng Kiếm Cường Thanh	Title_Normal;Title_Orange	Danh hiệu Cam	200	213	214	215	31536000			9247		1		Giành quán quân Vòng Chung Kết「VLTK M Voice」, trang bị nhận hiệu ứng「Dư Âm Nhiễu Lương」	6	
+GoodVoiceTitle39	7244	Trường Ca Cường Thanh	Title_Normal;Title_Orange	Danh hiệu Cam	200	213	214	215	31536000			9247		1		Giành quán quân Vòng Chung Kết「VLTK M Voice」, trang bị nhận hiệu ứng「Dư Âm Nhiễu Lương」	6	
+GoodVoiceTitle40	7245	Thiên Sơn Cường Thanh	Title_Normal;Title_Orange	Danh hiệu Cam	200	213	214	215	31536000			9247		1		Giành quán quân Vòng Chung Kết「VLTK M Voice」, trang bị nhận hiệu ứng「Dư Âm Nhiễu Lương」	6	
+GoodVoiceTitle41	7246	Bá Đao Cường Thanh	Title_Normal;Title_Orange	Danh hiệu Cam	200	213	214	215	31536000			9247		1		Giành quán quân Vòng Chung Kết「VLTK M Voice」, trang bị nhận hiệu ứng「Dư Âm Nhiễu Lương」	6	
+GoodVoiceTitle42	7247	Thiên Vương Hảo Thanh	Title_Normal;Title_Pink	Danh hiệu Hồng	200	210	211	212	31536000							Đạt Top 3 môn phái Vòng Chung Kết「VLTK M Voice」	5	
+GoodVoiceTitle43	7248	Nga Mi Hảo Thanh	Title_Normal;Title_Pink	Danh hiệu Hồng	200	210	211	212	31536000							Đạt Top 3 môn phái Vòng Chung Kết「VLTK M Voice」	5	
+GoodVoiceTitle44	7249	Đào Hoa Hảo Thanh	Title_Normal;Title_Pink	Danh hiệu Hồng	200	210	211	212	31536000							Đạt Top 3 môn phái Vòng Chung Kết「VLTK M Voice」	5	
+GoodVoiceTitle45	7250	Tiêu Dao Hảo Thanh	Title_Normal;Title_Pink	Danh hiệu Hồng	200	210	211	212	31536000							Đạt Top 3 môn phái Vòng Chung Kết「VLTK M Voice」	5	
+GoodVoiceTitle46	7251	Võ Đang Hảo Thanh	Title_Normal;Title_Pink	Danh hiệu Hồng	200	210	211	212	31536000							Đạt Top 3 môn phái Vòng Chung Kết「VLTK M Voice」	5	
+GoodVoiceTitle47	7252	Thiên Nhẫn Hảo Thanh	Title_Normal;Title_Pink	Danh hiệu Hồng	200	210	211	212	31536000							Đạt Top 3 môn phái Vòng Chung Kết「VLTK M Voice」	5	
+GoodVoiceTitle48	7253	Thiếu Lâm Hảo Thanh	Title_Normal;Title_Pink	Danh hiệu Hồng	200	210	211	212	31536000							Đạt Top 3 môn phái Vòng Chung Kết「VLTK M Voice」	5	
+GoodVoiceTitle49	7254	Thúy Yên Hảo Thanh	Title_Normal;Title_Pink	Danh hiệu Hồng	200	210	211	212	31536000							Đạt Top 3 môn phái Vòng Chung Kết「VLTK M Voice」	5	
+GoodVoiceTitle50	7255	Đường Môn Hảo Thanh	Title_Normal;Title_Pink	Danh hiệu Hồng	200	210	211	212	31536000							Đạt Top 3 môn phái Vòng Chung Kết「VLTK M Voice」	5	
+GoodVoiceTitle51	7256	Côn Lôn Hảo Thanh	Title_Normal;Title_Pink	Danh hiệu Hồng	200	210	211	212	31536000							Đạt Top 3 môn phái Vòng Chung Kết「VLTK M Voice」	5	
+GoodVoiceTitle52	7257	Cái Bang Hảo Thanh	Title_Normal;Title_Pink	Danh hiệu Hồng	200	210	211	212	31536000							Đạt Top 3 môn phái Vòng Chung Kết「VLTK M Voice」	5	
+GoodVoiceTitle53	7258	Ngũ Độc Hảo Thanh	Title_Normal;Title_Pink	Danh hiệu Hồng	200	210	211	212	31536000							Đạt Top 3 môn phái Vòng Chung Kết「VLTK M Voice」	5	
+GoodVoiceTitle54	7259	Tàng Kiếm Hảo Thanh	Title_Normal;Title_Pink	Danh hiệu Hồng	200	210	211	212	31536000							Đạt Top 3 môn phái Vòng Chung Kết「VLTK M Voice」	5	
+GoodVoiceTitle55	7260	Trường Ca Hảo Thanh	Title_Normal;Title_Pink	Danh hiệu Hồng	200	210	211	212	31536000							Đạt Top 3 môn phái Vòng Chung Kết「VLTK M Voice」	5	
+GoodVoiceTitle56	7261	Thiên Sơn Hảo Thanh	Title_Normal;Title_Pink	Danh hiệu Hồng	200	210	211	212	31536000							Đạt Top 3 môn phái Vòng Chung Kết「VLTK M Voice」	5	
+GoodVoiceTitle57	7262	Bá Đao Hảo Thanh	Title_Normal;Title_Pink	Danh hiệu Hồng	200	210	211	212	31536000							Đạt Top 3 môn phái Vòng Chung Kết「VLTK M Voice」	5	
+GoodVoiceTitle58	7263	Kim Thanh Ngọc Sắc	Title_Normal;Title_Pink	Danh hiệu Hồng	200	210	211	212	31536000							Vòng Vòng Chung Kết「VLTK M Voice」được bình chọn 8000 phiếu	5	
+GoodVoiceTitle59	7264	Điệu Du Dương	Title_Normal;Title_Orange	Danh hiệu Cam	200	213	214	215	31536000			9246		1		Đạt Top 10 Chung Kết「VLTK M Voice」, trang bị nhận hiệu ứng「Dư Âm Nhiễu Lương」	6	
+GoodVoiceTitle60	7265	Thiên Lại Trợ Công	Title_Normal;Title_Purple	Danh hiệu Tím	200	207	208	209	31536000							Hạng 10 Hát Chung「VLTK M Voice」	4	
+GoodVoiceTitle61	7266	Giọng Truyền Cảm	Title_Normal;Title_Purple	Danh hiệu Tím	200	207	208	209	31536000							Chiến đội Triệu Ân Đồng đã thắng trong thi đấu「VLTK M Voice」	4	
+GoodVoiceTitle62	7267	Tiếng Thanh Xuân	Title_Normal;Title_Purple	Danh hiệu Tím	200	207	208	209	31536000							「VLTK M Voice」đội Lâm Triều Hoa thắng	4	
+GoodVoiceTitle63	7268	Lời Hứa Ngàn Vàng	Title_Normal;Title_Gold	Danh hiệu Hồng	200	210	211	212	31536000	UI/Atlas/BeautyTitle/BeautyTitle4.prefab  	GoodVoiceTitle6_	9250				Thưởng hạng 1 BXH Hâm Mộ「VLTK M Voice」, trang bị nhận hiệu ứng「Thất Thái Dư Âm」	5	
+TH_Title1	7500	Đệ Nhất Dự Đoán	Title_Normal;Title_Purple	Danh hiệu Tím	200	207	208	209	31536000					1			4	
+TH_Title2	7501	Đông Phương Đệ Nhất	Title_Normal;Title_Pink	Danh hiệu Hồng	200	210	211	212	2592000					1			5	
+TH_Title3	7502	Tây Phương Đệ Nhất	Title_Normal;Title_Pink	Danh hiệu Hồng	200	210	211	212	2592000					1			5	
+TH_Title4	7503	Nam Phương Đệ Nhất	Title_Normal;Title_Pink	Danh hiệu Hồng	200	210	211	212	2592000					1			5	
+TH_Title5	7504	Bắc Phương Đệ Nhất	Title_Normal;Title_Pink	Danh hiệu Hồng	200	210	211	212	2592000					1			5	
+TH_Title6	7505	Thiên Đường Vương Giả	Title_Normal;Title_Orange	Danh hiệu Cam	200	213	214	215	2592000					1			6	
+TH_Title7	7506	Võ Lâm Trứ Danh	Title_Normal;Title_Pink	Danh hiệu Hồng	200	210	211	212	31536000					1			5	
+TH_Title8	7507	Nổi Danh Thiên Hạ	Title_Normal;Title_Purple	Danh hiệu Tím	200	207	208	209	31536000					1			4	
+TH_Title9	7508	Thiên Đường Thanh Âm	Title_Normal;Title_Pink	Danh hiệu Hồng	200	210	211	212	31536000					1			5	
+TH_Title10	7509	Thiên Không Thanh Âm	Title_Normal;Title_Purple	Danh hiệu Tím	200	207	208	209	31536000					1			4	
+GoSkyTower_1	7700	Tuyển Thủ Thông Thiên Tháp Tháng	Title_Normal;	Danh hiệu lam	200	204	205	206	2592000					1		Nhận tư cách tham gia Thông Thiên Tháp Tháng	3	
+GoSkyTower_2	7701	Tuyển Thủ Thông Thiên Tháp Quý	Title_Normal;Title_Purple	Danh hiệu Tím	200	207	208	209	2592000					1		Nhận tư cách tham gia Thông Thiên Tháp Quý	4	
+GoSkyTower_3	7702	Tuyển Thủ Thông Thiên Tháp Năm	Title_Normal;Title_Pink	Danh hiệu Hồng	200	210	211	212	2592000					1		Nhận tư cách Thông Thiên Tháp Năm	5	
+GoSkyTower_4	7707	Vượt Đỉnh Thông Thiên Năm	Title_Normal;Title_Gold	Danh hiệu Vàng	200	216	217	218	31536000					1		Tại Thông Thiên Tháp đấu năm đạt tầng 8, làm chủ quần hùng!	7	
+InDifferBattle_1	7703	Tuyển Thủ Tâm Ma Tháng	Title_Normal;	Danh hiệu lam	200	204	205	206	2592000					1		Tâm Ma Ảo Cảnh-Tháng	3	
+InDifferBattle_2	7704	Tuyển Thủ Tâm Ma Ảo Cảnh Quý	Title_Normal;Title_Purple	Danh hiệu Tím	200	207	208	209	2592000					1		Tâm Ma Ảo Cảnh-Quý	4	
+InDifferBattle_4	7706	Diệc Chân Diệc Ảo	Title_Normal;Title_Pink	Danh hiệu Hồng	200	210	211	212	7776000					1		Thắng Tâm Ma Ảo Cảnh Quý	5	
+NewTitle_OldPlayer1	7801	Kiếm Ca Hồng Trần	Title_Normal;	Danh hiệu lam	200	204	205	206						1		Danh hiệu hoạt động	3	
+NewTitle_OldPlayer2	7802	Thanh Xuân Sum Vầy	Title_Normal;	Danh hiệu lam	200	204	205	206						1		Danh hiệu hoạt động	3	
+NewTitle_BookPlayer1	7803	Vạn Người Khó Đỡ	Title_Normal;Title_Purple	Danh hiệu Tím	200	207	208	209						1		Danh hiệu hoạt động	4	
+NewTitle_BookPlayer2	7804	Ngạo Nghễ Chiến Trường	Title_Normal;Title_Purple	Danh hiệu Tím	200	207	208	209						1		Danh hiệu hoạt động	4	
+NewTitle_BookPlayer3	7805	Độc Bộ Thiên Hạ	Title_Normal;Title_Purple	Danh hiệu Tím	200	207	208	209						1		Danh hiệu hoạt động	4	
+NewTitle_BookPlayer4	7806	Đại Hiệp Khách	Title_Normal;Title_Purple	Danh hiệu Tím	200	207	208	209						1		Danh hiệu hoạt động	4	
+VNClosedBateTitle1	8000	Hoàng Kim Tái Khởi	Title_Normal;	Danh hiệu lam	200	204	205	206						1		Danh hiệu đặc biệt nhận trong hoạt động Chiêu Mộ Anh Hùng trước khi OB	3	
+Waiyi_1	8101	Phù Quang Nhược Mộng	Title_Normal;Title_Pink	Danh hiệu Hồng	200	210	211	212	2592000					1		Danh hiệu nhận từ [FFFE0D]Rương Phù Quang Nhược Mộng-Hào Hoa[-]	5	
+Waiyi_2	8102	Tà Mị Quyên Cuồng	Title_Normal;Title_Pink	Danh hiệu Hồng	200	210	211	212						1		Tà Mị Quyên Cuồng, Duy Ngã Độc Ma! Danh hiệu nhận khi sử dụng [FFFE0D]Rương Vô Địch Tà Mị Quyên Cuồng[-]	5	
+Waiyi_3	8103	Tà Mị Quyên Cuồng	Title_Normal;Title_Pink	Danh hiệu Hồng	200	210	211	212	2592000					1		Danh hiệu nhận từ [FFFE0D]Rương Tà Mị Quyên Cuồng-Hào Hoa[-]	5	
+Waiyi_4	8104	Phong Hoa Tuyệt Đại	Title_Normal;Title_Pink	Danh hiệu Hồng	200	210	211	212	2592000					1		Danh hiệu nhận từ [FFFE0D]Rương Phong Hoa Tuyệt Đại-Hào Hoa[-]	5	
+Waiyi_5	8105	Khởi Vũ Thanh Ảnh	Title_Normal;Title_Pink	Danh hiệu Hồng	200	210	211	212		UI/Atlas/BeautyTitle/BeautyTitle3.prefab  	DressTitle1			1		Danh hiệu nhận từ [FFFE0D]Rương Phong Động Huỳnh Vũ-Hào Hoa[-]	5	
+Waiyi_6	8106	Thương Sinh Đạp Ca	Title_Normal;Title_Pink	Danh hiệu Hồng	200	210	211	212	2592000				9265	1		Danh hiệu nhận từ [FFFE0D]Rương Thịnh Hạ Phong Tình-Hào Hoa[-]	5	
+Waiyi_7	8107	Năm Tháng Hào Hùng	Title_Normal;Title_Pink	Danh hiệu Hồng	200	210	211	212	2592000				9938	1		Danh hiệu nhận từ [FFFE0D]Rương Hoàng Cát Nghinh Xuân-Hào Hoa[-]	5	
+Waiyi_8	8108	Tố Phương Mộc Tuyết	Title_Normal;Title_Pink	Danh hiệu Hồng	200	210	211	212	2592000				9942	1		Danh hiệu nhận từ [FFFE0D]Rương Tố Phương Mộc Tuyết-Hào Hoa[-]	5	
+Waiyi_9	8109	Phiên Yến Lưu Vân	Title_Normal;Title_Pink	Danh hiệu Hồng	200	210	211	212	2592000				9323	1		Danh hiệu nhận từ [FFFE0D]Rương Phiên Yến Lưu Vân-Hào Hoa[-]	5	
+Marriage1	8200	Danh hiệu Phu Thê	Title_Normal;Title_Orange	Danh hiệu Cam	200	213	214	215						1		Hoàn thành hôn lễ Trang Viên-Tình Nồng, phu thê nhận danh hiệu độc đáo	6	
+Marriage2	8201	Danh hiệu Đính Hôn	Title_Normal;Title_Pink	Danh hiệu Hồng	200	210	211	212						1		Danh hiệu nhận khi hai bên hoàn thành cầu hôn	5	
+Marriage3	8202	Danh hiệu Phu Thê	Title_Normal;Title_Orange	Danh hiệu Cam	200	213	214	215						1		Hoàn thành hôn lễ Hải Tân-Lãm Nguyệt, phu thê nhận danh hiệu độc đáo	6	
+Marriage4	8203	Danh hiệu Phu Thê	Title_Normal;Title_Gold	Danh hiệu Vàng	200	216	217	218						1		Hoàn thành hôn lễ Thuyền-Long Phụng, phu thê nhận danh hiệu độc đáo	7	
+Marriage_Firecracker	8204	Hoa Rụng Nhà Ta	Title_Normal;Title_Pink	Danh hiệu Hồng	200	210	211	212	864000					1		Khi tham gia hôn lễ, may mắn nhận được Tú Cầu trong Pháo Hoa Vui Vẻ	5	
+Marriage_Witness	8205	Chứng Hôn	Title_Normal;Title_Orange	Danh hiệu Cam	200	213	214	215						1		Khi Bái Đường, top 4 BXH tiền mừng cùng làm chứng cho đôi tân nhân	6	
+Official_Title	10000	Thái Phong Quan	Title_Normal;	Danh hiệu đặc biệt (Đỏ) 	200	222	223	224						1		Dành cho GM		
+Official_Title	10001	Ký Giả Chính Thức	Title_Normal;	Danh hiệu đặc biệt (Đỏ) 	200	210	211	212						1		Tân Võ Lâm Truyền Kỳ Mobile-Ký Giả Chính Thức		
+Official_Title3	10002	Đối Thủ Đông Ca	Title_Normal;	Danh hiệu lam	200	204	205	206	604800					1		Danh hiệu hoạt động	3	
+Official_Title4	10003	Hâm Mộ Đông Ca	Title_Normal;	Danh hiệu lam	200	204	205	206	604800					1		Danh hiệu hoạt động	3	
+Official_Title5	10004	Hãy Đợi Đấy	Title_Normal;	Danh hiệu lam	200	204	205	206	604800					1		Danh hiệu hoạt động	3	
+Official_Title6	10005	Kiếm Hiệp Tinh Anh	Title_Normal;	Danh hiệu lam	200	204	205	206	604800					1		Danh hiệu hoạt động	3	
+Official_Title7	10006	Thật Hết Cách	Title_Normal;	Danh hiệu lam	200	204	205	206	604800					1		Danh hiệu hoạt động	3	
+Official_Title8	10007	Ngôi Sao Mới	Title_Normal;	Danh hiệu lam	200	204	205	206	604800					1		Danh hiệu hoạt động	3	
+hd_zhongqiu_title1	6450	Hà Tư Nguyệt Vận	Title_Normal;Title_Orange	Danh hiệu Cam	200	213	214	215	2592000					1		[FFFE0D]Hạng 1-3[-] trong BXH Trung Thu	6	
+hd_zhongqiu_title2	6451	Hoa Thần Nguyệt Tịch	Title_Normal;Title_Pink	Danh hiệu Hồng	200	210	211	212	2592000					1		[FFFE0D]Hạng 4-10[-] trong BXH Trung Thu	5	
+New_ShengDian_Male	6666	Tâm Kiếm Không Phai	Title_Normal;Title_Orange	Danh hiệu Cam	200	213	214	215						1		Danh hiệu Hào Hiệp-Nam	6	
+New_ShengDian_Female	6667	Tình Còn Son Sắt	Title_Normal;Title_Orange	Danh hiệu Cam	200	213	214	215						1		Danh hiệu Hào Hiệp-Nữ	6	
+New_ShengDian_HaoXia	6668	Giang Hồ Hào Hiệp	Title_Normal;Title_Pink	Danh hiệu Hồng	200	210	211	212						1		Đại hiệp hoàn thành hoạt động Thu Thập Bạch Thư trong Giang Hồ Hào Hiệp	5	
+New_Ershinian	6669	Kiếm Hiệp Tình Duyên	Title_Normal;Title_Pink	Danh hiệu Hồng	200	210	211	212						1		Mừng 20 năm thương hiệu Võ Lâm Truyền Kỳ	5	
+shengdanjie	6670	Giáng Sinh Vui Vẻ	Title_Normal;Title_Pink	Danh hiệu Hồng	200	210	211	212	7776000					1		Danh hiệu nhận từ [FFFE0D]Rương Giáng Sinh-Hào Hoa[-]	5	
+2018Activity_Title1	6671	Võ Lâm Tiên Hành Giả	Title_Normal;	Danh hiệu lam	200	204	205	206	31536000					1		Thành viên đội hoạt động Tụ Hợp Máy Chủ Mới	3	
+2018Activity_Title2	6672	Người Dẫn Đầu Giang Hồ	Title_Normal;Title_Gold	Danh hiệu Vàng	200	216	217	218	31536000					1		Đội trưởng đội hoạt động Tụ Hợp Máy Chủ Mới	7	
+2018Activity_Title3	6673	Năm Mới Vui Vẻ		Danh hiệu đỏ	200	222	223	224	31536000					1		Danh hiệu hoạt động Chúc Phúc Năm Mới		
+2018Activity_Title4	6674	Uy Chấn Thiên Hạ	Title_Normal;Title_Orange	Danh hiệu Cam	200	213	214	215	7776000					1		Danh hiệu người dùng	6	
+2018Activity_Title5	6675	Thanh Huy Ánh Nguyệt Lan	Title_Normal;Title_Pink	Danh hiệu Hồng	200	210	211	212	5184000					1		Danh hiệu nhận từ Quà Nguyên Tiêu	5	
+2018Activity_Title6	6676	Vua Nổi Tiếng Toàn Máy Chủ-Võ Lâm Manh Chủ	Title_Normal	Danh hiệu đỏ	200	222	223	224	15552000					1		Hạng 1 BXH Nổi Tiếng		
+2018Activity_Title7	6677	Bảo Bối Nổi Tiếng Toàn Máy Chủ	Title_Normal;Title_Purple	Danh hiệu Tím	200	207	208	209	15552000					1		Top 10  BXH Nổi Tiếng	4	
+2018Activity_Title8	6678	Vua Nổi Tiếng Toàn Máy Chủ-Manh Động Giang Hồ	Title_Normal;Title_Purple	Danh hiệu Tím	200	207	208	209	1296000					1		Hạng 1  BXH Nổi Tiếng Tuần	4	
+2018Activity_Title9	6679	Bảo Bối Nổi Tiếng Tuần Này	Title_Normal;	Danh hiệu lam	200	204	205	206	604800					1		Top 10  BXH Nổi Tiếng Tuần	3	
+2018Activity_Title10	6680	Quản Gia Game	Title_Normal;	Danh hiệu đỏ	200	222	223	224	7776000							Danh hiệu người dùng		
+2018Activity_Title11	6681	Lẫy Lừng	Title_Normal;	Danh hiệu Lục	200	219	220	221	7776000							Danh hiệu người dùng	2	
+JYFL_1	6682	Kiếm Ý Phong Lưu	Title_Normal;Title_Pink	Danh hiệu Hồng	200	210	211	212	2592000					1		Hoàn thành nhiệm vụ Kiếm Ý Phong Lưu nhận	5	
+MonsterNianKiller	6701	Người Diệt Niên Thú	Title_Normal;Title_Orange	Danh hiệu Cam	200	216	217	218	86400	  		9245		1		Trong hoạt động Niên Thú, người có điểm Bang Hội cao nhất nhận danh hiệu này	7	
+Womensday_boy	6702	Hộ Hoa Sứ	Title_Normal;Title_Pink	Danh hiệu Hồng	200	210	211	212	2592000					1		Danh hiệu nhận từ hoạt động Lễ Nữ Hiệp	5	
+Womensday_girl	6703	Nhân Tỷ Hoa Kiều	Title_Normal;Title_Pink	Danh hiệu Hồng	200	210	211	212	2592000					1		Danh hiệu nhận từ hoạt động Lễ Nữ Hiệp	5	
+WorkersDay_Title1	6704	Gương Lao Động	Title_Normal;Title_Orange	Danh hiệu Cam	200	213	214	215	2592000					1		Danh hiệu nhận khi tham gia hoạt động 1/5	6	
+WorkersDay_Title2	6705	Trợ Thủ Lao Động	Title_Normal;Title_Pink	Danh hiệu Hồng	200	210	211	212	2592000					1		Danh hiệu nhận khi tham gia hoạt động 1/5	5	
+DanceAct_Title1	6706	Vũ Lâm Chí Tôn	Title_Normal;Title_Orange	Danh hiệu Cam	200	213	214	215	2592000					1		Dang hiệu nhận từ Vũ Động Giang Hồ	6	
+DanceAct_Title2	6707	Vũ Lâm Danh Hiệp	Title_Normal;Title_Pink	Danh hiệu Hồng	200	210	211	212	2592000					1		Dang hiệu nhận từ Vũ Động Giang Hồ	5	
+DanceAct_Title3	6708	Vũ Lâm Cao Thủ	Title_Normal;Title_Purple	Danh hiệu Tím	200	207	208	209	2592000					1		Dang hiệu nhận từ Vũ Động Giang Hồ	4	
+2018WorldCup_1	6709	Vua Bóng Đá	Title_Normal;Title_Orange	Danh hiệu Cam	200	213	214	215	7776000					1		Hạng 1 hoạt động Thu thập huy chương World Cup 2018 nhận danh hiệu này	6	
+2018WorldCup_2	6710	Bình Luận Viên	Title_Normal;Title_Pink	Danh hiệu Hồng	200	210	211	212	7776000					1		Thông qua hoạt động Thu Thập Huy Chương Cup Thế Giới 2018 vinh dự đạt hạng 2-5 nhận được danh hiệu này	5	
+JiazuPK_1_1	6711	Hùng Tài Thao Lược	Title_Normal;Title_Orange	Danh hiệu Cam	200	213	214	215	7776000					1		Trong Bang Hội Chiến trở thành Thủ Lĩnh dẫn dắt thành viên bang chiến thắng 6, 7, 8 trận nhận được danh hiệu này	6	
+JiazuPK_1_2	6712	Danh Tướng Vô Song	Title_Normal;Title_Orange	Danh hiệu Cam	200	213	214	215	7776000					1		Trong Bang Hội Chiến trở thành Bang Chủ dẫn dắt thành viên bang chiến thắng 6, 7, 8 trận nhận được danh hiệu này	6	
+JiazuPK_2_1	6713	Liệu Địch Như Thần	Title_Normal;Title_Pink	Danh hiệu Hồng	200	210	211	212	7776000					1		Trong Bang Hội Chiến trở thành Thủ Lĩnh dẫn dắt thành viên bang chiến thắng 3, 4, 5 trận nhận được danh hiệu này	5	
+JiazuPK_2_2	6714	Vạn Quân Xuất Chinh	Title_Normal;Title_Pink	Danh hiệu Hồng	200	210	211	212	7776000					1		Trong Bang Hội Chiến trở thành Bang Chủ dẫn dắt thành viên bang chiến thắng 3, 4, 5 trận nhận được danh hiệu này	5	
+taohuahuanjing_1	6715	Trăm Hoa Đua Sắc	Title_Normal;Title_Pink	Danh hiệu Hồng	200	210	211	212					9271	1		Có thể nhận danh hiệu này sau khi trồng được 6 cây hoa đào trong Đào Hoa Ảo Cảnh của mình	5	
+neirongzhengji_title1	6716	Trung Tình Thuật Mộng	Title_Normal;Title_Pink	Danh hiệu Hồng	200	210	211	212	15552000				9934	1		Top 10 tổng kết tại Vong Ưu Nhưỡng-Cốt truyện trong hoạt động Thu Thập Thịnh Điển sẽ nhận danh hiệu này	5	
+neirongzhengji_title2	6717	Thanh Bất Phụ Nhạn	Title_Normal;Title_Pink	Danh hiệu Hồng	200	210	211	212	15552000				9935	1		Top 10 tổng kết tại Nhiễu Lương Xuân-Âm thanh trong hoạt động Thu Thập Thịnh Điển sẽ nhận danh hiệu này	5	
+neirongzhengji_title3	6718	Thi Đồ Sái Ý	Title_Normal;Title_Pink	Danh hiệu Hồng	200	210	211	212	15552000				9936	1		Top 10 tổng kết tại Trân Ức Lộ-Ảnh trong hoạt động Thu Thập Thịnh Điển sẽ nhận danh hiệu này	5	
+neirongzhengji_title4	6719	Hồ Tâm Phiếm Ảnh	Title_Normal;Title_Pink	Danh hiệu Hồng	200	210	211	212	15552000				9937	1		Top 10 tổng kết tại Kiếm Ảnh Dịch-Diễn trong hoạt động Thu Thập Thịnh Điển sẽ nhận danh hiệu này	5	
+yixingjiqing_title1	6720	Nghĩa Nặng Tình Thâm	Title_Normal;Title_Orange	Danh hiệu Cam	200	213	214	215	7776000					1		Hạng 1 BXH Được Thích trong hoạt động Ngân Hạnh Gửi Tình được nhận danh hiệu này	6	
+yixingjiqing_title2	6721	Tình Cảm Chân Thành	Title_Normal;Title_Pink	Danh hiệu Hồng	200	210	211	212	7776000					1		Hạng 2-9 BXH Được Thích trong hoạt động Ngân Hạnh Gửi Tình được nhận danh hiệu này	5	
+KinDefendFuben_title1	6722	Dũng Mãnh	Title_Normal;Title_Pink	Danh hiệu Hồng	200	210	211	212	1814400					1		Bang hội tiêu diệt bất kỳ phân thân nào của Hoàn Nhan Tông Hàn trong hoạt động Bảo Vệ Chiến Hàn được nhận danh hiệu này	5	
+DongrijiFudai_Title1	6723	Ông Già Noel	Title_Normal;Title_Pink	Danh hiệu Hồng	200	210	211	212	7776000					1		Danh hiệu nhận được trong hoạt động Túi Phúc Đông Tuyết Tế, khi đạt hạng 1 trong BXH Tặng Quà	5	
+DongrijiFudai_Title2	6724	Sứ Giả Giáng Sinh	Title_Normal;Title_Purple	Danh hiệu Tím	200	207	208	209	7776000					1		Danh hiệu nhận được trong hoạt động Túi Phúc Đông Tuyết Tế, khi đạt hạng 2-10 trong BXH Tặng Quà	4	
+XinchunFudai_Title1	6725	Thần Tài Hạ Phàm	Title_Normal;Title_Pink	Danh hiệu Hồng	200	210	211	212	7776000					1		Danh hiệu nhận được trong hoạt động Túi Phúc Tân Xuân, khi đạt hạng 1 trong BXH Tặng Quà	5	
+XinchunFudai_Title2	6726	Lợi Thị Sứ Giả	Title_Normal;Title_Purple	Danh hiệu Tím	200	207	208	209	7776000					1		Danh hiệu nhận được trong hoạt động Túi Phúc Tân Xuân, khi đạt hạng 2-10 trong BXH Tặng Quà	4	
+DrinkToDream_title1	6727	Túy Mộng Giang Hồ	Title_Normal;Title_Orange	Danh hiệu Cam	200	213	214	215	7776000					1		Hoạt động Túy Mộng Giang Hồ BXH Được Thích đạt hạng 1 nhận danh hiệu này	6	
+DrinkToDream_title2	6728	Bày Tỏ	Title_Normal;Title_Pink	Danh hiệu Hồng	200	210	211	212	7776000					1		Hoạt động Túy Mộng Giang Hồ BXH Được Thích đạt hạng 2-3 nhận danh hiệu này	5	
+test	9999	Danh Hiệu Thử Nghiệm	Title_Normal;Title_Pink	Danh hiệu Hồng	200	210	211	212	7776000				9999	1		Danh Hiệu Thử Nghiệm	5	
+PartnerGuest_1	6801	Lừng Lẫy		Danh hiệu Cam	200	213	214	215								Danh hiệu trên đỉnh đầu Môn Khách	6	
+PartnerGuest_2	6802	Độc Cô Cầu Bại		Danh hiệu Hồng	200	210	211	212								Danh hiệu trên đỉnh đầu Môn Khách	5	
+PartnerGuest_3	6803	Danh Chấn Giang Hồ		Danh hiệu Tím	200	207	208	209								Danh hiệu trên đỉnh đầu Môn Khách	4	
+PartnerGuest_4	6804	Lô Hỏa Thuần Thanh		Danh hiệu lam	200	204	205	206								Danh hiệu trên đỉnh đầu Môn Khách	3	
+PartnerGuest_5	6805	Có Chút Thành Tựu		Danh hiệu Lục	200	201	202	203								Danh hiệu trên đỉnh đầu Môn Khách	2	
+KeyQuest_1	6806	Người Mang Bùa Bạc		Danh hiệu lam	200	204	205	206								Danh hiệu trên đỉnh đầu người chơi có Bùa Truyền Tống trong Di Tích Tầm Bảo	3	
+KeyQuest_2	6807	Người Mang Bùa Vàng		Danh hiệu Cam	200	213	214	215								Danh hiệu trên đỉnh đầu người chơi có Bùa Truyền Tống trong Di Tích Tầm Bảo	6	
+LoveTask_1	6808	Danh hiệu Nhiệm Vụ Tình Duyên		Danh hiệu đặc biệt (Lục) 	200	219	220	221						1		Danh hiệu thưởng nhiệm vụ Tình Duyên	2	
+Jiangniangshouji_title1	6809	Tửu Kiếm Tiên	Title_Normal;Title_Orange	Danh hiệu Cam	200	213	214	215	7776000					1		Hạng 1 trong hoạt động Thu Thập Rượu Ngon được nhận danh hiệu này	6	
+Jiangniangshouji_title2	6810	Tửu Trung Quân Tử	Title_Normal;Title_Pink	Danh hiệu Hồng	200	210	211	212	7776000					1		Hạng 2-5 trong hoạt động Thu Thập Rượu Ngon được nhận danh hiệu này	5	
+Daxuezhang_1	6811	Tuyết Địa Vương Giả	Title_Normal;Title_Pink	Danh hiệu Hồng	200	210	211	212	7776000					1		Hạng 1 trong hoạt động Ném Tuyết được nhận danh hiệu này	5	
+Daxuezhang_2	6812	Tuyết Chiến Anh Hào	Title_Normal;Title_Purple	Danh hiệu Tím	200	207	208	209	7776000					1		Hạng 2-5 trong hoạt động Ném Tuyết được nhận danh hiệu này	4	
+Wulongwushi_1	6813	Họa Long Điểm Tinh	Title_Normal;Title_Pink	Danh hiệu Hồng	200	210	211	212	7776000					1		20 người Múa Rồng đạt, Thủ Lĩnh/Bang Chủ nhận danh hiệu này	5	
+Wulongwushi_2	6814	Phi Long Thừa Vân	Title_Normal;Title_Orange	Danh hiệu Cam	200	213	214	215						1		50 người Múa Rồng đạt, Thủ Lĩnh/Bang Chủ nhận danh hiệu này	6	
+Wulongwushi_3	6815	Long Hành Thiên Hạ	Title_Normal;Title_Gold	Danh hiệu Vàng	200	216	217	218						1		100 người Múa Rồng đạt, Thủ Lĩnh/Bang Chủ nhận danh hiệu này	7	
+guoshiwushuang_1	6816	Quốc Sĩ Vô Song	Title_Normal;Title_Pink	Danh hiệu Hồng	200	210	211	212					9301	1		Đặc quyền Tâm Duyệt nhận được danh hiệu này	5	
+Yunying_guanjia	6817	Võ Lâm Manh Trư	Title_Normal;Title_Orange	Danh hiệu Cam	200	213	214	215	7776000					1		Danh hiệu dành riêng cho Quản Gia Game năm Hợi.	6	
+RankBattleRec_1	6818	Tinh Di Đấu Chuyển	Title_Normal;Title_Pink	Danh hiệu Hồng	200	210	211	212	2592000					1		Trong hoạt động Tinh Di Đấu Chuyển, sau khi tái lập Võ Thần Điện, lần đầu đạt được hạng 1 nhận được danh hiệu	5	
+RankBattleRec_2	6819	Thiên Quân Thất Diệu	Title_Normal;Title_Purple	Danh hiệu Tím	200	207	208	209	2592000					1		Trong hoạt động Tinh Di Đấu Chuyển, sau khi tái lập Võ Thần Điện, lần đầu đạt được hạng 3 nhận được danh hiệu	4	
+WomensDayAct_1	6820	Hiệp Cốt Nhu Tình	Title_Normal;Title_Pink	Danh hiệu Hồng	200	210	211	212	2592000					1		Trong hoạt động Lễ Nữ Hiệp, nhận được trên 10 Ấn Tượng tự tạo nhận danh hiệu này	5	
+Chongzhifanli_1	6821	Phúc Lộc Chí Tôn	Title_Normal;Title_Pink	Danh hiệu Hồng	200	210	211	212	2592000					1		Mở Rương Phúc Lộc Lễ Hội tầng 6 nhận được danh hiệu	5	
+Taoxiaoyao	6822	Đào Thoát	Title_Normal;Title_Purple	Danh hiệu Tím	200	207	208	209	864000					1		Danh hiệu Đào Tiểu Yêu tăng cho người chơi trong hoạt động Lễ Hội Đào Hoa Dậu Dương	4	
+Chongfeng	6823	Nối Lại Tiền Duyên	Title_Normal;Title_Purple	Danh hiệu Tím	200	207	208	209						1		Phần thưởng cả 2 nhận được khi hoàn thành tất cả mục tiêu Trùng Phùng trong hoạt động Trùng Phùng	4	
+GoodVoiceTitle_ex5	100000	Thành Viên Thân Thiết	Title_Normal;Title_Gold	Danh hiệu Vàng	200	213	214	215		  		9248		1		Đoạt được khi tích lũy「Gói Sự Kiện」, trang bị danh hiệu này có thể nhận hiệu ứng「Dư Âm Nhiễu Lương」	6	
+GoodVoiceTitle_ex4	100001	Thành Viên Đồng	Title_Normal;Title_Gold	Danh hiệu Vàng	200	213	214	215		  		9247		1		Đoạt được khi tích lũy「Gói Sự Kiện」, trang bị danh hiệu này có thể nhận hiệu ứng「Dư Âm Nhiễu Lương」	6	
+GoodVoiceTitle_ex3	100002	Thành Viên Bạc	Title_Normal;Title_Gold	Danh hiệu Vàng	200	216	217	218		  		9246		1		Đoạt được khi tích lũy「Gói Sự Kiện」, trang bị danh hiệu này có thể nhận hiệu ứng「Dư Âm Nhiễu Lương」	7	
+GoodVoiceTitle_ex63	100003	Thành Viên Vàng	Title_Normal;Title_Gold	Danh hiệu Vàng	200	210	211	212		  		9250				Đoạt được khi tích lũy「Gói Sự Kiện」, trang bị nhận hiệu ứng「Thất Thái Dư Âm」	5	
+GoodVoiceTitle_ex2	100004	Thành Viên Hoàng Kim	Title_Normal;Title_Gold	Danh hiệu Vàng	200	216	217	218		  		9245		1		Đoạt được khi tích lũy「Gói Sự Kiện」, trang bị danh hiệu này có thể nhận hiệu ứng「Dư Âm Nhiễu Lương」	7	
+GoodVoiceTitle_ex1	100005	Thành Viên Bạch Kim	Title_Normal;Title_Gold	Danh hiệu Vàng	200	216	217	218		  		9251		1		Đoạt được khi tích lũy「Gói Sự Kiện」, trang bị danh hiệu này có thể nhận hiệu ứng「Dư Âm Nhiễu Lương」	7	
+BeautyPageantTitle_ex8	100006	Thành Viên Hoàn Mỹ	Title_Normal;Title_Gold	Danh hiệu Vàng	200	216	217	218		  		9171		1		Đoạt được khi tích lũy「Gói Sự Kiện」, trang bị danh hiệu này có thể nhận hiệu ứng 「Giai Nhân」	7	
+BeautyPageantTitle_ex2	100007	Thành Viên Kim Cương	Title_Normal;Title_Gold	Danh hiệu Vàng	200	216	217	218		  		9171		1		Đoạt được khi tích lũy「Gói Sự Kiện」, trang bị danh hiệu này có thể nhận hiệu ứng「Giai Nhân」	7	
+WuLinDaHui_ex1	100008	Thành Viên Tâm Huyết	Title_Normal;Title_Gold	Danh hiệu Vàng	200	216	217	218		  		9191		1		Đoạt được khi tích lũy「Gói Sự Kiện」, trang bị danh hiệu này có thể nhận hiệu ứng「Võ Lâm Chí Tôn」	7	

@@ -1,0 +1,384 @@
+nTemplateId	szDesc
+2667	Ngoại Trang 1
+2706	Ngoại Trang 2
+3310	Ngoại Trang 3
+1395	Trục Lộc Lệnh
+1394	Danh Tướng Lệnh
+1393	Minh Chủ Lệnh
+5563	Vũ Khí Hiếm T13 (Chưa giám định)
+5623	Áo Hiếm T13 (Chưa giám định)
+5573	Dây Chuyền Hiếm T13 (Chưa giám định)
+5583	Nhẫn Hiếm T13 (Chưa giám định)
+5593	Ngọc Bội Hiếm T13 (Chưa giám định)
+5603	Hộ Thân Phù Hiếm T13 (Chưa giám định)
+5613	Nón Hiếm T13 (Chưa giám định)
+5633	Hộ Uyển Hiếm T13 (Chưa giám định)
+5643	Đai Hiếm T13 (Chưa giám định)
+5653	Giày Hiếm T13 (Chưa giám định)
+5562	Vũ Khí Hiếm T12
+5622	Áo Hiếm T12
+5572	Dây Chuyền Hiếm T12
+5582	Nhẫn Hiếm T12
+5592	Ngọc Bội Hiếm T12
+5602	Hộ Thân Phù Hiếm T12
+5612	Nón Hiếm T12
+5632	Hộ Uyển Hiếm T12
+5642	Đai Hiếm T12
+5652	Giày Hiếm T12
+5561	Vũ Khí Hiếm T11
+5621	Áo Hiếm T11
+5571	Dây Chuyền Hiếm T11
+5581	Nhẫn Hiếm T11
+5591	Ngọc Bội Hiếm T11
+5601	Hộ Thân Phù Hiếm T11
+5611	Nón Hiếm T11
+5631	Hộ Uyển Hiếm T11
+5641	Đai Hiếm T11
+5651	Giày Hiếm T11
+1131	Vũ Khí Hiếm T10
+1191	Áo Hiếm T10
+1141	Dây Chuyền Hiếm T10
+1151	Nhẫn Hiếm T10
+1161	Ngọc Bội Hiếm T10
+1171	Hộ Thân Phù Hiếm T10
+1181	Nón Hiếm T10
+1201	Hộ Uyển Hiếm T10
+1211	Đai Hiếm T10
+1221	Giày Hiếm T10
+1130	Vũ Khí Hiếm T9
+1190	Áo Hiếm T9
+1140	Dây Chuyền Hiếm T9
+1150	Nhẫn Hiếm T9
+1160	Ngọc Bội Hiếm T9
+1170	Hộ Thân Phù Hiếm T9
+1180	Nón Hiếm T9
+1200	Hộ Uyển Hiếm T9
+1210	Đai Hiếm T9
+1220	Giày Hiếm T9
+1129	Vũ Khí Hiếm T8
+1189	Áo Hiếm T8
+1139	Dây Chuyền Hiếm T8
+1149	Nhẫn Hiếm T8
+1159	Ngọc Bội Hiếm T8
+1169	Hộ Thân Phù Hiếm T8
+1179	Nón Hiếm T8
+1199	Hộ Uyển Hiếm T8
+1209	Đai Hiếm T8
+1219	Giày Hiếm T8
+1128	Vũ Khí Hiếm T7
+1188	Áo Hiếm T7
+1138	Dây Chuyền Hiếm T7
+1148	Nhẫn Hiếm T7
+1158	Ngọc Bội Hiếm T7
+1168	Hộ Thân Phù Hiếm T7
+1178	Nón Hiếm T7
+1198	Hộ Uyển Hiếm T7
+1208	Đai Hiếm T7
+1218	Giày Hiếm T7
+1127	Vũ Khí Hiếm T6
+1187	Áo Hiếm T6
+1137	Dây Chuyền Hiếm T6
+1147	Nhẫn Hiếm T6
+1157	Ngọc Bội Hiếm T6
+1167	Hộ Thân Phù Hiếm T6
+1177	Nón Hiếm T6
+1197	Hộ Uyển Hiếm T6
+1207	Đai Hiếm T6
+1217	Giày Hiếm T6
+1126	Vũ Khí Hiếm T5
+1186	Áo Hiếm T5
+1136	Dây Chuyền Hiếm T5
+1146	Nhẫn Hiếm T5
+1156	Ngọc Bội Hiếm T5
+1166	Hộ Thân Phù Hiếm T5
+1176	Nón Hiếm T5
+1196	Hộ Uyển Hiếm T5
+1206	Đai Hiếm T5
+1216	Giày Hiếm T5
+1125	Vũ Khí Hiếm T4
+1185	Áo Hiếm T4
+1135	Dây Chuyền Hiếm T4
+1145	Nhẫn Hiếm T4
+1155	Ngọc Bội Hiếm T4
+1165	Hộ Thân Phù Hiếm T4
+1175	Nón Hiếm T4
+1195	Hộ Uyển Hiếm T4
+1205	Đai Hiếm T4
+1215	Giày Hiếm T4
+2400	Ô Vân Đạp Tuyết
+1697	Đá Hồn Ân Phương-Sơ
+1704	Đá Hồn Bạch Mi Hầu Vương-Sơ
+1705	Đá Hồn Đại Địa Lang Vương-Sơ
+1706	Đá Hồn Hàn Ngọc Lộc Vương-Sơ
+1709	Đá Hồn Trác Phi Phàm-Sơ
+1710	Đá Hồn Nguyệt Minh Dao-Sơ
+1711	Đá Hồn Long Ngạo Thiên-Sơ
+1712	Đá Hồn Mạt Thiên Nhiên-Sơ
+1719	Đá Hồn Đường Tiêu-Sơ
+1721	Đá Hồn Trương Lâm Tâm-Sơ
+1722	Đá Hồn Phong Ngọc Thư-Sơ
+1725	Đá Hồn Hà Mộ Tuyết-Sơ
+1726	Đá Hồn Triệu Thăng Quyền-Sơ
+1727	Đá Hồn Nạp Lan Chân-Sơ
+1728	Đá Hồn Sài Tung-Sơ
+1737	Đá Hồn Thiệu Hồng Uyên-Sơ
+1738	Đá Hồn Bạch Ngạn Kính-Sơ
+1740	Đá Hồn Lôi Phong-Sơ
+1741	Đá Hồn Lôi Đồng-Sơ
+1742	Đá Hồn Đường Quyên Quyên-Sơ
+1744	Đá Hồn Đoạt Bảo Tặc-Sơ
+1745	Đá Hồn Song Thủ Dị Thú-Sơ
+1746	Đá Hồn Bôn Diệm Báo Vương-Sơ
+1747	Đá Hồn Cửu Vĩ Hồ Vương-Sơ
+1760	Đá Hồn Trương Phong-Sơ
+1761	Đá Hồn Nguyệt My Nhi-Sơ
+1775	Đá Hồn Ân Phương-Trung
+1782	Đá Hồn Bạch Mi Hầu Vương-Trung
+1783	Đá Hồn Đại Địa Lang Vương-Trung
+1784	Đá Hồn Hàn Ngọc Lộc Vương-Trung
+1787	Đá Hồn Trác Phi Phàm-Trung
+1788	Đá Hồn Nguyệt Minh Dao-Trung
+1789	Đá Hồn Long Ngạo Thiên-Trung
+1790	Đá Hồn Mạt Thiên Nhiên-Trung
+1797	Đá Hồn Đường Tiêu-Trung
+1799	Đá Hồn Trương Lâm Tâm-Trung
+1800	Đá Hồn Phong Ngọc Thư-Trung
+1803	Đá Hồn Hà Mộ Tuyết-Trung
+1804	Đá Hồn Triệu Thăng Quyền-Trung
+1805	Đá Hồn Nạp Lan Chân-Trung
+1806	Đá Hồn Sài Tung-Trung
+1815	Đá Hồn Thiệu Hồng Uyên-Trung
+1816	Đá Hồn Bạch Ngạn Kính-Trung
+1818	Đá Hồn Lôi Phong-Trung
+1819	Đá Hồn Lôi Đồng-Trung
+1820	Đá Hồn Đường Quyên Quyên-Trung
+1822	Đá Hồn Đoạt Bảo Tặc-Trung
+1823	Đá Hồn Song Thủ Dị Thú-Trung
+1824	Đá Hồn Bôn Diệm Báo Vương-Trung
+1825	Đá Hồn Cửu Vĩ Hồ Vương-Trung
+1838	Đá Hồn Trương Phong-Trung
+1839	Đá Hồn Nguyệt My Nhi-Trung
+1853	Đá Hồn Ân Phương-Cao
+1860	Đá Hồn Bạch Mi Hầu Vương-Cao
+1861	Đá Hồn Đại Địa Lang Vương-Cao
+1862	Đá Hồn Hàn Ngọc Lộc Vương-Cao
+1865	Đá Hồn Trác Phi Phàm-Cao
+1866	Đá Hồn Nguyệt Minh Dao-Cao
+1867	Đá Hồn Long Ngạo Thiên-Cao
+1868	Đá Hồn Mạt Thiên Nhiên-Cao
+1875	Đá Hồn Đường Tiêu-Cao
+1877	Đá Hồn Trương Lâm Tâm-Cao
+1878	Đá Hồn Phong Ngọc Thư-Cao
+1881	Đá Hồn Hà Mộ Tuyết-Cao
+1882	Đá Hồn Triệu Thăng Quyền-Cao
+1883	Đá Hồn Nạp Lan Chân-Cao
+1884	Đá Hồn Sài Tung-Cao
+1893	Đá Hồn Thiệu Hồng Uyên-Cao
+1894	Đá Hồn Bạch Ngạn Kính-Cao
+1896	Đá Hồn Lôi Phong-Cao
+1897	Đá Hồn Lôi Đồng-Cao
+1898	Đá Hồn Đường Quyên Quyên-Cao
+1900	Đá Hồn Đoạt Bảo Tặc-Cao
+1901	Đá Hồn Song Thủ Dị Thú-Cao
+1902	Đá Hồn Bôn Diệm Báo Vương-Cao
+1903	Đá Hồn Cửu Vĩ Hồ Vương-Cao
+1916	Đá Hồn Trương Phong-Cao
+1917	Đá Hồn Nguyệt My Nhi-Cao
+1713	Đá Hồn Tiểu Ảnh Phong-Sơ
+1729	Đá Hồn Khúc Hà-Sơ
+1730	Đá Hồn Gia Luật Tị Li-Sơ
+1731	Đá Hồn Dương Thiết Tâm-Sơ
+1732	Đá Hồn Vô Tưởng-Sơ
+1733	Đá Hồn Liễu Tiêu Đình-Sơ
+1734	Đá Hồn Lý Điềm Nhi-Sơ
+1735	Đá Hồn Lý Thiên Mục-Sơ
+1736	Đá Hồn Hoàn Nhan Tương-Sơ
+1739	Đá Hồn Gia Luật Sở Tài-Sơ
+1743	Đá Hồn Lôi Chấn Thiên-Sơ
+1748	Đá Hồn Cao Trường Cung-Sơ
+1749	Đá Hồn Triết Biệt-Sơ
+1750	Đá Hồn Tần Lương Ngọc-Sơ
+1751	Đá Hồn Viên Thừa Chí-Sơ
+1752	Đá Hồn Ngao Bái-Sơ
+1753	Đá Hồn Hàn Thế Trung-Sơ
+1762	Đá Hồn Thiên Tinh Đạo Trưởng-Sơ
+1763	Đá Hồn Yên Nhược Tuyết-Sơ
+1764	Đá Hồn Dương Hi Liệt-Sơ
+1765	Đá Hồn Thượng Quan Phi Long-Sơ
+1766	Đá Hồn Nạp Lan Tiềm Lẫm-Sơ
+1767	Đá Hồn Phương Miễn-Sơ
+1768	Đá Hồn Nam Cung Diệt-Sơ
+1769	Đá Hồn Đường Ảnh-Sơ
+1770	Đá Hồn Thu Y Thủy-Sơ
+2847	Đá Hồn Huyền Từ-Sơ
+1791	Đá Hồn Tiểu Ảnh Phong-Trung
+1807	Đá Hồn Khúc Hà-Trung
+1808	Đá Hồn Gia Luật Tị Li-Trung
+1809	Đá Hồn Dương Thiết Tâm-Trung
+1810	Đá Hồn Vô Tưởng-Trung
+1811	Đá Hồn Liễu Tiêu Đình-Trung
+1812	Đá Hồn Lý Điềm Nhi-Trung
+1813	Đá Hồn Lý Thiên Mục-Trung
+1814	Đá Hồn Hoàn Nhan Tương-Trung
+1817	Đá Hồn Gia Luật Sở Tài-Trung
+1821	Đá Hồn Lôi Chấn Thiên-Trung
+1826	Đá Hồn Cao Trường Cung-Trung
+1827	Đá Hồn Triết Biệt-Trung
+1828	Đá Hồn Tần Lương Ngọc-Trung
+1829	Đá Hồn Viên Thừa Chí-Trung
+1830	Đá Hồn Ngao Bái-Trung
+1831	Đá Hồn Hàn Thế Trung-Trung
+1840	Đá Hồn Thiên Tinh Đạo Trưởng-Trung
+1841	Đá Hồn Yên Nhược Tuyết-Trung
+1842	Đá Hồn Dương Hi Liệt-Trung
+1843	Đá Hồn Thượng Quan Phi Long-Trung
+1844	Đá Hồn Nạp Lan Tiềm Lẫm-Trung
+1845	Đá Hồn Phương Miễn-Trung
+1846	Đá Hồn Nam Cung Diệt-Trung
+1848	Đá Hồn Đường Ảnh-Trung
+1847	Đá Hồn Thu Y Thủy-Trung
+2849	Đá Hồn Huyền Từ-Trung
+1869	Đá Hồn Tiểu Ảnh Phong-Cao
+1885	Đá Hồn Khúc Hà-Cao
+1886	Đá Hồn Gia Luật Tị Li-Cao
+1887	Đá Hồn Dương Thiết Tâm-Cao
+1888	Đá Hồn Vô Tưởng-Cao
+1889	Đá Hồn Liễu Tiêu Đình-Cao
+1890	Đá Hồn Lý Điềm Nhi-Cao
+1891	Đá Hồn Lý Thiên Mục-Cao
+1892	Đá Hồn Hoàn Nhan Tương-Cao
+1895	Đá Hồn Gia Luật Sở Tài-Cao
+1899	Đá Hồn Lôi Chấn Thiên-Cao
+1904	Đá Hồn Cao Trường Cung-Cao
+1905	Đá Hồn Triết Biệt-Cao
+1906	Đá Hồn Tần Lương Ngọc-Cao
+1907	Đá Hồn Viên Thừa Chí-Cao
+1908	Đá Hồn Ngao Bái-Cao
+1909	Đá Hồn Hàn Thế Trung-Cao
+1918	Đá Hồn Thiên Tinh Đạo Trưởng-Cao
+1919	Đá Hồn Yên Nhược Tuyết-Cao
+1920	Đá Hồn Dương Hi Liệt-Cao
+1921	Đá Hồn Thượng Quan Phi Long-Cao
+1922	Đá Hồn Nạp Lan Tiềm Lẫm-Cao
+1923	Đá Hồn Phương Miễn-Cao
+1924	Đá Hồn Nam Cung Diệt-Cao
+1925	Đá Hồn Đường Ảnh-Cao
+1926	Đá Hồn Thu Y Thủy-Cao
+2851	Đá Hồn Huyền Từ-Cao
+6285	Đá Hồn Hàn Mông-Sơ
+5432	Đá Hồn Doãn Tiêu Vũ-Sơ
+6100	Đá Hồn Tiêu Ngọc Trúc-Sơ
+6101	Đá Hồn Kim Ngột Thuật-Sơ
+6128	Đá Hồn Địch Nhân Kiệt-Sơ
+6129	Đá Hồn Lý Nguyên Phương-Sơ
+6130	Đá Hồn Vô Tự Bi-Sơ
+6067	Đá Hồn Diệp Thanh Dương-Sơ
+6068	Đá Hồn Băng Nghi-Sơ
+6069	Đá Hồn Dương Tái Hưng-Sơ
+6070	Đá Hồn Hoàn Nhan Lâu Thất-Sơ
+5433	Đá Hồn Thạch Hiên Viên-Sơ
+4873	Đá Hồn Tống Thu Thạch-Sơ
+4874	Đá Hồn Cổ Yên Nhiên-Sơ
+3709	Đá Hồn Niên Thú-Sơ
+2824	Đá Hồn Huyền Thiên Võ Cơ-Sơ
+2825	Đá Hồn Bạch Khởi-Sơ
+2826	Đá Hồn Lý Tư-Sơ
+2696	Đá Hồn Hoàn Nhan Hồng Liệt-Sơ
+2528	Đá Hồn Dương Anh-Sơ
+2529	Đá Hồn Thanh Hiểu Sư Thái-Sơ
+2530	Đá Hồn Chúc Tử Hư-Sơ
+2531	Đá Hồn Hoàng Ngọc Anh-Sơ
+2532	Đá Hồn Đạo Nhất Chân Nhân-Sơ
+2533	Đá Hồn Đoan Mộc Duệ-Sơ
+2534	Đá Hồn Mạnh Tri Thu-Sơ
+2535	Đá Hồn Lý Hiển Trung-Sơ
+2536	Đá Hồn Đồ Đơn Khắc Ninh-Sơ
+4540	Đá Hồn Băng Lân Tích Hoàng-Sơ
+4541	Đá Hồn Ngân Câu Hạt Hoàng-Sơ
+4542	Đá Hồn Cuồng Tông Ngao Hoàng-Sơ
+1754	Đá Hồn Xích Tinh Hổ Hoàng-Sơ
+1755	Đá Hồn Hám Thiên Hùng Hoàng-Sơ
+1756	Đá Hồn Tử Bối Ngạc Hoàng-Sơ
+1757	Đá Hồn Định Hải Kim Cang-Sơ
+1758	Đá Hồn Kim Sí Bằng Hoàng-Sơ
+1759	Đá Hồn Ngân Giác Tê Hoàng-Sơ
+2668	Đá Hồn Độc Cô Kiếm-Sơ
+2674	Đá Hồn Nhạc Phi-Sơ
+2673	Đá Hồn Ngu Cơ-Sơ
+2672	Đá Hồn Kinh Kha-Sơ
+2848	Đá Hồn Huyền Nhân-Sơ
+2880	Đá Hồn Nam Cung Phi-Sơ
+2881	Đá Hồn Dương Ảnh Phong-Sơ
+3022	Đá Hồn Lôi-Sơ
+3215	Đá Hồn Lý Nguyên Bá-Sơ
+3216	Đá Hồn Triệu Vân-Sơ
+3217	Đá Hồn Lý Quảng-Sơ
+3371	Đá Hồn Doãn Hàm Yên-Sơ
+3372	Đá Hồn Tuyền Cơ Tử-Sơ
+3373	Đá Hồn Huyền Thiên Đạo Nhân-Sơ
+3856	Đá Hồn Đường Cừu-Sơ
+3854	Đá Hồn Hắc Diện Lang Quân-Sơ
+3855	Đá Hồn Hà Nhân Ngã-Sơ
+6286	Đá Hồn Hàn Mông-Trung
+5434	Đá Hồn Doãn Tiêu Vũ-Trung
+6102	Đá Hồn Tiêu Ngọc Trúc-Trung
+6103	Đá Hồn Kim Ngột Thuật-Trung
+6133	Đá Hồn Địch Nhân Kiệt-Trung
+6134	Đá Hồn Lý Nguyên Phương-Trung
+6135	Đá Hồn Vô Tự Bi-Trung
+6071	Đá Hồn Diệp Thanh Dương-Trung
+6072	Đá Hồn Băng Nghi-Trung
+6073	Đá Hồn Dương Tái Hưng-Trung
+6074	Đá Hồn Hoàn Nhan Lâu Thất-Trung
+5435	Đá Hồn Thạch Hiên Viên-Trung
+4875	Đá Hồn Tống Thu Thạch-Trung
+4876	Đá Hồn Cổ Yên Nhiên-Trung
+3710	Đá Hồn Niên Thú-Trung
+2829	Đá Hồn Huyền Thiên Võ Cơ-Trung
+2830	Đá Hồn Bạch Khởi-Trung
+2831	Đá Hồn Lý Tư-Trung
+2697	Đá Hồn Hoàn Nhan Hồng Liệt-Trung
+2537	Đá Hồn Dương Anh-Trung
+2538	Đá Hồn Thanh Hiểu Sư Thái-Trung
+2539	Đá Hồn Chúc Tử Hư-Trung
+2540	Đá Hồn Hoàng Ngọc Anh-Trung
+2541	Đá Hồn Đạo Nhất Chân Nhân-Trung
+2542	Đá Hồn Đoan Mộc Duệ-Trung
+2543	Đá Hồn Mạnh Tri Thu-Trung
+2544	Đá Hồn Lý Hiển Trung-Trung
+2545	Đá Hồn Đồ Đơn Khắc Ninh-Trung
+4543	Đá Hồn Băng Lân Tích Hoàng-Trung
+4544	Đá Hồn Ngân Câu Hạt Hoàng-Trung
+4545	Đá Hồn Cuồng Tông Ngao Hoàng-Trung
+1832	Đá Hồn Xích Tinh Hổ Hoàng-Trung
+1833	Đá Hồn Hám Thiên Hùng Hoàng-Trung
+1834	Đá Hồn Tử Bối Ngạc Hoàng-Trung
+1835	Đá Hồn Định Hải Kim Cang-Trung
+1836	Đá Hồn Kim Sí Bằng Hoàng-Trung
+1837	Đá Hồn Ngân Giác Tê Hoàng-Trung
+2669	Đá Hồn Độc Cô Kiếm-Trung
+2677	Đá Hồn Nhạc Phi-Trung
+2676	Đá Hồn Ngu Cơ-Trung
+2675	Đá Hồn Kinh Kha-Trung
+2850	Đá Hồn Huyền Nhân-Trung
+2882	Đá Hồn Nam Cung Phi-Trung
+2883	Đá Hồn Dương Ảnh Phong-Trung
+3023	Đá Hồn Lôi-Trung
+3218	Đá Hồn Lý Nguyên Bá-Trung
+3219	Đá Hồn Triệu Vân-Trung
+3220	Đá Hồn Lý Quảng-Trung
+3374	Đá Hồn Doãn Hàm Yên-Trung
+3375	Đá Hồn Tuyền Cơ Tử-Trung
+3376	Đá Hồn Huyền Thiên Đạo Nhân-Trung
+3859	Đá Hồn Đường Cừu-Trung
+3857	Đá Hồn Hắc Diện Lang Quân-Trung
+3858	Đá Hồn Hà Nhân Ngã-Trung
+6126	Đá Hồn Võ Tắc Thiên-Sơ (Âm)
+6127	Đá Hồn Võ Tắc Thiên-Sơ (Dương)
+6112	Đá Hồn Ngu Cơ Tuyệt Thế-Sơ
+4849	Đá Hồn Đường Hiểu-Sơ
+4595	Đá Hồn Hạng Vũ-Sơ
+4053	Đá Hồn Hoàn Nhan Hồng Liệt-Sơ (Chân)
+2827	Đá Hồn Tần Thủy Hoàng-Sơ (Âm)
+2828	Đá Hồn Tần Thủy Hoàng-Sơ (Dương)
+3897	Đá Hồn Đường Giản-Sơ

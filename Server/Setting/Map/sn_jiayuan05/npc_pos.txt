@@ -1,0 +1,55 @@
+goto_ty	1205	6519
+Out_sn	1520	6495
+goto_sn	6171	18080
+Out_ty	5887	18062
+sn	906	3587
+sn	6251	8948
+ty	995	12577
+ty	12515	24113
+GoOut	1967	18145
+Entrance	2322	18120
+chuangong	1557	6592
+chuangong	1555	6424
+xuyuanshu	5532	21036
+PackupRange	3509	7184
+PackupRange	4724	7267
+Triệu Ân Đồng	2805	8057
+Lâm Triều Hoa 1_Bắt đầu	2105	7138
+Lâm Triều Hoa 2	2195	7999
+Lâm Triều Hoa 3_Dừng	2693	8055
+Lâm Triều Hoa 4	2267	7489
+Lâm Triều Hoa 5	2319	6954
+Lâm Triều Hoa 6_Dừng	2722	6971
+Lâm Triều Hoa 7	2693	6007
+Lâm Triều Hoa 8	2398	5965
+Lâm Triều Hoa 9	2395	5004
+Lâm Triều Hoa 10	2183	5000
+Lâm Triều Hoa 11_Dừng	2182	5040
+Lâm Triều Hoa 12	2466	5063
+Lâm Triều Hoa 13	2429	6375
+Lâm Triều Hoa 14	4466	6391
+Lâm Triều Hoa 15	4468	6508
+Lâm Triều Hoa 16_Dừng	4428	6505
+Lâm Triều Hoa 17	3808	6359
+Lâm Triều Hoa 18_Kết thúc	2116	6395
+Chủ Tọa	4603	6507
+Điểm thú cưng 1	2314	18403
+Điểm thú cưng 1	2377	18349
+Điểm thú cưng 1	2424	18286
+Điểm thú cưng 1	2451	18208
+Điểm thú cưng 1	2443	18131
+Điểm thú cưng 1	2429	18064
+Điểm thú cưng 1	2389	18011
+Điểm thú cưng 1	2367	17957
+Điểm thú cưng 1	2346	17898
+Điểm thú cưng 1	2310	17850
+Điểm thú cưng 2	5893	18237
+Điểm thú cưng 2	5859	18205
+Điểm thú cưng 2	5814	18152
+Điểm thú cưng 2	5786	18099
+Điểm thú cưng 2	5774	18045
+Điểm thú cưng 2	5821	18004
+Điểm thú cưng 2	5822	17956
+Điểm thú cưng 2	5853	17928
+Điểm thú cưng 2	5892	17904
+Điểm thú cưng 2	5842	18186

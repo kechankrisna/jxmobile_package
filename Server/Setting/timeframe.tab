@@ -1,0 +1,83 @@
+Event	Name	OpenDay	OpenTime	NewMaxLevel	BeShow	Description
+OpenLevel39	Cấp tối đa Lv39	1	0	39		
+OpenDay1	Lửa Trại Bang Hội	1	1000			
+OpenDay1A	Tăng võ công Minh Chủ Võ Lâm, Chiến Trường Tống Kim	1	1900			
+OpenDay2D	Ủy thác rời mạng, Top 10 lực chiến khi chat được ký hiệu riêng	2	0			
+OpenDay2	Bang Hội Truyền Công, Nhiệm Vụ Thương Hội, Lăng Tuyệt Phong	2	1000			
+OpenDay2A	Tăng võ công Minh Chủ Võ Lâm	2	1200			
+OpenDay2B		2	1800			
+OpenDay2C	Tăng võ công Minh Chủ Võ Lâm	2	1900			
+OpenDay3C	Thủ Lĩnh Dã Ngoại Lv20 Bạch Mi Hầu Vương, Đại Địa Lang Vương, Hàn Ngọc Lộc Vương	3	0			
+OpenDay3	Bạch Hổ Đường, Khiêu Chiến Anh Hùng	3	1000			
+OpenDay3A	Tăng võ công Minh Chủ Võ Lâm	3	1200			
+OpenDay3B	Tăng võ công Minh Chủ Võ Lâm	3	1900			
+OpenDay4	Thi Đấu Môn Phái, Thí Luyện Bang Hội, Thông Thiên Tháp	4	1000			
+OpenDay4A	EXP cộng thêm bậc 1	4	400			
+OpenDay5	Bang Hội Chiến, Vận Tiêu Bang Hội	5	1000			
+OpenDay5A	EXP cộng thêm bậc 2	5	400			
+OpenLevel49	Cấp tối đa Lv49	6	400	49		
+OpenDay6	Quần Anh Hội, Thủ Lĩnh Dã Ngoại Lv40 Song Thủ Dị Thú, Bôn Diệm Báo Vương, Cửu Vĩ Hồ Vương	6	1000			
+OpenDay7	Danh Tướng Lv40 Ngao Bái, Viên Thừa Chí, Hàn Thế Trung, Triết Biệt, Cao Trường Cung, Tần Lương Ngọc	7	1000			
+OpenDay8		8	1000			
+OpenDay10		10	400			
+OpenDay12		12	1000			
+OpenLevel59	Cấp tối đa Lv59	15	400	59		
+OpenDay15		15	1000			
+OpenDay16		16	1000			
+OpenDay20	Quà Mỗi Ngày 1	20	400			
+OpenLevel69	Cấp tối đa Lv69	33	400	69		
+OpenDay33	Cấp Gia Viên (Lv1, Lv2) , Cấp Chế Tạo (Lv1, Lv2)	33	1000			
+OpenDay35	Thủ Lĩnh Dã Ngoại Lv60 Định Hải Kim Cang, Kim Sí Bằng Hoàng, Ngân Giác Tê Hoàng	35	1000			
+OpenDay36		36	1000			
+OpenDay39		39	1000			
+OpenDay42	Thay đổi phần thưởng Minh Chủ Võ Lâm	42	1000			
+OpenDay45		45	1000			
+OpenDay52	Danh Tướng Lv60 Kinh Kha, Ngu Cơ, Nhạc Phi	52	1000			
+OpenDay67	Quà Mỗi Ngày 2	67	400			
+OpenLevel79	Cấp tối đa Lv79	69	400	79		
+OpenDay69	Cấp Gia Viên (Lv3)	69	1000			
+OpenDay70		70	400			
+OpenDay72		72	400			
+OpenDay89	Tần Lăng	89	1000			
+OpenDay90		84	400			
+OpenImperialTomb		150	1000			
+OpenDay99	Cấp Chế Tạo (Lv3)	99	1000			
+OpenDay100		100	400			
+OpenLevel89	Cấp tối đa Lv89	114	400	89		
+OpenDay114	Cấp Gia Viên (Lv4)	114	1000			
+OpenDay116	Thủ Lĩnh Dã Ngoại Lv80 Hám Thiên Hùng Hoàng, Xích Tinh Hổ Hoàng, Tử Bối Ngạc Hoàng	116	1000			
+OpenDay118	Tâm Ma Ảo Cảnh	118	1000			
+OpenDay128	Danh Tướng Lv80 Lý Quảng , Triệu Vân, Lý Nguyên Bá	128	1000			
+OpenDay130		130	400			
+OpenDay141		141	1000			
+OpenDay143		143	400			
+OpenDay145		145	400			
+OpenDay153	Tăng phần thưởng Tần Lăng	153	400			
+OpenDay159	Mở Thức Tỉnh Đồng Hành	159	1000			
+OpenDay160		160	400			
+OpenDay180		164	400			
+OpenLevel99	Cấp tối đa Lv99	174	400	99		
+OpenDay174	Cấp Gia Viên (Lv5)	174	1000			
+OpenDay188	Mở quân hàm Vô Song	188	400			
+OpenDay204	Tần Lăng rơi Đồng Hành SSS Tần Thủy Hoàng	204	400			
+OpenDay208		208	400			
+OpenDay221		221	400			
+OpenDay224	Cấp Chế Tạo (Lv4)	224	1000			
+OpenDay234	Tần Lăng rơi Vũ Khí Bổn Mạng	234	400			
+OpenLevel109	Giới hạn tối đa Lv109, Võ Lâm Minh Chủ Đường Giản	249	400	109		
+OpenDay249	Cấp Gia Viên (Lv6)	249	1000			
+OpenDay251	Thủ Lĩnh Dã Ngoại Lv100 Băng Lân Tích Hoàng, Ngân Câu Hạt Hoàng, Cuồng Tông Ngao Hoàng	251	1000			
+OpenDay279	Mở Đồng Hành SSS Hoàn Nhan Hồng Liệt	279	1000			
+OpenDay285		285	1000			
+OpenDay290		290	1000			
+OpenDay309		309	400			
+OpenLevel119	Tối đa Lv119	339	400	119		
+OpenDay353	Danh Tướng Lv110 Hạng Vũ	353	1000			
+OpenDay399	Tạo gia cụ (Lv5)	399	1000			
+OpenDay360		334	400			
+OpenLevel129	Tối đa Lv129	429	400	129		
+OpenDay489		489	400			
+OpenDay720	Tạm không có tác dụng, chỉ dùng để ẩn quân hàm không cho người chơi tiếp cận	720	400			
+OpenDomainBattle	Mở Công Thành Chiến	15	400			
+HuaShanLunJian	Mở Hoa Sơn Luận Kiếm	33	400			
+OpenCrossDomainBattle	Công Thành Liên SV	999	400			

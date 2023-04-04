@@ -1,0 +1,133 @@
+Id	FaceID	BigFaceID	Faction	Sex	FactionDefault	Name	Level	OpenUi	Icon	IconAtlas	Basic	SaveIdx	Desc
+1	1001	1121	1	1	1	Thiên Vương	Mặc định		TianWangHead	UI/Atlas/Head/HomeScreenHeadAtlas.prefab	1		Thiên Vương là phái do hậu nhân「Bá Vương」Hạng Vũ sáng lập
+2	1002	1122	2		1	Nga Mi	Mặc định		EmeiHead	UI/Atlas/Head/HomeScreenHeadAtlas.prefab	1		Nga Mi từ khi lập phái đến nay, chỉ thu nhận nữ tử lục căn thanh tịnh. Võ học Nga Mi có cương có nhu, dễ công dễ thủ, kỳ diệu vô cùng.
+3	1003	1123	3		1	Đào Hoa	Mặc định		TaoHuaHead	UI/Atlas/Head/HomeScreenHeadAtlas.prefab	1		Đào hoa lạc tận thiên phàm quá, hỏa phượng liêu nguyên kỷ độ văn. Vạn lý truy hồn hấp huyền kinh. La quân tiệm ẩn bất lưu ngấn.\nKý Đào Hoa Nhất Hiện
+4	1004	1124	4	1	1	Tiêu Dao	Mặc định		XiaoYaoHead	UI/Atlas/Head/HomeScreenHeadAtlas.prefab	1		Tiêu Dao có nhiều người anh tuấn, thông minh, ngoài võ học còn có một biệt tài phòng thân, võ học Tiêu Dao tinh thâm, hạ gục địch trong nháy mắt.
+5	1005	1125	5	1	1	Võ Đang	Mặc định		WuDangHead	UI/Atlas/Head/HomeScreenHeadAtlas.prefab	1		Võ Đang Kiếm Pháp, cương nhu kết hợp, dùng khí thế mãnh liệt áp chế kẻ địch.
+6	1006	1126	6		1	Thiên Nhẫn	Mặc định		TianRenHead	UI/Atlas/Head/HomeScreenHeadAtlas.prefab	1		Thiên Nhẫn môn huấn, khắc cốt ghi tâm.\nNgàn dặm hạ một người, 10 bước không dấu vết.
+7	1007	1127	7		1	Thiếu Lâm	Mặc định		ShaoLinHead	UI/Atlas/Head/HomeScreenHeadAtlas.prefab	1		Thiếu Lâm là một trong các phái có lịch sử lâu đời nhất của võ lâm, sở hữu 72 tuyệt kỹ vang danh thiên hạ, người có được sẽ là cao thủ võ lâm. Đệ tử nghiêm thủ thanh quy.
+8	1008	1128	8		1	Thúy Yên	Mặc định		CuiYanHead	UI/Atlas/Head/HomeScreenHeadAtlas.prefab	1		Thúy Yên trước nay chỉ thu nhận đệ tử nữ trẻ tuổi. Muốn cưới người của Thúy Yên phải có tuyệt học hoặc thần binh dùng làm sính lễ.
+9	1009	1129	9		1	Đường Môn	Mặc định		TangMenHead	UI/Atlas/Head/HomeScreenHeadAtlas.prefab	1		Đường Môn ít giao di với bên ngoài, nổi tiếng về việc dùng ám khí, độc dược, cơ quan thuật, là bang hội lớn sừng sững trong võ lâm mấy trăm năm nay.
+10	1010	1130	10	2	1	Côn Lôn	Mặc định		KunLunHead	UI/Atlas/Head/HomeScreenHeadAtlas.prefab	1		Côn Lôn nổi tiếng với kiếm pháp biến hóa khôn lường, ngụ tại Đỉnh Tuyết Sơn, thường hành động gần Côn Lôn Sơn.
+11	1011	1131	11	1	1	Cái Bang	Mặc định		GaiBangHead	UI/Atlas/Head/HomeScreenHeadAtlas.prefab	1		Cái Bang là đại bang Thiên Hạ Đệ Nhất, tuyệt học độc môn「Đả Cẩu Bổng Pháp」và「Giáng Long Thập Bát Chưởng」cũng là võ nghệ bậc nhất thiên hạ, đệ tử Cái Bang tính tình ung dung tự tại, ăn xin qua ngày, đi khắp mọi nơi nên nắm tin tức rất nhanh.
+12	1012	1132	12		1	Ngũ Độc	Mặc định		WuDuHead	UI/Atlas/Head/HomeScreenHeadAtlas.prefab	1		Ngũ Độc rất thần bí, tương truyền đệ tử Ngũ Độc giỏi bỏ ngải và bỏ độc, đắc tội họ sẽ bị dày vò đau đớn về thể xác. Môn nhân Ngũ Độc tự xưng là「Ngũ Tiên Giáo」, tôn Ngũ Độc làm「Ngũ Thánh」, gần đây rất nhiều đệ tử Ngũ Độc Giáo hành tẩu trên giang hồ, bức màn của môn phái bí ẩn này đã dần dần hé lộ.
+13	1013	1133	13		1	Tàng Kiếm	Mặc định		CangJianHead	UI/Atlas/Head/HomeScreenHeadAtlas02.prefab	1		Tàng Kiếm có từ đời Đường. Nhiều năm trước, chưởng môn Trác Phi Phàm, kiếm thuật cao cường, tiếc là quá độc ác. Sau đệ tử Tàng Kiếm Diệp Vô Tâm quản lý Tàng Kiếm, nay Tàng Kiếm lại vang danh trên giang hồ.
+14	1014	1134	14		1	Trường Ca	Mặc định		ChangGeHead	UI/Atlas/Head/HomeScreenHeadAtlas02.prefab	1		Trường Ca có từ đời Đường. Chưởng môn là Sài Tung, nổi tiếng phong nhã, các đệ tử đều giỏi cầm kỳ thi họa, chiêu thức võ công vô cùng đẹp mắt. Muốn vào Trường Ca, phải có ít nhất một sở trường.
+15	1015	1135	15	1	1	Thiên Sơn	Mặc định		TianShanHead1	UI/Atlas/Head/HomeScreenHeadAtlas02.prefab	1		Thiên Sơn Phái từ khi thành lập đã trấn thủ Thiên Sơn, môn đệ ít khi đến Trung Thổ. Vì tinh thông cầm nghệ, lại hay giao lưu với bá tánh các vùng lân cận, nên được nơi đây yêu thích, ngưỡng mộ.
+16	1016	1136	15	2	1	Thiên Sơn	Mặc định		TianShanHead2	UI/Atlas/Head/HomeScreenHeadAtlas02.prefab	1		Thiên Sơn Phái từ khi thành lập đã trấn thủ Thiên Sơn, môn đệ ít khi đến Trung Thổ. Vì tinh thông cầm nghệ, lại hay giao lưu với bá tánh các vùng lân cận, nên được nơi đây yêu thích, ngưỡng mộ.
+17	1017	1137	16	1	1	Bá Đao	Mặc định		BaDaoHead1	UI/Atlas/Head/HomeScreenHeadAtlas02.prefab	1		Bá Đao xuất thân Vương Thị Ung Châu, hào khí hơn người, đao pháp lợi hại, dũng mãnh gan dạ.
+18	1018	1138	16	2	1	Bá Đao	Mặc định		BaDaoHead2	UI/Atlas/Head/HomeScreenHeadAtlas02.prefab	1		Bá Đao xuất thân Vương Thị Ung Châu, hào khí hơn người, đao pháp lợi hại, dũng mãnh gan dạ.
+19	1019	1139	5	2	1	Võ Đang	Mặc định		WuDangHead2	UI/Atlas/Head/HomeScreenHeadAtlas02.prefab	1		Võ Đang Kiếm Pháp, cương nhu kết hợp, dùng khí thế mãnh liệt áp chế kẻ địch.
+20	1020	1140	17	1	1	Hoa Sơn	Mặc định		HuaShanHead1	UI/Atlas/Head/HomeScreenHeadAtlas02.prefab	1		Hoa Sơn Phái là danh môn chính phái hiển hách, võ công kiếm thuật phát triển qua hàng trăm năm, danh chấn võ lâm, Hoa Sơn Phái còn được gọi là Hoa Sơn Kiếm Phái.
+21	1021	1141	17	2	1	Hoa Sơn	Mặc định		HuaShanHead2	UI/Atlas/Head/HomeScreenHeadAtlas02.prefab	1		Hoa Sơn Phái là danh môn chính phái hiển hách, võ công kiếm thuật phát triển qua hàng trăm năm, danh chấn võ lâm, Hoa Sơn Phái còn được gọi là Hoa Sơn Kiếm Phái.
+22	1022	1142	10	1	1	Côn Lôn	Mặc định		KunLunHead2	UI/Atlas/Head/HomeScreenHeadAtlas02.prefab	1		Côn Lôn nổi tiếng với kiếm pháp biến hóa khôn lường, ngụ tại Đỉnh Tuyết Sơn, thường hành động gần Côn Lôn Sơn.
+23	1023	1143	18	1	1	Minh Giáo	Mặc định		MingJiaoHead1	UI/Atlas/Head/HomeScreenHeadAtlas02.prefab	1		Giáo đồ Minh Giáo, hành sự thần bí, ít giao lưu với các môn phái khác. Giáo đồ thường dùng vũ khí tựa như chiếc vòng.
+24	1024	1144	18	2	1	Minh Giáo	Mặc định		MingJiaoHead2	UI/Atlas/Head/HomeScreenHeadAtlas02.prefab	1		Giáo đồ Minh Giáo, hành sự thần bí, ít giao lưu với các môn phái khác. Giáo đồ thường dùng vũ khí tựa như chiếc vòng.
+25	1025	1145	1	2	1	Thiên Vương	Mặc định		TianWangHead2	UI/Atlas/Head/HomeScreenHeadAtlas02.prefab	1		Thiên Vương là phái do hậu nhân「Bá Vương」Hạng Vũ sáng lập
+26	1026	1146	19	1	1	Đoàn Thị	Mặc định		DuanShiHead1	UI/Atlas/Head/HomeScreenHeadAtlas02.prefab	1		Đoàn Thị tiếp thu Phật học, đa số đều hành hiệp trượng nghĩa, trừng gian diệt ác, có tiếng lành trên giang hồ, Đoàn Thị thuộc danh môn chính phái.
+27	1027	1147	19	2	1	Đoàn Thị	Mặc định		DuanShiHead2	UI/Atlas/Head/HomeScreenHeadAtlas02.prefab	1		Đoàn Thị tiếp thu Phật học, đa số đều hành hiệp trượng nghĩa, trừng gian diệt ác, có tiếng lành trên giang hồ, Đoàn Thị thuộc danh môn chính phái.
+28	1028	1148	4	2	1	Tiêu Dao	Mặc định		XiaoYaoHead2	UI/Atlas/Head/HomeScreenHeadAtlas02.prefab	1		Tiêu Dao có nhiều người anh tuấn, thông minh, ngoài võ học còn có một biệt tài phòng thân, võ học Tiêu Dao tinh thâm, hạ gục địch trong nháy mắt.
+29	1029	1149	20	1	1	Vạn Hoa	Mặc định		Wanhuahead1	UI/Atlas/Head/HomeScreenHeadAtlas02.prefab	1		Vạn Hoa Cốc rời xa triều đình, trong cốc không hỏi thế sự, chỉ luận phong nhã
+30	1030	1150	20	2	1	Vạn Hoa	Mặc định		Wanhuahead2	UI/Atlas/Head/HomeScreenHeadAtlas02.prefab	1		Vạn Hoa Cốc rời xa triều đình, trong cốc không hỏi thế sự, chỉ luận phong nhã
+31	1031	1151	11	2	1	Cái Bang	Mặc định		Gaibanghead2	UI/Atlas/Head/HomeScreenHeadAtlas02.prefab	1		Cái Bang là đại bang Thiên Hạ Đệ Nhất, tuyệt học độc môn「Đả Cẩu Bổng Pháp」và「Giáng Long Thập Bát Chưởng」cũng là võ nghệ bậc nhất thiên hạ, đệ tử Cái Bang tính tình ung dung tự tại, ăn xin qua ngày, đi khắp mọi nơi nên nắm tin tức rất nhanh.
+50	814	101		2		-	Tử Y Muội Muội		FemaleHead01	UI/Atlas/Head/HomeScreenHeadAtlas.prefab	1		Cô gái bí ẩn, không ai biết rõ lai lịch.
+51	813	102		2		-	Cô Gái Choàng Khăn		FemaleHead02	UI/Atlas/Head/HomeScreenHeadAtlas.prefab	1		Cô gái bí ẩn, không ai biết rõ lai lịch.
+52	821	103		2		-	B		FemaleHead03	UI/Atlas/Head/HomeScreenHeadAtlas.prefab	1		Cô gái bí ẩn, không ai biết rõ lai lịch.
+53	707	104		2		Triệu Vô Song	A		FemaleHead04	UI/Atlas/Head/HomeScreenHeadAtlas.prefab	1		Con gái của trang chủ Phong Tuyết Sơn Trang Triệu Thăng Quyền.
+54	705	105		2		Nguyệt Minh Dao	A		FemaleHead05	UI/Atlas/Head/HomeScreenHeadAtlas.prefab	1		Mẫu thân của Nguyệt My Nhi xinh đẹp, có mối tình với Thượng Quan Phi Long, nhưng lại bị gia phụ ép gả cho Nạp Lan Tiềm Lẫm.
+55	720	106		2		Vô Tưởng	A		FemaleHead06	UI/Atlas/Head/HomeScreenHeadAtlas.prefab	1		Đệ tử kiệt xuất của phái Nga Mi, xuất thân bần hàn, tính cách ôn hòa, hi vọng có thể giúp người trong thiên hạ bớt nỗi cơ cực.
+56	819	107		2		-	Dương Anh Tóc Bạc		FemaleHead07	UI/Atlas/Head/HomeScreenHeadAtlas.prefab	1		Cô gái bí ẩn, không ai biết rõ lai lịch.
+57	719	108		2		Lý Điềm Nhi	?		FemaleHead08	UI/Atlas/Head/HomeScreenHeadAtlas.prefab	1		Cô gái bí ẩn, không ai biết rõ lai lịch.
+58	815	109		2		-	Đào Hoa-Lam		FemaleHead09	UI/Atlas/Head/HomeScreenHeadAtlas.prefab	1		Cô gái bí ẩn, không ai biết rõ lai lịch.
+59	702	110		2		Tần Mộc Bạch	A		FemaleHead10	UI/Atlas/Head/HomeScreenHeadAtlas.prefab	1		Cô gái bí ẩn, không ai biết rõ lai lịch.
+60	820	111		2		-	Quản Lý Gia Viên		FemaleHead11	UI/Atlas/Head/HomeScreenHeadAtlas.prefab	1		Cô gái bí ẩn, không ai biết rõ lai lịch.
+61	817	112		2		Khúc Hà	Áo xanh tóc đuôi ngựa		FemaleHead12	UI/Atlas/Head/HomeScreenHeadAtlas.prefab	1		Cô gái bí ẩn, không ai biết rõ lai lịch.
+62	712	113		2		Nạp Lan Chân	A		FemaleHead13	UI/Atlas/Head/HomeScreenHeadAtlas.prefab	1		Con gái của Vô Ưu Giáo Chủ Nạp Lan Tiềm Lẫm, em gái của Nguyệt My Nhi. Vốn dĩ là thiếu nữ vô ưu vô sầu, nhưng sau gặp Dương Ảnh Phong cũng bị cuốn vào vòng xoáy cuộc đời.
+63	816	114		2		-	Tần Lương Ngọc		FemaleHead14	UI/Atlas/Head/HomeScreenHeadAtlas.prefab		1	Cô gái bí ẩn, không ai biết rõ lai lịch.
+64	851	115		2		Hà Mộ Tuyết	Nguyệt My Nhi-Lúc Xưa		FemaleHead15	UI/Atlas/Head/HomeScreenHeadAtlas.prefab	1		Cô gái bí ẩn, không ai biết rõ lai lịch.
+65	718	116		2		Hoàng Mộ Vân	S		FemaleHead16	UI/Atlas/Head/HomeScreenHeadAtlas.prefab		2	Đào Hoa Đảo Chủ, được kỳ vọng có thể khiến môn phái vang danh bốn bể. Hoàng Mộ Vân hiện là một trong những nữ cao thủ nổi tiếng nhất giang hồ, kỳ môn bát quái. Thiên văn địa lý đều tinh thông.
+66	710	117		2		Dương Anh	S		FemaleHead17	UI/Atlas/Head/HomeScreenHeadAtlas.prefab		3	Nữ kiệt anh hùng, tính tình kiêu ngạo, lúc trẻ từng một mình công phá cấm vệ đại lao, đã lâu không xuất hiện trên giang hồ, chỉ e võ công ngày càng cao thâm!
+67	703	118		2		Tường Vi	S		FemaleHead18	UI/Atlas/Head/HomeScreenHeadAtlas.prefab	1		Viên minh châu của Minh Chủ Võ Lâm Mạnh Tri Thu, tính tình mạnh mẽ, sau gặp Dương Ảnh Phong bèn đem lòng yêu mến.
+68	709	119		2		Tô Mặc Vân	A		FemaleHead19	UI/Atlas/Head/HomeScreenHeadAtlas.prefab	1		Viên minh châu Cốc chủ Lạc Diệp Cốc nhận nuôi, từ nhỏ được nuông chiều nên tính tình ngạo mạn, võ công cao cường.
+69	708	120		2		Tử Hiên	B		FemaleHead20	UI/Atlas/Head/HomeScreenHeadAtlas.prefab	1		Thân thế bí ẩn, nghe nói lúc trước bị bắt cóc, may nhờ Trác Phi Phàm chuộc thân và lấy làm thiếp. Trác Phi Phàm bắt cô ta dụ dỗ Dương Ảnh Phong giao ra Võ Đạo Đức Kinh, không ngờ sau đó lại phải lòng Dương Ảnh Phong.
+70	711	121		2		Thu Y Thủy	S		FemaleHead21	UI/Atlas/Head/HomeScreenHeadAtlas.prefab	1		Thúy Yên môn chủ, tính cách mạnh mẽ, trải qua nhiều trắc trở với Đường Ảnh (Đường Môn đại công tử), cuối cùng đã kết thúc viên mãn với sự giúp đỡ của Nam Cung Phi. Sau đó bị giáo sứ Thiên Nhẫn Thiệu Kỵ Phong bắt sống, lại được Nam Cung Phi cứu ra.
+71	716	122		2		Nguyệt My Nhi	S		FemaleHead22	UI/Atlas/Head/HomeScreenHeadAtlas.prefab		4	Thiếu bảo chủ Phi Long Bảo, chị em sinh đôi của Nạp Lan Chân, tính cách quật cường. Lúc nhỏ trải qua chuyện Dương Hi Liệt gián tiếp hại cha mẹ mình nên rất hận Dương Ảnh Phong. Nhưng sau này được Dương Ảnh Phong cứu hai lần nên trong lòng yêu hận đan xen.
+72	30	130		2		Giang Hồ Tân Tú-Nữ	S		FemaleHead32	UI/Atlas/Head/HomeScreenHeadAtlas02.prefab		27	Nhận được qua một số cách nhất định, phần thưởng cho các tân tú giang hồ xuất sắc
+73	32	131		2		Bánh Trôi	S		FemaleHead34	UI/Atlas/Head/HomeScreenHeadAtlas02.prefab		31	Phần thưởng nhận trong hoạt động Tết Nguyên Tiêu
+74	33	132		2		Nữ Thần	S		FemaleHead35	UI/Atlas/Head/HomeScreenHeadAtlas02.prefab		33	Thưởng nhận từ hoạt động Thẻ Ấn Tượng Võ Lâm Tri Kỷ trong Lễ Nữ Hiệp, tượng trưng ấn tượng nữ thần của bản thân trong lòng Hảo Hữu.
+75	41	140		2		Bánh Trôi	S		FemaleHead43	UI/Atlas/Head/HomeScreenHeadAtlas02.prefab		53	Phần thưởng nhận trong hoạt động Tết Nguyên Tiêu
+76	42	141		2		Ngọc Nữ	S		FemaleHead44	UI/Atlas/Head/HomeScreenHeadAtlas02.prefab		55	Thưởng nhận trong hoạt động Kết Tình Phiêu Bạt
+77	43			2		Hôn Lễ-Nữ	S		HunShanHead2	UI/Atlas/Head/HomeScreenHeadAtlas02.prefab		59	Lai lịch bí ẩn nữ tử, không người biết được lai lịch của nàng......
+78	44			2		Quân Trang-Nữ	S		Junzhuanghead2	UI/Atlas/Head/HomeScreenHeadAtlas02.prefab		60	Gia tộc bình chọn trong hoạt động, trận chung kết thập cường gia tộc toàn thể thành viên thu hoạch được ban thưởng.
+79	45			2		Yến Tử-Nữ	S		Yanzihead2	UI/Atlas/Head/HomeScreenHeadAtlas02.prefab		61	
+100	611	301		1		Đường Ảnh	S		MaleHead01	UI/Atlas/Head/HomeScreenHeadAtlas.prefab	1		Đường Môn thiếu môn chủ, con trai Đường Môn môn chủ Đường Ly. Võ công cao cường, tính ôn hòa, yêu Thúy Yên môn chủ Thu Y Thủy, sau bị Thiên Nhẫn giáo sứ Thiệu Kỵ Phong dùng kế bắt, nhưng được Nam Cung Phi cứu thoát.
+101	644	302		1		Dương Thiết Tâm	S		MaleHead02	UI/Atlas/Head/HomeScreenHeadAtlas.prefab	1		Tả Sứ tiền nhiệm Thiên Vương Bang, con của Cổ Bách「Bát Tí Viên」, sau được Dương Anh nhận làm con nuôi, bổ nhiệm làm Bang Chủ nhiệm kỳ mới của Thiên Vương Bang. Lễ nghĩa, trung thành tài giỏi nhưng nóng tính, võ công cao cường, thương pháp tinh thâm.
+102	622	303		1		Mạnh Tri Thu	S		MaleHead03	UI/Atlas/Head/HomeScreenHeadAtlas.prefab	1		Minh Chủ Võ Lâm, trang chủ đầu tiên của Tàng Kiếm Sơn Trang, phụ thân Tường Vi. Võ công cực cao, giang hồ ít ai sánh kịp. Vì tin nhầm Trác Phi Phàm nên khiến Tàng Kiếm Sơn Trang suýt bị diệt.
+103	818	304		1		-	?		MaleHead04	UI/Atlas/Head/HomeScreenHeadAtlas.prefab	1		Không ai biết lai lịch của y...
+104	617	305		1		-	Cẩm Y Vệ		MaleHead05	UI/Atlas/Head/HomeScreenHeadAtlas.prefab	1		Dung mạo anh tuấn, võ công cao cường, cách ăn mặc không giống như người trong giang hồ, rốt cuộc y là...?
+105	649	306		1		Chủ Thương Hội	?		MaleHead06	UI/Atlas/Head/HomeScreenHeadAtlas.prefab	1		Thiên hạ đệ nhất phú thương, luôn khiến người khác khó đoán được ý đồ của hắn.
+106	610	307		1		Nam Cung Phi	SS		MaleHead07	UI/Atlas/Head/HomeScreenHeadAtlas.prefab		5	Không ai biết lai lịch của y...
+107	613	308		1		Ân Phương	B		MaleHead08	UI/Atlas/Head/HomeScreenHeadAtlas.prefab	1		Huynh đệ Ân Đồng, mới vài tuổi phụ mẫu vì cứu hảo hữu đã bị những kẻ tự xưng「đại hiệp」của chánh phái tiêu diệt, từ đó về sau rất ghét 2 từ đại hiệp.
+108	635	309		1		Triệu Vân	SS		MaleHead09	UI/Atlas/Head/HomeScreenHeadAtlas.prefab		6	Không ai biết lai lịch của y...
+109	607	310		1		Thượng Quan Phi Long	S		MaleHead10	UI/Atlas/Head/HomeScreenHeadAtlas.prefab	1		Cha của Nguyệt My Nhi, tiền bảo chủ Phi Long Bảo, là một trong hai cao thủ võ lâm dùng kiếm, được xưng là「Bắc Thượng Quan, Nam Hi Liệt」, không thích tranh đấu, kiếm pháp uyên thâm, chiêu thức tuyệt diệu. Bị buộc khiêu chiến với Dương Hi Liệt tại Lăng Tuyệt Phong, hai người giao đấu rồi cùng mất mạng.
+110	647	311		1		-	B		MaleHead11	UI/Atlas/Head/HomeScreenHeadAtlas.prefab	1		Không ai biết lai lịch của y...
+111	626	312		1		Nạp Lan Tiềm Lẫm	SS		MaleHead12	UI/Atlas/Head/HomeScreenHeadAtlas.prefab	1		Vô Ưu Giáo Chủ, cha của Nạp Lan Chân và Nguyệt My Nhi, là người đầy dã tâm, luôn mong đoạt lấy「Võ Đạo Đức Kinh」.
+112	648	313		1		Lưu Vân	?		MaleHead13	UI/Atlas/Head/HomeScreenHeadAtlas.prefab	1		Quan viên triều đình mang lòng an định thiên hạ nhưng lại không có cơ hội thể hiện.
+113	627	314		1		Trương Như Mộng	?		MaleHead14	UI/Atlas/Head/HomeScreenHeadAtlas.prefab	1		Người yêu của Nam Cung Thái Hồng, con trai của【Phi Kiếm Khách】Trương Phong, huynh trưởng của Trương Lâm Tâm. Một lòng tận trung nhưng lại đem lòng yêu kẻ thù nên chỉ biết mượn rượu giải sầu. Sau khi đấu với Nam Cung Thái Hồng ở Kiếm Môn Quan thì cả hai bỏ qua mọi chuyện, cùng nhau quy ẩn giang hồ và có 1 con trai tên là Nam Cung Phi. 
+114	601	315		1		Thiên Tinh Đạo Trưởng	A		MaleHead15	UI/Atlas/Head/HomeScreenHeadAtlas.prefab	1		Là cao thủ của Lạc Diệp Cốc, bạn của Mạnh Tri Thu, sau thu nhận Tô Mặc Vân làm truyền nhân.
+115	642	316		1		Chúc Tử Hư	S		MaleHead16	UI/Atlas/Head/HomeScreenHeadAtlas.prefab		7	Chưởng môn phái Tiêu Dao, tính cách phóng khoáng, từng giao đấu với nhiều cao thủ trong võ lâm, nổi danh trong trong giang hồ.
+116	643	317		1		Liễu Tiêu Đình	A		MaleHead17	UI/Atlas/Head/HomeScreenHeadAtlas.prefab	1		Đệ tử phái Tiêu Dao Phái, tuổi trẻ, có tư chất tốt, sau này có thể trở thành nhân vật lớn của Tiêu Dao cũng như của giang hồ.
+117	628	318		1		Trác Phi Phàm	A		MaleHead18	UI/Atlas/Head/HomeScreenHeadAtlas.prefab	1		Trang chủ Tàng Kiếm Sơn Trang giao du rộng, tuy còn trẻ nhưng võ công cao cường, kiếm pháp thuộc hàng thượng thừa, có tham vọng muốn Tàng Kiếm Sơn Trang nhất thống võ lâm.
+118	620	319		1		Cao Trường Cung	S		MaleHead19	UI/Atlas/Head/HomeScreenHeadAtlas.prefab		8	Lan Lăng Vương, văn võ song toàn, mang danh「Chiến Thần」, Cao Trường Cung cho rằng bản thân quá hiền nên thường đeo mặt nạ mỗi khi ra chiến trường.
+119	603	320		1		Triết Biệt	S		MaleHead20	UI/Atlas/Head/HomeScreenHeadAtlas.prefab		9	Thiện xạ nổi tiếng trong giang hồ, sau học được kỹ thuật mới nâng bản thân lên một tầm cao mới.
+120	606	321		1		Viên Thừa Chí	S		MaleHead21	UI/Atlas/Head/HomeScreenHeadAtlas.prefab		10	Con của danh tướng Viên Sùng Hoán, tính cách thẳng thắn, sau phải trốn đến hải đảo ẩn cư.
+121	609	322		1		Ngao Bái	S		MaleHead22	UI/Atlas/Head/HomeScreenHeadAtlas.prefab		11	Dũng sĩ giỏi vật lộn, một mình có thể đối phó hơn 10 cao thủ.
+122	608	323		1		Hồ Thần Y	SS		MaleHead23	UI/Atlas/Head/HomeScreenHeadAtlas.prefab	1		Thần y ẩn cư tại Dược Vương Cốc có tính cách cổ quái, võ công bình thường nhưng rất giỏi dùng độc.
+123	645	324		1		Phong Ngọc Thư	A		MaleHead24	UI/Atlas/Head/HomeScreenHeadAtlas.prefab	1		Không ai biết lai lịch của y...
+124	630	325		1		Dương Ảnh Phong	SS		MaleHead25	UI/Atlas/Head/HomeScreenHeadAtlas.prefab		12	Trang Chủ Bi Ma Sơn Trang, người đời gọi là「Bi Ma Kiếm Thánh」, con của Dương Hi Liệt「Bắc Thượng Quan, Nam Hi Liệt」, tư chất thông minh. Theo di nguyện của cha muốn trở thành thiên hạ đệ nhất, sau này bị Trác Phi Phàm đánh xuống vực, được Nạp Lan Chân cứu sau đó nên duyên, luyện được「Võ Đạo Đức Kinh」, mang trách nhiệm dẹp loạn trong võ lâm.
+125	604	326		1		Huyền Thiên Đạo Nhân	?		MaleHead26	UI/Atlas/Head/HomeScreenHeadAtlas.prefab		13	Nhân vật thần bí, không biết từ đâu có được「Võ Đạo Đức Kinh」, để bình định phân tranh, Huyền Thiên Đạo Nhân đã dùng võ công để tiêu diệt chúng nhân, võ công tuyệt thế đó xuất phát từ「Võ Đạo Đức Kinh」.
+126	612	327		1		Gia Luật Tị Li	A		MaleHead27	UI/Atlas/Head/HomeScreenHeadAtlas.prefab	1		Hữu hộ pháp Thiên Nhẫn Giáo, người nước Kim, võ công cao cường nhưng tính tình nham hiểm và kiêu ngạo, là trợ thủ đắc lực của Hoàn Nhan Hồng Liệt.
+127	605	328		1		Hắc Diện Lang Quân	S		MaleHead28	UI/Atlas/Head/HomeScreenHeadAtlas.prefab		14	Không ai biết lai lịch của y...
+128	602	329		1		Tiêu Động Trần	B		MaleHead29	UI/Atlas/Head/HomeScreenHeadAtlas.prefab	1		Tinh Anh Giáo Đồ của Vô Ưu Giáo, tín ngưỡng cuồng nhiệt đối với Vô Ưu Giáo và Nạp Lan Tiềm Lẫm.
+129	237	337		1		Giang Hồ Tân Tú-Nam	SS		MaleHead50	UI/Atlas/Head/HomeScreenHeadAtlas02.prefab		28	Nhận được qua một số cách nhất định, phần thưởng cho các tân tú giang hồ xuất sắc
+130	239	338		1		Đông Phương Sóc	SS		MaleHead52	UI/Atlas/Head/HomeScreenHeadAtlas02.prefab		32	Phần thưởng nhận trong hoạt động Tết Nguyên Tiêu
+131	240	339		1		Vạn Kim Tài	?		MaleHead53	UI/Atlas/Head/HomeScreenHeadAtlas02.prefab		35	
+133	242	341		1		Thiên Tinh Đạo Trưởng	S		MaleHead55	UI/Atlas/Head/HomeScreenHeadAtlas02.prefab		37	
+134	243	342		1		Hồ Thần Y	B		MaleHead56	UI/Atlas/Head/HomeScreenHeadAtlas02.prefab		38	
+135	250	349		1		Đông Phương Sóc	S		MaleHead63	UI/Atlas/Head/HomeScreenHeadAtlas02.prefab		54	Phần thưởng nhận trong hoạt động Tết Nguyên Tiêu
+136	251	350		1		Kim Đồng	S		MaleHead64	UI/Atlas/Head/HomeScreenHeadAtlas02.prefab		56	Thưởng nhận trong hoạt động Kết Tình Phiêu Bạt
+137	254			1		Hôn Lễ-Nam	S		HunShanHead1	UI/Atlas/Head/HomeScreenHeadAtlas02.prefab		62	Thần bí thanh niên, không người biết được lai lịch......
+138	255			1		Quân Trang-Nam	S		Junzhuanghead1	UI/Atlas/Head/HomeScreenHeadAtlas02.prefab		63	Gia tộc bình chọn trong hoạt động, trận chung kết thập cường gia tộc toàn thể thành viên thu hoạch được ban thưởng.
+139	256			1		Yến Tử-Nam	S		Yanzihead1	UI/Atlas/Head/HomeScreenHeadAtlas02.prefab		64	
+200	232	332		1		Võ Lâm Đại Mỹ Nhân TOP 20 (?) 	Tân Thiên Vương		MaleHead41	UI/Atlas/Head/HomeScreenHeadAtlas.prefab		15	Tranh vẽ Võ Lâm Đại Mỹ Nhân TOP 20 trong cuộc thi「Miss Võ Lâm Truyền Kỳ Mobile」toàn máy chủ.\n\nƠ, hình như có gì sai sai?
+201	23	123		2		Quốc Sắc Thiên Hương	Tân Nga Mi		FemaleHead25	UI/Atlas/Head/HomeScreenHeadAtlas.prefab		16	Tranh vẽ đại hiệp được ủng hộ trong「Miss Võ Lâm Truyền Kỳ Mobile」toàn máy chủ
+202	26	126		2		Đệ Nhất Mỹ Nhân Server	Tân Đào Hoa		FemaleHead28	UI/Atlas/Head/HomeScreenHeadAtlas.prefab		17	Tranh vẽ Đệ Nhất Mỹ Nhân Server trong cuộc thi「Miss Võ Lâm Truyền Kỳ Mobile」
+203	234	334		1		Quốc Sắc Thiên Hương	Tân Tiêu Dao		MaleHead43	UI/Atlas/Head/HomeScreenHeadAtlas.prefab		18	Tranh vẽ đại hiệp được ủng hộ trong「Miss Võ Lâm Truyền Kỳ Mobile」toàn máy chủ\n\nNgười này có thật trên đời sao?
+204	233	333		1		Đệ Nhất Mỹ Nhân Server (?) 	Tân Võ Đang		MaleHead42	UI/Atlas/Head/HomeScreenHeadAtlas.prefab		19	Tranh vẽ Đệ Nhất Mỹ Nhân Server trong cuộc thi「Miss Võ Lâm Truyền Kỳ Mobile」.\n\nHãy tự tin, đại hiệp là người đẹp nhất!
+205	27	127		2		Võ Lâm Đại Mỹ Nhân TOP 20	Tân Thiên Nhẫn		FemaleHead29	UI/Atlas/Head/HomeScreenHeadAtlas.prefab		20	Tranh vẽ Võ Lâm Đại Mỹ Nhân TOP 20 trong cuộc thi「Miss Võ Lâm Truyền Kỳ Mobile」toàn máy chủ
+206	230	330		1		Thập Đại Mỹ Nhân Server (?) 	Tân Thiếu Lâm		MaleHead44	UI/Atlas/Head/HomeScreenHeadAtlas.prefab		21	Tranh vẽ Thập Đại Mỹ Nhân Server trong cuộc thi「Miss Võ Lâm Truyền Kỳ Mobile」.\n\nTừ xưa đến nay, người đẹp có mấy ai!
+207	24	124		2		Thu Thủy Y Nhân	Tân Thúy Yên		FemaleHead26	UI/Atlas/Head/HomeScreenHeadAtlas.prefab		22	Tranh vẽ đại hiệp được ủng hộ trong「Miss Võ Lâm Truyền Kỳ Mobile」
+208	231	331		1		Thu Thủy Y Nhân (?) 	Tân Đường Môn		MaleHead40	UI/Atlas/Head/HomeScreenHeadAtlas.prefab		23	Tranh vẽ đại hiệp được ủng hộ trong「Miss Võ Lâm Truyền Kỳ Mobile」\n\nNgười đẹp đang ở nơi nào!
+209	25	125		2		Thập Đại Mỹ Nhân Server	Tân Côn Lôn		FemaleHead27	UI/Atlas/Head/HomeScreenHeadAtlas.prefab		24	Tranh vẽ Thập Đại Mỹ Nhân Server trong cuộc thi「Miss Võ Lâm Truyền Kỳ Mobile」
+210	28	128		2		Tượng Triệu Ân Đồng			FemaleHead30	UI/Atlas/Head/HomeScreenHeadAtlas02.prefab		25	Tượng của nữ hiệp Triệu Ân Đồng, tham gia「Tỉ Võ Chiêu Thân Triệu Ân Đồng/Lâm Triều Hoa」, mở「Hoa Đồng Tiểu Trúc Chiến」nhận
+211	235	335		1		Chân dung Lâm Triều Hoa			MaleHead46	UI/Atlas/Head/HomeScreenHeadAtlas02.prefab		26	Tượng của thiếu hiệp Lâm Triều Hoa, tham gia「Tỉ Võ Chiêu Thân Triệu Ân Đồng/Lâm Triều Hoa」, mở「Hoa Đồng Tiểu Trúc Chiến」nhận
+212	31	128		2		Hình Đại Diện Ngôi Sao Triệu Ân Đồng			Head_npc_213	UI/Atlas/Head/Partner/Partner_Female_02.prefab		29	
+213	238	335		1		Lâm Triều Hoa-Hình Đại Diện Ngôi Sao			Head_npc_212	UI/Atlas/Head/Partner/Partner_Male_04.prefab		30	
+214	34	133		2		Dịu Dàng Êm Ái			FemaleHead36	UI/Atlas/Head/HomeScreenHeadAtlas02.prefab		34	Tranh vẽ sau khi nhận được sự ủng hộ của mọi người khi tham gia dự đoán「The Voice Kiếm Hiệp」
+215	35	134		2		Top 10 Hảo Thanh Toàn Máy Chủ			FemaleHead37	UI/Atlas/Head/HomeScreenHeadAtlas02.prefab		41	Tranh vẽ khi trở thành Top 10 khi tham gia「The Voice Kiếm Hiệp」
+216	36	135		2		Top 3 Vòng Chung Kết The Voice			FemaleHead38	UI/Atlas/Head/HomeScreenHeadAtlas02.prefab		42	Tranh vẽ khi trở thành Top 3 Vòng Chung Kết khi tham gia「VLTK M Voice」
+217	37	136		2		The Voice Top 10 Toàn Máy Chủ			FemaleHead39	UI/Atlas/Head/HomeScreenHeadAtlas02.prefab		43	Tranh vẽ khi trở thành Top 10 toàn máy chủ khi tham gia「The Voice Kiếm Hiệp」
+218	38	137		2		The Voice Quán Quân Toàn Máy Chủ			FemaleHead40	UI/Atlas/Head/HomeScreenHeadAtlas02.prefab		44	Tranh vẽ khi trở thành quán quân toàn máy chủ khi tham gia「The Voice Kiếm Hiệp」
+219	245	344		1		Dư Âm Du Dương			MaleHead58	UI/Atlas/Head/HomeScreenHeadAtlas02.prefab		40	Tranh vẽ sau khi nhận được sự ủng hộ của mọi người khi tham gia dự đoán「The Voice Kiếm Hiệp」
+220	244	343		1		Top 10 Hảo Thanh Toàn Máy Chủ			MaleHead57	UI/Atlas/Head/HomeScreenHeadAtlas02.prefab		39	Tranh vẽ khi trở thành Top 10 khi tham gia「The Voice Kiếm Hiệp」
+221	241	340		1		Top 3 Vòng Chung Kết The Voice			MaleHead54	UI/Atlas/Head/HomeScreenHeadAtlas02.prefab		36	Tranh vẽ khi trở thành Top 3 Vòng Chung Kết khi tham gia「VLTK M Voice」
+222	246	345		1		The Voice Top 10 Toàn Máy Chủ			MaleHead59	UI/Atlas/Head/HomeScreenHeadAtlas02.prefab		45	Tranh vẽ khi trở thành Top 10 toàn máy chủ khi tham gia「The Voice Kiếm Hiệp」
+223	247	346		1		The Voice Quán Quân Toàn Máy Chủ			MaleHead60	UI/Atlas/Head/HomeScreenHeadAtlas02.prefab		46	Tranh vẽ khi trở thành quán quân toàn máy chủ khi tham gia「The Voice Kiếm Hiệp」
+224	28	128		2		Áp phích chữ ký Triệu Ân Đồng			FemaleHead30	UI/Atlas/Head/HomeScreenHeadAtlas02.prefab		47	Phần thưởng offline-Áp phích chữ ký Triệu Ân Đồng
+225	235	335		1		Poster Chữ Ký Lâm Triều Hoa			MaleHead46	UI/Atlas/Head/HomeScreenHeadAtlas02.prefab		48	Thưởng Offline-Poster Chữ Ký Lâm Triều Hoa
+226	39	138		2		Hồn Tây Bắc			FemaleHead41	UI/Atlas/Head/HomeScreenHeadAtlas02.prefab		49	Hồn Tây Bắc - Biểu tượng của đoàn kết của người Việt, tinh thần có khó khăn cùng chia sẻ, cố gắng cùng đi đến thành công.
+227	40	139		2		Hồn Thiêng Đất Việt Nữ Tiêu Chuẩn			FemaleHead42	UI/Atlas/Head/HomeScreenHeadAtlas02.prefab		50	Hồn Quốc Hoa - Biểu tượng của Sen, tinh thần của người Việt, sống trong khó khăn vẫn vươn mình khoe sắc, tỏa hương.
+228	248	347		1		Hồn Âu Lạc			MaleHead61	UI/Atlas/Head/HomeScreenHeadAtlas02.prefab		51	Hồn Âu Lạc - Biểu tượng của cội nguồn, nơi cháu con ghi nhớ ơn tiên tổ, khắp nơi người Việt đều là cháu Lạc con Rồng.
+229	249	348		1		Hồn Thiên Sử			MaleHead62	UI/Atlas/Head/HomeScreenHeadAtlas02.prefab		52	Hồn Thiên Sử - Biểu tượng của ngàn năm văn hiến, nhìn về quá khứ để ghi nhớ, hướng đến tương lai để phấn đấu.
+230	252			1		Tượng Thủy Long Ngâm			MaleHead65	UI/Atlas/Head/HomeScreenHeadAtlas02.prefab		57	Hình vẽ sau khi mở tầng cuối của「Rương Du Long Phúc Lộc」
+231	253			2		Tượng Thủy Long Ngâm			FemaleHead45	UI/Atlas/Head/HomeScreenHeadAtlas02.prefab		58	Hình vẽ sau khi mở tầng cuối của「Rương Du Long Phúc Lộc」

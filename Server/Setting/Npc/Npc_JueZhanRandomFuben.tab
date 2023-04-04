@@ -1,0 +1,201 @@
+Index	TemplateID	Name	Kind	Camp	ClassName	ScriptParam	NpcResID	FaceID	BigFaceID	ReviveFrame	NpcAttribID	NormalSkill1	NormalSkillLevel1	NormalSkill2	NormalSkillLevel2	NormalSkill3	NormalSkillLevel3	VisionRadius	ActiveRadius	AiFile	Treasure	DropFile	FightMode	RunSpeed	BloodStyle	ForbitMove	AuraSkillId	AuraSkillLevel	StartActEvent	TitleID	BigFaceID	Tag	DropType	DefaultDialog	WalkSpeed	NameColor	Experience	GouHuoRate	TransBossNpcTID	TransBossRate	IsNotShowShadow	FixExperience	SyncFirst	IsNotBYStealLife	Sex
+JZ_A_1_enemy_1	3467	Thích Khách Bịt Mặt	0	1	FubenDeath		174	200	300		314	22	1	91	1			1500	1500	Setting/Npc/Ai/CommonActive.ini			1	18	1											1								1	
+JZ_A_1_enemy_2	3468	Lưu Manh	0	1	FubenDeath		173	200	300		314	22	1	91	1			1500	1500	Setting/Npc/Ai/CommonActive.ini			1	18	1											1								1	
+JZ_A_1_enemy_3	3469	Thích Khách	0	1	FubenDeath		124	200	300		314	40	1	91	1			550	850	Setting/Npc/Ai/RangeActive.ini			1	18	1											1								1	
+JZ_A_1_enemy_fanshegh	3470	Cờ	0	1	FubenDeath		466	200	300		345	22	1	91	1	2398	1						1	18	2	1				3004		NoTurn				3								1	
+JZ_A_1_npc_1	3471	Tử Hiên	0	0	FubenDeath		131	200	300		331	40	1	52	1	91	1	1500	1500	Setting/Npc/Ai/CommonSkill.ini			1	20	1											4								1	
+JZ_A_2_enemy_1	3472	Phong Hòa Thượng	0	1	FubenDeath		163	200	300		314	1874	1	91	1			1500	1500	Setting/Npc/Ai/CommonActive.ini			1	18	1											1								1	
+JZ_A_2_enemy_2	3473	Thuật Sĩ Bùa Chú	0	1	FubenDeath		137	200	300		314	40	1	91	1			1500	1500	Setting/Npc/Ai/fuben/Boss22.ini			1	18	1											3								1	
+JZ_A_2_Leader_1	3474	Vô Tướng	0	1	FubenDeath		451	200	300		331	2925	1	2439	1	91	1	1500	1500	Setting/Npc/Ai/random/wuxiang.ini	3		1	20	2								1			5								1	
+JZ_A_2_npc_1	3475	Lục Văn Long	0	1	FubenDeath		617	200	300		332	2924	1	2486	1	91	1	1000	1000	Setting/Npc/Ai/CommonSkill.ini	3		1	18	2								1			4								1	
+JZ_A_3_enemy_1	3476	Mãnh Hổ	0	1	FubenDeath		114	200	300		313	22	1	91	1			1500	1500	Setting/Npc/Ai/CommonActive.ini			1	18	1											1								1	
+JZ_A_3_enemy_2	3477	Mãnh Hổ-Tinh Anh	0	1	FubenDeath		114	200	300		322	22	1	2443	1	91	1	1500	1500	Setting/Npc/Ai/CommonSkill.ini			1	18	2		1535	1		3000						3								1	
+JZ_A_3_enemy_3	3478	Hỏa Hồ	0	1	FubenDeath		110	200	300		312	22	1	91	1			1500	1500	Setting/Npc/Ai/CommonActive.ini			1	20	1											1								1	
+JZ_A_3_enemy_gongjigh	3479	Hỏa Hồ-Tinh Anh	0	1	FubenDeath		110	200	300		314	22	1	91	1			1500	1500	Setting/Npc/Ai/CommonSkill.ini			1	20	2		1503	4		3002						3								1	
+JZ_A_3_enemy_huifugh	3480	Bò Cạp	0	1	FubenDeath		109	200	300		312	22	1	91	1	2418	3	1500	1500	Setting/Npc/Ai/CommonActive.ini			1	18	1					3003						1								1	
+JZ_A_3_enemy_shibao	3481	Bò Cạp-Tinh Anh	0	1	FubenDeath		109	200	300		321	22	1	2418	3	91	1	1500	1500	Setting/Npc/Ai/CommonSkill.ini			1	18	2					3003						3								1	
+JZ_A_3_npc_1	3482	Triệu Vô Song	0	0	FubenDeath		127	200	300		323	39	1	44	1			1500	1500	Setting/Npc/Ai/CommonSkill.ini			1	18	1											4								1	
+JZ_A_3_npc_gouhuo	3483	Lửa Trại	6	0	FubenDeath		380	200	300															0																				1	
+JZ_A_4_Elite_1	3484	Vô Ưu Giáo Đầu Mục	0	1	FubenDeath		365	200	300		332	1811	3	91	1			15000	15000	Setting/Npc/Ai/fuben/Boss18.ini			1	18	2											5								1	
+JZ_A_4_enemy_1	3485	Phi Long Bảo Phản Đồ	0	1	FubenDeath		174	200	300		314	21	1	91	1			15000	15000	Setting/Npc/Ai/CommonActive.ini			1	11	1											1								1	
+JZ_A_4_enemy_2	3486	Vô Ưu Giáo Tinh Anh	0	1	FubenDeath		124	200	300		323	21	1	2383	1	91	1	15000	15000	Setting/Npc/Ai/CommonSkill.ini			1	11	2											3								1	
+JZ_A_4_Xiyou_1	3487	Hà Mộ Tuyết	0	0	FubenDeath		105	200	300		331	55	1	2391	1	43	1	1500	1500	Setting/Npc/Ai/CommonSkill.ini			1	30	1											2								1	
+JZ_A_5_Elite_1	3488	Thủ Lĩnh Thích Khách	0	1	FubenDeath		365	200	300		332	1811	1	91	1			1500	1500	Setting/Npc/Ai/fuben/Boss18.ini			1	18	2											5								1	
+JZ_A_5_enemy_1	3489	Thích Khách Bịt Mặt	0	1	FubenDeath		174	200	300		314	21	1	91	1			1500	1500	Setting/Npc/Ai/CommonActive.ini			1	18	1											1								1	
+JZ_A_5_enemy_2	3490	Thích Khách Tinh Anh	0	1	FubenDeath		124	200	300		323	21	1	2383	1	91	1	1500	1500	Setting/Npc/Ai/CommonSkill.ini			1	18	2											3								1	
+JZ_A_5_npc_1	3491	Nạp Lan Chân	0	0	FubenDeath		616	200	300		341	39	1	2391	1	2382	1	1500	1500	Setting/Npc/Ai/CommonSkill.ini			1	30	1											2								1	
+JZ_A_6_enemy_1	3492	Kim Binh	0	1	FubenDeath		180	200	300		314	21	1	91	1			800	800	Setting/Npc/Ai/CommonActive.ini			1	20	1										20	1								1	
+JZ_A_6_enemy_2	3493	Thập Phu Trưởng	0	1	FubenDeath		181	200	300		321	167	1	2360	1	91	1	800	800	Setting/Npc/Ai/CommonSkill.ini			1	20	1										20	3								1	
+JZ_A_6_enemy_3	3494	Bỏ kỹ năng	6	1	FubenDeath		469	200	300		341							1000	1000	Setting/Npc/Ai/random/D2_Yunshi.ini			1	0	1											1					1			1	
+JZ_A_6_huopao	3495	Pháo Xa	0	1	FubenDeath		378	200	300		321	91	1					1000	1000	Setting/Npc/Ai/random/D2_Yunshi.ini			1	0	1							NoTurn				1								1	
+JZ_A_6_jiutan	3496	Hũ Rượu	0	1	FubenDeath		468	200	300		345												1	0	1	1						NoTurn				1								1	
+JZ_A_6_Leader_1	3497	Thiệu Kỵ Phong	0	1	FubenDeath		460	200	300		331	2929	1	2382	1	91	1	1500	1500	Setting/Npc/Ai/CommonSkill.ini	4		1	18	2								1			5								1	
+JZ_B_1_Leader_1	3498	Nam Cung Thái Hồng	0	1	FubenDeath		455	200	300		332	2920	1	91	1			1500	1500	Setting/Npc/Ai/random/nangongcaihong.ini	3		1	20	2								1			5								1	
+JZ_B_1_wuyoujiaotu_gw	3499	Đệ Tử Ngũ Sắc	0	1	FubenDeath		134	200	300		314	168	1	91	1			1500	1500	Setting/Npc/Ai/CommonActive.ini			1	20	1											1								1	
+JZ_B_1_wuyouss_jy	3500	Ngũ Sắc Giáo Thích Khách	0	1	FubenDeath		134	200	300		322	35	1	2487	1	91	1	1500	1500	Setting/Npc/Ai/CommonSkill.ini			1	20	2											3								1	
+JZ_B_1_wuyoutm_sl	3501	Bỏ kỹ năng	6	1	FubenDeath		469	200	300		343							1000	1000	Setting/Npc/Ai/CommonActive.ini			1	0	1											1					1			1	
+JZ_B_1_wuyouyh_jy	3502	Cơ Quan	0	1	FubenDeath		377	200	300		321	91	1										1	20	2	1	2776	1				NoTurn				3								1	
+JZ_B_2_enemy_1	3503	Nỏ Xa	6	1	FubenDeath		480	200	300		323	182	1	91	1			1500	1500	Setting/Npc/Ai/CommonActive.ini			1	0	1											1								1	
+JZ_B_2_enemy_2	3504	Thiên Cơ Tượng	0	1	FubenDeath		142	200	300		313	1807	1	91	1			1500	1500	Setting/Npc/Ai/fuben/Boss17.ini			1	12	1											3								1	
+JZ_B_2_nalanzhen_hs	3505	Nỏ Xa	6	1	FubenDeath		480	200	300		343	1498	1	91	1			2000	2000	Setting/Npc/Ai/CommonActive.ini			1	0	1											1								1	
+JZ_B_3_enmey_1	3506	Tống Binh	0	1	FubenDeath		151	200	300		314	21	1	91	1			1500	1500	Setting/Npc/Ai/CommonActive.ini			1	20	1											1								1	
+JZ_B_3_enmey_2	3507	Bộ Điều Khiển Cơ Quan Nhân	0	1	FubenDeath		416	200	300		314	91	1										1	0	1	1						NoTurn				3								1	
+JZ_B_3_enmey_3	3508	Đao Thuẫn Binh	0	1	FubenDeath		150	200	300		314	21	1	91	1			1500	1500	Setting/Npc/Ai/CommonActive.ini			1	20	1											1								1	
+JZ_B_3_Leader_1	3509	Triệu Tiết	0	1	FubenDeath		402	200	300		331	2928	1	2393	1	91	1	1000	1000	Setting/Npc/Ai/CommonSkill.ini	4		1	18	2								1			4								1	
+JZ_B_3_xunluo_1	3510	Tuần La Cơ Quan Nhân	0	1	FubenDeath		465	200	300		331	1887	1	91	1			280	1000	Setting/Npc/Ai/random/D6_Xunluo.ini			1	15	1					3005						6								1	
+JZ_B_4_enemy_1	3511	Lưu Khấu	0	1	FubenDeath		123	200	300		314	21	1	91	1			1500	1500	Setting/Npc/Ai/CommonActive.ini			1	18	1											1								1	
+JZ_B_4_enemy_2	3512	Thủ Lĩnh Lưu Khấu	0	1	FubenDeath		373	200	300		332	21	1	91	1			1500	1500	Setting/Npc/Ai/fuben/Boss20.ini			1	18	2											4								1	
+JZ_B_4_enemy_BOSS	3513	Võ Sĩ Đông Doanh	0	1	FubenDeath		365	200	300		332	1811	1	91	1			1500	1500	Setting/Npc/Ai/fuben/Boss18.ini			1	18	2											5								1	
+JZ_B_4_jiguan1	3514	Tà Hỏa	0	1	FubenDeath		544				314							1000	1000				1	0	2	1				3012						3								1	
+JZ_B_4_jiguan2	3515	Tà Hỏa	0	1	FubenDeath		545				314							1000	1000				1	0	2	1				3012						3								1	
+JZ_B_4_jiguan3	3516	Tà Hỏa	0	1	FubenDeath		546				314							1000	1000				1	0	2	1				3012						3								1	
+JZ_B_4_SkillNpc	3517	Tử Sĩ	0	1	FubenDeath		368	200	300		331	91	1					1500	1500	Setting/Npc/Ai/CommonSkill.ini			1	7	2											4								1	
+JZ_B_4_Xiyou_1	3518	Thanh Hiểu Sư Thái	0	0	FubenDeath		185	200	300		332	55	1	2382	1	2488	1	1500	1500	Setting/Npc/Ai/CommonSkill.ini			1	30	2											2								1	
+JZ_B_5_Elite_1	3519	Cao Thủ Vô Ưu Giáo	0	1	FubenDeath		367	200	300		332	1386	1	91	1			1500	1500	Setting/Npc/Ai/fuben/Boss14.ini			1	18	2											4								1	
+JZ_B_5_Elite_2	3520	Thủ Lĩnh Thích Khách	0	1	FubenDeath		365	200	300		332	1811	1	91	1			1500	1500	Setting/Npc/Ai/fuben/Boss18.ini			1	18	2											5								1	
+JZ_B_5_enemy_1	3521	Đệ Tử Vô Ưu Giáo	0	1	FubenDeath		143	200	300		314	21	1	91	1			1500	1500	Setting/Npc/Ai/CommonActive.ini			1	18	1											1								1	
+JZ_B_5_enemy_2	3522	Vô Ưu Giáo Tinh Anh	0	1	FubenDeath		364	200	300		323	21	1	2380	1	91	1	1500	1500	Setting/Npc/Ai/CommonSkill.ini			1	18	2											3								1	
+JZ_B_5_enemy_3	3523	Yêu Đạo	0	1	FubenDeath		169	200	300		321	21	1	91	1			1500	1500	Setting/Npc/Ai/CommonActive.ini			1	12	2					3007						5								1	
+JZ_B_5_qizi	3524	Chiêu Hồn Phiên	6	0	FubenDeath		505	200	300		343													0																				1	
+JZ_B_5_Xiyou_1	3525	Thanh Hiểu Sư Thái	0	0	FubenDeath		185	200	300		332	55	1	2382	1	2488	1	1500	1500	Setting/Npc/Ai/CommonSkill.ini			1	30	2											2								1	
+JZ_B_6_Elite_1	3526	Kiếm Khách Thần Bí	0	1	FubenDeath		367	200	300		331	1386	1	91	1			1500	1500	Setting/Npc/Ai/fuben/Boss14.ini			1	18	2											4								1	
+JZ_B_6_enemy_2	3527	Kình Nỏ Thủ	0	1	FubenDeath		165	200	300		314	182	1	91	1			1500	1500	Setting/Npc/Ai/CommonActive.ini			1	18	1											1								1	
+JZ_B_6_enmey_1	3528	Kiếm Khách Lang Bạt	0	1	FubenDeath		135	200	300		314	21	1	91	1			1500	1500	Setting/Npc/Ai/CommonActive.ini			1	18	1											1								1	
+JZ_B_6_Xiyou_1	3529	Hà Mộ Tuyết	0	0	FubenDeath		105	200	300		331	55	1	2391	1	43	1	1500	1500	Setting/Npc/Ai/CommonSkill.ini			1	30	1											2								1	
+JZ_C_1_enemy_1	3530	Đệ Tử Ngũ Sắc	0	1	FubenDeath		174	200	300		314	21	1	91	1			1500	1500	Setting/Npc/Ai/CommonActive.ini			1	18	1											1								1	
+JZ_C_1_enemy_2	3531	Thích Khách	0	1	FubenDeath		124	200	300		314	40	1	91	1			1500	1500	Setting/Npc/Ai/CommonActive.ini			1	18	1											1								1	
+JZ_C_1_enemy_3	3532	Người Đẩy Đá Lăn	0	1	FubenDeath		106	200	300		321	1843	1	91	1	1058	1	1500	1500	Setting/Npc/Ai/CommonActive.ini			1	18	1											3								1	
+JZ_C_1_Gunshi	3533	Đá Lửa Lăn	6	1	FubenDeath		375	200	300		343							1500	1500	Setting/Npc/Ai/AlwaysRunning.ini			1	20	1		2700	3								1								1	
+JZ_C_1_Leader_1	3534	Trương Phong	0	1	FubenDeath		452	200	300		349	2923	1	91	1			1500	1500	Setting/Npc/Ai/random/zhangfeng.ini	3		1	20	2								1			5								1	
+JZ_C_2_enemy_1	3535	Dẫn Lôi Kiếm	0	1	FubenDeath		362	200	300		322	91	1										1	0	1	1				3007		NoTurn				3								1	
+JZ_C_2_Leader_1	3536	Thiên Tinh Đạo Trưởng	0	1	FubenDeath		13	200	300		349	21	1	91	1			1500	1500	Setting/Npc/Ai/random/tianxingdaozhang.ini	4		1	20	2								1			5								1	
+JZ_C_2_zhangfeng_bs	3537	Bỏ kỹ năng	6	1	FubenDeath		469	200	300		343							1000	1000	Setting/Npc/Ai/CommonActive.ini			1	0	1											1					1			1	
+JZ_C_3_Elite_1	3538	Đóng Băng	6	0	FubenDeath		500	200	300		323	21	1	91	1			1500	1500	Setting/Npc/Ai/CommonActive.ini			1	0	1											3								1	
+JZ_C_3_enemy_1	3539	Dương Ảnh Phong	0	0	FubenDeath		1101	200	300		341	21	1	91	1			1500	1500	Setting/Npc/Ai/CommonActive.ini			1	18	1		1535	3								2								1	
+JZ_C_3_Hide_1	3540	Dương Ảnh Phong Bị Đóng Băng	0	1	FubenDeath		469	200	300		314							1000	1000	Setting/Npc/Ai/CommonActive.ini			1	0	1	1						NoTurn				1					1			1	
+JZ_C_3_Leader_1	3541	Nguyệt My Nhi	0	1	FubenDeath		430	200	300		349	41	1	91	1			1500	1500	Setting/Npc/Ai/random/yuemeier.ini	3		1	20	2								1			5								1	
+JZ_C_4_BOSS_1	3542	Nạp Lan Tiềm Lẫm	0	1	FubenDeath		459	200	300		349	2951	1	91	1			1500	1500	Setting/Npc/Ai/random/nalanqianling.ini	4		1	20	2								1			6								1	
+JZ_C_4_enemy_1	3543	Vô Ưu Giáo Tinh Anh	0	1	FubenDeath		134	200	300		314	57	1	91	1			1500	1500	Setting/Npc/Ai/CommonActive.ini			1	18	1		1504	1		3008						1								1	
+JZ_C_4_enemy_2	3544	Vô Ưu Giáo Tinh Anh	0	1	FubenDeath		134	200	300		314	57	1	91	1			1500	1500	Setting/Npc/Ai/CommonActive.ini			1	18	1		2398	1		3004						1								1	
+JZ_C_4_enemy_3	3545	Vô Ưu Giáo Tinh Anh	0	1	FubenDeath		134	200	300		314	57	1	91	1			1500	1500	Setting/Npc/Ai/CommonActive.ini			1	18	1		1503	1		3002						1								1	
+JZ_C_5_enemy_1	3546	Nữ Vũ Thị	0	1	FubenDeath		102	200	300		321	37	1	91	1	2384	1	1500	1500	Setting/Npc/Ai/CommonSkill.ini			1	18	1		1535	1								3								1	
+JZ_C_5_enemy_2	3547	Thúy Yên Đệ Tử	0	1	FubenDeath		178	200	300		321	37	1	91	1	2488	1	1500	1500	Setting/Npc/Ai/CommonSkill.ini			1	18	1											3								1	
+JZ_C_5_enemy_3	3548	Miêu Cương Cổ Sư	0	1	FubenDeath		137	200	300		321	40	1	91	1	2489	1	1500	1500	Setting/Npc/Ai/CommonSkill.ini			1	18	1											3								1	
+JZ_C_5_enemy_BOSS	3549	Thu Y Thủy	0	1	FubenDeath		516	200	300		349	33	1	91	1			700	700	Setting/Npc/Ai/random/qiuyishui.ini	4		1	20	2								1			6								1	
+JZ_C_6_Elite_1	3550	Hồng Y Kiếm Khách	0	1	FubenDeath		367	200	300		322	1386	1	91	1			3000	3000	Setting/Npc/Ai/random/D9_Jianke.ini			1	18	2											3								1	
+JZ_C_6_Elite_2	3551	Miêu Cương Cổ Sư	0	1	FubenDeath		386	200	300		322	55	1	91	1			3000	3000	Setting/Npc/Ai/random/D9_Gushi.ini			1	18	2											3								1	
+JZ_C_6_Elite_3	3552	Thiên Cơ Tượng	0	1	FubenDeath		368	200	300		322	1848	1	91	1			3000	3000	Setting/Npc/Ai/fuben/Boss24.ini			1	18	2											3								1	
+JZ_C_6_enmey_1	3553	Bò Cạp	0	1	FubenDeath		109	200	300		314	22	1	91	1	1691	11	3000	3000	Setting/Npc/Ai/CommonActive.ini			1	18	1					3003						1								1	
+JZ_C_6_enmey_2	3554	Kiếm Khách Lang Bạt	0	1	FubenDeath		135	200	300		314	21	1	91	1			3000	3000	Setting/Npc/Ai/CommonActive.ini			1	18	1											1								1	
+JZ_C_6_enmey_3	3555	Thần Xạ Thủ	0	1	FubenDeath		159	200	300		314	182	1	91	1			1500	1500	Setting/Npc/Ai/CommonActive.ini			1	18	1											1								1	
+JZ_C_6_Leader_1	3556	Trương Như Mộng	0	1	FubenDeath		409	200	300		349	2919	1	91	1	2466	1	3000	3000	Setting/Npc/Ai/random/zhangrumeng.ini			1	30	2											5								1	
+JZ_D_1_enemy_1	3557	Thủ Vệ Linh Hồn	6	1	FubenDeath		486	200	300		343	181	1	91	1			150	1500	Setting/Npc/Ai/CommonActive.ini			1	10	1											1								1	
+JZ_D_1_Leader_1	3558	Lâm Hải	0	1	FubenDeath		453	200	300		350	2926	1	91	1			1500	1500	Setting/Npc/Ai/random/linhai.ini	3		1	18	2								1			5								1	
+JZ_D_2_enemy_1	3559	Trang Đinh	0	1	FubenDeath		101	200	300		313	21	1	91	1			1500	1500	Setting/Npc/Ai/CommonActive.ini			1	18	1											1								1	
+JZ_D_2_enemy_2	3560	Thủ Lĩnh Trang Đinh	0	1	FubenDeath		142	200	300		321	21	1	2387	1	91	1	1500	1500	Setting/Npc/Ai/CommonSkill.ini			1	18	1											3								1	
+JZ_D_2_enemy_3	3561	Đệ Tử Ngũ Sắc	0	1	FubenDeath		174	200	300		313	22	1	91	1			1500	1500	Setting/Npc/Ai/CommonActive.ini			1	18	1											1								1	
+JZ_D_2_enemy_BOSS	3562	Phương Miễn	0	1	FubenDeath		464	200	300		350	2922	1	91	1			1500	1500	Setting/Npc/Ai/random/fangmian.ini	4		1	20	2								1			6								1	
+JZ_D_2_SkillNpc	3563	Hỏa Trì	6	1	FubenDeath		469	200	300		343	2402	1			2497	6						1	0	1											1					1			1	
+JZ_D_3_enemy_1	3564	Thủ Vệ Cơ Quan	0	1	FubenDeath		173	200	300		314	166	1	91	1			1500	1500	Setting/Npc/Ai/CommonActive.ini			1	20	1											1								1	
+JZ_D_3_enemy_2	3565	Thủ Vệ Cơ Quan	0	1	FubenDeath		151	200	300		314	166	1	91	1			1500	1500	Setting/Npc/Ai/CommonActive.ini			1	20	1											1								1	
+JZ_D_3_jiguan_1	3566	Bẫy diệt nhanh	6	1	FubenDeath		456	200	300		323	2468	30										1																					1	
+JZ_D_3_jiguan_2	3567	Cơ Quan Nước Độc	0	1	FubenDeath		416	200	300		314			91	1								1	18	1	1						NoTurn				3								1	
+JZ_D_3_Leader_1	3568	Tường Vi	0	1	FubenDeath		454	200	300		350	1570	1	91	1			1500	1500	Setting/Npc/Ai/random/qiangwei.ini	4		1	20	2								1			5								1	
+JZ_D_4_enmey_1	3569	Đệ Tử Tàng Kiếm	0	1	FubenDeath		135	200	300		314	22	1	91	1			1500	1500	Setting/Npc/Ai/CommonActive.ini			1	18	1											1								1	
+JZ_D_4_enmey_2	3570	Tàng Kiếm Tinh Anh	0	1	FubenDeath		135	200	300		323	37	1	2488	1	91	1	1500	1500	Setting/Npc/Ai/CommonSkill.ini			1	18	2											3								1	
+JZ_D_4_jiguan_1	3571	Cơ Quan Phun	6	1	FubenDeath		467	200	300		343							1500	1500	Setting/Npc/Ai/random/D7_Penhuo.ini			1	0	1											1								1	
+JZ_D_4_jiguan_2	3572	Hỏa Diệm	0	1	FubenDeath		456	200	300		313	21	1	91	1								1	0	1											1								1	
+JZ_D_4_Leader_1	3573	Trác Phi Phàm	0	1	FubenDeath		425	200	300		349	2916	1	91	1			1000	1000	Setting/Npc/Ai/teamfb/zhuofeifan.ini	4		1	18	2								1			5								1	
+JZ_D_5_enemy_1	3574	Đá	6	1	FubenDeath		518	200	300		314												1	0	1											1								1	
+JZ_D_5_enemy_BOSS	3575	Mạnh Tri Thu	0	1	FubenDeath		458	200	300		350	2918	1	91	1			1500	1500	Setting/Npc/Ai/random/mengzhiqiu.ini	4		1	20	2								1			6								1	
+JZ_D_5_SkillNpc	3576	Bỏ kỹ năng	6	1	FubenDeath		469	200	300		343												1	0	1											1					1			1	
+JZ_D_6_Gunshi	3577	Đá Lăn	6	1	FubenDeath		375	200	300		343							1500	1500	Setting/Npc/Ai/AlwaysRunning.ini			1	20	1		2700	3								1								1	
+JZ_D_6_mb	3578	Nguyệt My Nhi Bị Thương	0	0	FubenDeath		1102	200	300		321	91	1					1500	1500	Setting/Npc/Ai/CommonSkill.ini			1	0	2											3								1	
+JZ_D_6_Xiyou_1	3579	Vô Tưởng	0	0	FubenDeath		5212	200	300		332	55	1	2382	1	2488	1	1500	1500	Setting/Npc/Ai/CommonSkill.ini			1	30	2											2								1	
+JZ_E_1_enemy_1	3580	Miêu Cương Nữ Tử	0	1	FubenDeath		137	200	300		312	21	1	91	1			50	50	Setting/Npc/Ai/CommonActive.ini			1	0	1					3007						3								1	
+JZ_E_1_enmey_2	3581	Bỏ kỹ năng	6	1	FubenDeath		469	200	300		343							1000	1000	Setting/Npc/Ai/CommonActive.ini			1	0	1											1					1			1	
+JZ_E_1_zhanglinxin_sl	3582	Trương Lâm Tâm	0	1	FubenDeath		461	200	300		347	2921	1	91	1			1500	1500	Setting/Npc/Ai/random/zhanglinxin.ini	4		1	20	2								1			5								1	
+JZ_E_2_enmey_1	3583	Trụ	6	1	FubenDeath		491	200	300		314												1	0	1											1								1	
+JZ_E_2_Leader_1	3584	Yên Nhược Tuyết	0	1	FubenDeath		618	200	300		347	39	1	91	1			1500	1500	Setting/Npc/Ai/random/yangying.ini	4		1	20	2								1			5								1	
+JZ_E_2_mengzhiqiu_bs	3585	Ẩn NPC	0	0	FubenDeath		469	200	300		343	91	1	2783	1	2455	1						1	0	1											1								1	
+JZ_E_3_huopao1	3586	Pháo Xa	0	1	FubenDeath		378	995	300		312	182	1	91	1			1500	1500	Setting/Npc/Ai/CommonActive.ini			1	0	1											5								1	
+JZ_E_3_huopao2	3587	Pháo Xa	2	0	AddBuffer	1,Đang mở,2217,1,180	378	995	300		341	182	1	91	1	1500	1	1000	1000	Setting/Npc/Ai/CommonSkill.ini			1	0	1											5								1	
+JZ_E_3_nangongmie_bs	3588	Nam Cung Diệt	0	1	FubenDeath		129	200	300		347	22	1	91	1			1500	1500	Setting/Npc/Ai/random/nangongmie.ini	4		1	20	2								1		20	6								1	
+JZ_E_3_xunluo1	3589	Cơ Quan Nhân	0	1	FubenDeath		157	200	300		312	91	1					800	800	Setting/Npc/Ai/random/E5_miaosha.ini			1	5	1											1								1	
+JZ_E_3_xunluo2	3590	Bỏ kỹ năng	6	1	FubenDeath		469	200	300		343												1	0	1											1					1			1	
+JZ_E_4_enemy_gw	3591	Thích Khách	0	1	FubenDeath		124	200	300		313	2722	1					1000	1000	Setting/Npc/Ai/CommonSkill.ini			1	20	1											1								1	
+JZ_E_4_enemy_jg	3592	Truy Hồn	6	1	FubenDeath		465	200	300		343	1887	1	91	1			280	1000	Setting/Npc/Ai/random/D6_Xunluo.ini			1	16	3					3005						6								1	
+JZ_E_4_enemy_jy	3593	Hung Ngoan Võ Giả	0	1	FubenDeath		106	200	300		322	182	1	2389	1	91	1	1000	1000	Setting/Npc/Ai/CommonSkill.ini			1	20	1											3								1	
+JZ_E_4_enemy_sl	3594	Vô Mệnh	0	1	FubenDeath		24	200	300		341	196	1	91	1			1000	1000	Setting/Npc/Ai/fuben/Boss4.ini			1	20	2											4								1	
+JZ_E_5_Xiyou_1	3595	Vô Tưởng	0	0	FubenDeath		5212	200	300		332	55	1	2382	1	2488	1	1500	1500	Setting/Npc/Ai/CommonSkill.ini			1	30	2											2								1	
+JZ_E_5_yangxilie_bs	3596	Dương Hi Liệt	0	1	FubenDeath		463	200	300		347	2915	1	91	1			1500	1500	Setting/Npc/Ai/random/yangxilie.ini	4		1	20	2								1		20	6								1	
+JZ_E_6_enemy_1	3597	Vòng hướng dẫn	6	1	FubenDeath		383	200	300		314							150	150	Setting/Npc/Ai/CommonActive.ini			1	0	1											1								1	
+JZ_E_6_npc_1	3598	Sài Tung	0	1	FubenDeath		366	200	300		347	2711	1	91	1			1500	1500	Setting/Npc/Ai/random/chaisong.ini	4		1	20	2								1			5								1	
+JZ_F_1_shangguanfl_bs	3599	Thượng Quan Phi Long	0	1	FubenDeath		21	200	300		351	1893	1	91	1			1500	1500	Setting/Npc/Ai/random/shangguanfeilong.ini	4		1	20	2								1		20	6								1	
+JZ_F_2_enemy_1	3600	Đá Lửa Lăn	6	1	FubenDeath		375	200	300		343							1500	1500	Setting/Npc/Ai/AlwaysRunning.ini			1	15	1		2700	5								1								1	
+JZ_F_2_enemy_2	3601	Cơ Quan	6	1	FubenDeath		377	200	300		321	91	1					1500	1500	Setting/Npc/Ai/CommonActive.ini			1	0	1							NoTurn				1								1	
+JZ_F_2_enemy_BOSS	3602	Phong Ngọc Thư	0	1	FubenDeath		478	200	300		351	2951	1	91	1			700	700	Setting/Npc/Ai/random/fengyushu.ini	4		1	20	2								1			6								1	
+JZ_F_3_enemy_gw	3603	Lãng Khách	0	1	FubenDeath		151	200	300		314	169	1					1000	1000	Setting/Npc/Ai/CommonSkill.ini			1	20	1											1								1	
+JZ_F_3_enemy_hf	3604	Hộ Pháp Đệ Tử	0	1	FubenDeath		169	200	300		321	169	1					1000	1000	Setting/Npc/Ai/CommonSkill.ini			1	20	2											3								1	
+JZ_F_3_enemy_jy	3605	Kẻ Bịt Mặt	0	1	FubenDeath		174	200	300		323	39	1	2382	1	91	1	1000	1000	Setting/Npc/Ai/CommonSkill.ini			1	20	1											3								1	
+JZ_F_3_enemy_sl	3606	Lý Thiên Mục	0	1	FubenDeath		626	200	300		341	3130	1	91	1			1000	1000	Setting/Npc/Ai/random/daoyizhenren.ini	4		1	20	2								1			5								1	
+JZ_F_3_npc_gouhuo	3607	Tà Hỏa	2	0	FubenDialog	4, Đang diệt...	544	995	300		1							560	980				1	0		1				3012		NoTurn												1	
+JZ_F_3_npc_jiguan	3608	Cơ Quan	2	0	FubenDialog	4, Đang đóng...	377	995	300		1							560	980				1	0		1				3011		NoTurn												1	
+JZ_F_3_xunluo	3609	Tuần La Cơ Quan Nhân	0	1	FubenDeath		157	200	300		331	3109	7	91	1			280	1000	Setting/Npc/Ai/random/G7_Xunluo.ini			1	15	1											5								1	
+JZ_F_4_enemy_BOSS	3610	Doãn Hàm Yên	0	1	FubenDeath		1161	200	300		351	3144	1	91	1			1000	300	Setting/Npc/Ai/random/F4_yinhanyan.ini	4		1	20	2								1			6								1	
+JZ_F_4_enemy_guaiwu	3611	Hồn Hồi Sinh	0	1	FubenDeath		489	200	300		321	91	1					1000	1000	Setting/Npc/Ai/CommonActive.ini			1	10	1											3								1	
+JZ_F_4_npc_fazhen	3612	Cực Phản Pháp Trận	6	0	FubenDeath		383	200	300		323							1000	1000	Setting/Npc/Ai/CommonActive.ini			1	0	3		3115	1								2								1	
+JZ_F_6_enemy_BOSS	3613	Đoan Mộc Duệ	0	1	FubenDeath		623	200	300		351	3137	1	91	1			750	750	Setting/Npc/Ai/random/duanmurui.ini	4		1	20	2								1			6								1	
+JZ_F_6_enemy_xianjing	3614	Lửa Kỳ Bí	6	1	FubenDeath		469	200	300		343							1000	1000	Setting/Npc/Ai/AlwaysRunning.ini			1	18	3		3109	3								1								1	
+JZ_G_1_enemy_1	3615	NPC Phun Lửa	6	0	FubenDeath		467	200	300		343																																	1	
+JZ_G_1_enemy_2	3616	Hắc Y Thích Khách	0	1	FubenDeath		121	200	300		343	91	1	1058	1			1500	1500	Setting/Npc/Ai/random/F8_Laren.ini			1	18	1											3								1	
+JZ_G_1_enemy_3	3617	Bỏ kỹ năng	6	1	FubenDeath		469	200	300		343												1	0	1											1					1			1	
+JZ_G_1_enemy_BOSS	3618	Khúc Hà	0	1	FubenDeath		517	200	300		352	56	1	91	1			1500	300	Setting/Npc/Ai/random/pilihuo.ini	4		1	20	2								1			6								1	
+JZ_G_2_enemy_BOSS	3619	Đạo Nhất Chân Nhân	0	1	FubenDeath		622	200	300		351	3130	1	91	1			1000	400	Setting/Npc/Ai/random/daoyizhenren.ini	4		1	20	2								1			6								1	
+JZ_G_2_enemy_jiguan	3620	Trận Nhãn	0	1	FubenDeath		377				313							1000	1000				1	0	2	1										3								1	
+JZ_G_2_enemy_xianjing	3621	Bẫy Tuần La	6	1	FubenDeath		469	200	300		343							1000	1000	Setting/Npc/Ai/AlwaysRunning.ini			1	50	3		3106	20								1								1	
+JZ_G_3_enemy_BOSS	3622	Cổ Yên Nhiên	0	1	FubenDeath		619	200	300		352	3718	1	91	1			15000	15000	Setting/Npc/Ai/random/G3_guyanranzc.ini	4		1	20	2											6								1	
+JZ_G_4_enemy_BOSS	3623	Hoàng Mộ Vân	0	1	FubenDeath		624	200	300		347	3120	1	91	1			1000	1000	Setting/Npc/Ai/random/huangmuyun.ini	4		1	20	2								1			6								1	
+JZ_G_4_enemy_gw	3624	Âm Trầm Đao Khách	0	1	FubenDeath		123	200	300		312	169	1					1000	1000	Setting/Npc/Ai/CommonSkill.ini			1	20	1											1								1	
+JZ_G_4_enemy_gw_s1	3625	Độc Nương Tử	0	1	FubenDeath		164	200	300		313	169	1	91	1	2486	1	1000	1000	Setting/Npc/Ai/CommonSkill.ini			1	20	1											3								1	
+JZ_G_4_enemy_gw_s2	3626	Cuồng Nộ Xung Phong	6	1	FubenDeath		486	200	300		313	1874	1	91	1			1000	1000	Setting/Npc/Ai/CommonActive.ini			1	15	1											1								1	
+JZ_G_4_enemy_jy	3627	Tội Đạo Nhân	0	1	FubenDeath		169	200	300		313	166	1	91	1			1000	1000	Setting/Npc/Ai/CommonSkill.ini			1	20	1											3								1	
+JZ_G_5_enemy_1	3628	Linh Hồn Cầu	0	1	FubenDeath		485	200	300		321	91	1							Setting/Npc/Ai/CommonActive.ini			1	8	1					3007						3								1	
+JZ_G_5_enemy_2	3629	Linh Hồn Cầu	0	1	FubenDeath		486	200	300		321	91	1							Setting/Npc/Ai/CommonActive.ini			1	8	1					3007						3								1	
+JZ_G_5_enemy_BOSS	3630	Tống Thu Thạch	0	1	FubenDeath		620	200	300		352	3150	1	91	1			2000	2000	Setting/Npc/Ai/random/songqiushi.ini	4		1	20	2								1			6								1	
+JZ_G_5_jiguan_1	3631	Bẫy diệt nhanh	6	1	FubenDeath		456	200	300		323	2468	30										1																					1	
+JZ_G_6_enemy_gw	3632	Lưu Khấu	0	1	FubenDeath		170	200	300		314	2716	1					1000	1000	Setting/Npc/Ai/CommonSkill.ini			1	20	1											1								1	
+JZ_G_6_enemy_jy	3633	Khoái Đao Khách	0	1	FubenDeath		171	200	300		322	2721	1	2447	1	91	1	1000	1000	Setting/Npc/Ai/CommonSkill.ini			1	20	1											3								1	
+JZ_G_6_enemy_sl1	3634	Trung Nguyên Nhất Điểm Hồng	0	1	FubenDeath		627	200	300		332	2712	1	91	1			1000	1000	Setting/Npc/Ai/fuben/Boss11.ini			1	20	2											4								1	
+JZ_G_6_enemy_sl2	3635	Trung Nguyên Nhị Điểm Hồng	0	1	FubenDeath		627	200	300		332	2712	1	91	1			1000	1000	Setting/Npc/Ai/fuben/Boss11.ini			1	20	2											4								1	
+JZ_G_6_enemy_sl3	3636	Trung Nguyên Tam Điểm Hồng	0	1	FubenDeath		627	200	300		332	2712	1	91	1			1000	1000	Setting/Npc/Ai/fuben/Boss11.ini			1	20	2											4								1	
+JZ_G_6_enemy_sl4	3637	Trung Nguyên Tứ Điểm Hồng	0	1	FubenDeath		627	200	300		332	2712	1	91	1			1000	1000	Setting/Npc/Ai/fuben/Boss11.ini			1	20	2											4								1	
+JZ_G_6_enmey_ex	3638	Bò Cạp	0	1	FubenDeath		109	200	300		314	22	1	91	1	2418	6	3000	3000	Setting/Npc/Ai/CommonActive.ini			1	10	1					3003						1								1	
+JZ_G_6_jiguan	3639	Cơ Quan	2	0	FubenDialog	2,Đang mở...	377	995	300		1							560	980				1	0		1				3011		NoTurn												1	
+JZ_G_6_npc_xy	3640	Huyền Thiên Đạo Nhân	0	0	FubenDeath		5016	200	300		347							1000	1000	Setting/Npc/Ai/Stay.ini			1	20	3											2								1	
+JZ_G_6_SkillNpc1	3641	Kỹ năng	6	1	FubenDeath		469	200	300		343												1	0	1		2095	4								1					1			1	
+JZ_G_6_SkillNpc2	3642	Kỹ năng	6	0	FubenDeath		469	200	300		343												1	0	1											1					1			1	
+JZ_G_6_zy	3643	Vòng hướng dẫn	6	1	FubenDeath		383	200	300		314							150	150	Setting/Npc/Ai/CommonActive.ini			1	0	1											1								1	
+JZ_jiguan2	3644	Kiếm	2	0	FubenDialog	4,Đang mở...	362	995	300		1							560	980				1	15		1						NoTurn												1	
+JZ_shanzei_1	3645	Sơn Tặc	0	1	FubenDeath		136	200	300		314	21	1	91	1			1500	1500	Setting/Npc/Ai/CommonActive.ini			1	20	1											1								1	
+JZ_shanzei_2	3646	Sơn Tặc Đầu Mục	0	1	FubenDeath		369	200	300		322	21	1	24	1	91	1	1500	1500	Setting/Npc/Ai/CommonSkill.ini			1	20	2											3								1	
+JZ_xinmo1	3647	Thiên Vương	0	1	FubenDeath		421	200	300		332	2001	1	91	1			3000	3000	Setting/Npc/Ai/random/jx_tianwang.ini			1	25	1																			1	
+JZ_xinmo10	3648	Nhân vật Côn Lôn	0	1	FubenDeath		562	200	300		332	3096	1	91	1			3000	3000	Setting/Npc/Ai/random/jx_kunlun.ini			1	25	1																			1	
+JZ_xinmo11	3649	Nhân vật Cái Bang	0	1	FubenDeath		588	200	300		332	3622	1	91	1			3000	3000	Setting/Npc/Ai/random/jx_gaibang.ini			1	25	1																			1	
+JZ_xinmo12	3650	Nhân vật Ngũ Độc	0	1	FubenDeath		589	200	300		332	3628	1	91	1			3000	3000	Setting/Npc/Ai/random/jx_wudu.ini			1	25	1																			1	
+JZ_xinmo13	3651	Nhân vật Tàng Kiếm	0	1	FubenDeath		610	200	300		332	3951	1	91	1			3000	3000	Setting/Npc/Ai/random/jx_cangjian.ini			1	25	1																			1	
+JZ_xinmo14	3652	Nhân vật Trường Ca	0	1	FubenDeath		611	200	300		332	3957	1	91	1			3000	3000	Setting/Npc/Ai/random/jx_changge.ini			1	25	1																			1	
+JZ_xinmo15	3653	Nhân Vật Thiên Sơn	0	1	FubenDeath		611	200	300		332	4869	1	91	1			3000	3000	Setting/Npc/Ai/random/jx_tianshan.ini			1	25	1																			1	
+JZ_xinmo16	3654	Nhân Vật Bá Đao	0	1	FubenDeath		611	200	300		332	5088	1	91	1			3000	3000	Setting/Npc/Ai/random/jx_badao.ini			1	25	1																			1	
+JZ_xinmo17	3655	Nhân Vật Hoa Sơn	0	1	FubenDeath		611	200	300		332	5282	1	91	1			3000	3000	Setting/Npc/Ai/random/jx_huashan.ini			1	25	1																			1	
+JZ_xinmo18	3656	Nhân vật Minh Giáo	0	1	FubenDeath		611	200	300		332	5591	1	91	1			3000	3000	Setting/Npc/Ai/random/jx_mingjiao.ini			1	25	1																			1	
+JZ_xinmo19	3657	Nhân vật Đoàn Thị	0	1	FubenDeath		611	200	300		332	5691	1	91	1			3000	3000	Setting/Npc/Ai/random/jx_duanshi.ini			1	25	1																			1	
+JZ_xinmo2	3658	Nga Mi	0	1	FubenDeath		422	200	300		332	2008	1	91	1			3000	3000	Setting/Npc/Ai/random/jx_emei.ini			1	25	1																			1	
+JZ_xinmo3	3659	Đào Hoa	0	1	FubenDeath		423	200	300		332	2014	1	91	1			3000	3000	Setting/Npc/Ai/random/jx_taohua.ini			1	25	1																			1	
+JZ_xinmo4	3660	Tiêu Dao	0	1	FubenDeath		424	200	300		332	2024	1	91	1			3000	3000	Setting/Npc/Ai/random/jx_xiaoyao.ini			1	25	1																			1	
+JZ_xinmo5	3661	Võ Đang	0	1	FubenDeath		434	200	300		332	2901	1	91	1			3000	3000	Setting/Npc/Ai/random/jx_wudang.ini			1	25	1																			1	
+JZ_xinmo6	3662	Thiên Nhẫn	0	1	FubenDeath		435	200	300		332	2908	1	91	1			3000	3000	Setting/Npc/Ai/random/jx_tianren.ini			1	25	1																			1	
+JZ_xinmo7	3663	Nhân vật Thiếu Lâm	0	1	FubenDeath		525	200	300		332	2084	1	91	1			3000	3000	Setting/Npc/Ai/random/jx_shaolin.ini			1	25	1																			1	
+JZ_xinmo8	3664	Nhân vật Thúy Yên	0	1	FubenDeath		526	200	300		332	2088	1	91	1			3000	3000	Setting/Npc/Ai/random/jx_cuiyan.ini			1	25	1																			1	
+JZ_xinmo9	3665	Nhân vật Đường Môn	0	1	FubenDeath		561	200	300		332	3085	1	91	1			3000	3000	Setting/Npc/Ai/random/jx_tangmen.ini			1	25	1																			1	
+JZ_zhuofeifan	3666	Trác Phi Phàm	0	0	FubenDeath		194	200	300		323	37	1	2363	1			1500	1500	Setting/Npc/Ai/CommonSkill.ini			1	18	2											5								1	

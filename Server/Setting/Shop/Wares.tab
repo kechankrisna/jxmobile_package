@@ -1,0 +1,113 @@
+GoodsId	TemplateId	Name	Price	MoneyType	ShopType	SubType	Sort	Discount	LimitType	LimitNum	HotTip	TimeFrame	CloseTimeFrame	MinLevel	ShowLevel	ShowVipLevel	OpenTime	CloseTime	ForbidStall	version_tx	version_vn	version_hk	version_xm	version_en	version_kor	version_th
+1	1927	Nữ Nhi Hồng	100	Gold	Treasure		1													1	1	1	1	1	1	1
+2	2569	Thuốc Nhuộm	298	Gold	Treasure		2													1	1	1	1	1	1	1
+3	2301	Tu Luyện Đơn	180	Gold	Treasure		3													1	1	1	1	1	1	1
+4	2759	Truyền Công Đơn	180	Gold	Treasure		4													1	1	1	1	1	1	1
+5	1968	Tẩy Tủy Đơn	800	Gold	Treasure		5												1	1	1	1	1	1	1	1
+6	1969	Tư Chất Đơn	800	Gold	Treasure		6												1	1	1	1	1	1	1	1
+7	785	Chìa Hoàng Kim	1000	Gold	Treasure		7													1	1	1	1	1	1	1
+8	786	Rương Hoàng Kim	100	Gold	Treasure		8													1	1	1	1	1	1	1
+9	7284	Đạo Cụ Sửa Kế Thừa	2500	Gold	Treasure		9													1	1	1	1	1	1	1
+10	7285	Đạo Cụ Sửa Hiếm	12000	Gold	Treasure		10													1	1	1	1	1	1	1
+11	6814	50000 Cống Hiến	65000	Gold	Treasure		11													1	1	1	1	1	1	1
+12	6815	50000 Nguyên Khí	65000	Gold	Treasure		12													1	1	1	1	1	1	1
+13	6151	Chân Khí Đơn (1000 điểm)	770	Gold	Treasure		13													1	1	1	1	1	1	1
+14	6152	Chân Khí Đơn (5000 điểm)	2500	Gold	Treasure		14													1	1	1	1	1	1	1
+15	3368	Kim Lan Phổ	1200	Gold	Treasure		15													1	1	1	1	1	1	1
+16	6155	Duyên Định Kim Sinh	3999	Gold	Treasure		16													1	1	1	1	1	1	1
+17	6231	Tam Sinh Thạch	2999	Gold	Treasure		17													1	1	1	1	1	1	1
+18	2682	Thiên Kiếm Lệnh	200000	Gold	Treasure		18													1	1	1	1	1	1	1
+19	212	Thủy Tinh Trắng	20	Gold	Treasure		19													1	1	1	1	1	1	1
+20	222	Thủy Tinh Lục	80	Gold	Treasure		20													1	1	1	1	1	1	1
+21	223	Thủy Tinh Lam	320	Gold	Treasure		21													1	1	1	1	1	1	1
+22	224	Thủy Tinh Tím	1280	Gold	Treasure		22													1	1	1	1	1	1	1
+23	225	Thủy Tinh Cam	2560	Gold	Treasure		23													1	1	1	1	1	1	1
+24	227	Thủy Tinh Vàng	5120	Gold	Treasure		24													1	1	1	1	1	1	1
+25	213	Khoáng Thạch Thần Bí Lv1	16	Gold	Treasure		25													1	1	1	1	1	1	1
+26	214	Khoáng Thạch Thần Bí Lv2	90	Gold	Treasure		26													1	1	1	1	1	1	1
+27	215	Khoáng Thạch Thần Bí Lv3	700	Gold	Treasure		27													1	1	1	1	1	1	1
+28	1412	Loa Thế Giới	50	Gold	Treasure		28													1	1	1	1	1	1	1
+29	1413	Thiên Lý Truyền Âm	100	Gold	Treasure		29													1	1	1	1	1	1	1
+30	1234	Hoa Hồng	20	Gold	Treasure		30													1	1	1	1	1	1	1
+31	1235	Cỏ May Mắn	20	Gold	Treasure		31													1	1	1	1	1	1	1
+32	2180	99 Hoa Hồng	388	Gold	Treasure		32													1	1	1	1	1	1	1
+33	2181	99 Cỏ May Mắn	388	Gold	Treasure		33												1	1	1	1	1	1	1	1
+34	1929	Bạch Câu Hoàn	20000	Gold	Treasure		34													1	1	1	1	1	1	1
+35	1930	Đại Bạch Câu Hoàn	100000	Gold	Treasure		35												1	1	1	1	1	1	1	1
+36	1016	EXP Đồng Hành-Trung	5	Gold	Treasure		36													1	1	1	1	1	1	1
+37	1342	EXP Đồng Hành-Đại	50	Gold	Treasure		37													1	1	1	1	1	1	1
+38	2804	Hòa Thị Bích	20000	Gold	Treasure		38												1	1	1	1	1	1	1	1
+39	2396	Sách Tu Vi-Cao	20000	Gold	Treasure		39												1	1	1	1	1	1	1	1
+40	1970	Chiêu Thư Tống Kim	100000	Gold	Treasure		40												1	1	1	1	1	1	1	1
+41	3494	Tâm Ma Bảo Châu	100000	Gold	Treasure		41												1	1	1	1	1	1	1	1
+42	2840	Dạ Minh Châu	10000	Gold	Treasure		42												1	1	1	1	1	1	1	1
+1000	212	Thủy Tinh Trắng	5	Gold	Treasure		1	5	7	400										1	1	1	1	1	1	1
+1001	222	Thủy Tinh Lục	20	Gold	Treasure		2	5	7	100										1	1	1	1	1	1	1
+1002	223	Thủy Tinh Lam	80	Gold	Treasure		3	5	7	100										1	1	1	1	1	1	1
+1003	224	Thủy Tinh Tím	320	Gold	Treasure		4	5	7	100										1	1	1	1	1	1	1
+1004	225	Thủy Tinh Cam	1280	Gold	Treasure		5	5	7	50										1	1	1	1	1	1	1
+1005	227	Thủy Tinh Vàng	2560	Gold	Treasure		6	5	7	25										1	1	1	1	1	1	1
+1006	213	Khoáng Thạch Thần Bí-Vỡ	8	Gold	Treasure		7	5	7	20										1	1	1	1	1	1	1
+1007	214	Khoáng Thạch Thần Bí Lv2	45	Gold	Treasure		8	5	7	20										1	1	1	1	1	1	1
+1008	215	Khoáng Thạch Thần Bí Lv3	350	Gold	Treasure		9	5	7	10										1	1	1	1	1	1	1
+1009	1234	Hoa Hồng	6	Gold	Treasure		10	3	7	100										1	1	1	1	1	1	1
+1010	1235	Cỏ May Mắn	6	Gold	Treasure		11	3	7	100										1	1	1	1	1	1	1
+1011	6814	50000 Cống Hiến	20000	Gold	Treasure		12	4	7	20										1	1	1	1	1	1	1
+1012	6815	50000 Nguyên Khí	20000	Gold	Treasure		13	4	7	20										1	1	1	1	1	1	1
+1013	6151	Chân Khí Đơn (1000 điểm)	335	Gold	Treasure		14	5	7	100										1	1	1	1	1	1	1
+1014	6152	Chân Khí Đơn (5000 điểm)	1250	Gold	Treasure		15	5	7	60										1	1	1	1	1	1	1
+1015	7289	Yếu Quyển Tu Luyện Trận Pháp	10000	Gold	Treasure		16	7	7	10										1	1	1	1	1	1	1
+1016	9404	Rương Mảnh Tuyệt Học (Thường)	36000	Gold	Treasure		17	5	7	5										1	1	1	1	1	1	1
+1017	1393	Minh Chủ Lệnh	10000	Gold	Treasure		18	8	7	20									1	1	1	1	1	1	1	1
+1018	1394	Danh Tướng Lệnh	20000	Gold	Treasure		19	8	7	20									1	1	1	1	1	1	1	1
+1019	1395	Trục Lộc Lệnh	40000	Gold	Treasure		20	8	7	20									1	1	1	1	1	1	1	1
+1020	1396	Hoàng Đế Lệnh	80000	Gold	Treasure		21	8	7	10									1	1	1	1	1	1	1	1
+1021	1397	Truyền Thuyết Lệnh	450000	Gold	Treasure		22	8	7	5									1	1	1	1	1	1	1	1
+1022	1968	Tẩy Tủy Đơn	400	Gold	Treasure		23	5	7	1000									1	1	1	1	1	1	1	1
+1023	1969	Tư Chất Đơn	400	Gold	Treasure		24	5	7	1000									1	1	1	1	1	1	1	1
+1024	2804	Hòa Thị Bích	10000	Gold	Treasure		25	5	7	100									1	1	1	1	1	1	1	1
+1025	2167	Đá Hồn Lv2 Ngẫu Nhiên	10000	Gold	Treasure		26	8	7	50									1	1	1	1	1	1	1	1
+1026	2168	Đá Hồn Lv3 Ngẫu Nhiên	70000	Gold	Treasure		27	8	7	40									1	1	1	1	1	1	1	1
+1027	2169	Đá Hồn Lv4 Ngẫu Nhiên	200000	Gold	Treasure		28	8	7	10									1	1	1	1	1	1	1	1
+1028	9497	Túi Nguyên Liệu Gia Cụ Ngẫu Nhiên Lv1	10000	Gold	Treasure		29	8	7	20									1	1	1	1	1	1	1	1
+1029	9498	Túi Nguyên Liệu Gia Cụ Ngẫu Nhiên Lv2	20000	Gold	Treasure		30	8	7	20									1	1	1	1	1	1	1	1
+1030	9501	Túi Nguyên Liệu Gia Cụ Ngẫu Nhiên Lv3	30000	Gold	Treasure		31	8	7	20									1	1	1	1	1	1	1	1
+1031	9499	Túi Nguyên Liệu Gia Cụ Ngẫu Nhiên Lv4	40000	Gold	Treasure		32	8	7	20									1	1	1	1	1	1	1	1
+1032	9500	Túi Nguyên Liệu Gia Cụ Ngẫu Nhiên Lv5	50000	Gold	Treasure		33	8	7	10									1	1	1	1	1	1	1	1
+2000	4448	Ngoại Trang Thiên Vương T6-1	1490	SilverBoard	Dress	tabDressWaiyiShop	15													1	1	1	1	1	1	1
+2031	2667	Ngoại Trang	498	SilverBoard	Dress	tabDressWaiyiShop	29													1	1	1	1	1	1	1
+2032	2706	Ngoại Trang 2	1490	SilverBoard	Dress	tabDressWaiyiShop	28													1	1	1	1	1	1	1
+2033	3310	Ngoại Trang 3	1490	SilverBoard	Dress	tabDressWaiyiShop	27													1	1	1	1	1	1	1
+20310	7026	Ngoại Trang T6 (Tự Nhiên)-Đạo cụ quá độ	490	SilverBoard	Dress	tabDressHeadShop	1													1	1	1	1	1	1	1
+20311	6998	Ngoại Trang T1 (Nón)-Đạo cụ quá độ	198	SilverBoard	Dress	tabDressHeadShop	4													1	1	1	1	1	1	1
+20312	7003	Ngoại Trang T2 (Hoa)-Đạo cụ quá độ	490	SilverBoard	Dress	tabDressHeadShop	3													1	1	1	1	1	1	1
+20313	7011	Ngoại Trang T3 (Áo Năm Mới)-Đạo cụ quá độ	490	SilverBoard	Dress	tabDressHeadShop	2													1	1	1	1	1	1	1
+3001	4746	Ngoại Trang Vũ Khí Thiên Vương T1	2880	SilverBoard	Dress	tabDressWeaponShop	2													1	1	1	1	1	1	1
+3002	4747	Ngoại Trang Vũ Khí Nga Mi T1	2880	SilverBoard	Dress	tabDressWeaponShop	3													1	1	1	1	1	1	1
+3003	4748	Ngoại Trang Vũ Khí Đào Hoa T1	2880	SilverBoard	Dress	tabDressWeaponShop	4													1	1	1	1	1	1	1
+3004	4749	Ngoại Trang Vũ Khí Tiêu Dao T1	2880	SilverBoard	Dress	tabDressWeaponShop	5													1	1	1	1	1	1	1
+3005	4750	Ngoại Trang Vũ Khí Võ Đang T1	2880	SilverBoard	Dress	tabDressWeaponShop	6													1	1	1	1	1	1	1
+3006	4751	Ngoại Trang Vũ Khí Thiên Nhẫn T1	2880	SilverBoard	Dress	tabDressWeaponShop	7													1	1	1	1	1	1	1
+3007	4752	Ngoại Trang Vũ Khí Thiếu Lâm T1	2880	SilverBoard	Dress	tabDressWeaponShop	8													1	1	1	1	1	1	1
+3008	4753	Ngoại Trang Vũ Khí Thúy Yên T1	2880	SilverBoard	Dress	tabDressWeaponShop	9													1	1	1	1	1	1	1
+3009	4754	Ngoại Trang Vũ Khí Đường Môn T1	2880	SilverBoard	Dress	tabDressWeaponShop	10													1	1	1	1	1	1	1
+3010	4755	Ngoại Trang Vũ Khí Côn Lôn T1	2880	SilverBoard	Dress	tabDressWeaponShop	11													1	1	1	1	1	1	1
+3011	4756	Ngoại Trang Vũ Khí Cái Bang T1	2880	SilverBoard	Dress	tabDressWeaponShop	12													1	1	1	1	1	1	1
+3012	4757	Ngoại Trang Vũ Khí Ngũ Độc T1	2880	SilverBoard	Dress	tabDressWeaponShop	13													1	1	1	1	1	1	1
+3013	6206	Ngoại Trang Vũ Khí Tàng Kiếm T1	2880	SilverBoard	Dress	tabDressWeaponShop	14													1	1	1	1	1	1	1
+3014	6207	Ngoại Trang Vũ Khí Trường Ca T1	2880	SilverBoard	Dress	tabDressWeaponShop	15													1	1	1	1	1	1	1
+3015	6987	Ngoại Trang Vũ Khí Thiên Sơn T1	2880	SilverBoard	Dress	tabDressWeaponShop	16													1	1	1	1	1	1	1
+3016	7679	Ngoại Trang Vũ Khí Bá Đao T1	2880	SilverBoard	Dress	tabDressWeaponShop	17													1	1	1	1	1	1	1
+3017	8527	Ngoại Trang Vũ Khí Hoa Sơn T1	2880	SilverBoard	Dress	tabDressWeaponShop	18													1	1	1	1	1	1	1
+3018	10137	Ngoại Trang Vũ Khí Minh Giáo T1	2880	SilverBoard	Dress	tabDressWeaponShop	19													1	1	1	1	1	1	1
+3019	10600	Ngoại Trang Vũ Khí Đoàn Thị T1	2880	SilverBoard	Dress	tabDressWeaponShop	1													1	1	1	1	1	1	1
+4001	4587	Túi Linh Lung	380	SilverBoard	Dress	tabDressRareShop	1													1	1					
+4002	8367	Môn Khách Lệnh	388	SilverBoard	Dress	tabDressRareShop	2													1	1					
+4003	4588	Túi Ngọc Thố	760	SilverBoard	Dress	tabDressRareShop	3													1	1					
+5000	6155	Duyên Định Kim Sinh	3999	Gold	WeddingShop		1													1	1	1	1	1	1	1
+5001	5247	Pháo Hoa-Bách Niên Hảo Hợp	99	Gold	WeddingShop		3													1	1	1	1	1	1	1
+5002	5248	Pháo Hoa-Cát Tường Như Ý	99	Gold	WeddingShop		4													1	1	1	1	1	1	1
+5003	5249	Pháo Hoa-Cầu Hôn	99	Gold	WeddingShop		5													1	1	1	1	1	1	1
+5004	5250	Pháo Hoa-Song Hỷ Lâm Môn	99	Gold	WeddingShop		6													1	1	1	1	1	1	1
+5005	5251	Pháo Hoa-Tâm Tâm Tương Ấn	99	Gold	WeddingShop		7													1	1	1	1	1	1	1
+5006	6231	Tam Sinh Thạch	2999	Gold	WeddingShop		2													1	1	1	1	1	1	1

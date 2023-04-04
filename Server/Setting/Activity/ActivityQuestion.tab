@@ -1,0 +1,46 @@
+nId	nNpcTemplateId	nMapTemplateId	szTitle	nAnswerId	szA1	szA2	szA3	szA4
+1	620	10	Trong võ lâm thứ dùng để phán đoán「Lực chiến」cao thấp là gì?	1	Quân Hàm	Chiêu thức	Võ công	Nội lực
+2	620	10	Tác dụng của「Bỏ qua né tránh」là gì?	3	Khiến đối phương không thể né tránh!	Dù né tránh cũng gây sát thương	Giảm tỉ lệ né tránh mục tiêu	Né tránh tăng sát thương
+3	620	10	Cách giảm sát thương「thuộc tính Hỏa」phải chịu?	2	Tăng Kháng Thủy	Tăng Kháng Hỏa	Tăng Kháng Phong	Tăng Kháng Thổ
+4	630	10	Tăng [FFFE0D]Sức mạnh[-] sẽ tăng khả năng nào của nhân vật?	1	Tấn công	Sinh lực	Tấn công cận chiến	Hồi phục sinh lực
+5	630	10	Tăng [FFFE0D]Nhanh nhẹn[-] sẽ tăng khả năng nào của nhân vật?	2	Chính Xác và Bạo Kích	Né Tránh và Kháng Tất Cả	Tấn công tầm xa và Bạo Kích	Tốc đánh và di chuyển
+6	630	10	Tăng [FFFE0D]Linh hoạt[-] sẽ tăng khả năng nào của nhân vật?	3	Tốc đánh và di chuyển	Tấn công tầm xa và Chính Xác	Chính Xác và Bạo Kích	Né Tránh và Bạo Kích
+7	630	10	Tăng [FFFE0D]Thể chất[-] sẽ tăng khả năng nào của nhân vật?	4	Hồi phục sinh lực	Phòng thủ	Kháng tính	Sinh lực
+8	630	10	Muốn giảm sát thương phải chịu nên tăng thuộc tính nào?	3	Sinh lực	Hồi phục sinh lực	Kháng tính	Phòng thủ
+9	622	10	Ai trong số dưới đây không thuộc thế lực「Thống Lĩnh Tam Minh」?	1	Thiên Cơ Phường	Tàng Kiếm Sơn Trang	Phi Long Bảo	Bi Ma Sơn Trang
+10	622	10	Chức vị của Cao Trường Cung là gì?	4	Tu La Vương	Tư Thông Vương	Vua Hải Tặc	Lan Lăng Vương
+11	622	10	Cốc chủ Dược Vương Cốc họ gì?	4	Lý	Vương	Lưu	Hồ
+12	622	10	「Thiên Hạ Đệ Nhất Võ Kinh」là gì?	2	Quỳ Hoa Bảo Điển	Võ Đạo Đức Kinh	Cửu Dương Thần Công	Quy Ba Khí Công
+13	622	10	Trang Chủ Tàng Kiếm Sơn Trang tên gì?	3	Diệp Mạnh Thu	Mạnh Tri Thu	Trác Phi Phàm	Diệp Anh
+14	622	10	Tên của chủ nhân Bi Ma Sơn Trang?	4	Trác Phi Phàm	Độc Cô Kiếm	Dương Hi Liệt	Dương Ảnh Phong
+15	622	10	Chủ nhân của Phi Long Bảo là ai?	1	Nguyệt My Nhi	Thượng Quan Phi Long	Nạp Lan Tiềm Lẫm	Thiên Tinh Đạo Trưởng
+16	622	10	Thiên Vương Bang là do ai sáng lập?	1	Dương Nghiệp	Hạng Vũ	Triệu Vân	Địch Thanh
+17	629	10	Vị nào dưới đây là Đồng Hành?	1	Dương Ảnh Phong	Hiệp Sĩ Nhện	Thần Long Đại Hiệp	Tiểu Phi Hiệp
+18	629	10	Ai trong số dưới đây là Minh Chủ Võ Lâm?	3	Dương Hi Liệt	Thượng Quan Phi Long	Độc Cô Kiếm	Trác Phi Phàm
+19	629	10	Người nào sau đây là Đồng Hành Cấp SS trong game	2	Nạp Lan Chân	Dương Ảnh Phong	Mạnh Tri Thu	Nạp Lan Tiềm Lẫm
+20	623	10	Muốn tham gia hoạt động các hệ thống nên 	1	Mở giao diện Hoạt động	Mở giao diện Hành Trang	Mở giao diện Đồng Hành	Hạ người chơi
+21	623	10	Cách thiết lập hình đại diện?	4	Giao diện Hành Trang	Giao diện Đồng Hành	Giao diện Cộng Đồng	Hình đại diện góc trên bên trái
+22	623	10	Ở đâu có thể xem thành tựu cá nhân?	2	Giao diện Hành Trang	Hình đại diện góc trên bên trái	Giao diện Cộng Đồng	Giao diện bảng xếp hạng
+23	100	10	Bao nhiêu Đá Hồn cùng loại có thể ghép Đá Hồn cấp kế?	3	1	2	3	4
+24	100	10	Đá Hồn tối đa có thể ghép mấy lần?	2	1	2	3	4
+25	97	10	Lửa Trại Bang Hội mấy giờ mở?	2	18:15	19:15	20:15	21:15
+26	97	10	Lửa Trại Bang Hội tối đa được uống rượu mấy lần?	2	9	10	11	12
+27	97	10	Trong Lửa Trại Bang Hội, uống rượu tối đa nhận được bao nhiêu EXP cộng thêm?	2	150%	200%	250%	300%
+28	88	10	Nhiệm vụ Trừng Ác sẽ xuất hiện ở bản đồ cấp nào?	2	Lv10	Lv20	Lv30	Lv40
+29	88	10	Màu danh hiệu trên đỉnh đầu đạo tặc trong nhiệm vụ Trừng Ác càng cao càng hiếm, bên dưới đặc trưng nào [FFFE0D]không phải[-] Trừng Ác hiếm?	3	Cống hiến nhiều hơn	Tỉ lệ rơi trang bị cao hơn	Trốn chạy dễ dàng hơn	Nhiều sinh lực hơn
+40	88	10	Bản đồ nào sau đây không thể xuất hiện Đặo Tặc Trừng Ác	3	Bờ Hồ Động Đình-Lv20	Miêu Lĩnh-Lv20	Tỏa Vân Uyên-Lv10	Điểm Thương Sơn-Lv20
+30	626	10	Góp Bang Hội [FFFE0D]có lợi ích gì[-]?	2	Nhận Bạc và Cống hiến	Nhận cống hiến và quỹ Bang Hội	Nhận quỹ Bang Hội và Vàng	Nhận điểm kỹ năng và tăng cấp Bang Hội
+31	626	10	Mục nào bên dưới [FFFE0D]không phải[-] lợi ích vào Bang Hội	4	Mua Hộp quà	Mua Đồ Cổ	Mua trang bị	Mua Gia Viên
+32	624	10	Cách tìm「Động Thần Bí」?	3	Ải	Do thám-	Tàng Bảo Đồ	Lăng Tuyệt Phong
+33	624	10	Cách nói nào dưới đây là  [FFFE0D]sai[-] khi nói về lời mời trong「Động Thần Bí」?	2	Thông qua dễ dàng hơn	Sẽ giảm phần thưởng	Có thể kết giao hảo hữu	Tăng thân mật hảo hữu
+34	91	10	Phẩm chấp trang bị/Đạo cụ trong game được phân chia [FFFE0D]từ cao đến thấp[-] là	1	Cam>Hồng>Tím>Lam>Lục>Trắng	Tím>Cam>Hồng>Lam>Lục>Trắng	Hồng>Cam>Tím>Lam>Lục>Trắng	Cam>Tím>Hồng>Lam>Lục>Trắng
+35	91	10	Khi nhận 1 trang bị cùng bậc với trang bị trên người nên làm thế nào?	3	Bán Cho Thương Nhân	Cường hóa	Tẩy luyện	Tách
+36	633	10	Khiêu chiến Võ Thần Điện được mang theo bao nhiêu đồng hành?	4	1	2	3	4
+37	633	10	Võ Thần Điện mỗi ngày phát thưởng lúc nào?	2	21:00	22:00	23:00	0:00
+38	633	10	Cách một khoảng thời gian Võ Thần Điện sẽ hồi phục 1 lần	3	2 giờ	3 giờ	4 giờ 	5 giờ 
+39	632	10	Bản đồ cấp bao nhiêu sẽ xuất hiện quái thủ lĩnh?	2	Lv10	Lv20	Lv30	Lv40
+41	625	10	Cấp bao nhiêu bắt đầu tham gia Bí Cảnh Tổ Đội?	1	Lv15	Lv20	Lv25	Lv30
+42	625	10	Bí Cảnh Tổ Đội mỗi ngày có thể khiêu chiến mấy lần?	2	1 lần	2 lần	3 lần	4 lần
+43	627	10	Khiêu chiến Minh Chủ Võ Lâm mở vào thời gian nào?	4	11:00-11:30	11:30-12:00	12:00-12:30	12:30-13:00
+44	627	10	Khiêu chiến Minh Chủ Võ Lâm mở vào thời gian nào?	3	18:30-19:00	19:00-19:30	19:30-20:00	20:00-20:30
+45	627	10	Nhiệm vụ Thương Hội [FFFE0D]tối thiểu[-] cần thu thập bao nhiêu vật phẩm mới được trả?	2	5 vật phẩm	6 vật phẩm	7 vật phẩm	8 vật phẩm

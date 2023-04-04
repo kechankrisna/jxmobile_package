@@ -1,0 +1,24 @@
+GuideId	SaveId	CheckAchievement	FightLimit	StartCheck	Param	FinishTask	Desc	Level
+1	1			CheckLevel	4		Giao diện chính-Kỹ Năng	Lv4
+2	2			CheckLevel	5		Giao diện chính-Thưởng Đăng Nhập	Lv5
+4	4			CheckLevel	8		Giao diện chính-Phúc Lợi	Lv8-Điểm danh
+3	3			CheckLevel	9		Giao diện chính-Đồng Hành	Lv9
+5	5			CheckLevel	10		Giao diện chính-Hảo Hữu	Lv10
+6	6			CheckLevel	11		Giao diện chính-Bang Hội	Lv11
+7	7			CheckGuide	6		Giao diện chính-Đấu Giá	Lv11
+8	8			CheckLevel	13		Giao diện chính-Hoạt Động	Lv13-Lửa Trại Bang Hội
+9	9			CheckLevel	14		Giao diện chính-Kỳ Trân Các	Lv14
+10	10			CheckLevel	15		Giao diện chính-Mạnh Hơn	Lv15
+11	11			CheckLevel	19		Giao diện chính-Bảng Xếp Hạng	Lv17
+12	12			CheckLevel	18		Giao diện chính-Quân Hàm	Lv18
+13	13			CheckLevel	20		Giao diện chính-Bày Bán	Lv20
+42	42			EnterMap	SkillGuide|1		Hướng dẫn kỹ năng	
+43	43			EnterMap	SkillGuide|2		Hướng dẫn kỹ năng	
+44	44			EnterMap	SkillGuide|3		Hướng dẫn kỹ năng	
+45	45			EnterMap	SkillGuide|4		Hướng dẫn kỹ năng	
+46	46						Giao diện đồ giám hướng dẫn Môn Khách	
+47	47						Giao diện Môn Khách hướng dẫn	
+48	48						Hướng dẫn dùng hành trang ngoại trang	
+49	49						Hướng dẫn mở tủ sưu tập ngoại trang	
+50	50						Hướng dẫn chọn màu ngoại trang	
+51	51						Hướng dẫn giao diện rương đao cụ	

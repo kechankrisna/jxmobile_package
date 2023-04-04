@@ -1,0 +1,39 @@
+FileType	FilePath	Remark
+2	Setting/Item/Equip/Weapon.tab	Vũ Khí
+2	Setting/Item/Equip/Armor.tab	Áo
+2	Setting/Item/Equip/Amulet.tab	Hộ Thân Phù
+2	Setting/Item/Equip/Belt.tab	Đai
+2	Setting/Item/Equip/Boots.tab	Giày
+2	Setting/Item/Equip/Cuff.tab	Hộ Uyển
+2	Setting/Item/Equip/Helm.tab	Nón
+2	Setting/Item/Equip/Necklace.tab	Dây Chuyền
+2	Setting/Item/Equip/Pendant.tab	Bội
+2	Setting/Item/Equip/Ring.tab	Nhẫn
+2	Setting/Item/Equip/WaiYi.tab	Ngoại Trang
+2	Setting/Item/Equip/WeaponShow.tab	Ng.Trang Vũ Khí
+1	Setting/Item/Other/ScriptItem.tab	Đạo cụ Script
+1	Setting/Item/Other/EnhanceItem.tab	Đạo cụ cường hóa
+1	Setting/Item/Other/Stone_piece.tab	Mảnh Đá Quý
+1	Setting/Item/Other/Stone_item.tab	Khảm Bảo Thạch
+1	Setting/Item/Other/Partner_equip.tab	Trang bị Đồng Hành
+1	Setting/Item/Other/Partner_piece.tab	Mảnh Đồng Hành
+1	Setting/Item/Other/UnidentifyItem.tab	Đạo cụ chưa giám định
+1	Setting/Item/Other/EnchantItem.tab	Phụ Ma Thạch-Đạo Cụ
+3	Setting/Item/Equip/Horse.tab	Thú Cưỡi
+1	Setting/Item/Other/PartnerWeapon.tab	Vũ khí bổn mạng đồng hành
+1	Setting/Item/Other/PartnerSkillBook.tab	Sách Đồng Hành
+1	Setting/Item/Other/Equip_piece.tab	Mảnh Trang Bị
+1	Setting/Item/Other/PartnerItem.tab	Đạo cụ Đồng Hành
+2	Setting/Item/Equip/SkillBook.tab	Bí Kíp
+2	Setting/Item/Equip/HorseEquip.tab	T.Bị Thú cưỡi
+1	Setting/Item/Other/FurnitureItem.tab	Đồ dùng
+2	Setting/Item/Equip/HorseShow.tab	Ngoại trang
+2	Setting/Item/Equip/ZhenYuan.tab	Chân Nguyên
+2	Setting/Item/Equip/HelmShow.tab	Ngoại Trang-Đầu
+2	Setting/Item/Equip/BackShow.tab	Ngoại Trang Bối Sức
+1	Setting/Item/ZhenFa/JueYao.tab	Yếu Quyết
+1	Setting/Item/Other/Inscription.tab	Minh Văn
+2	Setting/Item/JueXue/JueXueMiJi.tab	Tuyệt Học
+1	Setting/Item/Other/GuestItem.tab	Đạo cụ Môn Khách
+2	Setting/Item/Equip/SeriesStone.tab	Đá Ngũ Hành
+1	Setting/Item/Other/RefineStone.tab	洗练符

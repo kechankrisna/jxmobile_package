@@ -1,0 +1,2098 @@
+MissileId	MissileName	MoveKind	Speed	DmgRangeType	DmgRange	DmgRangeY	IgnoreDmgRange	DmgInterval	LifeTime	DelayDeleteFrame	IsDmgVanish	CanRepeatDmg	MissileResID	CollResID	DmgRangeSpeed	IsDrag	PosOffsetLenght	IsNoChangeDir	MissRate	CollSoundID	FlySoundID	VanishSoundID	ColFollowTarget	AcceSpeed	CollBrigth	CollBrigthFrame	IsIgnoreBarrier	AutoExplode	VanishResID	MissileHeight	HeightSpeed	EnemyResID	IsRepresent	IsChildInheritDir	MissileParam1	MissileParam2	MissileParam3	MissileParam1Des	MissileParam2Des	MissileParam3Des	IsChildInheritPowerAdd	IsNotHeightSpeed	InheritPos	IsHitFloat
+1		0	0	0	2				50		1			3024																														
+2		2	40	0	2				30				4	3024																														
+3		2	40	0	2				30				10	3024																														
+4		0	0	0	2				50				11	3024																														
+5		0	0	0	32				50				13																															
+11		0	0	0	2				50				4	3024																														
+12		0	0	0	32				50				11	3024																														
+17	Thử Nhảy Lắc Trước Lắc Sau_Phụ	0	0	0	32				50					3024																														
+18	Báo Động Đỏ_Phụ 2	0	0	1	11				2					3024																														
+19	Báo Động Đỏ	0	0	1	11				60				17																															
+20	Báo Động Đỏ_Phụ 1	0	0	1	11				60				18																															
+21	npc-Đánh đơn cận chiến1	0	0	0	1				3					3021													1																	
+22	npc-Đánh đơn cận chiến 2_Trảo	0	0	0	1				3					3022																														
+23	npc-Đánh nhóm cận chiến_Bán Nguyệt Kim	0	0	1	3				5					3021																														
+24	npc-Đánh nhóm cận chiến 1_Kim	0	0	0	9				25				24				120																											
+25	npc-Đánh nhóm cận chiến 1_Thủy	0	0	0	9				25				25				120																											
+26	npc-Đánh nhóm cận chiến 1_Hỏa	0	0	0	9				25				26				120																											
+27	npc-Đánh nhóm cận chiến 1_Mộc	0	0	0	9				25				27				120																											
+28	Nhóm Quanh Mình 1_Kim	0	0	1	20				25				18																															
+29	Nhóm Quanh Mình 2_Thủy	0	0	1	20				25				1554																															
+30	Nhóm Quanh Mình 3_Hỏa	0	0	1	20				25				1808																															
+31	Nhóm Quanh Mình 4_Mộc	0	0	1	20				25				2445																															
+32	npc-Đánh đơn chỉ định tầm xa 1_Kim	0	0	1	3				10				32	3024																														
+33	npc-Đánh đơn chỉ định tầm xa 1_Thủy	0	0	1	3				10				33	3025																														
+34	npc-Đánh đơn chỉ định tầm xa 1_Hỏa	0	0	1	3				10				34	3026																														
+35	npc-Đánh đơn chỉ định tầm xa 1_Mộc	0	0	1	3				10				35	3027																														
+36	npc tầm xa	1	50	0	1				15				36	3024																														
+37	npc-Đánh đơn thẳng tầm xa_Thủy	1	90	0	5				6				37	3025										30																				
+38	npc-Xuyên thấu thẳng tầm xa_Kim	1	90	0	3				8				38	3024										10																				
+39	npc-Xuyên thấu thẳng tầm xa_Thủy	1	90	0	3				8				39	3025										10																				
+40	npc-Xuyên thấu thẳng tầm xa_Hỏa	1	90	0	3				8				40	3026										10			1																	
+41	npc-Xuyên thấu thẳng tầm xa_Mộc	1	90	0	3				8				41	3027										10																				
+42	npc-Đánh nhóm chỉ định tầm xa 1_Địa	0	0	1	15				30				24																															
+43	npc-Đánh nhóm chỉ định tầm xa 1_Thủy	0	0	1	15				30				25																															
+44	npc-Đánh nhóm chỉ định tầm xa 1_Hỏa	0	0	1	15				30				26																															
+45	npc-Đánh nhóm chỉ định tầm xa 1_Phong	0	0	1	15				30				27																															
+46	npc-Khống chế đơn tầm xa 1_Kim	0	0	0	1				20					3024																														
+47	npc-Khống chế đơn tầm xa 1_Thủy	0	0	0	1				20					3025																														
+48	npc-Khống chế đơn tầm xa 1_Hỏa	0	0	0	1				20					3026																														
+49	npc-Khống chế đơn tầm xa 1_Mộc	0	0	0	1				20					3027																														
+50	npc-Khống chế nhóm tầm xa 1_Địa	0	0	1	10				30				50																															
+51	npc-Khống chế nhóm tầm xa 1_Thủy	0	0	1	10				30				51																															
+52	npc-Khống chế nhóm tầm xa 1_Hỏa	0	0	1	10				30				52																															
+53	npc-Khống chế nhóm tầm xa 1_Phong	0	0	1	10				30				53																															
+54	npc-Cầu sáng thẳng tầm xa_Kim	1	60	0	3				11		1		54	3024										5																				
+55	npc-Cầu sáng thẳng tầm xa_Thủy	1	60	0	3				11		1		55	3025										5																				
+56	npc-Cầu sáng thẳng tầm xa_Hỏa	1	60	0	3				11		1		56	3026			50							5																				
+57	npc-Cầu sáng thẳng tầm xa_Mộc	1	60	0	3				11		1		57	3027										5																				
+59	npc-Đánh nhóm cận chiến 1_Phong	0	0	0	9				25				6059				120																											
+60	npc-Đánh nhóm cận chiến 1_Sát thương Phong	0	0	0	9				3					3059			120																											
+61	Sát Thương Nhóm Xung Quanh 5_Thổ	0	0	1	20				25				4375																															
+62	Sát Thương Nhóm Xung Quanh 5_Sát thương Thổ	0	0	1	20				3					3059																														
+63	npc-Đánh nhóm chỉ định tầm xa 1_Thổ	0	0	1	15				30				1375																															
+64	npc-Đánh nhóm chỉ định tầm xa 1_Sát thương Thổ	0	0	1	15				3					3059																														
+65	npc-Khống chế đơn tầm xa 1_Thổ	0	0	0	1				20				1375	3059																														
+66	npc-Khống chế nhóm tầm xa 1_Thổ	0	0	1	10				30				4375																															
+67	npc-Khống chế nhóm tầm xa 1_Sát thương Thổ	0	0	1	10				3					3024																														
+68	npc-Đánh đơn chỉ định tầm xa 1_Thổ	0	0	1	3				10				3068	3025																														
+69	npc-Xuyên thấu thẳng tầm xa_Thổ	1	90	0	3				8				69	3025									10																					
+70	npc-Đánh nhóm cận chiến 1_Sát thương Kim	0	0	0	9				3					3024			120																											
+71	npc-Đánh nhóm cận chiến 1_Sát thương Thủy	0	0	0	9				3					3025			120																											
+72	npc-Đánh nhóm cận chiến 1_Sát thương Hỏa	0	0	0	9				3					3026			120																											
+73	npc-Đánh nhóm cận chiến 1_Sát thương Mộc	0	0	0	9				3					3027			120																											
+74	npc-Đánh nhóm cận chiến 2_Sát thương Địa	0	0	1	20				3					3024																														
+75	npc-Đánh nhóm cận chiến 2_Sát thương Thủy	0	0	1	20				3					3025																														
+76	npc-Đánh nhóm cận chiến 2_Sát thương Hỏa	0	0	1	20				3					3026																														
+77	npc-Đánh nhóm cận chiến 2_Sát thương Phong	0	0	1	20				3					3027																														
+78	npc-Đánh nhóm chỉ định tầm xa 1_Sát thương Địa	0	0	1	15				3					3024																														
+79	npc-Đánh nhóm chỉ định tầm xa 1_Sát thương Thủy	0	0	1	15				3					3025																														
+80	npc-Đánh nhóm chỉ định tầm xa 1_Sát thương Hỏa	0	0	1	15				3					3026																														
+81	npc-Đánh nhóm chỉ định tầm xa 1_Sát thương Phong	0	0	1	15				3					3027																														
+86	npc-Khống chế nhóm tầm xa 1_Sát thương Địa	0	0	1	10				3					3024																														
+87	npc-Khống chế nhóm tầm xa 1_Sát thương Thủy	0	0	1	10				3					3025																														
+88	npc-Khống chế nhóm tầm xa 1_Sát thương Hỏa	0	0	1	10				3					3026																														
+89	npc-Khống chế nhóm tầm xa 1_Sát thương Phong	0	0	1	10				3					3027																														
+90	Khô Lâu Vương Đao Quang	0	0	0	18				5					3026			250			15090					1000	3	1																	
+92	Khô Lâu Vương Xung Kích	1	100	0	8				30					3026			100										1																	
+93	Khô Lâu Vương Giảo Sát	0	0	1	34				45				92				0																											
+94	Khô Lâu Vương Giảo Sát_Phụ	0	0	1	34				3					3026			0																											
+95	Báo động đỏ thường_Bán kính 4,5m	0	0	1	34				38				95														1																	
+96	Báo động đỏ thường_Chữ nhật 8x4,5m	0	0	0	11				30				96														1																	
+97	Báo động đỏ thường_Hình quạt 90 độ 3m	0	0	0	11				30				97														1																	
+101	Thử Nghiệm-Đánh Bay	0	0	0	8				3					3024			100								1000	3																		
+102	Thử Nghiệm-Tử Vong Đặc Biệt-Đóng Băng	0	0	0	8				3					3024			100								1000	3																		
+103	Khô Lâu Vương Xung Kích_Hiệu quả	0	0	0	8			15	30				92				100										1																	
+106	npc-Cầu sáng thẳng tầm xa_Thổ	1	60	0	3				11		1		106	3024										5																				
+110	Đao Kích	0	0	0	8				3					3024			100						1		1000	3	1																	
+111	Man Hoành Bá Đạo_Sát thương	1	140	0	12				6					3027			110										0																	
+112	Man Hoành Bá Đạo_Hiệu quả	0	0	0	6				30				18				0										1																	
+113	Thần Lực	0	0	0	20				5					3027											1000	3																		
+115	Vạn Tượng Thiên Dẫn	0	0	0	30				3		1																																	
+116	Vạn Tượng Thiên Dẫn_Phụ	0	0	0	30				2		1			3024											1000	3																		
+117	Kiếm Kích	0	0	0	14				3					3024			150								1000	3	1																	
+118	Xà Hạc Quyền	0	0	0	30				3		1																																	
+119	Cuồng Kiếm Quyết	0		0	6				4				119				500										1																	
+120	Cuồng Kiếm Quyết_Phụ 1	1	100	0	6				5				119				-500							10			1																	
+121	Cuồng Kiếm Quyết_Phụ 2	0	0	0	28				3					3024													1																	
+122	Kim Xà Kiếm Pháp	0	0	0	14				20				122				250										1																	
+123	Kim Xà Kiếm Pháp_Phụ 1	0	0	0	14				20				123				250										1																	
+124	Kim Xà Kiếm Pháp_Phụ 2 	0	0	0	14				20				124				250										1																	
+126	Thần Hành Bách Biến_Phụ 1	1	120	0	8				6				126														1																	
+127	Thần Hành Bách Biến_Phụ 2	0	0	0	0				25				6508																															
+129	Tiễn Thuật	1	100	1	5				10				129	3403										30			1																	
+130	Tiễn Vô Hư Phát	2	50	1	3				30		1		130	4130			100																											
+131	Tiễn Vô Hư Phát_Phụ	0	0	1	20				3					3401			100								1000	3	1																	
+132	Liên Hoàn Tiễn	1	100	1	5			1	12		1		132	3401																														
+133	Thiết Kỵ Đột Tập	1	100	1	4				30				132	3403			100										1																	
+134	Vạn Tiễn Tề Phát	0	0	1	60				3																		1																	
+135	Vạn Tiễn Tề Phát_Phụ	0	0	1	6			6	25				135	3401				1							1000	3	1																	
+136	Phần Tinh Lạc Vũ	1	60	0	3				15			1					-100																											
+137	Phần Tinh Lạc Vũ_Phụ 1	1	20	0	3				10			1																																
+138	Phần Tinh Lạc Vũ_Phụ 2	0	0	0	10				25				138																															
+139	Phần Tinh Lạc Vũ_Phụ 3	0	0	0	6				150		1		139																															
+140	Thương Pháp	0	0	0	9				6					3501			120								1000	3	1																	
+141	Sa Thải	1	60	1	5				10				401											30			1																	
+142	Hoành Tảo Thiên Quân	0	0	0	20				5					3027											1000	3																		
+144	Quán Nhật Thương_Phụ	1	120	0	6				6					3027			110								1000	3	0																	
+146	Cắn xé	0	0	0	5				3					146											1000	3																		
+147	Tiềm Thổ Đột Thích	0	0	1	10				10					3401											1000	3																		
+148	Lang Vương Địa Liệt	1	180	1	5				3															30			1																	
+150	Xé Toạc_Phụ 1	0	0	0	5				2		1			3022																														
+151	Xé Toạc_Phụ 2	0	0	0	0				25				6508																															
+152	Tiềm Thổ Đột Thích_Hiệu quả	0	0	0	3				30				1827														1																	
+153	Giác Kích	0	0	0	5				10					342												3																		
+154	Xoáy Nước	0	0	1	20			15	61			1	154	3025		1										3																		
+156	Hàn Băng Xung Đỉnh_Phụ	0	0	1	16				3					342			50									3	1																	
+157	Cắn xé	0	0	0	5				10					146												3																		
+160	Vẫy Đuôi	1	60	1	7				20				160	3027			80							10			1																	
+162	Phong Nhẫn Vũ	0	0	1	25				5					3027												3																		
+163	Ảnh Phong Trảm	1	60	1	5				20				163														1																	
+164	Long Quyển Hô Khiếu	1	30	1	5				60				62				80										1																	
+165	Thiên Hỏa Liệt Trảo	0	0	0	9				6					165			120									3	1																	
+166	NPC-Đánh đơn cận chiến 3_Đao Quang Kim	0	0	0	1				3					166																														
+167	NPC-Đánh đơn cận chiến 3_Đao Quang Thủy	0	0	0	1				3					167																														
+168	NPC-Đánh đơn cận chiến 3_Đao Quang Hỏa	0	0	0	1				3					168																														
+169	NPC-Đánh đơn cận chiến 3_Đao Quang Mộc	0	0	0	1				3					169																														
+170	NPC-Đánh đơn cận chiến 3_Đao Quang Thổ	0	0	0	1				3					170																														
+171	Lang Vương Địa Liệt_Hiệu quả	0	0	0	6				30				148				250										1																	
+172	Ảnh Phong Trảm_Phụ 1	1	60	0	8				20																		1																	
+173	Ảnh Phong Trảm_Phụ 2	0	0	1	5				20				173														1																	
+174	npc-Đánh đơn cận chiến_Địa	0	0	0	1				3					3024																														
+175	npc-Đánh đơn cận chiến_Thủy	0	0	0	1				3					3025																														
+176	npc-Đánh đơn cận chiến_Hỏa	0	0	0	1				3					3026																														
+177	npc-Đánh đơn cận chiến_Phong	0	0	0	1				3					3027																														
+178	Quần Thể Đao Trọng Kích	0	0	1	10				20				178				0																											
+179	Quần Thể Đao Trọng Kích_Phụ	0	0	1	10				3								0																											
+180	Quần Thể Trọng Kích	0	0	1	10				3					180																														
+181	Tự Nổ	0	0	1	8				3																																			
+182	Cung Tên	1	120	0	3				9				182	3401										10			1																	
+183	Phần Tinh Lạc Vũ_Phụ 4	0	0	0	10				25				4139																															
+184	Phần Tinh Lạc Vũ_Phụ 5	0	0	0	10				3																																			
+187	Liệt Diệm Bôn Tập_Sát thương	1	140	0	12				6					3026			110										0																	
+188	Liệt Diệm Bôn Tập_Hiệu quả	0	0	0	6				20				52				0										1																	
+196	Giao Thoa Đao Quang_Kim	1	70	0	5				14				196	166													1																	
+201	Thiên Vương Chùy Pháp	0	0	0	13				3					3024			126			6201					1000	3	1																	
+202	Thiên Vương Chùy Pháp 2	0	0	0	13				3					3024			126			6201					1000	3	1																	
+203	Thiên Vương Chùy Pháp 3	0	0	0	13				3					3024			126			6201					1000	3	1																	
+204	Thiên Vương Chùy Pháp 4	0	0	0	13				3					3024			126			6201					1000	3	1																	
+207	Nhất Kích Sát Thần_Phụ	0	0	0	14				3					3024											1000	3	1																	
+208	Bá Vương Nộ Hống	0	0	1	26				3					3024											1000	3	1																	
+211	Huyết Chiến Bát Phương_Phụ 1	0	0	1	20				3					3024											1000	3	1																	
+214	Nhật Nguyệt Sơn Hà Toái	0	0	0	32				70					3024													1						1											
+215	Nhật Nguyệt Sơn Hà Toái_Phụ	0	0	0	64				50		1			3024											1000	3	1																	
+223	Khí Cái Bát Hoang_Phụ	0	0	0	2				3		1			3024																														
+246	Khí Cái Bát Hoang	0	0	0	64				2																																			
+247	Khí Cái Bát Hoang_Đồng đội	0	0	0	64				2																																			
+251	Lực Bạt Sơn Hà	0	0	0	30				3		1																																	
+252	Lực Bạt Sơn Hà_Phụ	0	0	0	30				2		1			3024											1000	3																		
+261	Thiếu Lâm Côn Pháp	0	0	0	13				3					3261			126			5805					1000	3	1																	
+262	Thiếu Lâm Côn Pháp 2	0	0	0	13				3					3261			126			5805					1000	3	1																	
+263	Thiếu Lâm Côn Pháp 3	0	0	1	26				3					3263						5805					1000	3	1																	
+264	Thiếu Lâm Côn Pháp 4	0	0	1	26				3					3263						5805					1000	3	1																	
+266	Hàng Long Côn	1	750	0	13				2					3024	1										1000	3	1																	
+268	Đại Lực Kim Cang Chỉ	0	0	0	13				5					3268											1000	3	1																	
+272	Thập Nhị Cầm Long Thủ	0	0	1	26				3					3024											1000	3	1																	
+274	La Hán Trận_Phụ	0	0	1	20				3	12			275	3024						5810					1000	3	1																	
+283	Nhật Nguyệt Sơn Hà Toái	0	0	0	32				70					3024													1						1											
+284	Nhật Nguyệt Sơn Hà Toái_Phụ	0	0	0	64				50		1			3024											1000	3	1																	
+286	Hàng Long Côn-Hiệu Ứng 1	0	0	0	5				30				286				50										1						1											
+287	Hàng Long Côn-Hiệu Ứng 2	0	0	0	5				30				287				250										1						1											
+288	Hàng Long Côn-Hiệu Ứng 3	0	0	0	5				30				288				500										1						1											
+290	Kim Cang Nộ Mục_Hiệu ứng	0	0	1	20				30				281														1																	
+297	Bí kíp Thập Nhị Cầm Long Thủ_Phụ	0	0	1	26				3					3024													1																	
+299	La Hán Kim Thân_Phụ	2	200	1	5				2		1																																	
+301	Nga Mi Kiếm Pháp	1	120	0	10				5				3301	341						5305				10	1000	3	1																	
+302	Nga Mi Kiếm Pháp 2	1	120	0	10				5				3302	341						5305				10	1000	3	1																	
+303	Nga Mi Kiếm Pháp 3	1	120	0	10				5				3303	342						5305				10	1000	3	1																	
+304	Nga Mi Kiếm Pháp 4	1	120	0	10				5				3304	342						5305				10	1000	3	1																	
+305	Nga Mi Kiếm Pháp 4_Phụ	1	120	0	10				5				3304											10			1																	
+306	Từ Hàng Phổ Độ	2	250	1	8				75				306														1																	1
+307	Từ Hàng Phổ Độ_Hiệu quả	0	0	1	8				3		1																1																	1
+308	Bạch Lộ Ngưng Sương	2	60	1	5				30			1	308	3308			150			5309					1000	3	1																	
+310	Giang Hải Ngưng Ba	1	90	1	14				10				310				280										1						1											
+311	Giang Hải Ngưng Ba_Phụ	1	90	1	14				10					3025			80			5311					1000	3	1																	
+312	Thiên Vũ Bảo Luân	0	0	1	26			15	90			1	313	3312													1					6312												
+313	Thiên Vũ Bảo Luân_Phụ 1	0	0	1	26				3					3313						5313					1000	3	1																	
+319	Miên Lý Tàng Châm_Phụ 2	0	0	1	20				3					3025													1																	
+321	Huyền Băng Vô Tức_Phụ	0	0	1	12				3					3025													1																	
+322	Huyền Băng Vô Tức_Hiệu ứng	0	0	1	12				15				1837														1																	
+324	Kiếm Pháp-Cao_Sát thương	1	120	0	10				5					342						5305				10	1000	3	1																	
+326	Hủy bỏ	0	0	0	1				2																																			
+327	Lục Đạo Luân Hồi_Phụ 2	0	0	0	1				2																																			
+336	Lục Đạo Luân Hồi_Suy yếu	0	0	0	1				2																																			
+337	Lục Đạo Luân Hồi_Hỗn loạn	0	0	0	1				2																																			
+338	Lục Đạo Luân Hồi_Bất lực	0	0	0	1				2																																			
+339	Lục Đạo Luân Hồi_Làm Chậm	0	0	0	1				2																																			
+340	Lục Đạo Luân Hồi_Đóng Băng	0	0	0	1				2																																			
+341	Phật Tâm Từ Hựu	0	0	0	64				2																																			
+342	Phật Tâm Từ Hựu_Đồng đội	0	0	0	64				2																																			
+345	Hủy bỏ	0	0	0	64				2																																			
+346	Băng Phách Hồng Liên Kiếp	0	0	0	64				15					3025	1										1000	3																		
+348	Băng Phách Hồng Liên Kiếp_Hiệu Quả 1	0	0	0	6				15				349				150										1						1											
+349	Băng Phách Hồng Liên Kiếp_Hiệu Quả 2	0	0	0	6				15				348				270										1						1											
+350	Băng Phách Hồng Liên Kiếp_Hiệu Quả 3	0	0	0	6				15				348				390										1						1											
+351	Băng Phách Hồng Liên Kiếp_Hiệu Quả 4	0	0	0	6				15				347				510										1						1											
+352	Băng Phách HồngLiên Kiếp_Hiệu Quả 5	0	0	0	6				15				346				630										1						1											
+353	Băng Phách Hồng Liên Kiếp_Hiệu Quả 6	0	0	0	6				15				346				750										1						1											
+354	Băng Phách Hồng Liên Kiếp_Hiệu Quả 7	0	0	0	6				20				346				750										1						1											
+355	Băng Phách Hồng Liên Kiếp_Hiệu Quả 8	0	0	0	6				20				346				850										1						1											
+362	Thiên Vũ Bảo Luân_Phụ 2-Bỏ	0	0	1	26			7	150			1																																
+364	Miên Lý Tàng Châm_Hiệu ứng	0	0	1	20				30				364												1000	3	1																	
+401	Đào Hoa Tiễn Thuật 1	1	150	0	10				6				401	3401						5405				30	1000	3	1																	
+402	Đào Hoa Tiễn Thuật 2	1	150	0	10				6				402	3402						5405				30	1000	3	1																	
+403	Đào Hoa Tiễn Thuật 3	1	150	0	10				6				402	3402						5405				30	1000	3	1																	
+404	Đào Hoa Tiễn Thuật 4	1	150	0	10				6				403	3403						5405				30	1000	3	1																	
+407	Phi Hỏa Lưu Tinh	1	750	0	20				2					3407						5408					1000	3	1																	
+408	Phi Hỏa Lưu Tinh_Biểu hiện	1	60	0	6				13				407				200							60			1						1											
+410	Cửu Diệu Liên Châu	0		1	15				3	23			410	3026																														
+411	Cửu Diệu Liên Châu_Phụ	0	0	1	15			3	16			1		3026						5411					1000	3																		
+412	Xuyên Vân Phá Nguyệt	1	200	0	15				6					3412						5413			1		1000	3	1																	
+435	Xuyên Vân Phá Nguyệt_Biểu hiện 1-Cũ	0	0	0	15				11				435										1				1						1											
+436	Xuyên Vân Phá Nguyệt_Biểu hiện 1-Mũi tên nhỏ	1	200	0	15				6				436				-100						1				1						1											
+437	Xuyên Vân Phá Nguyệt_Hiệu quả phụ 2-Cũ	0	0	0	15				11				437										1				1						1											
+438	Xuyên Vân Phá Nguyệt_Biểu hiện 2-Mũi tên lớn. Kích hoạt giảm chờ	1	200	0	15				6				412										1				1																	
+440	Xuyên Vân Phá Nguyệt_Biểu hiện 3-Mũi tên lớn-Kéo đuôi	1	200	0	15				15				440										1				1						1											
+415	Bích Lạc Hoàng Tuyền	0	0	0	64				2																																			
+416	Bích Lạc Hoàng Tuyền_Đồng đội	0	0	0	64				2																																			
+418	Phi Hỏa Lưu Tinh-Sơ_Phụ_Giải trừ và gây bỏng	0	0	1	2				2		1																																	
+421	Bách Bộ Xuyên Dương_Sát thương	1	150	0	10				6					3403						5405				30	1000	3	1																	
+422	Bách Bộ Xuyên Dương_Hiệu ứng đạn 3	1	150	0	10				6				403											30			1																	
+427	Lạc Hoa Phần Tinh Diệm	1	60	0	3				11			1					-100										1						1											
+428	Lạc Hoa Phần Tinh Diệm_Phụ 1	1	20	0	3				10			1															1						1											
+429	Lạc Hoa Phần Tinh Diệm_Lạc Tiễn	0	0	0	10				6				428														1						1											
+430	Lạc Hoa Phần Tinh Diệm_Sát thương	0	0	0	64			5	31			1		3026													1																	
+431	Lạc Hoa Phần Tinh Diệm_Địa Liệt	0	0	0	10				23			1	3428														1						1											
+444	Nghịch Chuyển Cửu Âm_Phụ. Đánh Lui, giảm tấn công	0	0	1	29				3	27			444	3026											1000	3	1																	
+463	Nguyệt Lạc Tinh Trầm	2	150	1	3				30				412	3401											1000	3	1																1	
+465	Phi Hỏa Lưu Tinh_Đánh Lui	1	500	0	20				2																1000	3	1																	
+501	Tiêu Dao Thương Pháp 1	0	0	0	13				6					3501			126			5505					1000	3	1																	
+502	Tiêu Dao Thương Pháp 2	0	0	0	13				6					3502			126			5505					1000	3	1																	
+503	Tiêu Dao Thương Pháp 3	0	0	0	13				6					3503			126			5505					1000	3	1																	
+504	Tiêu Dao Thương Pháp 4	0	0	0	13				6					3504			126			5505					1000	3	1																	
+506	Đẩu Chuyển Tinh Di	0	0	0	5				12					506									1		1000	3	1																	
+508	Thất Thám Xà Bàn_Phụ 1	0	0	0	5				2		1														1000	3	1																	
+528	Thất Thám Xà Bàn_Phụ 2	0	0	0	0				25				507														1						1											
+529	Thất Thám Xà Bàn_Phụ 3	0	0	0	0				25				6508														1						1											
+511	Bạch Hồng Quán Nhật_Phụ 1	1	140	0	12				6					3027			110								1000	3																		
+513	Phong Quyển Tàn Vân	0	0	1	25				5					3027											1000	3	1																	
+518	Kinh Lôi Phá Thiên_Phụ	0	0	0	3				10					1314													1																	
+520	Phong Quyển Tàn Vân-Sơ_Phụ 1_Tăng thêm Tàn Phế	0	0	0	5				10																																			
+526	Đẩu Chuyển Tinh Di_Phụ	0	0	0	5				12														1				1																	
+527	Hoàn Vũ Tiêu Dao Du	0	0	0	64				5					3027											1000	3	1																	
+535	Hoàn Vũ Tiêu Dao Du_Sát thương	0	0	0	64				5					3027											1000	3	1																	
+534	Tiêu Dao Thương Pháp 3-Đánh lui	0	0	0	10				6					3503			130								1000	3	1																	
+601	Võ Đang Kiếm Pháp	0	0	0	13				6					3601			126			5605					1000	3	1																	
+602	Võ Đang Kiếm Pháp 2	0	0	0	13				6					3602			126			5605					1000	3	1																	
+603	Võ Đang Kiếm Pháp 3	0	0	0	13				6					3603			126			5605					1000	3	1																	
+604	Võ Đang Kiếm Pháp 4	0	0	0	13				6					3604			126			5605					1000	3	1																	
+606	Nhân Kiếm Hợp Nhất.Kiếm Phi Kinh Thiên 	1	200	0	10				6				3304	3601			-100								1000	3	1																	
+609	Vô Ngã Vô Kiếm	0	0	1	20				6	39			609	3603			200			5605					1000	3	1																	
+612	Nhân Kiếm Hợp Nhất-Sát thương	1	250	0	15				4	2			611	3603			-150			5605					1000	3	1																	
+615	Thiên Địa Vô Cực	0	0	1	25				5	10			615	3615											1000	3	1																	
+616	Thiên Địa Vô Cực. Sát thương đoạn 2	0	0	1	25				5	30			616	3615											1000	3	1																	
+627	Thiên Địa Vô Cực-Sơ_Sát thương phạm vi bản thân	0	0	1	25				5					3615											1000	3	1																	
+631	Vạn Kiếm Phong Thiên Quyết	1	60	0	3				11			1					-100										1																	
+632	Vạn Kiếm Phong Thiên Quyết_Phụ 1	1	20	0	3				10			1															1																	
+633	Vạn Kiếm Phong Thiên Quyết_Lạc Kiếm	0	0	0	10				15				633														1																	
+634	Vạn Kiếm Phong Thiên Quyết_Sát thương	0	0	0	64			9	19			1		3603											1000	3	1																	
+635	Vạn Kiếm Phong Thiên Quyết_Địa Liệt	0	0	0	10				23			1	635														1																	
+645	Chân Võ Thất Tiệt	0	0	0	64				2																																			
+646	Chân Võ Thất Tiệt_Đồng đội	0	0	0	64				2																																			
+666	Thất Tinh Quyết-Bùa Chú phạm vi bản thân	0	0	1	25				5																1000	3	1																	
+701	Thiên Nhẫn Thích Sát Thuật	0	0	0	13				3					3701			126			5705					1000	3	1																	
+702	Thiên Nhẫn Thích Sát Thuật 2	0	0	0	13				3					3701			126			5705					1000	3	1																	
+703	Thiên Nhẫn Thích Sát Thuật 3	0	0	0	13				3					3703			126			5705					1000	3	1																	
+704	Thiên Nhẫn Thích Sát Thuật 4	0	0	0	13				3					3703			126			5705					1000	3	1																	
+705	Ma Diệm Tại Thiên	3	0	1	25			7	225			1															1																	
+707	Ma Diệm Tại Thiên_Phụ 2	2	50	0	10			1	15		1		707	3707							5708				1000	3	1																	
+708	Tử Vong Hồi Toàn	2	135	1	12				16		1			3701			100							1	1000	3	1		3710															
+709	Tử Vong Hồi Toàn_Phụ 1	2	135	1	1				16		1		708				150							1			1						1											
+714	Huyết Nguyệt Chi Ảnh_Đánh Thường 1	0	0	0	13				3					3701			126			5705					1000	3	1																	
+715	Huyết Nguyệt Chi Ảnh_Đánh Thường 2	0	0	0	13				3					3701			126			5705					1000	3	1																	
+716	Huyết Nguyệt Chi Ảnh_Đánh Thường 3	0	0	0	13				3					3703			126			5705					1000	3	1																	
+717	Huyết Nguyệt Chi Ảnh_Đánh Thường 4	0	0	0	13				3					3703			126			5705					1000	3	1																	
+722	Nhiếp Hồn Loạn Tâm	2	250	1	20				74				722														1																	
+723	Nhiếp Hồn Loạn Tâm_Phụ 1	0	0	1	20				5					3026		1									1000	3	1																	
+738	Nhiếp Hồn Loạn Tâm_Phụ 2	2	250	1	20				10				3722														1																	
+725	Hủy bỏ	0	0	1	15			10	26				410																															
+726	Hủy bỏ	0	0	1	15				3					3026																														
+740	Thiên Ma Ảnh Ảo Sát_Sát thương	0	0	0	64				3					3740											1000	3	1																	
+771	Phi Hồng Vô Tích_Phụ	0	0	1	5				3		1																																	
+801	Thúy Yên Ngự Tản Quyết	1	120	0	10				6				3801	6801						5905				10	1000	3	1																	
+802	Thúy Yên Ngự Tản Quyết 2	1	120	0	10				6				3802	6801						5905				10	1000	3	1																	
+803	Thúy Yên Ngự Tản Quyết 3	1	120	0	10				6				3803	6803						5905				10	1000	3	1																	
+804	Thúy Yên Ngự Tản Quyết 4	1	120	0	10				6				3804	6803						5905				10	1000	3	1																	
+805	Tuyền Cơ La Vũ_Phụ 1_Phụ. Tấn công đường thẳng	1	120	0	7				10				3805	6803						5905				10	1000	3	1																	
+806	Tuyền Cơ La Vũ	1	100	1	9			1	7			1	806	342			100								1000	3	1																	
+807	Tuyền Cơ La Vũ_Phụ 1. Duy trì dohitskill	0	0	1	72			10	121			1	807														1					6807												
+808	Vũ Đả Lê Hoa	2	250	1	5			76	75				808														1					1454												
+809	Vũ Đả Lê Hoa_Hiệu ứng	2	250	1	5			72	71				814														1																	
+813	Băng Tung Vô Ảnh_Phụ-Đóng Băng	0	0	1	15				3											5911					1000	3	1																	
+814	Vũ Đả Lê Hoa_Hiệu ứng 3_Bỏ	0	0	1	18				70																		1					1454												
+816	Băng Tung Vô Ảnh-Đạn theo dấu	2	60	1	5				30		1		816	817						5911					1000	3	1																	
+817	Băng Tung Vô Ảnh_Phụ-Sát thương	0	0	1	15				3																																			
+818	Tuyết Ảnh	0	0	0	64				2																																			
+819	Tuyết Ảnh_Đồng đội	0	0	0	64				2																																			
+823	Hộ Thể Hàn Băng_Phụ 2	0	0	1	5				3					3025													1																	
+826	Băng Cơ Ngọc Cốt_Phụ 2	0	0	1	20				3					3025													1																	
+828	Tuyền Cơ La Vũ_Phụ 2. Đánh Lui_Bỏ	1	100	1	9			1	6			1		342											1000	3	1																	
+829	Sát thương Vũ Đả Lê Hoa	0	0	1	18				3					342											1000	3	1																	
+830	Sát thương Vũ Đả Lê Hoa 2_Bỏ	0	0	1	18				3					342											1000	3	1																	
+831	Sát thương Vũ Đả Lê Hoa 3_Bỏ	0	0	1	18				3					342											1000	3	1																	
+832	Gấu Trúc-Trảo	0	0	0	1				3					1899																														
+834	Hùng Miêu Xung Đỉnh_Phụ	0	0	1	12				3					3834			50									3	1																	
+837	Thúy Yên Nộ Khí	0	0	0	64				3					6801													1																	
+839	Băng Cơ Ngọc Cốt_Phụ 3	0	0	1	20				30				839														1																	
+869	Băng Tung Vô Ảnh-Trung_Đóng băng kết thúc sát thương	0	0	1	15				3	22			364							5911					1000	3	1																	
+870	Băng Tung Vô Ảnh-Sơ_Hiệu ứng biến lớn	0	0	1	15				25				870																															
+879	Triệu hồi Bảo Bảo-Cao_Vòng Giảm Công Thường-Phạm vi đạn	0	0	1	25				3																		1																	
+901	Huy Khảm Thuật	0	0	0	1				3					166																														
+902	Băng Chùy Thuật	1	70	0	5				30		1		2560	3025			50																											
+903	Phi Tiêu Thuật	1	70	0	3				8		1		1394	3027																														
+904	Hỏa Cầu Thuật	1	70	0	5				10		1		1835	3412																														
+905	Lôi Quang Thuật	1	70	0	3				16		1		106	3024																														
+906	Phá Thiên Trảm 	0	0	0	1				3					166																														
+907	Băng Phong Chỉ	1	70	0	5				30		1		2560	3025			50																											
+908	Tụ Lí Tiễn	1	70	0	3				8		1		1394	3027																														
+909	Liệt Diệm Chỉ	1	70	0	5				10		1		1835	3412																														
+910	Nộ Lôi Chỉ 	1	70	0	3				16		1		106	3024																														
+911	Bán Nguyệt Trảm	0	0	0	15				3					4305			120										1																	
+912	Kinh Đào Hãi Lãng	1	30	1	14				30				310				180																1											
+913	Kinh Đào Hãi Lãng_Phụ	1	30	1	14				30					3025			80			5311					1000	3																		
+914	Xuyên Tâm Thích	0	0	0	14				3					3024													1																	
+915	Xuyên Tâm Thích_Hiệu quả	0	0	0	14				20				1827														1																	
+916	Thôi Sơn Điền Hải	0	0	0	6			8	81			1	52					1																										
+917	Cửu Thiên Cuồng Lôi	2	100	1	6				25					1314																														
+918	Cửu Thiên Cuồng Lôi_Sát Thương	0	0	1	6				3																																			
+919	Cửu Thiên Cuồng Lôi Địa Liệt-Hiệu Quả	0	0	1	6				25				1318																															
+921	Thuật Trị Liệu	0	0	0	8				40				306																															
+923	Quần Thể Trị Liệu Thuật	0	0	0	64				5					3312																														
+925	Bách Thảo Tiên Lộ	0	0	0	64				5					306																														
+928	Quần Thể Độc Chướng	0	0	0	64				5																																			
+931	Quần Thể Kim Cang	0	0	0	64				5																																			
+934	Quần Thể Minh Vương	0	0	0	64				5																																			
+940	Súc Lực Tiễn	1	100	1	5				7					3403										30			1																	
+941	Súc Lực Tiễn_Hiệu quả	1	100	1	5				7				132											30			1																	
+942	Tảng Đá Lớn	0	0	1	8				8				942														1		24															
+943	Tảng Đá Lớn_Sát thương	0	0	1	8				3					3024													1																	
+944	Ném	1	60	0	3				16		1		54	3024																														
+945	Phi Vũ	1	60	0	3				16		1		54	3024																														
+946	Vỗ Cánh	1	60	0	8				15				62														1																	
+947	Va Chạm	1	60	0	5				3					3059																														
+948	Linh Tê	0	0	0	64				2																																			
+949	Thiên La Địa Võng	1	60	0	3				16		1		949	3949																														
+951	Ngự Lôi Thuật	0	0	1	6				25				1314																															
+952	Ngự Lôi Thuật_Sát thương	0	0	1	6				3																																			
+953	Hô Phong Thuật	1	25	0	6				28						1																													
+954	Hô Phong Thuật_Hiệu quả	1	30	0	6				40				62				100										1																	
+956	Ảnh Tập_Phụ 1	1	100	0	5				5				40	168										10																				
+957	Ảnh Tập_Phụ 2	0	0	0	0				25																																			
+959	Song Long Nhả Châu	1	50	0	3				16		1		959	3959																														
+960	Âm Phong Thực Cốt	1	50	0	4				8					3027	1																													
+961	Âm Phong Thực Cốt_Hiệu quả	0	0	0	4				30				1548														1																	
+962	Truy Tâm Tiễn	1	60	0	4				16		1		962	3962																														
+963	Minh Sát Thu Hào	0	0	0	64				2																																			
+964	Lưu Ly Tán Lạc	1	60	1	5				20		1		1570	3027			100										1																	
+965	Lạc Anh Mạn Thiên	0		1	15			10	26			1	410																				1											
+966	Lạc Anh Mạn Thiên_Phụ	0	0	1	15			3	16			1		3026						5411					1000	3																		
+967	Phong Lai Ngô Sơn	3	0	1	20			7	141			1	2880	167																														
+968	Phi Hoa Lạc	0	0	1	6				4					3026															968															
+969	Phi Hoa Lạc_Hiệu ứng	0	0	1	6				15				969																															
+971	Tìm Thái Hồng	0	0	0	6				10				2696				50																											
+972	Tìm Thái Hồng_Phụ	2	60	0	6				25		1		2696	3025			50																											
+974	Thương Nguyệt	0	0	0	3				3					3027																														
+975	Đẩu Chuyển Tinh Di	0	0	0	5				12					506									1		1000	3																		
+976	Đẩu Chuyển Tinh Di_Phụ	0	0	0	5				12														1																					
+977	Phong Hoa Tuyết Nguyệt	1	80	0	5				9		1		2641	3025			50																											
+978	Phong Tuyết Băng Thiên	0	0	1	14				25				1377					1									1																	
+979	Phong Tuyết Băng Thiên_Sát thương	0	0	1	14				3					3025													1																	
+980	Ma Diệm Tại Thiên	3	0	1	20			7	225			1																																
+982	Ma Diệm Tại Thiên_Phụ 2	2	50	0	10			1	15		1		707	3707																														
+983	Thúy Yên Chưởng Pháp	1	60	0	4				12				55	3025																														
+984	Mục Dã Lưu Tinh	0	0	1	6				4					3025															984															
+985	Mục Dã Lưu Tinh_Hiệu ứng	0	0	1	6				15				985																															
+986	Cao Sơn Lưu Thủy	0	0	0	5				3					986																														
+988	Vân Hải Mộng Điệp	0	0	0	64				2																																			
+989	Trảo Kích	0	0	0	1				3					3022																														
+990	Trảo Kích	0	0	0	1				3					3022																														
+991	Chém	0	0	0	1				3					166																														
+992	Lạc Thạch	0	0	1	8				8				942														1		24															
+993	Lạc Thạch_Sát thương	0	0	1	8				3					3024													1																	
+994	Ném	1	60	0	3				16		1		54	3024																														
+996	Bác Cập Nhi Phục	0	0	0	8				5					3604									1																					
+997	Bác Cập Nhi Phục_Hiệu ứng	0	0	0	8				25				2802										1																					
+998	Nhân Kiếm Hợp Nhất	1	120	0	6				8				611	3603										20																				
+999	Từ Hàng Phổ Độ	0	0	0	8				40				306																															
+1031	Thủ Vệ Thương Hội_Vuốt tầm trung	0	0	0	1				3					3022																														
+1032	Thủ Vệ Thương Hội_Điểm nổ tầm trung	0	0	0	1				3					3021																														
+1101	Hành Vân Quyết	0	0	0	8				3					3024			100			6201					1000	3	1																	
+1102	Kinh Lôi Quyết	0	0	0	8				3					3024			100			6201					1000	3	1																	
+1103	Hàng Long Quyết	0	0	0	9				3					3024			110			6201					1000	3	1																	
+1104	Phá Thiên Quyết	0	0	0	10				3					3024			120			6201					1000	3	1																	
+1111	Hồi Phong Lạc Nhạn	0	0	0	8				3					3024			100			6201					1000	3	1																	
+1112	Hồi Phong Lạc Nhạn 2	0	0	0	8				3					3024			100			6201					1000	3	1																	
+1113	Hồi Phong Lạc Nhạn 3	0	0	0	9				3					3024			110			6201					1000	3	1																	
+1114	Hồi Phong Lạc Nhạn 4	0	0	0	10				3					3024			120			6201					1000	3	1																	
+1116	Đoạn Hồn Thích_Phụ	0	0	1	5				12					3024													1																	
+1131	Nga Mi Kiếm Pháp	1	100	0	5				6				3301	341						5305																								
+1132	Nga Mi Kiếm Pháp 2	1	100	0	5				6				3302	341						5305																								
+1133	Nga Mi Kiếm Pháp 3	1	100	0	5				6				3303	342						5305																								
+1134	Nga Mi Kiếm Pháp 4	1	100	0	5				6				3304	342						5305																								
+1136	Giang Hải Ngưng Ba	1	30	1	14				35				310				180																											
+1137	Giang Hải Ngưng Ba_Phụ	1	30	1	14				35					3025			80			5311																								
+1140	Nga Mi Kiếm Pháp	1	100	0	5				6				3301	341						5305																								
+1141	Nga Mi Kiếm Pháp 2	1	100	0	5				6				3302	341						5305																								
+1142	Nga Mi Kiếm Pháp 3	1	100	0	5				6				3303	342						5305																								
+1143	Nga Mi Kiếm Pháp 4	1	100	0	5				6				3304	342						5305																								
+1144	Thiên Vũ Bảo Luân	0	0	1	26			15	150			1	313	3312																		6312												
+1145	Thiên Vũ Bảo Luân_Phụ	0	0	1	26				3					3313						5313																								
+1181	Đào Hoa Tiễn Thuật	1	200	0	5				10		0		401	3401						5405				30	1000	3	1																	
+1182	Đào Hoa Tiễn Thuật 2	1	150	0	5				10		0		402	3402						5405				20	1000	3	1																	
+1183	Đào Hoa Tiễn Thuật 3	1	150	0	5				10		0		402	3402						5405				20	1000	3	1																	
+1184	Đào Hoa Tiễn Thuật 4	1	150	0	5				10		0		403	3403						5405				30	1000	3	1																	
+1188	Phi Hỏa Lưu Tinh	1	80	0	6				8					3407	1										1000	3																		
+1189	Phi Hỏa Lưu Tinh_Hiệu quả	1	60	0	6				13				407				200							60			1																	
+1191	Đào Hoa Tiễn Thuật	1	200	0	5				10		0		401	3401						5405				30	1000	3	1																	
+1192	Đào Hoa Tiễn Thuật 2	1	150	0	5				10		0		402	3402						5405				20	1000	3	1																	
+1193	Đào Hoa Tiễn Thuật 3	1	150	0	5				10		0		402	3402						5405				20	1000	3	1																	
+1194	Đào Hoa Tiễn Thuật 4	1	150	0	5				10		0		403	3403						5405				30	1000	3	1																	
+1221	Tiêu Dao Thương Pháp 1	0	0	0	9				6					3027			120								1000	3	1																	
+1222	Tiêu Dao Thương Pháp 2	0	0	0	9				6					3027			120								1000	3	1																	
+1223	Tiêu Dao Thương Pháp 3	0	0	0	10				6					3027			130								1000	3	1																	
+1224	Tiêu Dao Thương Pháp 4	0	0	0	11				6					3027			140								1000	3	1																	
+1233	Bạch Hồng Quán Nhật_Phụ	1	140	0	12				6					3027			110								1000	3	0																	
+1234	Tiêu Dao Thương Pháp 1	0	0	0	9				6					3027			120								1000	3	1																	
+1235	Tiêu Dao Thương Pháp 2	0	0	0	9				6					3027			120								1000	3	1																	
+1236	Tiêu Dao Thương Pháp 3	0	0	0	10				6					3027			130								1000	3	1																	
+1237	Tiêu Dao Thương Pháp 4	0	0	0	11				6					3027			140								1000	3	1																	
+1239	Hủy bỏ	1	140	0	12				6					3027			110								1000	3	0																	
+1261	Trảo Kích	0	0	0	1				3					3022																														
+1262	Phấn Lực Trảo Kích	0	0	0	9				25				24				120																											
+1263	npc-Đánh nhóm cận chiến 1_Thủy	0	0	0	9				25				25				120																											
+1264	npc-Đánh nhóm cận chiến 1_Hỏa	0	0	0	9				25				26				120																											
+1265	npc-Đánh nhóm cận chiến 1_Phong	0	0	0	9				25				27				120																											
+1266	Phấn Lực Trảo Kích_Phụ	0	0	0	9				3					3024			120																											
+1267	npc-Đánh nhóm cận chiến 1_Sát thương Thủy	0	0	0	9				3					3025			120																											
+1268	npc-Đánh nhóm cận chiến 1_Sát thương Hỏa	0	0	0	9				3					3026			120																											
+1269	npc-Đánh nhóm cận chiến 1_Sát thương Phong	0	0	0	9				3					3027			120																											
+1270	Chém	0	0	0	1				3					166																														
+1271	Chém	0	0	0	1				3					167																														
+1272	Chém	0	0	0	1				3					168																														
+1273	Chém	0	0	0	1				3					169																														
+1274	npc-Đánh đơn cận chiến_Địa	0	0	0	1				3					3024																														
+1275	npc-Đánh đơn cận chiến_Thủy	0	0	0	1				3					3025																														
+1276	npc-Đánh đơn cận chiến_Hỏa	0	0	0	1				3					3026																														
+1277	npc-Đánh đơn cận chiến_Phong	0	0	0	1				3					3027																														
+1278	Trảm Sát	0	0	1	10				20				178				0																											
+1279	Trảm Sát_Phụ	0	0	1	10				3								0																											
+1280	Quần Thể Trọng Kích	0	0	1	10				3					180																														
+1281	Tiêu Động Trần_Đánh Thường	0	0	1	14				3					167			120										1																	
+1282	Hoành Tảo	0	0	0	15				3					4305			120										1																	
+1283	Kinh Đào	1	40	1	5				20		1		1350	3027			100										1																	
+1284	Phong Lai Ngô Sơn	1	40	1	5				30				1350	3027			100										1																	
+1285	Phong Lai Ngô Sơn_Phụ	0	0	0	15			1	30				1350				100										1																	
+1286	Quyền Kích	0	0	0	8				3					3024			100										1																	
+1287	Trọng Quyền Tam Kích	0	0	0	11				3					3024			100										1																	
+1288	Trọng Quyền Tam Kích_Phụ	0	0	0	11				3					3024			100										1																	
+1289	Hàn Băng Trảm	1	80	0	5				8				3304	342			50																											
+1290	Liên Hoàn Hàn Băng Trảm	1	80	0	8				7					342	1												1																	
+1291	Liên Hoàn Hàn Băng Trảm_Hiệu quả	1	70	0	6				10				3304				50										1																	
+1293	Phi Trảm	1	80	0	10				10				3304	342			50																											
+1295	Phong Tuyết Thương	1	100	0	6				4					4305			120										1																	
+1296	Hắc Long Thám Hải	1	60	1	5				18				1296	3615			0										1																	
+1301	Hình Quạt_Hoành Tảo	1	80	0	6				4					3407	1																													
+1302	Hình Quạt_Hoành Tảo_Hiệu quả	0	0	0	6				45				92				0							60			1																	
+1303	Chưởng Kích	0	0	0	9				6					4305			120										1																	
+1304	Liên kích 1	2	60	1	10				6				1303	4303			0										1																	
+1305	Liên kích 2	2	60	1	10				6				1304	4304			0										1																	
+1306	Liên kích 3	2	60	1	10				6				1305	4305			0										1																	
+1307	Địa Liệt	1	180	0	6				3																		1																	
+1308	Hình Quạt_Phong Lãng	1	50	0	6				8					3027	1																													
+1309	Hình Quạt_Phong Lãng_Hiệu quả	3	0	0	6				30				1308														1																	
+1310	Hình Quạt_Long Quyển Phong	1	25	0	6				28						1																													
+1311	Hình Quạt_Long Quyển Phong_Hiệu quả	1	30	0	6				40				62				100										1																	
+1312	Lôi Động Cửu Thiên	1	60	0	3				15			1					-100																											
+1313	Lôi Động Cửu Thiên_Phụ 1	1	20	0	3				10			1																																
+1314	Lôi Động Cửu Thiên_Phụ 2	0	0	0	10			6	25				1314																															
+1315	Lôi Động Cửu Thiên_Phụ 3	0	0	0	6				38				14																															
+1316	Địa Liệt_Hiệu Quả	0	0	0	6				30				1307				250										1																	
+1317	Dơi_Đánh Thường	0	0	0	9				3					4317			120																											
+1318	Lôi Động Cửu Thiên_Phụ 4	0	0	0	10				25				1318																															
+1319	Cơ Ngự Thiên_Đánh Thường	0	0	0	9				3					3025			120																											
+1320	Bạo Vũ Lê Hoa	1	60	0	6				13				41				50							40			1																	
+1321	Hào Hỏa Cầu Liên Đạn (Sát thương)	0	0	1	8				3		1																1																	
+1323	Hào Hỏa Cầu Liên Đạn	1	50	1	5			4	12		1		1323														1																	
+1324	Hào Hỏa Cầu Liên Đạn_Phụ (Nổ) 	0	0	1	8				25				4323														1																	
+1325	Càn Khôn Đại Na Di_Hấp	0	0	1	40				3					3401									1																					
+1326	Càn Khôn Đại Na Di_Đạn	0	0	1	40				3																		1																	
+1327	Hỏa Vẫn	0	0	1	10				26				1327					1									1																	
+1328	Hỏa Vẫn_Địa Liệt Hiệu Quả	0	0	1	15				30				26														1																	
+1329	Hỏa Vẫn_Sát thương	0	0	1	34				3					3412													1																	
+1331	Xung Phong	1	140	0	12				6					3027			110										0																	
+1332	Phi Nhẫn	1	60	1	5				15		0		1332	4332										5			1																	
+1333	Thất Sát Địa Liệt	1	200	1	12				3															30			1																	
+1334	Thất Sát Địa Liệt_Hiệu Quả	0	0	0	6				30				18				80										1																	
+1335	Tiêu Động Trần_Đánh Thường	0	0	1	14				3					167			120										1																	
+1336	Hoành Tảo	0	0	0	15				3					4305			120										1																	
+1337	Kinh Lôi	0	0	1	6				25				1314																															
+1338	Kinh Lôi_Sát thương	0	0	1	34				3																																			
+1339	Kinh Lôi_Hiệu quả Địa Liệt	0	0	1	10				25				1318																															
+1340	Long Chiến Thiên_Đánh Thường	1	60	0	5				10				1340	3412						16340																								
+1341	Tiêu Động Trần_Xung Phong Tụ Lực	1	60	0	5				3											16340																								
+1342	Thất Sát Sứ Đánh Thường	0	0	0	1				3					168																														
+1344	Tiêu Động Trần_Xung Phong_Sát thương	1	140	0	12				6					3027			110										0																	
+1345	Tiêu Động Trần_Xung Phong_Hiệu quả	0	0	0	6				30				18				0										1																	
+1346	Hào Hỏa Cầu Liên Đạn (Sát thương)	0	0	1	8				3		1																1																	
+1347	Hào Hỏa Cầu Liên Đạn	1	50	1	5			4	12		1		1323														1																	
+1348	Hào Hỏa Cầu Liên Đạn_Phụ (Nổ) 	0	0	1	8				25				4323														1																	
+1349	Cửu Vĩ Đánh Thường	0	0	0	1				3					3027																														
+1350	Ngũ Tinh Liên Châu	1	40	1	2				30				1350	3027			100										1																	
+1351	Lôi Linh Phá	0	0	0	10				30				1314				100										1																	
+1352	Lôi Linh Phá_Sát thương	0	0	0	10				15		1			3027													1																	
+1353	Lôi Linh Phá_Hiệu quả Địa Liệt	0	0	0	10				25				1318				100										1																	
+1354	Ngũ Tinh Liên Châu_Phụ	0	0	0	2			1	30				1350				100										1																	
+1356	Kim Cang Trụy_Phụ	0	0	1	25				3					3024													1																	
+1357	Trọng Quyền Tam Kích	0	0	0	11				3					3024			100										1																	
+1358	Trọng Quyền Tam Kích_Phụ	0	0	0	11				3					3024			100										1																	
+1359	Độc Tí-Đánh Thường	0	0	0	8				3					3024			100										1																	
+1360	Kim Cang Trụy_Hiệu quả	0	0	0	6				30				18				80										1																	
+1362	Lang Vương Trảo Kích	0	0	0	1				3					3022																														
+1364	Cuồng Bôn Đột Tập_Phụ 1	0	0	0	5				2		1			3022																														
+1365	Cuồng Bôn Đột Tập_Phụ 2	0	0	0	0				25				6508																															
+1368	Cơ Quan Địa Thích	0	0	1	17				3					3024																														
+1369	Cơ Quan Địa Thích_Hiệu quả biểu hiện 1	0	0	1	17				25				1368														1																	
+1370	Đoạt Hồn Liên	1	350	0	5				3														1		1000	3																		
+1371	Đoạt Hồn Liên_Phụ 1	1	120	0	5				10					3024									1																					
+1372	Đoạt Hồn Liên_Phụ 2	0	0	0	5				30				1370										1																					
+1374	Lôi Kích	0	0	1	17				3					3027																														
+1375	Lôi Kích_Hiệu quả	0	0	1	17				25				1375														1																	
+1376	Băng Tỏa Liên Hoàn	1	80	0	2				15		1		1376	341													1																	
+1377	Bạo Phong Tuyết	0	0	1	10				25				1377					1									1																	
+1378	Bạo Phong Tuyết_Sát thương	0	0	1	34				3					3025													1																	
+1380	Tinh Nguyệt	1	60	1	5				10				1380	167										5			1																	
+1381	Liên Hoàn Tinh Nguyệt	1	60	1	2				10				1381	167			70							5			1																	
+1382	Liên Hoàn Tinh Nguyệt_Phụ	0	0	1	2			1	7				1381				70										1																	
+1383	Liệt Diệm Thương	0	0	1	7				30				1383				80																											
+1384	Liệt Diệm Thương_Sát thương	1	40	1	7				11																																			
+1385	Tường Lửa	0	0	0	6			15	90			1	52					1																										
+1386	Bán Nguyệt Trảm	0	0	1	8				3					167			100										1																	
+1387	Kiếm Liệt	1	180	0	6				3																		1																	
+1388	Kiếm Liệt_Hiệu quả	0	0	0	6				30				1307				250										1																	
+1390	Toàn Phong Trảm_Phụ 1	0	0	1	20				3					3024																														
+1392	Toàn Phiến	6	50	0	5				20				1392				100						1	1																				
+1393	Toàn Phiến_Phụ	6	55	0	10				20					3027									1	1																				
+1394	Tiêu Hình Quạt	1	40	1	5				25				1394	167			70							5			1																	
+1395	Tiêu Hình Quạt_Phụ	0	0	1	5			1	7				1394				70										1																	
+1396	Sương Độc	0	0	1	25				90			1	1396					1									1																	
+1397	Sương Độc_Phụ	0	0	1	25			15	90			1						1									1																	
+1398	Bẫy Phun Lửa	0	0	0	6				30				1398														1																	
+1399	Bẫy Phun Lửa_Phụ	0	0	0	6				25					3026													1																	
+1451	Báo động vòng tròn bán kính 4,5 ô_Điểm mục tiêu	0	0	1	34				38				1328																															
+1452	Báo động thường hình quạt 90 độ 6m	0	0	0	11				30				1452														1																	
+1453	Báo động vòng tròn bán kính 3 ô_Điểm mục tiêu	0	0	1	25				38				1453																															
+1454	Báo động vòng tròn bán kính 1.5 ô_Điểm mục tiêu	0	0	1	16				30				1454																															
+1456	Báo động vòng tròn bán kính 0.8 ô_Điểm mục tiêu	0	0	1	25				30				14																															
+1459	Phạm Vi Dung Nham Phun Trào-Cảnh Báo	0	0	1	34				38				1458																															
+1460	Thiểm Điện Liệm	2	60	1	5				90			1	1460										1																					
+1462	Toàn Phong_Phụ 1	0	0	1	25				3					3024																														
+1464	Bom Hẹn Giờ	2	80	1	2				10				1464																															
+1465	Bom Hẹn Giờ_Phụ 1	2	80	1	5				120				1465																															
+1466	Bom Hẹn Giờ_Phụ 2	0	0	1	5				15				1466																															
+1467	Bom Hẹn Giờ_Phụ 3	0	0	1	25				6																																			
+1468	Lôi Kích	0	0	1	17				3					3027																														
+1469	Lôi Kích_Hiệu quả	0	0	1	17				25				1375														1																	
+1470	Băng Tỏa Liên Hoàn	1	80	0	3				15		1		1376	341													1																	
+1472	Bạo Phong Tuyết	0	0	1	10				25				1377					1									1																	
+1473	Bạo Phong Tuyết_Sát thương	0	0	1	34				3					3025													1																	
+1475	Kim Cang Trụy_Phụ	0	0	1	25				3					3024													1																	
+1476	Kim Cang Trụy_Hiệu quả	0	0	0	6				30				18				80										1																	
+1478	Trọng Quyền Tam Kích	0	0	0	15				3					3024			100										1																	
+1479	Trọng Quyền Tam Kích_Phụ	0	0	0	15				3					3024			100										1																	
+1481	Kiếm Vũ	0	0	1	6				15								300										1																	
+1482	Kiếm Vũ_Sát thương	0	0	1	16				3																		1																	
+1483	Kiếm Vũ_Hiệu Quả Lạc Kiếm	0	0	1	6				25				1481														1																	
+1484	Kiếm Vũ_Hiệu Quả Địa Liệt	0	0	1	10				25				1865														1																	
+1485	Phi Kiếm	1	60	1	4				30				1485				100							5			1																	
+1486	Thập Tự Kiếm	0	0	0	18				3								230																											
+1487	Thập Tự Kiếm_Phụ 1	0	0	0	18				3								230																											
+1488	Thập Tự Kiếm_Hiệu Quả 1	0	0	0	15				15				1488				150																											
+1489	Thập Tự Kiếm_Hiệu Quả 2	0	0	0	15				15				1489				150																											
+1490	Cổ Vũ Kiếm Trận	3	0	1	25			15	150			1	1492														1																	
+1491	Cổ Vũ Kiếm Trận_BUFF	0	0	0	25				8																																			
+1492	Cổ Vũ Kiếm Trận_Hiệu quả	3	0	1	25			29	30		1		1485														1																	
+1493	Cổ Vũ Kiếm Trận_Sát thương	1	60	1	6				20				1485	3027													1																	
+1494	Cổ Vũ Kiếm Trận_Thu Chiêu	3	0	1	25				25				4492														1																	
+1495	Cổ Vũ Kiếm Trận_Nổ Điểm	3	0	1	25				5				1493														1																	
+1496	Trác Phi Phàm Đánh Thường	0	0	0	15				3					167			200																											
+1497	Từ Thiết Tâm-Đánh Thường	0	0	0	15				3					3024			200										1																	
+1498	Pháo Xa	1	120	0	12				30				132											10			1																	
+1499	Pháo Xa_Phụ	1	120	0	12				30					3403										10			1																	
+1503	Vòng Trị Liệu	0	0	1	42				16																																			
+1504	Vòng Cường Thể	0	0	1	42				16																																			
+1505	Vòng Cường Thể_Phụ	0	0	1	42				16																																			
+1506	Vòng Trị Liệu_Phụ	0	0	1	42				16																																			
+1507	buff_Hồi Sinh Lực	0	0	0	5				16					1507																														
+1508	buff_Tấn công	0	0	0	5				16					1508																														
+1509	buff_Kháng tính	0	0	0	5				16					1509																														
+1510	buff_Tốc chạy	0	0	0	5				16					1510																														
+1512	buffball	0	0	0	5				16					1512																														
+1513	buffball	0	0	0	5				16					1513																														
+1515	Xuất trận đánh lui	0	0	1	35				3																		1																	
+1531	Hùng-Địa Liệt	0	0	1	11				25				24				120																											
+1532	Hùng-Địa Liệt_Phụ	0	0	1	11				5								120																											
+1533	Vòng Nhanh Nhẹn	0	0	1	42				16																																			
+1534	Vòng Nhanh Nhẹn_Phụ	0	0	1	42				16																																			
+1535	Vòng Cổ Vũ	0	0	1	42				16																																			
+1536	Vòng Cổ Vũ_Phụ	0	0	1	42				16																																			
+1539	Phủ Xung_Phụ	1	140	0	12				6					3027			110								1000	3	0																	
+1540	Cửu Tinh Liên Hoàn	1	40	1	5				30				1350	3027			100										1																	
+1541	Cửu Tinh Liên Hoàn_Phụ	0	0	0	15			1	30				1350				100										1																	
+1548	Bài Sơn Đáo Hải	1	50	0	4				8					3027	1																													
+1549	Bài Sơn Đáo Hải_Hiệu quả	0	0	0	4				30				1548				50										1																	
+1550	Song Long Xuất Hải	1	50	0	4				8					3027	1																													
+1551	Song Long Xuất Hải_Hiệu Quả	0	0	0	4				30				1548				150										1																	
+1552	Cơ quan-Đánh lui	0	0	1	23				25				18																															
+1553	Cơ quan-Đánh lui_Phụ	0	0	1	23				5																																			
+1554	Cơ quan-Đóng băng	0	0	1	15				25				1554																															
+1555	Cơ quan-Đóng băng_Phụ	0	0	1	15				5																																			
+1556	Cơ Quan-Hồi Phục	0	0	1	17				35				9030																															
+1559	Cơ Quan-Tường Lửa Hình Quạt	0	0	0	6			15	90			1	52					1																										
+1560	Cơ Quan-Tường Lửa Hình Quạt_Phụ	0	0	0	6			15	90			1	52					1																										
+1561	Cơ Quan-Tường Lửa Chữ Thập	0	0	0	6			15	90			1	52					1																										
+1562	Cơ Quan-Tường Lửa Chữ Thập_Phụ	0	0	0	6			15	90			1	52				300	1																										
+1563	Cơ Quan-Tường Lửa Hình Tròn	0	0	0	6			15	90			1	52					1																										
+1564	Cơ Quan-Tường Lửa Hình Tròn_Phụ	0	0	0	11			15	90			1						1																										
+1565	Thiên Vũ Pháp Trận	0	0	1	24			15	90			1	313	3312																		6312												
+1566	Thiên Vũ Pháp Trận_Phụ	0	0	1	24			7	90			1		3313						5313																								
+1567	Ngân Châm Xạ	1	60	0	2				15				1394																															
+1568	Cơ Quan-Hỗn Loạn	0	0	1	15				25				1808																															
+1569	Cơ Quan-Hỗn Loạn_Phụ	0	0	1	15				5																																			
+1570	Hoa Kiếm 	1	80	0	5				30				1570				50																											
+1571	Lạc Hoa	0	0	1	15				60				1571																															
+1572	Lạc Hoa_Phụ	0	0	1	15				3																																			
+1574	Yến Vũ_Phụ 1	0	0	1	17				3																																			
+1576	Hoa Kiếm Phiến	1	60	1	2				30				1570				70										1																	
+1577	Hoa Kiếm Phiến_Phụ	0	0	1	2				22				1570				70										1																	
+1578	Mị Hoặc	0	0	1	10				60				1578														1																	
+1579	Mị Hoặc_Phụ	0	0	1	10				5																		1																	
+1580	Cửu Vĩ Đánh Thường	0	0	0	1				3					3027																														
+1581	Ngũ Tinh Liên Châu	1	40	1	2				30				1350	3027			100										1																	
+1582	Ngũ Tinh Liên Châu_Phụ	0	0	0	2			1	17				1350				100										1																	
+1583	Lôi Linh Phá	0	0	0	10				30				1314				100										1																	
+1584	Lôi Linh Phá_Sát thương	0	0	0	10				15		1			3027													1																	
+1585	Lôi Linh Phá_Hiệu quả Địa Liệt	0	0	0	10				25				1318				100										1																	
+1586	Cửu Tinh Liên Hoàn	1	40	1	2				30				1350	3027			100										1																	
+1587	Cửu Tinh Liên Hoàn_Phụ	0	0	0	2			1	17				1350				100										1																	
+1588	Tiêu Động Trần_Đánh Thường	0	0	1	14				3					167			120										1																	
+1589	Hoành Tảo	0	0	0	15				3					4305			120										1																	
+1590	Kinh Lôi	0	0	1	6				25				1314																															
+1591	Kinh Lôi_Sát thương	0	0	1	34				3																																			
+1592	Kinh Lôi_Hiệu quả Địa Liệt	0	0	1	10				25				1318																															
+1595	Tiêu Động Trần_Xung Phong_Sát thương	1	140	0	12				6					3027			110										0																	
+1596	Tiêu Động Trần_Xung Phong_Hiệu quả	0	0	0	6				30				18				0										1																	
+1597	Hàn Băng Trảm	1	80	0	5				8				3304	342			50																											
+1599	Huyền Băng Trảm_Phụ 1	1	140	0	5				5				3304	342																														
+1600	Huyền Băng Trảm_Phụ 2	0	0	0	0				25				6508																															
+1601	Hàn Nguyệt Loan Đao	0	0	1	15				3					167			120										1																	
+1602	Phi Trảm	1	80	0	10				10				3304	342			50																											
+1603	Hàn Băng Trảm	1	80	0	5				8				3304	342			50																											
+1604	Cơ Quan Địa Thích	0	0	1	17				3					3024																														
+1605	Cơ Quan Địa Thích_Hiệu quả biểu hiện 1	0	0	1	17				25				1368														1																	
+1606	Đoạt Hồn Liên	1	350	0	5				3														1		1000	3																		
+1607	Đoạt Hồn Liên_Phụ 1	1	120	0	5				10					3024									1																					
+1608	Đoạt Hồn Liên_Phụ 2	0	0	0	5				30				1370										1																					
+1609	Cơ Quan Địa Thích-Chữ Nhật	1	50	1	4				13																																			
+1610	Cơ Quan Địa Thích-Chữ Nhật_Sát thương liên tục	0	0	1	4				120				1609	3024													1																	
+1611	Chim Tự Nổ	2	40	0	5				60		1		1611	3412			50																											
+1612	Phách Không Chưởng	0	0	0	14				20				122				250										1																	
+1613	Sương Độc	0	0	1	20				120			1	1396					1									1																	
+1614	Sương Độc_Phụ	0	0	1	20			15	120			1						1									1																	
+1615	Ngân Châm	1	90	0	3				8				41	3027																														
+1616	Châm Tán	0	0	1	12				5					3027																														
+1617	Châm Tán_Hiệu quả	1	20	1	12				8				41																															
+1618	Cầu Đạn Xạ	2	60	1	4				90			1	1460										1																					
+1619	Cầu Trầm Mặc	1	60	0	2				15				1464																															
+1620	Vòng Tử Độc	3	0	1	15				150				1620																															
+1621	Vòng Tử Độc_Phụ	0	0	1	15				3					3027																														
+1622	Toàn Phiến	6	50	0	5				20				1392				100						1	1																				
+1623	Toàn Phiến_Phụ	6	55	0	10				20					3027									1	1																				
+1624	Cửu Cung Phi Tinh	1	80	0	5				20				1394				100						1	1																				
+1625	Cửu Cung Phi Tinh_Phụ	1	80	0	10				20					3027									1	1																				
+1626	Cuồng Bạo	0	0	0	5				16					1508																														
+1627	Hỏa Diệm Chưởng	1	50	1	2				15				1323				-50							5			1																	
+1628	Hàn Băng Chưởng	1	50	1	2				15				2560				-50							5			1																	
+1629	Tiêu Độc	1	90	0	3				8				41	3027																														
+1630	Hỏa Diệm Chưởng_Phụ	1	80	0	6				8					3026	1					5408					1000	3	1																	
+1631	Hàn Băng Chưởng_Phụ	1	80	0	6				8					3025	1					5408					1000	3	1																	
+1632	Hỏa Cầu Thuật	1	60	0	6				15				1835	3026			50										1																	
+1633	Bom	0	0	0	6				30				139														1																	
+1634	Bom_Phụ 1	0	0	0	6				25				4139														1																	
+1635	Bom_Phụ 2	0	0	0	6				3					3026													1																	
+1636	Bom Liên Hoàn	1	60	0	6				6			1					-100										1																	
+1637	Bom Liên Hoàn_Phụ 1	0	0	0	6				30			1	139														1																	
+1638	Bom Liên Hoàn_Phụ 2	0	0	0	6				25				4139				50										1																	
+1639	Bom Liên Hoàn_Phụ 3	0	0	0	6				3				401	3026			50										1																	
+1640	Tường Lửa	0	0	0	6			7	90			1	52				150	1																										
+1641	Phi Hỏa	1	50	1	2				15				1323				-50							5			1																	
+1642	Phi Hỏa_Phụ	1	80	0	6				8					3026	1					5408					1000	3	1																	
+1643	Băng Nhũ	1	60	0	5				30				2560	3025			50																											
+1644	Quang Huân	0	0	1	7				20					3025	2																													
+1645	Cầu Đạn Xạ	2	60	1	4				90			1	308	3025									1																					
+1646	Bạo Phong Tuyết	0	0	1	28			7	45			1		3025													1																	
+1647	Bạo Phong Tuyết_Hiệu ứng	0	0	1	10				25			1	1377					1									1																	
+1648	Tinh Nguyệt	1	60	1	5				10				1380	167										5			1																	
+1649	Song Tinh Nguyệt	1	60	1	8				10				1380											5			1																	
+1650	Song Tinh Nguyệt_Phụ	1	60	1	8				10					167										5			1																	
+1651	Liên Hoàn Tinh Nguyệt	1	60	1	2				10				1381				70							5			1																	
+1652	Liên Hoàn Tinh Nguyệt_Phụ 1	0	0	1	2			1	7				1381				70										1																	
+1653	Cuồng Nộ	0	0	0	5				16					1508																														
+1654	Liên Hoàn Tinh Nguyệt_Phụ 1	1	60	0	6				8					167	2					5408					1000	3	1																	
+1655	Dương Anh-Đánh Thường	0	0	0	10				6					4305			120										1																	
+1657	Huyền Băng Trảm_Phụ 1	0	0	0	9				5					342			120																											
+1658	Huyền Băng Trảm_Phụ 2	0	0	0	0				25				6508																															
+1659	Thái Ất Sinh Phong	1	60	0	8				15				62														1																	
+1660	Hình quạt bán nguyệt	0	0	0	10				6					168			120										1																	
+1661	Khối Tuyết	0	0	0	8				3					3025													1																	
+1662	Khối Tuyết_Hiệu ứng	0	0	0	8				25				1661														1																	
+1663	Kiếm Phách	0	0	1	4				30				1866				100										1																	
+1664	Kiếm Phách_Phụ	1	1	1	4				30				1866	3027			100							30			1																	
+1665	Bom Hẹn Giờ	2	80	1	2				10				1464																															
+1666	Bom Hẹn Giờ_Phụ 1	2	80	1	5				45				1465																															
+1667	Bom Hẹn Giờ_Phụ 2	0	0	1	5				15				1466																															
+1668	Bom Hẹn Giờ_Phụ 3	0	0	1	25				6																																			
+1669	Phi Trảm	1	80	0	10				10				3304	342			50																											
+1671	Trọng Toàn	0	0	1	15				3																																			
+1673	Trọng Toàn Tán Kiếm_Phụ 1	3	0	1	17				91																																			
+1674	Thượng Quan Phi Long Đánh Thường	0	0	0	9				6					4305			120										1																	
+1675	Trọng Toàn Tán Kiếm_Phụ 2	1	120	1	5				10				1866	3024																														
+1680	Trọng Chùy Tạp Địa	0	0	0	15				25				18																															
+1681	Trọng Chùy Tạp Địa_Phụ	0	0	0	15				3					3026																														
+1682	Hỏa Pháo	0	0	0	15				25				1808																															
+1683	Hỏa Pháo_Phụ	0	0	0	15				3					3026		1																												
+1685	Vô Hình Cổ	0	0	1	36				16																		1																	
+1686	Vô Hình Cổ_Phụ	3	100	1	15			5	31			1	401	3027													1																	
+1687	Vệ Sĩ Phản Đòn	0	0	0	36				16																																			
+1689	Độc Thích	1	40	1	5				25		1		1394	3027			70							5			1																	
+1694	Dự báo 3m bán kính hình tròn_Mục tiêu (1 giây) 	0	0	1	25				23				1453																															
+1701	Tiễn Tháp	4	100	1	5				13				1701				30										1			250	70													
+1702	Tiễn Tháp_Hiệu ứng	0	0	1	17				30				26														1																	
+1703	Tiễn Tháp_Phụ	0	0	1	17				3																		1																	
+1704	Tiễn Tháp-Truy Tung Đạn	2	120	1	5				100		1		1701	3026													1			250	50													
+1705	buff_Tấn công	0	0	0	5				16					1508																														
+1706	buff_Hồi Sinh Lực	0	0	0	5				16					1507																														
+1707	buff_Kháng tính	0	0	0	5				16					1509																														
+1718	Công Thành Xa-Va Chạm	0	0	1	6				20				178														1																	
+1719	Công Thành Xa-Va Chạm_Phụ	1	200	1	6				3					3024													1																	
+1721	Kình Nỏ Xa-Đánh Thường	1	120	0	12				15				132											10			1																	
+1722	Kình Nỏ Xa-Đánh Thường_Sát thương	1	120	0	12				9					3403										10			1																	
+1723	Kình Nỏ Xa-Nỏ Hình Quạt	1	140	0	8				8					3407	2												1																	
+1724	Kình Nỏ Xa-Nỏ Hình Quạt_Hiệu quả	1	120	0	8				15				132											10			1																	
+1725	Thiết Pháo Xa-Thường	0	0	1	13				5					3026													1																	
+1726	Thiết Pháo Xa-Thường_Hiệu ứng 1	0	0	1	13				25				1327					1									1																	
+1727	Thiết Pháo Xa-Thường_Hiệu ứng 2	0	0	1	13				30				26														1																	
+1728	Thiết Pháo Xa-Đặc Biệt	0	0	1	26				5					3026													1																	
+1729	Thiết Pháo Xa-Đặc Biệt_Hiệu ứng 1	0	0	1	26				25				1327					1									1																	
+1730	Thiết Pháo Xa-Đặc Biệt_Hiệu ứng 2	0	0	1	26				30				26														1																	
+1731	Thần Xạ Thủ-Đánh Thường	1	120	0	3				9				2722	3401										10			1																	
+1732	Cổ Vũ Chiến Hống	0	0	1	71				16																																			
+1733	Cổ Vũ Chiến Hống_Phụ	0	0	1	71				16																																			
+1751	Thương Lam Vũ Kiếm	1	60	0	3				15			1					-100										1																	
+1752	Thương Lam Vũ Kiếm_Phụ 1	1	20	0	3				10			1															1																	
+1753	Thương Lam Vũ Kiếm_Hiệu quả Lạc Kiếm	0	0	0	10			6	40				1481														1																	
+1754	Thương Lam Vũ Kiếm_Hiệu quả Địa Liệt	0	0	1	10				25				1865														1																	
+1755	Thương Lam Vũ Kiếm_Sát thương	0	0	0	64			7	30		0	1		3027													1																	
+1756	Chém	0	0	0	10				3					3027			120										1																	
+1758	Thiên Ngoại Phi Tiên_Phụ	1	140	0	12				6					3027			110																											
+1759	Tuyết Nhất Đao	1	100	1	14				14				1380	167													1																	
+1760	Mộng Điệp Kiếm	1	80	1	12				15				1570											5			1																	
+1761	Mộng Điệp Kiếm_Phụ	1	80	1	12				15					3027										5			1																	
+1762	Tuyệt Tình Đoạn Kiếm	0	0	0	10				3					167			120										1																	
+1763	Liệt Hỏa Tình Thiên	1	100	1	12				15				56											5			1																	
+1764	Liệt Hỏa Tình Thiên_Phụ 1	1	100	1	12				15					3026										5			1																	
+1767	Trấn Ngục Phá Thiên Kình_Phụ 2	0	0	1	20				3					3024													1																	
+1768	Hoa Phi Hồ Điệp Kiếm	0	0	1	4				15				1570				100										1																	
+1769	Hoa Phi Hồ Điệp Kiếm_Phụ	2	60	1	4				30		1		1570	3027			100							5			1																	
+1771	Nhạc Gia Thương	1	70	0	4				12				2564	3601																														
+1773	Trung Quán Bạch Nhật _Phụ	2	70	0	4				13				2564	3601										15			1																	
+1774	Tùy Ý Khúc-Định Thân	0	0	0	1				2																																			
+1775	Tùy Ý Khúc-Tàn Phế	0	0	0	1				2																																			
+1776	Tùy Ý Khúc-Làm Chậm	0	0	0	1				2																																			
+1777	Tùy Ý Khúc-Tê Liệt	0	0	0	1				2																																			
+1778	Tùy Ý Khúc-Choáng	0	0	0	1				2																																			
+1779	Kinh Kha Thích	0	0	0	5				3					3701																														
+1782	Ám Ảnh Thích_Đánh Thường 1	0	0	0	8				3					3703			100										1																	
+1783	Ám Ảnh Thích_Đánh Thường 2	0	0	0	8				3					3703			100										1																	
+1784	Kinh Kha Thích 2	0	0	0	5				3					3701																														
+1785	Đường Giản-Đánh Thường	5	80	0	5				16		1		949	34001			50			5929							1																	
+1786	Đường Giản-Đánh Thường_Phụ	1	80	1	4				11		1		949	34001													1																	
+1787	Cửu Cung Phi Tinh	0	0	1	4				7				24012														1																	
+1788	Cửu Cung Phi Tinh_Phụ 1	5	100	1	4				15		1		24012	34012										5			1																	
+1789	Cửu Cung Phi Tinh_Phụ 2	1	87	1	4				3				24025														1																	
+1790	Xuyên Tâm Tiêu	0	0	1	4				5				24012														1																	
+1791	Xuyên Tâm Tiêu_Phụ 1	1	100	1	4				15				24012	34012										5			1																	
+1792	Xuyên Tâm Tiêu_Phụ 2	1	87	1	4				3				24025														1																	
+1793	Quỷ Cốc Tử-Công Thường	0	0	1	10				5					34002													1																	
+1794	Quỷ Cốc Tử-Công thường_Hiệu ứng	0	0	1	10				30				2842				-250										1						1											
+1795	Hợp Tung Liên Hoành	0	0	0	64				3					34002													1																	
+1796	Hợp Tung Liên Hoành_Hiệu ứng	0	0	0	64				20				13206														1						1											
+1801	Cường Đạo Đao Trọng Kích	0	0	1	8				3																																			
+1803	Cường Đạo Toàn Phong Trảm_Phụ 1	0	0	1	17				3					3024																														
+1804	Liên Nguyệt Trảm	1	60	1	5				10				1381	167			70							5			1																	
+1805	Cường Đạo Đao Trọng Kích_Phụ	0	0	1	8				15				178																															
+1806	Chùy Trọng Kích	0	0	1	10				3					180																														
+1807	Chùy Đánh Thường	0	0	0	1				3					3021																														
+1808	Trọng Chùy Liệt Địa	0	0	0	15				25				1808				200																											
+1809	Trọng Chùy Liệt Địa_Phụ	0	0	0	15				3					3026			200																											
+1810	Trọng Chùy Liệt Địa_Cảnh báo	0	0	1	15				30				1454				200																											
+1811	Liệt Diệm Bán Nguyệt	1	80	0	5				10				1340	3412			50																											
+1812	Hỏa Diệm Duy Trì-Bán Nguyệt Trảm	1	80	0	5				10				1812	3412			50																											
+1813	Hỏa Diệm Duy Trì-Bán Nguyệt Trảm_Phụ	1	80	0	5				10				1813	3412			50																											
+1814	Hỏa Cầu nhiều tầng	1	50	1	2				15				1323	3026			-50							5			1																	
+1815	Tường Lửa	0	0	0	6			7	90			1	52				150	1																										
+1816	Hàn Băng Trảm	1	80	0	5				8				3304	342			50																											
+1818	Huyền Băng Trảm_Phụ 1	1	140	0	5				5				3304	342																														
+1819	Huyền Băng Trảm_Phụ 2	0	0	0	0				25				6508																															
+1820	Hàn Nguyệt Loan Đao	0	0	1	15				3					167			120										1																	
+1821	Phi Trảm	1	80	0	10				10				3304	342			50																											
+1823	Đinh Quyền Tam Kích	0	0	0	11				3					3024			100										1																	
+1824	Đinh Quyền Tam Kích_Phụ	0	0	1	20				3					3024			180										1																	
+1825	Hoành Tảo-Phải sang trái	0	0	1	15				3					167			120										1																	
+1826	Lang Nha Địa Thích	1	50	1	4				10																		1																	
+1827	Lang Nha Địa Thích_Hiệu quả	0	0	0	3				20				1827														1																	
+1828	Lang Nha Địa Thích_Sát thương	0	0	1	32				5																		1																	
+1829	Lang Nha Địa Thích_Vị trí xuất hiện	0	0	0	3				3								130										1																	
+1830	Hồng Anh Thương	1	100	0	5				10				401	3401										5			1																	
+1831	Hồng Anh Phong	1	40	0	10				25				62														1																	
+1832	Hồng Anh Phong_Phụ	1	40	0	10				25					3027													1																	
+1834	Hàn Băng Tiễn	1	80	0	6				15				1376	3025			50										1																	
+1835	Hỏa Cầu Thuật	1	60	0	6				15				1835	3026			50										1																	
+1836	Quét Hàn Băng Tiễn	1	50	1	5			4	12		1		1376				50										1																	
+1837	Quét Hàn Băng Tiễn (Nổ) 	0	0	1	8				25				1837														1																	
+1838	Quét Hàn Băng Tiễn (Sát thương) 	0	0	1	8				3		1			3025													1																	
+1839	Quét Hỏa Cầu Thuật	1	50	1	5			4	12		1		1323				50										1																	
+1840	Quét Hỏa Cầu Thuật (Gây Nổ)	0	0	1	8				25				4323														1																	
+1841	Quét Hỏa Cầu Thuật (Sát Thương)	0	0	1	8				3		1																1																	
+1842	Đinh Quyền Tam Kích_Hiệu quả	0	0	0	11				25				1808				180										1																	
+1843	Kim Sắc Bán Nguyệt Trảm	1	100	0	6				6				1843	166			50										1																	
+1844	Liên Kim Bán Nguyệt Trảm	1	100	0	6				15				1843	166			50										1																	
+1845	Phong Lâm Vệ-Đao Trọng Kích	0	0	1	10				3																																			
+1846	Phong Lâm Vệ-Đao Trọng Kích_Phụ	0	0	1	10				15				178																															
+1847	Kim Thoái Trảm	1	100	0	6				15				1843	166			50										1																	
+1848	Lôi Kích	0	0	1	10				3					3027																														
+1849	Lôi Kích_Hiệu quả	0	0	1	10				25				1375														1																	
+1850	Lôi Thần Nộ_Dự báo	0	0	1	3				30				1453				200										1																	
+1851	Lôi Thần Nộ	1	40	1	4				20				1850														1																	
+1852	Lôi Thần Nộ_Sát thương	0	0	1	7				20						2												1																	
+1853	Lôi Thần Nộ_Vị trí xuất hiện	0	0	1	3				3								200										1																	
+1854	Cuồng Lôi	0	0	1	6				25				1314																															
+1855	Cuồng Lôi_Sát thương	0	0	1	15				3					3027																														
+1856	Cuồng Lôi_Hiệu quả Địa Liệt	0	0	1	10				25				1318																															
+1857	Cuồng Lôi 2	0	0	1	6				25				1314																															
+1858	Cuồng Lôi 3	0	0	1	6				25				1314																															
+1859	Cuồng Lôi_Sát thương 2	0	0	1	15				24					3027																														
+1860	Cuồng Lôi_Sát thương 3	0	0	1	15				39					3027																														
+1863	Trọng Kiếm Phá Trần	0	0	1	34				3																																			
+1864	Trọng Kiếm Phá Trần_Hiệu quả Lạc Kiếm	0	0	1	6				25				1864																															
+1865	Trọng Kiếm Phá Trần_Hiệu quả Địa Liệt	0	0	1	10				25				1865																															
+1866	Kiếm Phách	0	0	1	4				30				1866				100										1																	
+1867	Kiếm Phách_Phụ	1	1	1	4				30				1866	3027			100							30			1																	
+1868	Toàn Kiếm Phá Thổ	0	0	1	25				10					3027			100										1																	
+1869	Kiếm Thích	1	60	1	4				30				1869														1																	
+1870	Kiếm Thích_Phụ	0	0	1	4				10				1870														1																	
+1871	Múa Kiếm	0	0	0	14				3					3027			160										1																	
+1873	Tô Mặc Vân Xung Thích_Phụ	1	140	0	12				6								110																											
+1875	Xung Phong_Phụ	1	140	0	12				7					3027			110								1000	3	0																	
+1878	Đống Đá	0	0	1	15				5					3026													1																	
+1879	Đống Đá_Hiệu ứng	0	0	1	15				25				1327					1									1																	
+1880	Đống Đá_Hiệu ứng Địa Liệt	0	0	1	15				30				1808														1																	
+1882	Vòng Sáng Trúng Độc toàn màn hình_Phụ 1	0	0	0	50				3					3027													1																	
+1885	Vòng Diệt Nhanh	0	0	1	10				16																		1																	
+1886	Vòng Diệt Nhanh_Phụ	3	0	1	10				45					168													1																	
+1888	Xoay Chuyển Diệt Nhanh_Phụ	0	0	1	29				3					3024																														
+1889	Vòng Sáng Trúng Độc toàn màn hình_Phụ 2	0	0	0	50				16																		1																	
+1890	Bẫy Phun 5-Long Trụ	0	0	1	6				40				1890				100										1																	
+1891	Bẫy Phun 5-Long Trụ_Phụ	1	40	1	6				13					3026			50										1																	
+1892	npc-Đánh đơn cận chiến_Mộc	0	0	0	1				3					1892																														
+1893	npc-Đánh đơn cận chiến_Thủy	0	0	0	1				3					1893																														
+1894	npc-Đánh đơn cận chiến_Hỏa	0	0	0	1				3					1894																														
+1895	npc-Đánh đơn cận chiến_Thổ	0	0	0	1				3					1895																														
+1896	npc-Đánh đơn cận chiến 2_Trảo Kim	0	0	0	1				3					1896																														
+1897	npc-Đánh đơn cận chiến 2_Trảo Mộc	0	0	0	1				3					1897																														
+1898	npc-Đánh đơn cận chiến 2_Trảo Thủy	0	0	0	1				3					1898																														
+1899	npc-Đánh đơn cận chiến 2_Trảo Thổ	0	0	0	1				3					1899																														
+1986	Phản Kích-Sơ_Phụ	0	0	1	16				3					3027													1																	
+1987	Phản Kích-Sơ_Hiệu Quả	0	0	1	10				25				2841														1																	
+1989	Phản Kích-Trung_Phụ	0	0	1	16				3					3027													1																	
+1990	Phản Kích-Trung_Hiệu Quả	0	0	1	10				25				2841														1																	
+1992	Phản Kích-Cao_Phụ	0	0	1	16				3					3027													1																	
+1993	Phản Kích-Cao_Hiệu quả	0	0	1	10				25				2841														1																	
+2035	Vòng Chí Mạng-Hỏa	0	0	0	36				16																																			
+2036	Vòng Chí Mạng-Hỏa_Phụ	3	0	0	15			15	31			1		3026																														
+2037	Vòng Kháng Tính-Hỏa	0	0	0	36				16																																			
+2038	Vòng Kháng Tính-Hỏa_Phụ	0	0	0	36				22																																			
+2039	Tàng Kiếm	1	30	1	14				30				62				100																											
+2040	Tàng Kiếm_Phụ	1	30	1	14				30					3025																														
+2041	Hàm Phong	1	50	0	8				5					3025	1																													
+2042	Hàm Phong_Hiệu quả	1	0	0	8				30				1548														1																	
+2044	Toái Kim_Phụ	0	0	0	11				3					3024											1000	3	1																	
+2046	Phần Tâm	0		0	6				30				1323				-700										1																	
+2047	Phần Tâm_Phụ 1	1	25	0	6				30				1323				-700										1																	
+2048	Bạo Phong Kiếm	1	80	1	9				10				163														1																	
+2050	Hoán Phong	3		1	6			15	63			1	62				500										1																	
+2052	Phong Hộ	3		1	5			15	63			1	62														1																	
+2053	Liệt Phong	0	0	1	18				5					3027											1000	3																		
+2054	Phong Quyển	0	0	1	50				5					3027											1000	3																		
+2055	Phong Quyển_Phụ	0	0	1	18				5					3027											1000	3																		
+2057	Phong Tập_Phụ	0	0	0	4				3					3027											1000	3	1																	
+2058	Tiếu Phong Tam Kích	1	180	0	6				3																		1																	
+2059	Tiếu Phong Tam Kích_Hiệu quả	0	0	0	6				30				1307				250										1																	
+2060	Hàn Băng Chưởng	1	80	0	8				6					3025	3		50																											
+2061	Hàn Băng Chưởng_Hiệu quả	1	90	0	6				9				1350														1																	
+2062	Băng Tung Vô Ảnh	2	40	1	3				30		1		1350	3025			50																											
+2063	Băng Tụ	1	40	1	3				30				1350	3027			-200										1																	
+2064	Băng Tụ_Phụ	0	0	1	3				23				1350				-200										1																	
+2065	Liệt Hỏa	1	80	0	8				6					3026	3		50																											
+2066	Liệt Hỏa_Hiệu quả	1	90	0	6				9				1323														1																	
+2067	Phần Thành	0	0	1	15				30				427					1															1											
+2068	Phần Thành_Phụ 1	0	0	1	15				3					3026						5411					1000	3																		
+2069	Hư Không	0	0	1	20			15	61			1	2069			1										3																		
+2070	Bất Diệt	0	0	1	11			15	301			1	2070	3312																														
+2071	Cực Lạnh	0	0	1	18			10	39			1	2071	3025												3																		
+2073	Tuyết Vũ_Phụ 1	0	0	1	18				3					3024																														
+2076	Ngự Băng_Sát thương 1	1	140	0	12				6					3025			110										0																	
+2077	Ngự Băng_Sát thương 2	0	0	0	10			15	76			1	2077				0										1																	
+2078	Hàn Băng Chưởng	1	50	0	6				5					3025	1																													
+2079	Hàn Băng Chưởng_Hiệu quả	1	0	0	6				30				1548														1																	
+2080	Phần Thành_Phụ 2	0	0	1	15				30				429					1															1											
+2081	Phần Thành_Phụ 3	0	0	1	15				30				3428																				1											
+2083	Lạc Diệp Bộ	6	100	1	2				12				1323	3026													1																	
+2092	Vũ Đả Lê Hoa	0	0	1	18			15	70			1	808	342													1																	
+2094	Hồi Phục Pháp Trận	0	0	1	11			15	75			1	2070	3312																														
+2095	Vòng Hồi Phục	0	0	1	13			15	75			1																																
+2096	Vòng Hồi Phục_Phụ	0	0	1	13			15	31			1		3312																														
+2152	Trác Phi Phàm Xung Thích_Phụ	1	140	0	12				6								110																											
+2251	Lang Vương Trảo Kích	0	0	0	1				3					3022																														
+2253	Cuồng Bôn Đột Tập_Phụ 1	0	0	0	5				2		1			3022																														
+2254	Cuồng Bôn Đột Tập_Phụ 2	0	0	0	0				25				6508																															
+2309	Pháo Hoa	0	0	0	7				30				2309														1																	
+2315	Pháo Hoa Nhỏ	0	0	0	11				45				2315														1																	
+2341	Hình chữ nhật 8x2 ô	0	0	0	11				30				2341														1																	
+2342	Hình chữ nhật 8x3 ô	0	0	0	11				30				2342														1																	
+2349	Hình chữ nhật 30x2 ô	0	0	0	11				30				2349														1																	
+2352	Băng Sương Xung Phong_Sát thương	1	140	0	8				6					3025			110										0																	
+2353	Băng Sương Xung Phong_Hiệu quả	0	0	0	8				20				25				0										1																	
+2355	Lôi Điện Xung Phong_Sát thương	1	140	0	8				6					5385			110										0																	
+2356	Lôi Điện Xung Phong_Hiệu quả	0	0	0	8				20				1318				0										1																	
+2358	Phá Thổ Xung Phong_Sát thương	1	140	0	8				6					3027			110										0																	
+2359	Phá Thổ Xung Phong_Hiệu quả	0	0	0	8				20				18				0										1																	
+2361	Hỏa Diệm Xung Phong_Sát thương	1	140	0	8				6					3026			110										0																	
+2362	Hỏa Diệm Xung Phong_Hiệu quả	0	0	0	8				20				52				0										1																	
+2363	Hoành Tảo_Vàng	0	0	0	7				3					166			90										1																	
+2364	Hoành Tảo_Lam	0	0	0	7				3					167			90										1																	
+2365	Hoành Tảo_Đỏ	0	0	0	7				3					168			90										1																	
+2366	Hoành Tảo_Lục	0	0	0	7				3					169			90										1																	
+2367	Vòng Sáng_Kim	3	0	1	15			15	75			1	2367														1																	
+2368	Vòng Sáng_Thủy	3	0	1	15			15	75			1	2368														1																	
+2369	Vòng Sáng_Hỏa	3	0	1	15			15	75			1	2369														1																	
+2370	Vòng Sáng_Mộc	3	0	1	15			15	75			1	2370														1																	
+2371	Đại Địa Trùng Niên	0	0	1	28				5					3024													1																	
+2372	Đại Địa Trùng Niên_Hiệu ứng	0	0	1	28				25				18					1									1																	
+2373	Sương Tuyết Thiên	0	0	1	28			8	17			1		3025													1																	
+2374	Sương Tuyết Thiên_Hiệu ứng	0	0	1	28				25			1	1377					1									1																	
+2375	Thiên Cơ Lạc Vẫn	0	0	1	28				5					3026													1																	
+2376	Thiên Cơ Lạc Vẫn_Hiệu Ứng	0	0	1	28				25				1327					1									1																	
+2377	Long Quyển Nộ	0	0	1	28			8	17			1		3027													1																	
+2378	Long Quyển Nộ_Hiệu ứng	0	0	1	28				25			1	62					1									1																	
+2380	Ngũ Tinh Địa Thích	1	40	1	2				20																		1																	
+2381	Ngũ Tinh Địa Thích_Phụ	0	0	0	2			1	8				1827														1																	
+2382	Ngũ Tinh Thủy Châu	1	40	1	2				20				1350				100										1																	
+2383	Ngũ Tinh Hỏa Cầu	1	40	1	2				20				1323				100										1																	
+2384	Ngũ Tinh Lạc Lôi	1	40	1	2				25																		1																	
+2385	Ngũ Tinh Lạc Lôi_Phụ	0	0	0	2			1	30				2385														1																	
+2386	Ngũ Tinh Lạc Lôi_Địa Liệt	0	0	0	10				15				2386																															
+2387	Phun Lửa (Hình quạt)	0	0	0	6				40				1383				100										1																	
+2388	Phun Lửa (Hình quạt)_Phụ	1	20	0	6				12					3026	1												1																	
+2389	Long Quyển Phong (Hình quạt)	1	25	0	6				23					3027	1																													
+2390	Long Quyển Phong (Hình quạt)_Hiệu quả	1	30	0	6				27				62				100										1																	
+2391	Băng Nhũ (Hình quạt)	1	70	0	10				10					3025	1																													
+2392	Băng Nhũ (Hình quạt)_Hiệu quả	1	75	0	10				12				2560				100										1																	
+2393	Khai Thiên Tịch Địa (Hình quạt)	1	45	0	6				16					3024	1																													
+2394	Khai Thiên Tịch Địa (Hình quạt)_Phụ 1	1	50	0	6				16																		1																	
+2395	Khai Thiên Tịch Địa (Hình quạt)_Hiệu quả	0	0	0	6				40				24														1																	
+2396	Cơ quan-Long Quyển Phong nổi lên	0	0	1	18				30				62				120																											
+2397	Cơ quan-Long Quyển Phong nổi lên_Phụ	0	0	1	18				30																																			
+2398	Vòng Sáng_Phản Đòn	0	0	1	36				16																																			
+2399	Vòng Sáng_Phản Đòn_Phụ	0	0	1	36				16																																			
+2400	Vòng Sáng_Phản Xạ	0	0	1	18				16																																			
+2401	Vòng Sáng_Phản Xạ_Phụ	0	0	1	18				16																																			
+2404	Vòng Sáng Trúng Độc	0	0	1	36				16					3027													1																	
+2406	Bẫy Chu Kỳ-Hỏa Diệm	3	0	1	12			15	150			1	2404														1																	
+2407	Bẫy diệt nhanh-Sương Độc	3	0	1	12			15	150			1	2404														1																	
+2408	Phun Sương Độc	0	0	1	6				40				2408				100										1																	
+2409	Phun Sương Độc_Phụ	1	25	1	6				15				401	3027			140										1																	
+2410	Phun Sương Băng	0	0	1	6				40				2410				100										1																	
+2411	Phun Sương Băng_Phụ	1	25	1	6				15					3025			140										1																	
+2412	Phun Lửa	0	0	1	6				40				2412				100										1																	
+2413	Phun Lửa_Phụ	1	25	1	6				15					3026			140										1																	
+2414	Phun Sét	0	0	1	6				10				2414														1																	
+2415	Phun Sét_Phụ	1	25	1	6				10					5385			140										1																	
+2419	Thi Bộc_Hiệu ứng	0	0	1	25				10				1396														1																	
+2420	Thi Bộc_Sát thương	0	0	1	25				5																		1																	
+2421	Ngũ Tinh Địa Thích_Sát thương	1	25	0	6				20					3024	1																													
+2422	Ngũ Tinh Thủy Châu_Sát thương	1	35	0	8				15					3025	1																													
+2423	Ngũ Tinh Hỏa Cầu_Sát thương	1	35	0	8				15					3026	1																													
+2424	Ngũ Tinh Lạc Lôi_Sát thương	1	25	0	5				20					5385	1																													
+2425	Phun Sét (Hình quạt)	0	0	1	2				15				2425														1																	
+2426	Phun Sét (Hình quạt)_Phụ	0	0	0	10				3					5385			112										1																	
+2427	Đại Địa Trùng Niên	0	0	1	28				61					3024													1																	
+2428	Đại Địa Trùng Niên_Hiệu ứng	0	0	1	28				25				18					1									1																	
+2429	Đại Địa Trùng Niên_Sát thương	0	0	1	28				5					3024													1																	
+2430	Sương Tuyết Thiên	0	0	1	28				61																		1																	
+2431	Sương Tuyết Thiên_Hiệu ứng	0	0	1	28				25				1377					1									1																	
+2432	Sương Tuyết Thiên_Sát thương	0	0	1	28				5					3025													1																	
+2433	Thiên Cơ Lạc Vẫn	0	0	1	28				61																		1																	
+2434	Thiên Cơ Lạc Vẫn_Hiệu Ứng 1	0	0	1	28				25				1327					1									1																	
+2436	Thiên Cơ Lạc Vẫn_Sát thương	0	0	1	28				5					3026													1																	
+2437	Long Quyển Nộ	0	0	1	28				89				62														1																	
+2438	Long Quyển Nộ_Sát thương	0	0	1	28			15	76			1		3027													1																	
+2440	Va Chạm 1_Phụ	0	0	1	14				3					3024													1																	
+2442	Va Chạm 2_Phụ	0	0	1	14				3					3025													1																	
+2444	Va Chạm 3_Phụ	0	0	1	14				3					3026													1																	
+2446	Va Chạm 4_Phụ	0	0	1	14				3					3027													1																	
+2447	Hạn Địa Lôi	1	60	0	6				15					5385													1																	
+2448	Hạn Địa Lôi_Hiệu quả	1	60	0	6				15				2425				-400										1																	
+2449	Kích Quang Toàn Chuyển	3		1	28				5																		1							1										
+2450	Kích Quang Toàn Chuyển_Hiệu ứng	0	0	1	28				6				9151					0									1																	
+2451	Kích Quang Toàn Chuyển_Sát thương	1	425	1	2				2					3024													1																	
+2453	Hồ Bẫy Duy Trì-Độc	0	0	1	10			15	150			1	1396					1									1																	
+2454	Hồ Bẫy Duy Trì-Hỏa	0	0	1	10			15	150			1	52					1									1																	
+2457	Phun Sương Độc	0	0	1	2				40				2457				100										1																	
+2458	Phun Sương Độc_Phụ	0	0	0	10			6	20			1		3027			140										1																	
+2459	Phun Sương Băng	0	0	1	2				40				2459				100										1																	
+2460	Phun Sương Băng_Phụ	0	0	0	10			6	20			1		3025			140										1																	
+2461	Phun Lửa	0	0	1	2				40				2461				100										1																	
+2462	Phun Lửa_Phụ	0	0	0	10			6	20			1		3026			140										1																	
+2463	Phun Sét	0	0	1	2				10				2463														1																	
+2464	Phun Sét_Phụ	0	0	0	10				3					5385			140										1																	
+2465	Vòng Sáng Trúng Độc_Phụ	0	0	0	42				3					3027													1																	
+2468	Bẫy Diệt Nhanh-Nước Độc	0	0	1	15				16																		1																	
+2469	Bẫy Diệt Nhanh-Nước Độc_Phụ	0	0	1	15				45					3027													1																	
+2471	Va Chạm Khống Chế Thổ 5_Phụ	0	0	1	14				3					3024													1																	
+2473	Mộc Hệ Xung Phong_Sát thương	1	140	0	8				6					3027			110										0																	
+2474	Mộc Hệ Xung Phong_Hiệu quả	0	0	0	8				20				27				0										1																	
+2475	Hoành Tảo_Thổ	0	0	0	7				3					170			90										1																	
+2476	Vòng Sáng_Thổ	3	0	1	15			15	75			1	2476														1																	
+2477	Lạc Lôi	0	0	1	28				25				1314																															
+2478	Lạc Lôi_Sát thương	0	0	1	28				3																																			
+2479	Lạc Lôi_Hiệu quả Địa Liệt	0	0	1	28				25				1318																															
+2480	Ngũ Lôi Oanh Đỉnh	0	0	1	28				61																		1																	
+2481	Ngũ Lôi Oanh Đỉnh_Hiệu ứng 1	0	0	1	28				25				1314					1									1																	
+2482	Ngũ Lôi Oanh Đỉnh_Hiệu ứng 2	0	0	1	28				25				1318																															
+2483	Ngũ Lôi Oanh Đỉnh_Sát thương	0	0	1	28				5																		1																	
+2484	Ngũ Tinh Độc Tiêu	1	40	1	2				20				1394				100										1																	
+2485	Ngũ Tinh Độc Tiêu_Sát thương	1	35	0	8				15					3027	1																													
+2486	Kim Bán Nguyệt	1	60	0	6				15				2486	3024													1																	
+2487	Gió Lốc	1	60	0	6				15				62	3027													1																	
+2488	Sóng Nước	1	60	0	6				15				310	3025													1																	
+2489	Hỏa Cầu Lăn	1	60	0	6				15				56	3026													1																	
+2490	Điện Qua	1	45	0	6				12					5385	1																													
+2491	Xoáy Điện_Phụ 1	1	50	0	6				12																		1																	
+2492	Xoáy Điện_Hiệu quả	0	0	0	6				40				4375														1																	
+2493	Hồ Bẫy Duy Trì-Độc (6m)	0	0	1	22			15	150			1						1									1																	
+2494	Hồ Bẫy Duy Trì-Độc (6m)_Hiệu ứng	0	0	1	22				150				1396					1									1																	
+2495	Địa Diệm Hỏa	0	0	1	15				5					3026				1									1																	
+2496	Địa Diệm Hỏa_Hiệu ứng	0	0	1	15				30				2496					1									1																	
+2497	Bẫy Lửa	0	0	1	36				16																		1																	
+2498	Bẫy Lửa_Phụ	0	0	1	17			8	33			1		3027													1																	
+2499	Tỉ lệ nổ mất SL	0	0	1	10				3					3026													1																	
+2501	Hoàng Long Thổ Thúy	1	60	0	5				30		1		1570	3027			50																											
+2502	Mãn Thành Hoa Vũ	0	0	1	12				50			1	1578																															
+2503	Mãn Thành Hoa Vũ_Phụ	0	0	1	12				15																																			
+2506	Yến Vũ_Phụ 1	0	0	1	17				3					3024																														
+2508	Tinh Nguyệt Thương Pháp	0	0	1	10				8					166			125										1																	
+2509	Hoành Tảo Thiên Quân	0	0	1	15				5				2509	166			70							5			1																	
+2513	Truy Phong Tiễn	1	100	1	5				7				129	3403										30			1																	
+2514	Thiết Kỵ Đột Tập	1	50	1	4				30				401	3401			100										1																	
+2516	Vạn Tiễn Tề Phát	1	100	1	5				7					3403										30			1																	
+2517	Vạn Tiễn Tề Phát_Hiệu Quả	1	100	1	5				7				132											30			1																	
+2518	Hoa Sơn Kiếm Pháp	1	120	0	8				6				126														1																	
+2519	Kim Xà Kiếm Quyết	0		0	6				6				119														1																	
+2520	Kim Xà Kiếm Quyết_Phụ	1	80	1	4				10				119											10			1																	
+2522	Triết Biệt-Vòng sáng chia sẻ	0	0	0	30				16																																			
+2523	Thái Ất Sinh Phong	1	60	0	8				15				62														1																	
+2524	Xuyên Tâm Thích	1	90	0	3				8				41	3027																														
+2525	Nhiếp Hồn Hồi Toàn	6	50	0	5				20				1392				100						1	1			1																	
+2526	Nhiếp Hồn Hồi Toàn_Phụ	6	55	0	10				20					3027									1	1			1																	
+2528	Vô Ảnh Thích	1	90	0	3				4				41	3027																														
+2529	Hàn Sương Chưởng	0	0	0	14				20				122				250										1																	
+2530	Sương Độc	0	0	1	25				90			1	1396					1									1																	
+2531	Sương Độc_Phụ	0	0	1	20			15	90			1						1									1																	
+2532	Cắn xé	0	0	0	5				3					146																														
+2533	Tiềm Thổ Đột Thích	0	0	1	10				10					3401																														
+2534	Tiềm Thổ Đột Thích_Hiệu quả	0	0	0	3				30				1827														1																	
+2537	Xé Toạc_Phụ 1	0	0	0	5				2		1			3022																														
+2538	Xé Toạc_Phụ 2	0	0	0	0				25				6508																															
+2539	Trảo Kích	0	0	0	8				10					165																														
+2540	Mãnh Lực	0	0	0	9				6					146			120										1																	
+2541	Lôi Kích	0	0	1	6				25					1314																														
+2542	Lôi Kích_Sát thương	0	0	1	6				3																																			
+2543	Lôi Kích_Hiệu quả Địa Liệt	0	0	1	6				25				1318																															
+2544	Phong Vũ Nhẫn	1	60	0	3				10				160	3027										10			1																	
+2546	Phi Sa Bộ Pháp_Phụ	0	0	0	20				3					3024										10			1																	
+2547	Phi Sa Bộ Pháp_Hiệu ứng	0	0	0	20				25				2670											10			1																	
+2549	Ảnh Phong Trảm	1	60	1	5				20				163														1																	
+2550	Ảnh Phong Trảm_Phụ 1	1	60	0	8				20																		1																	
+2551	Ảnh Phong Trảm_Phụ 2	0	0	1	5				20				173														1																	
+2552	Giác Kích	0	0	0	5				10					342																														
+2553	Xoáy Nước	0	0	1	20			15	50			1	154	3025		1																												
+2556	Hàn Băng Xung Đỉnh_Phụ	0	0	0	12				3					342			50										1																	
+2557	Cung Tên	1	120	0	5				10				182	3401										10			1																	
+2560	Băng Tâm Xuyên Vân	1	70	0	5				30		1		2560	3025			50																											
+2561	Từ Hàng Phổ Độ	0	0	0	8				40				306																															
+2564	Dương Gia Kiếm Pháp	1	60	0	5				3																																			
+2565	Họa Địa Vi Lao	0	0	1	15				5					3027			150										1																	
+2566	Họa Địa Vi Lao_Phụ	0	0	1	12				30				2565				100										1																	
+2568	Độc Trảo	0	0	1	8				3					4317			100																											
+2569	Hình Quạt_Phong Lãng	1	50	0	6				8					3027	1																													
+2570	Hình Quạt_Phong Lãng_Hiệu quả	3	0	0	6				30				1548														1																	
+2572	Hình Quạt_Long Quyển Phong	1	25	0	6				28						1																													
+2573	Hình Quạt_Long Quyển Phong_Hiệu quả	1	30	0	6				40				62				100										1																	
+2574	Thích sát	1	120	0	8				3				2574	167													1																	
+2575	Kiếm Thích	1	60	1	4				30				163														1																	
+2576	Kiếm Thích_Phụ	0	0	1	4				7				1870														1																	
+2578	Trọng Kiếm Phá Trần	0	0	1	10				3																																			
+2579	Trọng Kiếm Phá Trần_Hiệu quả Lạc Kiếm	0	0	1	10				25				1864																															
+2580	Trọng Kiếm Phá Trần_Hiệu quả Địa Liệt	0	0	1	10				25				1865																															
+2581	Trường Yên Lạc Nhật	0	0	0	3				3					169																														
+2582	Cô Sơn Ấn Nguyệt	1	30	1	12				9					3027										20																				
+2583	Cô Sơn Ấn Nguyệt_Phụ	1	30	1	12				9				1485											20																				
+2587	Kiếm Vũ	0	0	1	10				3																		1																	
+2588	Kiếm Vũ_Sát thương	0	0	1	10				3																		1																	
+2589	Kiếm Vũ_Hiệu Quả Lạc Kiếm	0	0	1	10				25				1481														1																	
+2590	Kiếm Vũ_Hiệu Quả Địa Liệt	0	0	1	10				25				1865														1																	
+2591	Trảm Sát	0	0	1	10				20				178				0																											
+2592	Trảm Sát_Phụ	0	0	1	10				3								0																											
+2604	Oai Phong	0	0	0	64				16																																			
+2625	Ngân Châm	1	90	0	3				8				41	3027																														
+2627	Ám Thích_Phụ 1	0	0	0	5				2		1			180																														
+2628	Ám Thích_Phụ 2	0	0	0	0				25																																			
+2629	Đạn Chỉ Liệt Diệm	1	60	0	5				12				1323	3412																														
+2630	Thiên Ngoại Lưu Tinh	0	0	1	15				26																		1																	
+2631	Thiên Ngoại Lưu Tinh_Hiệu ứng Vẫn Thạch	0	0	1	10				26				1327					1									1																	
+2632	Thiên Ngoại Lưu Tinh_Hiệu ứng Địa Liệt	0	0	1	15				30				26														1																	
+2633	Thiên Ngoại Lưu Tinh_Sát thương	0	0	1	34				3					3412													1																	
+2634	Chém	0	0	0	1				3					167																														
+2635	Khốn Long Công	0	0	1	15				5					3026				1									1																	
+2636	Khốn Long Công_Phụ	0	0	1	15				20				2636					1									1																	
+2637	Chém	0	0	0	8				3					3024			100						1		1000	3	1																	
+2638	Bá Đao	0	0	0	2				5					3026											1000	3																		
+2639	Xuyên Tâm Thích	1	90	0	3				8				41	3027																														
+2640	Trọng Kích	0	0	1	10				3					180																														
+2641	Phong Hoa Tuyết Nguyệt	1	80	0	5				9				2641	3025			50																											
+2642	Băng Tâm Tiên Tử	1	50	0	8				15				2642	3025																														
+2643	Băng Tâm Tiên Tử_Phụ	0	0	0	8				6				2643																															
+2645	Phá Thiên Trảm 	0	0	0	1				3					167																														
+2648	Chém	0	0	0	1				3					167																														
+2649	Thiên Vương Thương Pháp	0	0	0	1				3					168																														
+2650	Nỏ Tiễn	1	90	0	3				8				40	3026																														
+2651	Tên trong quạt	1	80	0	3				8		1		41	3027																														
+2652	Hỏa Cầu Thuật	1	60	0	6				15		1		1835	3026			50										1																	
+2653	Cung Tên	1	120	0	5				10				182	3024										10			1																	
+2655	Nỏ Tiễn Liên Hoàn	1	60	0	9				10					3026										10																				
+2656	Nỏ Tiễn Liên Hoàn_Phụ	1	60	0	9				10				40											10																				
+2657	Tiềm Thổ Băng Thích	1	60	0	8				10					3025																														
+2658	Tiềm Thổ Băng Thích_Phụ 1	1	60	0	8				10																																			
+2659	Tiềm Thổ Băng Thích_Phụ 2	1	0	0	8				15				346																															
+2660	Tán Tiêu	1	80	0	7				8					3027	1												1																	
+2661	Tán Tiêu_Hiệu quả	1	60	0	6				13				41				80										1																	
+2662	Bán Nguyệt Trảm	1	100	0	5				10				160	3027													1																	
+2663	Hỏa Cầu x3	1	60	0	6				15				1835	3026													1																	
+2664	Trọng Tiễn	1	130	0	7				10				129	3403										10			1																	
+2665	Hàn Chưởng	0	0	0	3				3					342																														
+2666	Hàn Băng Thích 	0	0	0	4				3					342																														
+2667	Hàn Băng Thích_Hiệu quả	0	0	0	4				15				346																															
+2668	Khai Thiên Phách Địa	1	120	0	7				6																																			
+2669	Khai Thiên Phách Địa_Hiệu quả	0	0	0	7				15				1488				250																											
+2670	Cuồng Phong Trục Nhật	0	0	0	20				5					3024																														
+2671	Hành Sơn Tuyết	0	0	0	10				3					3027			120										1																	
+2673	Mãn Giang Hồng_Phụ	1	140	0	12				6					3027			110																											
+2674	Thuộc tính cộng hưởng	0	0	0	45				16																																			
+2676	Vân Long Kích	0	0	0	1				3					167																														
+2677	Phong Sương Toái Ảnh	0	0	0	64				2																																			
+2678	Phong Sương Toái Ảnh_Làm Chậm	3	60	0	21				30				401	3025																														
+2685	Xuyên Ảnh Trảm_Phụ 1	1	80	0	5				5				1869	167										10																				
+2686	Xuyên Ảnh Trảm_Phụ 2	0	0	0	0				25																																			
+2687	Lăng Tuyệt Kiếm Khí	1	60	0	5				11				1340	3026										5																				
+2688	Huyền Minh Hấp Tinh	0	0	1	20				3					3026																														
+2689	Huyền Minh Hấp Tinh_Phụ	1	60	1	10				6				40				-300																											
+2690	Phong Chưởng	0	0	0	1				3					3027																														
+2691	Nộ Phong Phá Tập	1	60	1	4				25				62														1																	
+2692	Trọng Quyền	0	0	0	8				3					180			100										1																	
+2693	Phi Kiếm	1	80	1	5				10		1		1485	3027																														
+2694	Độc Thích Cốt	1	100	0	15				4					3027			50																											
+2695	Độc Thích Cốt_Phụ	1	100	0	15				4				41				50																											
+2696	Cầu Vòng	1	60	0	6				10		1		2696	3025			50																											
+2697	Hoành Tảo Nhất Kích	0	0	0	15				3					168			120										1																	
+2698	Giang Nam Như Yên	1	80	0	6				10				3304	342			50																											
+2700	Bẫy Liên Tục 5	0	0	1	36				16																		1																	
+2701	Bẫy Liên Tục 5_Phụ	3	0	1	8			10	33			1		3027													1																	
+2702	Huyền Thiên Võ Cơ-Đánh Thường	0	0	1	9				25				24				120																											
+2703	Huyền Thiên Võ Cơ-Đánh Thường_Phụ	0	0	1	9				3					180			120																											
+2704	Huyền Thiên Võ Cơ-Kỹ năng 1	0	0	0	15				3					168			120										1																	
+2706	Huyền Thiên Võ Cơ-Kỹ năng 2	3	0	1	28				30				1383														1							1										
+2707	Huyền Thiên Võ Cơ-Kỹ năng 2_Phụ 2	0	0	1	28				3					3026													1																	
+2710	npc-Đánh nhóm cận chiến_Bán Nguyệt Mộc	0	0	1	3				5					1892																														
+2711	npc-Đánh nhóm cận chiến_Bán Nguyệt Thủy	0	0	1	3				5					1893																														
+2712	npc-Đánh nhóm cận chiến_Bán Nguyệt Hỏa	0	0	1	3				5					1894																														
+2713	npc-Đánh nhóm cận chiến_Bán Nguyệt Thổ	0	0	1	3				5					1895																														
+2714	npc-Đánh đơn thẳng tầm xa_Kim	1	90	0	5				6				2714	166										30																				
+2715	npc-Đánh đơn thẳng tầm xa_Mộc	1	90	0	5				6				2715	169										30																				
+2716	npc-Đánh đơn thẳng tầm xa_Hỏa	1	90	0	5				6				2716	168										30																				
+2717	npc-Đánh đơn thẳng tầm xa_Thổ	1	90	0	5				6				2717	170										30																				
+2718	Giao Thoa Đao Quang_Mộc	1	70	0	5				14				2718	169													1																	
+2719	Giao Thoa Đao Quang_Thủy	1	70	0	5				14				2719	167													1																	
+2720	Giao Thoa Đao Quang_Hỏa	1	70	0	5				14				2720	168													1																	
+2721	Giao Thoa Đao Quang_Thổ	1	70	0	5				14				2721	170													1																	
+2722	Cung Tên_Kim	1	120	0	3				9				2722	3401										10			1																	
+2723	Cung Tên_Mộc	1	120	0	3				9				2723	1892										10			1																	
+2724	Cung Tên_Thủy	1	120	0	3				9				2724	1893										10			1																	
+2725	Cung Tên_Hỏa	1	120	0	3				9				2725	1894										10			1																	
+2726	Cung Tên_Thổ	1	120	0	3				9				2726	1895										10			1																	
+2728	Đường Xung Phong Kim Duy Trì_Sát thương	1	140	0	8				6					3024			110										0																	
+2729	Đường Xung Phong Kim Duy Trì_Hiệu quả	0	0	0	8				65				2729				0										1																	
+2731	Đường Xung Phong Mộc Duy Trì_Sát thương	1	140	0	8				6					3027			110										0																	
+2732	Đường Xung Phong Mộc Duy Trì_Hiệu quả	0	0	0	8				65				1396				0										1																	
+2734	Đường Xung Phong Thủy Duy Trì_Sát Thương	1	140	0	8				6					3025			110										0																	
+2735	Đường Xung Phong Thủy Duy Trì_Hiệu Quả	0	0	0	8				65				154				0										1																	
+2737	Đường Xung Phong Hỏa Duy Trì_Sát thương	1	140	0	8				6					3026			110										0																	
+2738	Đường Xung Phong Hỏa Duy Trì_Hiệu quả	0	0	0	8				65				52				0										1																	
+2740	Đường Xung Phong Thổ Duy Trì_Sát thương	1	140	0	8				6					5385			110										0																	
+2741	Đường Xung Phong Thổ Duy Trì_Hiệu quả	0	0	0	8				65				2741				0										1																	
+2742	Duy Trì Nhóm Tại Chỗ-Kim	0	0	0	15				3					3024													1																	
+2743	Duy Trì Nhóm Tại Chỗ-Kim_Phụ	0	0	0	15				61																		1																	
+2744	Duy Trì Nhóm Tại Chỗ-Kim_Hiệu ứng	0	0	0	15				20				1827														1																	
+2745	Duy Trì Nhóm Tại Chỗ-Mộc	0	0	1	15				3					3027													1																	
+2746	Duy Trì Nhóm Tại Chỗ-Mộc_Hiệu ứng	0	0	1	15				20				2445														1																	
+2747	Duy Trì Nhóm Tại Chỗ-Thủy	0	0	1	15				3					3025													1																	
+2748	Duy Trì Nhóm Tại Chỗ-Thủy_Phụ	0	0	1	15				61									1									1																	
+2749	Duy Trì Nhóm Tại Chỗ-Thủy_Hiệu ứng	0	0	1	15				20				1661					1									1																	
+2750	Duy Trì Nhóm Tại Chỗ-Hỏa	0	0	1	15				26				1327					1									1																	
+2751	Duy Trì Nhóm Tại Chỗ-Hỏa_Địa Liệt	0	0	1	15				30				1808														1																	
+2752	Duy Trì Nhóm Tại Chỗ-Hỏa_Sát thương	0	0	1	15				3					3412													1																	
+2753	Duy Trì Nhóm Tại Chỗ-Thổ	0	0	1	15				25				1314																															
+2754	Duy Trì Nhóm Tại Chỗ-Thổ_Địa Liệt	0	0	1	15				25				1318																															
+2755	Duy Trì Nhóm Tại Chỗ-Thổ_Sát thương	0	0	1	15				3					5385																														
+2756	Ngũ Tinh Kim Đạn	1	40	1	2				20				2756				100										1																	
+2757	Ngũ Tinh Kim Đạn_Sát thương	1	35	0	8				15					3024	1																													
+2758	Ngũ Tinh Thổ Đạn	1	40	1	2				20				2758				100										1																	
+2759	Ngũ Tinh Thổ Đạn_Sát thương	1	35	0	8				15					5385	1																													
+2760	Sương Độc Hình Quạt	1	40	1	2				20																		1																	
+2761	Sương Độc Hình Quạt_Phụ	0	0	0	2			1	8				1396														1																	
+2762	Sương Độc Hình Quạt_Sát thương	1	25	0	6				20					3027	1																													
+2763	Băng Thích Hình Quạt	1	40	1	2				20																		1																	
+2764	Băng Thích Hình Quạt_Phụ	0	0	0	2			1	8				346														1																	
+2765	Băng Thích Hình Quạt_Sát thương	1	25	0	6				20					3025	1																													
+2766	Địa Diệm Hình Quạt	1	40	1	2				20																		1																	
+2767	Địa Diệm Hình Quạt_Phụ	0	0	0	2			1	25				1398														1																	
+2768	Địa Diệm Hình Quạt_Sát thương	1	25	0	6				20					3026	1																													
+2769	Đầu Rắn phun 30m	0	0	0	8				40				2769														1																	
+2770	Đầu Rắn phun 30m_Phụ	1	200	0	8				16					3026													1																	
+2771	Dung Nham Phun Trào	0	0	1	15				30				2771														1																	
+2772	Dung Nham Phun Trào_Phụ	0	0	1	15				5					3026													1																	
+2773	Phun Lửa Vàng	0	0	1	2				40				2773				100										1																	
+2774	Phun Lửa Vàng_Phụ	0	0	0	10			6	20			1		3024			140										1																	
+2775	Kéo người toàn màn hình	0	0	0	110			3	76			1											1				1																	
+2776	Định Thân miễn kéo	0	0	1	15				2			1															1																	
+2777	Dậy sóng phạm vi lớn	1	45	1	7				300		1		2777				180										1						1											
+2778	Dậy sóng phạm vi lớn_Phụ	1	45	1	7				300		1			3025			80										1																	
+2779	Hồ Bẫy Duy Trì-Hỏa (4m)	0	0	1	15			15	150			1		3026				1									1																	
+2780	Hồ Bẫy Duy Trì-Hỏa (4m)_Hiệu ứng	0	0	1	15				150				2497					1									1																	
+2781	Bẫy Liên Tục-Thủy (4m)	0	0	1	15			15	150			1		3025				1									1																	
+2782	Bẫy Liên Tục-Thủy (4m)_Hiệu ứng	0	0	1	15				150				1554					1									1																	
+2784	Vòng Hỗn Loạn	3	0	1	12				30			1															1																	
+2785	Vòng Hỗn Loạn_Phụ	3	0	1	14				30			1		3027													1																	
+2786	Gió Lốc phạm vi lớn	1	60	1	7				50			1	62	3027													1																	
+2787	Hạn Địa Lôi phạm vi lớn	1	70	1	5				300		1		2425	5385													1																	
+2788	Vạn Kiếm Quyết	1	60	0	3				16			1					-100																											
+2789	Vạn Kiếm Quyết_Phụ 1	1	20	0	3				10			1																																
+2790	Vạn Kiếm Quyết_Phụ 2	0	0	0	10			6	20				633																															
+2791	Vạn Kiếm Quyết_Phụ 3	0	0	0	6				38				2791																															
+2792	Kỹ năng Lôi Kéo Tàn Phế	1	350	0	15				3														1		1000	3																		
+2793	Kỹ năng Lôi Kéo Tàn Phế_Phụ 1	1	120	0	15				10					3024									1																					
+2794	Kỹ năng Lôi Kéo Tàn Phế_Phụ 2	0	0	0	15				30				1370										1																					
+2795	Dung Nham Phun Trào-Hình Tròn	0	0	1	18				30				2771														1																	
+2796	Dung Nham Phun Trào-Hình Tròn_Sát thương	0	0	1	18				3					3412													1																	
+2801	Bác Cập Nhi Phục	0	0	0	8				5					3604									1																					
+2802	Bác Cập Nhi Phục_Hiệu ứng	0	0	0	8				25				2802										1																					
+2831	Kiếm Kích	0	0	0	15				3					167			200																											
+2836	Lục Văn Long Đánh Thường	0	0	0	6				3					168			50										1																	
+2837	Vân Long Kích	0	0	1	25				5					3027											1000	3																		
+2840	Triều Thiên Khuyết_Hiệu quả	0	0	0	6				30				1307				350										1																	
+2841	Nộ Diệm Xung Thiên	0	0	1	10				25				2841																															
+2842	Đoạn Kim Thích	1	120	0	5				3																																			
+2843	Viêm Dương Chưởng	0	0	0	2				3					3401																														
+2844	Long Tượng Cửu Trùng	0	0	0	64				2																																			
+2845	Long Tượng Cửu Trùng_Phụ	0	0	0	64				2																																			
+2848	Tuyết Ánh Hồng Trần	0	0	0	64				2																																			
+2849	Tuyết Ánh Hồng Trần_Hiệu ứng	0	0	0	64				2																																			
+2850	Tuyết Nhất Đao	1	70	1	14				14				1380	167													1																	
+2851	Hoa Phi Hồ Điệp Kiếm	0	0	1	4				15				1570				100										1																	
+2852	Hoa Phi Hồ Điệp Kiếm_Phụ	2	60	1	4				30		1		1570	3027			100							5			1																	
+2853	Thiên Địa Huyền Hoàng	1	50	0	5				20		1		2853	3024			50																											
+2854	Võ Đạo Luân Hồi	0	0	1	20				35				2854																				1											
+2855	Võ Đạo Luân Hồi_Phụ	0	0	1	20				5					3603																														
+2856	Tùy Ý Khúc	1	70	0	5				30		1		2856	3025			50																											
+2858	Quyết Biệt_Phụ 1	3	50	1	64				180																																			
+2859	Nộ Diệm Xung Thiên_Sát thương	0	0	1	10				3																																			
+2860	Du Long Kiếm Ý_Hiệu quả	0	0	1	10				25				2860														1																	
+2861	Thần Long Kiếm Khí_Hiệu quả	0	0	1	10				15				2866														1																	
+2862	Xuyên Tâm Thích	1	100	0	6				4																																			
+2863	Phong Quyển Tàn Tuyết	0	0	1	8				25				1661					1									1																	
+2864	Phong Quyển Tàn Tuyết_Sát thương	0	0	1	8				3					3025													1																	
+2865	Ý Kiếm	0	0	0	3				3					169																														
+2866	Thần Long Kiếm Khí	0	0	1	10				3					3027													1																	
+2868	Du Long Kiếm Ý_Phụ	0	0	1	16				3					3027													1																	
+2869	Hành Sơn Kiếm Pháp	1	100	0	3				9				39	3604																														
+2870	Tuyệt Tình Đoạn Kiếm	0	0	0	10				3					3027			120										1																	
+2872	Trấn Ngục Phá Thiên Kình_Phụ	1	140	0	12				6					3027			110																											
+2873	Lạc Diệp Chưởng	0	0	0	5				3																																			
+2875	Giáng Ma Chử	1	120	0	5				3																																			
+2876	Tâm Kiếm	1	120	0	5				3																																			
+2877	Dương Gia Thương Pháp	1	120	0	5				3																																			
+2878	Quyết Biệt_Phụ 2_Bỏ	0	0	1	64				10					306																														
+2879	Hàng Long Phục Tượng Công	0	0	0	20				5					3024																														
+2880	Ảo Âm Kiếm	3	0	1	22			7	141			1	2880	167																														
+2881	Hoành Tảo Thiên Quân	0	0	0	20				5					3024																														
+2882	Cửu Khê Di Yên	0	0	1	12				50			1	1578																															
+2883	Cửu Khê Di Yên_Phụ	0	0	1	12				15																																			
+2884	Hoa Sơn Kiếm Pháp	0	0	0	3				3					169																														
+2885	Hàng Long Bất Vũ	0	0	0	3				3					166																														
+2889	Trấn Ngục Phá Thiên Kình_Phụ 2	0	0	1	20				3					3024													1																	
+2890	Trấn Ngục Phá Thiên Kình_Hiệu ứng	0	0	1	20				25				2670														1																	
+2891	Ngự Kiếm Thuật	0	0	0	1				3					167																														
+2892	Tụ Lí Tiễn	1	80	0	3				8		1		41	3027																														
+2893	Hành Sơn Tuyết	1	60	0	8				10					3025																														
+2894	Hành Sơn Tuyết_Phụ 1	1	60	0	8				10																																			
+2895	Hành Sơn Tuyết_Phụ 2	1	0	0	8				15				346																															
+2896	Phù Vân Tán Tuyết	0	0	1	25				20			1	1377					1									1																	
+2897	Phù Vân Tán Tuyết_Phụ	0	0	1	20				5									1									1																	
+2898	Thương Hải Nguyệt Minh	0	0	0	64				2																																			
+2899	Thương Hải Nguyệt Minh_Địch	0	0	0	64				2																																			
+2900	Thương Hải Nguyệt Minh_Hiệu Ứng	0	0	0	64				2																																			
+2915	Dương Hi Liệt_Đánh Thường	0	0	0	9				3					168			120																											
+2916	Trác Phi Phàm_Đánh Thường	0	0	0	9				3					170			120																											
+2917	Nạp Lan Tiềm Lẫm_Đánh Thường	0	0	0	9				3					169			120																											
+2918	Mạnh Tri Thu_Đánh Thường	0	0	0	9				3					168			120																											
+2919	Trương Như Mộng_Đánh Thường	0	0	0	9				3					170			120																											
+2920	Nam Cung Thái Hồng_Đánh Thường	0	0	0	9				3					168			120																											
+2921	Trương Lâm Tâm_Đánh Thường	0	0	0	9				3					167			120																											
+2922	Phương Miễn_Đánh Thường	0	0	0	9				3					167			120																											
+2923	Trương Phong_Đánh Thường	0	0	0	9				3					168			120																											
+2924	Lục Văn Long_Đánh Thường	0	0	0	9				3					168			120																											
+2925	Vô Tướng _Đánh Thường	0	0	0	9				3					168			120																											
+2926	Lâm Hải_Đánh Thường	0	0	0	9				3					168			120																											
+2927	Triệu Thăng Quyền_Đánh Thường	0	0	0	9				3					167			120																											
+2928	Triệu Tiết_Đánh Thường	0	0	0	9				3					168			120																											
+2929	Thiệu Kỵ Phong_Đánh Thường	1	60	0	5				11				2929	3025																														
+2945	Vòng Hỏa Diệm_Phụ 1	0	0	0	50				3					3026													1																	
+2946	Buff Tấn Công	0	0	0	5				16					1705																														
+2951	Phong Ngọc Thư_Đánh Thường	0	0	0	9				3					168			120																											
+2952	Nỏ Xa Lạc Nỏ	0	0	1	19				45																		1																	
+2953	Nỏ Xa Lạc Nỏ_Phụ 1	0	0	1	19				25				135					1									1																	
+2954	Nỏ Xa Lạc Nỏ_Phụ 2	0	0	1	19				3					3401											1000	3	1																	
+2955	Nỏ Xa Liên Nỏ	1	100	1	14				7					3403										30			1																	
+2956	Nỏ Xa Liên Nỏ_Hiệu quả	1	100	1	14				7				132											30			1																	
+2957	Kinh Kha_Đánh Thường	0	0	1	14				3					3703			120										1																	
+2960	Bối Thích _Phụ 1	0	0	0	5				2		1			3703													1																	
+2961	Bối Thích _Phụ 2	0	0	0	0				25				6508														1																	
+2962	Huyết Tế	1	60	0	3				15			1					-100										1																	
+2963	Huyết Tế_Phụ 1	1	20	0	3				10			1															1																	
+2964	Huyết Tế_Phụ 2	0	0	0	20			15	90			1	722	3026		1											1																	
+2965	Tùy Ý Khúc	1	70	0	5				20				2856	3025			50										1																	
+2966	Cầm Thương	0		0	5				8				1570				150										1																	
+2967	Cầm Thương _Phụ	1	60	0	5				14				1570				150							10			1																	
+2968	Mãn Thành Hoa Ngữ	0	0	1	12				3																		1																	
+2969	Mãn Thành Hoa Ngữ_Phụ 1	0	0	1	12				76			1	1578														1																	
+2970	Mãn Thành Hoa Ngữ_Phụ 2	0	0	1	12				15																		1																	
+2971	Hồn Khiên Mộng Oanh Khúc	0	0	1	15				121				1571														1																	
+2972	Hồn Khiên Mộng Oanh Khúc _Phụ	0	0	1	35			15	76			1															1																	
+2973	Nhạc Gia Thương	1	70	0	4				12				2564	3601													1																	
+2974	Trung Quán Bạch Nhật	0		0	5				20				2564	3601													1																	
+2975	Trung Quán Bạch Nhật _Phụ	0		0	25				8																		1																	
+2976	Mãnh Hổ Gầm Thét	0		0	5				20				6059	3601													1																	
+2977	Mãnh Hổ Gầm Thét_Phụ	0		0	20				8																		1																	
+3001	Lý Tư-Đánh Thường	1	70	1	5				16		1		959	3959																														
+3002	Hủy Sách Cổ	0	0	1	22				5					3026		1											1																	
+3003	Hủy Sách Cổ_Hiệu Ứng	0	0	1	22				150				2497					1									1																	
+3004	Thôn Phệ Độc Châu	1	60	0	4				15																		1																	
+3005	Thôn Phệ Độc Châu_Phụ	1	60	0	4				20		1		959	3959													1																	
+3006	Quyền Khuynh Thiên Hạ-Đánh lui	1	40	1	7				23				160														1																	
+3007	Quyền Khuynh Thiên Hạ_Đánh lui_Phụ	0	0	1	7				23					3027	2												1																	
+3012	Quyền Khuynh Thiên Hạ-Tử vong nhận BUFF_Miễn dịch	2	150	1	4				10		1			1510													1																	
+3013	Quyền Khuynh Thiên Hạ-Tử vong nhận BUFF_Đồng đội	0	0	0	64				2																																			
+3017	Xích Hạt Độc_Phụ 1	0	0	1	15			7	75			1	1396	3027																														
+3018	Xích Hạt Độc_Phụ 2	0	0	0	0				25				6508																															
+3019	Ám Độc Huyết Vụ	2	80	1	5				12				1464																															
+3020	Ám Độc Huyết Vụ_Phụ 1	2	80	1	5				45				1465																															
+3021	Ám Độc Huyết Vụ_Phụ 2	0	0	1	5				15				1466																															
+3022	Ám Độc Huyết Vụ_Phụ 3	0	0	1	25				6																																			
+3023	Bạch Khởi-Đánh Thường	0	0	0	12				3					167			150										1																	
+3024	Xé Nát	0	0	0	6				24				163														1																	
+3025	Xé Nát_Phụ	1	100	1	4				10				163											10			1							1										
+3027	Mai phục_Phụ 1	1	130	0	5				3					3027													1																	
+3028	Mai phục_Phụ 2	0	0	0	0				25				6508														1																	
+3030	Kháng Sát	0	0	1	16				3					3027		1											1																	
+3031	Kháng Sát_Hiệu ứng	0	0	1	16				25				2445														1																	
+3032	Kháng Sát_Khống Chế	0	0	1	16				30				1453														1																	
+3037	Mai phục_Giảm sát thương	0	0	1	15				5					3027																														
+3038	Tần Thủy Hoàng-Đánh Thường	1	80	1	12				6				2486	166										15			1																	
+3039	Thoát Khỏi Vòng Vây	1	100	1	9				11				13039				-400										1																	
+3040	Thoát Khỏi Vòng Vây_Phụ 1	0	0	1	15			12	70			1	13040	13041			500										1																	
+3041	Thoát Khỏi Vòng Vây_Phụ 2	1	100	1	9			1	6			1															1																	
+3048	Toàn Kiếm	3	0	0	25			7	141			1	13048	170													1																	
+3049	Thoát Khỏi Vòng Vây_Địa Liệt	0	0	0	20				15				18														1																	
+3050	Thoát Khỏi Vòng Vây_Sát thương bay	1	90	1	9				7					13041			50										1																	
+3051	Huyền Thiên Võ Cơ-Đánh Thường	0	0	1	9				25				24																															
+3052	Huyền Thiên Võ Cơ-Đánh Thường_Phụ	0	0	1	9				3					180																														
+3054	Phệ Thiên Hỏa_Phụ 1	3	0	1	28				30				1383														1							1										
+3055	Phệ Thiên Hỏa_Phụ 2	0	0	1	28				3					3026													1																	
+3060	Phun Lửa	0	0	1	23				25				2496																															
+3061	Phun Lửa_Phụ	0	0	1	23				3					3026																														
+3062	Truy Tung Đạn	2	50	0	5				25		1		1323	444																														
+3063	Truy Tung Đạn_Sát thương phạm vi	0	0	1	15				3					3026													1																	
+3065	Hủy Sách Cổ_Hiệu Ứng 2	0	0	1	20				150				722														1																	
+3066	Trường Sinh Bất Lão	0	0	0	15				10					1509																														
+3068	Đánh Thức-Xóa Tử Vong_Phụ	0	0	1	15				10		1																1																	
+3072	Triệu Hồi Xích Hạt-Xóa Tử Vong_Phụ	0	0	1	15				10		1																1																	
+3073	Hiệu ứng Bạch Khởi Phân Thân	0	0	0	6				24				9009														1																	
+3076	Thủy Hoàng Giáng Lâm	0	0	0	200				3																		1																	
+3077	Thủy Hoàng Giáng Lâm_Dự báo 1	2	80	1	5				60																		1																	
+3078	Thủy Hoàng Giáng Lâm_Dự báo 2	2	80	1	5				60																		1																	
+3079	Thủy Hoàng Giáng Lâm_Lạc Kiếm	0	0	1	5				20				1481														1																	
+3080	Thủy Hoàng Giáng Lâm_Địa Liệt	0	0	1	5				25				1865														1																	
+3081	Thủy Hoàng Giáng Lâm_Sát thương	0	0	1	30				3																		1																	
+3082	Thủy Hoàng Giáng Lâm_Hiệu ứng đánh phép	0	0	1	5				35				6631														1																	
+3083	Thủy Hoàng Giáng Lâm-Hiệu ứng truyền tống	0	0	1	5				75				2069														1																	
+3084	Hiệu ứng hồi sinh	0	0	1	6				30				13084														1																	
+3104	Tường Lửa Ngang	0	0	0	4				150				52					1									1																	
+3105	Lục Hợp Độc Tôn	0	0	1	7				20				1644	3025	3												1																	
+3106	Bẫy Toàn Phong	0	0	1	25				16																		1																	
+3107	Bẫy Toàn Phong_Hiệu ứng	3	0	1	25				20								270	1									1																	
+3108	Bẫy Toàn Phong_Sát thương	3	0	1	25				6					3024													1																	
+3109	Bẫy Lửa-Tạo Hỗn Loạn	0	0	1	12				16																		1																	
+3110	Bẫy Lửa-Tạo Hỗn Loạn_Phụ	3	0	1	12			15	33			1		3026													1																	
+3111	Phần Thành Quyết	1	80	0	3				16			1															1																	
+3112	Phần Thành Quyết_Phụ 1	1	40	0	3				10			1															1							1										
+3113	Phần Thành Quyết_Phụ 2	0	0	0	12				20				1327	3026													1																	
+3114	Phần Thành Quyết_Phụ 3	0	0	0	6				30				2791														1																	
+3115	Vòng Vô Địch	0	0	1	30				16																		1																	
+3116	Vòng Vô Địch_Phụ	0	0	1	15				15			1															1																	
+3117	Đại Đao Quang	1	90	1	5				12				1869				50										1																	
+3118	Phần Thành Quyết_Địa Liệt	0	0	0	10				25				1808														1																	
+3119	Tường Lửa Ngang	0	0	0	4				10					3026				1									1																	
+3122	Phi Hỏa Lưu Tinh_Hiệu quả	1	60	0	6				13				407				200							60			1						1											
+3127	Xuyên Vân Phá Nguyệt_Sát thương	1	20	0	18				11					3412						5413			1	20	1000	3	1																	
+3123	Cửu Diệu Liên Châu	0		1	18			10	26			1	410																				1											
+3124	Cửu Diệu Liên Châu_Phụ	0	0	1	18			3	16			1		3026						5411					1000	3																		
+3128	Đại Đao Quang_Sát thương	1	90	1	10				12					167													1																	
+3131	Vô Ngã Vô Kiếm	0	0	1	18				45				609														1						1											
+3132	Vô Ngã Vô Kiếm_Phụ	0	0	1	18				5					3603											1000	3	1																	
+3133	Nhân Kiếm Hợp Nhất	0	0	0	15				7				611														1						1											
+3134	Nhân Kiếm Hợp Nhất_Phụ	1	120	0	15				8				611	3603										20	1000	3	1																	
+3135	Thiên Địa Vô Cực	0	0	1	18				5					3615											1000	3	1																	
+3136	Thiên Địa Vô Cực_Phụ	0	0	1	24				5					3615											1000	3	1																	
+3140	Tử Vong Hồi Toàn	6	135	1	10				16				708				150							1			1		3710						1			Khi loại là đạn xoay vòng thì điền 1, khi đạn quay về sẽ theo sau người chơi						
+3141	Tử Vong Hồi Toàn_Phụ 1	6	135	1	10				16					3701			100							1	1000	3	1								1			Khi loại là đạn xoay vòng thì điền 1, khi đạn quay về sẽ theo sau người chơi						
+3142	Nhiếp Hồn Loạn Tâm	0	0	1	24				74				722														1																	
+3143	Nhiếp Hồn Loạn Tâm_Phụ	0	0	1	24				5					3026		1									1000	3	1																	
+3144	Thúy Yên Ngự Tản Quyết	1	120	0	6				8				3804	6801						5905				10	1000	3	1																	
+3145	Tuyền Cơ La Vũ	1	100	1	11				7				806				100										1																	
+3146	Tuyền Cơ La Vũ_Phụ 1-Sát thương liên tục	0	0	1	18			12	70			1	807	342			500								1000	3	1																	
+3147	Tuyền Cơ La Vũ_Phụ 2-Đánh Lui	1	100	1	11			1	6			1		342											1000	3	1																	
+3148	Vũ Đả Lê Hoa	0	0	1	18			15	70			1	808	342													1																	
+3153	Hỗn Độn Kiếm Trận	3	140	1	24				120				24108														1																	
+3154	Hỗn Độn Kiếm Trận_Phụ	0	0	1	24				4					34101											1000	3	1																	
+3155	Tiếu Phong Tam Liên Kích	1	60	0	10				13				24110	34101			100								1000	3	1																	
+3157	Bẫy Kinh Lôi	0	0	1	18				15				24125																															
+3158	Kinh Lôi_Sát thương	0	0	1	18				3																																			
+3159	Kinh Lôi_Hiệu quả Địa Liệt	0	0	1	18				13				1318																															
+3166	buff_Hồi Sinh Lực	0	0	0	5				16																				1507															
+3167	buff_Tấn công	0	0	0	5				16																				1508															
+3168	buff_Kháng tính	0	0	0	5				16																				1509															
+3169	buff_Tốc chạy	0	0	0	5				16																				1510															
+3170	Tụ Kim	0	0	0	6				16				54				-700										1																	
+3171	Tụ Kim_Phụ	1	25	0	6				30				54	3024			-700										1																	
+3172	Tụ Mộc	0	0	0	6				16				1394				-700										1																	
+3173	Tụ Mộc_Phụ	1	25	0	6				30				1394	3027			-700										1																	
+3174	Tụ Thủy	0	0	0	6				16				2560				-700										1																	
+3175	Tụ Thủy_Phụ	1	25	0	6				30				2560	3025			-700										1																	
+3176	Tụ Hỏa	0	0	0	6				16				1323				-700										1																	
+3177	Tụ Hỏa_Phụ	1	25	0	6				30				1323	3026			-700										1																	
+3178	Tụ Thổ	0	0	0	6				16				106				-700										1																	
+3179	Tụ Thổ_Phụ	1	25	0	6				30				106	3025			-700										1																	
+3180	Đá Lăn	0	0	1	36				16																		1																	
+3181	Đá Lăn_Phụ	3	0	1	8			10	33			1		3026													1																	
+3183	Cơ Quan Nổ	0	0	1	15				25				1808																															
+3184	Cơ Quan Nổ_Phụ	0	0	1	15				5																																			
+3185	Cơ Quan Sương Độc	1	10	1	15			10	100			1	13358	3027													1																	
+3186	Cơ Quan Sương Độc_Dự báo	1	10	1	15				100			1	1454														1																	
+3187	Cơ Quan Ánh Đao	1	10	1	10				100				2486	166			20										1																	
+3189	Cơ Quan Phun Nước	0	0	1	15				25				1554																															
+3190	Cơ Quan Phun Nước_Phụ	0	0	1	15				5					3025																														
+3191	buff_Bạo Kích	0	0	0	5				16																				1509															
+3192	buff_Vô Địch	0	0	0	5				16																				1510															
+3194	buff_Hồi Sinh Lực	0	0	0	5				16																				1507															
+3195	buff_Miễn dịch khống chế	0	0	0	5				16																				1509															
+3196	buff_Tốc chạy	0	0	0	5				16																				1510															
+3201	Lý Nguyên Bá-Đánh Thường	0	0	0	8				3					3024			100										1																	
+3202	Sơn Băng Địa Liệt	0	0	1	26				3					3024			100										1																	
+3203	Sơn Băng Địa Liệt_Phụ	0	0	1	26				25				18				100										1																	
+3204	Triệu Vân-Thường	1	50	0	6				9					3501																														
+3206	Thất Thám Xà Bàn_Phụ 1	0	0	0	5				2		1			3501																														
+3207	Thất Thám Xà Bàn_Phụ 2	0	0	0	0				25				6508																															
+3208	Lý Quảng -Đánh Thường	1	100	1	4				10		1		129	3026										5			1																	
+3209	Xạ Thạch Hổ	1	100	1	4				10		1			3403										5			1																	
+3210	Xạ Thạch Hổ_Phụ	1	100	1	4				10		1		412											5			1																	
+3211	Triệu Vân-Thường	1	50	0	6				9				501																															
+3212	Trảo Kích	0	0	0	9				6					165			120									3	1																	
+3214	Bổ Nhào_Phụ	0	0	0	12				3					3024											1000	3	1																	
+3215	Chưởng Kích	0	0	0	1				3					180																														
+3218	Cắn xé	0	0	0	5				3					146											1000	3																		
+3220	Độc Dịch_Hiệu ứng	3	100	1	18				90				1396					1									1																	
+3221	Độc Dịch_Sát thương	0	0	1	18				5									1									1																	
+3222	Bổ Nhào_Hiệu ứng	0	0	0	12				20				19				50								1000	3	1																	
+3223	Tần Thủy Hoàng-Đánh Thường	0	0	0	8				5					3604									1				1																	
+3224	Tần Thủy Hoàng Đánh Thường_Hiệu ứng	0	0	0	8				25				5802										1				1																	
+3228	Hộ Giá Tấn Công_Phụ 1	1	130	0	5				3					3027													1																	
+3229	Hộ Giá Tấn Công_Phụ 2	0	0	0	0				25				6508														1																	
+3230	Hộ giá tấn công_Giảm sát thương	0	0	1	15				5					3027													1																	
+3235	Kim Thi	0	0	1	7				21					3024	3												1																	
+3236	Kim Thi_Hiệu ứng	1	65	1	7				14				54														1																	
+3238	Mật Lâm Đấu Phồn Tinh	0	0	1	7				21					3027	3												1																	
+3239	Mật Lâm Đấu Phồn Tinh_Hiệu ứng	1	65	1	7				14				57														1																	
+3241	Nghịch Lưu	0	0	1	7				21					3025	3												1																	
+3242	Nghịch Lưu_Hiệu ứng	1	65	1	7				14				55														1																	
+3244	Tam Muội Li Hỏa Ngục	0	0	1	7				21					3026	3												1																	
+3245	Tam Muội Li Hỏa Ngục_Hiệu ứng	1	65	1	7				14				56														1																	
+3247	Bát Phương Tinh Lôi Đỗng	0	0	1	7				21					3604	3												1																	
+3248	Bát Phương Tinh Lôi Đỗng_Hiệu ứng	1	65	1	7				14				106														1																	
+3250	Quần Thể Kim Cang-Cao	0	0	0	64				5																		1																	
+3252	Quần Thể Minh Vương-Cao	0	0	0	64				5																		1																	
+3255	Luân Hồi Vãng Sinh	0	0	0	64				5																		1																	
+3257	Phá Thiên Nhất Kích	1	100	0	10				7					3403										30			1																	
+3258	Phá Thiên Nhất Kích_Hiệu ứng	1	100	0	10				7				132											30			1																	
+3259	Thập Phương Câu Tĩnh	0	0	1	7				20				1644	3025	3												1																	
+3261	Độc Chướng-Nhóm (Cao)	0	0	0	64				5																		1																	
+3276	Đường Giản-Đánh Thường	5	80	0	5				16		1		949	34001			50			5929							1																	
+3277	Đường Giản-Đánh Thường_Phụ	1	80	1	4				11		1		949	34001													1																	
+3278	Cửu Cung Phi Tinh	0	0	1	4				7				24012														1																	
+3279	Cửu Cung Phi Tinh_Phụ 1	5	100	1	4				15		1		24012	34012										5			1																	
+3280	Cửu Cung Phi Tinh_Phụ 2	1	87	1	4				3				24025														1																	
+3281	Hoàn Nhan Hồng Liệt-Đánh thường	0	0	1	10				5					34002													1																	
+3282	Hoàn Nhan Hồng Liệt-Đánh thường_Hiệu ứng	0	0	1	10				30				2474														1																	
+3283	Phong Quyển Sa	1	60	1	20				13					34002													1																	
+3284	Phong Quyển Sa_Hiệu ứng 1	1	60	1	20				12				2445				100										1																	
+3285	Phong Quyển Sa_Hiệu ứng 2	1	60	1	20				12				14012				100										1																	
+3286	Ngũ Độc Địch Chú	0	0	0	8				3					34301									1				1																	
+3287	Ngũ Độc Địch Chú_Hiệu ứng 1	0	0	0	8				25				24301										1				1						1											
+3288	Ngũ Độc Địch Chú_Hiệu ứng 2	0	0	0	8				25				24302										1				1						1											
+3289	Âm Phong Thực Cốt	0	0	1	15				5					3603													1																	
+3290	Âm Phong Thực Cốt_Hiệu ứng	0	0	1	15				30				24309														1						1											
+3291	Hà Nhân Ngã-Đánh thường	0	0	0	12				3					3026			120										1																	
+3292	Hàng Long Hữu Hối	1	80	0	8				15					3407													1																	
+3293	Đường Cừu Đánh Thường	5	70	0	5				16		1		24004	34001													1																	
+3294	Đường Cừu Đánh Thường_Tán Tiêu	1	70	1	4				9		1		24001	34001													1																	
+3295	Bạo Vũ Lê Hoa	0	0	1	8				5					34001													1																	
+3296	Bạo Vũ Lê Hoa_Tán Tiêu 1	1	60	1	4				10		1		24009	34001													1																	
+3297	Bạo Vũ Lê Hoa_Tán Tiêu 2	1	60	1	4				10		1		24009	34001													1																	
+3301	Lý Nguyên Bá-Đánh Thường	0	0	0	12				3					3024			120										1																	
+3302	Sơn Băng Địa Liệt	0	0	1	30				3					3024													1																	
+3303	Sơn Băng Địa Liệt_Phụ	0	0	1	30				25				18														1																	
+3304	Thập Nhị Cầm Long Thủ	0	0	1	26				3					3024											1000	3	1																	
+3305	Thương Khung Kích	0	0	1	26				3					3024											1000	3	1																	
+3306	Thương Khung Kích_Phụ	0	0	1	26				25				1327												1000	3	1																	
+3307	Triệu Vân-Thường	1	50	0	6				9					3501																														
+3308	Triệu Vân-Thường_Phụ	1	50	0	6				9				501																															
+3310	Thất Thám Xà Bàn_Phụ 1	0	0	0	5				2		1			3501																														
+3311	Thất Thám Xà Bàn_Phụ 2	0	0	0	0				25				6508																															
+3312	Thiết Huyết Long Đảm	0	0	1	30				3					3027													1																	
+3313	Thiết Huyết Long Đảm_Phụ	1	50	1	30				25				503														1																	
+3314	Cửu Thiên Cuồng Lôi	2	100	1	6				25					1314																														
+3315	Cửu Thiên Cuồng Lôi_Sát Thương	0	0	1	6				3																																			
+3316	Cửu Thiên Cuồng Lôi Địa Liệt-Hiệu Quả	0	0	1	6				25				1318																															
+3317	Lý Quảng -Đánh Thường	1	120	1	4				15					3026										20			1																	
+3318	Lý Quảng-Thường_Phụ	1	120	1	4				15				129											20			1			100														
+3319	Xạ Thạch Hổ	1	120	1	9				15					3403										20			1																	
+3320	Xạ Thạch Hổ_Phụ	1	120	1	9				15				412											20			1			100														
+3321	Lưu Tinh Tiễn	1	60	0	3				11			1					-100										1						1											
+3322	Lưu Tinh Tiễn_Phụ 1	1	20	0	3				10			1															1						1											
+3323	Lưu Tinh Tiễn_Lạc Tiễn	0	0	0	10				6				428														1						1											
+3324	Lưu Tinh Tiễn_Sát thương	0	0	0	64			15	31			1		3026													1																	
+3325	Lưu Tinh Tiễn_Địa Liệt	0	0	0	10				23			1	3428														1						1											
+3326	Tụ Năng Tiễn	0		0	6				30				412				-700							10			1																	
+3327	Tụ Năng Tiễn_Phụ 1	1	100	0	6				20				412				-700							10			1																	
+3346	Trảo Kích	0	0	0	5				3					165													1																	
+3348	Bổ Nhào_Phụ	0	0	0	15				3					3024													1																	
+3349	Ma Hỏa Luyện Ngục	1	50	0	6				12				56	3026													1																	
+3350	Ma Hỏa Luyện Ngục_Hỏa Cầu	0	0	0	6				30				56				475										1																	
+3351	Ma Hỏa Luyện Ngục_Hiệu ứng nổ	0	0	0	18				30				1808														1																	
+3352	Ma Hỏa Luyện Ngục_Sát thương nổ	0	0	0	18				5					3026													1																	
+3353	Chưởng Kích	0	0	0	5				3					180													1																	
+3355	Chí Tôn Bào Hao	0	0	0	20				3					3024													1																	
+3356	Cắn xé	0	0	0	5				3					146													1																	
+3357	Độc Dịch	3	100	1	22			15	100			1	1396	3027				1									1																	
+3358	Sương Độc	1	10	1	12			10	100			1	13358	3027													1																	
+3359	Ném Tuyết	1	90	1	5				10		1		23365	33359																														
+3360	Tuyết Kim Châm	1	90	1	3				8					33359																														
+3361	Tuyết Trói Buộc	1	60	1	3				11					33359																														
+3362	Tuyết Ngáng Chân	1	60	1	3				11					33359																														
+3363	Tuyết Mê Hồn	1	60	1	3				11					33359																														
+3364	Tuyết Tấn Công	1	60	1	3				11					33359																														
+3365	Thiên Tiên Tuyết Vũ	1	40	1	5				16				23365	33359																														
+3373	Bẫy (Kim)	1	50	1	3				9				1843				20							-5			1																	
+3375	Bẫy (Mộc)	0	0	1	18				76				13358														1																	
+3376	Bẫy (Mộc)_Phụ	0	0	1	18			15	76			1		3027													1																	
+3377	Bẫy (Thủy)	1	20	0	3				14				55														1																	
+3378	Bẫy (Thủy)_Phụ	0	0	0	5				6					3025	2												1																	
+3379	Bẫy (Hỏa)	1	20	1	18				9																		1																	
+3380	Bẫy (Hỏa)_Hiệu Ứng 1	0	0	1	18				25				1327					1									1																	
+3381	Bẫy (Hỏa)_Hiệu Ứng 2	0	0	1	18				30				26														1																	
+3382	Bẫy (Hỏa)_Sát Thương	0	0	1	18				5					3026													1																	
+3383	Bẫy (Thổ)	0	0	1	18				25				1314														1																	
+3384	Bẫy (Thổ)_Sát thương	0	0	1	18				3																		1																	
+3385	Bẫy (Thổ)_Hiệu quả Địa Liệt	0	0	1	18				25				1318														1																	
+3386	Niên Thú Băng Trận	1	20	1	8				75								-60										1																	
+3387	Niên Thú Băng Trận_Sát Thương	0	0	1	8				20					33359													1																	
+3388	Niên Thú Băng Trận_Hiệu Ứng	0	0	1	8				25				51														1																	
+3389	Niên Thú Băng Trận_Định Thân	0	0	1	1				2																																			
+3390	Niên Thú Băng Trận_Đóng Băng	0	0	1	1				2																																			
+3391	Niên Thú Băng Trận_Hỗn Loạn	0	0	1	1				2																																			
+3392	Niên Thú Băng Trận_Choáng	0	0	1	1				2																																			
+3393	Niên Thú Băng Trận_Làm Chậm	0	0	1	1				2																																			
+3502	Tuyết Kim Châm_Phụ	1	90	1	5				8				23360																															
+3503	Tuyết Trói Buộc_Phụ	1	60	1	3				11				23361																															
+3504	Tuyết Ngáng Chân_Phụ	1	60	1	3				11				23362																															
+3505	Tuyết Mê Hồn_Phụ	1	60	1	3				11				23363																															
+3506	Tuyết Tấn Công_Phụ	1	60	1	3				11				23364																															
+3507	Kỹ năng Pháo Hoa 1	0	0	1	30				5		1			3026													1																	
+3508	Kỹ năng Pháo Hoa 1_Hiệu ứng	0	0	1	30				45				13507														1																	
+3509	Kỹ năng Pháo Hoa 1	0	0	1	30				5		1			3026													1																	
+3510	Kỹ năng Pháo Hoa 1_Hiệu ứng	0	0	1	30				45				13509														1																	
+3511	Kỹ năng Pháo Hoa 1	0	0	1	30				5		1			3026													1																	
+3512	Kỹ năng Pháo Hoa 1_Hiệu ứng	0	0	1	30				45				13511														1																	
+3514	Niên Thú Va Chạm_Phụ	0	0	1	12				3					3024													1																	
+3515	Niên Thú va chạm_Hiệu quả	0	0	1	6				30				18														1																	
+3516	Niên Thú Gầm Thét	1	30	1	2				15					3027	2												1																	
+3517	Niên Thú Gầm Thét_Hiệu quả	1	15	1	2				30				1548				180										1																	
+3518	Niên Thú Biến Dê	0	0	1	25				5					3025													1																	
+3520	Niên Thú Biến Dê_Hiệu quả	0	0	1	25				30				4490														1																	
+3521	Cảnh báo biến dê (Xung quanh bản thân 3m)	0	0	1	3				30				1453														1																	
+3591	Hoàn Băng Quyết	0	0	1	7				20					33359	3												1																	
+3592	Hoàn Băng Quyết_Biểu hiện	1	50	1	7				20				23365														1																	
+3593	Ném Cầu Tuyết Vô Hạn	1	90	1	5				10		1		23365	33359																														
+3671	Bá Vương Thương	0	0	0	12				3					3026			120										1																	
+3672	Liệt Diệm Trảm	1	70	0	8				12					3026													1																	
+3673	Liệt Diệm Trảm_Hiệu Quả 1	0	0	0	6				20				13673														1																	
+3674	Liệt Diệm Trảm_Hiệu Quả 2	0	0	0	6				20				13674														1																	
+3675	Nổ Tung	1	50	0	8				21					3026													1																	
+3676	Viêm Bộc_Hiệu Quả	0	0	0	6				30				13676														1																	
+3678	Thiên Quân Vạn Mã_Sát thương	1	140	0	12				6					3026			110										0																	
+3679	Hồng Môn Yến	0	0	0	15				5					3026		1											1																	
+3680	Hồng Môn Yến_Hiệu ứng	0	0	0	15				30				13680														1																	
+3681	Hàn Tinh	0	0	1	15				5					3025		1											1																	
+3682	Hàn Tinh_Hiệu ứng	0	0	1	15				30				13682			1											1																	
+3683	Hàng Băng Thích	0	0	1	4				5				2560														1																	
+3684	Hàng Băng Thích_Phụ	5	100	1	4				15		1		2560	3025										5			1																	
+3685	Bóng Nước	0	0	1	8				15				13685														1																	
+3686	Bóng Nước_Phụ	1	30	1	8				40		1		13685	34012													1																	
+3687	Độc Châm	1	60	1	4				16				23687	34301		1								10			1																	
+3688	Hoa Diệp Phi Vũ	0	0	1	20				5				13688	34301		1											1																	
+3689	Hạt Hoàng Cổ	0	0	1	15				5					34301		1											1																	
+3690	Hạt Hoàng Cổ_Hiệu ứng	0	0	1	15				30				13690			1											1																	
+3691	Mãnh Lực	0	0	0	9				6					3026			120										1																	
+3692	Ngục Hỏa Thiên Diệm	0	0	1	6				40				13692				100										1																	
+3693	Ngục Hỏa Thiên Diệm_Phụ	1	40	1	6				13					3026			50										1																	
+3694	Hỏa Diệm Lạc Đạn	0	0	1	8				8				13694														1		1808															
+3695	Hỏa Diệm Lạc Đạn_Sát thương	0	0	1	8				3					3026													1																	
+3711	Tam Quy Nguyên Khí	1	40	0	5				20				1548														1																	
+3712	Tẩm Độc Chưởng	0	0	0	1				3					34001													1																	
+3713	Lôi Điện Pháp Trận-Độc (4m)	0	0	1	22			15	76			1		34101				1									1																	
+3714	Lôi Điện Pháp Trận-Độc (4m)_Lôi Điện	0	0	1	22				15				24125					1									1																	
+3715	Lôi Điện Pháp Trận-Độc (4m)_Địa Liệt	0	0	1	9				15				34125														1																	
+3717	Tam Quy Nguyên Khí_Phụ	1	100	1	6				9					3027	1												1																	
+3718	Ngũ Độc Địch Chú	0	0	0	12				3					34301						5985			1				1																	
+3719	Ngũ Độc Địch Chú_Hiệu ứng	0	0	0	12				20				24302							5985			1				1																	
+3720	Âm Phong Thực Cốt	0	0	1	22				5					3603													1																	
+3721	Âm Phong Thực Cốt_Hiệu ứng	0	0	1	22				45				24309														1						1											
+3733	Vạn Cổ Thực Tâm	0	0	1	24				5																		1																	
+3734	Vạn Cổ Thực Tâm_Hiệu ứng	0	0	1	24				45				24353														1						1											
+3736	Cơ Quan Cung Tiễn	1	100	0	6				21					3401													1																	
+3737	Cơ Quan Cung Tiễn_Hiệu Ứng	1	100	0	6				21				182														1																	
+3738	Cơ Quan Cung Tiễn_Kim	1	100	0	6				21					3401													1																	
+3739	Cơ Quan Cung Tiễn_Hiệu Ứng Kim	1	100	0	6				21				2722														1																	
+3740	Cơ Quan Cung Tiễn_Mộc	1	100	0	6				21					1892													1																	
+3741	Cơ Quan Cung Tiễn_Hiệu Ứng Mộc	1	100	0	6				21				2723														1																	
+3742	Cơ Quan Cung Tiễn_Thủy	1	100	0	6				21					1893													1																	
+3743	Cơ Quan Cung Tiễn_Hiệu Ứng Thủy	1	100	0	6				21				2724														1																	
+3744	Cơ Quan Cung Tiễn_Hỏa	1	100	0	6				21					1894													1																	
+3745	Cơ Quan Cung Tiễn_Hiệu Ứng Hỏa	1	100	0	6				21				2725														1																	
+3746	Cơ Quan Cung Tiễn_Thổ	1	100	0	6				21					1895													1																	
+3747	Cơ Quan Cung Tiễn_Hiệu Ứng Thổ	1	100	0	6				21				2726														1																	
+3751	Pháo Tháp	0	0	1	8				3					3026													1																	
+3752	Pháo Tháp_Cảnh Báo	0	0	1	8				2				14					1									1																	
+3753	Pháo Tháp_Địa Liệt	0	0	1	8				30				26														1																	
+3802	Băng Thanh Ngọc Nhuận_Phụ	0	0	1	60				15		1			13801									1				1																	1
+3856	Địa Bộc Thiên Tinh	1	60	0	3				15			1					-100										1																	
+3857	Địa Bộc Thiên Tinh_Phụ	1	20	0	3				10			1															1																	
+3858	Địa Bộc Thiên Tinh_Lưu Tinh	0	0	0	10			6	18				1327														1																	
+3859	Địa Bộc Thiên Tinh_Địa Liệt	0	0	1	10				40				1808														1																	
+3860	Địa Bộc Thiên Tinh_Sát thương	0	0	0	64			7	30		0	1		3026													1																	
+3901	Bá Vương Thương	0	0	0	12				3					3026			120										1																	
+3902	Hồng Môn Yến	0	0	0	16				5					3026		1											1																	
+3903	Hồng Môn Yến_Hiệu ứng	0	0	0	16				30				13680														1																	
+3904	Hàn Tinh	0	0	1	15				5					3025		1											1																	
+3905	Hàn Tinh_Hiệu ứng	0	0	1	15				30				13682			1											1																	
+3906	Hàng Băng Thích	0	0	1	4				5				2560														1																	
+3907	Hàng Băng Thích_Phụ	5	100	1	4				15		1		2560	3025										5			1																	
+3908	Độc Châm	1	60	1	4				16				23687	34301		1								10			1																	
+3909	Hạt Hoàng Cổ	0	0	1	15				5					34301		1											1																	
+3910	Hạt Hoàng Cổ_Hiệu ứng	0	0	1	15				30				13690			1											1																	
+3911	Hạt Hoàng Cổ_Phụ 1	2	200	0	6				90														1				1																	
+3912	Hạt Hoàng Cổ_Phụ 2	0	0	0	6				5		1												1				1																	
+3913	Mãnh Lực	0	0	0	9				6					3026			120										1																	
+3914	Ngục Hỏa Thiên Diệm	0	0	1	6				40				13692														1																	
+3915	Ngục Hỏa Thiên Diệm_Phụ	1	55	1	6				13					3026													1																	
+3916	Viêm Kích	1	100	0	6				15					3026			30										1																	
+3917	Viêm Kích_Phụ	1	100	0	6				15				2716				30										1																	
+3918	Thanh Sơn Ngã Ý	0	0	1	4				5				1835														1																	
+3919	Thanh Sơn Ngã Ý_Phụ	5	100	1	4				15		1		1835	3026										5			1																	
+3920	Võ Tắc Thiên-Đánh Thường	1	100	0	6				15				13920	3025			30										1																	
+3921	Sức Mạnh Nữ Đế	0	0	0	64				5																		1																	
+3922	Sức Mạnh Nữ Đế_Đóng Băng	0	0	0	6				5					817													1																	
+3923	Thiên Sơn Cầm Khúc	1	150	0	7				6				24601	34601										30	1000	3	1																	
+3924	Phi Yến Lăng Ba	1	80	0	6				10					34606	1										1000	3	1																	
+3925	Ngân Bình Ngọc Toái	0	0	0	13				3	16			24609	34606											1000	3	1																	
+3926	Quỷ Cốc Tử-Công Thường	0	0	1	10				5					34002													1																	
+3927	Quỷ Cốc Tử-Công thường_Hiệu ứng	0	0	1	10				30				2842				-250										1						1											
+3928	Hợp Tung Liên Hoành	0	0	0	64				3					34002													1																	
+3929	Hợp Tung Liên Hoành_Hiệu ứng	0	0	0	64				20				13206														1						1											
+3930	Trương Tam Phong-Công Thường	0	0	1	10				5					3604													1																	
+3931	Trương Tam Phong-Công thường_Hiệu ứng	0	0	1	10				30				2802														1																	
+3932	Âm Dương Quyết	0	0	0	64				5																		1																	
+4001	Đường Môn Ám Khí	5	70	0	5				16		1		24004	34001						5929					1000	3	1																	
+4002	Đường Môn Ám Khí 2	5	70	0	5				16		1		24004	34001						5929					1000	3	1																	
+4003	Đường Môn Ám Khí 3	5	70	0	5				16		1		24004	34001						5929					1000	3	1																	
+4004	Đường Môn Ám Khí 4	5	70	0	5				16		1		24004	34001						5929					1000	3	1																	
+4006	Triền Thân Thích. Kỹ năng chính trì hoãn đạn	0	0	0	1				21				14006														1																	
+4007	Triền Thân Thích_Sát thương nổ	0	0	1	9				5					34002						5924					1000	3	1																	
+4008	Bạo Vũ Lê Hoa	0	0	1	8				5	25			24008	34001						5926							1																	
+4009	Mê Ảnh Tung-Hàm Sa Xạ Ảnh	1	90	1	4				6				24009	34001											1000	3	1																	
+4012	Cửu Cung Phi Tinh	0	0	1	4				7				24012														1																	
+4013	Cửu Cung Phi Tinh_Phụ 1	5	100	1	4				15		1		24012	34012										5			1																	
+4015	Tôi Độc Thuật	0	0	0	64				2																																			
+4016	Tôi Độc Thuật_Đồng đội	0	0	0	64				2																																			
+4025	Cửu Cung Phi Tinh_Phụ 2	0	0	1	4				5				24025														1																	
+4026	Cửu Cung Phi Tinh_Phụ 3	1	87	1	4				3				24025														1																	
+4032	Thiên Cơ Khổng Tước Linh	0	0	0	64				15				24032														1						1											
+4033	Thiên Cơ Khổng Tước Linh_Hiệu Quả 1	0	0	0	64				15				24032														1						1											
+4034	Thiên Cơ Khổng Tước Linh_Hiệu Quả 2	0	0	0	64				15				24032														1						1											
+4035	Thiên Cơ Khổng Tước Linh_Sát thương	0	0	0	64			5	16			1		34002													1																	
+4048	Đường Môn Ám Khí_Tán Tiêu 1	1	70	1	4				9		1		24001	34001											1000	3	1																	
+4049	Đường Môn Ám Khí_Tán Tiêu 2	1	70	1	4				9		1		24001	34001											1000	3	1																	
+4050	Đường Môn Ám Khí_Tán Tiêu 3	1	70	1	4				9		1		24001	34001											1000	3	1																	
+4051	Đường Môn Ám Khí_Tán Tiêu 4	1	70	1	4				9		1		24001	34001											1000	3	1																	
+4061	Truy Tinh Trục Điện_Phụ	0	0	0	6				5		1																1																	
+4063	Triền Thân Thích-Bí Kíp-Sơ-dohitskill	0	0	0	6				2		1																1																	
+4064	Triền Thân Thích-real	0	0	1	9				450		1		24006														1		34007			24007												
+4101	Côn Lôn Kiếm Pháp	0	0	0	13				5					34101			126			5950					1000	3	1																	
+4102	Côn Lôn Kiếm Pháp 2	0	0	0	13				5					34102			126			5950					1000	3	1																	
+4103	Côn Lôn Kiếm Pháp 3	0	0	0	13				5					34103			126			5950					1000	3	1																	
+4104	Côn Lôn Kiếm Pháp 4	0	0	0	13				5					34104			126			5950					1000	3	1																	
+4107	Tiên Nhân Chỉ Lộ_Phụ	1	250	0	16				4					34107											1000	3																		
+4108	Hỗn Độn Kiếm Trận	3	250	1	20			5	121			1	24108	34101											1000	3	1																	
+4109	Tiếu Phong Tam Liên Kích_Phụ-Sát thương phạm vi	0	0	1	13				5	3			24110	34101											1000	3	1																	
+4110	Tiếu Phong Tam Liên Kích	5	80	0	5				16		1		24110														1																	
+4112	Lôi Động Cửu Thiên	2	200	1	4				10					24112						5949																								
+4113	Lôi Động Cửu Thiên vòng 2	2	200	1	4				10					24125						5949																					0			
+4114	Lôi Động Cửu Thiên vòng 2_Địa Liệt	0	0	1	9				15				34125																															
+4128	Côn Hư Trụy Vô Phong	0	0	0	64				3					34101											1000	3	1																	
+4132	Nhất Khí Tam Thanh_Đạn Chính	0	0	1	60				3																		1																	
+4157	Thử nghiệm. Thử nghiệm hitskill mới	0	0	1	64			12	70			1	807	34201			500								1000	3	1					6807												1
+4158	Thử nghiệm. Thử nghiệm hitskill mới. Phụ	1	70	0	5				16				24004	34001						5929					1000	3	1																	
+4201	Cái Bang Chưởng Pháp	0	0	0	13				6					34201			126			5965					1000	3	1																	
+4202	Cái Bang Chưởng Pháp 2	0	0	0	13				6					34202			126			5965					1000	3	1																	
+4203	Cái Bang Chưởng Pháp 3	0	0	0	13				6					34203			126			5965					1000	3	1																	
+4204	Cái Bang Chưởng Pháp 4	0	0	0	13				6					34203			126			5965					1000	3	1																	
+4205	Cái Bang Chưởng Pháp 5	0	0	0	13				6					34204			126			5965					1000	3	1																	
+4206	Hàng Long Hữu Hối	1	80	0	8				15					3407											1000	3	1																	
+4207	Hàng Long Hữu Hối_Hiệu Quả	0	0	0	8				15				24206														1						1											
+4208	Khốn Long Công	0	0	1	16				44				14210														1					24210												
+4209	Khốn Long Công_Phụ 1	0	0	1	16				5					3026											1000	3	1																	
+4210	Khốn Long Công_Phụ 2	0	0	1	16				6				24208														1																	
+4213	Long Chiến Vu Dã	0	0	1	20				90				24213														1					24215												
+4214	Long Chiến Vu Dã_Phụ 1	0	0	1	20				3					34201											1000	3	1																	
+4215	Long Chiến Vu Dã_Phụ 2	0	0	1	20				10				24214														1																	
+4216	Long Chiến Vu Dã_Phụ 3	0	0	1	28				5																		1																1	
+4217	Long Chiến Vu Dã_Phụ 4	2	60	1	6				13		1		1323	34201											1000	3	1																	
+4227	Kim Thiền Thoát Xác_Hiệu ứng thi triển	0	0	1	20				30				14132														1																	
+4230	Thâu Thiên Hoán Nhật _Phụ	3	200	1	5				6		1			34104													1																	
+4231	Khốn Long Công_Nổ	0	0	1	20				30				24209								5968						1																	
+4232	Giáng Long Thập Bát Chưởng	1	100	0	8				15				24206														1																	
+4233	Giáng Long Thập Bát Chưởng_Phụ 1	1	100	0	8				15				24206														1																	
+4234	Giáng Long Thập Bát Chưởng_Phụ 2	1	100	0	8				15				24206														1																	
+4235	Giáng Long Thập Bát Chưởng_Sát thương	0	0	1	64				3					3407													1																	
+4236	Giáng Long Thập Bát Chưởng_Rồng Rơi	0	0	0	8				8				24236														1		34236															
+4254	Long Chiến Vu Dã-Cao_Phụ	0	0	1	2				2		1																																	
+4301	Ngũ Độc Địch Chú	0	0	0	8				3					34301						5985			1		1000	3	1																	
+4302	Ngũ Độc Địch Chú 2	0	0	0	8				3					34302						5985			1		1000	3	1																	
+4303	Ngũ Độc Địch Chú 3	0	0	0	8				3					34303						5985			1		1000	3	1																	
+4304	Ngũ Độc Địch Chú 4	0	0	0	8				3					34304						5985			1		1000	3	1																	
+4305	Ngũ Độc Địch Chú_Hiệu ứng	0	0	0	8				25				24301										1				1						1											
+4306	Ngũ Độc Địch Chú 2_Hiệu ứng	0	0	0	8				25				24302										1				1						1											
+4307	Ngũ Độc Địch Chú 3_Hiệu ứng	0	0	0	8				25				24303										1				1						1											
+4308	Ngũ Độc Địch Chú 4_Hiệu ứng	0	0	0	8				25														1				1						1											
+4309	Âm Phong Thực Cốt	0	0	1	15				5					3603											1000	3	1																	
+4310	Âm Phong Thực Cốt_Hiệu ứng	0	0	1	15				30				24309														1						1											
+4312	Triệu Hồi Độc Trùng_Linh Xà	0	0	0	30				5		1									5994							1																	
+4314	Triệu Hồi Độc Trùng_Bích Thiềm	0	0	0	30				5		1									5995							1																	
+4316	Triệu Hồi Độc Trùng_Xích Hạt	0	0	0	30				5		1									5996							1																	
+4318	Triệu Hồi Độc Trùng_Phong Ngô	0	0	0	30				5		1									5997							1																	
+4320	Triệu Hồi Độc Trùng_Mặc Tri	0	0	0	30				5		1									5998							1																	
+4322	Linh Xà-Đánh Thường	0	0	0	3				3					34328																														
+4323	Kỹ năng Linh Xà (Tàn Phế) 	2	60	0	5				15		1		24323	34328									1				1																	
+4324	Bích Thiềm-Đánh Thường	0	0	0	3				3					34328																														
+4325	Kỹ năng Bích Thiềm (Giảm Kháng Mộc) 	0	0	0	8				3					34328									1				1																	
+4326	Kỹ năng Bích Thiềm (giảm Kháng Mộc) _Hiệu ứng	0	0	0	8				30				24325										1				1						1											
+4327	Xích Hạt-Đánh Thường	0	0	0	3				3					34328																														
+4329	Phong Ngô-Đánh Thường	0	0	0	3				3					34328																														
+4330	Kỹ năng Phong Ngô (Giảm né tránh) 	2	60	0	5				15		1		24330	34328									1				1																	
+4332	Mặc Thù-Đánh Thường	0	0	0	3				3					34328																														
+4333	Kỹ năng Mặc Thù (Tăng thời gian Độc)	2	60	0	5				15		1		24333	34328									1				1																	
+4334	Mê Tâm Cổ	0	0	0	10				5		1												1				1																	
+4335	Mê Tâm Cổ_Phụ 1	2	200	0	6				118				14336										1				1																	
+4337	Mê Tâm Cổ_Phụ 2	0	0	0	6				5		1												1				1																	
+4339	Vạn Cổ Thực Tâm	0	0	1	20				5																		1																	
+4340	Vạn Cổ Thực Tâm_Phụ	0	0	1	20				5					34301											1000	3	1																	
+4346	Vô Hình Cổ_Phụ	0	0	1	10				3		1			34328											1000	3	1		34007															
+4351	Ngũ Độc Kỳ Kinh_Phụ 1	0	0	0	25				5		1			34301											1000	3	1																	
+4352	Ngũ Độc Kỳ Kinh_Phụ 2	2	80	0	5				9		1		24346														1		34346															
+4353	Vạn Cổ Thực Tâm_Hiệu ứng	0	0	1	15				45				24353														1						1											
+4354	Vạn Cổ Thiên Tiên Chiếu	0	0	0	8				30				24354														1			50												1		
+4355	Vạn Cổ Thiên Tiên Chiếu_Phụ 1	0	0	0	8				30				24354														1			100												1		
+4356	Vạn Cổ Thiên Tiên Chiếu_Phụ 2	0	0	0	8				24				24354														1		34354															
+4357	Vạn Cổ Thiên Tiên Chiếu_Sát thương	0	0	1	64				3					34302											1000	3	1																	
+4360	Vạn Cổ Thiên Tiên Chiếu_Hiệu ứng nổ 1	0	0	0	8				30				34354														1			50												1		
+4361	Vạn Cổ Thiên Tiên Chiếu_Hiệu ứng nổ 2	0	0	0	8				30				34354														1			100												1		
+4401	Tàng Kiếm Kiếm Pháp	0	0	0	13				3					34401			126			6005					1000	3	1																	
+4402	Tàng Kiếm Kiếm Pháp 2	0	0	0	13				3					34401			126			6005					1000	3	1																	
+4403	Tàng Kiếm Kiếm Pháp 3	0	0	0	13				3					34401			126			6005					1000	3	1																	
+4404	Tàng Kiếm Kiếm Pháp 4	0	0	0	13				3					34401			126			6005					1000	3	1																	
+4405	Tàng Kiếm Kiếm Pháp 5	0	0	0	13				3					34401			126			6005					1000	3	1																	
+4406	Đoạn Triều	1	1000	1	12				2					166			50								1000	3	1																	
+4409	Ngọc Tuyền Ngư Dược_Phụ	0	0	0	12				3					166											1000	3	1																	
+4413	Phong Tháp Vân Cảnh_Nổ ban đầu	0	0	1	19				3	42			24416														1					24414												
+4414	Phong Tháp Vân Cảnh_Kiếm Trận Ngoại Vi-dohitskill	0	0	1	72			15	121			1	24415					1									1																1	
+4415	Phong Tháp Vân Cảnh_Gọi Phi Kiếm	5	40	1	1				4																		1							1									1	
+4416	Phong Tháp Vân Cảnh_Phi Kiếm tấn công	1	250	1	6				6				24425	166											1000	3	1																	
+4417	Hạc Quy Cô Sơn	0	0	0	64				2																		1																	
+4419	Hạc Quy Cô Sơn_Địch	0	0	0	64				2																		1																	
+4425	Vân Thê Tùng_Phụ 1-Phi Kiếm Xoay Vòng	6	120	1	5				20				24425	166										5	1000	3	1								1			Khi loại là đạn xoay vòng thì điền 1, khi đạn quay về sẽ theo sau người chơi						
+4429	Hoàng Long Thổ Thúy_Phụ	0	0	1	15				3	12			14425	3024											1000	3	1																	
+4430	Phong Tháp Vân Cảnh_Hiệu quả duy trì vòng trong-Biểu hiện	0	0	1	19				2	119			24413														1					24414	1											
+4433	Tàng Kiếm Nộ Khí	0	0	0	64				5					166											1000	3	1																	
+4434	Tàng Kiếm Nộ Khí_Phụ	0	0	0	64				5					166											1000	3	1																	
+4446	Phong Tháp Vân Cảnh-Sơ_Sát thương ban đầu	0	0	1	19				3					3024													1																	
+4501	Trường Ca Phiến Quyết	1	120	0	10				6				24501	34501						6025				10	1000	3	1																	
+4502	Trường Ca Phiến Quyết 2	1	120	0	10				6				24502	34501						6025				10	1000	3	1																	
+4503	Trường Ca Phiến Quyết 3	1	120	0	10				6				24503	34501						6025				10	1000	3	1																	
+4504	Trường Ca Phiến Quyết 4	1	120	0	10				6				24504	34504						6025				10	1000	3	1																	
+4506	Bình Sa Nhạn Lạc	1	900	0	18				2					34504			20								1000	3	1																	
+4507	Bình Sa Nhạn Lạc_Phụ	1	150	0	18				7				24506				120										1						1											
+4508	Vân Sinh Kết Hải	3	100	1	24				120				24508														1																	
+4510	Vân Sinh Kết Hải _Đồng đội	3	100	1	24				15																		1																	
+4512	Thanh Âm Trường Khiếu	5	30	0	4				13		1		24512	34504										10	1000	3	1																	
+4513	Thanh Âm Trường Khiếu_Phụ 1	5	30	0	4				13		1		24513	34504										10	1000	3	1																	
+4514	Thanh Âm Trường Khiếu_Phụ 2	5	30	0	4				13		1		24516	34504										10	1000	3	1																	
+4515	Thanh Âm Trường Khiếu_Phụ 3	5	30	0	4				13		1		24515	34504										10	1000	3	1																	
+4516	Thanh Âm Trường Khiếu_Phụ 4	5	30	0	4				13		1		24514	34504										10	1000	3	1																	
+4518	Giang Trục Nguyệt Thiên	0	0	1	24				90				24518														1					34518												
+4519	Giang Trục Nguyệt Thiên_Sát thương	0	0	1	24				3					34519											1000	3	1																	
+4520	Giang Trục Nguyệt Thiên_BUFF	0	0	1	24				15					34508													1																	
+4521	Giang Trục Nguyệt Thiên_Hiệu ứng	0	0	1	24				30				24521														1																	
+4523	Dạ Dẫn Phong Lam_Phụ	0	0	1	20				3					34504											1000	3	1																	
+4524	Dạ Dẫn Phong Lam_Hiệu ứng	0	0	1	20				45				14524												1000	3	1																	
+4528	Ma Âm Triền Nhiễu_Phụ	0	0	1	10				3		1			34519													1																	
+4530	Hồi Mộng Trục Quang_Hồi Phục	0	0	1	20				3		1			34104													1																	
+4531	Hồi Mộng Trục Quang_Trạng thái	0	0	1	20				3					34504													1																	
+4532	Hồi Mộng Trục Quang_Bị Thương	0	0	0	20				3																1000	3	1																	
+4533	Hồi Mộng Trục Quang_Tàn Phế	0	0	0	20				3																1000	3	1																	
+4534	Hồi Mộng Trục Quang_Làm Chậm	0	0	0	20				3																1000	3	1																	
+4535	Hồi Mộng Trục Quang_Tê liệt	0	0	0	20				3																1000	3	1																	
+4536	Hồi Mộng Trục Quang_Choáng	0	0	0	20				3																1000	3	1																	
+4537	Hồi Mộng Trục Quang_Hiệu ứng	0	0	0	20				45				14537														1																	
+4542	Dương Xuân Bạch Tuyết_BUFF Cấm Trị Liệu 2 chiêu trước	1	120	0	5				5															10			1																	
+4543	Dương Xuân Bạch Tuyết_BUFF Cấm Trị Liệu 2 chiêu sau	1	120	0	5				5															10			1																	
+4544	Trường Ca Nộ Khí	0	0	0	64				5					166											1000	3	1																	
+4545	Trường Ca Nộ Khí_Phụ	0	0	0	64				5					166											1000	3	1																	
+4553	Vân Sinh Kết Hải-Sơ_Phụ-Hồi Sinh Lực	0	0	1	24				3																		1																	
+4559	Vân Sinh Kết Hải-Trung_Phụ_Hồi Sinh Lực	0	0	1	24				3																		1																	
+4565	Vân Sinh Kết Hải-Cao_Phụ-Hồi Sinh Lực	0	0	1	24				3																		1																	
+4566	Vân Sinh Kết Hải-Cao_Kết thúc sát thương	0	0	1	24				3					34519													1																	
+4568	Thanh Âm Trường Khiếu-Cao_Giải Trừ	0	0	1	64				3					3025													1																	
+4570	Giang Trục Nguyệt Thiên_Kéo Lại	0	0	1	24				3							1											1																	
+4571	Vân Sinh Kết Hải-Cao_Hiệu ứng kết thúc sát thương	0	0	1	24				30				14565														1																	
+4601	Thiên Sơn Cầm Khúc	1	150	0	10				6				24601	34601						6051				30	1000	3	1																	
+4602	Thiên Sơn Cầm Khúc 2	1	150	0	10				6				24602	34601						6051				30	1000	3	1																	
+4603	Thiên Sơn Cầm Khúc 3	1	150	0	10				6				24603	34601						6051				30	1000	3	1																	
+4604	Thiên Sơn Cầm Khúc 4	1	150	0	10				6				24604	34601						6051				30	1000	3	1																	
+4606	Phi Yến Lăng Ba	1	80	0	6				10					34606	1										1000	3	1																	
+4607	Phi Yến Lăng Ba_Hiệu ứng	1	60	0	6				13				24607				200							60			1						1											
+4608	Ngân Bình Ngọc Toái	0	0	0	13				3	16			24609	34606											1000	3	1																	
+4609	Ngân Bình Ngọc Toái_Số tầng Bùa Chú	0	0	0	13				3																		1																	
+4611	Không Sơn Ngưng Vân	0	0	0	64				2		1																1																	
+4613	Thủy Long Ngâm_Chính_Bùa Chú	1	80	0	8				15					34606	2										1000	3	1																	
+4614	Thủy Long Ngâm_Hiệu quả	1	0	0	8				12				24614														1						1											
+4616	Thiên Sơn Nộ Khí	0	0	0	64				5					34606											1000	3	1																	
+4617	Thiên Sơn Nộ Khí_Phụ	0	0	0	64				5					34606											1000	3	1																	
+4620	Phượng Thê Ngô Đồng_Bản Thân	0	0	1	24			10	76			1	14620	24620													1																	
+4621	Thủy Long Ngâm_Sát thương	1	80	0	8				15					34606	2										1000	3	1																	
+4624	Thủy Mộ Thiên Hoa	0	0	0	64				2																		1																	
+4625	Thủy Mộ Thiên Hoa_Đồng đội	0	0	0	64				2																		1																	
+4631	Hủy bỏ	0	0	0	64				5		1																1																	
+4633	Hủy bỏ	0	0	0	64				5		1																1																	
+4635	Cầm Sắt Hòa Minh_Phụ	0	0	1	15				3	12			14636	34601											1000	3	1																	
+4703	Phi Nhẫn	1	15	1	13				100		1		1332	4332													1																	
+4802	Nhâm Mạch-Khúc Cốt_Sát thương	0	0	1	15				3					3026											1000	3	1																	
+4803	Nhâm Mạch-Khúc Cốt_Hiệu ứng	0	0	1	15				20				14803														1																	
+4805	Đốc Mạch-Trường Cường_Sát thương	0	0	1	8				3					3026											1000	3	1																	
+4806	Đốc Mạch-Trường Cường_Hiệu ứng	0	0	1	8				20				14806														1																	
+4808	Xung Mạch-U Môn_BUFF	0	0	1	1				2																		1																	
+4851	Võ Tắc Thiên-Đánh Thường	1	100	0	10				15					3025			40										1																	
+4852	Võ Tắc Thiên Đánh Thường_Hiệu ứng	1	100	0	10				15				13920				40										1			80														
+4853	Băng Lạnh	1	60	0	5				15																		1																	
+4854	Băng Lạnh_Phụ	1	40	0	5				25		1		816	817													1																	
+4856	Miễu Sát Ba Lãng	1	60	1	10				300				2777				180										1						1											
+4857	Miễu Sát Ba Lãng_Phụ	1	60	1	10				300					3025			80										1																	
+4858	Hiệu ứng truyền tống Nữ Đế	0	0	1	5				75				14858														1																	
+4859	Thi triển Miễu Sát Ba Lãng	0	0	1	10				300				3308				80										1			80			1											
+4864	Vạn Tiêu Thích Tâm	1	100	0	6				20				24008				-700										1																	
+4865	Tử Vong Hồi Toàn	6	140	1	1				21				708											1			1								1			Khi loại là đạn xoay vòng thì điền 1, khi đạn quay về sẽ theo sau người chơi						
+4866	Tử Vong Hồi Toàn_Phụ	6	140	1	8				21					3701			100							1			1								1			Khi loại là đạn xoay vòng thì điền 1, khi đạn quay về sẽ theo sau người chơi						
+4868	Đánh Thường Sát Thương Cao	0	0	0	1				3					3021													1																	
+4873	Báo động vòng tròn bán kính 1.5 ô_Điểm mục tiêu	0	0	1	16				30				1454				300																											
+4901	Đại Phong Xa-Toàn Phong	1	20	1	6				60				62	3027													1																	
+4904	Vòng Xoáy Tím	0	0	0	13				60				9013																															
+4905	Tâm Lĩnh Hộ	0	0	1	16				5			1															1																	
+5001	Bá Đao Đao Quyết	0	0	0	13				3					35001			126			6086					1000	3	1																	
+5002	Bá Đao Đao Quyết 2	0	0	0	13				3					35001			126			6086					1000	3	1																	
+5003	Bá Đao Đao Quyết 3	0	0	0	13				3					35001			126			6086					1000	3	1																	
+5004	Bá Đao Đao Quyết 4	0	0	0	13				3					35001			126			6086					1000	3	1																	
+5005	Hóa Huyết Kiếp Quang	0	0	0	20				3					35001			250								1000	3	1																	
+5006	Hóa Huyết Kiếp Quang_Phụ 1_Tấn công liên quan sinh lực	0	0	0	20				3					35001			250								1000	3	1																	
+5009	Hiệp Sơn Siêu Hải_Phụ. Đánh Lui	3	250	0	18				6			1																																
+5010	Hiệp Sơn Siêu Hải_Phụ. Sát thương	3	250	0	18				12					35001											1000	3	1																	
+5011	Nghịch Huyết Tiệt Mạch	0	0	0	30				3																1000	3	1																	
+5012	Nghịch Huyết Tiệt Mạch_Duy trì đạn	2	250	1	5			107	106																		1																	
+5013	Nghịch Huyết Tiệt Mạch_Đạn sát thương	0	0	1	5				3					35011											1000	3	1																	1
+5016	Dục Huyết Đạo Phong. Mỗi 2 giây giảm chờ Hóa Huyết Kiếp Quang	3	250	1	13			30	91			1															1																	1
+5020	Thiên Phong Đoạn Nhạc Trảm	0	0	0	64				5					34606											1000	3	1																	
+5021	Thiên Phong Đoạn Nhạc Trảm_Phụ	0	0	0	64				5					34606											1000	3	1																	
+5029	Bĩ Cực Thái Lai. Kích hoạt biểu hiện hồi sinh lực	3	250	0	3				3	15				266									1				1																	1
+5032	Đạn chính Thừa Thắng Trục Bắc	0	0	0	64				3		1																																	
+5050	Bí Kíp Hóa Huyết Kiếp Quang. Sinh lực thấp aoe	0	0	1	20				3					3024			250								1000	3	1																	
+5054	Bí Kíp Nghịch Huyết Tiệt Mạch. Thi triển giảm tốc và giảm kháng	0	0	1	5				3																																			1
+5055	Bí Kíp Dục Huyết Đạo Phong. Sát thương phạm vi xung quanh bản thân	0	0	1	25				3	12			25055	35001											1000	3	1																	
+5101	Nổ-Điểm Danh	2	200	1	2				75																				1808															
+5103	Nổ-Điểm Danh_Sát thương	0	0	1	15				3																																			
+5115	Diệt nhanh (Không có hiệu ứng)	0	0	0	128			7	30		0	1		3027													1																	
+5201	Hoa Sơn Kiếm Pháp	0	0	0	13				3					35201			126			6116					1000	3	1																	
+5202	Hoa Sơn Kiếm Pháp 2	0	0	0	13				3					35201			126			6116					1000	3	1																	
+5203	Hoa Sơn Kiếm Pháp 3	0	0	0	13				3					35201			126			6116					1000	3	1																	
+5204	Hoa Sơn Kiếm Pháp 4	0	0	0	13				3					35201			126			6116					1000	3	1																	
+5207	Tiêu Sử Thừa Long_Sát thương	3	350	1	16				12					35201											1000	3	1																	
+5209	Thiên Thân Đảo Huyền	0	0	0	13				6					35201			126								1000	3	1																	
+5212	Triều Dương Kiếm Khí	1	120	0	8				13				25212	35201										20	1000	3	1							1										
+5213	Triều Dương Kiếm Khí_Biểu hiện vẩy đuôi	0	0	1	5				5				15214				100										1						1	1										
+5216	Phong Tống Tử Hà_Sát thương	0	0	1	30				3	17			25215	35201						6116	6108				1000	3	1																	
+5226	Vân Thiên Hồ Quang. Phản Kích	0	0	1	7				3	20			15226	34601				1		5505					1000	3	1																	
+5230	Hoa Sơn Nộ Khí	0	0	0	64				5					35201											1000	3	1																	
+5231	Hoa Sơn Nộ Khí_Phụ	0	0	0	64				5					35201											1000	3	1																	
+5236	Phong Tống Tử Hà. Kích Nổ Kiếm Khí	3	250	1	20				3		1																1																	1
+5254	Phá chiêu. Khi trúng mục tiêu sẽ giúp bản thân hồi sinh lực	0	0	0	64				3																																			1
+5361	Tuyệt Học Thiên Nhẫn 1. Tử Vong Hồi Toàn kích hoạt tấn công phản đòn	2	140	1	3				30				708	3701						5705					1000	3	1		3710														1	
+5380	Cái Bang Tuyệt Học 2 Hiệu quả kéo lại Long Chiến Vu Dã Hỏa Cầu	0		1	28				5		1					1									1000		1																	
+5501	Minh Giáo Ngự Hoàn Quyết	0	0	0	13				3					35501			126			6134					1000	3	1																	
+5502	Minh Giáo Ngự Hoàn Quyết 2	0	0	0	13				3					35501			126			6134					1000	3	1																	
+5503	Minh Giáo Ngự Hoàn Quyết 3	0	0	0	16				3					35501			175			6134					1000	3	1																	
+5504	Minh Giáo Ngự Hoàn Quyết 4	0	0	0	16				3					35501			175			6134					1000	3	1																	
+5506	Phần Sơn Phệ Xuyên	1	1000	1	16				2					35501			75								1000	3	1																	
+5509	Điện Quang Thạch Hỏa_Phụ	0	0	0	12				3					35501											1000	3	1																	
+5512	Hỏa Quang Tàn Ảnh_Khống chế	3	250	1	20			10	121			1	25511	35501											1000	3	1																	
+5516	Hủy Thiên Diệt Địa_Phụ 1_Khống Chế	3	250	1	28			7	78			1	25515																			25516												
+5520	Hủy Thiên Diệt Địa_Phụ 3-Giai Đoạn 2	0	0	1	28				3					35501											1000	3	1																	
+5521	Minh Giáo Nộ Khí	0	0	0	32				70					35501													1																	
+5522	Minh Giáo Nộ Khí_Phụ 1	0	0	0	64				50		1			35501											1000	3	1																	
+5525	Thánh Hỏa Thao Thiên_Phụ	0	0	1	15				3	12			444	3024											1000	3	1																	
+5529	Dẫn Hỏa Thiêu Thân_Đồng đội	0	0	0	64				2																																			
+5553	Hủy Thiên Diệt Địa-Trung_Thiêu Đốt	0	0	1	5				3		1																																	
+5554	Hủy Thiên Diệt Địa-Trung_Xóa lợi ích	0	0	1	5				3		1																																	
+5601	Đoàn Thị Phiến Quyết	1	120	0	10				6				25601	6801						5305				10	1000	3	1																	
+5602	Đoàn Thị Phiến Quyết 2	1	120	0	10				6				25601	6801						5305				10	1000	3	1																	
+5603	Đoàn Thị Phiến Quyết 3	1	120	0	10				6				25601	6801						5305				10	1000	3	1																	
+5604	Đoàn Thị Phiến Quyết 4	1	120	0	10				6				25601	6801						5305				10	1000	3	1																	
+5606	Nhất Dương Chỉ	1	200	0	12				5					6801			100							5	1000	3	1																	
+5608	Ngũ La Khinh Yên	1	100	0	10				4					6801	5		100								1000	3	1																	
+5609	Ngũ La Khinh Yên_Biểu hiện	1	20	0	6				30				15608														1						1											
+5611	Lục Mạch Thần Kiếm	0	0	0	0				5	1			25611														1																	
+5612	Lục Mạch Thần Kiếm-1 Kiếm_Tụ Lực	0	0	0	0				5	1			25611														1																	
+5613	Lục Mạch Thần Kiếm-1 Kiếm_Tụ Lực	0	0	0	0				5	1			25611														1																	
+5614	Lục Mạch Thần Kiếm-1 Kiếm_Tụ Lực	0	0	0	0				5	1			25611														1																	
+5615	Lục Mạch Thần Kiếm-1 Kiếm_Tụ Lực	0	0	0	0				5	1			25611														1																	
+5616	Lục Mạch Thần Kiếm-1 Kiếm_Tụ Lực	0	0	0	0				5	1			25611														1																	
+5617	Lục Mạch Thần Kiếm-Sát thương	5	150	0	6				6	2	1		25613	6801			-200				6155			30	1000	3	1																	
+5626	Thủy Long Ngục	0	0	1	27				31				25627														1					35627												
+5627	Thủy Long Ngục_Sát thương	0	0	1	27				5					34519											1000	3	1																	
+5628	Thủy Long Ngục_Tường đóng băng	0	0	1	27		17		31					34519													1																	
+5629	Thủy Long Ngục_Hiệu ứng	0	0	1	27				20				25626														1						1											
+5631	Hãn Hải Bách Trượng Băng	1	120	0	10				15				25601	6801													1																	
+5632	Hãn Hải Bách Trượng Băng_Phụ	1	120	0	10				15				25601														1																	
+5638	Họa Địa Vi Lao_Tấn công ngoài vòng	0	0	1	80			7	31			1															1																	
+5639	Họa Địa Vi Lao_Phản đòn & tốc độ trong vòng	0	0	1	24			7	31			1															1																	
+5640	Họa Địa Vi Lao_Tốc độ đồng đội trong vòng	0	0	1	27			7	31			1															1																	
+5649	Bắc Minh Thần Công_Vòng Băng	0	0	1	15				3	22			364	6801											1000	3	1																	
+5661	Bí Kíp-Lục Mạch Thần Kiếm sát thương thêm	2	100	1	3				5				25613	6801											1000	3	1																1	
+5662	Bí Kíp-Lục Mạch Thần Kiếm nảy bật	2	100	1	3				30	2			25613	6801											1000	3	1																1	
+5671	Hãn Hải Bách Trượng Băng	0	0	0	64				50		1			6801											1000	3	1																	
+5674	Tuyệt Học-Nhất Dương Chỉ_Giải Trừ	0	0	1	2				2		1																																	
+5696	Thủy Long Ngục	0	0	1	21				25				25627	6801													1					35627												
+5703	Khải Minh Chi Nộ	0	0	1	80				7																		1																	
+5705	Mật Lâm Hoán Kinh	0	0	1	80				7																		1																	
+5707	Nộ Sương Cuồng Thao	0	0	1	80				7																		1																	
+5709	Phần Sương Hỏa Ngục	0	0	1	80				7																		1																	
+5711	Đại Địa Lôi Đỗng	0	0	1	80				7																		1																	
+5713	Siêu Quần Thể Kim Cang	0	0	0	64				5																		1																	
+5716	Siêu Quần Thể Minh Vương	0	0	0	64				5																		1																	
+5721	Phá Thiên Võng Nguyệt	1	100	0	15				7					3403										30			1																	
+5722	Phá Thiên Võng Nguyệt_Hiệu ứng	1	100	0	15				10				132											30			1																	
+5724	Bách Niệm Cự Diệt	0	0	1	7				20				1644	3025	3												1																	
+5726	Quần Thể Sương Độc Chướng	0	0	0	64				5																		1																	
+5728	Khải Minh Chi Giáp	0	0	0	64				2																		1																	
+5729	Đoạn Cấp	0	0	0	64				2																		1																	
+5730	Đoạn Cấp_Người	0	0	0	64				2																		1																	
+5731	Khải Minh Chi Nộ_Hiệu ứng	0	0	1	15				30				15703					1									1																	
+5732	Mật Lâm Hoán Kinh_Hiệu ứng	0	0	1	15				30				15705					1									1																	
+5733	Nộ Sương Cuồng Thao_Hiệu ứng	0	0	1	15				30				15707					1									1																	
+5734	Phần Sương Hỏa Ngục_Hiệu ứng	0	0	1	15				30				15709					1									1																	
+5735	Đại Địa Lôi Đỗng_Hiệu ứng	0	0	1	15				30				15711					1									1																	
+5801	Vạn Hoa Bút Pháp 	1	100	0	3				15	4	1		25802	35802			50			6173					1000	3	1																	
+5802	Vạn Hoa Bút Pháp 2	1	100	0	3				15	4	1		25802	35802			50			6173					1000	3	1																	
+5803	Vạn Hoa Bút Pháp 3	1	100	0	3				15	4	1		25802	35802			50			6173					1000	3	1																	
+5804	Vạn Hoa Bút Pháp 4	1	100	0	3				15	4	1		25802	35802			50			6173					1000	3	1																	
+5805	Chấp Dĩnh Điểm Mặc	0	0	1	20				5	25			25806	35801											1000	3	1																	
+5808	Lan Tồi Ngọc Chiết	1	1000	1	12				2					35801											1000	3	1																	
+5809	Lan Tồi Ngọc Chiết_Dẫn bạo múa bút làm mực	1	1000	1	12				2																																			
+5810	Mặc Hổ Như Sinh	5	1000	0	5				15					35801											1000	3	1																	
+5811	Mặc Hổ Như Sinh_Bắn vọt biểu hiện	1	10	0	5				15				25810				-300																											
+5812	Hội Hổ Điểm Tình_Tổn thương	0	0	1	27				5					35801											1000	3	1																	
+5816	Thủy Mặc Hổ.Ra trận	0	0	1	12				10								50																											
+5817	Thủy Mặc Hổ.Móng vuốt	0	0	0	1				3					1899																														
+5818	Lan Tồi Ngọc Chiết_Đạn đặc hiệu	0	0	0	12				30				15808																															
+5819	Chấp Dĩnh Điểm Mặc_debuff	0	0	1	20				5																																			
+5820	Vạn Hoa Tùng Trung Quá	1	120	0	10				15				25601	6801													1																	
+5821	Vạn Hoa Tùng Trung Quá_Tử	1	120	0	10				15				25601														1																	
+5823	Vạn Hoa Tùng Trung Quá_Tổn thương	0	0	0	64				50		1			6801											1000	3	1																	
+5825	Lan Tồi Ngọc Chiết_Trúng đích tản ra	0	0	1	35				30																																		1	
+5826	Lan Tồi Ngọc Chiết_Tản ra tổn thương	5	80	1	5				10	2			25802	35801			50								1000	3	1																	
+5827	Vạn Hoa Bút Pháp_Bắn ra	5	100	1	3				15	4			25802	35802			50			6173					1000	3	1																	
+5828	Vạn Hoa Bút Pháp 2_Bắn ra	5	100	0	3				15	4			25802	35802			50			6173					1000	3	1																	
+5829	Vạn Hoa Bút Pháp 3_Bắn ra	5	100	0	3				15	4			25802	35802			50			6173					1000	3	1																	
+5830	Vạn Hoa Bút Pháp 4_Bắn ra	5	100	0	3				15	4			25802	35802			50			6173					1000	3	1																	
+5839	Dữ Hổ Thiêm Dực_Tổn thương	0	0	1	27				5					35801											1000	3	1																	
+5845	Hổ Khiếu Sơn Lâm_Đầy tầng bảo thủ không chịu thay đổi	0	0	1	30				5				401																															
+5852	Mặc Nhiễm Thất Sắc_Tử.Hồi phục hiệu suất yếu bớt	0	0	0	64				2																																			
+5857	Trung Cấp-Chấp Dĩnh Điểm Mặc.Tạo thành định thân cùng mê muội	2	250	1	5				121																		1																	
+5858	Trung Cấp-Chấp Dĩnh Điểm Mặc.Tạo thành định thân cùng mê muội_Công kích đạn	0	0	1	5				5					35011									1		1000	3	1																	
+5873	Tuyệt Học-Vạn Hoa Bút Pháp_Tổn thương	0	0	1	27				5	15			24609	35801											1000	3	1																	
+5894	Mặc Hổ Như Sinh	0	0	0	10				3					35801																														

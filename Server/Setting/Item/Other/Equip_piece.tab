@@ -1,0 +1,368 @@
+TemplateId	Name	Kind	ShowType	ItemType	BigIcon	CDType	ClassName	DetailType	Icon	Intro	ItemValue	Level	ObjID	Price	Quality	RequireLevel	Sellable	Stack	ExtParam1	ExtParam2	ExtParam3	ExtParam4	ExtParam5	ExtParam6	ExtParam7	ExtParam8	ExtParam9	ExtParam10
+2088	Mảnh Vũ Khí Hiếm Bậc 4	T4_Weapon_Q2_piece	1704	34	10111		EquipMeterial	99	10111	Cần [FFFE0D]10 mảnh[-] để ghép thành 1 Vũ Khí[FFFE0D]【Hiếm】Bậc 4[-]	300000	1	1	300000	6	1		999										
+2089	Mảnh Vũ Khí Hiếm Bậc 5	T5_Weapon_Q2_piece	1705	34	10112		EquipMeterial	99	10112	Cần [FFFE0D]10 mảnh[-] để ghép thành 1 Vũ Khí[FFFE0D]【Hiếm】Bậc 5[-]	625000	2	1	625000	6	1		999										
+2090	Mảnh Vũ Khí Hiếm Bậc 6	T6_Weapon_Q2_piece	1706	34	10113		EquipMeterial	99	10113	Cần [FFFE0D]10 mảnh[-] để ghép thành 1 Vũ Khí[FFFE0D]【Hiếm】Bậc 6[-]	750000	3	1	750000	6	1		999										
+2943	Mảnh Vũ Khí Hiếm Bậc 7	T7_Weapon_Q2_piece	1707	34	10114		EquipMeterial	99	10114	Cần [FFFE0D]10 mảnh[-] để ghép thành 1 Vũ Khí[FFFE0D]【Hiếm】Bậc 7[-]	1000000	4	1	1000000	6	1		999										
+2944	Mảnh Vũ Khí Hiếm Bậc 8	T8_Weapon_Q2_piece	1708	34	10115		EquipMeterial	99	10115	Cần [FFFE0D]10 mảnh[-] để ghép thành 1 Vũ Khí[FFFE0D]【Hiếm】Bậc 8[-]	1350000	5	1	1350000	6	1		999										
+2945	Mảnh Vũ Khí Hiếm Bậc 9	T9_Weapon_Q2_piece	1709	34	10116		EquipMeterial	99	10116	Cần [FFFE0D]10 mảnh[-] để ghép thành 1 Vũ Khí[FFFE0D]【Hiếm】Bậc 9[-]	1800000	6	1	1800000	6	1		999										
+3667	Mảnh Vũ Khí Hiếm Bậc 10	T10_Weapon_Q2_piece	1710	34	10117		EquipMeterial	99	10117	Cần [FFFE0D]10 mảnh[-] để ghép thành 1 Vũ Khí[FFFE0D]【Hiếm】Bậc 10[-]	2250000	7	1	2250000	6	1		999										
+5761	Mảnh Vũ Khí Hiếm Bậc 11	T11_Weapon_Q2_piece	1711	34			EquipMeterial	99		Cần [FFFE0D]10 mảnh[-] để ghép thành 1 Vũ Khí[FFFE0D]【Hiếm】Bậc 11[-]	2850000	8	1	2850000	6	1		999										
+5762	Mảnh Vũ Khí Hiếm Bậc 12	T12_Weapon_Q2_piece	1712	34			EquipMeterial	99		Cần [FFFE0D]10 mảnh[-] để ghép thành 1 Vũ Khí[FFFE0D]【Hiếm】Bậc 12[-]	3420000	9	1	3420000	6	1		999										
+5763	Mảnh Vũ Khí Hiếm Bậc 13	T13_Weapon_Q2_piece	1713	34			EquipMeterial	99		Cần [FFFE0D]10 mảnh[-] để ghép thành 1 Vũ Khí[FFFE0D]【Hiếm】Bậc 13[-]	3560000	10	1	3560000	6	1		999										
+5764	Mảnh Vũ Khí Hiếm Bậc 14	T14_Weapon_Q2_piece	1714	34			EquipMeterial	99		Cần [FFFE0D]10 mảnh[-] để ghép thành 1 Vũ Khí[FFFE0D]【Hiếm】Bậc 14[-]	3916000	11	1	3916000	6	1		999										
+5765	Mảnh Vũ Khí Hiếm Bậc 15	T15_Weapon_Q2_piece	1715	34			EquipMeterial	99		Cần [FFFE0D]10 mảnh[-] để ghép thành 1 Vũ Khí[FFFE0D]【Hiếm】Bậc 15[-]	4315000	12	1	4314000	6	1		999										
+10316	Mảnh Vũ Khí Hiếm Bậc 16	T16_Weapon_Q2_piece	1716	34			EquipMeterial	99		Cần [FFFE0D]10 mảnh[-] để ghép thành 1 Vũ Khí[FFFE0D]【Hiếm】Bậc 16[-]	4750000	13	1	4750000	6	1		999										
+10317	Mảnh Vũ Khí Hiếm Bậc 17	T17_Weapon_Q2_piece	1717	34			EquipMeterial	99		Cần [FFFE0D]10 mảnh[-] để ghép thành 1 Vũ Khí[FFFE0D]【Hiếm】Bậc 17[-]	5225000	14	1	5225000	6	1		999										
+10318	Mảnh Vũ Khí Hiếm Bậc 18	T18_Weapon_Q2_piece	1718	34			EquipMeterial	99		Cần [FFFE0D]10 mảnh[-] để ghép thành 1 Vũ Khí[FFFE0D]【Hiếm】Bậc 18[-]	4315000	15	1	4314000	6	1		999										
+10319	Mảnh Vũ Khí Hiếm Bậc 19	T19_Weapon_Q2_piece	1719	34			EquipMeterial	99		Cần [FFFE0D]10 mảnh[-] để ghép thành 1 Vũ Khí[FFFE0D]【Hiếm】Bậc 19[-]	4315000	16	1	4314000	6	1		999										
+10320	Mảnh Vũ Khí Hiếm Bậc 20	T20_Weapon_Q2_piece	1720	34			EquipMeterial	99		Cần [FFFE0D]10 mảnh[-] để ghép thành 1 Vũ Khí[FFFE0D]【Hiếm】Bậc 20[-]	4315000	17	1	4314000	6	1		999										
+2091	Mảnh Vũ Khí Kế Thừa Bậc 4	T4_Weapon_Q3_piece	1804	34	10111		EquipMeterial	99	10111	Cần [FFFE0D]5 mảnh[-] để ghép thành 1 Vũ Khí[FFFE0D]【Kế Thừa】Bậc 4[-]	200000	1	1	200000	4	1		999										
+2092	Mảnh Vũ Khí Kế Thừa Bậc 5	T5_Weapon_Q3_piece	1805	34	10112		EquipMeterial	99	10112	Cần [FFFE0D]5 mảnh[-] để ghép thành 1 Vũ Khí[FFFE0D]【Kế Thừa】Bậc 5[-]	450000	2	1	450000	4	1		999										
+2093	Mảnh Vũ Khí Kế Thừa Bậc 6	T6_Weapon_Q3_piece	1806	34	10113		EquipMeterial	99	10113	Cần [FFFE0D]5 mảnh[-] để ghép thành 1 Vũ Khí[FFFE0D]【Kế Thừa】Bậc 6[-]	600000	3	1	600000	4	1		999										
+2946	Mảnh Vũ Khí Kế Thừa Bậc 7	T7_Weapon_Q3_piece	1807	34	10114		EquipMeterial	99	10114	Cần [FFFE0D]5 mảnh[-] để ghép thành 1 Vũ Khí[FFFE0D]【Kế Thừa】Bậc 7[-]	800000	4	1	800000	4	1		999										
+2947	Mảnh Vũ Khí Kế Thừa Bậc 8	T8_Weapon_Q3_piece	1808	34	10115		EquipMeterial	99	10115	Cần [FFFE0D]5 mảnh[-] để ghép thành 1 Vũ Khí[FFFE0D]【Kế Thừa】Bậc 8[-]	1200000	5	1	1200000	4	1		999										
+2948	Mảnh Vũ Khí Kế Thừa Bậc 9	T9_Weapon_Q3_piece	1809	34	10116		EquipMeterial	99	10116	Cần [FFFE0D]5 mảnh[-] để ghép thành 1 Vũ Khí[FFFE0D]【Kế Thừa】Bậc 9[-]	1800000	6	1	1800000	4	1		999										
+3668	Mảnh Vũ Khí Kế Thừa Bậc 10	T10_Weapon_Q3_piece	1810	34	10117		EquipMeterial	99	10117	Cần [FFFE0D]5 mảnh[-] để ghép thành 1 Vũ Khí[FFFE0D]【Kế Thừa】Bậc 10[-]	2400000	7	1	2400000	4	1		999										
+5766	Mảnh Vũ Khí Kế Thừa Bậc 11	T11_Weapon_Q3_piece	1811	34			EquipMeterial	99		Cần [FFFE0D]5 mảnh[-] để ghép thành 1 Vũ Khí[FFFE0D]【Kế Thừa】Bậc 11[-]	3200000	8	1	3200000	4	1		999										
+5767	Mảnh Vũ Khí Kế Thừa Bậc 12	T12_Weapon_Q3_piece	1812	34			EquipMeterial	99		Cần [FFFE0D]5 mảnh[-] để ghép thành 1 Vũ Khí[FFFE0D]【Kế Thừa】Bậc 12[-]	3600000	9	1	3840000	4	1		999										
+5768	Mảnh Vũ Khí Kế Thừa Bậc 13	T13_Weapon_Q3_piece	1813	34			EquipMeterial	99		Cần [FFFE0D]5 mảnh[-] để ghép thành 1 Vũ Khí[FFFE0D]【Kế Thừa】Bậc 13[-]	3960000	10	1	3960000	4	1		999										
+5769	Mảnh Vũ Khí Kế Thừa Bậc 14	T14_Weapon_Q3_piece	1814	34			EquipMeterial	99		Cần [FFFE0D]5 mảnh[-] để ghép thành 1 Vũ Khí[FFFE0D]【Kế Thừa】Bậc 14[-]	4350000	11	1	4350000	4	1		999										
+5770	Mảnh Vũ Khí Kế Thừa Bậc 15	T15_Weapon_Q3_piece	1815	34			EquipMeterial	99		Cần [FFFE0D]5 mảnh[-] để ghép thành 1 Vũ Khí[FFFE0D]【Kế Thừa】Bậc 15[-]	4809000	12	1	4800000	4	1		999										
+10321	Mảnh Vũ Khí Kế Thừa Bậc 16	T16_Weapon_Q3_piece	1816	34			EquipMeterial	99		Cần [FFFE0D]5 mảnh[-] để ghép thành 1 Vũ Khí[FFFE0D]【Kế Thừa】Bậc 16[-]	5300000	13	1	5300000	4	1		999										
+10322	Mảnh Vũ Khí Kế Thừa Bậc 17	T17_Weapon_Q3_piece	1817	34			EquipMeterial	99		Cần [FFFE0D]5 mảnh[-] để ghép thành 1 Vũ Khí[FFFE0D]【Kế Thừa】Bậc 17[-]	5800000	14	1	5800000	4	1		999										
+10323	Mảnh Vũ Khí Kế Thừa Bậc 18	T18_Weapon_Q3_piece	1818	34			EquipMeterial	99		Cần [FFFE0D]5 mảnh[-] để ghép thành 1 Vũ Khí[FFFE0D]【Kế Thừa】Bậc 18[-]	4809000	15	1	4800000	4	1		999										
+10324	Mảnh Vũ Khí Kế Thừa Bậc 19	T19_Weapon_Q3_piece	1819	34			EquipMeterial	99		Cần [FFFE0D]5 mảnh[-] để ghép thành 1 Vũ Khí[FFFE0D]【Kế Thừa】Bậc 19[-]	4809000	16	1	4800000	4	1		999										
+10325	Mảnh Vũ Khí Kế Thừa Bậc 20	T20_Weapon_Q3_piece	1820	34			EquipMeterial	99		Cần [FFFE0D]5 mảnh[-] để ghép thành 1 Vũ Khí[FFFE0D]【Kế Thừa】Bậc 20[-]	4809000	17	1	4800000	4	1		999										
+2094	Mảnh Dây Chuyền Hiếm bậc 4	T4_Necklace_Q2_piece		34	14		EquipMeterial	99	14	Cần [FFFE0D]10 mảnh[-] để ghép thành 1 Dây Chuyền[FFFE0D]【Hiếm】Bậc 4[-]	120000	1	1	120000	6	1		999										
+2095	Mảnh Dây Chuyền Hiếm bậc 5	T5_Necklace_Q2_piece		34	15		EquipMeterial	99	15	Cần [FFFE0D]10 mảnh[-] để ghép thành 1 Dây Chuyền[FFFE0D]【Hiếm】Bậc 5[-]	250000	2	1	250000	6	1		999										
+2096	Mảnh Dây Chuyền Hiếm Bậc 6	T6_Necklace_Q2_piece		34	16		EquipMeterial	99	16	Cần [FFFE0D]10 mảnh[-] để ghép thành 1 Dây Chuyền[FFFE0D]【Hiếm】Bậc 6[-]	300000	3	1	300000	6	1		999										
+2949	Mảnh Dây Chuyền Hiếm Bậc 7	T7_Necklace_Q2_piece		34	17		EquipMeterial	99	17	Cần [FFFE0D]10 mảnh[-] để ghép thành 1 Dây Chuyền[FFFE0D]【Hiếm】Bậc 7[-]	400000	4	1	400000	6	1		999										
+2950	Mảnh Dây Chuyền Hiếm Bậc 8	T8_Necklace_Q2_piece		34	18		EquipMeterial	99	18	Cần [FFFE0D]10 mảnh[-] để ghép thành 1 Dây Chuyền[FFFE0D]【Hiếm】Bậc 8[-]	540000	5	1	600000	6	1		999										
+2951	Mảnh Dây Chuyền Hiếm Bậc 9	T9_Necklace_Q2_piece		34	19		EquipMeterial	99	19	Cần [FFFE0D]10 mảnh[-] để ghép thành 1 Dây Chuyền[FFFE0D]【Hiếm】Bậc 9[-]	800000	6	1	800000	6	1		999										
+3669	Mảnh Dây Chuyền Hiếm Bậc 10	T10_Necklace_Q2_piece		34	20		EquipMeterial	99	20	Cần [FFFE0D]10 mảnh[-] để ghép thành 1 Dây Chuyền[FFFE0D]【Hiếm】Bậc 10[-]	1000000	7	1	1000000	6	1		999										
+5771	Mảnh Dây Chuyền Hiếm Bậc 11	T11_Necklace_Q2_piece		34	4911		EquipMeterial	99	4911	Cần [FFFE0D]10 mảnh[-] để ghép thành 1 Dây Chuyền[FFFE0D]【Hiếm】Bậc 11[-]	1250000	8	1	1250000	6	1		999										
+5772	Mảnh Dây Chuyền Hiếm Bậc 12	T12_Necklace_Q2_piece		34	4912		EquipMeterial	99	4912	Cần [FFFE0D]10 mảnh[-] để ghép thành 1 Dây Chuyền[FFFE0D]【Hiếm】Bậc 12[-]	1368000	9	1	1368000	6	1		999										
+5773	Mảnh Dây Chuyền Hiếm Bậc 13	T13_Necklace_Q2_piece		34	4913		EquipMeterial	99	4913	Cần [FFFE0D]10 mảnh[-] để ghép thành 1 Dây Chuyền[FFFE0D]【Hiếm】Bậc 13[-]	1424000	10	1	1424000	6	1		999										
+5774	Mảnh Dây Chuyền Hiếm Bậc 14	T14_Necklace_Q2_piece		34	4914		EquipMeterial	99	4914	Cần [FFFE0D]10 mảnh[-] để ghép thành 1 Dây Chuyền[FFFE0D]【Hiếm】Bậc 14[-]	1566000	11	1	1566000	6	1		999										
+5775	Mảnh Dây Chuyền Hiếm Bậc 15	T15_Necklace_Q2_piece		34	4915		EquipMeterial	99	4915	Cần [FFFE0D]10 mảnh[-] để ghép thành 1 Dây Chuyền[FFFE0D]【Hiếm】Bậc 15[-]	1725600	12	1	1726000	6	1		999										
+10326	Mảnh Dây Chuyền Hiếm Bậc 16	T16_Necklace_Q2_piece		34	4916		EquipMeterial	99	4916	Cần [FFFE0D]10 mảnh[-] để ghép thành 1 Dây Chuyền[FFFE0D]【Hiếm】Bậc 16[-]	1900000	13	1	1900000	6	1		999										
+10327	Mảnh Dây Chuyền Hiếm Bậc 17	T17_Necklace_Q2_piece		34	4917		EquipMeterial	99	4917	Cần [FFFE0D]10 mảnh[-] để ghép thành 1 Dây Chuyền[FFFE0D]【Hiếm】Bậc 17[-]	2090000	14	1	2090000	6	1		999										
+10328	Mảnh Dây Chuyền Hiếm Bậc 18	T18_Necklace_Q2_piece		34	4918		EquipMeterial	99	4918	Cần [FFFE0D]10 mảnh[-] để ghép thành 1 Dây Chuyền[FFFE0D]【Hiếm】Bậc 18[-]	1725600	15	1	1726000	6	1		999										
+10329	Mảnh Dây Chuyền Hiếm Bậc 19	T19_Necklace_Q2_piece		34	4919		EquipMeterial	99	4919	Cần [FFFE0D]10 mảnh[-] để ghép thành 1 Dây Chuyền[FFFE0D]【Hiếm】Bậc 19[-]	1725600	16	1	1726000	6	1		999										
+10330	Mảnh Dây Chuyền Hiếm Bậc 20	T20_Necklace_Q2_piece		34	4920		EquipMeterial	99	4920	Cần [FFFE0D]10 mảnh[-] để ghép thành 1 Dây Chuyền[FFFE0D]【Hiếm】Bậc 20[-]	1725600	17	1	1726000	6	1		999										
+2097	Mảnh Dây Chuyền Kế Thừa bậc 4	T4_Necklace_Q3_piece		34	14		EquipMeterial	99	14	Cần [FFFE0D]5 mảnh[-] để ghép thành 1 Dây Chuyền[FFFE0D]【Kế Thừa】Bậc 4[-]	80000	1	1	80000	4	1		999										
+2098	Mảnh Dây Chuyền Kế Thừa bậc 5	T5_Necklace_Q3_piece		34	15		EquipMeterial	99	15	Cần [FFFE0D]5 mảnh[-] để ghép thành 1 Dây Chuyền[FFFE0D]【Kế Thừa】Bậc 5[-]	180000	2	1	180000	4	1		999										
+2099	Mảnh Dây Chuyền Kế Thừa Bậc 6	T6_Necklace_Q3_piece		34	16		EquipMeterial	99	16	Cần [FFFE0D]5 mảnh[-] để ghép thành 1 Dây Chuyền[FFFE0D]【Kế Thừa】Bậc 6[-]	240000	3	1	240000	4	1		999										
+2952	Mảnh Dây Chuyền Kế Thừa Bậc 7	T7_Necklace_Q3_piece		34	17		EquipMeterial	99	17	Cần [FFFE0D]5 mảnh[-] để ghép thành 1 Dây Chuyền[FFFE0D]【Kế Thừa】Bậc 7[-]	320000	4	1	320000	4	1		999										
+2953	Mảnh Dây Chuyền Kế Thừa Bậc 8	T8_Necklace_Q3_piece		34	18		EquipMeterial	99	18	Cần [FFFE0D]5 mảnh[-] để ghép thành 1 Dây Chuyền[FFFE0D]【Kế Thừa】Bậc 8[-]	480000	5	1	480000	4	1		999										
+2954	Mảnh Dây Chuyền Kế Thừa Bậc 9	T9_Necklace_Q3_piece		34	19		EquipMeterial	99	19	Cần [FFFE0D]5 mảnh[-] để ghép thành 1 Dây Chuyền[FFFE0D]【Kế Thừa】Bậc 9[-]	720000	6	1	720000	4	1		999										
+3670	Mảnh Dây Chuyền Kế Thừa Bậc 10	T10_Necklace_Q3_piece		34	20		EquipMeterial	99	20	Cần [FFFE0D]5 mảnh[-] để ghép thành 1 Dây Chuyền[FFFE0D]【Kế Thừa】Bậc 10[-]	960000	7	1	960000	4	1		999										
+5776	Mảnh Dây Chuyền Kế Thừa Bậc 11	T11_Necklace_Q3_piece		34	4911		EquipMeterial	99	4911	Cần [FFFE0D]5 mảnh[-] để ghép thành 1 Dây Chuyền[FFFE0D]【Kế Thừa】Bậc 11[-]	1280000	8	1	1280000	4	1		999										
+5777	Mảnh Dây Chuyền Kế Thừa Bậc 12	T12_Necklace_Q3_piece		34	4912		EquipMeterial	99	4912	Cần [FFFE0D]5 mảnh[-] để ghép thành 1 Dây Chuyền[FFFE0D]【Kế Thừa】Bậc 12[-]	1440000	9	1	1536000	4	1		999										
+5778	Mảnh Dây Chuyền Kế Thừa Bậc 13	T13_Necklace_Q3_piece		34	4913		EquipMeterial	99	4913	Cần [FFFE0D]5 mảnh[-] để ghép thành 1 Dây Chuyền[FFFE0D]【Kế Thừa】Bậc 13[-]	1584000	10	1	1584000	4	1		999										
+5779	Mảnh Dây Chuyền Kế Thừa Bậc 14	T14_Necklace_Q3_piece		34	4914		EquipMeterial	99	4914	Cần [FFFE0D]5 mảnh[-] để ghép thành 1 Dây Chuyền[FFFE0D]【Kế Thừa】Bậc 14[-]	1740000	11	1	1740000	4	1		999										
+5780	Mảnh Dây Chuyền Kế Thừa Bậc 15	T15_Necklace_Q3_piece		34	4915		EquipMeterial	99	4915	Cần [FFFE0D]5 mảnh[-] để ghép thành 1 Dây Chuyền[FFFE0D]【Kế Thừa】Bậc 15[-]	1923600	12	1	1920000	4	1		999										
+10331	Mảnh Dây Chuyền Kế Thừa Bậc 16	T16_Necklace_Q3_piece		34	4916		EquipMeterial	99	4916	Cần [FFFE0D]5 mảnh[-] để ghép thành 1 Dây Chuyền[FFFE0D]【Kế Thừa】Bậc 16[-]	2120000	13	1	2120000	4	1		999										
+10332	Mảnh Dây Chuyền Kế Thừa Bậc 17	T17_Necklace_Q3_piece		34	4917		EquipMeterial	99	4917	Cần [FFFE0D]5 mảnh[-] để ghép thành 1 Dây Chuyền[FFFE0D]【Kế Thừa】Bậc 17[-]	2320000	14	1	2320000	4	1		999										
+10333	Mảnh Dây Chuyền Kế Thừa Bậc 18	T18_Necklace_Q3_piece		34	4918		EquipMeterial	99	4918	Cần [FFFE0D]5 mảnh[-] để ghép thành 1 Dây Chuyền[FFFE0D]【Kế Thừa】Bậc 18[-]	1923600	15	1	1920000	4	1		999										
+10334	Mảnh Dây Chuyền Kế Thừa Bậc 19	T19_Necklace_Q3_piece		34	4919		EquipMeterial	99	4919	Cần [FFFE0D]5 mảnh[-] để ghép thành 1 Dây Chuyền[FFFE0D]【Kế Thừa】Bậc 19[-]	1923600	16	1	1920000	4	1		999										
+10335	Mảnh Dây Chuyền Kế Thừa Bậc 20	T20_Necklace_Q3_piece		34	4920		EquipMeterial	99	4920	Cần [FFFE0D]5 mảnh[-] để ghép thành 1 Dây Chuyền[FFFE0D]【Kế Thừa】Bậc 20[-]	1923600	17	1	1920000	4	1		999										
+2100	Mảnh Nhẫn Hiếm Bậc 4	T4_Ring_Q2_piece		34	24		EquipMeterial	99	24	Cần [FFFE0D]10 mảnh[-] để ghép thành 1 Nhẫn[FFFE0D]【Hiếm】Bậc 4[-]	120000	1	1	120000	6	1		999										
+2101	Mảnh Nhẫn Hiếm Bậc 5	T5_Ring_Q2_piece		34	25		EquipMeterial	99	25	Cần [FFFE0D]10 mảnh[-] để ghép thành 1 Nhẫn[FFFE0D]【Hiếm】Bậc 5[-]	250000	2	1	250000	6	1		999										
+2102	Mảnh Nhẫn Hiếm Bậc 6	T6_Ring_Q2_piece		34	26		EquipMeterial	99	26	Cần [FFFE0D]10 mảnh[-] để ghép thành 1 Nhẫn[FFFE0D]【Hiếm】Bậc 6[-]	300000	3	1	300000	6	1		999										
+2955	Mảnh Nhẫn Hiếm Bậc 7	T7_Ring_Q2_piece		34	27		EquipMeterial	99	27	Cần [FFFE0D]10 mảnh[-] để ghép thành 1 Nhẫn[FFFE0D]【Hiếm】Bậc 7[-]	400000	4	1	400000	6	1		999										
+2956	Mảnh Nhẫn Hiếm Bậc 8	T8_Ring_Q2_piece		34	28		EquipMeterial	99	28	Cần [FFFE0D]10 mảnh[-] để ghép thành 1 Nhẫn[FFFE0D]【Hiếm】Bậc 8[-]	540000	5	1	600000	6	1		999										
+2957	Mảnh Nhẫn Hiếm Bậc 9	T9_Ring_Q2_piece		34	29		EquipMeterial	99	29	Cần [FFFE0D]10 mảnh[-] để ghép thành 1 Nhẫn[FFFE0D]【Hiếm】Bậc 9[-]	800000	6	1	800000	6	1		999										
+3671	Mảnh Nhẫn Hiếm Bậc 10	T10_Ring_Q2_piece		34	30		EquipMeterial	99	30	Cần [FFFE0D]10 mảnh[-] để ghép thành 1 Nhẫn[FFFE0D]【Hiếm】Bậc 10[-]	1000000	7	1	1000000	6	1		999										
+5781	Mảnh Nhẫn Hiếm Bậc 11	T11_Ring_Q2_piece		34	4921		EquipMeterial	99	4921	Cần [FFFE0D]10 mảnh[-] để ghép thành 1 Nhẫn[FFFE0D]【Hiếm】Bậc 11[-]	1250000	8	1	1250000	6	1		999										
+5782	Mảnh Nhẫn Hiếm Bậc 12	T12_Ring_Q2_piece		34	4922		EquipMeterial	99	4922	Cần [FFFE0D]10 mảnh[-] để ghép thành 1 Nhẫn[FFFE0D]【Hiếm】Bậc 12[-]	1368000	9	1	1368000	6	1		999										
+5783	Mảnh Nhẫn Hiếm Bậc 13	T13_Ring_Q2_piece		34	4923		EquipMeterial	99	4923	Cần [FFFE0D]10 mảnh[-] để ghép thành 1 Nhẫn[FFFE0D]【Hiếm】Bậc 13[-]	1424000	10	1	1424000	6	1		999										
+5784	Mảnh Nhẫn Hiếm Bậc 14	T14_Ring_Q2_piece		34	4924		EquipMeterial	99	4924	Cần [FFFE0D]10 mảnh[-] để ghép thành 1 Nhẫn[FFFE0D]【Hiếm】Bậc 14[-]	1566000	11	1	1566000	6	1		999										
+5785	Mảnh Nhẫn Hiếm Bậc 15	T15_Ring_Q2_piece		34	4925		EquipMeterial	99	4925	Cần [FFFE0D]10 mảnh[-] để ghép thành 1 Nhẫn[FFFE0D]【Hiếm】Bậc 15[-]	1725600	12	1	1726000	6	1		999										
+10336	Mảnh Nhẫn Hiếm Bậc 16	T16_Ring_Q2_piece		34	4926		EquipMeterial	99	4926	Cần [FFFE0D]10 mảnh[-] để ghép thành 1 Nhẫn[FFFE0D]【Hiếm】Bậc 16[-]	1900000	13	1	1900000	6	1		999										
+10337	Mảnh Nhẫn Hiếm Bậc 17	T17_Ring_Q2_piece		34	4927		EquipMeterial	99	4927	Cần [FFFE0D]10 mảnh[-] để ghép thành 1 Nhẫn[FFFE0D]【Hiếm】Bậc 17[-]	2090000	14	1	2090000	6	1		999										
+10338	Mảnh Nhẫn Hiếm Bậc 18	T18_Ring_Q2_piece		34	4928		EquipMeterial	99	4928	Cần [FFFE0D]10 mảnh[-] để ghép thành 1 Nhẫn[FFFE0D]【Hiếm】Bậc 18[-]	1725600	15	1	1726000	6	1		999										
+10339	Mảnh Nhẫn Hiếm Bậc 19	T19_Ring_Q2_piece		34	4929		EquipMeterial	99	4929	Cần [FFFE0D]10 mảnh[-] để ghép thành 1 Nhẫn[FFFE0D]【Hiếm】Bậc 19[-]	1725600	16	1	1726000	6	1		999										
+10340	Mảnh Nhẫn Hiếm Bậc 20	T20_Ring_Q2_piece		34	4930		EquipMeterial	99	4930	Cần [FFFE0D]10 mảnh[-] để ghép thành 1 Nhẫn[FFFE0D]【Hiếm】Bậc 20[-]	1725600	17	1	1726000	6	1		999										
+2103	Mảnh Nhẫn Kế Thừa Bậc 4	T4_Ring_Q3_piece		34	24		EquipMeterial	99	24	Cần [FFFE0D]5 mảnh[-] để ghép thành 1 Nhẫn[FFFE0D]【Kế Thừa】Bậc 4[-]	80000	1	1	80000	4	1		999										
+2104	Mảnh Nhẫn Kế Thừa Bậc 5	T5_Ring_Q3_piece		34	25		EquipMeterial	99	25	Cần [FFFE0D]5 mảnh[-] để ghép thành 1 Nhẫn[FFFE0D]【Kế Thừa】Bậc 5[-]	180000	2	1	180000	4	1		999										
+2105	Mảnh Nhẫn Kế Thừa Bậc 6	T6_Ring_Q3_piece		34	26		EquipMeterial	99	26	Cần [FFFE0D]5 mảnh[-] để ghép thành 1 Nhẫn[FFFE0D]【Kế Thừa】Bậc 6[-]	240000	3	1	240000	4	1		999										
+2958	Mảnh Nhẫn Kế Thừa Bậc 7	T7_Ring_Q3_piece		34	27		EquipMeterial	99	27	Cần [FFFE0D]5 mảnh[-] để ghép thành 1 Nhẫn[FFFE0D]【Kế Thừa】Bậc 7[-]	320000	4	1	320000	4	1		999										
+2959	Mảnh Nhẫn Kế Thừa Bậc 8	T8_Ring_Q3_piece		34	28		EquipMeterial	99	28	Cần [FFFE0D]5 mảnh[-] để ghép thành 1 Nhẫn[FFFE0D]【Kế Thừa】Bậc 8[-]	480000	5	1	480000	4	1		999										
+2960	Mảnh Nhẫn Kế Thừa Bậc 9	T9_Ring_Q3_piece		34	29		EquipMeterial	99	29	Cần [FFFE0D]5 mảnh[-] để ghép thành 1 Nhẫn[FFFE0D]【Kế Thừa】Bậc 9[-]	720000	6	1	720000	4	1		999										
+3672	Mảnh Nhẫn Kế Thừa Bậc 10	T10_Ring_Q3_piece		34	30		EquipMeterial	99	30	Cần [FFFE0D]5 mảnh[-] để ghép thành 1 Nhẫn[FFFE0D]【Kế Thừa】Bậc 10[-]	960000	7	1	960000	4	1		999										
+5786	Mảnh Nhẫn Kế Thừa Bậc 11	T11_Ring_Q3_piece		34	4921		EquipMeterial	99	4921	Cần [FFFE0D]5 mảnh[-] để ghép thành 1 Nhẫn[FFFE0D]【Kế Thừa】Bậc 11[-]	1280000	8	1	1280000	4	1		999										
+5787	Mảnh Nhẫn Kế Thừa Bậc 12	T12_Ring_Q3_piece		34	4922		EquipMeterial	99	4922	Cần [FFFE0D]5 mảnh[-] để ghép thành 1 Nhẫn[FFFE0D]【Kế Thừa】Bậc 12[-]	1440000	9	1	1536000	4	1		999										
+5788	Mảnh Nhẫn Kế Thừa Bậc 13	T13_Ring_Q3_piece		34	4923		EquipMeterial	99	4923	Cần [FFFE0D]5 mảnh[-] để ghép thành 1 Nhẫn[FFFE0D]【Kế Thừa】Bậc 13[-]	1584000	10	1	1584000	4	1		999										
+5789	Mảnh Nhẫn Kế Thừa Bậc 14	T14_Ring_Q3_piece		34	4924		EquipMeterial	99	4924	Cần [FFFE0D]5 mảnh[-] để ghép thành 1 Nhẫn[FFFE0D]【Kế Thừa】Bậc 14[-]	1740000	11	1	1740000	4	1		999										
+5790	Mảnh Nhẫn Kế Thừa Bậc 15	T15_Ring_Q3_piece		34	4925		EquipMeterial	99	4925	Cần [FFFE0D]5 mảnh[-] để ghép thành 1 Nhẫn[FFFE0D]【Kế Thừa】Bậc 15[-]	1923600	12	1	1920000	4	1		999										
+10341	Mảnh Nhẫn Kế Thừa Bậc 16	T16_Ring_Q3_piece		34	4926		EquipMeterial	99	4926	Cần [FFFE0D]5 mảnh[-] để ghép thành 1 Nhẫn[FFFE0D]【Kế Thừa】Bậc 16[-]	2120000	13	1	2120000	4	1		999										
+10342	Mảnh Nhẫn Kế Thừa Bậc 17	T17_Ring_Q3_piece		34	4927		EquipMeterial	99	4927	Cần [FFFE0D]5 mảnh[-] để ghép thành 1 Nhẫn[FFFE0D]【Kế Thừa】Bậc 17[-]	2320000	14	1	2320000	4	1		999										
+10343	Mảnh Nhẫn Kế Thừa Bậc 18	T18_Ring_Q3_piece		34	4928		EquipMeterial	99	4928	Cần [FFFE0D]5 mảnh[-] để ghép thành 1 Nhẫn[FFFE0D]【Kế Thừa】Bậc 18[-]	1923600	15	1	1920000	4	1		999										
+10344	Mảnh Nhẫn Kế Thừa Bậc 19	T19_Ring_Q3_piece		34	4929		EquipMeterial	99	4929	Cần [FFFE0D]5 mảnh[-] để ghép thành 1 Nhẫn[FFFE0D]【Kế Thừa】Bậc 19[-]	1923600	16	1	1920000	4	1		999										
+10345	Mảnh Nhẫn Kế Thừa Bậc 20	T20_Ring_Q3_piece		34	4930		EquipMeterial	99	4930	Cần [FFFE0D]5 mảnh[-] để ghép thành 1 Nhẫn[FFFE0D]【Kế Thừa】Bậc 20[-]	1923600	17	1	1920000	4	1		999										
+2106	Mảnh Ngọc Bội Hiếm Bậc 4	T4_Pendant_Q2_piece		34	34		EquipMeterial	99	34	Cần [FFFE0D]10 mảnh[-] để ghép thành 1 Ngọc Bội[FFFE0D]【Hiếm】Bậc 4[-]	120000	1	1	120000	6	1		999										
+2107	Mảnh Ngọc Bội Hiếm Bậc 5	T5_Pendant_Q2_piece		34	35		EquipMeterial	99	35	Cần [FFFE0D]10 mảnh[-] để ghép thành 1 Ngọc Bội[FFFE0D]【Hiếm】Bậc 5[-]	250000	2	1	250000	6	1		999										
+2108	Mảnh Ngọc Bội Hiếm Bậc 6	T6_Pendant_Q2_piece		34	36		EquipMeterial	99	36	Cần [FFFE0D]10 mảnh[-] để ghép thành 1 Ngọc Bội[FFFE0D]【Hiếm】Bậc 6[-]	300000	3	1	300000	6	1		999										
+2961	Mảnh Ngọc Bội Hiếm Bậc 7	T7_Pendant_Q2_piece		34	37		EquipMeterial	99	37	Cần [FFFE0D]10 mảnh[-] để ghép thành 1 Ngọc Bội[FFFE0D]【Hiếm】Bậc 7[-]	400000	4	1	400000	6	1		999										
+2962	Mảnh Ngọc Bội Hiếm Bậc 8	T8_Pendant_Q2_piece		34	38		EquipMeterial	99	38	Cần [FFFE0D]10 mảnh[-] để ghép thành 1 Ngọc Bội[FFFE0D]【Hiếm】Bậc 8[-]	540000	5	1	600000	6	1		999										
+2963	Mảnh Ngọc Bội Hiếm Bậc 9	T9_Pendant_Q2_piece		34	39		EquipMeterial	99	39	Cần [FFFE0D]10 mảnh[-] để ghép thành 1 Ngọc Bội[FFFE0D]【Hiếm】Bậc 9[-]	800000	6	1	800000	6	1		999										
+3673	Mảnh Ngọc Bội Hiếm Bậc 10	T10_Pendant_Q2_piece		34	40		EquipMeterial	99	40	Cần [FFFE0D]10 mảnh[-] để ghép thành 1 Ngọc Bội[FFFE0D]【Hiếm】Bậc 10[-]	1000000	7	1	1000000	6	1		999										
+5791	Mảnh Ngọc Bội Hiếm Bậc 11	T11_Pendant_Q2_piece		34	4931		EquipMeterial	99	4931	Cần [FFFE0D]10 mảnh[-] để ghép thành 1 Ngọc Bội[FFFE0D]【Hiếm】Bậc 11[-]	1250000	8	1	1250000	6	1		999										
+5792	Mảnh Ngọc Bội Hiếm Bậc 12	T12_Pendant_Q2_piece		34	4932		EquipMeterial	99	4932	Cần [FFFE0D]10 mảnh[-] để ghép thành 1 Ngọc Bội[FFFE0D]【Hiếm】Bậc 12[-]	1368000	9	1	1368000	6	1		999										
+5793	Mảnh Ngọc Bội Hiếm Bậc 13	T13_Pendant_Q2_piece		34	4933		EquipMeterial	99	4933	Cần [FFFE0D]10 mảnh[-] để ghép thành 1 Ngọc Bội[FFFE0D]【Hiếm】Bậc 13[-]	1424000	10	1	1424000	6	1		999										
+5794	Mảnh Ngọc Bội Hiếm Bậc 14	T14_Pendant_Q2_piece		34	4934		EquipMeterial	99	4934	Cần [FFFE0D]10 mảnh[-] để ghép thành 1 Ngọc Bội[FFFE0D]【Hiếm】Bậc 14[-]	1566000	11	1	1566000	6	1		999										
+5795	Mảnh Ngọc Bội Hiếm Bậc 15	T15_Pendant_Q2_piece		34	4935		EquipMeterial	99	4935	Cần [FFFE0D]10 mảnh[-] để ghép thành 1 Ngọc Bội[FFFE0D]【Hiếm】Bậc 15[-]	1725600	12	1	1726000	6	1		999										
+10346	Mảnh Ngọc Bội Hiếm Bậc 16	T16_Pendant_Q2_piece		34	4936		EquipMeterial	99	4936	Cần [FFFE0D]10 mảnh[-] để ghép thành 1 Ngọc Bội[FFFE0D]【Hiếm】Bậc 16[-]	1900000	13	1	1900000	6	1		999										
+10347	Mảnh Ngọc Bội Hiếm Bậc 17	T17_Pendant_Q2_piece		34	4937		EquipMeterial	99	4937	Cần [FFFE0D]10 mảnh[-] để ghép thành 1 Ngọc Bội[FFFE0D]【Hiếm】Bậc 17[-]	2090000	14	1	2090000	6	1		999										
+10348	Mảnh Ngọc Bội Hiếm Bậc 18	T18_Pendant_Q2_piece		34	4938		EquipMeterial	99	4938	Cần [FFFE0D]10 mảnh[-] để ghép thành 1 Ngọc Bội[FFFE0D]【Hiếm】Bậc 18[-]	540000	15	1	600000	6	1		999										
+10349	Mảnh Ngọc Bội Hiếm Bậc 19	T19_Pendant_Q2_piece		34	4939		EquipMeterial	99	4939	Cần [FFFE0D]10 mảnh[-] để ghép thành 1 Ngọc Bội[FFFE0D]【Hiếm】Bậc 19[-]	800000	16	1	800000	6	1		999										
+10350	Mảnh Ngọc Bội Hiếm Bậc 20	T20_Pendant_Q2_piece		34	4940		EquipMeterial	99	4940	Cần [FFFE0D]10 mảnh[-] để ghép thành 1 Ngọc Bội[FFFE0D]【Hiếm】Bậc 20[-]	1000000	17	1	1000000	6	1		999										
+2109	Mảnh Ngọc Bội Kế Thừa Bậc 4	T4_Pendant_Q3_piece		34	34		EquipMeterial	99	34	Cần [FFFE0D]5 mảnh[-] để ghép thành 1 Ngọc Bội[FFFE0D]【Kế Thừa】Bậc 4[-]	80000	1	1	80000	4	1		999										
+2110	Mảnh Ngọc Bội Kế Thừa Bậc 5	T5_Pendant_Q3_piece		34	35		EquipMeterial	99	35	Cần [FFFE0D]5 mảnh[-] để ghép thành 1 Ngọc Bội[FFFE0D]【Kế Thừa】Bậc 5[-]	180000	2	1	180000	4	1		999										
+2111	Mảnh Ngọc Bội Kế Thừa Bậc 6	T6_Pendant_Q3_piece		34	36		EquipMeterial	99	36	Cần [FFFE0D]5 mảnh[-] để ghép thành 1 Ngọc Bội[FFFE0D]【Kế Thừa】Bậc 6[-]	240000	3	1	240000	4	1		999										
+2964	Mảnh Ngọc Bội Kế Thừa Bậc 7	T7_Pendant_Q3_piece		34	37		EquipMeterial	99	37	Cần [FFFE0D]5 mảnh[-] để ghép thành 1 Ngọc Bội[FFFE0D]【Kế Thừa】Bậc 7[-]	320000	4	1	320000	4	1		999										
+2965	Mảnh Ngọc Bội Kế Thừa Bậc 8	T8_Pendant_Q3_piece		34	38		EquipMeterial	99	38	Cần [FFFE0D]5 mảnh[-] để ghép thành 1 Ngọc Bội[FFFE0D]【Kế Thừa】Bậc 8[-]	480000	5	1	480000	4	1		999										
+2966	Mảnh Ngọc Bội Kế Thừa Bậc 9	T9_Pendant_Q3_piece		34	39		EquipMeterial	99	39	Cần [FFFE0D]5 mảnh[-] để ghép thành 1 Ngọc Bội[FFFE0D]【Kế Thừa】Bậc 9[-]	720000	6	1	720000	4	1		999										
+3674	Mảnh Ngọc Bội Kế Thừa Bậc 10	T10_Pendant_Q3_piece		34	40		EquipMeterial	99	40	Cần [FFFE0D]5 mảnh[-] để ghép thành 1 Ngọc Bội[FFFE0D]【Kế Thừa】Bậc 10[-]	960000	7	1	960000	4	1		999										
+5796	Mảnh Ngọc Bội Kế Thừa Bậc 11	T11_Pendant_Q3_piece		34	4931		EquipMeterial	99	4931	Cần [FFFE0D]5 mảnh[-] để ghép thành 1 Ngọc Bội[FFFE0D]【Kế Thừa】Bậc 11[-]	1280000	8	1	1280000	4	1		999										
+5797	Mảnh Ngọc Bội Kế Thừa Bậc 12	T12_Pendant_Q3_piece		34	4932		EquipMeterial	99	4932	Cần [FFFE0D]5 mảnh[-] để ghép thành 1 Ngọc Bội[FFFE0D]【Kế Thừa】Bậc 12[-]	1440000	9	1	1536000	4	1		999										
+5798	Mảnh Ngọc Bội Kế Thừa Bậc 13	T13_Pendant_Q3_piece		34	4933		EquipMeterial	99	4933	Cần [FFFE0D]5 mảnh[-] để ghép thành 1 Ngọc Bội[FFFE0D]【Kế Thừa】Bậc 13[-]	1584000	10	1	1584000	4	1		999										
+5799	Mảnh Ngọc Bội Kế Thừa Bậc 14	T14_Pendant_Q3_piece		34	4934		EquipMeterial	99	4934	Cần [FFFE0D]5 mảnh[-] để ghép thành 1 Ngọc Bội[FFFE0D]【Kế Thừa】Bậc 14[-]	1740000	11	1	1740000	4	1		999										
+5800	Mảnh Ngọc Bội Kế Thừa Bậc 15	T15_Pendant_Q3_piece		34	4935		EquipMeterial	99	4935	Cần [FFFE0D]5 mảnh[-] để ghép thành 1 Ngọc Bội[FFFE0D]【Kế Thừa】Bậc 15[-]	1923600	12	1	1920000	4	1		999										
+10351	Mảnh Ngọc Bội Kế Thừa Bậc 16	T16_Pendant_Q3_piece		34	4936		EquipMeterial	99	4936	Cần [FFFE0D]5 mảnh[-] để ghép thành 1 Ngọc Bội[FFFE0D]【Kế Thừa】Bậc 16[-]	2120000	13	1	2120000	4	1		999										
+10352	Mảnh Ngọc Bội Kế Thừa Bậc 17	T17_Pendant_Q3_piece		34	4937		EquipMeterial	99	4937	Cần [FFFE0D]5 mảnh[-] để ghép thành 1 Ngọc Bội[FFFE0D]【Kế Thừa】Bậc 17[-]	2320000	14	1	2320000	4	1		999										
+10353	Mảnh Ngọc Bội Kế Thừa Bậc 18	T18_Pendant_Q3_piece		34	4938		EquipMeterial	99	4938	Cần [FFFE0D]5 mảnh[-] để ghép thành 1 Ngọc Bội[FFFE0D]【Kế Thừa】Bậc 18[-]	480000	15	1	480000	4	1		999										
+10354	Mảnh Ngọc Bội Kế Thừa Bậc 19	T19_Pendant_Q3_piece		34	4939		EquipMeterial	99	4939	Cần [FFFE0D]5 mảnh[-] để ghép thành 1 Ngọc Bội[FFFE0D]【Kế Thừa】Bậc 19[-]	720000	16	1	720000	4	1		999										
+10355	Mảnh Ngọc Bội Kế Thừa Bậc 20	T20_Pendant_Q3_piece		34	4940		EquipMeterial	99	4940	Cần [FFFE0D]5 mảnh[-] để ghép thành 1 Ngọc Bội[FFFE0D]【Kế Thừa】Bậc 20[-]	960000	17	1	960000	4	1		999										
+2112	Mảnh Hộ Thân Phù Hiếm Bậc 4	T4_Amulet_Q2_piece		34	44		EquipMeterial	99	44	Cần [FFFE0D]10 mảnh[-] để ghép thành 1 Hộ Thân Phù[FFFE0D]【Hiếm】Bậc 4[-]	120000	1	1	120000	6	1		999										
+2113	Mảnh Hộ Thân Phù Hiếm Bậc 5	T5_Amulet_Q2_piece		34	45		EquipMeterial	99	45	Cần [FFFE0D]10 mảnh[-] để ghép thành 1 Hộ Thân Phù[FFFE0D]【Hiếm】Bậc 5[-]	250000	2	1	250000	6	1		999										
+2114	Mảnh Hộ Thân Phù Hiếm Bậc 6	T6_Amulet_Q2_piece		34	46		EquipMeterial	99	46	Cần [FFFE0D]10 mảnh[-] để ghép thành 1 Hộ Thân Phù[FFFE0D]【Hiếm】Bậc 6[-]	300000	3	1	300000	6	1		999										
+2967	Mảnh Hộ Thân Phù Hiếm Bậc 7	T7_Amulet_Q2_piece		34	47		EquipMeterial	99	47	Cần [FFFE0D]10 mảnh[-] để ghép thành 1 Hộ Thân Phù[FFFE0D]【Hiếm】Bậc 7[-]	400000	4	1	400000	6	1		999										
+2968	Mảnh Hộ Thân Phù Hiếm Bậc 8	T8_Amulet_Q2_piece		34	48		EquipMeterial	99	48	Cần [FFFE0D]10 mảnh[-] để ghép thành 1 Hộ Thân Phù[FFFE0D]【Hiếm】Bậc 8[-]	540000	5	1	600000	6	1		999										
+2969	Mảnh Hộ Thân Phù Hiếm Bậc 9	T9_Amulet_Q2_piece		34	49		EquipMeterial	99	49	Cần [FFFE0D]10 mảnh[-] để ghép thành 1 Hộ Thân Phù[FFFE0D]【Hiếm】Bậc 9[-]	800000	6	1	800000	6	1		999										
+3675	Mảnh Hộ Thân Phù Hiếm Bậc 10	T10_Amulet_Q2_piece		34	50		EquipMeterial	99	50	Cần [FFFE0D]10 mảnh[-] để ghép thành 1 Hộ Thân Phù[FFFE0D]【Hiếm】Bậc 10[-]	1000000	7	1	1000000	6	1		999										
+5801	Mảnh Hộ Thân Phù Hiếm Bậc 11	T11_Amulet_Q2_piece		34	4941		EquipMeterial	99	4941	Cần [FFFE0D]10 mảnh[-] để ghép thành 1 Hộ Thân Phù[FFFE0D]【Hiếm】Bậc 11[-]	1250000	8	1	1250000	6	1		999										
+5802	Mảnh Hộ Thân Phù Hiếm Bậc 12	T12_Amulet_Q2_piece		34	4942		EquipMeterial	99	4942	Cần [FFFE0D]10 mảnh[-] để ghép thành 1 Hộ Thân Phù[FFFE0D]【Hiếm】Bậc 12[-]	1368000	9	1	1368000	6	1		999										
+5803	Mảnh Hộ Thân Phù Hiếm Bậc 13	T13_Amulet_Q2_piece		34	4943		EquipMeterial	99	4943	Cần [FFFE0D]10 mảnh[-] để ghép thành 1 Hộ Thân Phù[FFFE0D]【Hiếm】Bậc 13[-]	1424000	10	1	1424000	6	1		999										
+5804	Mảnh Hộ Thân Phù Hiếm Bậc 14	T14_Amulet_Q2_piece		34	4944		EquipMeterial	99	4944	Cần [FFFE0D]10 mảnh[-] để ghép thành 1 Hộ Thân Phù[FFFE0D]【Hiếm】Bậc 14[-]	1566000	11	1	1566000	6	1		999										
+5805	Mảnh Hộ Thân Phù Hiếm Bậc 15	T15_Amulet_Q2_piece		34	4945		EquipMeterial	99	4945	Cần [FFFE0D]10 mảnh[-] để ghép thành 1 Hộ Thân Phù[FFFE0D]【Hiếm】Bậc 15[-]	1725600	12	1	1726000	6	1		999										
+10356	Mảnh Hộ Thân Phù Hiếm Bậc 16	T16_Amulet_Q2_piece		34	4946		EquipMeterial	99	4946	Cần [FFFE0D]10 mảnh[-] để ghép thành 1 Hộ Thân Phù[FFFE0D]【Hiếm】Bậc 16[-]	1900000	13	1	1900000	6	1		999										
+10357	Mảnh Hộ Thân Phù Hiếm Bậc 17	T17_Amulet_Q2_piece		34	4947		EquipMeterial	99	4947	Cần [FFFE0D]10 mảnh[-] để ghép thành 1 Hộ Thân Phù[FFFE0D]【Hiếm】Bậc 17[-]	2090000	14	1	2090000	6	1		999										
+10358	Mảnh Hộ Thân Phù Hiếm Bậc 18	T18_Amulet_Q2_piece		34	4948		EquipMeterial	99	4948	Cần [FFFE0D]10 mảnh[-] để ghép thành 1 Hộ Thân Phù[FFFE0D]【Hiếm】Bậc 18[-]	540000	15	1	600000	6	1		999										
+10359	Mảnh Hộ Thân Phù Hiếm Bậc 19	T19_Amulet_Q2_piece		34	4949		EquipMeterial	99	4949	Cần [FFFE0D]10 mảnh[-] để ghép thành 1 Hộ Thân Phù[FFFE0D]【Hiếm】Bậc 19[-]	800000	16	1	800000	6	1		999										
+10360	Mảnh Hộ Thân Phù Hiếm Bậc 20	T20_Amulet_Q2_piece		34	4950		EquipMeterial	99	4950	Cần [FFFE0D]10 mảnh[-] để ghép thành 1 Hộ Thân Phù[FFFE0D]【Hiếm】Bậc 20[-]	1000000	17	1	1000000	6	1		999										
+2115	Mảnh Hộ Thân Phù Kế Thừa Bậc 4	T4_Amulet_Q3_piece		34	44		EquipMeterial	99	44	Cần [FFFE0D]5 mảnh[-] để ghép thành 1 Hộ Thân Phù[FFFE0D]【Kế Thừa】Bậc 4[-]	80000	1	1	80000	4	1		999										
+2116	Mảnh Hộ Thân Phù Kế Thừa Bậc 5	T5_Amulet_Q3_piece		34	45		EquipMeterial	99	45	Cần [FFFE0D]5 mảnh[-] để ghép thành 1 Hộ Thân Phù[FFFE0D]【Kế Thừa】Bậc 5[-]	180000	2	1	180000	4	1		999										
+2117	Mảnh Hộ Thân Phù Kế Thừa Bậc 6	T6_Amulet_Q3_piece		34	46		EquipMeterial	99	46	Cần [FFFE0D]5 mảnh[-] để ghép thành 1 Hộ Thân Phù[FFFE0D]【Kế Thừa】Bậc 6[-]	240000	3	1	240000	4	1		999										
+2970	Mảnh Hộ Thân Phù Kế Thừa Bậc 7	T7_Amulet_Q3_piece		34	47		EquipMeterial	99	47	Cần [FFFE0D]5 mảnh[-] để ghép thành 1 Hộ Thân Phù[FFFE0D]【Kế Thừa】Bậc 7[-]	320000	4	1	320000	4	1		999										
+2971	Mảnh Hộ Thân Phù Kế Thừa Bậc 8	T8_Amulet_Q3_piece		34	48		EquipMeterial	99	48	Cần [FFFE0D]5 mảnh[-] để ghép thành 1 Hộ Thân Phù[FFFE0D]【Kế Thừa】Bậc 8[-]	480000	5	1	480000	4	1		999										
+2972	Mảnh Hộ Thân Phù Kế Thừa Bậc 9	T9_Amulet_Q3_piece		34	49		EquipMeterial	99	49	Cần [FFFE0D]5 mảnh[-] để ghép thành 1 Hộ Thân Phù[FFFE0D]【Kế Thừa】Bậc 9[-]	720000	6	1	720000	4	1		999										
+3676	Mảnh Hộ Thân Phù Kế Thừa Bậc 10	T10_Amulet_Q3_piece		34	50		EquipMeterial	99	50	Cần [FFFE0D]5 mảnh[-] để ghép thành 1 Hộ Thân Phù[FFFE0D]【Kế Thừa】Bậc 10[-]	960000	7	1	960000	4	1		999										
+5806	Mảnh Hộ Thân Phù Kế Thừa Bậc 11	T11_Amulet_Q3_piece		34	4941		EquipMeterial	99	4941	Cần [FFFE0D]5 mảnh[-] để ghép thành 1 Hộ Thân Phù[FFFE0D]【Kế Thừa】Bậc 11[-]	1280000	8	1	1280000	4	1		999										
+5807	Mảnh Hộ Thân Phù Kế Thừa Bậc 12	T12_Amulet_Q3_piece		34	4942		EquipMeterial	99	4942	Cần [FFFE0D]5 mảnh[-] để ghép thành 1 Hộ Thân Phù[FFFE0D]【Kế Thừa】Bậc 12[-]	1440000	9	1	1536000	4	1		999										
+5808	Mảnh Hộ Thân Phù Kế Thừa Bậc 13	T13_Amulet_Q3_piece		34	4943		EquipMeterial	99	4943	Cần [FFFE0D]5 mảnh[-] để ghép thành 1 Hộ Thân Phù[FFFE0D]【Kế Thừa】Bậc 13[-]	1584000	10	1	1584000	4	1		999										
+5809	Mảnh Hộ Thân Phù Kế Thừa Bậc 14	T14_Amulet_Q3_piece		34	4944		EquipMeterial	99	4944	Cần [FFFE0D]5 mảnh[-] để ghép thành 1 Hộ Thân Phù[FFFE0D]【Kế Thừa】Bậc 14[-]	1740000	11	1	1740000	4	1		999										
+5810	Mảnh Hộ Thân Phù Kế Thừa Bậc 15	T15_Amulet_Q3_piece		34	4945		EquipMeterial	99	4945	Cần [FFFE0D]5 mảnh[-] để ghép thành 1 Hộ Thân Phù[FFFE0D]【Kế Thừa】Bậc 15[-]	1923600	12	1	1920000	4	1		999										
+10361	Mảnh Hộ Thân Phù Kế Thừa Bậc 16	T16_Amulet_Q3_piece		34	4946		EquipMeterial	99	4946	Cần [FFFE0D]5 mảnh[-] để ghép thành 1 Hộ Thân Phù[FFFE0D]【Kế Thừa】Bậc 16[-]	2120000	13	1	2120000	4	1		999										
+10362	Mảnh Hộ Thân Phù Kế Thừa Bậc 17	T17_Amulet_Q3_piece		34	4947		EquipMeterial	99	4947	Cần [FFFE0D]5 mảnh[-] để ghép thành 1 Hộ Thân Phù[FFFE0D]【Kế Thừa】Bậc 17[-]	2320000	14	1	2320000	4	1		999										
+10363	Mảnh Hộ Thân Phù Kế Thừa Bậc 18	T18_Amulet_Q3_piece		34	4948		EquipMeterial	99	4948	Cần [FFFE0D]5 mảnh[-] để ghép thành 1 Hộ Thân Phù[FFFE0D]【Kế Thừa】Bậc 18[-]	480000	15	1	480000	4	1		999										
+10364	Mảnh Hộ Thân Phù Kế Thừa Bậc 19	T19_Amulet_Q3_piece		34	4949		EquipMeterial	99	4949	Cần [FFFE0D]5 mảnh[-] để ghép thành 1 Hộ Thân Phù[FFFE0D]【Kế Thừa】Bậc 19[-]	720000	16	1	720000	4	1		999										
+10365	Mảnh Hộ Thân Phù Kế Thừa Bậc 20	T20_Amulet_Q3_piece		34	4950		EquipMeterial	99	4950	Cần [FFFE0D]5 mảnh[-] để ghép thành 1 Hộ Thân Phù[FFFE0D]【Kế Thừa】Bậc 20[-]	960000	17	1	960000	4	1		999										
+2118	Mảnh Nón Hiếm Bậc 4	T4_Helm_Q2_piece	5704	34	10204		EquipMeterial	99	10204	Cần [FFFE0D]10 mảnh[-] để ghép thành 1 Nón[FFFE0D]【Hiếm】Bậc 4[-]	60000	1	1	60000	6	1		999										
+2119	Mảnh Nón Hiếm Bậc 5	T5_Helm_Q2_piece	5705	34	10205		EquipMeterial	99	10205	Cần [FFFE0D]10 mảnh[-] để ghép thành 1 Nón[FFFE0D]【Hiếm】Bậc 5[-]	125000	2	1	125000	6	1		999										
+2120	Mảnh Nón Hiếm Bậc 6	T6_Helm_Q2_piece	5706	34	10206		EquipMeterial	99	10206	Cần [FFFE0D]10 mảnh[-] để ghép thành 1 Nón[FFFE0D]【Hiếm】Bậc 6[-]	150000	3	1	150000	6	1		999										
+2973	Mảnh Nón Hiếm Bậc 7	T7_Helm_Q2_piece	5707	34	10207		EquipMeterial	99	10207	Cần [FFFE0D]10 mảnh[-] để ghép thành 1 Nón[FFFE0D]【Hiếm】Bậc 7[-]	200000	4	1	200000	6	1		999										
+2974	Mảnh Nón Hiếm Bậc 8	T8_Helm_Q2_piece	5708	34	10208		EquipMeterial	99	10208	Cần [FFFE0D]10 mảnh[-] để ghép thành 1 Nón[FFFE0D]【Hiếm】Bậc 8[-]	270000	5	1	270000	6	1		999										
+2975	Mảnh Nón Hiếm Bậc 9	T9_Helm_Q2_piece	5709	34	10209		EquipMeterial	99	10209	Cần [FFFE0D]10 mảnh[-] để ghép thành 1 Nón[FFFE0D]【Hiếm】Bậc 9[-]	400000	6	1	400000	6	1		999										
+3677	Mảnh Nón Hiếm Bậc 10	T10_Helm_Q2_piece	5710	34	10210		EquipMeterial	99	10210	Cần [FFFE0D]10 mảnh[-] để ghép thành 1 Nón[FFFE0D]【Hiếm】Bậc 10[-]	500000	7	1	500000	6	1		999										
+5811	Mảnh Nón Hiếm Bậc 11	T11_Helm_Q2_piece	5711	34			EquipMeterial	99		Cần [FFFE0D]10 mảnh[-] để ghép thành 1 Nón[FFFE0D]【Hiếm】Bậc 11[-]	625000	8	1	625000	6	1		999										
+5812	Mảnh Nón Hiếm Bậc 12	T12_Helm_Q2_piece	5712	34			EquipMeterial	99		Cần [FFFE0D]10 mảnh[-] để ghép thành 1 Nón[FFFE0D]【Hiếm】Bậc 12[-]	684000	9	1	684000	6	1		999										
+5813	Mảnh Nón Hiếm Bậc 13	T13_Helm_Q2_piece	5713	34			EquipMeterial	99		Cần [FFFE0D]10 mảnh[-] để ghép thành 1 Nón[FFFE0D]【Hiếm】Bậc 13[-]	712000	10	1	712000	6	1		999										
+5814	Mảnh Nón Hiếm Bậc 14	T14_Helm_Q2_piece	5714	34			EquipMeterial	99		Cần [FFFE0D]10 mảnh[-] để ghép thành 1 Nón[FFFE0D]【Hiếm】Bậc 14[-]	783000	11	1	783000	6	1		999										
+5815	Mảnh Nón Hiếm Bậc 15	T15_Helm_Q2_piece	5715	34			EquipMeterial	99		Cần [FFFE0D]10 mảnh[-] để ghép thành 1 Nón[FFFE0D]【Hiếm】Bậc 15[-]	862800	12	1	863000	6	1		999										
+10366	Mảnh Nón Hiếm Bậc 16	T16_Helm_Q2_piece	5716	34			EquipMeterial	99	10206	Cần [FFFE0D]10 mảnh[-] để ghép thành 1 Nón[FFFE0D]【Hiếm】Bậc 16[-]	950000	13	1	950000	6	1		999										
+10367	Mảnh Nón Hiếm Bậc 17	T17_Helm_Q2_piece	5717	34			EquipMeterial	99	10207	Cần [FFFE0D]10 mảnh[-] để ghép thành 1 Nón[FFFE0D]【Hiếm】Bậc 17[-]	1045000	14	1	1045000	6	1		999										
+10368	Mảnh Nón Hiếm Bậc 18	T18_Helm_Q2_piece	5718	34			EquipMeterial	99	10208	Cần [FFFE0D]10 mảnh[-] để ghép thành 1 Nón[FFFE0D]【Hiếm】Bậc 18[-]	270000	15	1	270000	6	1		999										
+10369	Mảnh Nón Hiếm Bậc 19	T19_Helm_Q2_piece	5719	34			EquipMeterial	99	10209	Cần [FFFE0D]10 mảnh[-] để ghép thành 1 Nón[FFFE0D]【Hiếm】Bậc 19[-]	400000	16	1	400000	6	1		999										
+10370	Mảnh Nón Hiếm Bậc 20	T20_Helm_Q2_piece	5720	34			EquipMeterial	99	10210	Cần [FFFE0D]10 mảnh[-] để ghép thành 1 Nón[FFFE0D]【Hiếm】Bậc 20[-]	500000	17	1	500000	6	1		999										
+2121	Mảnh Nón Kế Thừa Bậc 4	T4_Helm_Q3_piece	5804	34	10204		EquipMeterial	99	10204	Cần [FFFE0D]5 mảnh[-] để ghép thành 1 Nón[FFFE0D]【Kế Thừa】Bậc 4[-]	40000	1	1	40000	4	1		999										
+2122	Mảnh Nón Kế Thừa Bậc 5	T5_Helm_Q3_piece	5805	34	10205		EquipMeterial	99	10205	Cần [FFFE0D]5 mảnh[-] để ghép thành 1 Nón[FFFE0D]【Kế Thừa】Bậc 5[-]	90000	2	1	90000	4	1		999										
+2123	Mảnh Nón Kế Thừa Bậc 6	T6_Helm_Q3_piece	5806	34	10206		EquipMeterial	99	10206	Cần [FFFE0D]5 mảnh[-] để ghép thành 1 Nón[FFFE0D]【Kế Thừa】Bậc 6[-]	120000	3	1	120000	4	1		999										
+2976	Mảnh Nón Kế Thừa Bậc 7	T7_Helm_Q3_piece	5807	34	10207		EquipMeterial	99	10207	Cần [FFFE0D]5 mảnh[-] để ghép thành 1 Nón[FFFE0D]【Kế Thừa】Bậc 7[-]	160000	4	1	160000	4	1		999										
+2977	Mảnh Nón Kế Thừa Bậc 8	T8_Helm_Q3_piece	5808	34	10208		EquipMeterial	99	10208	Cần [FFFE0D]5 mảnh[-] để ghép thành 1 Nón[FFFE0D]【Kế Thừa】Bậc 8[-]	240000	5	1	240000	4	1		999										
+2978	Mảnh Nón Kế Thừa Bậc 9	T9_Helm_Q3_piece	5809	34	10209		EquipMeterial	99	10209	Cần [FFFE0D]5 mảnh[-] để ghép thành 1 Nón[FFFE0D]【Kế Thừa】Bậc 9[-]	360000	6	1	360000	4	1		999										
+3678	Mảnh Nón Kế Thừa Bậc 10	T10_Helm_Q3_piece	5810	34	10210		EquipMeterial	99	10210	Cần [FFFE0D]5 mảnh[-] để ghép thành 1 Nón[FFFE0D]【Kế Thừa】Bậc 10[-]	480000	7	1	480000	4	1		999										
+5816	Mảnh Nón Kế Thừa Bậc 11	T11_Helm_Q3_piece	5811	34			EquipMeterial	99		Cần [FFFE0D]5 mảnh[-] để ghép thành 1 Nón[FFFE0D]【Kế Thừa】Bậc 11[-]	640000	8	1	640000	4	1		999										
+5817	Mảnh Nón Kế Thừa Bậc 12	T12_Helm_Q3_piece	5812	34			EquipMeterial	99		Cần [FFFE0D]5 mảnh[-] để ghép thành 1 Nón[FFFE0D]【Kế Thừa】Bậc 12[-]	720000	9	1	768000	4	1		999										
+5818	Mảnh Nón Kế Thừa Bậc 13	T13_Helm_Q3_piece	5813	34			EquipMeterial	99		Cần [FFFE0D]5 mảnh[-] để ghép thành 1 Nón[FFFE0D]【Kế Thừa】Bậc 13[-]	792000	10	1	792000	4	1		999										
+5819	Mảnh Nón Kế Thừa Bậc 14	T14_Helm_Q3_piece	5814	34			EquipMeterial	99		Cần [FFFE0D]5 mảnh[-] để ghép thành 1 Nón[FFFE0D]【Kế Thừa】Bậc 14[-]	870000	11	1	870000	4	1		999										
+5820	Mảnh Nón Kế Thừa Bậc 15	T15_Helm_Q3_piece	5815	34			EquipMeterial	99		Cần [FFFE0D]5 mảnh[-] để ghép thành 1 Nón[FFFE0D]【Kế Thừa】Bậc 15[-]	961800	12	1	960000	4	1		999										
+10371	Mảnh Nón Kế Thừa Bậc 16	T16_Helm_Q3_piece	5816	34			EquipMeterial	99	10206	Cần [FFFE0D]5 mảnh[-] để ghép thành 1 Nón[FFFE0D]【Kế Thừa】Bậc 16[-]	1060000	13	1	1060000	4	1		999										
+10372	Mảnh Nón Kế Thừa Bậc 17	T17_Helm_Q3_piece	5817	34			EquipMeterial	99	10207	Cần [FFFE0D]5 mảnh[-] để ghép thành 1 Nón[FFFE0D]【Kế Thừa】Bậc 17[-]	1160000	14	1	1160000	4	1		999										
+10373	Mảnh Nón Kế Thừa Bậc 18	T18_Helm_Q3_piece	5818	34			EquipMeterial	99	10208	Cần [FFFE0D]5 mảnh[-] để ghép thành 1 Nón[FFFE0D]【Kế Thừa】Bậc 18[-]	240000	15	1	240000	4	1		999										
+10374	Mảnh Nón Kế Thừa Bậc 19	T19_Helm_Q3_piece	5819	34			EquipMeterial	99	10209	Cần [FFFE0D]5 mảnh[-] để ghép thành 1 Nón[FFFE0D]【Kế Thừa】Bậc 19[-]	360000	16	1	360000	4	1		999										
+10375	Mảnh Nón Kế Thừa Bậc 20	T20_Helm_Q3_piece	5820	34			EquipMeterial	99	10210	Cần [FFFE0D]5 mảnh[-] để ghép thành 1 Nón[FFFE0D]【Kế Thừa】Bậc 20[-]	480000	17	1	480000	4	1		999										
+2124	Mảnh Áo Hiếm Bậc 4	T4_Armor_Q2_piece	6704	34	10404		EquipMeterial	99	10404	Cần [FFFE0D]10 mảnh[-] để ghép thành 1 Áo[FFFE0D]【Hiếm】Bậc 4[-]	180000	1	1	180000	6	1		999										
+2125	Mảnh Áo Hiếm Bậc 5	T5_Armor_Q2_piece	6705	34	10405		EquipMeterial	99	10405	Cần [FFFE0D]10 mảnh[-] để ghép thành 1 Áo[FFFE0D]【Hiếm】Bậc 5[-]	375000	2	1	375000	6	1		999										
+2126	Mảnh Áo Hiếm Bậc 6	T6_Armor_Q2_piece	6706	34	10406		EquipMeterial	99	10406	Cần [FFFE0D]10 mảnh[-] để ghép thành 1 Áo[FFFE0D]【Hiếm】Bậc 6[-]	450000	3	1	450000	6	1		999										
+2979	Mảnh Áo Hiếm Bậc 7	T7_Armor_Q2_piece	6707	34	10407		EquipMeterial	99	10407	Cần [FFFE0D]10 mảnh[-] để ghép thành 1 Áo[FFFE0D]【Hiếm】Bậc 7[-]	600000	4	1	600000	6	1		999										
+2980	Mảnh Áo Hiếm Bậc 8	T8_Armor_Q2_piece	6708	34	10408		EquipMeterial	99	10408	Cần [FFFE0D]10 mảnh[-] để ghép thành 1 Áo[FFFE0D]【Hiếm】Bậc 8[-]	810000	5	1	810000	6	1		999										
+2981	Mảnh Áo Hiếm Bậc 9	T9_Armor_Q2_piece	6709	34	10409		EquipMeterial	99	10409	Cần [FFFE0D]10 mảnh[-] để ghép thành 1 Áo[FFFE0D]【Hiếm】Bậc 9[-]	1200000	6	1	1200000	6	1		999										
+3679	Mảnh Áo Hiếm Bậc 10	T10_Armor_Q2_piece	6710	34	10410		EquipMeterial	99	10410	Cần [FFFE0D]10 mảnh[-] để ghép thành 1 Áo[FFFE0D]【Hiếm】Bậc 10[-]	1500000	7	1	1500000	6	1		999										
+5821	Mảnh Áo Hiếm Bậc 11	T11_Armor_Q2_piece	6711	34			EquipMeterial	99		Cần [FFFE0D]10 mảnh[-] để ghép thành 1 Áo[FFFE0D]【Hiếm】Bậc 11[-]	1875000	8	1	1875000	6	1		999										
+5822	Mảnh Áo Hiếm Bậc 12	T12_Armor_Q2_piece	6712	34			EquipMeterial	99		Cần [FFFE0D]10 mảnh[-] để ghép thành 1 Áo[FFFE0D]【Hiếm】Bậc 12[-]	2052000	9	1	2052000	6	1		999										
+5823	Mảnh Áo Hiếm Bậc 13	T13_Armor_Q2_piece	6713	34			EquipMeterial	99		Cần [FFFE0D]10 mảnh[-] để ghép thành 1 Áo[FFFE0D]【Hiếm】Bậc 13[-]	2136000	10	1	2136000	6	1		999										
+5824	Mảnh Áo Hiếm Bậc 14	T14_Armor_Q2_piece	6714	34			EquipMeterial	99		Cần [FFFE0D]10 mảnh[-] để ghép thành 1 Áo[FFFE0D]【Hiếm】Bậc 14[-]	2350000	11	1	2350000	6	1		999										
+5825	Mảnh Áo Hiếm Bậc 15	T15_Armor_Q2_piece	6715	34			EquipMeterial	99		Cần [FFFE0D]10 mảnh[-] để ghép thành 1 Áo[FFFE0D]【Hiếm】Bậc 15[-]	2589000	12	1	2589000	6	1		999										
+10376	Mảnh Áo Hiếm Bậc 16	T16_Armor_Q2_piece	6716	34			EquipMeterial	99	10406	Cần [FFFE0D]10 mảnh[-] để ghép thành 1 Áo[FFFE0D]【Hiếm】Bậc 16[-]	2850000	13	1	2850000	6	1		999										
+10377	Mảnh Áo Hiếm Bậc 17	T17_Armor_Q2_piece	6717	34			EquipMeterial	99	10407	Cần [FFFE0D]10 mảnh[-] để ghép thành 1 Áo[FFFE0D]【Hiếm】Bậc 17[-]	3135000	14	1	3135000	6	1		999										
+10378	Mảnh Áo Hiếm Bậc 18	T18_Armor_Q2_piece	6718	34			EquipMeterial	99	10408	Cần [FFFE0D]10 mảnh[-] để ghép thành 1 Áo[FFFE0D]【Hiếm】Bậc 18[-]	810000	15	1	810000	6	1		999										
+10379	Mảnh Áo Hiếm Bậc 19	T19_Armor_Q2_piece	6719	34			EquipMeterial	99	10409	Cần [FFFE0D]10 mảnh[-] để ghép thành 1 Áo[FFFE0D]【Hiếm】Bậc 19[-]	1200000	16	1	1200000	6	1		999										
+10380	Mảnh Áo Hiếm Bậc 20	T20_Armor_Q2_piece	6720	34			EquipMeterial	99	10410	Cần [FFFE0D]10 mảnh[-] để ghép thành 1 Áo[FFFE0D]【Hiếm】Bậc 20[-]	1500000	17	1	1500000	6	1		999										
+2127	Mảnh Áo Kế Thừa Bậc 4	T4_Armor_Q3_piece	6804	34	10404		EquipMeterial	99	10404	Cần [FFFE0D]5 mảnh[-] để ghép thành 1 Áo[FFFE0D]【Kế Thừa】Bậc 4[-]	120000	1	1	120000	4	1		999										
+2128	Mảnh Áo Kế Thừa Bậc 5	T5_Armor_Q3_piece	6805	34	10405		EquipMeterial	99	10405	Cần [FFFE0D]5 mảnh[-] để ghép thành 1 Áo[FFFE0D]【Kế Thừa】Bậc 5[-]	270000	2	1	270000	4	1		999										
+2129	Mảnh Áo Kế Thừa Bậc 6	T6_Armor_Q3_piece	6806	34	10406		EquipMeterial	99	10406	Cần [FFFE0D]5 mảnh[-] để ghép thành 1 Áo[FFFE0D]【Kế Thừa】Bậc 6[-]	360000	3	1	360000	4	1		999										
+2982	Mảnh Áo Kế Thừa Bậc 7	T7_Armor_Q3_piece	6807	34	10407		EquipMeterial	99	10407	Cần [FFFE0D]5 mảnh[-] để ghép thành 1 Áo[FFFE0D]【Kế Thừa】Bậc 7[-]	480000	4	1	480000	4	1		999										
+2983	Mảnh Áo Kế Thừa Bậc 8	T8_Armor_Q3_piece	6808	34	10408		EquipMeterial	99	10408	Cần [FFFE0D]5 mảnh[-] để ghép thành 1 Áo[FFFE0D]【Kế Thừa】Bậc 8[-]	720000	5	1	720000	4	1		999										
+2984	Mảnh Áo Kế Thừa Bậc 9	T9_Armor_Q3_piece	6809	34	10409		EquipMeterial	99	10409	Cần [FFFE0D]5 mảnh[-] để ghép thành 1 Áo[FFFE0D]【Kế Thừa】Bậc 9[-]	1080000	6	1	1080000	4	1		999										
+3680	Mảnh Áo Kế Thừa Bậc 10	T10_Armor_Q3_piece	6810	34	10410		EquipMeterial	99	10410	Cần [FFFE0D]5 mảnh[-] để ghép thành 1 Áo[FFFE0D]【Kế Thừa】Bậc 10[-]	1440000	7	1	1440000	4	1		999										
+5826	Mảnh Áo Kế Thừa Bậc 11	T11_Armor_Q3_piece	6811	34			EquipMeterial	99		Cần [FFFE0D]5 mảnh[-] để ghép thành 1 Áo[FFFE0D]【Kế Thừa】Bậc 11[-]	1920000	8	1	1920000	4	1		999										
+5827	Mảnh Áo Kế Thừa Bậc 12	T12_Armor_Q3_piece	6812	34			EquipMeterial	99		Cần [FFFE0D]5 mảnh[-] để ghép thành 1 Áo[FFFE0D]【Kế Thừa】Bậc 12[-]	2160000	9	1	2304000	4	1		999										
+5828	Mảnh Áo Kế Thừa Bậc 13	T13_Armor_Q3_piece	6813	34			EquipMeterial	99		Cần [FFFE0D]5 mảnh[-] để ghép thành 1 Áo[FFFE0D]【Kế Thừa】Bậc 13[-]	2376000	10	1	2376000	4	1		999										
+5829	Mảnh Áo Kế Thừa Bậc 14	T14_Armor_Q3_piece	6814	34			EquipMeterial	99		Cần [FFFE0D]5 mảnh[-] để ghép thành 1 Áo[FFFE0D]【Kế Thừa】Bậc 14[-]	2610000	11	1	2610000	4	1		999										
+5830	Mảnh Áo Kế Thừa Bậc 15	T15_Armor_Q3_piece	6815	34			EquipMeterial	99		Cần [FFFE0D]5 mảnh[-] để ghép thành 1 Áo[FFFE0D]【Kế Thừa】Bậc 15[-]	2885400	12	1	2880000	4	1		999										
+10381	Mảnh Áo Kế Thừa Bậc 16	T16_Armor_Q3_piece	6816	34			EquipMeterial	99	10406	Cần [FFFE0D]5 mảnh[-] để ghép thành 1 Áo[FFFE0D]【Kế Thừa】Bậc 16[-]	3180000	13	1	3180000	4	1		999										
+10382	Mảnh Áo Kế Thừa Bậc 17	T17_Armor_Q3_piece	6817	34			EquipMeterial	99	10407	Cần [FFFE0D]5 mảnh[-] để ghép thành 1 Áo[FFFE0D]【Kế Thừa】Bậc 17[-]	3480000	14	1	3480000	4	1		999										
+10383	Mảnh Áo Kế Thừa Bậc 18	T18_Armor_Q3_piece	6818	34			EquipMeterial	99	10408	Cần [FFFE0D]5 mảnh[-] để ghép thành 1 Áo[FFFE0D]【Kế Thừa】Bậc 18[-]	720000	15	1	720000	4	1		999										
+10384	Mảnh Áo Kế Thừa Bậc 19	T19_Armor_Q3_piece	6819	34			EquipMeterial	99	10409	Cần [FFFE0D]5 mảnh[-] để ghép thành 1 Áo[FFFE0D]【Kế Thừa】Bậc 19[-]	1080000	16	1	1080000	4	1		999										
+10385	Mảnh Áo Kế Thừa Bậc 20	T20_Armor_Q3_piece	6820	34			EquipMeterial	99	10410	Cần [FFFE0D]5 mảnh[-] để ghép thành 1 Áo[FFFE0D]【Kế Thừa】Bậc 20[-]	1440000	17	1	1440000	4	1		999										
+2130	Mảnh Hộ Uyển Hiếm Bậc 4	T4_Cuff_Q2_piece	7704	34	10304		EquipMeterial	99	10304	Cần [FFFE0D]10 mảnh[-] để ghép thành 1 Hộ Uyển[FFFE0D]【Hiếm】Bậc 4[-]	60000	1	1	60000	6	1		999										
+2131	Mảnh Hộ Uyển Hiếm Bậc 5	T5_Cuff_Q2_piece	7705	34	10305		EquipMeterial	99	10305	Cần [FFFE0D]10 mảnh[-] để ghép thành 1 Hộ Uyển[FFFE0D]【Hiếm】Bậc 5[-]	125000	2	1	125000	6	1		999										
+2132	Mảnh Hộ Uyển Hiếm Bậc 6	T6_Cuff_Q2_piece	7706	34	10306		EquipMeterial	99	10306	Cần [FFFE0D]10 mảnh[-] để ghép thành 1 Hộ Uyển[FFFE0D]【Hiếm】Bậc 6[-]	150000	3	1	150000	6	1		999										
+2985	Mảnh Hộ Uyển Hiếm Bậc 7	T7_Cuff_Q2_piece	7707	34	10307		EquipMeterial	99	10307	Cần [FFFE0D]10 mảnh[-] để ghép thành 1 Hộ Uyển[FFFE0D]【Hiếm】Bậc 7[-]	200000	4	1	200000	6	1		999										
+2986	Mảnh Hộ Uyển Hiếm Bậc 8	T8_Cuff_Q2_piece	7708	34	10308		EquipMeterial	99	10308	Cần [FFFE0D]10 mảnh[-] để ghép thành 1 Hộ Uyển[FFFE0D]【Hiếm】Bậc 8[-]	270000	5	1	270000	6	1		999										
+2987	Mảnh Hộ Uyển Hiếm Bậc 9	T9_Cuff_Q2_piece	7709	34	10309		EquipMeterial	99	10309	Cần [FFFE0D]10 mảnh[-] để ghép thành 1 Hộ Uyển[FFFE0D]【Hiếm】Bậc 9[-]	400000	6	1	400000	6	1		999										
+3681	Mảnh Hộ Uyển Hiếm Bậc 10	T10_Cuff_Q2_piece	7710	34	10310		EquipMeterial	99	10310	Cần [FFFE0D]10 mảnh[-] để ghép thành 1 Hộ Uyển[FFFE0D]【Hiếm】Bậc 10[-]	500000	7	1	500000	6	1		999										
+5831	Mảnh Hộ Uyển Hiếm Bậc 11	T11_Cuff_Q2_piece	7711	34			EquipMeterial	99		Cần [FFFE0D]10 mảnh[-] để ghép thành 1 Hộ Uyển[FFFE0D]【Hiếm】Bậc 11[-]	625000	8	1	625000	6	1		999										
+5832	Mảnh Hộ Uyển Hiếm Bậc 12	T12_Cuff_Q2_piece	7712	34			EquipMeterial	99		Cần [FFFE0D]10 mảnh[-] để ghép thành 1 Hộ Uyển[FFFE0D]【Hiếm】Bậc 12[-]	684000	9	1	684000	6	1		999										
+5833	Mảnh Hộ Uyển Hiếm Bậc 13	T13_Cuff_Q2_piece	7713	34			EquipMeterial	99		Cần [FFFE0D]10 mảnh[-] để ghép thành 1 Hộ Uyển[FFFE0D]【Hiếm】Bậc 13[-]	712000	10	1	712000	6	1		999										
+5834	Mảnh Hộ Uyển Hiếm Bậc 14	T14_Cuff_Q2_piece	7714	34			EquipMeterial	99		Cần [FFFE0D]10 mảnh[-] để ghép thành 1 Hộ Uyển[FFFE0D]【Hiếm】Bậc 14[-]	783000	11	1	783000	6	1		999										
+5835	Mảnh Hộ Uyển Hiếm Bậc 15	T15_Cuff_Q2_piece	7715	34			EquipMeterial	99		Cần [FFFE0D]10 mảnh[-] để ghép thành 1 Hộ Uyển[FFFE0D]【Hiếm】Bậc 15[-]	862800	12	1	863000	6	1		999										
+10386	Mảnh Hộ Uyển Hiếm Bậc 16	T16_Cuff_Q2_piece	7716	34			EquipMeterial	99	10306	Cần [FFFE0D]10 mảnh[-] để ghép thành 1 Hộ Uyển[FFFE0D]【Hiếm】Bậc 16[-]	950000	13	1	950000	6	1		999										
+10387	Mảnh Hộ Uyển Hiếm Bậc 17	T17_Cuff_Q2_piece	7717	34			EquipMeterial	99	10307	Cần [FFFE0D]10 mảnh[-] để ghép thành 1 Hộ Uyển[FFFE0D]【Hiếm】Bậc 17[-]	1045000	14	1	1045000	6	1		999										
+10388	Mảnh Hộ Uyển Hiếm Bậc 18	T18_Cuff_Q2_piece	7718	34			EquipMeterial	99	10308	Cần [FFFE0D]10 mảnh[-] để ghép thành 1 Hộ Uyển[FFFE0D]【Hiếm】Bậc 18[-]	270000	15	1	270000	6	1		999										
+10389	Mảnh Hộ Uyển Hiếm Bậc 19	T19_Cuff_Q2_piece	7719	34			EquipMeterial	99	10309	Cần [FFFE0D]10 mảnh[-] để ghép thành 1 Hộ Uyển[FFFE0D]【Hiếm】Bậc 19[-]	400000	16	1	400000	6	1		999										
+10390	Mảnh Hộ Uyển Hiếm Bậc 20	T20_Cuff_Q2_piece	7720	34			EquipMeterial	99	10310	Cần [FFFE0D]10 mảnh[-] để ghép thành 1 Hộ Uyển[FFFE0D]【Hiếm】Bậc 20[-]	500000	17	1	500000	6	1		999										
+2133	Mảnh Hộ Uyển Kế Thừa Bậc 4	T4_Cuff_Q3_piece	7804	34	10304		EquipMeterial	99	10304	Cần [FFFE0D]5 mảnh[-] để ghép thành 1 Hộ Uyển[FFFE0D]【Kế Thừa】Bậc 4[-]	40000	1	1	40000	4	1		999										
+2134	Mảnh Hộ Uyển Kế Thừa Bậc 5	T5_Cuff_Q3_piece	7805	34	10305		EquipMeterial	99	10305	Cần [FFFE0D]5 mảnh[-] để ghép thành 1 Hộ Uyển[FFFE0D]【Kế Thừa】Bậc 5[-]	90000	2	1	90000	4	1		999										
+2135	Mảnh Hộ Uyển Kế Thừa Bậc 6	T6_Cuff_Q3_piece	7806	34	10306		EquipMeterial	99	10306	Cần [FFFE0D]5 mảnh[-] để ghép thành 1 Hộ Uyển[FFFE0D]【Kế Thừa】Bậc 6[-]	120000	3	1	120000	4	1		999										
+2988	Mảnh Hộ Uyển Kế Thừa Bậc 7	T7_Cuff_Q3_piece	7807	34	10307		EquipMeterial	99	10307	Cần [FFFE0D]5 mảnh[-] để ghép thành 1 Hộ Uyển[FFFE0D]【Kế Thừa】Bậc 7[-]	160000	4	1	160000	4	1		999										
+2989	Mảnh Hộ Uyển Kế Thừa Bậc 8	T8_Cuff_Q3_piece	7808	34	10308		EquipMeterial	99	10308	Cần [FFFE0D]5 mảnh[-] để ghép thành 1 Hộ Uyển[FFFE0D]【Kế Thừa】Bậc 8[-]	240000	5	1	240000	4	1		999										
+2990	Mảnh Hộ Uyển Kế Thừa Bậc 9	T9_Cuff_Q3_piece	7809	34	10309		EquipMeterial	99	10309	Cần [FFFE0D]5 mảnh[-] để ghép thành 1 Hộ Uyển[FFFE0D]【Kế Thừa】Bậc 9[-]	360000	6	1	360000	4	1		999										
+3682	Mảnh Hộ Uyển Kế Thừa Bậc 10	T10_Cuff_Q3_piece	7810	34	10310		EquipMeterial	99	10310	Cần [FFFE0D]5 mảnh[-] để ghép thành 1 Hộ Uyển[FFFE0D]【Kế Thừa】Bậc 10[-]	480000	7	1	480000	4	1		999										
+5836	Mảnh Hộ Uyển Kế Thừa Bậc 11	T11_Cuff_Q3_piece	7811	34			EquipMeterial	99		Cần [FFFE0D]5 mảnh[-] để ghép thành 1 Hộ Uyển[FFFE0D]【Kế Thừa】Bậc 11[-]	640000	8	1	640000	4	1		999										
+5837	Mảnh Hộ Uyển Kế Thừa Bậc 12	T12_Cuff_Q3_piece	7812	34			EquipMeterial	99		Cần [FFFE0D]5 mảnh[-] để ghép thành 1 Hộ Uyển[FFFE0D]【Kế Thừa】Bậc 12[-]	720000	9	1	768000	4	1		999										
+5838	Mảnh Hộ Uyển Kế Thừa Bậc 13	T13_Cuff_Q3_piece	7813	34			EquipMeterial	99		Cần [FFFE0D]5 mảnh[-] để ghép thành 1 Hộ Uyển[FFFE0D]【Kế Thừa】Bậc 13[-]	792000	10	1	792000	4	1		999										
+5839	Mảnh Hộ Uyển Kế Thừa Bậc 14	T14_Cuff_Q3_piece	7814	34			EquipMeterial	99		Cần [FFFE0D]5 mảnh[-] để ghép thành 1 Hộ Uyển[FFFE0D]【Kế Thừa】Bậc 14[-]	870000	11	1	870000	4	1		999										
+5840	Mảnh Hộ Uyển Kế Thừa Bậc 15	T15_Cuff_Q3_piece	7815	34			EquipMeterial	99		Cần [FFFE0D]5 mảnh[-] để ghép thành 1 Hộ Uyển[FFFE0D]【Kế Thừa】Bậc 15[-]	961800	12	1	960000	4	1		999										
+10391	Mảnh Hộ Uyển Kế Thừa Bậc 16	T16_Cuff_Q3_piece	7816	34			EquipMeterial	99	10306	Cần [FFFE0D]5 mảnh[-] để ghép thành 1 Hộ Uyển[FFFE0D]【Kế Thừa】Bậc 16[-]	1060000	13	1	1060000	4	1		999										
+10392	Mảnh Hộ Uyển Kế Thừa Bậc 17	T17_Cuff_Q3_piece	7817	34			EquipMeterial	99	10307	Cần [FFFE0D]5 mảnh[-] để ghép thành 1 Hộ Uyển[FFFE0D]【Kế Thừa】Bậc 17[-]	1160000	14	1	1160000	4	1		999										
+10393	Mảnh Hộ Uyển Kế Thừa Bậc 18	T18_Cuff_Q3_piece	7818	34			EquipMeterial	99	10308	Cần [FFFE0D]5 mảnh[-] để ghép thành 1 Hộ Uyển[FFFE0D]【Kế Thừa】Bậc 18[-]	240000	15	1	240000	4	1		999										
+10394	Mảnh Hộ Uyển Kế Thừa Bậc 19	T19_Cuff_Q3_piece	7819	34			EquipMeterial	99	10309	Cần [FFFE0D]5 mảnh[-] để ghép thành 1 Hộ Uyển[FFFE0D]【Kế Thừa】Bậc 19[-]	360000	16	1	360000	4	1		999										
+10395	Mảnh Hộ Uyển Kế Thừa Bậc 20	T20_Cuff_Q3_piece	7820	34			EquipMeterial	99	10310	Cần [FFFE0D]5 mảnh[-] để ghép thành 1 Hộ Uyển[FFFE0D]【Kế Thừa】Bậc 20[-]	480000	17	1	480000	4	1		999										
+2136	Mảnh Đai Hiếm Bậc 4	T4_Belt_Q2_piece	8704	34	10504		EquipMeterial	99	10504	Cần [FFFE0D]10 mảnh[-] để ghép thành 1 Đai[FFFE0D]【Hiếm】Bậc 4[-]	60000	1	1	60000	6	1		999										
+2137	Mảnh Đai Hiếm Bậc 5	T5_Belt_Q2_piece	8705	34	10505		EquipMeterial	99	10505	Cần [FFFE0D]10 mảnh[-] để ghép thành 1 Đai[FFFE0D]【Hiếm】Bậc 5[-]	125000	2	1	125000	6	1		999										
+2138	Mảnh Đai Hiếm Bậc 6	T6_Belt_Q2_piece	8706	34	10506		EquipMeterial	99	10506	Cần [FFFE0D]10 mảnh[-] để ghép thành 1 Đai[FFFE0D]【Hiếm】Bậc 6[-]	150000	3	1	150000	6	1		999										
+2991	Mảnh Đai Hiếm Bậc 7	T7_Belt_Q2_piece	8707	34	10507		EquipMeterial	99	10507	Cần [FFFE0D]10 mảnh[-] để ghép thành 1 Đai[FFFE0D]【Hiếm】Bậc 7[-]	200000	4	1	200000	6	1		999										
+2992	Mảnh Đai Hiếm Bậc 8	T8_Belt_Q2_piece	8708	34	10508		EquipMeterial	99	10508	Cần [FFFE0D]10 mảnh[-] để ghép thành 1 Đai[FFFE0D]【Hiếm】Bậc 8[-]	270000	5	1	270000	6	1		999										
+2993	Mảnh Đai Hiếm Bậc 9	T9_Belt_Q2_piece	8709	34	10509		EquipMeterial	99	10509	Cần [FFFE0D]10 mảnh[-] để ghép thành 1 Đai[FFFE0D]【Hiếm】Bậc 9[-]	400000	6	1	400000	6	1		999										
+3683	Mảnh Đai Hiếm Bậc 10	T10_Belt_Q2_piece	8710	34	10510		EquipMeterial	99	10510	Cần [FFFE0D]10 mảnh[-] để ghép thành 1 Đai[FFFE0D]【Hiếm】Bậc 10[-]	500000	7	1	500000	6	1		999										
+5841	Mảnh Đai Hiếm Bậc 11	T11_Belt_Q2_piece	8711	34			EquipMeterial	99		Cần [FFFE0D]10 mảnh[-] để ghép thành 1 Đai[FFFE0D]【Hiếm】Bậc 11[-]	625000	8	1	625000	6	1		999										
+5842	Mảnh Đai Hiếm Bậc 12	T12_Belt_Q2_piece	8712	34			EquipMeterial	99		Cần [FFFE0D]10 mảnh[-] để ghép thành 1 Đai[FFFE0D]【Hiếm】Bậc 12[-]	684000	9	1	684000	6	1		999										
+5843	Mảnh Đai Hiếm Bậc 13	T13_Belt_Q2_piece	8713	34			EquipMeterial	99		Cần [FFFE0D]10 mảnh[-] để ghép thành 1 Đai[FFFE0D]【Hiếm】Bậc 13[-]	712000	10	1	712000	6	1		999										
+5844	Mảnh Đai Hiếm Bậc 14	T14_Belt_Q2_piece	8714	34			EquipMeterial	99		Cần [FFFE0D]10 mảnh[-] để ghép thành 1 Đai[FFFE0D]【Hiếm】Bậc 14[-]	783000	11	1	783000	6	1		999										
+5845	Mảnh Đai Hiếm Bậc 15	T15_Belt_Q2_piece	8715	34			EquipMeterial	99		Cần [FFFE0D]10 mảnh[-] để ghép thành 1 Đai[FFFE0D]【Hiếm】Bậc 15[-]	862800	12	1	863000	6	1		999										
+10396	Mảnh Đai Hiếm Bậc 16	T16_Belt_Q2_piece	8716	34			EquipMeterial	99	10506	Cần [FFFE0D]10 mảnh[-] để ghép thành 1 Đai[FFFE0D]【Hiếm】Bậc 16[-]	950000	13	1	950000	6	1		999										
+10397	Mảnh Đai Hiếm Bậc 17	T17_Belt_Q2_piece	8717	34			EquipMeterial	99	10507	Cần [FFFE0D]10 mảnh[-] để ghép thành 1 Đai[FFFE0D]【Hiếm】Bậc 17[-]	1045000	14	1	1045000	6	1		999										
+10398	Mảnh Đai Hiếm Bậc 18	T18_Belt_Q2_piece	8718	34			EquipMeterial	99	10508	Cần [FFFE0D]10 mảnh[-] để ghép thành 1 Đai[FFFE0D]【Hiếm】Bậc 18[-]	270000	15	1	270000	6	1		999										
+10399	Mảnh Đai Hiếm Bậc 19	T19_Belt_Q2_piece	8719	34			EquipMeterial	99	10509	Cần [FFFE0D]10 mảnh[-] để ghép thành 1 Đai[FFFE0D]【Hiếm】Bậc 19[-]	400000	16	1	400000	6	1		999										
+10400	Mảnh Đai Hiếm Bậc 20	T20_Belt_Q2_piece	8720	34			EquipMeterial	99	10510	Cần [FFFE0D]10 mảnh[-] để ghép thành 1 Đai[FFFE0D]【Hiếm】Bậc 20[-]	500000	17	1	500000	6	1		999										
+2139	Mảnh Đai Kế Thừa Bậc 4	T4_Belt_Q3_piece	8804	34	10504		EquipMeterial	99	10504	Cần [FFFE0D]5 mảnh[-] để ghép thành 1 Đai[FFFE0D]【Kế Thừa】Bậc 4[-]	40000	1	1	40000	4	1		999										
+2140	Mảnh Đai Kế Thừa Bậc 5	T5_Belt_Q3_piece	8805	34	10505		EquipMeterial	99	10505	Cần [FFFE0D]5 mảnh[-] để ghép thành 1 Đai[FFFE0D]【Kế Thừa】Bậc 5[-]	90000	2	1	90000	4	1		999										
+2141	Mảnh Đai Kế Thừa Bậc 6	T6_Belt_Q3_piece	8806	34	10506		EquipMeterial	99	10506	Cần [FFFE0D]5 mảnh[-] để ghép thành 1 Đai[FFFE0D]【Kế Thừa】Bậc 6[-]	120000	3	1	120000	4	1		999										
+2994	Mảnh Đai Kế Thừa Bậc 7	T7_Belt_Q3_piece	8807	34	10507		EquipMeterial	99	10507	Cần [FFFE0D]5 mảnh[-] để ghép thành 1 Đai[FFFE0D]【Kế Thừa】Bậc 7[-]	160000	4	1	160000	4	1		999										
+2995	Mảnh Đai Kế Thừa Bậc 8	T8_Belt_Q3_piece	8808	34	10508		EquipMeterial	99	10508	Cần [FFFE0D]5 mảnh[-] để ghép thành 1 Đai[FFFE0D]【Kế Thừa】Bậc 8[-]	240000	5	1	240000	4	1		999										
+2996	Mảnh Đai Kế Thừa Bậc 9	T9_Belt_Q3_piece	8809	34	10509		EquipMeterial	99	10509	Cần [FFFE0D]5 mảnh[-] để ghép thành 1 Đai[FFFE0D]【Kế Thừa】Bậc 9[-]	360000	6	1	360000	4	1		999										
+3684	Mảnh Đai Kế Thừa Bậc 10	T10_Belt_Q3_piece	8810	34	10510		EquipMeterial	99	10510	Cần [FFFE0D]5 mảnh[-] để ghép thành 1 Đai[FFFE0D]【Kế Thừa】Bậc 10[-]	480000	7	1	480000	4	1		999										
+5846	Mảnh Đai Kế Thừa Bậc 11	T11_Belt_Q3_piece	8811	34			EquipMeterial	99		Cần [FFFE0D]5 mảnh[-] để ghép thành 1 Đai[FFFE0D]【Kế Thừa】Bậc 11[-]	640000	8	1	640000	4	1		999										
+5847	Mảnh Đai Kế Thừa Bậc 12	T12_Belt_Q3_piece	8812	34			EquipMeterial	99		Cần [FFFE0D]5 mảnh[-] để ghép thành 1 Đai[FFFE0D]【Kế Thừa】Bậc 12[-]	720000	9	1	768000	4	1		999										
+5848	Mảnh Đai Kế Thừa Bậc 13	T13_Belt_Q3_piece	8813	34			EquipMeterial	99		Cần [FFFE0D]5 mảnh[-] để ghép thành 1 Đai[FFFE0D]【Kế Thừa】Bậc 13[-]	792000	10	1	792000	4	1		999										
+5849	Mảnh Đai Kế Thừa Bậc 14	T14_Belt_Q3_piece	8814	34			EquipMeterial	99		Cần [FFFE0D]5 mảnh[-] để ghép thành 1 Đai[FFFE0D]【Kế Thừa】Bậc 14[-]	870000	11	1	870000	4	1		999										
+5850	Mảnh Đai Kế Thừa Bậc 15	T15_Belt_Q3_piece	8815	34			EquipMeterial	99		Cần [FFFE0D]5 mảnh[-] để ghép thành 1 Đai[FFFE0D]【Kế Thừa】Bậc 15[-]	961800	12	1	960000	4	1		999										
+10401	Mảnh Đai Kế Thừa Bậc 16	T16_Belt_Q3_piece	8816	34			EquipMeterial	99	10506	Cần [FFFE0D]5 mảnh[-] để ghép thành 1 Đai[FFFE0D]【Kế Thừa】Bậc 16[-]	1060000	13	1	1060000	4	1		999										
+10402	Mảnh Đai Kế Thừa Bậc 17	T17_Belt_Q3_piece	8817	34			EquipMeterial	99	10507	Cần [FFFE0D]5 mảnh[-] để ghép thành 1 Đai[FFFE0D]【Kế Thừa】Bậc 17[-]	1160000	14	1	1160000	4	1		999										
+10403	Mảnh Đai Kế Thừa Bậc 18	T18_Belt_Q3_piece	8818	34			EquipMeterial	99	10508	Cần [FFFE0D]5 mảnh[-] để ghép thành 1 Đai[FFFE0D]【Kế Thừa】Bậc 18[-]	240000	15	1	240000	4	1		999										
+10404	Mảnh Đai Kế Thừa Bậc 19	T19_Belt_Q3_piece	8819	34			EquipMeterial	99	10509	Cần [FFFE0D]5 mảnh[-] để ghép thành 1 Đai[FFFE0D]【Kế Thừa】Bậc 19[-]	360000	16	1	360000	4	1		999										
+10405	Mảnh Đai Kế Thừa Bậc 20	T20_Belt_Q3_piece	8820	34			EquipMeterial	99	10510	Cần [FFFE0D]5 mảnh[-] để ghép thành 1 Đai[FFFE0D]【Kế Thừa】Bậc 20[-]	480000	17	1	480000	4	1		999										
+2142	Mảnh Giày Hiếm Bậc 4	T4_Boots_Q2_piece	9704	34	10604		EquipMeterial	99	10604	Cần [FFFE0D]10 mảnh[-] để ghép thành 1 Giày[FFFE0D]【Hiếm】Bậc 4[-]	60000	1	1	60000	6	1		999										
+2143	Mảnh Giày Hiếm Bậc 5	T5_Boots_Q2_piece	9705	34	10605		EquipMeterial	99	10605	Cần [FFFE0D]10 mảnh[-] để ghép thành 1 Giày[FFFE0D]【Hiếm】Bậc 5[-]	125000	2	1	125000	6	1		999										
+2144	Mảnh Giày Hiếm Bậc 6	T6_Boots_Q2_piece	9706	34	10606		EquipMeterial	99	10606	Cần [FFFE0D]10 mảnh[-] để ghép thành 1 Giày[FFFE0D]【Hiếm】Bậc 6[-]	150000	3	1	150000	6	1		999										
+2997	Mảnh Giày Hiếm Bậc 7	T7_Boots_Q2_piece	9707	34	10607		EquipMeterial	99	10607	Cần [FFFE0D]10 mảnh[-] để ghép thành 1 Giày[FFFE0D]【Hiếm】Bậc 7[-]	200000	4	1	200000	6	1		999										
+2998	Mảnh Giày Hiếm Bậc 8	T8_Boots_Q2_piece	9708	34	10608		EquipMeterial	99	10608	Cần [FFFE0D]10 mảnh[-] để ghép thành 1 Giày[FFFE0D]【Hiếm】Bậc 8[-]	270000	5	1	270000	6	1		999										
+2999	Mảnh Giày Hiếm Bậc 9	T9_Boots_Q2_piece	9709	34	10609		EquipMeterial	99	10609	Cần [FFFE0D]10 mảnh[-] để ghép thành 1 Giày[FFFE0D]【Hiếm】Bậc 9[-]	400000	6	1	400000	6	1		999										
+3685	Mảnh Giày Hiếm Bậc 10	T10_Boots_Q2_piece	9710	34	10610		EquipMeterial	99	10610	Cần [FFFE0D]10 mảnh[-] để ghép thành 1 Giày[FFFE0D]【Hiếm】Bậc 10[-]	500000	7	1	500000	6	1		999										
+5851	Mảnh Giày Hiếm Bậc 11	T11_Boots_Q2_piece	9711	34			EquipMeterial	99		Cần [FFFE0D]10 mảnh[-] để ghép thành 1 Giày[FFFE0D]【Hiếm】Bậc 11[-]	625000	8	1	625000	6	1		999										
+5852	Mảnh Giày Hiếm Bậc 12	T12_Boots_Q2_piece	9712	34			EquipMeterial	99		Cần [FFFE0D]10 mảnh[-] để ghép thành 1 Giày[FFFE0D]【Hiếm】Bậc 12[-]	684000	9	1	684000	6	1		999										
+5853	Mảnh Giày Hiếm Bậc 13	T13_Boots_Q2_piece	9713	34			EquipMeterial	99		Cần [FFFE0D]10 mảnh[-] để ghép thành 1 Giày[FFFE0D]【Hiếm】Bậc 13[-]	712000	10	1	712000	6	1		999										
+5854	Mảnh Giày Hiếm Bậc 14	T14_Boots_Q2_piece	9714	34			EquipMeterial	99		Cần [FFFE0D]10 mảnh[-] để ghép thành 1 Giày[FFFE0D]【Hiếm】Bậc 14[-]	783000	11	1	783000	6	1		999										
+5855	Mảnh Giày Hiếm Bậc 15	T15_Boots_Q2_piece	9715	34			EquipMeterial	99		Cần [FFFE0D]10 mảnh[-] để ghép thành 1 Giày[FFFE0D]【Hiếm】Bậc 15[-]	862800	12	1	863000	6	1		999										
+10406	Mảnh Giày Hiếm Bậc 16	T16_Boots_Q2_piece	9716	34			EquipMeterial	99	10606	Cần [FFFE0D]10 mảnh[-] để ghép thành 1 Giày[FFFE0D]【Hiếm】Bậc 16[-]	950000	13	1	950000	6	1		999										
+10407	Mảnh Giày Hiếm Bậc 17	T17_Boots_Q2_piece	9717	34			EquipMeterial	99	10607	Cần [FFFE0D]10 mảnh[-] để ghép thành 1 Giày[FFFE0D]【Hiếm】Bậc 17[-]	1045000	14	1	1045000	6	1		999										
+10408	Mảnh Giày Hiếm Bậc 18	T18_Boots_Q2_piece	9718	34			EquipMeterial	99	10608	Cần [FFFE0D]10 mảnh[-] để ghép thành 1 Giày[FFFE0D]【Hiếm】Bậc 18[-]	270000	15	1	270000	6	1		999										
+10409	Mảnh Giày Hiếm Bậc 19	T19_Boots_Q2_piece	9719	34			EquipMeterial	99	10609	Cần [FFFE0D]10 mảnh[-] để ghép thành 1 Giày[FFFE0D]【Hiếm】Bậc 19[-]	400000	16	1	400000	6	1		999										
+10410	Mảnh Giày Hiếm Bậc 20	T20_Boots_Q2_piece	9720	34			EquipMeterial	99	10610	Cần [FFFE0D]10 mảnh[-] để ghép thành 1 Giày[FFFE0D]【Hiếm】Bậc 20[-]	500000	17	1	500000	6	1		999										
+2145	Mảnh Giày Kế Thừa Bậc 4	T4_Boots_Q3_piece	9804	34	10604		EquipMeterial	99	10604	Cần [FFFE0D]5 mảnh[-] để ghép thành 1 Giày[FFFE0D]【Kế Thừa】Bậc 4[-]	40000	1	1	40000	4	1		999										
+2146	Mảnh Giày Kế Thừa Bậc 5	T5_Boots_Q3_piece	9805	34	10605		EquipMeterial	99	10605	Cần [FFFE0D]5 mảnh[-] để ghép thành 1 Giày[FFFE0D]【Kế Thừa】Bậc 5[-]	90000	2	1	90000	4	1		999										
+2147	Mảnh Giày Kế Thừa Bậc 6	T6_Boots_Q3_piece	9806	34	10606		EquipMeterial	99	10606	Cần [FFFE0D]5 mảnh[-] để ghép thành 1 Giày[FFFE0D]【Kế Thừa】Bậc 6[-]	120000	3	1	120000	4	1		999										
+3000	Mảnh Giày Kế Thừa Bậc 7	T7_Boots_Q3_piece	9807	34	10607		EquipMeterial	99	10607	Cần [FFFE0D]5 mảnh[-] để ghép thành 1 Giày[FFFE0D]【Kế Thừa】Bậc 7[-]	160000	4	1	160000	4	1		999										
+3001	Mảnh Giày Kế Thừa Bậc 8	T8_Boots_Q3_piece	9808	34	10608		EquipMeterial	99	10608	Cần [FFFE0D]5 mảnh[-] để ghép thành 1 Giày[FFFE0D]【Kế Thừa】Bậc 8[-]	240000	5	1	240000	4	1		999										
+3002	Mảnh Giày Kế Thừa Bậc 9	T9_Boots_Q3_piece	9809	34	10609		EquipMeterial	99	10609	Cần [FFFE0D]5 mảnh[-] để ghép thành 1 Giày[FFFE0D]【Kế Thừa】Bậc 9[-]	360000	6	1	360000	4	1		999										
+3686	Mảnh Giày Kế Thừa Bậc 10	T10_Boots_Q3_piece	9810	34	10610		EquipMeterial	99	10610	Cần [FFFE0D]5 mảnh[-] để ghép thành 1 Giày[FFFE0D]【Kế Thừa】Bậc 10[-]	480000	7	1	480000	4	1		999										
+5856	Mảnh Giày Kế Thừa Bậc 11	T11_Boots_Q3_piece	9811	34			EquipMeterial	99		Cần [FFFE0D]5 mảnh[-] để ghép thành 1 Giày[FFFE0D]【Kế Thừa】Bậc 11[-]	640000	8	1	640000	4	1		999										
+5857	Mảnh Giày Kế Thừa Bậc 12	T12_Boots_Q3_piece	9812	34			EquipMeterial	99		Cần [FFFE0D]5 mảnh[-] để ghép thành 1 Giày[FFFE0D]【Kế Thừa】Bậc 12[-]	720000	9	1	768000	4	1		999										
+5858	Mảnh Giày Kế Thừa Bậc 13	T13_Boots_Q3_piece	9813	34			EquipMeterial	99		Cần [FFFE0D]5 mảnh[-] để ghép thành 1 Giày[FFFE0D]【Kế Thừa】Bậc 13[-]	792000	10	1	792000	4	1		999										
+5859	Mảnh Giày Kế Thừa Bậc 14	T14_Boots_Q3_piece	9814	34			EquipMeterial	99		Cần [FFFE0D]5 mảnh[-] để ghép thành 1 Giày[FFFE0D]【Kế Thừa】Bậc 14[-]	870000	11	1	870000	4	1		999										
+5860	Mảnh Giày Kế Thừa Bậc 15	T15_Boots_Q3_piece	9815	34			EquipMeterial	99		Cần [FFFE0D]5 mảnh[-] để ghép thành 1 Giày[FFFE0D]【Kế Thừa】Bậc 15[-]	961800	12	1	960000	4	1		999										
+10411	Mảnh Giày Kế Thừa Bậc 16	T16_Boots_Q3_piece	9816	34			EquipMeterial	99	10606	Cần [FFFE0D]5 mảnh[-] để ghép thành 1 Giày[FFFE0D]【Kế Thừa】Bậc 16[-]	1060000	13	1	1060000	4	1		999										
+10412	Mảnh Giày Kế Thừa Bậc 17	T17_Boots_Q3_piece	9817	34			EquipMeterial	99	10607	Cần [FFFE0D]5 mảnh[-] để ghép thành 1 Giày[FFFE0D]【Kế Thừa】Bậc 17[-]	1160000	14	1	1160000	4	1		999										
+10413	Mảnh Giày Kế Thừa Bậc 18	T18_Boots_Q3_piece	9818	34			EquipMeterial	99	10608	Cần [FFFE0D]5 mảnh[-] để ghép thành 1 Giày[FFFE0D]【Kế Thừa】Bậc 18[-]	240000	15	1	240000	4	1		999										
+10414	Mảnh Giày Kế Thừa Bậc 19	T19_Boots_Q3_piece	9819	34			EquipMeterial	99	10609	Cần [FFFE0D]5 mảnh[-] để ghép thành 1 Giày[FFFE0D]【Kế Thừa】Bậc 19[-]	360000	16	1	360000	4	1		999										
+10415	Mảnh Giày Kế Thừa Bậc 20	T20_Boots_Q3_piece	9820	34			EquipMeterial	99	10610	Cần [FFFE0D]5 mảnh[-] để ghép thành 1 Giày[FFFE0D]【Kế Thừa】Bậc 20[-]	480000	17	1	480000	4	1		999										
+3312	Mảnh Bát Gia Tướng Y	T4_Shizhuang_Q1_piece	331	34	10404		EquipMeterial	99	10404	Cần [FFFE0D]10 mảnh[-] để ghép thành 1 Áo[FFFE0D]Bát Gia Tướng[-]	180000	1	1	180000	5	1		999										
+3395	【Mảnh Thú Cưỡi】Lý Phi Sa	T3_Horse_Q1_piece		34	1039		EquipMeterial	99	1039	Cần [FFFE0D]10 mảnh[-] để ghép thành 1 con [FFFE0D]Lý Phi Sa[-].	180000	1	1	180000	5	1		999										
+3396	【Mảnh Thú Cưỡi】Hồng Li	T3_Horse_Q2_piece		34	1040		EquipMeterial	99	1040	Cần [FFFE0D]10 mảnh[-] để ghép thành 1 con [FFFE0D]Hồng Li[-].	180000	1	1	180000	5	1		999										
+3397	【Mảnh Thú Cưỡi】Lục Tông	T3_Horse_Q3_piece		34	1041		EquipMeterial	99	1041	Cần [FFFE0D]10 mảnh[-] để ghép thành 1 con [FFFE0D]Lục Tông[-].	180000	1	1	180000	5	1		999										
+3460	Mảnh Lăng Vân Cương	T1_jiangsheng_piece		34	28101		EquipMeterial	99	28101	Mảnh Dây Cương, cần có [FFFE0D]5 mảnh[-] đề ghép thành 1 [FFFE0D]Lăng Vân Cương Bậc 1[-].	300000	1	1	300000	4	1		999										
+3461	Mảnh Giáng Long Cương	T2_jiangsheng_piece		34	28102		EquipMeterial	99	28102	Mảnh Cương, cần [FFFE0D]10 mảnh[-] ghép thành 1 [FFFE0D]Giáng Long Cương Bậc 2[-].\n\nCó thể dùng làm nguyên liệu tiến cấp [FFFE0D]Lăng Vân Cương Bậc 1[-] thành [FFFE0D]Giáng Long Cương Bậc 2[-], (Cần [FFFE0D]8 mảnh[-])	600000	2	1	600000	5	1		999										
+3462	Mảnh Ngự Thiên Cương	T3_jiangsheng_piece		34	28103		EquipMeterial	99	28103	Mảnh Cương, cần [FFFE0D]20 mảnh[-] mới chế tạo được 1 [FFFE0D]Ngự Thiên Cương Bậc 3[-].\n\nCũng có thể dùng làm nguyên liệu tăng bậc [FFFE0D]Cương bậc 2 trở lên[-]	1500000	3	1	1500000	6	1		999										
+3463	Mảnh Cương Bậc 4	T4_jiangsheng_piece		34	28104		EquipMeterial	99	28104	Mảnh Dây Cương, cần có [FFFE0D]20 mảnh[-] để ghép thành 1 Dây Cương [FFFE0D]Bậc 4[-].	1500000	4	1	1500000	6	1		999										
+3464	Mảnh Cương Bậc 5	T5_jiangsheng_piece		34	28105		EquipMeterial	99	28105	Mảnh Dây Cương, cần có [FFFE0D]20 mảnh[-] để ghép thành 1 Dây Cương [FFFE0D]Bậc 5[-].	1500000	5	1	1500000	6	1		999										
+3465	Mảnh Cương Bậc 6	T6_jiangsheng_piece		34	28106		EquipMeterial	99	28106	Mảnh Dây Cương, cần có [FFFE0D]20 mảnh[-] để ghép thành 1 Dây Cương [FFFE0D]Bậc 6[-].	1500000	6	1	1500000	6	1		999										
+3466	Mảnh Cương Bậc 7	T7_jiangsheng_piece		34	28107		EquipMeterial	99	28107	Mảnh Dây Cương, cần có [FFFE0D]20 mảnh[-] để ghép thành 1 Dây Cương [FFFE0D]Bậc 7[-].	1500000	7	1	1500000	6	1		999										
+3467	Mảnh Lăng Vân Yên	T1_maan_piece		34	28201		EquipMeterial	99	28201	Mảnh Yên Ngựa, cần có [FFFE0D]5 mảnh[-] để ghép thành 1 [FFFE0D]Lăng Vân Yên Bậc 1[-].	240000	1	1	240000	4	1		999										
+3468	Mảnh Giáng Long Yên	T2_maan_piece		34	28202		EquipMeterial	99	28202	Mảnh Yên, cần [FFFE0D]10 mảnh[-] ghép thành 1 [FFFE0D]Giáng Long Yên Bậc 2[-].\n\nCó thể dùng làm nguyên liệu tiến cấp [FFFE0D]Lăng Vân Yên Bậc 1[-] thành [FFFE0D]Giáng Long Yên Bậc 2[-], (Cần [FFFE0D]8 mảnh[-])	480000	2	1	480000	5	1		999										
+3469	Mảnh Ngự Thiên Yên	T3_maan_piece		34	28203		EquipMeterial	99	28203	Mảnh Yên, cần [FFFE0D]20 mảnh[-] mới chế tạo được 1 [FFFE0D]Ngự Thiên Yên Bậc 3[-].\n\nCũng có thể dùng làm nguyên liệu tăng bậc [FFFE0D]Yên bậc 2 trở lên[-]	1200000	3	1	1200000	6	1		999										
+3470	Mảnh Yên Bậc 4	T4_maan_piece		34	28204		EquipMeterial	99	28204	Mảnh Yên Ngựa, cần có [FFFE0D]20 mảnh[-] để ghép thành 1 Yên Ngựa [FFFE0D]Bậc 4[-].	1200000	4	1	1200000	6	1		999										
+3471	Mảnh Yên Bậc 5	T5_maan_piece		34	28205		EquipMeterial	99	28205	Mảnh Yên Ngựa, cần có [FFFE0D]20 mảnh[-] để ghép thành 1 Yên Ngựa [FFFE0D]Bậc 5[-].	1200000	5	1	1200000	6	1		999										
+3472	Mảnh Yên Bậc 6	T6_maan_piece		34	28206		EquipMeterial	99	28206	Mảnh Yên Ngựa, cần có [FFFE0D]20 mảnh[-] để ghép thành 1 Yên Ngựa [FFFE0D]Bậc 6[-].	1200000	6	1	1200000	6	1		999										
+3473	Mảnh Yên Bậc 7	T7_maan_piece		34	28207		EquipMeterial	99	28207	Mảnh Yên Ngựa, cần có [FFFE0D]20 mảnh[-] để ghép thành 1 Yên Ngựa [FFFE0D]Bậc 7[-].	1200000	7	1	1200000	6	1		999										
+3474	Mảnh Lăng Vân Đăng	T1_jiaodeng_piece		34	28301		EquipMeterial	99	28301	Mảnh Bàn Đạp, cần có [FFFE0D]5 mảnh[-] để ghép thành 1 [FFFE0D]Lăng Vân Đăng Bậc 1[-].	180000	1	1	180000	4	1		999										
+3475	Mảnh Giáng Long Đăng	T2_jiaodeng_piece		34	28302		EquipMeterial	99	28302	Mảnh Bàn Đạp, cần [FFFE0D]10 mảnh[-] ghép thành 1 [FFFE0D]Giáng Long Đăng Bậc 2[-].\n\nCó thể dùng làm nguyên liệu tiến cấp [FFFE0D]Lăng Vân Đăng Bậc 1[-] thành [FFFE0D]Giáng Long Đăng Bậc 2[-], (Cần [FFFE0D]8 mảnh[-])	360000	2	1	360000	5	1		999										
+3476	Mảnh Ngự Thiên Đăng	T3_jiaodeng_piece		34	28303		EquipMeterial	99	28303	Mảnh Bàn Đạp, cần [FFFE0D]20 mảnh[-] mới chế tạo được 1 [FFFE0D]Ngự Thiên Đăng Bậc 3[-].\n\nCũng có thể dùng làm nguyên liệu tăng bậc [FFFE0D]Bàn Đạp bậc 2 trở lên[-]	900000	3	1	900000	6	1		999										
+3477	Mảnh Bàn Đạp Bậc 4	T4_jiaodeng_piece		34	28304		EquipMeterial	99	28304	Mảnh Bàn Đạp, cần có [FFFE0D]20 mảnh[-] để ghép thành 1 Bàn Đạp [FFFE0D]Bậc 4[-].	900000	4	1	900000	6	1		999										
+3478	Mảnh Bàn Đạp Bậc 5	T5_jiaodeng_piece		34	28305		EquipMeterial	99	28305	Mảnh Bàn Đạp, cần có [FFFE0D]20 mảnh[-] để ghép thành 1 Bàn Đạp [FFFE0D]Bậc 5[-].	900000	5	1	900000	6	1		999										
+3479	Mảnh Bàn Đạp Bậc 6	T6_jiaodeng_piece		34	28306		EquipMeterial	99	28306	Mảnh Bàn Đạp, cần có [FFFE0D]20 mảnh[-] để ghép thành 1 Bàn Đạp [FFFE0D]Bậc 6[-].	900000	6	1	900000	6	1		999										
+3480	Mảnh Bàn Đạp Bậc 7	T7_jiaodeng_piece		34	28307		EquipMeterial	99	28307	Mảnh Bàn Đạp, cần có [FFFE0D]20 mảnh[-] để ghép thành 1 Bàn Đạp [FFFE0D]Bậc 7[-].	900000	7	1	900000	6	1		999										
+7419	Mảnh Yếu Quyết Hiếm Bậc 1	Random_JueYao_Q3_Lv1_piece		34	7340		EquipMeterial	99	7340	Mảnh Yếu Quyết Hiếm , cần [FFFE0D]3 mảnh[-] mới ghép được 1 [FFFE0D]Quyển Yếu Quyết Hiếm Bậc 1[-]	350000	1	1	350000	6	1		999										
+7484	Mảnh Vé Tiểu Bạch Khuyển	PetDog_piece		34	7455		EquipMeterial	99	7455	Cần [FFFE0D]5 mảnh[-] có thể nhận nuôi 1 Tiểu Bạch Khuyển	350000	1	1	350000	6	1		999										

@@ -1,0 +1,128 @@
+szMagicAttrib	szMagicDesc	szMagicDescFunc
+vitality_v	Thể chất  +{1}	
+dexterity_v	Nhanh nhẹn  +{1}	
+strength_v	Sức mạnh  +{1}	
+energy_v	Linh hoạt  +{1}	
+lifemax_v	Sinh lực  +{1}	
+lifemax_p	Sinh lực cơ bản +{1}%	
+lifecurmax_p	Sinh lực +{1}%	
+recover_life_v	Hồi phục sinh lực  +{1}	
+lifereplenish_p	Hiệu suất hồi phục +{1}%	
+runspeed_p	Tốc độ di chuyển  +{1}	
+runspeed_v	Tốc độ di chuyển  +{1}	
+physical_damage_v	Sát thương thuộc tính  +{1}	
+physics_potentialdamage_p	Tấn công cơ bản +{1}%	
+basic_damage_v	Tấn công +{1}	
+physical_metaldamage_v	Sát thương hệ Kim  +{1}	
+physical_wooddamage_v	Sát thương hệ Mộc  +{1}	
+physical_waterdamage_v	Sát thương hệ Thủy  +{1}	
+physical_firedamage_v	Sát thương hệ Hỏa  +{1}	
+physical_earthdamage_v	Sát thương hệ Thổ  +{1}	
+metal_resist_v	Kháng Kim  +{1}	
+wood_resist_v	Kháng Mộc  +{1}	
+water_resist_v	Kháng Thủy  +{1}	
+fire_resist_v	Kháng Hỏa  +{1}	
+earth_resist_v	Kháng Thổ  +{1}	
+all_series_resist_v	Kháng tất cả +{1}	
+all_series_resist_p	Kháng tất cả cơ bản +{1}%	
+ignore_metal_resist_v	Bỏ qua kháng Kim  +{2}	
+ignore_wood_resist_v	Bỏ qua kháng Mộc  +{2}	
+ignore_water_resist_v	Bỏ qua kháng Thủy  +{2}	
+ignore_fire_resist_v	Bỏ qua kháng Hỏa  +{2}	
+ignore_earth_resist_v	Bỏ qua kháng Thổ  +{2}	
+ignore_all_resist_v	Bỏ qua kháng tất cả  +{2}	
+ignore_all_resist	Bỏ qua kháng tính cuối +{2}%	
+attackspeed_v	Tốc đánh +{1}	
+attackrate_v	Chính xác  +{1}	
+attackrate_p	Chính xác cơ bản  +{1}%	
+defense_v	Né tránh  +{1}	
+defense_p	Né tránh cơ bản  +{1}%	
+miss_alldmg_v	Né tránh hoàn toàn +{1}	
+ignore_defense_v	Bỏ qua né tránh  +{1}	
+ignore_defense_p	Bỏ qua né tránh cuối +{1}%	
+ignore_defense_vp	Bỏ qua né tránh cơ bản +{1}%	
+ignore_all_resist_vp	Bỏ qua kháng tất cả cơ bản +{1}%	
+ignore_deadlystrike_vp	Bỏ qua tỉ lệ bạo kích cơ bản +{1}%	
+deadlystrike_v	Tỉ lệ bạo kích +{1}	
+deadlystrike_p	Tỉ lệ bạo kích cơ bản +{1}%	
+deadlystrike_damage_p	Sát thương bạo kích  +{1}%	
+weaken_deadlystrike_v	Tỉ lệ kháng bạo kích +{1}	
+weaken_deadlystrike_damage_p	Miễn sát thương bạo kích  +{1}%	
+state_hurt_attackrate	Tỉ lệ bị thương  +{1}	
+state_stun_attackrate	Tỉ lệ choáng  +{1}	
+state_slowall_attackrate	Tỉ lệ làm chậm  +{1}	
+state_zhican_attackrate	Tỉ lệ tàn phế   +{1}	
+state_palsy_attackrate	Tỉ lệ tê liệt  +{1}	
+state_hurt_attacktime	Thời gian bị thương  +{1}	
+state_stun_attacktime	Thời gian choáng  +{1}	
+state_slowall_attacktime	Thời gian làm chậm  +{1}	
+state_zhican_attacktime	Thời gian tàn phế   +{1}	
+state_palsy_attacktime	Thời gian tê liệt  +{1}	
+add_seriesstate_rate_v	Tỉ lệ thuộc tính +{1}	
+add_seriesstate_time_v	Thời gian thuộc tính +{1}	
+add_allspecialstate_rate_v	Tỉ lệ bất lợi  +{1}	
+add_allspecialstate_time_v	Thời gian bất lợi  +{1}	
+state_hurt_resistrate	Kháng tỉ lệ bị thương +{1}	
+state_stun_resistrate	Kháng tỉ lệ choáng +{1}	
+state_slowall_resistrate	Kháng tỉ lệ làm chậm +{1}	
+state_zhican_resistrate	Kháng tỉ lệ tàn phế  +{1}	
+state_palsy_resistrate	Kháng tỉ lệ tê liệt +{1}	
+state_hurt_resisttime	Kháng thời gian bị thương  +{1}	
+state_stun_resisttime	Kháng thời gian choáng  +{1}	
+state_slowall_resisttime	Kháng thời gian làm chậm  +{1}	
+state_zhican_resisttime	Kháng thời gian tàn phế  +{1}	
+state_palsy_resisttime	Kháng thời gian tê liệt  +{1}	
+resist_allseriesstate_rate_v	Kháng tỉ lệ thuộc tính  +{1}	
+resist_allseriesstate_time_v	Kháng thời gian thuộc tính  +{1}	
+resist_allspecialstate_rate_v	Kháng tỉ lệ bất lợi  +{1}	
+resist_allspecialstate_time_v	Kháng thời gian bất lợi  +{1}	
+ignore_series_state	Giải trừ và miễn dịch thuộc tính	
+ignore_abnor_state	Giải trừ và miễn dịch bất lợi	
+steallife_p	Hút sinh lực +{1}%	
+steallife_resist_v	Kháng hút sinh lực  +{1}	
+steallife_resist_p	Kháng hút sinh lực  +{1}%	
+meleedamagereturn_p	Phản đòn cận chiến +{1}%	
+rangedamagereturn_p	Phản đòn tầm xa  +{1}%	
+meleedamagereturn_v	Phản đòn cận chiến  +{1}	
+rangedamagereturn_v	Phản đòn tầm xa  +{1}	
+return_resist_p	Phản đòn miễn thương  +{1}%	
+fightpower_v1	Lực chiến  +{1}	
+series_enhance_v	Ngũ hành cường hóa +{1}	
+series_abate_v	Ngũ hành nhược hóa +{1}	
+add_allfaction	Cấp kỹ năng môn phái  +{1}	
+add_skillflaglevel		AddFlagLevel
+enhance_final_damage_p	Tăng sát thương cuối +{1}%	
+reduce_final_damage_p	Triệt tiêu sát thương cuối  +{1}%	
+melee_dmg_p	Kháng sát thương cận chiến +{1}%	
+remote_dmg_p	Kháng sát thương tầm xa +{1}%	
+damage4npc_p	Sát thương quái  +{1}%	
+damage4player_p	Sát thương lên người chơi  +{1}%	
+playerdmg_npc_p	Ngăn sát thương nhân vật  +{1}%	
+userdesc_000		
+state_hurt_ignore	Hóa giải và miễn dịch sát thương	
+state_confuse_ignore	Hóa giải và miễn dịch hỗn loạn	
+state_knock_ignore	Hóa giải và miễn dịch tấn công đẩy lùi	
+state_drag_ignore	Hóa giải và miễn dịch kéo lại	
+state_float_ignore	Hóa giải và miễn dịch Phù Không	
+state_freeze_ignore	Hóa giải và miễn dịch đóng băng	
+state_selffreeze_ignore	Hóa giải hiệu quả Đóng Băng	
+state_sleep_ignore	Hóa giải và miễn dịch Ngủ	
+state_burn_ignore	Hóa giải và miễn dịch Cháy	
+state_weak_ignore	Hóa giải và miễn dịch suy yếu	
+state_silence_ignore	Hóa giải và miễn dịch bất lực	
+state_slowrun_ignore	Hóa giải và miễn dịch làm chậm	
+state_fixed_ignore	Hóa giải và miễn dịch định thân	
+state_zhican_ignore	Xóa và miễn dịch tàn phế	
+state_stun_ignore	Hóa giải và miễn dịch choáng	
+state_slowall_ignore	Hóa giải và miễn dịch làm chậm	
+state_palsy_ignore	Hóa giải và miễn dịch tê liệt	
+protected	Trạng thái bảo vệ PK	
+userdesc_101	Thái Nhất Chân Khí	
+userdesc_102	Lưỡng Nghi Kiếm Pháp	
+userdesc_103	Kiếm Khí Tung Hoành	
+userdesc_104	Huyết Nguyệt Chi Ảnh	
+userdesc_105	Nghịch Chuyển Cửu Âm	
+userdesc_106	Chân Võ Thất Tiệt	
+userdesc_107	Khô Mộc Phùng Xuân/Niết Bàn Trùng Sinh	
+userdesc_108	Niết Bàn Trùng Sinh	
+userdesc_109	Cấp kỹ năng môn phái +1	

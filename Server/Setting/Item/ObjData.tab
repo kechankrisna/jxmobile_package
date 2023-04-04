@@ -1,0 +1,25 @@
+Name	ObjID	PrefabPath
+Biểu hiện nhặt	-1	Effect/Prefabs/JueSe/other1/wupin_shiqu.prefab
+Bảo Rương	1	Player/Npcs/obj_002/prefab/obj_002.prefab
+Hồng Bảo Thạch	2	Player/critter/prefab/hbs01.prefab
+Thủy Tinh Trắng	3	Player/critter/prefab/bsj01.prefab
+Tiền Đồng	4	Player/critter/prefab/tq01.prefab
+Đồng Tiền Trắng	5	Player/critter/prefab/tq02.prefab
+Đá Hồn Đồng Hành	6	Player/critter/prefab/tbhs01.prefab
+Trang Bị	7	Player/critter/prefab/zjzb01.prefab
+1 Bạc	8	Player/critter/prefab/yingliang01.prefab
+2 Bạc	9	Player/critter/prefab/yingliang02.prefab
+3 Bạc	10	Player/critter/prefab/yingliang03.prefab
+Bảo thạch 01	11	Player/critter/prefab/baoshi01.prefab
+Túi Bảo Vật	12	Player/critter/prefab/baowudai01.prefab
+Thủy Tinh 01	13	Player/critter/prefab/shuijin01.prefab
+Đá Hồn 01	14	Player/critter/prefab/tongbanhunshi01.prefab
+Trang bị Đồng Hành 01	15	Player/critter/prefab/tongbanzhuangbei01.prefab
+Trang bị nhân vật 01	16	Player/critter/prefab/zhujuezhuangbei01.prefab
+Cầu BUFF Hồi Sinh Lực	17	Effect/Prefabs/JueSe/BUFF/buffqiu_lv_gai.prefab
+Tâm Ma Ảo Cảnh_Hồi Sinh Lực	1000	Effect/Prefabs/JueSe/BUFF/buffqiu_lv_gai.prefab
+Tâm Ma Ảo Cảnh_Tấn Công	1001	Effect/Prefabs/JueSe/BUFF/buffqiu_hong_gai.prefab
+Tâm Ma Ảo Cảnh_Kháng tất cả	1002	Effect/Prefabs/JueSe/BUFF/buffqiu_jin_gai.prefab
+Tâm Ma Ảo Cảnh_Tốc Chạy	1003	Effect/Prefabs/JueSe/BUFF/buffqiu_lan_gai.prefab
+Tâm Ma Ảo Cảnh_Bạo Kích	1004	Effect/Prefabs/JueSe/BUFF/buffqiu_hong.prefab
+Tâm Ma Ảo Cảnh_Vô Địch	1005	Effect/Prefabs/JueSe/BUFF/buffqiu_jin.prefab

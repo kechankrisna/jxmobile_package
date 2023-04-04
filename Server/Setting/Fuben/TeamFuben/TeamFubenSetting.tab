@@ -1,0 +1,7 @@
+nSectionIdx	nSubSectionIdx	nMapTemplateId	nMinLevel	szOpenTimeFrame	szName	szSprite	szAtlas	szFubenDesc	szAward	szShowItem	szMissionSumup
+1	1	300	15	OpenLevel39	Tàng Kiếm Sơn Trang	Mijing_03	UI/Atlas/Fuben/FubenMap_01.prefab	Tàng Kiếm Sơn Trang vừa là nơi rèn kiếm, vừa là nơi thu thập nhiều bảo kiếm trên thế gian.		Item|1709|1;Item|2430|1;Item|1173|1;	
+1	2	301	15	OpenLevel49	Võ Di Cấm Địa	Mijing_02	UI/Atlas/Fuben/FubenMap_01.prefab	Căn cứ nghiên cứu chế tạo hỏa dược, ám khí của Giang Nam Tịch Lịch Đường		Item|1721|1;Item|2430|1;Item|1174|1;	
+1	3	302	15	OpenLevel69	Dung Hỏa Tịch Lịch	Mijing_01	UI/Atlas/Fuben/FubenMap_01.prefab	Ngũ Độc Giáo Trưởng Lão Câu Sách nghiên cứu thi độc, lập căn cứ bí mật		Item|1768|1;Item|2431|1;Item|1176|1;	
+1	4	303	15	OpenLevel89	Thúy Trúc U Cốc	Mijing_04	UI/Atlas/Fuben/FubenMap_01.prefab	Đường Ảnh và Thu Y Thủy hẹn gặp ở một trúc lâm nọ, nhưng đã xuất hiện một vị khách không mời...		Item|1770|1;Item|2431|1;Item|1178|1;	
+1	5	304	15	OpenLevel109	Hô Khiếu Sơn Đạo	Mijing_05	UI/Atlas/Fuben/FubenMap_02.prefab	Hô Khiếu Sơn Đạo địa thế hiểm trở, oán niệm của linh hồn mất đi đều tập trung ở nơi này...		Item|3855|1;Item|2431|1;Item|1180|1;	
+1	6	305	15	OpenLevel129	Tuyết Phong Tiêu Yên	Mijing_06	UI/Atlas/Fuben/FubenMap_02.prefab	Nơi đây từng là doanh địa chống quân Kim, sau bị phản đồ bán đứng, quân Kim bao vây, xảy ra trận đồ sát thảm khốc...		Item|4874|1;Item|2431|1;Item|5611|1;	

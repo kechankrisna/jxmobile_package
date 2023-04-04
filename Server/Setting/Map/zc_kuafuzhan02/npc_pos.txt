@@ -1,0 +1,94 @@
+Long Trụ_Thiên Phúc	9481	27218
+Long Trụ_Địa Tải	27037	27212
+Long Trụ_Phong Dương	9470	9614
+Long Trụ_Vân Thùy	27035	9632
+Long Trụ_Long Phi	14547	22154
+Long Trụ_Hổ Dực	21906	22158
+Long Trụ_Điểu Tường	14548	14728
+Long Trụ_Xà Bàn	21899	14730
+Vương Tọa	18229	18435
+Doanh Địa 1_Ra	5356	22888
+Doanh Địa 1_Ra	5368	23306
+Doanh Địa 1_Ra	5354	22475
+Doanh Địa 1_Vào	4938	23309
+Doanh Địa 1_Vào	4925	22447
+Doanh Địa 1_Vào	4846	22905
+Doanh Địa 1_Chướng Ngại	5124	22629
+Doanh Địa 1_Chướng Ngại	5124	23112
+Doanh Địa 1_Điểm Truyền Tống	5013	22912
+Doanh Địa 2-Ra	5333	14435
+Doanh Địa 2-Ra	5341	13638
+Doanh Địa 2-Ra	5355	14082
+Doanh Địa 2-Vào	4909	14441
+Doanh Địa 2-Vào	4836	14086
+Doanh Địa 2-Vào	4925	13652
+Doanh Địa 2_Chướng Ngại	5113	14253
+Doanh Địa 2_Chướng Ngại	5113	13809
+Doanh Địa 2_Điểm Truyền Tống	4986	14085
+Doanh Địa 3-Ra	13452	5560
+Doanh Địa 3-Ra	13818	5557
+Doanh Địa 3-Ra	14178	5558
+Doanh Địa 3-Vào	13832	5142
+Doanh Địa 3-Vào	14192	5222
+Doanh Địa 3-Vào	13455	5222
+Doanh Địa 3_Chướng Ngại	13619	5389
+Doanh Địa 3_Chướng Ngại	14044	5390
+Doanh Địa 3_Điểm Truyền Tống	13833	5264
+Doanh Địa 4-Ra	22271	5567
+Doanh Địa 4-Ra	22669	5556
+Doanh Địa 4-Ra	23076	5560
+Doanh Địa 4-Vào	22278	5218
+Doanh Địa 4-Vào	22649	5141
+Doanh Địa 4-Vào	23084	5220
+Doanh Địa 4_Chướng Ngại	22417	5393
+Doanh Địa 4_Chướng Ngại	22879	5391
+Doanh Địa 4_Điểm Truyền Tống	22652	5265
+Doanh Địa 5-Ra	31288	14467
+Doanh Địa 5-Ra	31291	13628
+Doanh Địa 5-Ra	31290	14056
+Doanh Địa 5-Vào	31644	14473
+Doanh Địa 5-Vào	31719	14070
+Doanh Địa 5-Vào	31655	13627
+Doanh Địa 5_Chướng Ngại	31462	13854
+Doanh Địa 5_Chướng Ngại	31458	14254
+Doanh Địa 5_Điểm Truyền Tống	31584	14082
+Doanh Địa 6-Ra	31291	23258
+Doanh Địa 6-Ra	31280	22830
+Doanh Địa 6-Ra	31288	22355
+Doanh Địa 6-Vào	31722	22817
+Doanh Địa 6-Vào	31639	23265
+Doanh Địa 6-Vào	31636	22359
+Doanh Địa 6_Chướng Ngại	31458	23043
+Doanh Địa 6_Chướng Ngại	31461	22581
+Doanh Địa 6_Điểm Truyền Tống	31585	22819
+Doanh Địa 7-Ra	22178	31401
+Doanh Địa 7-Ra	22663	31391
+Doanh Địa 7-Ra	23089	31405
+Doanh Địa 7-Vào	22659	31828
+Doanh Địa 7-Vào	23031	31743
+Doanh Địa 7-Vào	22189	31751
+Doanh Địa 7_Chướng Ngại	22824	31569
+Doanh Địa 7_Chướng Ngại	22387	31567
+Doanh Địa 7_Điểm Truyền Tống	22652	31685
+Doanh Địa 8_Ra	13480	31427
+Doanh Địa 8_Ra	14353	31427
+Doanh Địa 8_Ra	13910	31423
+Doanh Địa 8-Vào	13484	31782
+Doanh Địa 8-Vào	13898	31847
+Doanh Địa 8-Vào	14353	31760
+Doanh Địa 8_Chướng Ngại	14100	31595
+Doanh Địa 8_Chướng Ngại	13690	31595
+Doanh Địa 8_Điểm Truyền Tống	13888	31715
+Huyền Vũ-Thủ Hộ Bi	18284	24152
+Chu Tước-Thủ Hộ Bi	18257	12697
+Bạch Hổ-Thủ Hộ Bi	12502	18451
+Thanh Long-Thủ Hộ Bi	23955	18422
+Doanh Địa 1-Điểm Xuất Hiện	3451	22733
+Doanh Địa 2-Điểm Xuất Hiện	22622	32638
+Doanh Địa 3-Điểm Xuất Hiện	32511	14045
+Doanh Địa 4-Điểm Xuất Hiện	13852	4149
+Bạch Hổ-Đánh Phá	11675	17654
+Huyền Vũ-Đánh Phá	17300	23307
+Chu Tước-Đánh Phá	17260	11788
+Thanh Long-Đánh Phá	22903	17710
+Ngôi Vua-Chiếm	17238	17489

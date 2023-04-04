@@ -1,0 +1,299 @@
+TransmitPoint	11274	9322
+TransmitPoint	11951	8797
+TransmitPoint	7775	13003
+TransmitPoint	8449	12560
+TransmitPoint	7560	11291
+TransmitPoint	8029	10673
+TransmitPoint	6793	15590
+TransmitPoint	8177	15042
+TransmitPoint	7615	19207
+TransmitPoint	8561	18195
+TransmitPoint	10961	22084
+TransmitPoint	11795	20982
+TransmitPoint	11404	19773
+TransmitPoint	11873	18653
+TransmitPoint	12897	19055
+TransmitPoint	13235	18507
+TransmitPoint	15524	15575
+TransmitPoint	16481	15214
+TransmitPoint	10698	16278
+TransmitPoint	11078	15929
+TransmitPoint	12078	14846
+TransmitPoint	12564	14373
+TransmitPoint	15593	11927
+TransmitPoint	16053	11374
+TransmitPoint	13944	13501
+TransmitPoint	14514	13209
+Hướng Dẫn Lôi Đài	14312	12641
+Truyền Công 1	10711	18074
+Truyền Công 1	10878	18073
+Truyền Công 2	10488	19108
+Truyền Công 2	10317	19107
+Truyền Công 3	10008	18885
+Truyền Công 3	10007	18720
+Truyền Công 4	8863	17765
+Truyền Công 4	8752	17654
+Truyền Công 5	8386	18632
+Truyền Công 5	8216	18632
+Truyền Công 6	8190	19026
+Truyền Công 6	8023	19026
+Truyền Công 7	7463	18857
+Truyền Công 7	7630	18858
+Truyền Công 8	7154	18632
+Truyền Công 8	7322	18630
+Truyền Công 9	7518	18101
+Truyền Công 9	7689	18101
+Truyền Công 10	9143	18492
+Truyền Công 10	8973	18492
+Truyền Công 11	9141	18185
+Truyền Công 11	8970	18185
+Truyền Công 12	8386	18015
+Truyền Công 12	8218	18015
+Truyền Công 13	8385	17568
+Truyền Công 13	8219	17571
+Truyền Công 14	8779	19219
+Truyền Công 14	8775	19053
+Truyền Công 15	7519	18465
+Truyền Công 15	7688	18465
+Truyền Công 16	7573	16896
+Truyền Công 16	7742	16896
+Truyền Công 17	8131	16895
+Truyền Công 17	8303	16895
+Truyền Công 18	9170	16949
+Truyền Công 18	9281	17065
+Truyền Công 19	9898	17711
+Truyền Công 19	10064	17710
+Truyền Công 20	8584	16194
+Truyền Công 20	8749	16198
+Truyền Công 21	9142	22356
+Truyền Công 21	9310	22356
+Truyền Công 22	11521	23056
+Truyền Công 22	11691	23058
+Truyền Công 23	13454	21235
+Truyền Công 23	13454	21067
+Truyền Công 24	15862	18659
+Truyền Công 24	15860	18495
+Truyền Công 25	17736	12696
+Truyền Công 25	17738	12528
+Cây Thông Noel	8294	12903
+Cây Thông Noel	8045	11027
+Cây Thông Noel	14899	17212
+Cây Thông Noel	14663	12169
+Cây Thông Noel	15624	12195
+Cây Thông Noel	15624	13101
+Cây Thông Noel	14675	13105
+Cây Thông Noel	8027	17917
+Cây Thông Noel	8983	18744
+Cây Thông Noel	12486	14312
+Cây Thông Noel	10696	14406
+Cây Thông Noel	10638	16336
+Cây Thông Noel	12692	16353
+Cây Thông Noel	16856	19267
+Cây Thông Noel	16832	17879
+Cây Thông Noel	11898	18344
+Cây Thông Noel	11926	17673
+Cây Thông Noel	14829	15129
+Cây Thông Noel	15440	15132
+Cây Thông Noel	11300	11629
+Cây Thông Noel	11954	11639
+Cây Thông Noel	9989	11765
+Cây Thông Noel	8330	15069
+Cây Thông Noel	9100	15069
+Cây Thông Noel	10282	17774
+Cây Thông Noel	9141	16663
+Cây Thông Noel	13525	18372
+Cây Thông Noel	18053	13129
+Trương Phong	14502	11245
+Trương Lâm Tâm	14739	11250
+Tuyển Mỹ Nhân 1	13051	18066
+Tuyển Mỹ Nhân 1	14781	18021
+Tuyển Mỹ Nhân 1	14777	17196
+Tuyển Mỹ Nhân 1	14196	17172
+Tuyển Mỹ Nhân 1	14211	15472
+Tuyển Mỹ Nhân 1	12440	15485
+Tuyển Mỹ Nhân 1	12427	16231
+Tuyển Mỹ Nhân 1	11685	16218
+Tuyển Mỹ Nhân 1	11691	18077
+Tuyển Mỹ Nhân 2	15118	13711
+Tuyển Mỹ Nhân 2	15909	13697
+Tuyển Mỹ Nhân 2	15923	11631
+Tuyển Mỹ Nhân 2	14480	11627
+Tuyển Mỹ Nhân 2	14484	12293
+Tuyển Mỹ Nhân 2	13424	12644
+Tuyển Mỹ Nhân 2	11692	12577
+Tuyển Mỹ Nhân 2	11677	14466
+Tuyển Mỹ Nhân 2	12329	14483
+Tuyển Mỹ Nhân 2	12553	15228
+Tuyển Mỹ Nhân 2	15150	15224
+Tuyển Mỹ Nhân 3	11513	12117
+Tuyển Mỹ Nhân 3	9658	12127
+Tuyển Mỹ Nhân 3	8717	12167
+Tuyển Mỹ Nhân 3	8727	14172
+Tuyển Mỹ Nhân 3	8724	15327
+Tuyển Mỹ Nhân 3	10742	15333
+Tuyển Mỹ Nhân 3	10729	14556
+Tuyển Mỹ Nhân 3	11498	14264
+Quán Quân Mỹ Nhân	13284	18936
+Quán Quân Mỹ Nhân Toàn Máy Chủ	13275	18637
+Lâm Triều Hoa	13377	17839
+Quán Quân Mỹ Nhân_Bản đồ nhỏ	13284	18769
+Nguyệt Lão	18287	12628
+Hồng Nương	18079	12127
+Hoa Đồng	18338	12955
+Diễu Hành-Hoa Đồng 1-Điểm Đầu	17096	12642
+Diễu Hành-Tân Lang-Điểm Đầu	17377	12640
+Diễu Hành-Tân Nương-Điểm Đầu	17768	12642
+Diễu Hành-Hoa Đồng 2-Điểm Đầu	18190	12640
+Du Thành-Đường 2	16263	12663
+Du Thành-Đường 3	15597	13593
+Du Thành-Đường 4	15136	13779
+Du Thành-Đường 5	15138	15325
+Du Thành-Đường 6	14212	15334
+Du Thành-Đường 7	14208	17280
+Du Thành-Đường 8	14808	17284
+Du Thành-Đường 9	14780	17983
+Du Thành-Đường 10	12694	18060
+Du Thành-Đường 11	11646	18020
+Đường Diễu Hành 12-Cốt Truyện Chủ Thương Hội	11635	16786
+Du Thành-Đường 13	11645	16304
+Du Thành-Đường 14	10316	15318
+Du Thành-Đường 15	8726	15325
+Du Thành-Đường 16	8719	12159
+Đường Diễu Hành 17-Cốt Truyện Xin Kẹo Hỉ	9927	12107
+Du Thành-Đường 18	11633	12111
+Du Thành-Đường 19	11634	12637
+Du Thành-Đường 20	14167	12635
+Du Thành-Đường 21	14515	11625
+Du Thành-Đường 22	15625	11625
+Đường Diễu Hành 23	16174	12664
+Đường Diễu Hành 24-Điểm Cuối	17095	12641
+Điểm cố định-Hoa Đồng 1	15590	13056
+Điểm cố định-Hoa Đồng 2	15596	12205
+Điểm cố định-Hoa Đồng 3	14696	12172
+Điểm cố định-Hoa Đồng 4	14675	13075
+Điểm cố định-Hoa Đồng 5	16009	13448
+Điểm cố định-Hoa Đồng 6	14443	15626
+Điểm cố định-Hoa Đồng 7	13939	15631
+Điểm cố định-Hoa Đồng 8	14886	14991
+Điểm cố định-Hoa Đồng 9	15369	14982
+Điểm cố định-Hoa Đồng 10	13963	17102
+Điểm cố định-Hoa Đồng 11	14274	17523
+Điểm cố định-Hoa Đồng 12	14799	16943
+Điểm cố định-Hoa Đồng 13	13786	18152
+Điểm cố định-Hoa Đồng 14	13781	17804
+Điểm cố định-Hoa Đồng 15	12797	17821
+Điểm cố định-Hoa Đồng 16	11271	17487
+Điểm cố định-Hoa Đồng 17	11271	16981
+Điểm cố định-Hoa Đồng 18	12000	17487
+Điểm cố định-Hoa Đồng 19	11998	16981
+Điểm cố định-Hoa Đồng 20	9254	15694
+Điểm cố định-Hoa Đồng 21	9254	14965
+Điểm cố định-Hoa Đồng 22	9983	15695
+Điểm cố định-Hoa Đồng 23	9983	14965
+Điểm cố định-Hoa Đồng 24	9202	12475
+Điểm cố định-Hoa Đồng 25	9195	11750
+Điểm cố định-Hoa Đồng 26	9704	11748
+Điểm cố định-Hoa Đồng 27	9703	12475
+Điểm cố định-Hoa Đồng 28	14013	12317
+Điểm cố định-Hoa Đồng 29	17404	12443
+Điểm cố định-Hoa Đồng 30	17401	12833
+Điểm cố định-Hoa Đồng 31	12501	16186
+Điểm cố định-Hoa Đồng 32	12359	14372
+Điểm cố định-Hoa Đồng 33	10730	14456
+Điểm cố định-Hoa Đồng 34	10742	16208
+Điểm cố định-Thổi Tiêu 1	14943	14204
+Điểm cố định-Thổi Tiêu 2	15304	14202
+Điểm cố định-Thổi Tiêu 3	14473	17777
+Điểm cố định-Thổi Tiêu 4	14478	18178
+Điểm cố định-Thổi Tiêu 5	11273	17232
+Điểm cố định-Thổi Tiêu 6	11999	17235
+Điểm cố định-Thổi Tiêu 7	9645	15695
+Điểm cố định-Thổi Tiêu 8	9646	14963
+Điểm cố định-Thổi Tiêu 9	8537	13316
+Điểm cố định-Thổi Tiêu 10	8959	13321
+Điểm cố định-Thổi Tiêu 11	9477	12474
+Điểm cố định-Thổi Tiêu 12	9481	11745
+Điểm cố định-Thổi Tiêu 13	12093	12823
+Điểm cố định-Thổi Tiêu 14	12093	12427
+Điểm cố định-Thổi Tiêu 15	16957	12860
+Điểm cố định-Thổi Tiêu 16	16967	12442
+Điểm cố định-Khua Chiêng 1	16755	12436
+Điểm cố định-Khua Chiêng 2	16755	12866
+Đường Diễu Hành 12-Tân Lang	11634	17066
+Đường Diễu Hành 12-Tân Nương	11635	17457
+Đường Diễu Hành 12-Hoa Đồng	11634	17853
+Thương Hội Diễu Hành-Vạn Kim Tài-Điểm Đầu	11353	16195
+Thương Hội Diễu Hành-Lâm Triều Hoa-Điểm Đầu	11357	16028
+Thương Hội Diễu Hành-Vạn Kim Tài-Điểm Cuối	11358	17207
+Thương Hội Diễu Hành-Lâm Triều Hoa-Điểm Cuối	11354	16920
+Thương Hội Diễu Hành-Pháo Hoa Ngũ Sắc 1-Trái	11358	16840
+Thương Hội Diễu Hành-Pháo Hoa Ngũ Sắc 2-Trái	11360	17164
+Thương Hội Diễu Hành-Pháo Hoa Ngũ Sắc 3-Trái	11358	17471
+Thương Hội Diễu Hành-Pháo Hoa Ngũ Sắc 4-Trái	11356	17848
+Thương Hội Diễu Hành-Pháo Hoa Ngũ Sắc 1-Phải	11919	16841
+Thương Hội Diễu Hành-Pháo Hoa Ngũ Sắc 2-Phải	11920	17160
+Thương Hội Diễu Hành-Pháo Hoa Ngũ Sắc 3-Phải	11927	17470
+Thương Hội Diễu Hành-Pháo Hoa Ngũ Sắc 4-Phải	11917	17856
+Thương Hội Diễu Hành-Pháo Hoa Tâm Tâm Tương Ấn	11638	17058
+Thương Hội Diễu Hành-Pháo Hoa Tâm Tâm Tương Ấn	11632	17443
+Thương Hội Diễu Hành-Pháo Hoa Lễ	11634	17114
+Xin Kẹo Hỉ-Tài Yên-Điểm Đầu	10404	11917
+Xin Kẹo Hỉ-Ân Phương-Điểm Đầu	10600	11915
+Xin Kẹo Hỉ-Tiểu Ân Đồng-Điểm Đầu	10799	11914
+Xin Kẹo Hỉ-Tài Yên-Điểm Cuối	9588	11827
+Xin Kẹo Hỉ-Ân Phương-Điểm Cuối	9758	12280
+Xin Kẹo Hỉ-Tiểu Ân Đồng-Điểm Cuối	9755	11828
+Đường Diễu Hành 17-Tân Lang	9647	12106
+Đường Diễu Hành 17-Tân Nương	9252	12110
+Đường Diễu Hành 17-Hoa Đồng 2	8865	12111
+Xin Kẹo Hỉ-Pháo Hoa Ngũ Sắc 1-Trên	9141	12414
+Xin Kẹo Hỉ-Pháo Hoa Ngũ Sắc 2-Trên	9447	12415
+Xin Kẹo Hỉ-Pháo Hoa Ngũ Sắc 3-Trên	9759	12412
+Xin Kẹo Hỉ-Pháo Hoa Ngũ Sắc 1-Dưới	9167	11821
+Xin Kẹo Hỉ-Pháo Hoa Ngũ Sắc 2-Dưới	9452	11823
+Xin Kẹo Hỉ-Pháo Hoa Ngũ Sắc 3-Dưới	9788	11819
+Xin Kẹo Hỉ-Pháo Hoa Vĩnh Kết Đồng Tâm	9241	12111
+Xin Kẹo Hỉ-Pháo Hoa Vĩnh Kết Đồng Tâm	9657	12105
+Diễu Hành-Điểm Cuối-Tân Lang	16841	12641
+Diễu Hành-Điểm Cuối-Tân Nương	16450	12638
+Diễu Hành-Điểm Cuối-Hoa Đồng 2	16057	12640
+Tọa độ Kẹo Hỉ Cốt Truyện Thương Hội Diễu Hành	11378	17672
+Tọa độ Kẹo Hỉ Cốt Truyện Thương Hội Diễu Hành	11412	17522
+Tọa độ Kẹo Hỉ Cốt Truyện Thương Hội Diễu Hành	11347	17417
+Tọa độ Kẹo Hỉ Cốt Truyện Thương Hội Diễu Hành	11430	17349
+Tọa độ Kẹo Hỉ Cốt Truyện Thương Hội Diễu Hành	11357	17190
+Tọa độ Kẹo Hỉ Cốt Truyện Thương Hội Diễu Hành	11443	17143
+Tọa độ Kẹo Hỉ Cốt Truyện Thương Hội Diễu Hành	11357	17004
+Tọa độ Kẹo Hỉ Cốt Truyện Thương Hội Diễu Hành	11453	16917
+Tọa độ Kẹo Hỉ Cốt Truyện Thương Hội Diễu Hành	11772	16921
+Tọa độ Kẹo Hỉ Cốt Truyện Thương Hội Diễu Hành	11845	17005
+Tọa độ Kẹo Hỉ Cốt Truyện Thương Hội Diễu Hành	11814	17132
+Tọa độ Kẹo Hỉ Cốt Truyện Thương Hội Diễu Hành	11862	17245
+Tọa độ Kẹo Hỉ Cốt Truyện Thương Hội Diễu Hành	11819	17378
+Tọa độ Kẹo Hỉ Cốt Truyện Thương Hội Diễu Hành	11885	17476
+Tọa độ Kẹo Hỉ Cốt Truyện Thương Hội Diễu Hành	11824	17572
+Tọa độ Kẹo Hỉ Cốt Truyện Thương Hội Diễu Hành	11865	17683
+Tọa độ Kẹo Hỉ Cốt Truyện Thương Hội Diễu Hành	11913	17346
+Tọa độ Kẹo Hỉ Cốt Truyện Thương Hội Diễu Hành	11907	17143
+Tọa độ Kẹo Hỉ Cốt Truyện Thương Hội Diễu Hành	11887	16924
+Tọa độ Kẹo Hỉ Cốt Truyện Thương Hội Diễu Hành	11448	17027
+Tọa độ Kẹo Hỉ Cốt Truyện Xin Kẹo Hỉ	9097	12377
+Tọa độ Kẹo Hỉ Cốt Truyện Xin Kẹo Hỉ	9218	12383
+Tọa độ Kẹo Hỉ Cốt Truyện Xin Kẹo Hỉ	9340	12354
+Tọa độ Kẹo Hỉ Cốt Truyện Xin Kẹo Hỉ	9483	12340
+Tọa độ Kẹo Hỉ Cốt Truyện Xin Kẹo Hỉ	9559	12373
+Tọa độ Kẹo Hỉ Cốt Truyện Xin Kẹo Hỉ	9717	12330
+Tọa độ Kẹo Hỉ Cốt Truyện Xin Kẹo Hỉ	9122	11858
+Tọa độ Kẹo Hỉ Cốt Truyện Xin Kẹo Hỉ	9311	11878
+Tọa độ Kẹo Hỉ Cốt Truyện Xin Kẹo Hỉ	9162	11954
+Tọa độ Kẹo Hỉ Cốt Truyện Xin Kẹo Hỉ	9381	11919
+Tọa độ Kẹo Hỉ Cốt Truyện Xin Kẹo Hỉ	9517	11897
+Tọa độ Kẹo Hỉ Cốt Truyện Xin Kẹo Hỉ	9615	11914
+Tọa độ Kẹo Hỉ Cốt Truyện Xin Kẹo Hỉ	9718	11899
+Tọa độ Kẹo Hỉ Cốt Truyện Xin Kẹo Hỉ	9814	11902
+Tọa độ Kẹo Hỉ Cốt Truyện Xin Kẹo Hỉ	9303	11962
+Tọa độ Kẹo Hỉ Cốt Truyện Xin Kẹo Hỉ	9753	11989
+Tọa độ Kẹo Hỉ Cốt Truyện Xin Kẹo Hỉ	9885	12227
+Tọa độ Kẹo Hỉ Cốt Truyện Xin Kẹo Hỉ	9925	11999
+Tọa độ Kẹo Hỉ Cốt Truyện Xin Kẹo Hỉ	9030	11979
+Tọa độ Kẹo Hỉ Cốt Truyện Xin Kẹo Hỉ	9937	11902

@@ -1,0 +1,57 @@
+nLevel	nFaction	szTimeFrame	nTaskId	bLoginCheck	Desc	NotVersion_tx	NotVersion_vn	NotVersion_hk	NotVersion_xm	NotVersion_kor	NotVersion_th
+6			3001		[P] Giám Định-Tẩy Luyện						
+9			3037		[P] Đồng Hành Xuất Trận						
+11			3004		[P] Vào Bang Hội						
+11			3007		[P] Lửa Trại Bang Hội						
+12			3008		[P] Cường Hóa						
+13			3010		[P] Sơn Tặc Mật Quật						
+14			3011		[P] Kỳ Trân Các						
+15			3012		[P] Bí Cảnh Tổ Đội						
+17			3013		[P] Võ Thần Điện						
+17			3014		[P] Chiêu Mộ-Tư Chất						
+17			3016		[P] Sách Đồng Hành						
+18			3018		[P] Quân Hàm						
+19			3019		[P] Do Thám						
+20			3020		[P] Thí Luyện Giang Hồ						
+20			3021		[P] Khảm						
+20			3023		[P] Minh Chủ Võ Lâm						
+21			3024		[P] Tàng Bảo Đồ						
+22			3025		[P] Nhiệm Vụ Trừng Ác						
+23			3026		[P] Vấn Đáp						
+23			3027		[P] Bày Bán						
+24			3029		[P] Chiến Trường Tống Kim						
+24			3401		[P] Rèn Luyện						
+30			3030		[P] Tàng Bảo Đồ-Cao						
+30			3031		[P] Truyền Công						
+30			3032		[P] Danh Tướng						
+31			3033		[P] Nhiệm Vụ Thương Hội						
+31			3034		[P] Thủ Lĩnh Dã Ngoại						
+33			3035		[P] Lăng Tuyệt Phong						
+33			3036		[P] Khiêu Chiến Anh Hùng						
+39			3301	1	[P] Trang cá nhân		1	1	1	1	1
+40			3250	1	[P] Sơ Nhập Giang Hồ (Nhiệm vụ Ngoại Trang 1)						
+16	1		3501		[P] Ngũ Hành-Thiên Vương						
+16	2		3501		[P] Ngũ Hành-Nga Mi						
+16	3		3501		[P] Ngũ Hành-Đào Hoa						
+16	4		3501		[P] Ngũ Hành-Tiêu Dao						
+16	5		3501		[P] Ngũ Hành-Võ Đang						
+16	6		3501		[P] Ngũ Hành-Thiên Nhẫn						
+16	7		3501		[P] Ngũ Hành Tương Khắc-Thiếu Lâm						
+16	8		3501		[P] Ngũ Hành Tương Khắc-Thúy Yên						
+16	9		3501		[P] Ngũ Hành Tương Khắc-Đường Môn						
+16	10		3501		[P] Ngũ Hành Tương Khắc-Côn Lôn						
+16	11		3501		[P] Ngũ Hành Tương Khắc-Cái Bang						
+16	12		3501		[P] Ngũ Hành Tương Khắc-Ngũ Độc						
+16	13		3501		[P] Ngũ Hành Tương Khắc-Tàng Kiếm						
+16	14		3501		[P] Ngũ Hành Tương Khắc-Trường Ca						
+16	15		3501		[P] Ngũ Hành Tương Khắc-Thiên Sơn						
+16	16		3501		[P] Ngũ Hành Tương Khắc-Bá Đao						
+16	17		3501		[P] Ngũ Hành Tương Khắc-Hoa Sơn						
+16	18		3501		[P] Ngũ Hành Tương Khắc-Minh Giáo						
+60			3270	1	[P] Tân Tú Môn Phái (Nhiệm vụ Ngoại Trang 2)						
+60			3108	1	[P] Thăm Danh Viên						
+60			3150	1	[P] Chuyển Phái						
+68		OpenLevel109	3306	1	[P] Nhận Môn Khách						
+70			3200	1	[P] Kinh mạch Tuyệt Học						
+65		OpenLevel79	2000	1	Võ Lâm Đại Sự						
+80			3282	1	[P] Tìm Hiểu Trận Pháp						

@@ -1,0 +1,42 @@
+nThemeID	nDefault	nSort	nHide	szTitle	szGirlTitle	szGet	szGirlGet	szCondition	szParam	version_tx	version_vn	version_hk	version_xm	version_en	version_kor	version_th
+1	1	1		Mặc định						1	1	1	1	1	1	1
+2		2		Quán Quân Hoa Sơn Luận Kiếm		Cách nhận: Quán Quân Hoa Sơn Luận Kiếm				1	1	1	1	1	1	1
+3		3		Môn Phái Đại Sư Huynh	Môn Phái Đại Sư Tỷ	Cách nhận: Được chọn làm Đại Sư Huynh Môn Phái	Cách nhận: Được chọn làm Đại Sư Tỷ Môn Phái			1	1	1	1	1	1	1
+4		4		Bảo Bối		Cách nhận: Thành viên đang giữ chức Bảo Bối		KinMascot		1	1	1	1	1	1	1
+5		14		Kiếm Hiệp 13		Cách nhận: Kiếm Hiệp 13		Vip	13	1	1	1	1	1	1	1
+6		15		Kiếm Hiệp 15		Cách nhận: Kiếm Hiệp 15		Vip	15	1	1	1	1	1	1	1
+7		16		Kiếm Hiệp 18		Cách nhận: Kiếm Hiệp 18		Vip	18	1	1	1	1	1	1	1
+8		5		Thịnh Điển Thượng Tân		Cách nhận: Phần thưởng quà nạp lần đầu				1	1	1	1	1	1	1
+9		6		Như Ý Cát Tường		Cách nhận: Phần thưởng dành riêng túi quà Năm Mới Như Ý Cát Tường				1	1		1			
+10		7		Lễ Tình Nhân-Kết Tình Phiêu Bạt		Cách nhận: Hoạt động Lễ Tình Nhân				1	1	1	1		1	1
+11		8		Võ Lâm Đại Mỹ Nhân TOP 20		Cách nhận:  Phần thưởng Quán Quân Chung Kết và Top 20「Miss Võ Lâm Truyền Kỳ Mobile」				1	1					
+12		9		Thập Đại Mỹ Nhân Server		Cách nhận:  Phần thưởng Quán Quân Sơ Loại và Top 10「Miss Võ Lâm Truyền Kỳ Mobile」				1	1					
+13		10		Kiếm Ca Giang Hồ		Cách nhận: Phần thưởng Quà Vũ Động Càn Khôn				1	1		1			
+14		11		Võ Lâm Chí Tôn		Cách nhận:  Thưởng Quán Quân「Đại Hội Võ Lâm」				1	1	1	1			1
+15		12		Á Quân Đại Hội Võ Lâm		Cách nhận:  Thưởng Á Quân「Đại Hội Võ Lâm」				1	1	1	1			1
+16		13		Kiếm Hiệp 8		Cách nhận: Đặc quyền Kiếm Hiệp 8		Vip	8	1	1	1	1	1	1	1
+17		17		Hội Viên Chí Tôn		Cách nhận: Quyền Hội Viên Chí Tôn					1		1			
+18		18		Hà Đường Nguyệt Sắc		Cách nhận: Top 10 BXH Trung Thu				1	1	1	1		1	
+19		19		Chào mừng Võ Lâm Truyền Kỳ mới		Cách nhận: Thưởng OB Võ Lâm Truyền Kỳ Mới				1	1					
+20		20	1	Chứng Thực		Cách nhận: Ngôi sao đại diện Triệu Ân Đồng, Lâm Triều Hoa				1	1					
+21		21		Ti Lộ Lưu Sa		Cách nhận: Mua Quà Ngoại Trang Ti Lộ Lưu Sa-Hào Hoa				1	1	1	1	1	1	1
+22		22		Vượt Đỉnh Thông Thiên Năm		Cách nhận: Phần thưởng tầng 8「Trận Thông Thiên Tháp Năm」				1	1	1	1	1	1	1
+23		23		Giáng Sinh Vui Vẻ		Cách nhận: Mua Rương Giáng Sinh-Hào Hoa				1	1	1	1	1	1	1
+24		24		Lâm An Thành Chủ		Cách nhận: Thưởng thành chủ Lâm An Thành「Công Thành Liên SV」				1	1	1	1	1	1	1
+25		25		Lễ Tình Nhân-Kết Tình Phiêu Bạt		Cách nhận: Hoạt động Lễ Tình Nhân				1	1	1	1		1	1
+26		26		Nốt Nhạc 7 Màu		Cách nhận: Thưởng khi bầu chọn「VLTK M Voice」đạt 10000 phiếu hoặc top 10 BXH				1	1					
+27		27		Top 10 The Voice		Cách nhận: Thưởng quán quân vòng sơ loại「VLTK M Voice」và top 10				1	1					
+28		28		Giọng Hát Số 1 SV		Cách nhận: Thưởng quán quân vòng sơ loại「VLTK M Voice」				1	1					
+29		29		Giọng Vàng Vòng Chung Kết		Cách nhận: Phần thưởng quán quân Vòng Chung Kết, quán quân khu vực hoặc quán quân môn phái「VLTK M Voice」				1	1					
+30		30		Top 10 M Voice toàn máy chủ		Cách nhận: Phần thưởng quán quân và top 10 chung kết「VLTK M Voice」				1	1					
+31		31		Hạng 1 M Voice toàn máy chủ		Cách nhận: Phần thưởng quán quân chung kết「VLTK M Voice」				1	1					
+32		32		Trăm Năm Tương Phùng		Cách nhận: Phần thưởng hoạt động Duyên Tình Hội Ngộ				1	1					
+33		33		Tương Kim Liên Diệp Trích		Cách nhận: Thưởng top 10 được thích trong「Ngân Hạnh Gửi Tình」				1	1					
+34		34		Ngày Đông Gửi Tình		Cách nhận: Thưởng Rương Phúc Lộc 12.12 mở tầng 6				1	1					
+35		35		Hồn Thiêng Đất Việt		Cách nhận: Rương Hồn Thiêng Đất Việt-Hào Hoa					1					
+36		36		Phồn Vinh Hưng Vượng		Cách nhận: Rương Phúc Lộc Tân Niên				1	1	1	1	1	1	1
+37		37		Thủy Long Ngâm		Nhận từ: Tham gia Giang Hồ Chí-Bách Hiểu Sinh Đồ Giám				1	1	1	1	1	1	1
+38		38		Túy Mộng Giang Hồ		Nhận từ: Thưởng TOP 10 thích「Túy Mộng Giang Hồ」				1	1					
+39		39		Phúc Tinh Cao Chiếu		Cách nhận: Thưởng hoạt động Rương Phúc Lộc Lễ Hội					1					
+40		40		Thơ Âm Các		Cách nhận: Phần thưởng Quán Quân「Thơ Âm Các」					1					
+43		43		Diệu Bút Sinh Hoa		Cách nhận: Hoạt động Bách Hiểu Sanh				1	1	1	1	1	1	1

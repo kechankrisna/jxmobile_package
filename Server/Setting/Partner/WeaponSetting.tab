@@ -1,0 +1,103 @@
+nPartnerId	Desc1	nItemId	Desc2	nValue	Attrib1Type	Attrib1Value1	Attrib1Value2	Attrib1Value3	Attrib2Type	Attrib2Value1	Attrib2Value2	Attrib2Value3	Attrib3Type	Attrib3Value1	Attrib3Value2	Attrib3Value3	Attrib4Type	Attrib4Value1	Attrib4Value2	Attrib4Value3	Attrib5Type	Attrib5Value1	Attrib5Value2	Attrib5Value3	Attrib6Type	Attrib6Value1	Attrib6Value2	Attrib6Value3	Attrib7Type	Attrib7Value1	Attrib7Value2	Attrib7Value3	Attrib8Type	Attrib8Value1	Attrib8Value2	Attrib8Value3	Attrib9Type	Attrib9Value1	Attrib9Value2	Attrib9Value3	Attrib10Type	Attrib10Value1	Attrib10Value2	Attrib10Value3
+1	Xi Vưu	3539	Xi Vưu	10000000	basic_damage_v	500		500																																				
+2	Hậu Nghệ	3540	Hậu Nghệ	10000000	basic_damage_v	500		500																																				
+3	Tô Đắc Kỷ	3541	Tô Đắc Kỷ	10000000	basic_damage_v	500		500																																				
+4	Quỷ Cốc Tử	3542	Quỷ Cốc Tử	10000000	basic_damage_v	500		500																																				
+5	Hạng Vũ	3543	Hạng Vũ-Bá Vương Kích	10000000	basic_damage_v	500		500																																				
+6	Tần Thủy Hoàng	3544	Tần Thủy Hoàng-Thái A Kiếm	10000000	basic_damage_v	500		500																																				
+144	Hoàn Nhan Hồng Liệt	4057	Hoàn Nhan Hồng Liệt-Ngự Ưng Thủ	10000000	basic_damage_v	500		500																																				
+7	Võ Tắc Thiên	3545	Võ Tắc Thiên-Minh Không Chỉ	10000000	basic_damage_v	500		500																																				
+8	Lữ Động Tân	3546	Lữ Động Tân	10000000	basic_damage_v	500		500																																				
+9	Trương Tam Phong	3547	Trương Tam Phong	15000000	basic_damage_v	750		750																																				
+10	Tây Thi	3548	Tây Thi	10000000	basic_damage_v	500		500																																				
+11	Độc Cô Kiếm	1471	Độc Cô Kiếm-Cự Khuyết Kiếm	3000000	basic_damage_v	300		300																																				
+12	Nam Cung Phi	1472	Nam Cung Phi-Kiếm Trung Chi Kiếm	3000000	basic_damage_v	300		300																																				
+13	Dương Ảnh Phong	1473	Dương Ảnh Phong-Bi Ma Chi Nhẫn	3000000	basic_damage_v	300		300																																				
+14	Đường Giản	1474	Đường Giản-Huyền Vũ Song Tinh	3000000	basic_damage_v	300		300																																				
+15	Huyền Thiên Đạo Nhân	1475	Huyền Thiên Đạo Nhân-Tuyết Mặc	3000000	basic_damage_v	300		300																																				
+16	SS6	1476	SS6-(SS6 Vũ Khí Bổn Mạng)	3000000	basic_damage_v	300		300																																				
+17	Lý Nguyên Bá	1477	Lý Nguyên Bá-Ung Kim Chùy	3000000	basic_damage_v	300		300																																				
+18	Triệu Vân	1478	Triệu Vân-Long Ngân Thương	3000000	basic_damage_v	300		300																																				
+19	Lý Quảng	1479	Lý Quảng-Xạ Hổ Cung	3000000	basic_damage_v	300		300																																				
+20	Kinh Kha	1480	Kinh Kha-Kỳ Lân Chủy	3000000	basic_damage_v	300		300																																				
+21	Ngu Cơ	1481	Ngu Cơ-Nhiễu Lương Cầm	3000000	basic_damage_v	300		300																																				
+22	Nhạc Phi	1482	Nhạc Phi-Lịch Tuyền Thần Mâu	3000000	basic_damage_v	300		300																																				
+23	Nguyệt My Nhi	1486	Nguyệt My Nhi-Băng Tâm Tiên Tử	1000000	basic_damage_v	200		200																																				
+24	Dương Anh	1487	Dương Anh-Triều Dương Thương	1000000	basic_damage_v	200		200																																				
+25	Chúc Tử Hư	1489	Chúc Tử Hư-Thái Tiêu Thần Thương	1000000	basic_damage_v	200		200																																				
+26	Thanh Hiểu Sư Thái	1488	Thanh Hiểu Sư Thái-Địch Trần Kiếm	1000000	basic_damage_v	200		200																																				
+27	Hoàng Mộ Vân	1490	Hoàng Mộ Vân-Triều Sinh Cung	1000000	basic_damage_v	200		200																																				
+28	Đạo Nhất Chân Nhân	1491	Đạo Nhất Chân Nhân-Tuyền Cơ Kiếm	1000000	basic_damage_v	200		200																																				
+29	Đoan Mộc Duệ	1492	Đoan Mộc Duệ-Đoạt Hồn Nhẫn	1000000	basic_damage_v	200		200																																				
+30	Huyền Nhân	1493	Huyền Nhân-Bồ Đề Thiền Trượng	1000000	basic_damage_v	200		200																																				
+31	Doãn Hàm Yên	1494	Doãn Hàm Yên-(Doãn Hàm Yên)	1000000	basic_damage_v	200		200																																				
+32	Hắc Diện Lang Quân	1495	Hắc Diện Lang Quân-Ngũ Cổ Đoạt Hồn	1000000	basic_damage_v	200		200																																				
+33	Tuyền Cơ Tử	1496	Tuyền Cơ Tử-(Tuyền Cơ Tử)	1000000	basic_damage_v	200		200																																				
+34	Hà Nhân Ngã	1497	Hà Nhân Ngã-Cù Long Côn	1000000	basic_damage_v	200		200																																				
+35	Đường Cừu	1498	Đường Cừu-Vô Thường Nỏ	1000000	basic_damage_v	200		200																																				
+36	Mạnh Tri Thu	1499	Mạnh Tri Thu-Thương Hải Kiếm	1000000	basic_damage_v	200		200																																				
+37	Cao Trường Cung	1500	Cao Trường Cung-Bạch Lang Nhẫn	1000000	basic_damage_v	200		200																																				
+38	Triết Biệt	1501	Triết Biệt-Thiên Ưng Nỏ	1000000	basic_damage_v	200		200																																				
+39	Tần Lương Ngọc	1502	Tần Lương Ngọc-Lê Hoa Thương	1000000	basic_damage_v	200		200																																				
+40	Viên Thừa Chí	1503	Viên Thừa Chí-Bích Huyết Kiếm	1000000	basic_damage_v	200		200																																				
+41	Ngao Bái	1504	Ngao Bái-Trảm Sa Đao	1000000	basic_damage_v	200		200																																				
+42	Hàn Thế Trung	1505	Hàn Thế Trung-Bá Hổ Đao	1000000	basic_damage_v	200		200																																				
+145	Băng Lân Tích Hoàng	1522	Băng Lân Tích Hoàng-U Băng Trảo	1000000	basic_damage_v	200		200																																				
+146	Ngân Câu Hạt Hoàng	1523	Ngân Câu Hạt Hoàng-Kim Kiềm	1000000	basic_damage_v	200		200																																				
+147	Cuồng Tông Ngao Hoàng	1524	Cuồng Tông Ngao Hoàng-Xích Hỏa Tông	1000000	basic_damage_v	200		200																																				
+43	Xích Tinh Hổ Hoàng	1506	Xích Tinh Hổ Hoàng-Bạch Hổ Trảo	1000000	basic_damage_v	200		200																																				
+44	Hám Thiên Hùng Hoàng	1507	Hám Thiên Hùng Hoàng-Bạo Quân Nha	1000000	basic_damage_v	200		200																																				
+45	Tử Bối Ngạc Hoàng	1508	Tử Bối Ngạc Hoàng-Tử Kim Lân	1000000	basic_damage_v	200		200																																				
+46	Định Hải Kim Cang	1509	Định Hải Kim Cang-Kim Cang Trạc	1000000	basic_damage_v	200		200																																				
+47	Kim Sí Bằng Hoàng	1510	Kim Sí Bằng Hoàng-Ca Lâu La Vũ	1000000	basic_damage_v	200		200																																				
+48	Ngân Giác Tê Hoàng	1511	Ngân Giác Tê Hoàng-Vọng Nguyệt Giác	1000000	basic_damage_v	200		200																																				
+49	Trương Phong	1512	Trương Phong-Thừa Phong Kiếm	1000000	basic_damage_v	200		200																																				
+50	Nam Cung Diệt	1513	Nam Cung Diệt-Bách Luyện Thủ	1000000	basic_damage_v	200		200																																				
+51	Phương Miễn	1514	Phương Miễn-Toái Tinh Kiếm	1000000	basic_damage_v	200		200																																				
+52	Đường Ảnh	1515	Đường Ảnh-Thiên Cơ Phiến	1000000	basic_damage_v	200		200																																				
+53	Thu Y Thủy	1516	Thu Y Thủy-Vân Yên Hà	1000000	basic_damage_v	200		200																																				
+54	Thiên Tinh Đạo Trưởng	1517	Thiên Tinh Đạo Trưởng-Trích Tinh Thủ	1000000	basic_damage_v	200		200																																				
+55	Yên Nhược Tuyết	1518	Yên Nhược Tuyết-Phiêu Tuyết Vân Tụ	1000000	basic_damage_v	200		200																																				
+56	Dương Hi Liệt	1519	Dương Hi Liệt-Lăng Tuyệt Kiếm	1000000	basic_damage_v	200		200																																				
+57	Thượng Quan Phi Long	1520	Thượng Quan Phi Long-Vãn Nguyệt Kiếm	1000000	basic_damage_v	200		200																																				
+58	Nạp Lan Tiềm Lẫm	1521	Nạp Lan Tiềm Lẫm-Thiên Ma Kiếm	1000000	basic_damage_v	200		200																																				
+148	Hoàng Chân Y	1525	Hoàng Chân Y-Vũ Khí Bổn Mạng	1000000	basic_damage_v	200		200																																				
+149	Lâm Triều Hoa	6799	Lâm Triều Hoa-Thương Hải Long Ngâm	1000000	basic_damage_v	200		200																																				
+150	Triệu Ân Đồng	6800	Triệu Ân Đồng·Phượng Hoàng Lai Nghi	1000000	basic_damage_v	200		200																																				
+59	Nạp Lan Chân	1931	Nạp Lan Chân-Vong Ưu	300000	basic_damage_v	100		100																																				
+60	Tiểu Ảnh Phong	1932	Tiểu Ảnh Phong-Đoạn Ngọc Kiếm	300000	basic_damage_v	100		100																																				
+61	Dương Thiết Tâm	1933	Dương Thiết Tâm-Tố Anh Trạm Kim Thương	300000	basic_damage_v	100		100																																				
+62	Liễu Tiêu Đình	1935	Liễu Tiêu Đình-Tinh Hà Thương	300000	basic_damage_v	100		100																																				
+63	Vô Tưởng	1934	Vô Tưởng-Chỉ Thủy Kiếm	300000	basic_damage_v	100		100																																				
+64	Lý Điềm Nhi	1936	Lý Điềm Nhi-Xích Hoàng Cung	300000	basic_damage_v	100		100																																				
+65	Lý Thiên Mục	1937	Lý Thiên Mục-Thiên Xu Kiếm	300000	basic_damage_v	100		100																																				
+66	Hoàn Nhan Tương	1938	Hoàn Nhan Tương	300000	basic_damage_v	100		100																																				
+67	Huyền Từ	1939	Huyền Từ-(Huyền Từ)	300000	basic_damage_v	100		100																																				
+68	Doãn Tiêu Vũ	1940	Doãn Tiêu Vũ-(Doãn Tiêu Vũ)	300000	basic_damage_v	100		100																																				
+69	Cổ Yên Nhiên	1941	Cổ Yên Nhiên-(Cổ Yên Nhiên)	300000	basic_damage_v	100		100																																				
+70	Tống Thu Thạch	1942	Tống Thu Thạch-(Tống Thu Thạch)	300000	basic_damage_v	100		100																																				
+71	Thạch Hiên Viên	1943	Thạch Hiên Viên-(Thạch Hiên Viên)	300000	basic_damage_v	100		100																																				
+72	Đường Hiểu	1944	Đường Hiểu-(Đường Hiểu)	300000	basic_damage_v	100		100																																				
+73	Song Thủ Dị Thú	1945	Song Thủ Dị Thú-Long Quy Giáp	300000	basic_damage_v	100		100																																				
+74	Bôn Diệm Báo Vương	1946	Bôn Diệm Báo Vương-Bôn Diệm Trảo	300000	basic_damage_v	100		100																																				
+75	Cửu Vĩ Hồ Vương	1947	Cửu Vĩ Hồ Vương-Thiên Hồ Vĩ	300000	basic_damage_v	100		100																																				
+76	Đường Tiêu	1948	Đường Tiêu-Thất Sát Liêm	300000	basic_damage_v	100		100																																				
+77	Tử Hiên	1949	Tử Hiên-Thính Vũ Tản	300000	basic_damage_v	100		100																																				
+78	Tường Vi	1950	Tường Vi-Tường Vi Tụ	300000	basic_damage_v	100		100																																				
+79	Trác Phi Phàm	1951	Trác Phi Phàm-Tuyệt Tình Đoạn Kiếm	300000	basic_damage_v	100		100																																				
+80	Nguyệt Minh Dao	1952	Nguyệt Minh Dao-Cán Hoa Sáo	300000	basic_damage_v	100		100																																				
+81	Nam Cung Thái Hồng	1953	Nam Cung Thái Hồng-Ngọc Lộ Kiếm	300000	basic_damage_v	100		100																																				
+82	Trương Như Mộng	1954	Trương Như Mộng-Kim Phong Kiếm	300000	basic_damage_v	100		100																																				
+83	Trương Lâm Tâm	1955	Trương Lâm Tâm-Phi Phượng Kiếm	300000	basic_damage_v	100		100																																				
+84	Phong Ngọc Thư	1956	Phong Ngọc Thư-Thúy Ngọc Thương	300000	basic_damage_v	100		100																																				
+85	Khúc Hà	1957	Khúc Hà-Tử Ngọc Xà Tụ	300000	basic_damage_v	100		100																																				
+86	Gia Luật Tị Li	1958	Gia Luật Tị Li-Hỏa Lân Trảo	300000	basic_damage_v	100		100																																				
+87	Lâm Hải	1959	Lâm Hải-Thu Phong Kiếm	300000	basic_damage_v	100		100																																				
+88	Lục Văn Long	1960	Lục Văn Long-Văn Long Đao	300000	basic_damage_v	100		100																																				
+89	Triệu Vô Song	1961	Triệu Vô Song-Vãn Hoa Kiếm	300000	basic_damage_v	100		100																																				
+90	Vô Tướng	1962	Vô Tướng-Nguyệt Nha Sản	300000	basic_damage_v	100		100																																				
+91	Triệu Tiết	1963	Triệu Tiết-Tham Lang Kích	300000	basic_damage_v	100		100																																				
+92	Thiệu Kỵ Phong	1964	Thiệu Kỵ Phong-Lưu Kim Tụ	300000	basic_damage_v	100		100																																				
+93	Hà Mộ Tuyết	1965	Hà Mộ Tuyết-Khinh Tuyết Tụ	300000	basic_damage_v	100		100																																				
+94	Triệu Thăng Quyền	1966	Triệu Thăng Quyền-Phong Tuyết Thương	300000	basic_damage_v	100		100																																				
+95	Sài Tung	1967	Sài Tung-Mặc Trúc Phiến	300000	basic_damage_v	100		100																																				

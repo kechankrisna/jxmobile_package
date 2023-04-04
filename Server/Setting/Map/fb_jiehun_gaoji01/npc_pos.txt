@@ -1,0 +1,185 @@
+Điểm xuất hiện	4107	6325
+Tân Lang	7913	6426
+Tân Nương	7912	6199
+Bàn Tiệc	3759	5859
+Bàn Tiệc	3761	6776
+Bàn Tiệc	4640	5511
+Bàn Tiệc	6074	6785
+Bàn Tiệc	6070	5839
+Bàn Tiệc	5631	5237
+Bàn Tiệc	6173	5240
+Bàn Tiệc	4591	7109
+Bàn Tiệc	5615	7376
+Bàn Tiệc	6173	7378
+Ghế Tiệc-Trái	3559	5853
+Ghế Tiệc-Trái	5872	6782
+Ghế Tiệc-Trái	5870	5834
+Ghế Tiệc-Trái	5428	5233
+Ghế Tiệc-Trái	5972	5234
+Ghế Tiệc-Trái	3557	6771
+Ghế Tiệc-Trái	4441	5506
+Ghế Tiệc-Trái	4387	7112
+Ghế Tiệc-Trái	5415	7378
+Ghế Tiệc-Trái	5976	7378
+Ghế Tiệc-Phải	3922	5851
+Ghế Tiệc-Phải	3930	6771
+Ghế Tiệc-Phải	6242	6782
+Ghế Tiệc-Phải	6241	5828
+Ghế Tiệc-Phải	6337	5233
+Ghế Tiệc-Phải	5797	5231
+Ghế Tiệc-Phải	4811	5508
+Ghế Tiệc-Phải	4774	7109
+Ghế Tiệc-Phải	5797	7378
+Ghế Tiệc-Phải	6343	7375
+Ghế Tiệc-Trên	6176	5425
+Ghế Tiệc-Trên	5634	5426
+Ghế Tiệc-Trên	4644	5696
+Ghế Tiệc-Trên	4592	7300
+Ghế Tiệc-Trên	6175	7551
+Ghế Tiệc-Trên	5617	7548
+Ghế Tiệc-Dưới	5628	5067
+Ghế Tiệc-Dưới	6180	5058
+Ghế Tiệc-Dưới	4647	5342
+Ghế Tiệc-Dưới	4592	6916
+Ghế Tiệc-Dưới	6173	7210
+Ghế Tiệc-Dưới	5613	7206
+Hoa Đồng-Trái	3925	6546
+Hoa Đồng-Trái	4292	6549
+Hoa Đồng-Trái	5676	6593
+Hoa Đồng-Trái	6204	6596
+Hoa Đồng-Trái	6756	6596
+Hoa Đồng-Phải	3930	6094
+Hoa Đồng-Phải	4300	6096
+Hoa Đồng-Phải	5679	5998
+Hoa Đồng-Phải	6229	6002
+Hoa Đồng-Phải	6764	6004
+Thổi Tiêu-Trái	5927	6594
+Thổi Tiêu-Trái	6515	6594
+Thổi Tiêu-Phải	5918	5998
+Thổi Tiêu-Phải	6519	6001
+Khua Chiêng-Trái	4112	6542
+Khua Chiêng-Phải	4111	6091
+Kiệu Hoa	3620	6310
+Nguyệt Lão	8159	6300
+Hoa Đồng Chủ Đài	8130	6565
+Hoa Đồng Chủ Đài	8134	6048
+Thương Nhân Hôn Lễ	7530	5957
+Pháo Hoa Vui Vẻ/Quả Đồng Tâm	7866	6310
+Lửa Trại	6785	6302
+Ghế Khách Mời-Trái	6946	7165
+Ghế Khách Mời-Trái	7142	7165
+Ghế Khách Mời-Trái	6945	7436
+Ghế Khách Mời-Trái	7142	7437
+Ghế Khách Mời-Trái	7337	7439
+Ghế Khách Mời-Trái	7533	7437
+Ghế Khách Mời-Trái	7336	7688
+Ghế Khách Mời-Trái	7536	7688
+Ghế Khách Mời-Trái	6948	6956
+Ghế Khách Mời-Trái	7144	6955
+Ghế Khách Mời-Trái	7339	7166
+Ghế Khách Mời-Phải	6943	5652
+Ghế Khách Mời-Phải	6943	5379
+Ghế Khách Mời-Phải	6943	5161
+Ghế Khách Mời-Phải	7123	5378
+Ghế Khách Mời-Phải	7119	5166
+Ghế Khách Mời-Phải	7296	5165
+Ghế Khách Mời-Phải	7505	5167
+Ghế Khách Mời-Phải	7295	4903
+Ghế Khách Mời-Phải	7503	4904
+Ghế Khách Mời-Phải	7126	5654
+Ghế Khách Mời-Phải	7296	5378
+Điểm đồng bộ khách	6522	6297
+Tọa độ Khách	6353	6667
+Tọa độ Khách	6765	6675
+Tọa độ Khách	6648	6669
+Tọa độ Khách	6497	6672
+Tọa độ Khách	6418	6735
+Tọa độ Khách	6572	6735
+Tọa độ Khách	6711	6732
+Tọa độ Khách	6505	6802
+Tọa độ Khách	6639	6802
+Tọa độ Khách	6775	6727
+Tọa độ Khách	6358	6741
+Tọa độ Khách	6343	5914
+Tọa độ Khách	6401	5869
+Tọa độ Khách	6532	5861
+Tọa độ Khách	6635	5863
+Tọa độ Khách	6465	5812
+Tọa độ Khách	6570	5802
+Tọa độ Khách	6329	5844
+Tọa độ Khách	6690	5836
+Tọa độ Khách	6683	5924
+Tọa độ Khách	6572	5917
+Tọa độ Khách	6460	5920
+Pháo Hoa Ngũ Sắc	7567	6652
+Pháo Hoa Ngũ Sắc	8181	6666
+Pháo Hoa Ngũ Sắc	7542	5981
+Pháo Hoa Ngũ Sắc	8161	5925
+Pháo Hoa Ngũ Sắc	7912	6881
+Pháo Hoa Ngũ Sắc	7887	5712
+Pháo Hoa Ngũ Sắc	7397	6334
+Pháo Hoa Ngũ Sắc	8181	6288
+Pháo Hoa Ngũ Sắc	7928	6506
+Pháo Hoa Ngũ Sắc	7919	6087
+Pháo Hoa Ngũ Sắc	7049	6461
+Pháo Hoa Ngũ Sắc	7049	6123
+Pháo Hoa Ngũ Sắc	6628	6001
+Pháo Hoa Ngũ Sắc	6189	6599
+Pháo Hoa Ngũ Sắc	5634	5998
+Pháo Hoa Ngũ Sắc	6184	5994
+Pháo Hoa Ngũ Sắc	5660	6607
+Pháo Hoa Ngũ Sắc	6640	6596
+Pháo Hoa Ngũ Sắc	4436	6552
+Pháo Hoa Ngũ Sắc	4440	6007
+Pháo Hoa Ngũ Sắc	5013	6482
+Pháo Hoa Ngũ Sắc	5020	6090
+Pháo Hoa Lễ	8068	6660
+Pháo Hoa Lễ	8088	5994
+Pháo Hoa Lễ	6519	6603
+Pháo Hoa Lễ	6513	5991
+Pháo Hoa Lễ	5911	6601
+Pháo Hoa Lễ	5891	5995
+Pháo Hoa Lễ	4871	6501
+Pháo Hoa Lễ	4875	6058
+Pháo Hoa Lễ	3930	6315
+Pháo Hoa Bách Niên Hảo Hợp 	7909	6295
+Pháo Hoa Tâm Tâm Tương Ấn	7915	6289
+Kẹo Hỉ	5802	6487
+Kẹo Hỉ	5884	6296
+Kẹo Hỉ	5641	6238
+Kẹo Hỉ	6059	6455
+Kẹo Hỉ	6104	6172
+Kẹo Hỉ	6408	6444
+Kẹo Hỉ	6240	6320
+Kẹo Hỉ	6400	6151
+Kẹo Hỉ	6641	6428
+Kẹo Hỉ	6711	6134
+Kẹo Hỉ	6492	6298
+Kẹo Hỉ	6855	6414
+Kẹo Hỉ	7045	6332
+Kẹo Hỉ	7675	6581
+Kẹo Hỉ	7387	6140
+Kẹo Hỉ	7462	6426
+Kẹo Hỉ	6926	6205
+Kẹo Hỉ	5784	6086
+Kẹo Hỉ	7827	5791
+Kẹo Hỉ	7879	5912
+Kẹo Hỉ	8079	5806
+Kẹo Hỉ	7509	6120
+Kẹo Hỉ	7489	6614
+Kẹo Hỉ	7847	6723
+Kẹo Hỉ	6491	6674
+Kẹo Hỉ	6554	6793
+Kẹo Hỉ	6683	6680
+Kẹo Hỉ	6460	5773
+Kẹo Hỉ	6566	5873
+Kẹo Hỉ	6683	5778
+Vào Vòng Hoa	7873	6308
+Thoát Vòng Hoa_Trái	7503	6302
+Thoát Vòng Hoa_Phải	8124	6316
+Thoát Vòng Hoa_Trên	7894	6649
+Thoát Vòng Hoa_Dưới	7871	5985
+Chứng Hôn 1	7725	6660
+Chứng Hôn 2	7980	6660
+Chứng Hôn 3	7725	5994
+Chứng Hôn 4	8010	5987

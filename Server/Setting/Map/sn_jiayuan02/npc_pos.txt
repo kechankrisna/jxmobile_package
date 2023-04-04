@@ -1,0 +1,34 @@
+Out_sn	1520	6495
+goto_sn	6171	18080
+Out_ty	5887	18062
+sn	906	3587
+sn	6251	8948
+ty	995	12577
+ty	12515	24113
+GoOut	1967	18145
+Entrance	2322	18120
+chuangong	1557	6592
+chuangong	1555	6424
+xuyuanshu	5532	21036
+PackupRange	1414	7268
+PackupRange	2767	7345
+Điểm thú cưng 1	2343	18375
+Điểm thú cưng 1	2372	18323
+Điểm thú cưng 1	2403	18275
+Điểm thú cưng 1	2422	18218
+Điểm thú cưng 1	2443	18149
+Điểm thú cưng 1	2441	18080
+Điểm thú cưng 1	2418	18004
+Điểm thú cưng 1	2385	17927
+Điểm thú cưng 1	2357	17866
+Điểm thú cưng 1	2299	17805
+Điểm thú cưng 2	5828	18234
+Điểm thú cưng 2	5812	18188
+Điểm thú cưng 2	5786	18136
+Điểm thú cưng 2	5779	18094
+Điểm thú cưng 2	5778	18038
+Điểm thú cưng 2	5792	17981
+Điểm thú cưng 2	5814	17957
+Điểm thú cưng 2	5845	17927
+Điểm thú cưng 2	5885	17910
+Điểm thú cưng 2	5885	18240

@@ -1,0 +1,159 @@
+nId	szMark	szRecordFormat	szRelation	szRepeat	nGlobal
+1	Nạp lần đầu	Nạp lần đầu	=		
+2	Cấp vip	Kiếm Hiệp %s	>=		
+3	Hạng Võ Thần Điện	Võ Thần Điện %s	<=		
+4	Toàn thân cường hóa 	Toàn thân cường hóa +%s	>=		
+5	Toàn thân khảm đầy 	Khảm 20 Đá Hồn Lv%s	>=		
+6	Quân Hàm	Quân Hàm 「%s」	=		
+7	Môn Phái Tân Vương	%s Tân Vương			
+8	Môn Phái Đại Sư Huynh	%s Đại Sư Huynh			
+9	Thủ lĩnh Bạch Hổ Đường tầng x	Lần đầu trong tuần diệt Thủ Lĩnh Bạch Hổ Đường tầng %s	>=	weekly	
+10	Hạng Chiến Trường	Lần đầu trong tuần đạt hạng 1 Chiến Trường Tống Kim	<=	weekly	
+34	Hạng Chiến Trường Liên SV	Tuần này lần đầu đạt hạng 1 Chiến Trường Liên SV	<=	weekly	
+11	Hạng Minh Chủ	Lần đầu trong tuần đạt hạng 1 Minh Chủ Võ Lâm	<=	weekly	
+12	Số tầng Thông Thiên Tháp	Lần đầu trong tuần đạt Thông Thiên Tháp tầng %s	>=	weekly	
+13	Bang Chủ Đệ Nhất Bang Hội	Bang Chủ Đệ Nhất Bang Hội			
+14	Bang Chủ Thập Đại Bang Hội	Bang Chủ Thập Đại Bang Hội			
+15	Bang Chủ Trác Việt Bang Hội	Bang Chủ Trác Việt Bang Hội			
+16	Thủ Lĩnh Đệ Nhất Bang Hội	Thủ Lĩnh Đệ Nhất Bang Hội			
+17	Thập Đại Bang Hội Thủ Lĩnh	Thập Đại Bang Hội Thủ Lĩnh			
+18	Trác Việt Bang Hội Thủ Lĩnh	Trác Việt Bang Hội Thủ Lĩnh			
+19	Bang Chủ Kim Bài	Bang Chủ Kim Bài	>=	weekly	
+20	Bang Chủ Trác Việt	Bang Chủ Trác Việt	>=	weekly	
+21	Bang Chủ Ưu Tú	Bang Chủ Ưu Tú	>=	weekly	
+22	Bang Chủ Tiêu Chuẩn	Bang Chủ Tiêu Chuẩn	>=	weekly	
+23	Bang Phó Kim Bài	Bang Phó Kim Bài	>=	weekly	
+24	Bang Phó Trác Việt	Bang Phó Trác Việt	>=	weekly	
+25	Bang Phó Ưu Tú	Bang Phó Ưu Tú	>=	weekly	
+26	Bang Phó Tiêu Chuẩn	Bang Phó Tiêu Chuẩn	>=	weekly	
+27	Trưởng Lão Kim Bài	Trưởng Lão Kim Bài	>=	weekly	
+28	Trưởng Lão Trác Việt	Trưởng Lão Trác Việt	>=	weekly	
+29	Trưởng Lão Ưu Tú	Trưởng Lão Ưu Tú	>=	weekly	
+30	Mua Quà 7 Ngày	Mua Quà 7 Ngày		nolimit	
+31	Mua Quà 30 Ngày	Mua Quà 30 Ngày		nolimit	
+32	Mua Đầu Tư	Mua Đầu Tư		nolimit	
+33	Mua Đầu Tư 2	Mua Đầu Tư 2		nolimit	
+35	Mua Đầu Tư 3	Mua Đầu Tư 3		nolimit	
+36	Chiến thắng Tâm Ma Ảo Cảnh	Chiến thắng Tâm Ma Ảo Cảnh		nolimit	
+37	BXH Chiến Trường Bách Nhân	Tuần này lần đầu đạt hạng 1 Chiến Trường Bách Nhân	<=	weekly	
+38	Mua Đầu Tư (Ngày Lễ)	Mua Đầu Tư (Ngày Lễ)		nolimit	
+39	Quà Năm Mới 4	Quà Năm Mới Như Ý		nolimit	
+40	Quà Năm Mới 3	Quà Năm Mới May Mắn		nolimit	
+41	Quà Năm Mới 2	Quà Năm Mới Vui Vẻ		nolimit	
+42	Quà Năm Mới 1	Quà Năm Mới Phát Triển		nolimit	
+43	Mua Đầu Tư 4	Mua Đầu Tư 4		nolimit	
+44	Mua Đầu Tư 5	Mua Đầu Tư 5		nolimit	
+45	Hạng 1 Chiến Trường Tháng	Nhận Hạng 1 Chiến Trường Tháng	<=	nolimit	
+46	Quần Anh Hội Toàn Thắng	Quần Anh Hội thắng 6 trận	=	weekly	
+47	Sinh Nhật Võ Lâm Truyền Kỳ	Sinh Nhật Võ Lâm Truyền Kỳ		nolimit	
+48	Quà Duyên Khởi Sinh Nhật (648) 	Mua Quà Duyên Khởi Sinh Nhật		nolimit	
+49	Quà Tình Vận Sinh Nhật (298) 	Mua Quà Tình Vận Sinh Nhật		nolimit	
+50	Quà Hiệp Tung Sinh Nhật (98) 	Mua Quà Hiệp Tung Sinh Nhật		nolimit	
+51	Quà Kiếm Ảnh Sinh Nhật (30) 	Mua Quà Kiếm Ảnh Sinh Nhật		nolimit	
+52	Hạng 1 Sơ Loại Bầu Chọn Mỹ Nhân	Bầu Chọn Mỹ Nhân Được Hạng 1 Sơ Loại		nolimit	
+53	Top 10 Sơ Loại Bầu Chọn Mỹ Nhân	Bầu Chọn Mỹ Nhân Được Top 10 Sơ Loại		nolimit	
+54	Sơ Loại Bầu Chọn Mỹ Nhân được 199 phiếu	Bầu Chọn Mỹ Nhân Sơ Loại Được 199 phiếu	>=	nolimit	
+55	Hạng 1 Chung Kết Bầu Chọn Mỹ Nhân	Bầu Chọn Mỹ Nhân Được Hạng 1 Chung kết		nolimit	
+56	Bầu Chọn Mỹ Nhân-Hạng 1 Sơ Loại (Lì Xì Toàn Server) 	Bầu Chọn Mỹ Nhân Được Hạng 1 Sơ Loại		nolimit	1
+57	Top 10 Chung Kết Bầu Chọn Mỹ Nhân (Lì Xì Toàn Server) 	Bầu Chọn Mỹ Nhân Được Top 10 Chung Kết		nolimit	1
+58	Hạng 1 Chung Kết Bầu Chọn Mỹ Nhân (Lì Xì Toàn Server) 	Bầu Chọn Mỹ Nhân Được Hạng 1 Chung kết		nolimit	1
+59	Top 10 Chung Kết Bầu Chọn Mỹ Nhân	Bầu Chọn Mỹ Nhân Được Top 10 Chung Kết		nolimit	
+60	Thông Thiên Tháp Tháng-Tầng 8	Lên Thông Thiên Tháp Tháng-Tầng 8	=	nolimit	
+61	Mua Combo Quà Mỗi Ngày 200,000 VNĐ	Mua Combo Quà Mỗi Ngày 200,000 VNĐ		nolimit	
+62	Chung kết Bầu Chọn Mỹ Nhân được 8000 phiếu	Chung Kết Bầu Chọn Mỹ Nhân được 8000 phiếu	>=	nolimit	
+63	Chung kết Bầu Chọn Mỹ Nhân được 8000 phiếu (Lì Xì Toàn Máy Chủ) 	Chung Kết Bầu Chọn Mỹ Nhân được 8000 phiếu	>=	nolimit	1
+65	Quán Quân Đại Hội Võ Lâm	Trong Đại Hội Võ Lâm đạt Quán Quân		nolimit	
+66	Bán kết Đại Hội Võ Lâm	Trong Đại Hội Võ Lâm vào Bán kết		nolimit	
+67	Top 16 Đại Hội Võ Lâm	Trong Đại Hội Võ Lâm vào Top 16		nolimit	
+68	Đại Hội Võ Lâm Tinh Anh	Trong Đại Hội Võ Lâm biểu hiện xuất sắc		nolimit	
+69	Quán quân Đại Hội Võ Lâm (Lì Xì toàn server)	Trong Đại Hội Võ Lâm đạt Quán Quân		nolimit	1
+70	Bán kết Đại Hội Võ Lâm (Lì Xì toàn server)	Trong Đại Hội Võ Lâm vào Bán kết		nolimit	1
+71	Quà Kiếm Ca (648) 	Mua Quà Kiếm Ca Giang Hồ		nolimit	
+72	Quà Kiếm Ca (298) 	Mua Quà Vũ Động Càn Khôn		nolimit	
+73	Quà Kiếm Ca (98) 	Mua Quà Trường Âm Triền Nhiễu		nolimit	
+74	Quà Kiếm Ca (30) 	Mua Quà Kiếm Khí Tung Hoành		nolimit	
+75	Thương Nhân Tây Vực (Lì Xì Toàn Máy Chủ)	Đấu giá ở Thương Nhân Tây Vực hơn 1000		nolimit	1
+76	Thương Nhân Tây Vực (Lì Xì Toàn Máy Chủ)	Đấu giá ở Thương Nhân Tây Vực hơn 2000		nolimit	1
+77	Thương Nhân Tây Vực (Lì Xì Toàn Máy Chủ)	Đấu giá ở Thương Nhân Tây Vực hơn 5000		nolimit	1
+78	Thương Nhân Tây Vực (Lì Xì Toàn Máy Chủ)	Đấu giá ở Thương Nhân Tây Vực hơn 10000		nolimit	1
+79	Thương Nhân Tây Vực (Lì Xì Toàn Máy Chủ)	Đấu giá ở Thương Nhân Tây Vực hơn 20000		nolimit	1
+80	Thương Nhân Tây Vực (Lì Xì Toàn Máy Chủ)	Đấu giá ở Thương Nhân Tây Vực hơn 50000		nolimit	1
+81	Thương Nhân Tây Vực (Lì Xì Toàn Máy Chủ)	Đấu giá ở Thương Nhân Tây Vực hơn 100000		nolimit	1
+82	Thương Nhân Tây Vực (Lì Xì Toàn Máy Chủ)	Đấu giá ở Thương Nhân Tây Vực hơn 120000		nolimit	1
+83	Thương Nhân Tây Vực (Lì Xì Toàn Máy Chủ)	Đấu giá ở Thương Nhân Tây Vực hơn 150000		nolimit	1
+84	Thương Nhân Tây Vực (Lì Xì Toàn Máy Chủ)	Đấu giá ở Thương Nhân Tây Vực hơn 180000		nolimit	1
+85	Thương Nhân Tây Vực (Lì Xì Toàn Máy Chủ)	Đấu giá ở Thương Nhân Tây Vực hơn 200000		nolimit	1
+86	Quà Nữ Thần (648)	Mua Quà Nữ Thần Quyến Rũ		nolimit	
+87	Quà Nữ Thần (298)	Mua Quà Nữ Thần Vui Vẻ 		nolimit	
+88	Quà Nữ Thần (98)	Mua Quà Nữ Thần Xinh Đẹp 		nolimit	
+89	Quà Nữ Thần (30)	Mua Quà Nữ Thần Ấm Áp 		nolimit	
+90	Tổ chức hôn lễ Trang Viên-Tình Nồng	Tổ chức hôn lễ Trang Viên-Tình Nồng	=	nolimit	
+91	Tổ chức hôn lễ Hải Tân-Lãm Nguyệt	Tổ chức hôn lễ Hải Tân-Lãm Nguyệt	=	nolimit	
+92	Tổ chức hôn lễ Thuyền-Long Phụng	Tổ chức hôn lễ Thuyền-Long Phụng	=	nolimit	
+93	Tầng 8 Thông Thiên Tháp Quý	Đạt đến Tầng 8 Thông Thiên Tháp Quý	=	nolimit	
+94	Thắng Tâm Ma Ảo Cảnh Tháng	Thắng Tâm Ma Ảo Cảnh Tháng		nolimit	
+95	Thắng Tâm Ma Ảo Cảnh Quý	Thắng Tâm Ma Ảo Cảnh Quý		nolimit	
+96	Kết hôn nửa năm	Kết Hôn nửa năm		nolimit	
+97	Mua Đầu Tư 6	Mua Đầu Tư 6		nolimit	
+98	Mua Đầu Tư 7	Mua Đầu Tư 7		nolimit	
+99	Hạng Quần Anh Hội	Đạt hạng 1 tại Quần Anh Hội	=	weekly	
+100	Hạng 1 Chiến Trường-Quý	Đạt hạng 1 Chiến Trường-Quý	<=	nolimit	
+101	Hạng 1 Chiến Trường-Năm (Bang Hội)	Đạt hạng 1 Chiến Trường-Năm	<=	nolimit	
+102	Hạng 1 Chiến Trường-Năm (Toàn Máy Chủ)	Đạt hạng 1 Chiến Trường-Năm	<=	nolimit	1
+103	Mua Đầu Tư 8	Mua Đầu Tư 8		nolimit	
+104	Mua Quà Chí Tôn 7 Ngày	Mua Quà Chí Tôn 7 Ngày		nolimit	
+105	Thông Thiên Tháp Năm-Tầng 8	Lên Thông Thiên Tháp Năm-Tầng 8	=	nolimit	
+106	Bình chọn vòng loại The Voice được 199 phiếu	Bình chọn vòng loại The Voice được 199 phiếu	>=	nolimit	
+107	Top 10 vòng loại The Voice	Trong The Voice đạt Top 10 vòng loại		nolimit	
+108	Hạng 1 vòng loại The Voice	Trong The Voice đạt hạng 1 vòng loại		nolimit	
+109	Vòng Chung Kết The Voice được 8000 phiếu	Vòng Chung Kết The Voice được 8000 phiếu	>=	nolimit	
+110	Bình chọn The Voice đạt top 3 Vòng Chung Kết	Trong The Voice đạt Top 3 Vòng Chung Kết		nolimit	
+111	Bình chọn The Voice đạt top 3 Vòng Chung Kết môn phái	Trong The Voice đạt Top 3 môn phái Vòng Chung Kết		nolimit	
+112	Bình chọn The Voice đạt quán quân Vòng Chung Kết	Trong The Voice đạt quán quân Vòng Chung Kết		nolimit	
+113	Bình chọn The Voice đạt quán quân Vòng Chung Kết môn phái	Trong The Voice đạt quán quân môn phái Vòng Chung Kết		nolimit	
+114	Bình chọn The Voice đạt quán quân Vòng Chung Kết	Trong The Voice đạt quán quân Vòng Chung Kết		nolimit	
+115	Bình chọn The Voice đạt top 10 chung kết	Trong The Voice đạt Top 10 chung kết		nolimit	
+116	Bình chọn The Voice đạt hạng 1 chung kết	Trong The Voice đạt hạng 1 chung kết		nolimit	
+117	Bình chọn The Voice đạt hạng 1 vòng loại (Lì Xì Toàn Máy Chủ)	Trong The Voice đạt hạng 1 vòng loại		nolimit	1
+118	Bình chọn The Voice đạt 8000 phiếu Vòng Chung Kết (Lì Xì Toàn Máy Chủ)	Vòng Chung Kết The Voice được 8000 phiếu	>=	nolimit	1
+119	Bình chọn The Voice đạt top 3 Vòng Chung Kết (Lì Xì Toàn Máy Chủ)	Trong The Voice đạt Top 3 Vòng Chung Kết		nolimit	1
+120	Bình chọn The Voice đạt top 3 Vòng Chung Kết môn phái (Lì Xì Toàn Máy Chủ)	Trong The Voice đạt Top 3 môn phái Vòng Chung Kết		nolimit	1
+121	Bình chọn The Voice đạt quán quân Vòng Chung Kết (Lì Xì Toàn Máy Chủ)	Trong The Voice đạt quán quân Vòng Chung Kết		nolimit	1
+122	Bình chọn The Voice đạt quán quân Vòng Chung Kết môn phái (Lì Xì Toàn Máy Chủ)	Trong The Voice đạt quán quân môn phái Vòng Chung Kết		nolimit	1
+123	Bình chọn The Voice đạt quán quân Vòng Chung Kết (Lì Xì Toàn Máy Chủ)	Trong The Voice đạt quán quân Vòng Chung Kết		nolimit	1
+124	Trong The Voice đạt Top 10 chung kết (Lì Xì Toàn Máy Chủ)	Trong The Voice đạt Top 10 chung kết		nolimit	1
+125	Trong The Voice đạt hạng 1 chung kết (Lì Xì Toàn Máy Chủ)	Trong The Voice đạt hạng 1 chung kết		nolimit	1
+126	Tuyển Chọn Mỹ Nhân nhận 8000 phiếu bầu	Tuyển Chọn Mỹ Nhân nhận 8000 phiếu bầu	>=	nolimit	
+127	Hạng 2 Chung Kết Tuyển Chọn Mỹ Nhân	Chung Kết Tuyển Chọn Mỹ Nhân giành hạng 2		nolimit	
+128	Hạng 3 Chung Kết Tuyển Chọn Mỹ Nhân	Chung Kết Tuyển Chọn Mỹ Nhân giành hạng 3		nolimit	
+129	Top 20 Chung Kết Tuyển Chọn Mỹ Nhân	Bầu Chọn Mỹ Nhân Được Top 10 Chung Kết		nolimit	
+130	Tuyển Chọn Mỹ Nhân nhận 8000 phiếu bầu (Lì Xì toàn máy chủ)	Tuyển Chọn Mỹ Nhân nhận 8000 phiếu bầu	>=	nolimit	1
+131	Hạng 2 Chung Kết Tuyển Chọn Mỹ Nhân (Lì Xì toàn máy chủ)	Chung Kết Tuyển Chọn Mỹ Nhân giành hạng 2		nolimit	1
+132	Hạng 3 Chung Kết Tuyển Chọn Mỹ Nhân (Lì Xì toàn máy chủ)	Chung Kết Tuyển Chọn Mỹ Nhân giành hạng 3		nolimit	1
+133	Top 20 Chung Kết Tuyển Chọn Mỹ Nhân (Lì Xì toàn máy chủ)	Chung Kết Tuyển Chọn Mỹ Nhân lọt vào TOP20		nolimit	1
+134	Hùng Tài Thao Lược	Thủ lĩnh trong Bang Hội Chiến biểu hiện ưu tú		nolimit	
+135	Danh Tướng Vô Song	Bang chủ trong Bang Hội Chiến biểu hiện ưu tú		nolimit	
+136	Liệu Địch Như Thần	Thủ lĩnh trong Bang Hội Chiến biểu hiện tốt		nolimit	
+137	Vạn Quân Xuất Chinh	Bang chủ trong Bang Hội Chiến biểu hiện tốt		nolimit	
+138	Kết hôn 1 năm	Kết hôn đủ 1 năm		nolimit	
+139	Thủ Lĩnh Hưng Thịnh	Thủ Lĩnh Hưng Thịnh		nolimit	
+140	Bang Chủ Hưng Thịnh	Bang Chủ Hưng Thịnh		nolimit	
+141	Thủ Lĩnh Hưng Vượng	Thủ Lĩnh Hưng Vượng		nolimit	
+142	Bang Chủ Hưng Vượng	Bang Chủ Hưng Vượng		nolimit	
+143	Năng Động Thủ Lĩnh	Năng Động Thủ Lĩnh		nolimit	
+144	Năng Động Bang Chủ	Năng Động Bang Chủ		nolimit	
+145	Mở Rương Phúc Lộc Tầng 6	Mở Rương Phúc Lộc Tầng 6		nolimit	
+146	Chỉ Huy Kim Bài	Chỉ Huy Kim Bài	>=	weekly	
+147	Chỉ Huy Trác Việt	Chỉ Huy Trác Việt	>=	weekly	
+148	Chỉ Huy Tốt	Chỉ Huy Tốt	>=	weekly	
+149	Mua Combo Quà Mỗi Ngày 500,000 VNĐ	Mua Combo Quà Mỗi Ngày 500,000 VNĐ		nolimit	
+156	20 người Múa Rồng đạt	20 người Múa Rồng đạt		nolimit	
+157	20 người Múa Rồng đạt	20 người Múa Rồng đạt		nolimit	
+158	30 người Múa Rồng đạt	30 người Múa Rồng đạt		nolimit	
+159	30 người Múa Rồng đạt	30 người Múa Rồng đạt		nolimit	
+160	50 người Múa Rồng đạt	50 người Múa Rồng đạt		nolimit	
+161	50 người Múa Rồng đạt	50 người Múa Rồng đạt		nolimit	
+162	70 người Múa Rồng đạt	70 người Múa Rồng đạt		nolimit	
+163	70 người Múa Rồng đạt	70 người Múa Rồng đạt		nolimit	
+164	100 người Múa Rồng đạt	100 người Múa Rồng đạt		nolimit	
+165	100 người Múa Rồng đạt	100 người Múa Rồng đạt		nolimit	

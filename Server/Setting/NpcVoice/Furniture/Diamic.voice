@@ -1,0 +1,7 @@
+[Network]
+GatewayIP=jxpk.hoathinh.ga
+GatewayPort=11001
+Token=szTokenNull
+
+[Sdk]
+Skip=1

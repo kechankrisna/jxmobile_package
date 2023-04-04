@@ -1,0 +1,35 @@
+TimeFrame	AwardType	AwardValue1	AwardValue2	AwardValue3	RandRate	WorldNotify	KinNotify	Name
+OpenLevel39	item	1024	1		2500			Vũ Khí T3
+OpenLevel39	item	1084	1		2500			Áo T3
+OpenLevel39	item	1034	1		2500			Dây Chuyền T3
+OpenLevel39	item	1044	1		2500			Nhẫn T3
+OpenLevel39	item	1054	1		2500			Ngọc Bội T3
+OpenLevel39	item	1064	1		2500			Hộ Thân Phù T3
+OpenLevel39	item	1074	1		2500			Nón T3
+OpenLevel39	item	1094	1		2500			Hộ Uyển T3
+OpenLevel39	item	1104	1		2500			Đai T3
+OpenLevel39	item	1114	1		2500			Giày T3
+OpenLevel39	item	785	1		6250			Chìa Khóa
+OpenLevel39	item	787	1		12500			Tàng Bảo Đồ
+OpenLevel39	item	212	1		25000			Thủy Tinh Trắng
+OpenLevel39	item	213	1		6250			Khoáng Thạch Thần Bí-Vỡ
+OpenLevel39	Coin	2000			25000			2000 Bạc
+OpenLevel39	item	1234	1		2000			Hoa Hồng
+OpenLevel39	item	1235	1		2000			Cỏ May Mắn
+OpenLevel59	item	1025	1		1250			Vũ Khí T4
+OpenLevel59	item	1085	1		1250			Áo T4
+OpenLevel59	item	1035	1		1250			Dây Chuyền T4
+OpenLevel59	item	1045	1		1250			Nhẫn T4
+OpenLevel59	item	1055	1		1250			Ngọc Bội T4
+OpenLevel59	item	1065	1		1250			Hộ Thân Phù T4
+OpenLevel59	item	1075	1		1250			Nón T4
+OpenLevel59	item	1095	1		1250			Hộ Uyển T4
+OpenLevel59	item	1105	1		1250			Đai T4
+OpenLevel59	item	1115	1		1250			Giày T4
+OpenLevel59	item	785	1		6250			Chìa Khóa
+OpenLevel59	item	787	1		12500			Tàng Bảo Đồ
+OpenLevel59	item	212	1		25000			Thủy Tinh Trắng
+OpenLevel59	item	213	1		6250			Khoáng Thạch Thần Bí-Vỡ
+OpenLevel59	Coin	2000			25000			2000 Bạc
+OpenLevel59	item	1234	1		2000			Hoa Hồng
+OpenLevel59	item	1235	1		2000			Cỏ May Mắn

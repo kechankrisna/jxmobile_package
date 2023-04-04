@@ -1,0 +1,14 @@
+Index	XPos	YPos	Text	Color	FontSize
+NpcTrapToAttack	18692	11131	Vương Thành	White	16
+ZY_GateB	11624	9405	Cổng Bắc	Gold	16
+ZY_GateN	11648	5092	Cổng Nam	Gold	16
+ZY_Longzhu_Z	13159	7279	Long Trụ-Trung	Gold	16
+ZY_Longzhu_B	14861	10191	Long Trụ-Bắc	Gold	16
+ZY_Longzhu_N	14863	4967	Long Trụ-Nam	Gold	16
+YD_attack1	4719	10048	Doanh Địa	Gold	18
+YD_attack2	4328	3979	Doanh Địa	Gold	18
+DES_GateB	11624	8905	(Đánh bại) 	White	14
+DES_GateN	11648	4590	(Đánh bại) 	White	14
+OCC_Longzhu_Z	13159	6780	(Bang Hội chiếm cứ) 	White	10
+OCC_Longzhu_B	14861	9690	(Bang Hội chiếm cứ) 	White	10
+OCC_Longzhu_N	14863	4470	(Bang Hội chiếm cứ) 	White	10

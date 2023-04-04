@@ -1,0 +1,336 @@
+MagicName	Value1	Value2	Value3	Không phải thuộc tính buff	szMagicDesc	paramDesc	CodeName
+lifemax_v	1				Cộng điểm giới hạn sinh lực	Tăng điểm	magic_lifemax_v
+lifemax_p	1				Tỉ lệ tăng sinh lực cơ bản tối đa	Tỉ lệ tăng	magic_lifemax_p
+recover_life_v	1	0			Điểm khôi phục sinh lực	Điểm hồi phục; Giãn cách hồi phục (Frame)	magic_recover_life_v
+recover_life_p	1	0			Tỉ lệ hồi phục sinh lực	Tỉ lệ hồi phục sinh lực tối đa; Giãn cách hồi phục (Frame)	magic_recover_life_p
+manamax_v	1				Cộng điểm giới hạn nội lực	Tăng điểm	magic_manamax_v
+manamax_p	1				Cộng tỉ lệ giới hạn nội lực	Tỉ lệ tăng	magic_manamax_p
+recover_mana_v	1	0			Điểm hồi phục nội lực	Điểm hồi phục; Giãn cách hồi phục (Frame)	magic_recover_mana_v
+staminamax_v	1				Điểm thể lực tối đa	Tăng điểm	magic_staminamax_v
+staminamax_p	1				Cộng tỉ lệ thể lực tối đa	Tỉ lệ tăng	magic_staminamax_p
+recover_stamina_v	1	0			Điểm hồi phục thể lực	Điểm hồi phục; Giãn cách hồi phục (Frame)	magic_recover_stamina_v
+lifereplenish_p	1				Hiệu suất hồi sinh lực	Tỉ lệ tăng	magic_lifereplenish_p
+manareplenish_p	1				Hiệu suất hồi nội lực	Tỉ lệ tăng	magic_manareplenish_p
+strength_v	1				Sức mạnh	Tăng điểm	magic_strength_v
+dexterity_v	1				Nhanh nhẹn	Tăng điểm	magic_dexterity_v
+vitality_v	1				Thể chất	Tăng điểm	magic_vitality_v
+energy_v	1				Linh hoạt	Tăng điểm	magic_energy_v
+basic_damage_v	1	0	1		Tấn công cơ bản vũ khí (Không chia nội ngoại công)	Tấn công tối thiểu: Tấn công tối đa	magic_weapon_base_damage_v
+physical_damage_v	1	0	1		Tấn công lưu động	Tấn công tối thiểu: Tấn công tối đa	magic_weapon_physical_damage_v
+runspeed_p	1				Tăng tỉ lệ di chuyển	Tỉ lệ tăng	magic_runspeed_p
+runspeed_v	1				Tăng điểm di chuyển	10 = 1 điểm tốc chạy	magic_runspeed_v
+attackspeed_v	1				Tốc độ ra đòn võ công	Điểm tốc đánh	magic_attack_speed_v
+attack_speed_p	1				Tăng tỉ lệ tốc đánh	Tỉ lệ tăng	magic_attack_speed_p
+attackrate_v	1				Phe tấn công: Điểm tấn công chính xác	Tăng điểm	magic_attackrating_v
+attackrate_p	1				Phe tấn công: Tỉ lệ tấn công chính xác	Tỉ lệ tăng	magic_attackrating_p
+defense_v	1				Tăng điểm né tránh	Tăng điểm	magic_defense_v
+defense_p	1				Tăng tỉ lệ né tránh cơ bản	Tỉ lệ tăng	magic_defense_p
+ignore_defense_v	1				Phe tấn công: Tăng điểm bỏ qua né tránh	Tăng điểm	magic_ignoredefense_v
+ignore_defense_p	1				Phe tấn công: Tăng tỉ lệ bỏ qua né tránh cuối	Tỉ lệ tăng	magic_ignoredefense_p
+deadlystrike_v	1				Phe tấn công: Bạo Kích	Tăng điểm	magic_deadlystrike_v
+deadlystrike_p	1				Tăng tỉ lệ bạo kích cơ bản phe tấn công	Tỉ lệ tăng	magic_deadlystrike_p
+deadlystrike_damage_p	1				Phe tấn công: Cộng điểm sát thương bạo kích	Tỉ lệ tăng	magic_deadlystrike_damage_p
+weaken_deadlystrike_v	1				Phe phòng thủ: Giảm bạo kích	Tăng điểm	magic_weaken_deadlystrike_v
+weaken_deadlystrike_damage_p	1				Phe phòng thủ: Giảm tỉ lệ sát thương bạo kích	Tỉ lệ tăng	magic_weaken_deadlystrike_damage_p
+metal_resist_v	1				Điểm kháng Kim	Tăng điểm	magic_metal_resist_v
+wood_resist_v	1				Điểm kháng Mộc	Tăng điểm	magic_wood_resist_v
+water_resist_v	1				Điểm kháng Thủy	Tăng điểm	magic_water_resist_v
+fire_resist_v	1				Điểm kháng Hỏa	Tăng điểm	magic_fire_resist_v
+earth_resist_v	1				Điểm kháng Thổ	Tăng điểm	magic_earth_resist_v
+all_series_resist_v	1				Tăng điểm kháng tất cả thuộc tính	Tăng điểm	magic_all_series_resist_v
+all_series_resist_p	1				Tăng tỉ lệ kháng tính cơ bản	Tỉ lệ tăng	magic_all_series_resist_p
+return_resist_p	1				Phản đòn kháng tính	Tỉ lệ tăng	magic_return_resist_p
+physics_potentialdamage_p	1				Tỉ lệ tấn công cơ bản	Tỉ lệ tăng	magic_physics_potential_damage_p
+physical_metaldamage_v	1	0	1		Sát thương hệ Kim tăng	Tấn công tối thiểu: Tấn công tối đa	magic_physicaldamage_metal_v
+physical_wooddamage_v	1	0	1		Sát thương hệ Mộc tăng	Tấn công tối thiểu: Tấn công tối đa	magic_physicaldamage_wood_v
+physical_waterdamage_v	1	0	1		Sát thương hệ Thủy tăng	Tấn công tối thiểu: Tấn công tối đa	magic_physicaldamage_water_v
+physical_firedamage_v	1	0	1		Sát thương hệ Hỏa tăng	Tấn công tối thiểu: Tấn công tối đa	magic_physicaldamage_fire_v
+physical_earthdamage_v	1	0	1		Sát thương hệ Thổ tăng	Tấn công tối thiểu: Tấn công tối đa	magic_physicaldamage_earth_v
+add_base_damage_p	1				Phe tấn công: Tăng phát huy tấn công cơ bản nhân vật (Tăng bội suất kỹ năng)	Tỉ lệ tăng	magic_add_base_damage_p
+add_skill_damage_p	1				Phe tấn công: Tăng phát huy tấn công kỹ năng (Tăng điểm kỹ năng)	Tỉ lệ tăng	magic_add_skill_damage_p
+enhance_final_damage_p	1				Tăng sát thương cuối	Tỉ lệ tăng	magic_enhance_final_damage_p
+reduce_final_damage_p	1				Sát thương cuối giảm	Tỉ lệ tăng	magic_reduce_final_damage_p
+damage4npc_p	1				Phe tấn công: Tăng sát thương đối với npc	Tỉ lệ tăng	magic_damage4npc_p
+defuse_damage	1	0			Bị tấn công giảm v1, tối đa không vượt quá v2% sát thương ban đầu	Điểm hóa giải, tỉ lệ cao nhất	magic_defuse_damage
+add_seriesstate_rate_v	1				Tăng tỉ lệ tạo thành trạng thái Ngũ Hành, căn cứ Ngũ Hành người chơi	Tăng điểm	magic_add_seriesstate_rate
+add_seriesstate_time_v	1				Tăng thời gian tạo thành trạng thái Ngũ Hành, căn cứ Ngũ Hành người chơi	Tăng điểm	magic_add_seriesstate_time
+resist_allseriesstate_time_v	1				Điều chỉnh thời gian kháng tất cả trạng thái Ngũ Hành	Điểm giảm	magic_resist_all_seriesstate_time
+resist_allseriesstate_rate_v	1				Điều chỉnh tỉ lệ kháng tất cả trạng thái Ngũ Hành	Điểm giảm	magic_resist_all_seriesstate_rate
+resist_allspecialstate_time_v	1				Điều chỉnh thời gian kháng tất cả trạng thái xấu	Điểm giảm	magic_resist_all_specialstate_time
+resist_allspecialstate_rate_v	1				Điều chỉnh tỉ lệ kháng tất cả trạng thái xấu	Điểm giảm	magic_resist_all_specialstate_rate
+invincible_b	0				Không chịu sát thương và hiệu quả tấn công bất kỳ, vô địch	Không có tham số	magic_invincible_b
+ignore_metal_resist	0	1			Với tỉ lệ p1%, bỏ qua p2% kháng Kim của mục tiêu	Tỉ lệ: Tỉ lệ bỏ qua kháng	magic_ignore_metal_resist
+ignore_wood_resist	0	1			p1% tỉ lệ bỏ qua p2% Kháng Mộc của mục tiêu	Tỉ lệ: Tỉ lệ bỏ qua kháng	magic_ignore_wood_resist
+ignore_water_resist	0	1			p1% tỉ lệ bỏ qua p2% Kháng Thủy của mục tiêu	Tỉ lệ: Tỉ lệ bỏ qua kháng	magic_ignore_water_resist
+ignore_fire_resist	0	1			p1% tỉ lệ bỏ qua p2% Kháng Hỏa của mục tiêu	Tỉ lệ: Tỉ lệ bỏ qua kháng	magic_ignore_fire_resist
+ignore_earth_resist	0	1			p1% tỉ lệ bỏ qua p2% Kháng Thổ của mục tiêu	Tỉ lệ: Tỉ lệ bỏ qua kháng	magic_ignore_resist_end
+ignore_all_resist	0	1			p1% tỉ lệ bỏ qua p2% Kháng Tất Cả của mục tiêu	Tỉ lệ: Tỉ lệ bỏ qua kháng	magic_ignore_all_resist
+ignore_metal_resist_v	0	1			p1% tỉ lệ bỏ qua p2 điểm Kháng Kim của mục tiêu	Tỉ lệ: Điểm Bỏ Qua Kháng	magic_ignore_metal_resist_v
+ignore_wood_resist_v	0	1			p1% tỉ lệ bỏ qua p2 điểm Kháng Mộc của mục tiêu	Tỉ lệ: Điểm Bỏ Qua Kháng	magic_ignore_wood_resist_v
+ignore_water_resist_v	0	1			p1% tỉ lệ bỏ qua p2 điểm Kháng Thủy của mục tiêu	Tỉ lệ: Điểm Bỏ Qua Kháng	magic_ignore_water_resist_v
+ignore_fire_resist_v	0	1			p1% tỉ lệ bỏ qua p2 điểm Kháng Hỏa của mục tiêu	Tỉ lệ: Điểm Bỏ Qua Kháng	magic_ignore_fire_resist_v
+ignore_earth_resist_v	0	1			p1% tỉ lệ bỏ qua p2 điểm Kháng Thổ của mục tiêu	Tỉ lệ: Điểm Bỏ Qua Kháng	magic_ignore_resist_v_end
+ignore_all_resist_v	0	1			p1% tỉ lệ bỏ qua p2 điểm Kháng Tất Cả của mục tiêu	Tỉ lệ: Điểm Bỏ Qua Kháng	magic_ignore_all_resist_v
+reduce_recive_npc_damage_p	1				??? Chịu sát thương thêm của npc (Trong code chưa phán đoán npc)	Tỉ lệ tăng	magic_reduce_recive_npc_damage_p
+steallife_p	1				Phe tấn công: Sát thương chuyển thành sinh lực	Tỉ lệ chuyển hóa	magic_steallife_p
+stealmana_p	1				Phe tấn công: Sát thương chuyển thành nội lực	Tỉ lệ chuyển hóa	magic_stealmana_p
+stealstamina_p	1				Phe tấn công: Sát thương chuyển thành thể lực	Tỉ lệ chuyển hóa	magic_stealstamina_p
+meleedamagereturn_v	1				Điểm phản đòn sát thương khi chịu tấn công gần	Tăng điểm	magic_meleedamage_return_v
+meleedamagereturn_p	1				Tỉ lệ phản đòn sát thương khi chịu tấn công gần	Tỉ lệ tăng	magic_meleedamage_return_p
+rangedamagereturn_v	1				Điểm phản đòn sát thương khi chịu tấn công tầm xa	Tăng điểm	magic_rangedamage_return_v
+rangedamagereturn_p	1				Tỉ lệ phản đòn sát thương khi chịu tấn công tầm xa	Tỉ lệ tăng	magic_rangedamage_return_p
+metal_resist_p	1				Tỉ lệ phần vạn phòng thủ thuộc tính Kim	Tỉ lệ phần vạn tăng	magic_metal_resist_p
+wood_resist_p	1				Tỉ lệ phần vạn phòng thủ thuộc tính Mộc	Tỉ lệ phần vạn tăng	magic_wood_resist_p
+water_resist_p	1				Tỉ lệ phần vạn phòng thủ thuộc tính Thủy	Tỉ lệ phần vạn tăng	magic_water_resist_p
+fire_resist_p	1				Tỉ lệ phần vạn phòng thủ thuộc tính Hỏa	Tỉ lệ phần vạn tăng	magic_fire_resist_p
+earth_resist_p	1				Tỉ lệ phần vạn phòng thủ thuộc tính thổ	Tỉ lệ phần vạn tăng	magic_earth_resist_p
+droprate_p	1				Tỉ lệ tăng diệt quái rơi	Tỉ lệ tăng	magic_droprate_p
+enhance_exp_p	1				Tỉ lệ tăng EXP	Tỉ lệ tăng	magic_expenhance_p
+spe_npchurt	0	0	0		???		magic_spe_npchurt
+series_enhance_v	1				Phe công: Ngũ Hành cường hóa	Điểm	magic_series_enhance_v
+series_abate_v	1				Phe thủ: Ngũ Hành nhược hóa	Điểm	magic_series_abate_v
+target_player_dmg_p	1				Tăng sát thương người chơi chọn	Tỉ lệ	magic_target_player_dmg_p
+target_dmg_p	1				Tăng sát thương mục tiêu chọn	Tỉ lệ	magic_target_dmg_p
+npc_ext_miss	1				Điểm né tránh npc thêm	Điểm	magic_npc_ext_miss
+special_dmg_p	1				Người tấn công tăng sát thương với mục tiêu có đánh dấu special_dmg_taget	Tỉ lệ	magic_special_dmg_p
+special_dmg_taget	0				Đánh dấu	1	magic_special_dmg_taget
+melee_dmg_p	1				Sát thương cận chiến phải chịu tăng	Tỉ lệ	magic_melee_dmg_p
+remote_dmg_p	1				Sát thương tầm xa phải chịu tăng	Tỉ lệ	magic_remote_dmg_p
+miss_remote_rate	1				Hệ số né tránh hoàn toàn tầm xa (Tỉ lệ né tránh = v/(v+500))	Hệ số né tránh	magic_miss_remote_rate
+stealdmg_shield	1				Miễn dịch sát thương, chuyển hóa sát thương bị chịu thành hồi phục sinh lực	Tỉ lệ chuyển hóa	magic_stealdmg_shield
+recdot_metal_p	1				Khiến mục tiêu sát thương hệ Kim dot phải chịu tăng	Tỉ lệ tăng	magic_recdot_metal_p
+recdot_wood_p	1				Khiến mục tiêu sát thương hệ Mộc dot phải chịu tăng	Tỉ lệ tăng	magic_recdot_wood_p
+recdot_water_p	1				Khiến mục tiêu sát thương hệ Thủy dot phải chịu tăng	Tỉ lệ tăng	magic_recdot_water_p
+recdot_fire_p	1				Khiến mục tiêu sát thương hệ Hỏa dot phải chịu tăng	Tỉ lệ tăng	magic_recdot_fire_p
+recdot_earth_p	1				Khiến mục tiêu sát thương hệ Thổ dot phải chịu tăng	Tỉ lệ tăng	magic_recdot_p_end
+steallife_resist_v	1				Phe phòng thủ: Điểm chống Hút Sinh Lực	Điểm	magic_steallife_resist_v
+steallife_resist_p	1				Kháng hút sinh lực (p*(1-p))	Tỉ lệ kháng tính	magic_steallife_resist_p
+miss_alldmg_v	1				Né tránh hoàn toàn (v/(v+500))	Hệ số né tránh	magic_miss_alldmg_v
+exp_coin_contrib	1	1	1		EXP, Bạc, cống hiến tăng	EXP tăng; Bạc tăng; Cống hiến tăng	magic_exp_coin_contrib
+playerdmg_npc_p	1				Sát thương bị chịu từ người chơi tăng	Tỉ lệ tăng	magic_playerdmg_npc_p
+damage4player_p	1				Sát thương gây cho người chơi tăng	Tỉ lệ tăng	magic_damage4player_p
+ignore_defense_vp	1				Tỉ lệ bỏ qua né tránh cơ bản	Tỉ lệ	magic_ignore_defense_vp
+ignore_all_resist_vp	1				Tỉ lệ bỏ qua kháng tính cơ bản	Tỉ lệ	magic_ignore_all_resist_vp
+ignore_deadlystrike_vp	1				Tỉ lệ bỏ qua bạo kích cơ bản	Tỉ lệ	magic_ignore_deadlystrike_vp
+magicshield	1	0			Tỉ lệ hộ thuẫn nhanh nhẹn đỡ sát thương	Tỉ lệ nhanh nhẹn; frame duy trì	magic_magicshield
+magic_fixshield	1	0			Điểm giảm sát thương (Thuẫn)	Điểm triệt tiêu; frame duy trì	magic_magic_fixshield
+autoskill	0	0			autoskill buff	ID kỹ năng treo; cấp kỹ năng	magic_autoskill
+autoskill2	0	0			autoskill buff	ID kỹ năng treo; cấp kỹ năng	magic_autoskill2
+autoskill3	0	0			autoskill buff	ID kỹ năng treo; cấp kỹ năng	magic_autoskill3
+autoskill4	0	0			autoskill buff	ID kỹ năng treo; cấp kỹ năng	magic_autoskill4
+autoskill5	0	0			autoskill buff	ID kỹ năng treo; cấp kỹ năng	magic_autoskill5
+fightpower_v1	1				Lực chiến tăng	Điểm	magic_fightpower_v1
+fightpower_v2	1				Lực chiến tăng	Điểm	magic_fightpower_v2
+fightpower_v3	1				Lực chiến tăng	Điểm	magic_fightpower_v3
+fightpower_v4	1				Lực chiến tăng	Điểm	magic_fightpower_v4
+fightpower_v5	1				Lực chiến tăng	Điểm	magic_fightpower_v5
+ignoreattackontime	0	0			Mỗi p1 khung hình bỏ qua p2 khung hình tấn công (Nhiều cái độc lập sẽ không xung đột)	Giãn cách (frame); bỏ qua frame tấn công	magic_ignoreattackontime
+ignore_skillstate1	0				Né tránh và khi kết thúc xóa buff chỉ định	ID kỹ năng buff né tránh	magic_ignore_skillstate1
+ignore_skillstate2	0				Né tránh và khi kết thúc xóa buff chỉ định	ID kỹ năng buff né tránh	magic_ignore_skillstate2
+ignore_skillstate3	0				Né tránh và khi kết thúc xóa buff chỉ định	ID kỹ năng buff né tránh	magic_ignore_skillstate3
+ignore_series_state	0				Xóa và miễn dịch hiệu quả thuộc tính	Không có tham số	magic_ignore_series_state
+ignore_abnor_state	0				Giải trừ và miễn dịch trạng thái tiêu cực	Không có tham số	magic_ignore_abnor_state
+rand_ignoreskill	0	0	0		Xóa ngay n kỹ năng phong cách đặc biệt, tỉ lệ nhất định miễn dịch kỹ năng phong cách này	Tỉ lệ tỉ lệ: Số lượng: Mã số phong cách kỹ năng	magic_rand_ignoreskill
+vitality_recover_life	1	0			Mỗi n frame hồi phục tỉ lệ sinh lực thể chất	Tỉ lệ thể chất; Giãn cách hồi phục	magic_vitality_recover_life
+protected	0				Tự bảo vệ	Phải không	magic_protected
+shapeshift	0				Biến thân	Id biến thân npc; không thay đổi ngoại hình	magic_shapeshift
+breakhide	0				??? Phá Ẩn Thân		magic_breakhide
+reverse_hide	0				Người bị tấn công tạm thời không thể ẩn thân	0	magic_reverse_hide
+super_hide	0				Ẩn Thân Cường Lực		magic_super_hide
+end_breakhide	0				???buff kết thúc phá ẩn thân		magic_end_breakhide
+certainly_hit	0				Khi bị tấn công chắc chắn chính xác	Không có tham số	magic_certainly_hit
+link_skill_buff	0				Trong liên chiêu duy trì thuộc tính ma pháp BUFF hiện tại	Không có tham số	magic_link_skill_buff
+locked_state	0	0	0		Cấm di chuyển, thi triển kỹ năng, dùng đạo cụ	Có không; có không; có không	magic_locked
+forbid_recover	0				Trị liệu vô hiệu	Phải không	magic_forbid_recover
+forbid_jump	0				Cấm khinh công	Không	magic_forbid_jump
+lifecurmax_p	1				Tăng tỉ lệ tổng sinh lực tối đa	Tỉ lệ tăng	magic_lifecurmax_p
+flag_attack_npc	0				Đánh dấu thời gian (Chỉ bản thân thấy, Tàng Kiếm trước đây bức phá ưu tiên bức phá flag)	Đánh dấu frame	magic_flag_attack_npc
+ignore_dmgskill	1				Tỉ lệ né tránh kỹ năng phong cách đặc biệt	Tỉ lệ tỉ lệ phần vạn; id phong cách	magic_ignore_dmgskill
+add_skillflaglevel	0	1			Cấp kỹ năng loại chỉ định +1	Loại đánh dấu; Cấp tăng	magic_add_skillflaglevel
+dotdamage_metal	0	0	0		Phe tấn công: Gây sát thương hệ Kim kéo dài cho mục tiêu	Phát huy tấn công cơ bản %; điểm tấn công hệ X; giãn cách sát thương	magic_dotdamage_metal
+dotdamage_wood	0	0	0		Phe tấn công: Gây sát thương hệ Mộc kéo dài cho mục tiêu	Phát huy tấn công cơ bản %; điểm tấn công hệ X; giãn cách sát thương	magic_dotdamage_wood
+dotdamage_water	0	0	0		Phe tấn công: Gây sát thương hệ Thủy kéo dài cho mục tiêu	Phát huy tấn công cơ bản %; điểm tấn công hệ X; giãn cách sát thương	magic_dotdamage_water
+dotdamage_fire	0	0	0		Phe tấn công: Gây sát thương hệ Hỏa kéo dài cho mục tiêu	Phát huy tấn công cơ bản %; điểm tấn công hệ X; giãn cách sát thương	magic_dotdamage_fire
+dotdamage_earth	0	0	0		Phe tấn công: Gây sát thương hệ Thổ kéo dài cho mục tiêu	Phát huy tấn công cơ bản %; điểm tấn công hệ X; giãn cách sát thương	magic_dotdamage_earth
+dotdamage_holy	0	0	0		Phe tấn công: Gây sát thương Thần Thánh kéo dài cho mục tiêu	Phát huy tấn công cơ bản %; điểm tấn công hệ X; giãn cách sát thương	magic_dotdamage_end
+dotdamage_maxlife_p	1	0	1		Phe tấn công: Gây tổn thất tỷ lệ sinh lực kéo dài cho mục tiêu	Tỉ lệ; giãn cách; điểm sát thương tối đa	magic_dotdamage_maxlife_p
+skill_ignore_npchurt	0				Không bị npchurt ảnh hưởng đúng không	Phải không	magic_skill_ignore_npchurt
+add_skill_level	0	1	0		Tăng cấp kỹ năng chỉ định	ID kỹ năng; Tăng cấp kỹ năng; Khi không có kỹ năng này có phải tự động có hiệu lực không	magic_skilladdition_addskilllevel
+add_skill_level2	0	1	0		Tăng cấp kỹ năng chỉ định	ID kỹ năng; Tăng cấp kỹ năng; Khi không có kỹ năng này có phải tự động có hiệu lực không	magic_skilladdition_addskilllevel2
+add_skill_level3	0	1	0		Tăng cấp kỹ năng chỉ định	ID kỹ năng; Tăng cấp kỹ năng; Khi không có kỹ năng này có phải tự động có hiệu lực không	magic_skilladdition_addskilllevel3
+add_skill_level4	0	1	0		Tăng cấp kỹ năng chỉ định	ID kỹ năng; Tăng cấp kỹ năng; Khi không có kỹ năng này có phải tự động có hiệu lực không	magic_skilladdition_addskilllevel4
+add_skill_level5	0	1	0		Tăng cấp kỹ năng chỉ định	ID kỹ năng; Tăng cấp kỹ năng; Khi không có kỹ năng này có phải tự động có hiệu lực không	magic_skilladdition_addskilllevel5
+add_skill_level6	0	1	0		Tăng cấp kỹ năng chỉ định	ID kỹ năng; Tăng cấp kỹ năng; Khi không có kỹ năng này có phải tự động có hiệu lực không	magic_skilladdition_addskilllevel6
+addstartskill	0	0	0		Thiết lập startskill cho kỹ năng chỉ định	ID kỹ năng; id startskill; cấp kỹ năng	magic_skilladdition_addstartskill
+addstartskill2	0	0	0		Thiết lập startskill cho kỹ năng chỉ định	ID kỹ năng; id startskill; cấp kỹ năng	magic_skilladdition_addstartskill2
+addstartskill3	0	0	0		Thiết lập startskill cho kỹ năng chỉ định	ID kỹ năng; id startskill; cấp kỹ năng	magic_skilladdition_addstartskill3
+addchildskill1	0	0	0		???	ID kỹ năng; id childskill	magic_skilladdition_addchildskill1
+addchildskill2	0	0	0		???	ID kỹ năng; id childskill	magic_skilladdition_addchildskill2
+addchildskill3	0	0	0		???	ID kỹ năng; id childskill	magic_skilladdition_addchildskill3
+addchildskill4	0	0	0		???	ID kỹ năng; id childskill	magic_skilladdition_addchildskill4
+addaction_event1	0	0			Thay kỹ năng a thành kỹ năng b	Kỹ năng gốc; Kỹ năng sau khi đổi	magic_skilladdition_action_event1
+addaction_event2	0	0			Thay kỹ năng a thành kỹ năng b	Kỹ năng gốc; Kỹ năng sau khi đổi	magic_skilladdition_action_event2
+addaction_event3	0	0			Thay kỹ năng a thành kỹ năng b	Kỹ năng gốc; Kỹ năng sau khi đổi	magic_skilladdition_action_event3
+addaction_event4	0	0			Thay kỹ năng a thành kỹ năng b	Kỹ năng gốc; Kỹ năng sau khi đổi	magic_skilladdition_action_event4
+add_hitskill1	0	0	0		Thiết lập hitskill cho kỹ năng chỉ định	ID kỹ năng; id hitskill; cấp kỹ năng	magic_skilladdition_hitskill1
+add_hitskill2	0	0	0		Thiết lập hitskill cho kỹ năng chỉ định	ID kỹ năng; id hitskill; cấp kỹ năng	magic_skilladdition_hitskill2
+add_hitskill3	0	0	0		Thiết lập hitskill cho kỹ năng chỉ định	ID kỹ năng; id hitskill; cấp kỹ năng	magic_skilladdition_hitskill3
+add_ms_magic1	0	0	0		???		magic_ms_coll_update_magic1
+add_ms_magic2	0	0	0		???		magic_ms_coll_update_magic2
+add_collskill1	0	0	0		Thiết lập collskill cho kỹ năng chỉ định	ID kỹ năng; id collskill; cấp kỹ năng	magic_skilladdition_collskill1
+add_collskill2	0	0	0		Thiết lập collskill cho kỹ năng chỉ định	ID kỹ năng; id collskill; cấp kỹ năng	magic_skilladdition_collskill2
+add_melee_float	0	0	0		Thiết lập kỹ năng chỉ định là có thể chọn không trung	ID kỹ năng	magic_skilladdition_melee_float
+add_hit_float1	0	0	0		Thiết lập kỹ năng chỉ định là có thể đánh trúng không trung	ID kỹ năng	magic_skilladdition_hit_float1
+add_hit_float2	0	0	0		Thiết lập kỹ năng chỉ định là có thể đánh trúng không trung	ID kỹ năng	magic_skilladdition_hit_float2
+add_hit_float3	0	0	0		Thiết lập kỹ năng chỉ định là có thể đánh trúng không trung	ID kỹ năng	magic_skilladdition_hit_float3
+add_mult_proc_sate1	0	0	0		Dựa vào số người xung quanh cộng dồn buff	ID kỹ năng; số tầng cộng dồn; bản thân là bán kính ô tâm vòng tròn	magic_mult_process_state1
+add_mult_proc_sate2	0	0	0		Dựa vào số người xung quanh cộng dồn buff	ID kỹ năng; số tầng cộng dồn; bản thân là bán kính ô tâm vòng tròn	magic_mult_process_state2
+add_mult_proc_sate3	0	0	0		Dựa vào số người xung quanh cộng dồn buff	ID kỹ năng; số tầng cộng dồn; bản thân là bán kính ô tâm vòng tròn	magic_mult_process_state3
+add_mult_proc_sate4	0	0	0		Dựa vào số người xung quanh cộng dồn buff	ID kỹ năng; số tầng cộng dồn; bản thân là bán kính ô tâm vòng tròn	magic_mult_process_state4
+superposemagic	0	0	0		Giới hạn số tầng cộng dồn buff kỹ năng	0	magic_skilladdition_superpose_magic
+add_steallife_p	0	1	0		Kỹ năng chỉ định, khi gây sát thương lấy tỉ lệ phần vạn sinh lực	ID kỹ năng; tỉ lệ phần vạn	magic_skilladdition_steallife_p
+deccdtime	0	1	0		Giảm chờ ban đầu của kỹ năng	ID kỹ năng; Giảm frame	magic_skilladdition_deccdtime
+addpowerwhencol	0	1	0		Tăng sát thương Đạn Xuyên Thấu	ID kỹ năng; tỉ lệ sát thương tăng sau khi Xuyên Thấu	magic_skilladdition_addpowerwhencol
+addpowerwhencol1	0	1	0		Tăng sát thương Đạn Xuyên Thấu	ID kỹ năng; tỉ lệ sát thương tăng sau khi Xuyên Thấu	magic_skilladdition_addpowerwhencol1
+addpowerwhencol2	0	1	0		Tăng sát thương Đạn Xuyên Thấu	ID kỹ năng; tỉ lệ sát thương tăng sau khi Xuyên Thấu	magic_skilladdition_addpowerwhencol2
+addpowerwhencol3	0	1	0		Tăng sát thương Đạn Xuyên Thấu	ID kỹ năng; tỉ lệ sát thương tăng sau khi Xuyên Thấu	magic_skilladdition_addpowerwhencol3
+addskillhidetime	0	1	0		Tăng thời gian ẩn thân kỹ năng chỉ định	ID kỹ năng; Tăng frame ẩn thân	magic_skilladdition_addhidetime
+userdesc_000	0	0	0		Id kỹ năng script ảo (Dùng khi tạo kỹ năng con hoặc miêu tả giả)	Id kỹ năng script ảo kỹ năng 1; Id kỹ năng script ảo kỹ năng 2; Id kỹ năng script ảo kỹ năng 3	magic_only_show_begin
+add_igdefense_p1	0	1	0		Kỹ năng chỉ định tăng bỏ qua % né tránh cơ bản của địch	0	magic_skilladdition_ignoredefense_p1
+add_igdefense_p2	0	1	0		Kỹ năng chỉ định tăng bỏ qua % né tránh cơ bản của địch	0	magic_skilladdition_ignoredefense_p2
+add_igdefense_p3	0	1	0		Kỹ năng chỉ định tăng bỏ qua % né tránh cơ bản của địch	0	magic_skilladdition_ignoredefense_p3
+add_igdefense_p4	0	1	0		Kỹ năng chỉ định tăng bỏ qua % né tránh cơ bản của địch	0	magic_skilladdition_ignoredefense_p4
+add_igdefense_v1	0	1	0		Kỹ năng chỉ định tăng bỏ qua điểm né tránh của địch	0	magic_skilladdition_ignoredefense_v1
+add_igdefense_v2	0	1	0		Kỹ năng chỉ định tăng bỏ qua điểm né tránh của địch	0	magic_skilladdition_ignoredefense_v2
+add_igdefense_v3	0	1	0		Kỹ năng chỉ định tăng bỏ qua điểm né tránh của địch	0	magic_skilladdition_ignoredefense_v3
+add_state_time1	0	1	0		Tăng thời gian duy trì BUFF kỹ năng	0	magic_skilladdition_add_state_time1
+add_state_time2	0	1	0		Tăng thời gian duy trì BUFF kỹ năng	0	magic_skilladdition_add_state_time2
+add_state_time3	0	1	0		Tăng thời gian duy trì BUFF kỹ năng	0	magic_skilladdition_add_state_time3
+add_state_time4	0	1	0		Tăng thời gian duy trì BUFF kỹ năng	0	magic_skilladdition_add_state_time4
+add_usebasedmg_p1	0	1	0		Tăng tấn công kỹ năng chỉ định %	0	magic_skilladdition_add_usebasedamage_p1
+add_usebasedmg_p2	0	1	0		Tăng tấn công kỹ năng chỉ định %	0	magic_skilladdition_add_usebasedamage_p2
+add_usebasedmg_p3	0	1	0		Tăng tấn công kỹ năng chỉ định %	0	magic_skilladdition_add_usebasedamage_p3
+add_usebasedmg_p4	0	1	0		Tăng tấn công kỹ năng chỉ định %	0	magic_skilladdition_add_usebasedamage_p4
+add_deadlystrike_v1	0	1	0		Tăng điểm bạo kích kỹ năng chỉ định	0	magic_skilladdition_add_deadlystrike_v1
+add_deadlystrike_v2	0	1	0		Tăng điểm bạo kích kỹ năng chỉ định	0	magic_skilladdition_add_deadlystrike_v2
+add_deadlystrike_v3	0	1	0		Tăng điểm bạo kích kỹ năng chỉ định	0	magic_skilladdition_add_deadlystrike_v3
+add_deadlystrike_v4	0	1	0		Tăng điểm bạo kích kỹ năng chỉ định	0	magic_skilladdition_add_deadlystrike_v4
+add_deadlydmg_p1	0	1	0		Tăng sát thương bạo kích kỹ năng chỉ định %	0	magic_skilladdition_add_deadlydmg_p1
+add_deadlydmg_p2	0	1	0		Tăng sát thương bạo kích kỹ năng chỉ định %	0	magic_skilladdition_add_deadlydmg_p2
+add_deadlydmg_p3	0	1	0		Tăng sát thương bạo kích kỹ năng chỉ định %	0	magic_skilladdition_add_deadlydmg_p3
+add_deadlydmg_p4	0	1	0		Tăng sát thương bạo kích kỹ năng chỉ định %	0	magic_skilladdition_add_deadlydmg_p4
+add_hurt_r	0	1	0		Tăng tỉ lệ bị thương kỹ năng chỉ định, cần kỹ năng gốc có Bị Thương	0	magic_skilladdition_add_spe_r_begin
+add_hurt_t	0	1	0		Tăng thời gian bị thương kỹ năng chỉ định, cần kỹ năng gốc có Bị Thương	0	magic_skilladdition_add_spe_t_begin
+addms_speed1	0	1			Tăng tốc độ Đạn bay	ID kỹ năng; tăng tốc độ Đạn	magic_skilladdition_ms_speed1
+addms_speed2	0	1			Tăng tốc độ Đạn bay	ID kỹ năng; tăng tốc độ Đạn	magic_skilladdition_ms_speed2
+addms_speed3	0	1			Tăng tốc độ Đạn bay	ID kỹ năng; tăng tốc độ Đạn	magic_skilladdition_ms_speed3
+addms_speed4	0	1			Tăng tốc độ Đạn bay	ID kỹ năng; tăng tốc độ Đạn	magic_skilladdition_ms_speed4
+addms_hitnpc_c1	0	1			Tăng số lượng tấn công của Đạn với NPC	ID kỹ năng; Số lượng tăng	magic_skilladdition_ms_hitnpc_c1
+addms_hitnpc_c2	0	1			Tăng số lượng tấn công của Đạn với NPC	ID kỹ năng; Số lượng tăng	magic_skilladdition_ms_hitnpc_c2
+addms_hitnpc_c3	0	1			Tăng số lượng tấn công của Đạn với NPC	ID kỹ năng; Số lượng tăng	magic_skilladdition_ms_hitnpc_c3
+addms_hitplayer_c1	0	1			Tăng số lượng tấn công của Đạn với người chơi	ID kỹ năng; Số lượng tăng	magic_skilladdition_ms_hitplayer_c1
+addms_hitplayer_c2	0	1			Tăng số lượng tấn công của Đạn với người chơi	ID kỹ năng; Số lượng tăng	magic_skilladdition_ms_hitplayer_c2
+addms_hitplayer_c3	0	1			Tăng số lượng tấn công của Đạn với người chơi	ID kỹ năng; Số lượng tăng	magic_skilladdition_ms_hitplayer_c3
+addms_hittotal_c1	0	1			Tăng số lượng tấn công của Đạn với (người chơi +NPC)	ID kỹ năng; Số lượng tăng	magic_skilladdition_ms_hittotal_c1
+addms_hittotal_c2	0	1			Tăng số lượng tấn công của Đạn với (người chơi +NPC)	ID kỹ năng; Số lượng tăng	magic_skilladdition_ms_hittotal_c2
+addms_hittotal_c3	0	1			Tăng số lượng tấn công của Đạn với (người chơi +NPC)	ID kỹ năng; Số lượng tăng	magic_skilladdition_ms_hittotal_c3
+addms_life1	0	1			Tăng thời gian Đạn sinh tồn	ID kỹ năng; tuổi thọ Đạn tăng	magic_skilladdition_ms_life1
+addms_life2	0	1			Tăng thời gian Đạn sinh tồn	ID kỹ năng; tuổi thọ Đạn tăng	magic_skilladdition_ms_life2
+addms_life3	0	1			Tăng thời gian Đạn sinh tồn	ID kỹ năng; tuổi thọ Đạn tăng	magic_skilladdition_ms_life3
+addms_dmg_range1	0	1			Tăng phạm vi tấn công của Đạn	ID kỹ năng; bán kính tăng	magic_skilladdition_ms_dmg_range1
+addms_dmg_range2	0	1			Tăng phạm vi tấn công của Đạn	ID kỹ năng; bán kính tăng	magic_skilladdition_ms_dmg_range2
+addms_dmg_range3	0	1			Tăng phạm vi tấn công của Đạn	ID kỹ năng; bán kính tăng	magic_skilladdition_ms_dmg_range3
+add_shield	0	1			Tăng hệ số nhanh nhẹn của hộ thuẫn	ID kỹ năng; hệ số nhanh nhẹn tăng	magic_skilladdition_shield
+add_adddmgbydist	0	1			Tăng hệ số sát thương của adddamagebydist	ID kỹ năng; hệ số tăng	magic_skilladdition_adddmgbydist
+add_addstuntimedist	0	1			Tăng hệ số thời gian của addstuntime_bydist	ID kỹ năng; hệ số tăng	magic_skilladdition_addstuntimedist
+addcall_npclife	0	1			Tăng tỉ lệ sinh lực của npc triệu hồi	ID kỹ năng triệu hồi thú cưng; sinh lực tăng	magic_skilladdition_call_npclife_p
+addcall_npcdmg	0	1			Tăng tỉ lệ sinh lực của npc triệu hồi	ID kỹ năng triệu hồi thú cưng; sinh lực tăng	magic_skilladdition_call_npcdamage_p
+add_allfaction	1				Tất cả kỹ năng môn phái tăng n cấp	Cấp tăng	magic_skilladdition_add_allfaction_level
+add_metaldamage_v1	0	1			Tăng sát thương điểm kỹ năng tối thiểu	ID kỹ năng; sát thương tăng	magic_skilladdition_metaldamage_v1
+add_wooddamage_v1	0	1			Tăng sát thương điểm kỹ năng tối thiểu	ID kỹ năng; sát thương tăng	magic_skilladdition_wooddamage_v1
+add_waterdamage_v1	0	1			Tăng sát thương điểm kỹ năng tối thiểu	ID kỹ năng; sát thương tăng	magic_skilladdition_waterdamage_v1
+add_firedamage_v1	0	1			Tăng sát thương điểm kỹ năng tối thiểu	ID kỹ năng; sát thương tăng	magic_skilladdition_firedamage_v1
+add_earthdamage_v1	0	1			Tăng sát thương điểm kỹ năng tối thiểu	ID kỹ năng; sát thương tăng	magic_skilladdition_earthdamage_v1
+add_holydamage_v1	0	1			Tăng sát thương điểm kỹ năng tối thiểu	ID kỹ năng; sát thương tăng	magic_skilladdition_holydamage_v1
+add_metaldamage_v2	0	1			Tăng tham số sát thương điểm kỹ năng 2 (Thực tế không có ý nghĩa game)	ID kỹ năng; sát thương tăng	magic_skilladdition_metaldamage_v2
+add_wooddamage_v2	0	1			Tăng tham số sát thương điểm kỹ năng 2 (Thực tế không có ý nghĩa game)	ID kỹ năng; sát thương tăng	magic_skilladdition_wooddamage_v2
+add_waterdamage_v2	0	1			Tăng tham số sát thương điểm kỹ năng 2 (Thực tế không có ý nghĩa game)	ID kỹ năng; sát thương tăng	magic_skilladdition_waterdamage_v2
+add_firedamage_v2	0	1			Tăng tham số sát thương điểm kỹ năng 2 (Thực tế không có ý nghĩa game)	ID kỹ năng; sát thương tăng	magic_skilladdition_firedamage_v2
+add_earthdamage_v2	0	1			Tăng tham số sát thương điểm kỹ năng 2 (Thực tế không có ý nghĩa game)	ID kỹ năng; sát thương tăng	magic_skilladdition_earthdamage_v2
+add_holydamage_v2	0	1			Tăng tham số sát thương điểm kỹ năng 2 (Thực tế không có ý nghĩa game)	ID kỹ năng; sát thương tăng	magic_skilladdition_holydamage_v2
+add_metaldamage_v3	0	1			Tăng sát thương điểm kỹ năng tối đa	ID kỹ năng; sát thương tăng	magic_skilladdition_metaldamage_v3
+add_wooddamage_v3	0	1			Tăng sát thương điểm kỹ năng tối đa	ID kỹ năng; sát thương tăng	magic_skilladdition_wooddamage_v3
+add_waterdamage_v3	0	1			Tăng sát thương điểm kỹ năng tối đa	ID kỹ năng; sát thương tăng	magic_skilladdition_waterdamage_v3
+add_firedamage_v3	0	1			Tăng sát thương điểm kỹ năng tối đa	ID kỹ năng; sát thương tăng	magic_skilladdition_firedamage_v3
+add_earthdamage_v3	0	1			Tăng sát thương điểm kỹ năng tối đa	ID kỹ năng; sát thương tăng	magic_skilladdition_earthdamage_v3
+add_holydamage_v3	0	1			Tăng sát thương điểm kỹ năng tối đa	ID kỹ năng; sát thương tăng	magic_skilladdition_holydamage_v3
+add_skill_max_ms1	0	1			Tăng kỹ năng đồng thời tồn tại số đạn tối đa	ID kỹ năng; Số lượng tăng	magic_skilladdition_skill_max_ms1
+add_skill_max_ms2	0	1			Tăng kỹ năng đồng thời tồn tại số đạn tối đa	ID kỹ năng; Số lượng tăng	magic_skilladdition_skill_max_ms2
+add_skill_max_ms3	0	1			Tăng kỹ năng đồng thời tồn tại số đạn tối đa	ID kỹ năng; Số lượng tăng	magic_skilladdition_skill_max_ms3
+add_skill_max_ms4	0	1			Tăng kỹ năng đồng thời tồn tại số đạn tối đa	ID kỹ năng; Số lượng tăng	magic_skilladdition_skill_max_ms4
+add_ignore_invin1	0	0			Khiến kỹ năng chỉ định bỏ qua Vô Địch	ID kỹ năng; ?	magic_skilladdition_ignore_invincible1
+add_ignore_invin2	0	0			Khiến kỹ năng chỉ định bỏ qua Vô Địch	ID kỹ năng; ?	magic_skilladdition_ignore_invincible2
+add_ignore_invin3	0	0			Khiến kỹ năng chỉ định bỏ qua Vô Địch	ID kỹ năng; ?	magic_skilladdition_ignore_invincible3
+add_ignore_invin4	0	0			Khiến kỹ năng chỉ định bỏ qua Vô Địch	ID kỹ năng; ?	magic_skilladdition_ignore_invincible4
+add_ignore_invin5	0	0			Khiến kỹ năng chỉ định bỏ qua Vô Địch	ID kỹ năng; ?	magic_skilladdition_ignore_invincible5
+add_callnpc_skill	0	0			Tăng kỹ năng cho npc triệu hồi	Buffid triệu hồi Gấu Trúc, buffid cho Gấu Trúc, cấp	magic_skilladdition_callnpc_skill
+add_skill_point1	0	1			Tăng 	ID kỹ năng; giới hạn tích lũy tăng	magic_skilladdition_skill_point1
+add_skill_point2	0	1			Tăng 	ID kỹ năng; giới hạn tích lũy tăng	magic_skilladdition_skill_point2
+add_skill_point3	0	1			Tăng 	ID kỹ năng; giới hạn tích lũy tăng	magic_skilladdition_skill_point3
+add_dotdmg_p	0	1			Khi mục tiêu có tăng có sát thương dot tăng, tăng sát thương với mục tiêu	Loại dot; sát thương tăng	magic_skilladdition_add_dotdmg_p
+add_dotdshield_p	0	1			dot tăng sát thương cho hộ thuẫn	Loại dotType; tỉ lệ	magic_skilladdition_add_dotdshield_p
+add_att_speed1	0	1			Tăng tốc đánh kỹ năng chỉ định	ID kỹ năng; Tốc đánh tăng	magic_skilladdition_skill_att_speed1
+add_att_speed2	0	1			Tăng tốc đánh kỹ năng chỉ định	ID kỹ năng; Tốc đánh tăng	magic_skilladdition_skill_att_speed2
+add_att_speed3	0	1			Tăng tốc đánh kỹ năng chỉ định	ID kỹ năng; Tốc đánh tăng	magic_skilladdition_skill_att_speed3
+add_att_speed4	0	1			Tăng tốc đánh kỹ năng chỉ định	ID kỹ năng; Tốc đánh tăng	magic_skilladdition_skill_att_speed4
+add_att_speed5	0	1			Tăng tốc đánh kỹ năng chỉ định	ID kỹ năng; Tốc đánh tăng	magic_skilladdition_skill_att_speed5
+add_attackrating_p1	0	1			Tăng tỉ lệ chính xác cơ bản của kỹ năng chỉ định	ID kỹ năng; Tăng tỉ lệ chính xác	magic_skilladdition_attackrating_p1
+add_attackrating_p2	0	1			Tăng tỉ lệ chính xác cơ bản của kỹ năng chỉ định	ID kỹ năng; Tăng tỉ lệ chính xác	magic_skilladdition_attackrating_p2
+add_attackrating_p3	0	1			Tăng tỉ lệ chính xác cơ bản của kỹ năng chỉ định	ID kỹ năng; Tăng tỉ lệ chính xác	magic_skilladdition_attackrating_p3
+add_attackrating_p4	0	1			Tăng tỉ lệ chính xác cơ bản của kỹ năng chỉ định	ID kỹ năng; Tăng tỉ lệ chính xác	magic_skilladdition_attackrating_p4
+add_attackrating_v1	0	1			Tăng điểm chính xác cơ bản của kỹ năng chỉ định	ID kỹ năng; Tăng điểm chính xác	magic_skilladdition_attackrating_v1
+add_attackrating_v2	0	1			Tăng điểm chính xác cơ bản của kỹ năng chỉ định	ID kỹ năng; Tăng điểm chính xác	magic_skilladdition_attackrating_v2
+add_attackrating_v3	0	1			Tăng điểm chính xác cơ bản của kỹ năng chỉ định	ID kỹ năng; Tăng điểm chính xác	magic_skilladdition_attackrating_v3
+add_attackrating_v4	0	1			Tăng điểm chính xác cơ bản của kỹ năng chỉ định	ID kỹ năng; Tăng điểm chính xác	magic_skilladdition_attackrating_v4
+addcall_npclife1	0	1			Tăng tỉ lệ sinh lực của npc triệu hồi	ID kỹ năng triệu hồi thú cưng; sinh lực tăng	magic_skilladdition_call_npclife_p1
+addcall_npclife2	0	1			Tăng tỉ lệ sinh lực của npc triệu hồi	ID kỹ năng triệu hồi thú cưng; sinh lực tăng	magic_skilladdition_call_npclife_p2
+addcall_npclife3	0	1			Tăng tỉ lệ sinh lực của npc triệu hồi	ID kỹ năng triệu hồi thú cưng; sinh lực tăng	magic_skilladdition_call_npclife_p3
+addcall_npclife4	0	1			Tăng tỉ lệ sinh lực của npc triệu hồi	ID kỹ năng triệu hồi thú cưng; sinh lực tăng	magic_skilladdition_call_npclife_p4
+addcall_npcdmg1	0	1			Tăng tỉ lệ tấn công của npc triệu hồi	ID kỹ năng triệu hồi thú cưng; Tăng tấn công	magic_skilladdition_call_npcdamage_p1
+addcall_npcdmg2	0	1			Tăng tỉ lệ tấn công của npc triệu hồi	ID kỹ năng triệu hồi thú cưng; Tăng tấn công	magic_skilladdition_call_npcdamage_p2
+addcall_npcdmg3	0	1			Tăng tỉ lệ tấn công của npc triệu hồi	ID kỹ năng triệu hồi thú cưng; Tăng tấn công	magic_skilladdition_call_npcdamage_p3
+addcall_npcdmg4	0	1			Tăng tỉ lệ tấn công của npc triệu hồi	ID kỹ năng triệu hồi thú cưng; Tăng tấn công	magic_skilladdition_call_npcdamage_p4
+add_recdot_type_p	1				Tăng (Mê Tâm Cổ) hệ số tăng buff tăng sát thương độc mục tiêu chịu	???	magic_skilladdition_recdot_type_p
+add_dotdamage_metal	0	1	1		Tăng sát thương dot Hệ Kim	ID kỹ năng, tăng %, tăng điểm	magic_skilladdition_dotdamage_metal
+add_dotdamage_wood	0	1	1		Tăng sát thương dot Hệ Mộc	ID kỹ năng, tăng %, tăng điểm	magic_skilladdition_dotdamage_wood
+add_dotdamage_water	0	1	1		Tăng sát thương dot Hệ Thủy	ID kỹ năng, tăng %, tăng điểm	magic_skilladdition_dotdamage_water
+add_dotdamage_fire	0	1	1		Tăng sát thương dot Hệ Hỏa	ID kỹ năng, tăng %, tăng điểm	magic_skilladdition_dotdamage_fire
+add_dotdamage_earth	0	1	1		Tăng sát thương dot Hệ Thủy	ID kỹ năng, tăng %, tăng điểm	magic_skilladdition_dotdamage_earth
+add_dotdamage_holy	0	1	1		Tăng sát thương dot Hệ Thần Thánh	ID kỹ năng, tăng %, tăng điểm	magic_skilladdition_dotdamage_holy
+add_callnpc_skill1	0	0	0		Tăng kỹ năng cho npc triệu hồi	ID kỹ năng triệu hồi thú cưng, buffid cho thú cưng, cấp	magic_skilladdition_callnpc_skill1
+add_callnpc_skill2	0	0	0		Tăng kỹ năng cho npc triệu hồi	ID kỹ năng triệu hồi thú cưng, buffid cho thú cưng, cấp	magic_skilladdition_callnpc_skill2
+add_callnpc_skill3	0	0	0		Tăng kỹ năng cho npc triệu hồi	ID kỹ năng triệu hồi thú cưng, buffid cho thú cưng, cấp	magic_skilladdition_callnpc_skill3
+add_callnpc_skill4	0	0	0		Tăng kỹ năng cho npc triệu hồi	ID kỹ năng triệu hồi thú cưng, buffid cho thú cưng, cấp	magic_skilladdition_callnpc_skill4
+add_recdot_alldmg1	0	1			Tăng tỉ lệ kỹ năng bộc phát sát thương độc	ID kỹ năng; hệ số bộc phát tăng	magic_skilladdition_recdot_alldmg1
+add_recdot_alldmg2	0	1			Tăng tỉ lệ kỹ năng bộc phát sát thương độc	ID kỹ năng; hệ số bộc phát tăng	magic_skilladdition_recdot_alldmg2
+add_recdot_alldmg3	0	1			Tăng tỉ lệ kỹ năng bộc phát sát thương độc	ID kỹ năng; hệ số bộc phát tăng	magic_skilladdition_recdot_alldmg3
+add_recdot_alldmg4	0	1			Tăng tỉ lệ kỹ năng bộc phát sát thương độc	ID kỹ năng; hệ số bộc phát tăng	magic_skilladdition_recdot_alldmg4
+add_dottype_metal_p	0	1			Sát thương dottype gây ra tăng	Id loại dotType; tăng tỉ lệ	magic_skilladdition_dottype_metal_p
+add_dottype_wood_p	0	1			Sát thương dottype gây ra tăng	Id loại dotType; tăng tỉ lệ	magic_skilladdition_dottype_wood_p
+add_dottype_water_p	0	1			Sát thương dottype gây ra tăng	Id loại dotType; tăng tỉ lệ	magic_skilladdition_dottype_water_p
+add_dottype_fire_p	0	1			Sát thương dottype gây ra tăng	Id loại dotType; tăng tỉ lệ	magic_skilladdition_dottype_fire_p
+add_dottype_earth_p	0	1			Sát thương dottype gây ra tăng	Id loại dotType; tăng tỉ lệ	magic_skilladdition_dottype_earth_p
+addvanishskill1	0	0	0		Tăng sự kiện biến mất cho kỹ năng	ID kỹ năng; ID kỹ năng sự kiện; Cấp kỹ năng sự kiện	magic_skilladdition_addvanishskill1
+addvanishskill2	0	0	0		Tăng sự kiện biến mất cho kỹ năng	ID kỹ năng; ID kỹ năng sự kiện; Cấp kỹ năng sự kiện	magic_skilladdition_addvanishskill2
+addvanishskill3	0	0	0		Tăng sự kiện biến mất cho kỹ năng	ID kỹ năng; ID kỹ năng sự kiện; Cấp kỹ năng sự kiện	magic_skilladdition_addvanishskill3
+addvanishskill4	0	0	0		Tăng sự kiện biến mất cho kỹ năng	ID kỹ năng; ID kỹ năng sự kiện; Cấp kỹ năng sự kiện	magic_skilladdition_addvanishskill4
+add_loselife_dmg_p	0	1			Dựa theo sinh lực bị mất tăng hệ số sát thương	ID kỹ năng; hệ số tăng tham số 1	magic_skilladdition_loselife_dmg_p
+add_damage_maxlife_p	0	1			Tăng damage_maxlife_p	ID kỹ năng; tham số 1 sát thương sinh lực tối đa tăng	magic_skilladdition_damage_maxlife_p
+add_damage_curlife_p	0	1			Tăng damage_curlife_p	ID kỹ năng; Tham số 1 sát thương sinh lực hiện tại tăng	magic_skilladdition_damage_curlife_p
+lowhp_damage_att_p	1	1			Dựa vào lượng sinh lực mất tăng sát thương gây ra	Hệ số tăng mất sinh lực; cơ bản tăng	
+lowhp_damage_beatt_p	1	1			Dựa vào lượng sinh lực mất tăng sát thương bị chịu	Hệ số tăng mất sinh lực; cơ bản tăng	
+add_deadlystrike_p1	0	1			Tăng tỉ lệ bạo kích của kỹ năng chỉ định (Tỉ lệ cố định)	ID kỹ năng; tỉ lệ	
+add_deadlystrike_p2	0	1			Tăng tỉ lệ bạo kích của kỹ năng chỉ định (Tỉ lệ cố định)	ID kỹ năng; tỉ lệ	
+add_deadlystrike_p3	0	1			Tăng tỉ lệ bạo kích của kỹ năng chỉ định (Tỉ lệ cố định)	ID kỹ năng; tỉ lệ	
+add_deadlystrike_p4	0	1			Tăng tỉ lệ bạo kích của kỹ năng chỉ định (Tỉ lệ cố định)	ID kỹ năng; tỉ lệ	
+add_check_buff_superpose	0	1			Số tầng buff yêu cầu kỹ năng tăng thêm	ID kỹ năng. Điểm cộng số tầng	

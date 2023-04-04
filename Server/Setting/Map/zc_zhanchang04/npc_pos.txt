@@ -1,0 +1,47 @@
+BornLeft	3335	8577
+BornLeft	3348	8307
+BornLeft	3650	8572
+BornLeft	3642	8304
+BornLeft	3907	8559
+BornLeft	3901	8302
+TransmitLeft	4481	8443
+BornRight	18636	8543
+BornRight	18641	8307
+BornRight	18980	8593
+BornRight	18986	8278
+BornRight	19340	8572
+BornRight	19325	8275
+TransmitRight	18118	8456
+Xuất hiện ở Đại Doanh-Trái	5181	8663
+Xuất hiện ở Đại Doanh-Trái	5190	8390
+Xuất hiện ở Đại Doanh-Trái	5160	8077
+Xuất hiện ở Đại Doanh-Phải	17461	8741
+Xuất hiện ở Đại Doanh-Phải	17454	8467
+Xuất hiện ở Đại Doanh-Phải	17445	8102
+Tống-Đại Doanh	6080	8435
+Tống-Tháp Trong	7718	8441
+Tống-Tháp Ngoài	9127	8443
+Kim-Đại Doanh	16474	8439
+Kim-Tháp Trong	14821	8433
+Kim-Tháp Ngoài	13401	8436
+Tống Tiểu Binh xuất hiện	6403	8443
+Đường di chuyển của Tống Tiểu Binh	13235	8445
+Đường di chuyển của Tống Tiểu Binh	14664	8453
+Đường di chuyển của Tống Tiểu Binh	16137	8440
+Kim Tiểu Binh xuất hiện	16194	8440
+Đường di chuyển của Kim Tiểu Binh	9279	8436
+Đường di chuyển của Kim Tiểu Binh	7850	8443
+Đường di chuyển của Kim Tiểu Binh	6445	8439
+buff	10398	7096
+buff	11281	9337
+buff	12054	7021
+buff	11362	4678
+BOSS	11324	5572
+Quái Rừng 1	12384	10468
+Quái Rừng 2	10249	10387
+Dã Quái 3	9827	6520
+Dã Quái 4	9929	5319
+Dã Quái 5	12692	5643
+Dã Quái 6	12809	6920
+Ký hiệu bản đồ nhỏ Quân Tống	3548	9546
+Ký hiệu bản đồ nhỏ Quân Kim	19168	9502

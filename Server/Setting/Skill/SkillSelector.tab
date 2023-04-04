@@ -1,0 +1,5 @@
+SkillId	Desc	SelectorType	SelectorRange	Relation
+306	Từ Hàng Phổ Độ	hurt_maxhp	1000	recover
+307	Từ Hàng Phổ Độ_Phụ	hurt_maxhp	1000	recover
+2116	Từ Hàng Phổ Độ	hurt_maxhp	1000	recover
+2117	Từ Hàng Phổ Độ_Phụ	hurt_maxhp	1000	recover

@@ -1,0 +1,768 @@
+Index	TemplateID	Name	Kind	Camp	ClassName	ScriptParam	NpcResID	FaceID	BigFaceID	DefaultDialog	ReviveFrame	NpcAttribID	NormalSkill1	NormalSkillLevel1	NormalSkill2	NormalSkillLevel2	NormalSkill3	NormalSkillLevel3	VisionRadius	ActiveRadius	AiFile	Treasure	DropFile	FightMode	RunSpeed	BloodStyle	ForbitMove	TitleID	AuraSkillId	AuraSkillLevel	StartActEvent	Tag	DropType	WalkSpeed	NameColor	Experience	GouHuoRate	TransBossNpcTID	TransBossRate	IsNotShowShadow	FixExperience	SyncFirst	IsNotBYStealLife	Sex
+Fb_Protect_1	71	Thiếu Nữ Áo Trắng	0	0	FubenDeath		105	3	103			205	57	1					560	980	Setting/Npc/Ai/CommonActive2.ini			1	20																			
+Fb_Protect_2	72	Hồng Anh Thị	0	1	FubenDeath		108					201	21	1					560	980	Setting/Npc/Ai/CommonActive.ini			1	15	1					900000													
+chuansong	73	Cửa Truyền Tống	4	0			8					1							560	980				1	15																			
+chuansong_X	3677	Cửa Truyền Tống	4	0			3677					1							560	980				1	15																			
+chuansong_X1	3683	Cửa Truyền Tống	4	0			3683					1							560	980				1	15																			
+Changjing_hehua	232	Hà Hoa	5	0			355					1																																
+qinggong	74	Thượng Thăng Khí Lưu	4	0			361					1							560	980				1	15																	1		
+Task_xs_1	75	Nạp Lan Chân	2	1			177	13	113	Đây là đối thoại mặc định		1							560	980				1	17	1																		
+Task_xs_2	76	Nạp Lan Tiềm Lẫm	2	1			21	210	310			1							560	980				1	17	1																		
+Test_muzhuang	81	Cọc gỗ-Vững như bàn thạch	0	1			11					100							560	980				1	15	1	1																	
+Test_muzhuang_1	244	Cọc Gỗ	0	1			11					100							560	980				1	15	1																		
+Test13	82	Quái bị động	0	1	FubenDeath		11					1	21	1					560	980	Setting/Npc/Ai/CommonPassive.ini			1	15	1																		
+Test14	83	Quái chủ động	0	1	FubenDeath		11					1	38	1					560	980	Setting/Npc/Ai/ComboTest.ini			1	15	1																		
+Test_combo	84	Thử Nghiệm AI-Liên Chiêu	0	1			1				10	2	201	1	202	1	203	1	560	980	Setting/Npc/Ai/CommonActive.ini			1	15	1																		
+Test_pt1	85	Không phải đồng đội của tôi	3	1			11												560	980	Setting/Npc/Ai/partner/FellowCommon.ini			1	15	1																		
+Test_pt2	86	Không phải đồng đội của đại hiệp	3	1			13						201	1					560	980	Setting/Npc/Ai/partner/FellowCommon.ini			1	17	1																		
+Test_pt3	87	Không phải đồng đội của người đó	3	1			103						501	1					560	980	Setting/Npc/Ai/partner/FellowCommon.ini			1	17	1																		
+City_touxian	88	Độc Cô Kiếm	2	1	ZhenFaTaskNpc		32	210	310	Sức một người chưa đủ! Nếu biết kết hợp sức mạnh xung quanh hợp thành liên minh, thì sẽ trường thịnh!		1	21	1							Setting/Npc/Ai/CommonActive.ini			0	17	1																		
+City_jingjichang	89	Nam Cung Phi	2	1			5027	207	307			1	21	1							Setting/Npc/Ai/CommonActive.ini			0	15	1																		
+City_huodongjieyin	90	Tiếp Dẫn Hoạt Động	2	1	ActivityNpc		177	13	113			1	35	1							Setting/Npc/Ai/CommonActive.ini			0	15	1																		
+City_lingtuzhan	91	Lưu Vân	2	1			107	213	313			1	21	1							Setting/Npc/Ai/CommonActive.ini			0	15	1																		
+City_shiliangu	92	Trương Phong	2	1			1119	15	115			1	21	1							Setting/Npc/Ai/CommonActive.ini			0	17	1																		
+City_jiazu	93	Quản Lý Bang Hội	2	1			11	226	326			1	21	1							Setting/Npc/Ai/CommonActive.ini			0	15	1																		
+City_qianghua	94	Cường hóa	2	1			139	203	303			1	21	1							Setting/Npc/Ai/CommonActive.ini			0	15	1																		
+City_shanghui	95	Tiểu Tử Yên	2	1			191	802	802	Khách quan, có định cùng người trong mộng bước lên Thuyền Vũ Lâu không? Nếu chưa có vé tàu, có thể mua trực tiếp ở chỗ ta đấy!		1	21	1							Setting/Npc/Ai/CommonActive.ini			0	15	1																		
+City_chiyoumu	96	Xi Vưu Mộ	2	1			115	214	314			1	22	1							Setting/Npc/Ai/CommonActive.ini			0	18	1																		
+City_butou	97	Nguyệt My Nhi	2	1			1102	22	122	Hừ! Dám đối đầu với Phi Long Bảo! Chán sống rồi sao!		1	21	1							Setting/Npc/Ai/CommonActive.ini			0	15	1																		
+City_jiayuan	98	Vệ Binh	2	1			150	11	111	Bảo vệ Lâm An đến cùng!		1	21	1							Setting/Npc/Ai/CommonActive.ini			0	17	1																		
+City_jiulou	99	Công Tôn Tích Hoa	2	1	ActivityQuestion		189	5	105	Nghe đâu giang hồ có người tên Bách Hiểu Sinh, không gì là không biết. Sau này chủ quán Ẩn Hương Lầu ta sẽ giỏi hơn hắn.		1	56	1							Setting/Npc/Ai/CommonActive.ini			0	15	1																		
+City_tiejiang	100	Mạnh Tri Thu	2	1			156	203	303	Trong tay không kiếm, trong lòng có kiếm, người kiếm hợp nhất!		1	56	1							Setting/Npc/Ai/CommonActive.ini			0	15	1																		
+City_npc1	620	Đường Ảnh	2	1			119	201	301	... Không biết khi nào mới gặp người tri kỷ.		1	56	1							Setting/Npc/Ai/CommonActive.ini			0	15	1																		
+City_npc2	621	Trương Lâm Tâm	2	1			1100	996	997			1	56	1							Setting/Npc/Ai/CommonActive.ini			0	15	1																		
+City_npc3	622	Tử Hiên	2	1			131	20	120	Ta là người phụ trách báo danh và bỏ phiếu bầu chọn Miss Võ Lâm Truyền Kỳ Mobile.		1	56	1							Setting/Npc/Ai/CommonActive.ini			0	15	1																		
+City_npc4	623	Ân Phương	2	1			125	208	308	(Lén lút) Người cầm quạt có vẻ rất giỏi võ công! Hãy chọn hắn!		1	56	1							Setting/Npc/Ai/CommonActive.ini			0	15	1																		
+City_npc5	624	Dương Ảnh Phong	2	1			1101	225	325	「Võ Đạo Đức Kinh」Nếu lấy được vật này, sẽ có thể hoàn thành tâm nguyện của cha...		1	56	1							Setting/Npc/Ai/CommonActive.ini			0	15	1																		
+City_npc6	625	Trương Như Mộng	2	1			193	214	314	Thời gian không bao giờ dừng lại...		1	56	1							Setting/Npc/Ai/CommonActive.ini			0	15	1																		
+City_npc7	626	Huyền Thiên Đạo Nhân	2	1			5016	211	311	Đạo khả đạo, phi thường đạo, danh khả danh, phi hằng danh.		1	56	1							Setting/Npc/Ai/CommonActive.ini			0	15	1																		
+City_npc8	627	Tổng Quản Bang Hội	2	1			107	19	119			1	56	1							Setting/Npc/Ai/CommonActive.ini			0	15	1																		
+City_npc9	629	Nạp Lan Tiềm Lẫm	2	1	SwornFriendsNpc1		187	212	312	Nhân tại giang hồ, thân bất do kỷ.		1	21	1							Setting/Npc/Ai/CommonActive.ini			0	15	1																		
+City_npc10	630	Lục Văn Long	2	1			144	205	305			1	56	1							Setting/Npc/Ai/CommonActive.ini			0	15	1																		
+City_npc11	631	Yên Nhược Tuyết	2	1	LoverNpc		1129	727	727			1	21	1							Setting/Npc/Ai/CommonActive.ini			0	15	1																		
+City_npc12	632	Tường Vi	2	1			103	18	118	Cha thật hồ đồ! Trác Phi Phàm có gì hay ho chứ? Hừ!		1	21	1							Setting/Npc/Ai/CommonActive.ini			0	15	1																		
+City_npc13	633	Dương Anh	2	1			141	17	117			1	21	1							Setting/Npc/Ai/CommonActive.ini			0	15	1																		
+City_npc14	693	Đằng Vân	4	1			426	999				1	21	1							Setting/Npc/Ai/CommonActive.ini			0	15	1																		
+City_npc15	694	Thu Y Thủy	2	1			158	218	318	Võ Đạo Đức Kinh xuất hiện, võ lâm lại dậy sóng...		1	21	1							Setting/Npc/Ai/CommonActive.ini			0	15	1																		
+City_npc16	699	Giá Vụ	4	1			427	999				1	21	1							Setting/Npc/Ai/CommonActive.ini			0	15	1																		
+City_npc17	1350	Sài Tung	2	1			132	999				1	21	1							Setting/Npc/Ai/CommonActive.ini			0	15	1																		
+City_npc18	2752	Long Ngũ	2	1			658	999				1	21	1							Setting/Npc/Ai/CommonActive.ini			0	15	1																		
+TianWang_Master	1527	Dương Anh	2	1			141	17	117			1	21	1							Setting/Npc/Ai/CommonActive.ini			0	15	1																		
+XiaoYao_Master	1528	Chúc Tử Hư	2	1			214	216	316			1	21	1							Setting/Npc/Ai/CommonActive.ini			0	15	1																		
+Emei_Master	1529	Thanh Hiểu Sư Thái	2	1			185	2	102			1	21	1							Setting/Npc/Ai/CommonActive.ini			0	15	1																		
+TaoHua_Master	1530	Hoàng Mộ Vân	2	1	CardPickHelper		209	16	116			1	21	1							Setting/Npc/Ai/CommonActive.ini			0	15	1																		
+TianRen_Master	1531	Đạo Nhất Chân Nhân	2	1			1116	999	999			1	21	1							Setting/Npc/Ai/CommonActive.ini			0	15	1																		
+WuDang_Master	1532	Đoan Mộc Duệ	2	1			1122	999	999			1	21	1							Setting/Npc/Ai/CommonActive.ini			0	15	1																		
+ShaoLin_Master	2659	Huyền Nhân	2	1			1132	999	999			1	21	1							Setting/Npc/Ai/CommonActive.ini			0	15	1																		
+CuiYan_Master	2660	Thu Y Thủy	2	1			1153	999	999			1	21	1							Setting/Npc/Ai/CommonActive.ini			0	15	1																		
+TangMen_Master	2661	Đường Cừu	2	1			1175	999	999			1	21	1							Setting/Npc/Ai/CommonActive.ini			0	15	1																		
+KunLun_Master	2662	Tuyền Cơ Tử	2	1			1150	999	999			1	21	1							Setting/Npc/Ai/CommonActive.ini			0	15	1																		
+GaiBang_Master	2663	Thạch Hiên Viên	2	1			1168	999	999			1	21	1							Setting/Npc/Ai/CommonActive.ini			0	15	1																		
+WuDu_Master	2664	Hắc Diện Lang Quân	2	1			1167	999	999			1	21	1							Setting/Npc/Ai/CommonActive.ini			0	15	1																		
+CangJian_Master	2665	Diệp Vô Tâm	2	1			1217	999	999			1	21	1							Setting/Npc/Ai/CommonActive.ini			0	15	1																		
+ChangGe_Master	2666	Tiêu Ngọc Trúc	2	1			1219	999	999			1	21	1							Setting/Npc/Ai/CommonActive.ini			0	15	1																		
+TianShan_Master	2667	Thiên Âm	2	1			1231	999	999			1	21	1							Setting/Npc/Ai/CommonActive.ini			0	15	1																		
+BaDao_Master	2924	Vương Đằng	2	1			1241	999	999			1	21	1							Setting/Npc/Ai/CommonActive.ini			0	15	1																		
+HuaShan_Master	2972	Mạnh Thương Lam	2	1			1243	999	999			1	21	1							Setting/Npc/Ai/CommonActive.ini			0	15	1																		
+MingJiao_Master	3316	Minh Giáo Giáo Chủ	2	1			712	999	999			1	21	1							Setting/Npc/Ai/CommonActive.ini			0	15	1																		
+HuaShan_Master0	3197	Người Bí Ẩn	2	1			1243	999	999	Vạn sự không thoát khỏi chữ tình!		1	21	1							Setting/Npc/Ai/CommonActive.ini			0	15	1																		
+TianWang_Leader	1533	Dương Thiết Tâm	2	1			5211	999	999	「Thiên Vương」Thuộc hệ [FFFE0D]Kim[-], khắc chế các hệ [FFFE0D]Mộc[-] như [FFFE0D]Tiêu Dao, Đường Môn, Ngũ Độc, Hoa Sơn[-]. Thắng truy kích, lui khống chế, chuyên cận chiến.		1	21	1							Setting/Npc/Ai/CommonActive.ini			0	15	1																		
+XiaoYao_Leader	1534	Liễu Tiêu Đình	2	1			5210	999	999	「Tiêu Dao」thuộc hệ [FFFE0D]Mộc[-], khắc chế các phái hệ [FFFE0D]Thổ[-] như [FFFE0D]Võ Đang, Côn Lôn, Trường Ca[-]. Linh hoạt như chim bay cá lội, sở trường khống chế địch.		1	21	1							Setting/Npc/Ai/CommonActive.ini			0	15	1																		
+Emei_Leader	1535	Vô Tưởng	2	1			5212	999	999	「Nga Mi」thuộc tính [FFFE0D]Thủy[-], khắc thuộc tính [FFFE0D]Hỏa[-] gồm [FFFE0D]Đào Hoa, Thiên Nhẫn, Cái Bang, Minh Giáo[-], từ bi, cứu thế, tâm hồn trong sáng, không biết sợ.		1	21	1							Setting/Npc/Ai/CommonActive.ini			0	15	1																		
+TaoHua_Leader	1536	Lý Điềm Nhi	2	1			5209	999	999	「Đào Hoa」Thuộc hệ [FFFE0D]Hỏa[-], khắc chế các hệ [FFFE0D]Kim[-] như [FFFE0D]Thiên Vương, Thiếu Lâm, Tàng Kiếm, Bá Đao[-]. Trăm dặm bắn tên, từ xa đoạt mạng.		1	21	1							Setting/Npc/Ai/CommonActive.ini			0	15	1																		
+TianRen_Leader	1537	Lý Thiên Mục	2	1			6111	999	999	「Võ Đang」thuộc hệ [FFFE0D]Thổ[-], khắc chế các phái hệ [FFFE0D]Thủy[-] như [FFFE0D]Nga Mi, Thúy Yên, Thiên Sơn, Đoàn Thị[-], Âm dương hòa hợp, công thủ cân bằng.		1	21	1							Setting/Npc/Ai/CommonActive.ini			0	15	1																		
+WuDang_Leader	1538	Hoàn Nhan Tương	2	1			1131	999	999	「Thiên Nhẫn」Thuộc hệ [FFFE0D]Hỏa[-], khắc chế các hệ [FFFE0D]Kim[-] như [FFFE0D]Thiên Vương, Thiếu Lâm, Tàng Kiếm, Bá Đao[-]. Chọn đúng thời cơ, một đòn kết liễu.		1	21	1							Setting/Npc/Ai/CommonActive.ini			0	15	1																		
+ShaoLin_Leader	2668	Huyền Từ	2	1			1169	999	999	「Thiếu Lâm」Thuộc hệ [FFFE0D]Kim[-], khắc chế các hệ [FFFE0D]Mộc[-] như [FFFE0D]Tiêu Dao, Đường Môn, Ngũ Độc, Hoa Sơn[-]. Mình đồng da sắt, dùng thủ thay công.		1	21	1							Setting/Npc/Ai/CommonActive.ini			0	15	1																		
+CuiYan_Leader	2669	Doãn Tiêu Vũ	2	1			1149	999	999	「Thúy Yên」thuộc tính [FFFE0D]Thủy[-], khắc thuộc tính [FFFE0D]Hỏa[-] gồm [FFFE0D]Đào Hoa, Thiên Nhẫn, Cái Bang, Minh Giáo[-], linh sủng Gấu Trúc trợ chiến. 		1	21	1							Setting/Npc/Ai/CommonActive.ini			0	15	1																		
+TangMen_Leader	2670	Đường Hiểu	2	1			1166	999	999	「Đường Môn」thuộc hệ [FFFE0D]Mộc[-], khắc chế các phái hệ [FFFE0D]Thổ[-] như [FFFE0D]Võ Đang, Côn Lôn, Trường Ca[-]. Sở trường ám khí, bẫy khống chế địch.		1	21	1							Setting/Npc/Ai/CommonActive.ini			0	15	1																		
+KunLun_Leader	2671	Tống Thu Thạch	2	1			1165	999	999	「Côn Lôn」thuộc hệ [FFFE0D]Thổ[-], khắc chế các phái hệ [FFFE0D]Thủy[-] như [FFFE0D]Nga Mi, Thúy Yên, Thiên Sơn, Đoàn Thị[-], Thiên lôi khống chế, phi kiếm ngự thể.		1	21	1							Setting/Npc/Ai/CommonActive.ini			0	15	1																		
+GaiBang_Leader	2672	Hà Nhân Ngã	2	1			1170	999	999	「Cái Bang」Thuộc hệ [FFFE0D]Hỏa[-], khắc chế các hệ [FFFE0D]Kim[-] như [FFFE0D]Thiên Vương, Thiếu Lâm, Tàng Kiếm, Bá Đao[-]. Bộ pháp biến ảo, áp chế khó thoát.		1	21	1							Setting/Npc/Ai/CommonActive.ini			0	15	1																		
+WuDu_Leader	2673	Cổ Yên Nhiên	2	1			1174	999	999	「Ngũ Độc」thuộc hệ [FFFE0D]Mộc[-], khắc chế các phái hệ [FFFE0D]Thổ[-] như [FFFE0D]Võ Đang, Côn Lôn, Trường Ca[-]. Ngũ độc linh trùng, độc nhất thiên hạ.		1	21	1							Setting/Npc/Ai/CommonActive.ini			0	15	1																		
+CangJian_Leader	2674	Diệp Thanh Dương	2	1			1218	999	999	「Tàng Kiếm」Thuộc hệ [FFFE0D]Kim[-], khắc chế các hệ [FFFE0D]Mộc[-] như [FFFE0D]Tiêu Dao, Đường Môn, Ngũ Độc, Hoa Sơn[-]. Chỉ công không thủ, thần kiếm vô địch.		1	21	1							Setting/Npc/Ai/CommonActive.ini			0	15	1																		
+ChangGe_Leader	2675	Băng Nghi	2	1			1210	999	999	「Trường Ca」thuộc hệ [FFFE0D]Thổ[-], khắc chế các phái hệ [FFFE0D]Thủy[-] như [FFFE0D]Nga Mi, Thúy Yên, Thiên Sơn, Đoàn Thị[-], Như thực như mơ, khống chế hỗ trợ!		1	21	1							Setting/Npc/Ai/CommonActive.ini			0	15	1																		
+TianShan_Leader	2676	Kinh Tuyết	2	1			1232	999	999	「Thiên Sơn」thuộc tính [FFFE0D]Thủy[-], khắc thuộc tính [FFFE0D]Hỏa[-] gồm [FFFE0D]Đào Hoa, Thiên Nhẫn, Cái Bang, Minh Giáo[-], nội lực Hàn Sương Thiên Sơn xâm nhập cơ thể kẻ địch khiến kẻ địch suy yếu. 		1	21	1							Setting/Npc/Ai/CommonActive.ini			0	15	1																		
+BaDao_Leader	2925	Vương Vân Tiêu	2	1			1242	999	999	「Bá Đao」Thuộc hệ [FFFE0D]Kim[-], khắc chế các hệ [FFFE0D]Mộc[-] như [FFFE0D]Tiêu Dao, Đường Môn, Ngũ Độc, Hoa Sơn[-]. Sở trường quyết chiến, đột phá giới hạn.		1	21	1							Setting/Npc/Ai/CommonActive.ini			0	15	1																		
+HuaShan_Leader	2973	Lâm Thanh Vũ	2	1			1244	999	999	「Hoa Sơn」Thuộc hệ [FFFE0D]Mộc[-], khắc chế các hệ [FFFE0D]Thổ[-] như [FFFE0D]Võ Đang, Côn Lôn, Trường Ca[-]. Thân pháp linh thông, không ai sánh kịp.		1	21	1							Setting/Npc/Ai/CommonActive.ini			0	15	1																		
+MingJiao_Leader	3317	Phong Hành Chu	2	1			711	999	999	「Minh Giáo」thuộc tính [FFFE0D]Hỏa[-], khắc thuộc tính [FFFE0D]Kim[-] gồm [FFFE0D]Thiên Vương, Thiếu Lâm, Tàng Kiếm, Bá Đao[-], bộ pháp tinh diệu, giỏi né tránh!		1	21	1							Setting/Npc/Ai/CommonActive.ini			0	15	1																		
+Duanshi_Master	3453	Đoàn Chính Hưng	2	1			1251	999	999			1	21	1							Setting/Npc/Ai/CommonActive.ini			0	15	1																		
+Duanshi_Leader	3454	Đoàn Trí Hưng	2	1			1250	999	999	「Đoàn Thị」thuộc hệ [FFFE0D]Thủy[-], khắc chế các phái hệ [FFFE0D]Hỏa[-] như [FFFE0D]Đào Hoa, Thiên Nhẫn, Cái Bang, Minh Giáo[-], phóng khoáng bay bỏng, phiên phiên quý công tử.		1	21	1							Setting/Npc/Ai/CommonActive.ini			0	15	1																		
+WuDang_Dizi1	3455	Ân Lợi Hanh	2	1			1252	999	999			1	21	1							Setting/Npc/Ai/CommonActive.ini			0	15	1																		
+WuDang_Dizi2	3456	Trương Tùng Khê	2	1			1253	999	999			1	21	1							Setting/Npc/Ai/CommonActive.ini			0	15	1																		
+WuDang_Dizi3	3457	Tống Viễn Kiều	2	1			1254	999	999			1	21	1							Setting/Npc/Ai/CommonActive.ini			0	15	1																		
+WanHua_Leader	3747	Trương Thừa Tố	2	1			1266	999	999	「Vạn Hoa」thuộc hệ [FFFE0D] Thổ [-], khắc chế các hệ [FFFE0D]Thủy[-] như [FFFE0D]Nga Mi, Thúy Yên, Thiên Sơn, Đoàn Thị[-], Như thực như mơ, khống chế hỗ trợ!		1	21	1							Setting/Npc/Ai/CommonActive.ini			0	15	1																		
+Fb_zhangai	104	Chướng ngại động thái phó bản	5	1			312																	1		1																		
+CommerceTask	190	Vạn Kim Tài	2	1	CommerceTask		146	206	306			1							560	980					17	1		109																
+BuffBall_white	202	Cầu Năng Lượng-Trắng	5	0			346					1							560	980				1	15																			
+BuffBall_green	203	Cầu Năng Lượng-Lục	5	0			347					1							560	980				1	15																			
+BuffBall_blue	204	Cầu Năng Lượng-Lam	5	0			348					1							560	980				1	15																			
+BuffBall_purple	205	Cầu Năng Lượng-Tím	5	0			349					1							560	980				1	15																			
+BuffBall_red	206	Cầu Năng Lượng-Đỏ	5	0			350					1							560	980				1	15																			
+BuffBall_gold	207	Cầu Năng Lượng-Vàng	5	0			351					1							560	980				1	15																			
+tansuo_baoxiang	208	Rương Do Thám	5	1			352					1							560	980				1	15																			
+KinGatherBox	1840	Rương Mừng Lễ	2	1	GatherBox	2707	352	995	300			1												1	15	1						NoTurn										1		
+KinDinnerGatherBox	3439	Rương Mừng Lễ	2	1	FamilyReunionDinnerBoxNpc	10438	352	995	300			1												1	15	1						NoTurn										1		
+PunishAttack_npc1	212	Võ Lâm Ác Đồ	0	1	PunishTaskAttack		123					51	21	1	91	1			3000	3000	Setting/Npc/Ai/CommonActive.ini			1	18			9																
+PunishAttack_npc2	214	Võ Lâm Ác Đồ	0	1	PunishTaskAttack		123					51	21	1	91	1			3000	3000	Setting/Npc/Ai/CommonActive.ini			1	18			10																
+PunishAttack_npc3	215	Võ Lâm Ác Đồ	0	1	PunishTaskAttack		123					52	21	1	91	1			3000	3000	Setting/Npc/Ai/CommonActive.ini			1	18			11																
+PunishAttack_npc4	216	Võ Lâm Ác Đồ	0	1	PunishTaskAttack		123					52	21	1	91	1			3000	3000	Setting/Npc/Ai/CommonActive.ini			1	18			12																
+PunishAttack_npc5	217	Võ Lâm Ác Đồ	0	1	PunishTaskAttack		123					53	21	1	91	1			3000	3000	Setting/Npc/Ai/CommonActive.ini			1	18			13																
+PunishDialog_npc1	213	Võ Lâm Ác Đồ	2	0	PunishTaskDialog		123					51	21	1					3000	3000					18			9																
+PunishDialog_npc2	219	Võ Lâm Ác Đồ	2	0	PunishTaskDialog		123					51	21	1					3000	3000					18			10																
+PunishDialog_npc3	218	Võ Lâm Ác Đồ	2	0	PunishTaskDialog		123					52	21	1					3000	3000					18			11																
+PunishDialog_npc4	220	Võ Lâm Ác Đồ	2	0	PunishTaskDialog		123					52	21	1					3000	3000					18			12																
+PunishDialog_npc5	221	Võ Lâm Ác Đồ	2	0	PunishTaskDialog		123					52	21	1					3000	3000					18	1		13																
+Eagle	222	Hủ Thực Ưng	0	1	FubenDeath		113					3	22	1					3000	3000	Setting/Npc/Ai/CommonActive.ini			1	20	1																		
+Red_Security	223	Hồng Anh Vệ	0	1	FubenDeath		118					3	21	1					3000	3000	Setting/Npc/Ai/CommonActive.ini			1	20	1																		
+Yehao	224	Diệp Hạo	0	1	FubenDeath		119					3	21	1					3000	3000	Setting/Npc/Ai/CommonActive.ini			1	20	1																		
+LeavegGateNpc	225	Rời Địa Cung	4	0			8					1							560	980				1	15																			
+NextGateNpc	226	Lối Vào Thần Bí	4	0			8					1							560	980				1	15																			
+KinRobber_np1	228	Đạo Tặc	2	0	KinRobber		174					3	21	1					3000	3000					18																			
+KinRobber_np2	229	Đạo Tặc	0	1	KinRobber		174					61	21	1	91	1			3000	3000	Setting/Npc/Ai/CommonActive.ini			1	18	1																		
+Onehand_big	231	Độc Tí Tráng Sĩ	0	1	FubenDeath		354					205	1359	1	91	1			1500	1500	Setting/Npc/Ai/fuben/Boss8.ini			1	12	2																		
+Kin_Manager	266	Tổng Quản Bang Hội	2	0	KinManager		107	213	313			3	21	1					3000	3000					18	1																		
+NoneRes	267		0	1			358					3	1398	1					3000	3000	Setting/Npc/Ai/RangeActive.ini			1	0	1	1																	
+Npc_Sword	268	Kiếm	4	0			362					1							560	980				1	15																			
+WJ_dici	429	Địa Thích 	5	0			374					1							560	980				1	15																			
+WJ_gunshi	430	Đá Lăn	5	0			375					1							560	980				1	15																			
+WJ_jianqun	431	Kiếm Quần	5	0			376					1							560	980				1	15																			
+WJ_kaiguan	432	Đóng	5	0			377					1							560	980				1	15																			
+WJ_paoche	433	Pháo Xa	5	0			378					1							560	980				1	15																			
+Fb_Stone	435	Bảo Thạch Khoáng	2	0	FubenDialogEvent	2,Đang thu thập...,DigStone	389	995																								NoTurn												
+Fb_Crystal	187	Thủy Tinh Khoáng	2	0	FubenDialogEvent	2,Đang thu thập...,DigCrystal	390	995																								NoTurn												
+digong_gouhuo	436	Lửa Trại	4	0	GouHuoNpc	all|3000|6|3000|0|10	380																	0																				
+digong_gouhuo_1	695	Lửa Trại	4	0	GouHuoNpc	all|3000|5|3000|0|6	380																	0																				
+activity_dyr_gouhuo_1	2402	Lò Lửa Ấm Áp	4	0	GouHuoNpc	teamfuben|3000|5|6000|0|12	945																	0																				
+task_gouhuo	453	Lửa Trại	5	0			380																																					
+zhiyin_jiantou	451	Mũi tên chỉ dẫn	5	0			382																																					
+zhiyin_quan	452	Vòng hướng dẫn	5	0			383																																					
+yw_commerce_npc1	454	Linh Hầu	0	1			117				2700	3	1032	1					600	600	Setting/Npc/Ai/CommonActive.ini			1	18			21																
+yw_commerce_npc2	455	Man Hùng	0	1			116				2700	3	1031	1					600	600	Setting/Npc/Ai/CommonActive.ini			1	18			21																
+yw_commerce_npc3	456	Cự Hạt	0	1			109				2700	3	1032	1					600	600	Setting/Npc/Ai/CommonActive.ini			1	18			21																
+yw_commerce_npc4	457	Sói Xám	0	1			115				2700	3	1031	1					600	600	Setting/Npc/Ai/CommonActive.ini			1	18			21																
+yw_commerce_npc5	458	Kim Tiền Báo	0	1			111				2700	3	1031	1					600	600	Setting/Npc/Ai/CommonActive.ini			1	18	1		21																
+guangquan	459	Thượng Thăng Khí Lưu	5	0			361					1							560	980				1	15																			
+kin_gouhuo_2	516	Hỏa Diệm Lửa Trại Bang Hội	5	0	GouHuoNpc	kin|10000|30|600|1|0	392																																					
+XinshouFb_enemy_1	517	Cường Đạo	0	1	FubenDeath		136					92	166	1					3000	3000	Setting/Npc/Ai/CommonActive.ini			1	20	1																		
+XinshouFb_Boss_1	518	Người Bí Ẩn	4	0	FubenDeath		24	200	994			91	194	1	91	1			1500	1500	Setting/Npc/Ai/fuben/newrole.ini			1	20	2					900006													
+XinshouFb_Boss_2	663	Người Bí Ẩn	0	1	FubenDeath		24	200	994			91	194	1	91	1			1500	1500	Setting/Npc/Ai/fuben/newrole.ini			1	20	2																		
+XinshouFb_Npc_1	519	Trác Phi Phàm	4	0	FubenDeath		194	218	318			91	177	1	91	1			1500	1500	Setting/Npc/Ai/Stay.ini			1	20	1																		
+XinshouFb_Npc_2	520	Trác Phi Phàm	0	0	FubenDeath		194	218	318			91	177	1	91	1			1500	1500	Setting/Npc/Ai/CommonActive.ini			1	20	1																		
+xs_shibing_dh	1150	Tống Binh Trọng Thương	0	0	FubenDeath		477	200	300			92	166	1					1500	1500	Setting/Npc/Ai/CommonActive.ini			1	20	3									2									
+xs_nalanzhen_dh	1221	Thiếu Nữ Bí Ẩn	0	0	FubenDeath		177	13	113			92	166	1					1500	1500	Setting/Npc/Ai/CommonActive.ini			1	20	1									2									
+xs_jinbing_gw	1151	Kim Binh	0	1	FubenDeath		1127	200	300			92	166	1					1500	1500	Setting/Npc/Ai/CommonActive.ini			1	20	1									1									
+xs_jinbing_jy	1158	Bách Phu Trưởng	0	1	FubenDeath		181	200	300			93	166	1					1500	1500	Setting/Npc/Ai/CommonActive.ini			1	20	1									3									
+xs_sishi_gw	1152	Tử Sĩ	0	1	FubenDeath		124	200	300			92	166	1					1500	1500	Setting/Npc/Ai/CommonActive.ini			1	20	1					900001													
+xs_jiangjun_hs	1153	Đại Tướng Quân	0	0	FubenDeath		1113	209	309			91	177	1	91	1			1500	1500	Setting/Npc/Ai/CommonActive.ini			1	20	2									2									
+xs_zhuofeifan_hs	1154	Trác Phi Phàm	0	0	FubenDeath		194	218	318			91	177	1	91	1			1500	1500	Setting/Npc/Ai/CommonActive.ini			1	20	2									2									
+xs_shenmiren_bs	1155	Người Bí Ẩn	0	1	FubenDeath		24	200	994			91	194	1	91	1			1500	1500	Setting/Npc/Ai/fuben/newrole.ini			1	20	2									4									
+xs_dajiang_bs	2711	Hoàn Nhan Hoa Lê	0	1	FubenDeath		180	200	994			91	166	1	91	1			1500	1500	Setting/Npc/Ai/fuben/xinshouboss.ini			1	20	2									4									
+xs_shiti1	2712	Thi Thể Kim Binh	0	0	FubenDeath		1127	200	300			91	166	1					800	800	Setting/Npc/Ai/CommonActive.ini			1	20	3	1													1				
+xs_shiti2	2713	Thi Thể Tống Binh	0	0	FubenDeath		1126	200	300			91												1	20	3	1													1				
+xs_shiti3	2714	Thi Thể Võ Lâm Nhân Sĩ	0	0	FubenDeath		163	200	300			91												1	20	3	1													1				
+xs_shiti4	2715	Thi Thể Võ Lâm Nhân Sĩ	0	0	FubenDeath		120	200	300			91												1	20	3	1													1				
+xs_shiti5	2716	Thi Thể Võ Lâm Nhân Sĩ	0	0	FubenDeath		1210	200	300			91												1	20	3	1													1				
+xs_shiti6	2717	Thi Thể Võ Lâm Nhân Sĩ	0	0	FubenDeath		142	200	300			91												1	20	3	1													1				
+UseImage_1	558	Cô Gái Thần Bí						996	997																																			
+UseImage_2	559	Cô Gái Thần Bí						998	999																																			
+UseImage_3	560	Đệ Tử Thiên Vương						1001	1121																																			
+UseImage_4	561	Đệ Tử Nga Mi						1002	1122																																			
+UseImage_5	562	Đệ Tử Đào Hoa						1003	1123																																			
+UseImage_6	563	Đệ Tử Tiêu Dao						1004	1124																																			
+UseImage_7	1228	Đệ Tử Võ Đang						1005	1125																																			
+UseImage_8	1229	Đệ Tử Thiên Nhẫn						1006	1126																																			
+Fb_Npc_muziyi	577	Mộc Tử Y	2	0	FubenDeath		176	1	101			305	56	1	91	1			3000	3000	Setting/Npc/Ai/Stay.ini			1	20	1																		
+QiYuMiJingNuQi	628	Nộ Khí	2	0	AdventureAnger	3|1000|Đang mở|Kẻ địch đợt sau sắp xuất hiện, các vị đại hiệp hãy sẵn sàng!	377					201												1		1																		
+Wlmz_boss	634	Độc Cô Kiếm	0	1	FubenDeath		32	654				801	1756	1	2304	1			1500	1500	Setting/Npc/Ai/normal/wlmz.ini			1	20	2																		
+Wlmz_boss2	1896	Nam Cung Phi	0	1	FubenDeath		27	307				801	1759	1	2304	1			1500	1500	Setting/Npc/Ai/normal/wlmz_ngfy.ini			1	20	2																		
+Wlmz_boss3	1897	Dương Ảnh Phong	0	1	FubenDeath		536	225				801	1762	1	2304	1	1765	1	1500	1500	Setting/Npc/Ai/normal/wlmz_yyf.ini			1	20	2																		
+Wlmz_boss4	2189	Đường Giản	0	1	FubenDeath		1190	661				801	1785	1	2304	1			1500	1500	Setting/Npc/Ai/normal/wlmz_tj.ini			1	20	2																		
+Wlmz_boss5	3329	Quỷ Cốc Tử	0	1	FubenDeath		1171	666				801	1793	1	2304	1			1500	1500	Setting/Npc/Ai/normal/wlmz_ggz.ini			1	20	2																		
+KinNest_gouhuo	654	Lửa Trại	4	0	GouHuoNpc	all|3000|5|500|0|12	380																	0																				
+KinNest_boss1	655	Cao Thủ Thần Bí	0	1	FubenDeath		152					815	182	1	91	1	1065	2	650	650	Setting/Npc/Ai/CommonActive.ini			1	20	2																		
+KinNest_boss2	656	Cao Thủ Thần Bí	0	1	FubenDeath		169					815	166	1	91	1	1065	2	650	650	Setting/Npc/Ai/CommonActive.ini			1	20	2																		
+KinNest_boss3	657	Cao Thủ Thần Bí	0	1	FubenDeath		24					815	23	1	91	1	1065	2	650	650	Setting/Npc/Ai/CommonActive.ini			1	20	2																		
+DungeonSoldier_1	1307	Cổ Độc Hạt	0	1	FubenDeath		109	200	300			401	21	1	105	1			1500	1500	Setting/Npc/Ai/fuben/DungeonSoldier1.ini			1	12	1																		
+DungeonSoldier_2	1308	Cổ Độc Thù	0	1	FubenDeath		112	200	300			401	21	1	105	1			1500	1500	Setting/Npc/Ai/fuben/DungeonSoldier2.ini			1	15	1									1									
+DungeonSoldier_3	1309	Cổ Độc Phong	0	1	FubenDeath		1182	200	300			401	1689	1	105	1			1500	1500	Setting/Npc/Ai/CommonActive.ini			1	15	1									1									
+DungeonLeader_1	664	Thủ Hộ Thần Bí	0	1	FubenDeath		317	200	300			405	90	1	91	1			1500	1500	Setting/Npc/Ai/fuben/Boss1.ini			1	17	2									4									
+KinTask_np1	672	Tiểu Hòa Thượng	2	0	KinTaskNpc	673	163					3	21	1					3000	3000					18			300																
+KinTask_np2	673	Tiểu Hòa Thượng	0	1	KinTaskFightNpc		163					62	21	1	91	1			600	600	Setting/Npc/Ai/CommonActive.ini			1	18	1		300																
+yewai_10_1	1748	Lưu Manh	0	1	FieldMapNpc		170	200	300		500	611	166	1	200	1			600	600	Setting/Npc/Ai/CommonPassive.ini	1	Setting/Npc/DropFile/yewai/yewai_10.tab	1	18	1							1			16		1754	300					
+yewai_10_2	1749	Đại Đao Mã Tặc	0	1	FieldMapNpc		106	200	300		500	611	166	1	200	1			600	600	Setting/Npc/Ai/CommonPassive.ini	1	Setting/Npc/DropFile/yewai/yewai_10.tab	1	18	1							1			16		1755	300					
+yewai_10_3	1750	Quỷ Thích Khách	0	1	FieldMapNpc		436	200	300		500	611	166	1	200	1			600	600	Setting/Npc/Ai/CommonPassive.ini	1	Setting/Npc/DropFile/yewai/yewai_10.tab	1	18	1							1			16		1756	300					
+yewai_10_4	1751	Ác Bá	0	1	FieldMapNpc		173	200	300		500	611	166	1	200	1			600	600	Setting/Npc/Ai/CommonPassive.ini	1	Setting/Npc/DropFile/yewai/yewai_10.tab	1	18	1							1			16		1757	300					
+yewai_10_5	1752	Đạo Sĩ Vân Du	0	1	FieldMapNpc		169	200	300		500	611	166	1	200	1			600	600	Setting/Npc/Ai/CommonPassive.ini	1	Setting/Npc/DropFile/yewai/yewai_10.tab	1	18	1							1			16		1758	300					
+yewai_10_6	1753	Đông Doanh Nữ Thị	0	1	FieldMapNpc		102	200	300		500	611	166	1	200	1			600	600	Setting/Npc/Ai/CommonPassive.ini	1	Setting/Npc/DropFile/yewai/yewai_10.tab	1	18	1							1			16		1759	300					
+yewai_jy_10_1	1754	Lưu Manh-Tinh Anh	0	1	FieldMapNpc		170	200	300			612	166	1	91	1			600	600	Setting/Npc/Ai/CommonPassive.ini	1	Setting/Npc/DropFile/yewai/yewai_jy_10.tab	1	18	1			197	1			1		3	5000	100000							
+yewai_jy_10_2	1755	Đại Đao Mã Tặc-Tinh Anh	0	1	FieldMapNpc		106	200	300			612	166	1	91	1			600	600	Setting/Npc/Ai/CommonPassive.ini	1	Setting/Npc/DropFile/yewai/yewai_jy_10.tab	1	18	1			197	1			1		3	5000	100000							
+yewai_jy_10_3	1756	Quỷ Thích Khách-Tinh Anh	0	1	FieldMapNpc		436	200	300			612	166	1	91	1			600	600	Setting/Npc/Ai/CommonPassive.ini	1	Setting/Npc/DropFile/yewai/yewai_jy_10.tab	1	18	1			197	1			1		3	5000	100000							
+yewai_jy_10_4	1757	Ác Bá-Tinh Anh	0	1	FieldMapNpc		173	200	300			612	166	1	91	1			600	600	Setting/Npc/Ai/CommonPassive.ini	1	Setting/Npc/DropFile/yewai/yewai_jy_10.tab	1	18	1			197	1			1		3	5000	100000							
+yewai_jy_10_5	1758	Đạo Sĩ Vân Du-Tinh Anh	0	1	FieldMapNpc		169	200	300			612	166	1	91	1			600	600	Setting/Npc/Ai/CommonPassive.ini	1	Setting/Npc/DropFile/yewai/yewai_jy_10.tab	1	18	1			197	1			1		3	5000	100000							
+yewai_jy_10_6	1759	Đông Doanh Nữ Thị-Tinh Anh	0	1	FieldMapNpc		102	200	300			612	166	1	91	1			600	600	Setting/Npc/Ai/CommonPassive.ini	1	Setting/Npc/DropFile/yewai/yewai_jy_10.tab	1	18	1			197	1			1		3	5000	100000							
+yewai_20_1	1010	Đệ Tử Phi Long Bảo	0	1	FieldMapNpc		151	200	300		500	611	166	1	200	1			600	600	Setting/Npc/Ai/CommonPassive.ini	1	Setting/Npc/DropFile/yewai/yewai_20.tab	1	18	1							1			16		1016	300					
+yewai_20_2	1011	Đệ Tử Dược Vương	0	1	FieldMapNpc		139	200	300		500	611	166	1	200	1			600	600	Setting/Npc/Ai/CommonPassive.ini	1	Setting/Npc/DropFile/yewai/yewai_20.tab	1	18	1							1			16		1017	300					
+yewai_20_3	1012	Đệ Tử Ngũ Sắc	0	1	FieldMapNpc		124	200	300		500	611	166	1	200	1			600	600	Setting/Npc/Ai/CommonPassive.ini	1	Setting/Npc/DropFile/yewai/yewai_20.tab	1	18	1							1			16		1018	300					
+yewai_20_4	1013	Lưu Manh	0	1	FieldMapNpc		170	200	300		500	611	166	1	200	1			600	600	Setting/Npc/Ai/CommonPassive.ini	1	Setting/Npc/DropFile/yewai/yewai_20.tab	1	18	1							1			16		1019	300					
+yewai_20_5	1014	Nam Cung Gia Thủ Vệ	0	1	FieldMapNpc		174	200	300		500	611	166	1	200	1			600	600	Setting/Npc/Ai/CommonPassive.ini	1	Setting/Npc/DropFile/yewai/yewai_20.tab	1	18	1							1			16		1020	300					
+yewai_20_6	1015	Lưu Manh Võ Lâm	0	1	FieldMapNpc		134	200	300		500	611	166	1	200	1			600	600	Setting/Npc/Ai/CommonPassive.ini	1	Setting/Npc/DropFile/yewai/yewai_20.tab	1	18	1							1			16		1021	300					
+yewai_jy_20_1	1016	Đệ Tử Phi Long Bảo-Tinh Anh	0	1	FieldMapNpc		151	200	300			612	166	1	91	1			600	600	Setting/Npc/Ai/CommonPassive.ini	1	Setting/Npc/DropFile/yewai/yewai_jy_20.tab	1	18	1			197	1			1		3	5000	100000							
+yewai_jy_20_2	1017	Đệ Tử Dược Vương-Tinh Anh	0	1	FieldMapNpc		139	200	300			612	166	1	91	1			600	600	Setting/Npc/Ai/CommonPassive.ini	1	Setting/Npc/DropFile/yewai/yewai_jy_20.tab	1	18	1			197	1			1		3	5000	100000							
+yewai_jy_20_3	1018	Đệ Tử Ngũ Sắc-Tinh Anh	0	1	FieldMapNpc		124	200	300			612	166	1	91	1			600	600	Setting/Npc/Ai/CommonPassive.ini	1	Setting/Npc/DropFile/yewai/yewai_jy_20.tab	1	18	1			197	1			1		3	5000	100000							
+yewai_jy_20_4	1019	Lưu Manh-Tinh Anh	0	1	FieldMapNpc		170	200	300			612	166	1	91	1			600	600	Setting/Npc/Ai/CommonPassive.ini	1	Setting/Npc/DropFile/yewai/yewai_jy_20.tab	1	18	1			197	1			1		3	5000	100000							
+yewai_jy_20_5	1020	Nam Cung Gia Thủ Vệ-Tinh Anh	0	1	FieldMapNpc		174	200	300			612	166	1	91	1			600	600	Setting/Npc/Ai/CommonPassive.ini	1	Setting/Npc/DropFile/yewai/yewai_jy_20.tab	1	18	1			197	1			1		3	5000	100000							
+yewai_jy_20_6	1021	Lưu Manh Võ Lâm-Tinh Anh	0	1	FieldMapNpc		134	200	300			612	166	1	91	1			600	600	Setting/Npc/Ai/CommonPassive.ini	1	Setting/Npc/DropFile/yewai/yewai_jy_20.tab	1	18	1			197	1			1		3	5000	100000							
+yewai_40_1	1022	Nữ Vũ Thị	0	1	FieldMapNpc		102	200	300		500	611	166	1	200	1			600	600	Setting/Npc/Ai/CommonPassive.ini	1	Setting/Npc/DropFile/yewai/yewai_40.tab	1	18	1							1			16		1028	300					
+yewai_40_2	1023	Đao Thị Vệ	0	1	FieldMapNpc		106	200	300		500	611	166	1	200	1			600	600	Setting/Npc/Ai/CommonPassive.ini	1	Setting/Npc/DropFile/yewai/yewai_40.tab	1	18	1							1			16		1029	300					
+yewai_40_3	1024	Ác Nhân Cốc Cuồng Đồ	0	1	FieldMapNpc		436	200	300		500	611	166	1	200	1			600	600	Setting/Npc/Ai/CommonPassive.ini	1	Setting/Npc/DropFile/yewai/yewai_40.tab	1	18	1							1			16		1030	300					
+yewai_40_4	1025	Đạo Chích	0	1	FieldMapNpc		170	200	300		500	611	166	1	200	1			600	600	Setting/Npc/Ai/CommonPassive.ini	1	Setting/Npc/DropFile/yewai/yewai_40.tab	1	18	1							1			16		1031	300					
+yewai_40_5	1026	Mao Sơn Đạo Sĩ	0	1	FieldMapNpc		169	200	300		500	611	166	1	200	1			600	600	Setting/Npc/Ai/CommonPassive.ini	1	Setting/Npc/DropFile/yewai/yewai_40.tab	1	18	1							1			16		1032	300					
+yewai_40_6	1027	Lục Lâm	0	1	FieldMapNpc		173	200	300		500	611	166	1	200	1			600	600	Setting/Npc/Ai/CommonPassive.ini	1	Setting/Npc/DropFile/yewai/yewai_40.tab	1	18	1							1			16		1033	300					
+yewai_jy_40_1	1028	Nữ Vũ Thị-Tinh Anh	0	1	FieldMapNpc		102	200	300			612	166	1	91	1			600	600	Setting/Npc/Ai/CommonPassive.ini	1	Setting/Npc/DropFile/yewai/yewai_jy_40.tab	1	18	1			197	1			1		3	5000	100000							
+yewai_jy_40_2	1029	Đao Thị Vệ-Tinh Anh	0	1	FieldMapNpc		106	200	300			612	166	1	91	1			600	600	Setting/Npc/Ai/CommonPassive.ini	1	Setting/Npc/DropFile/yewai/yewai_jy_40.tab	1	18	1			197	1			1		3	5000	100000							
+yewai_jy_40_3	1030	Ác Nhân Cốc Cuồng Đồ-Tinh Anh	0	1	FieldMapNpc		436	200	300			612	166	1	91	1			600	600	Setting/Npc/Ai/CommonPassive.ini	1	Setting/Npc/DropFile/yewai/yewai_jy_40.tab	1	18	1			197	1			1		3	5000	100000							
+yewai_jy_40_4	1031	Đạo Chích-Tinh Anh	0	1	FieldMapNpc		170	200	300			612	166	1	91	1			600	600	Setting/Npc/Ai/CommonPassive.ini	1	Setting/Npc/DropFile/yewai/yewai_jy_40.tab	1	18	1			197	1			1		3	5000	100000							
+yewai_jy_40_5	1032	Mao Sơn Đạo Sĩ-Tinh Anh	0	1	FieldMapNpc		169	200	300			612	166	1	91	1			600	600	Setting/Npc/Ai/CommonPassive.ini	1	Setting/Npc/DropFile/yewai/yewai_jy_40.tab	1	18	1			197	1			1		3	5000	100000							
+yewai_jy_40_6	1033	Lục Lâm-Tinh Anh	0	1	FieldMapNpc		173	200	300			612	166	1	91	1			600	600	Setting/Npc/Ai/CommonPassive.ini	1	Setting/Npc/DropFile/yewai/yewai_jy_40.tab	1	18	1			197	1			1		3	5000	100000							
+yewai_40_pk_1	1222	Ác Nhân Cốc Đồ Phu	0	1	FieldMapNpc		171	200	300		600	611	166	1	200	1			600	600	Setting/Npc/Ai/CommonPassive.ini	1	Setting/Npc/DropFile/yewai/yewai_20.tab	1	18	1							1			16		1224	300					
+yewai_40_pk_2	1223	Triều Đình Tinh Nhuệ	0	1	FieldMapNpc		150	200	300		600	611	166	1	200	1			600	600	Setting/Npc/Ai/CommonPassive.ini	1	Setting/Npc/DropFile/yewai/yewai_20.tab	1	18	1							1			16		1230	300					
+yewai_jy_40_pk_1	1224	Ác Nhân Cốc Đồ Phu-Tinh Anh	0	1	FieldMapNpc		171	200	300			612	166	1	91	1			600	600	Setting/Npc/Ai/CommonPassive.ini	1	Setting/Npc/DropFile/yewai/yewai_jy_20.tab	1	18	1			197	1			1		3	5000	100000							
+yewai_jy_40_pk_2	1230	Triều Đình Tinh Nhuệ-Tinh Anh	0	1	FieldMapNpc		150	200	300			612	166	1	91	1			600	600	Setting/Npc/Ai/CommonPassive.ini	1	Setting/Npc/DropFile/yewai/yewai_jy_20.tab	1	18	1			197	1			1		3	5000	100000							
+yewai_50_pk_1	1760	Võ Lâm Ác Đồ	0	1	FieldMapNpc		171	200	300		600	611	166	1	200	1			600	600	Setting/Npc/Ai/CommonPassive.ini	1	Setting/Npc/DropFile/yewai/yewai_50.tab	1	18	1							1			16		1762	300					
+yewai_50_pk_2	1761	Cấm Binh	0	1	FieldMapNpc		150	200	300		600	611	166	1	200	1			600	600	Setting/Npc/Ai/CommonPassive.ini	1	Setting/Npc/DropFile/yewai/yewai_50.tab	1	18	1							1			16		1763	300					
+yewai_jy_50_pk_1	1762	Võ Lâm Ác Đồ-Tinh Anh	0	1	FieldMapNpc		171	200	300			612	166	1	91	1			600	600	Setting/Npc/Ai/CommonPassive.ini	1	Setting/Npc/DropFile/yewai/yewai_jy_40.tab	1	18	1			197	1			1		3	5000	100000							
+yewai_jy_50_pk_2	1763	Cấm Binh-Tinh Anh	0	1	FieldMapNpc		150	200	300			612	166	1	91	1			600	600	Setting/Npc/Ai/CommonPassive.ini	1	Setting/Npc/DropFile/yewai/yewai_jy_40.tab	1	18	1			197	1			1		3	5000	100000							
+yewai_60_1	1034	Tống Binh	0	1	FieldMapNpc		151	200	300		500	611	166	1	200	1			600	600	Setting/Npc/Ai/CommonPassive.ini	1	Setting/Npc/DropFile/yewai/yewai_60.tab	1	18	1							1			16		1040	300					
+yewai_60_2	1035	Hái Thuốc	0	1	FieldMapNpc		139	200	300		500	611	166	1	200	1			600	600	Setting/Npc/Ai/CommonPassive.ini	1	Setting/Npc/DropFile/yewai/yewai_60.tab	1	18	1							1			16		1041	300					
+yewai_60_3	1036	Thích Khách Thần Bí	0	1	FieldMapNpc		124	200	300		500	611	166	1	200	1			600	600	Setting/Npc/Ai/CommonPassive.ini	1	Setting/Npc/DropFile/yewai/yewai_60.tab	1	18	1							1			16		1042	300					
+yewai_60_4	1037	Đạo Tặc	0	1	FieldMapNpc		170	200	300		500	611	166	1	200	1			600	600	Setting/Npc/Ai/CommonPassive.ini	1	Setting/Npc/DropFile/yewai/yewai_60.tab	1	18	1							1			16		1043	300					
+yewai_60_5	1038	Thích Khách Bịt Mặt	0	1	FieldMapNpc		174	200	300		500	611	166	1	200	1			600	600	Setting/Npc/Ai/CommonPassive.ini	1	Setting/Npc/DropFile/yewai/yewai_60.tab	1	18	1							1			16		1044	300					
+yewai_60_6	1039	Đệ Tử Vô Ưu Giáo	0	1	FieldMapNpc		134	200	300		500	611	166	1	200	1			600	600	Setting/Npc/Ai/CommonPassive.ini	1	Setting/Npc/DropFile/yewai/yewai_60.tab	1	18	1							1			16		1045	300					
+yewai_jy_60_1	1040	Tống Binh-Tinh Anh	0	1	FieldMapNpc		151	200	300			612	166	1	91	1			600	600	Setting/Npc/Ai/CommonPassive.ini	1	Setting/Npc/DropFile/yewai/yewai_jy_60.tab	1	18	1			197	1			1		3	5000	100000							
+yewai_jy_60_2	1041	Hái Thuốc-Tinh Anh	0	1	FieldMapNpc		139	200	300			612	166	1	91	1			600	600	Setting/Npc/Ai/CommonPassive.ini	1	Setting/Npc/DropFile/yewai/yewai_jy_60.tab	1	18	1			197	1			1		3	5000	100000							
+yewai_jy_60_3	1042	Thích Khách Thần Bí-Tinh Anh	0	1	FieldMapNpc		124	200	300			612	166	1	91	1			600	600	Setting/Npc/Ai/CommonPassive.ini	1	Setting/Npc/DropFile/yewai/yewai_jy_60.tab	1	18	1			197	1			1		3	5000	100000							
+yewai_jy_60_4	1043	Đạo Tặc-Tinh Anh	0	1	FieldMapNpc		170	200	300			612	166	1	91	1			600	600	Setting/Npc/Ai/CommonPassive.ini	1	Setting/Npc/DropFile/yewai/yewai_jy_60.tab	1	18	1			197	1			1		3	5000	100000							
+yewai_jy_60_5	1044	Thích Khách Bịt Mặt-Tinh Anh	0	1	FieldMapNpc		174	200	300			612	166	1	91	1			600	600	Setting/Npc/Ai/CommonPassive.ini	1	Setting/Npc/DropFile/yewai/yewai_jy_60.tab	1	18	1			197	1			1		3	5000	100000							
+yewai_jy_60_6	1045	Vô Ưu Giáo Đệ Tử-Tinh Anh	0	1	FieldMapNpc		134	200	300			612	166	1	91	1			600	600	Setting/Npc/Ai/CommonPassive.ini	1	Setting/Npc/DropFile/yewai/yewai_jy_60.tab	1	18	1			197	1			1		3	5000	100000							
+yewai_70_pk_1	1851	Cường Đạo	0	1	FieldMapNpc		171	200	300		600	611	166	1	200	1			600	600	Setting/Npc/Ai/CommonPassive.ini	1	Setting/Npc/DropFile/yewai/yewai_70.tab	1	18	1							1			16		1853	300					
+yewai_70_pk_2	1852	Triều Phản Quân	0	1	FieldMapNpc		150	200	300		600	611	166	1	200	1			600	600	Setting/Npc/Ai/CommonPassive.ini	1	Setting/Npc/DropFile/yewai/yewai_70.tab	1	18	1							1			16		1854	300					
+yewai_jy_70_pk_1	1853	Cường Đạo-Tinh Anh	0	1	FieldMapNpc		171	200	300			612	166	1	91	1			600	600	Setting/Npc/Ai/CommonPassive.ini	1	Setting/Npc/DropFile/yewai/yewai_jy_60.tab	1	18	1			197	1			1		3	5000	100000							
+yewai_jy_70_pk_2	1854	Triều Phản Quân-Tinh Anh	0	1	FieldMapNpc		150	200	300			612	166	1	91	1			600	600	Setting/Npc/Ai/CommonPassive.ini	1	Setting/Npc/DropFile/yewai/yewai_jy_60.tab	1	18	1			197	1			1		3	5000	100000							
+yewai_80_1	1855	Địa Bì	0	1	FieldMapNpc		170	200	300		500	611	166	1	200	1			600	600	Setting/Npc/Ai/CommonPassive.ini	1	Setting/Npc/DropFile/yewai/yewai_80.tab	1	18	1							1			16		1861	300					
+yewai_80_2	1856	Phong Lâm Vệ	0	1	FieldMapNpc		106	200	300		500	611	166	1	200	1			600	600	Setting/Npc/Ai/CommonPassive.ini	1	Setting/Npc/DropFile/yewai/yewai_80.tab	1	18	1							1			16		1862	300					
+yewai_80_3	1857	Quỷ Diện Thị Vệ	0	1	FieldMapNpc		436	200	300		500	611	166	1	200	1			600	600	Setting/Npc/Ai/CommonPassive.ini	1	Setting/Npc/DropFile/yewai/yewai_80.tab	1	18	1							1			16		1863	300					
+yewai_80_4	1858	Lưu Manh Phố Chợ	0	1	FieldMapNpc		173	200	300		500	611	166	1	200	1			600	600	Setting/Npc/Ai/CommonPassive.ini	1	Setting/Npc/DropFile/yewai/yewai_80.tab	1	18	1							1			16		1864	300					
+yewai_80_5	1859	Vô Lại Phố Chợ	0	1	FieldMapNpc		169	200	300		500	611	166	1	200	1			600	600	Setting/Npc/Ai/CommonPassive.ini	1	Setting/Npc/DropFile/yewai/yewai_80.tab	1	18	1							1			16		1865	300					
+yewai_80_6	1860	Đông Doanh Ca Kỹ	0	1	FieldMapNpc		102	200	300		500	611	166	1	200	1			600	600	Setting/Npc/Ai/CommonPassive.ini	1	Setting/Npc/DropFile/yewai/yewai_80.tab	1	18	1							1			16		1866	300					
+yewai_jy_80_1	1861	Địa Bì-Tinh Anh	0	1	FieldMapNpc		170	200	300			612	166	1	91	1			600	600	Setting/Npc/Ai/CommonPassive.ini	1	Setting/Npc/DropFile/yewai/yewai_jy_80.tab	1	18	1			197	1			1		3	5000	100000							
+yewai_jy_80_2	1862	Phong Lâm Vệ-Tinh Anh	0	1	FieldMapNpc		106	200	300			612	166	1	91	1			600	600	Setting/Npc/Ai/CommonPassive.ini	1	Setting/Npc/DropFile/yewai/yewai_jy_80.tab	1	18	1			197	1			1		3	5000	100000							
+yewai_jy_80_3	1863	Quỷ Diện Thị Vệ-Tinh Anh	0	1	FieldMapNpc		436	200	300			612	166	1	91	1			600	600	Setting/Npc/Ai/CommonPassive.ini	1	Setting/Npc/DropFile/yewai/yewai_jy_80.tab	1	18	1			197	1			1		3	5000	100000							
+yewai_jy_80_4	1864	Lưu Manh Phố Chợ-Tinh Anh	0	1	FieldMapNpc		173	200	300			612	166	1	91	1			600	600	Setting/Npc/Ai/CommonPassive.ini	1	Setting/Npc/DropFile/yewai/yewai_jy_80.tab	1	18	1			197	1			1		3	5000	100000							
+yewai_jy_80_5	1865	Vô Lại Phố Chợ-Tinh Anh	0	1	FieldMapNpc		169	200	300			612	166	1	91	1			600	600	Setting/Npc/Ai/CommonPassive.ini	1	Setting/Npc/DropFile/yewai/yewai_jy_80.tab	1	18	1			197	1			1		3	5000	100000							
+yewai_jy_80_6	1866	Đông Doanh Ca Kỹ-Tinh Anh	0	1	FieldMapNpc		102	200	300			612	166	1	91	1			600	600	Setting/Npc/Ai/CommonPassive.ini	1	Setting/Npc/DropFile/yewai/yewai_jy_80.tab	1	18	1			197	1			1		3	5000	100000							
+yewai_90_pk_1	2047	Man Hùng	0	1	FieldMapNpc		116	200	300		600	611	166	1	200	1			600	600	Setting/Npc/Ai/CommonPassive.ini	1	Setting/Npc/DropFile/yewai/yewai_90.tab	1	18	1							1			16		2049	300					
+yewai_90_pk_2	2048	Người Săn Bắt	0	1	FieldMapNpc		159	200	300		600	611	182	1	200	1			600	600	Setting/Npc/Ai/CommonPassive.ini	1	Setting/Npc/DropFile/yewai/yewai_90.tab	1	18	1							1			16		2050	300					
+yewai_jy_90_pk_1	2049	Man Hùng-Tinh Anh	0	1	FieldMapNpc		116	200	300			612	166	1	91	1			600	600	Setting/Npc/Ai/CommonPassive.ini	1	Setting/Npc/DropFile/yewai/yewai_jy_80.tab	1	18	1			197	1			1		3	5000	100000							
+yewai_jy_90_pk_2	2050	Người Săn Bắt-Tinh Anh	0	1	FieldMapNpc		159	200	300			612	182	1	91	1			600	600	Setting/Npc/Ai/CommonPassive.ini	1	Setting/Npc/DropFile/yewai/yewai_jy_80.tab	1	18	1			197	1			1		3	5000	100000							
+yewai_100_1	2067	Linh Hầu	0	1	FieldMapNpc		117	200	300		500	611	166	1	200	1			600	600	Setting/Npc/Ai/CommonPassive.ini	1	Setting/Npc/DropFile/yewai/yewai_100.tab	1	18	1							1			16		2073	300					
+yewai_100_2	2068	Hái Thuốc	0	1	FieldMapNpc		139	200	300		500	611	166	1	200	1			600	600	Setting/Npc/Ai/CommonPassive.ini	1	Setting/Npc/DropFile/yewai/yewai_100.tab	1	18	1							1			16		2074	300					
+yewai_100_3	2069	Đại Đạo Tặc	0	1	FieldMapNpc		174	200	300		500	611	166	1	200	1			600	600	Setting/Npc/Ai/CommonPassive.ini	1	Setting/Npc/DropFile/yewai/yewai_100.tab	1	18	1							1			16		2075	300					
+yewai_100_4	2070	Sói Xám	0	1	FieldMapNpc		115	200	300		500	611	166	1	200	1			600	600	Setting/Npc/Ai/CommonPassive.ini	1	Setting/Npc/DropFile/yewai/yewai_100.tab	1	18	1							1			16		2076	300					
+yewai_100_5	2071	Kim Binh	0	1	FieldMapNpc		1127	200	300		500	611	166	1	200	1			600	600	Setting/Npc/Ai/CommonPassive.ini	1	Setting/Npc/DropFile/yewai/yewai_100.tab	1	18	1							1			16		2077	300					
+yewai_100_6	2072	Hoa Tặc	0	1	FieldMapNpc		173	200	300		500	611	166	1	200	1			600	600	Setting/Npc/Ai/CommonPassive.ini	1	Setting/Npc/DropFile/yewai/yewai_100.tab	1	18	1							1			16		2078	300					
+yewai_jy_100_1	2073	Linh Hầu-Tinh Anh	0	1	FieldMapNpc		117	200	300			612	166	1	91	1			600	600	Setting/Npc/Ai/CommonPassive.ini	1	Setting/Npc/DropFile/yewai/yewai_jy_100.tab	1	18	1			197	1			1		3	5000	100000							
+yewai_jy_100_2	2074	Hái Thuốc-Tinh Anh	0	1	FieldMapNpc		139	200	300			612	166	1	91	1			600	600	Setting/Npc/Ai/CommonPassive.ini	1	Setting/Npc/DropFile/yewai/yewai_jy_100.tab	1	18	1			197	1			1		3	5000	100000							
+yewai_jy_100_3	2075	Đại Đạo Tặc-Tinh Anh	0	1	FieldMapNpc		174	200	300			612	166	1	91	1			600	600	Setting/Npc/Ai/CommonPassive.ini	1	Setting/Npc/DropFile/yewai/yewai_jy_100.tab	1	18	1			197	1			1		3	5000	100000							
+yewai_jy_100_4	2076	Sói Xám-Tinh Anh	0	1	FieldMapNpc		115	200	300			612	166	1	91	1			600	600	Setting/Npc/Ai/CommonPassive.ini	1	Setting/Npc/DropFile/yewai/yewai_jy_100.tab	1	18	1			197	1			1		3	5000	100000							
+yewai_jy_100_5	2077	Kim Binh-Tinh Anh	0	1	FieldMapNpc		1127	200	300			612	166	1	91	1			600	600	Setting/Npc/Ai/CommonPassive.ini	1	Setting/Npc/DropFile/yewai/yewai_jy_100.tab	1	18	1			197	1			1		3	5000	100000							
+yewai_jy_100_6	2078	Hoa Tặc-Tinh Anh	0	1	FieldMapNpc		173	200	300			612	166	1	91	1			600	600	Setting/Npc/Ai/CommonPassive.ini	1	Setting/Npc/DropFile/yewai/yewai_jy_100.tab	1	18	1			197	1			1		3	5000	100000							
+yewai_110_pk_1	2414	Tống Quân Tinh Nhuệ	0	1	FieldMapNpc		151	200	300		600	611	166	1	200	1			600	600	Setting/Npc/Ai/CommonPassive.ini	1	Setting/Npc/DropFile/yewai/yewai_110.tab	1	18	1							1			16		2416	300					
+yewai_110_pk_2	2415	Kim Quân Tinh Nhuệ	0	1	FieldMapNpc		1127	200	300		600	611	166	1	200	1			600	600	Setting/Npc/Ai/CommonPassive.ini	1	Setting/Npc/DropFile/yewai/yewai_110.tab	1	18	1							1			16		2417	300					
+yewai_jy_110_pk_1	2416	Tống Quân Tinh Nhuệ-Tinh Anh	0	1	FieldMapNpc		151	200	300			612	166	1	91	1			600	600	Setting/Npc/Ai/CommonPassive.ini	1	Setting/Npc/DropFile/yewai/yewai_jy_100.tab	1	18	1			197	1			1		3	5000	100000							
+yewai_jy_110_pk_2	2417	Kim Quân Tinh Nhuệ-Tinh Anh	0	1	FieldMapNpc		1127	200	300			612	166	1	91	1			600	600	Setting/Npc/Ai/CommonPassive.ini	1	Setting/Npc/DropFile/yewai/yewai_jy_100.tab	1	18	1			197	1			1		3	5000	100000							
+yewai_120_1	2703	Đại Mạc Tặc Phỉ	0	1	FieldMapNpc		106	200	300		500	611	166	1	200	1			600	600	Setting/Npc/Ai/CommonPassive.ini	1	Setting/Npc/DropFile/yewai/yewai_120.tab	1	18	1							1			16		2707	300					
+yewai_120_2	2704	Đại Mạc Ác Nhân	0	1	FieldMapNpc		436	200	300		500	611	166	1	200	1			600	600	Setting/Npc/Ai/CommonPassive.ini	1	Setting/Npc/DropFile/yewai/yewai_120.tab	1	18	1							1			16		2708	300					
+yewai_120_3	2705	Mạc Kim Hiệu Úy	0	1	FieldMapNpc		106	200	300		500	611	166	1	200	1			600	600	Setting/Npc/Ai/CommonPassive.ini	1	Setting/Npc/DropFile/yewai/yewai_120.tab	1	18	1							1			16		2709	300					
+yewai_120_4	2706	Hoàng Lăng Thủ Vệ	0	1	FieldMapNpc		1127	200	300		500	611	166	1	200	1			600	600	Setting/Npc/Ai/CommonPassive.ini	1	Setting/Npc/DropFile/yewai/yewai_120.tab	1	18	1							1			16		2710	300					
+yewai_jy_120_1	2707	Đại Mạc Tặc Phỉ-Tinh Anh	0	1	FieldMapNpc		106	200	300			612	166	1	91	1			600	600	Setting/Npc/Ai/CommonPassive.ini	1	Setting/Npc/DropFile/yewai/yewai_jy_120.tab	1	18	1			197	1			1		3	5000	100000							
+yewai_jy_120_2	2708	Đại Mạc Ác Nhân-Tinh Anh	0	1	FieldMapNpc		436	200	300			612	166	1	91	1			600	600	Setting/Npc/Ai/CommonPassive.ini	1	Setting/Npc/DropFile/yewai/yewai_jy_120.tab	1	18	1			197	1			1		3	5000	100000							
+yewai_jy_120_3	2709	Mạc Kim Hiệu Úy-Tinh Anh	0	1	FieldMapNpc		106	200	300			612	166	1	91	1			600	600	Setting/Npc/Ai/CommonPassive.ini	1	Setting/Npc/DropFile/yewai/yewai_jy_120.tab	1	18	1			197	1			1		3	5000	100000							
+yewai_jy_120_4	2710	Hoàng Lăng Thủ Vệ-Tinh Anh	0	1	FieldMapNpc		1127	200	300			612	166	1	91	1			600	600	Setting/Npc/Ai/CommonPassive.ini	1	Setting/Npc/DropFile/yewai/yewai_jy_120.tab	1	18	1			197	1			1		3	5000	100000							
+yewai_130_pk_1	2904	Hoang Mạc Ngạ Lang	0	1	FieldMapNpc		115	200	300		600	611	166	1	200	1			600	600	Setting/Npc/Ai/CommonPassive.ini	1	Setting/Npc/DropFile/yewai/yewai_130.tab	1	18	1							1			16		2906	300					
+yewai_130_pk_2	2905	Hoang Mạc Hãn Phỉ	0	1	FieldMapNpc		436	200	300		600	611	166	1	200	1			600	600	Setting/Npc/Ai/CommonPassive.ini	1	Setting/Npc/DropFile/yewai/yewai_130.tab	1	18	1							1			16		2907	300					
+yewai_jy_130_pk_1	2906	Hoang Mạc Ngạ Lang-Tinh Anh	0	1	FieldMapNpc		115	200	300			612	166	1	91	1			600	600	Setting/Npc/Ai/CommonPassive.ini	1	Setting/Npc/DropFile/yewai/yewai_jy_130.tab	1	18	1			197	1			1		3	5000	100000							
+yewai_jy_130_pk_2	2907	Hoang Mạc Hãn Phỉ-Tinh Anh	0	1	FieldMapNpc		436	200	300			612	166	1	91	1			600	600	Setting/Npc/Ai/CommonPassive.ini	1	Setting/Npc/DropFile/yewai/yewai_jy_130.tab	1	18	1			197	1			1		3	5000	100000							
+yewai_140_1	3320	Đông Doanh Ca Kỹ	0	1	FieldMapNpc		102	200	300		500	611	166	1	200	1			600	600	Setting/Npc/Ai/CommonPassive.ini	1	Setting/Npc/DropFile/yewai/yewai_140.tab	1	18	1							1			16		3324	300					
+yewai_140_2	3321	Hái Thuốc	0	1	FieldMapNpc		139	200	300		500	611	166	1	200	1			600	600	Setting/Npc/Ai/CommonPassive.ini	1	Setting/Npc/DropFile/yewai/yewai_140.tab	1	18	1							1			16		3325	300					
+yewai_140_3	3322	Man Hùng	0	1	FieldMapNpc		116	200	300		500	611	166	1	200	1			600	600	Setting/Npc/Ai/CommonPassive.ini	1	Setting/Npc/DropFile/yewai/yewai_140.tab	1	18	1							1			16		3326	300					
+yewai_140_4	3323	Người Săn Bắt	0	1	FieldMapNpc		159	200	300		500	611	166	1	200	1			600	600	Setting/Npc/Ai/CommonPassive.ini	1	Setting/Npc/DropFile/yewai/yewai_140.tab	1	18	1							1			16		3327	300					
+yewai_jy_140_1	3324	Đông Doanh Ca Kỹ-Tinh Anh	0	1	FieldMapNpc		102	200	300			612	166	1	91	1			600	600	Setting/Npc/Ai/CommonPassive.ini	1	Setting/Npc/DropFile/yewai/yewai_jy_140.tab	1	18	1			197	1			1		3	5000	100000							
+yewai_jy_140_2	3325	Hái Thuốc-Tinh Anh	0	1	FieldMapNpc		139	200	300			612	166	1	91	1			600	600	Setting/Npc/Ai/CommonPassive.ini	1	Setting/Npc/DropFile/yewai/yewai_jy_140.tab	1	18	1			197	1			1		3	5000	100000							
+yewai_jy_140_3	3326	Man Hùng-Tinh Anh	0	1	FieldMapNpc		116	200	300			612	166	1	91	1			600	600	Setting/Npc/Ai/CommonPassive.ini	1	Setting/Npc/DropFile/yewai/yewai_jy_140.tab	1	18	1			197	1			1		3	5000	100000							
+yewai_jy_140_4	3327	Người Săn Bắt-Tinh Anh	0	1	FieldMapNpc		159	200	300			612	166	1	91	1			600	600	Setting/Npc/Ai/CommonPassive.ini	1	Setting/Npc/DropFile/yewai/yewai_jy_140.tab	1	18	1			197	1			1		3	5000	100000							
+yewai_150_pk_1	3449	Tống Quân Tinh Nhuệ	0	1	FieldMapNpc		151	200	300		600	611	166	1	200	1			600	600	Setting/Npc/Ai/CommonPassive.ini	1	Setting/Npc/DropFile/yewai/yewai_150.tab	1	18	1							1			16		3451	300					
+yewai_150_pk_2	3450	Kim Quân Tinh Nhuệ	0	1	FieldMapNpc		1127	200	300		600	611	166	1	200	1			600	600	Setting/Npc/Ai/CommonPassive.ini	1	Setting/Npc/DropFile/yewai/yewai_150.tab	1	18	1							1			16		3452	300					
+yewai_jy_150_pk_1	3451	Tống Quân Tinh Nhuệ-Tinh Anh	0	1	FieldMapNpc		151	200	300			612	166	1	91	1			600	600	Setting/Npc/Ai/CommonPassive.ini	1	Setting/Npc/DropFile/yewai/yewai_jy_150.tab	1	18	1			197	1			1		3	5000	100000							
+yewai_jy_150_pk_2	3452	Kim Quân Tinh Nhuệ-Tinh Anh	0	1	FieldMapNpc		1127	200	300			612	166	1	91	1			600	600	Setting/Npc/Ai/CommonPassive.ini	1	Setting/Npc/DropFile/yewai/yewai_jy_150.tab	1	18	1			197	1			1		3	5000	100000							
+yewai_160_1	3735	Điền Biên Ác Phỉ	0	1	FieldMapNpc		436	200	300		500	611	166	1	200	1			600	600	Setting/Npc/Ai/CommonPassive.ini	1	Setting/Npc/DropFile/yewai/yewai_160.tab	1	18	1							1			16		3739	300					
+yewai_160_2	3736	Thải Dược Nhân	0	1	FieldMapNpc		139	200	300		500	611	166	1	200	1			600	600	Setting/Npc/Ai/CommonPassive.ini	1	Setting/Npc/DropFile/yewai/yewai_160.tab	1	18	1							1			16		3740	300					
+yewai_160_3	3737	Mông Diện Thủy Tặc	0	1	FieldMapNpc		174	200	300		500	611	166	1	200	1			600	600	Setting/Npc/Ai/CommonPassive.ini	1	Setting/Npc/DropFile/yewai/yewai_160.tab	1	18	1							1			16		3741	300					
+yewai_160_4	3738	Giang Nam Thị Nữ	0	1	FieldMapNpc		102	200	300		500	611	166	1	200	1			600	600	Setting/Npc/Ai/CommonPassive.ini	1	Setting/Npc/DropFile/yewai/yewai_160.tab	1	18	1							1			16		3742	300					
+yewai_jy_160_1	3739	Điền Biên Ác Phỉ-Tinh Anh	0	1	FieldMapNpc		436	200	300			612	166	1	91	1			600	600	Setting/Npc/Ai/CommonPassive.ini	1	Setting/Npc/DropFile/yewai/yewai_jy_160.tab	1	18	1			197	1			1		3	5000	100000							
+yewai_jy_160_2	3740	Thải Dược Nhân-Tinh Anh	0	1	FieldMapNpc		139	200	300			612	166	1	91	1			600	600	Setting/Npc/Ai/CommonPassive.ini	1	Setting/Npc/DropFile/yewai/yewai_jy_160.tab	1	18	1			197	1			1		3	5000	100000							
+yewai_jy_160_3	3741	Mông Diện Thủy Tặc-Tinh Anh	0	1	FieldMapNpc		174	200	300			612	166	1	91	1			600	600	Setting/Npc/Ai/CommonPassive.ini	1	Setting/Npc/DropFile/yewai/yewai_jy_160.tab	1	18	1			197	1			1		3	5000	100000							
+yewai_jy_160_4	3742	Giang Nam Thị Nữ-Tinh Anh	0	1	FieldMapNpc		102	200	300			612	166	1	91	1			600	600	Setting/Npc/Ai/CommonPassive.ini	1	Setting/Npc/DropFile/yewai/yewai_jy_160.tab	1	18	1			197	1			1		3	5000	100000							
+yewai_gouhuo_1	1073	Lửa Trại	5	0	GouHuoNpc		380																																					
+HighCangbaotu_npc1	1253	Đoạt Bảo Tặc	0	1	DuoBaoZei		134					611	166	1	91	1			500	500	Setting/Npc/Ai/CommonActive.ini			1	18	1																		
+wanglaoji_1	1339	Thơ Mộng	2	1			1123	1	308			1	56	1										0	15	1																		
+daiyanren_1	1666	Đĩnh Ca	2	1	SpokesmanTask		1134			Võ công Tịch Mạc Song Sát cao cường, hãy cùng bằng hữu truy bắt, hy vọng đại hiệp có thể mang Bánh Hựu Duyên trở về.		1	56	1										0	15	1																		
+ZhaoYouTing	2116	Lâm Triều Hoa	2	1			1179			Ta có rượu, ngươi có truyện chứ?		1	56	1	1696	1								0	15	1																		
+daiyanren_2	1667	Tiểu Duyên	2	1			1133			Không ngờ Đĩnh sư đệ lại biết ta thích【Bánh Hựu Duyên】, còn mời được【Thỏ Xám】và【Thỏ Trắng】nữa chứ.		1	56	1										0	15	1																		
+daiyanren_3	1668	Tịch	0	1			11					612	22	1	91	1			500	500	Setting/Npc/Ai/random/murongyue.ini			1	17	2																		
+daiyanren_4	1669	Mịch	0	1			12					612	21	1	91	1			500	500	Setting/Npc/Ai/random/murongyue.ini			1	17	2																		
+daiyanren_5	1677	Đĩnh Ca	2	1	ClientTaskNpc		1134		993			1	56	1							Setting/Npc/Ai/CommonActive.ini			0	15	3																		
+daiyanren_9	1685	Tiểu Duyên	2	1	ClientTaskNpc		1133		993	Nghe nói Thỏ Xám và Thỏ Trắng xuất hiện ở Tương Dương, làm ra Bánh Hựu Duyên, không biết có duyên thưởng thức hay không.		1	56	1							Setting/Npc/Ai/CommonActive.ini			0	15	3																		
+daiyanren_7	1679	Đĩnh Ca	0	1			1134					1	56	1							Setting/Npc/Ai/CommonActive.ini			0	20	3																		
+daiyanren_6	1678	Tiểu Duyên	0	1			1133					1	56	1							Setting/Npc/Ai/CommonActive.ini			0	20	3																		
+Npc_Horse	1613	Ngọ	4	1			479	999				1	21	1							Setting/Npc/Ai/CommonActive.ini			0	15	1																		
+LT_anquanqu	1720	Doanh Địa Chinh Chiến-Sáng	5	0			501	200	994			91									Setting/Npc/Ai/Stay.ini			0	15	3	1													1				
+LT_anquanqu1	1721	Doanh Địa Chinh Chiến-Thường	5	0			502	200	994			91									Setting/Npc/Ai/Stay.ini			0	15	3	1													1				
+LT_anquanqu2	1722	Doanh Địa Chinh Chiến-Tối	5	0			503	200	994			91									Setting/Npc/Ai/Stay.ini			0	15	3	1													1				
+LT_gate	1723	Cổng Thành	0	1	BattleNpc		504	200	994			1001			91	1	105	1	1500	1500	Setting/Npc/Ai/Stay.ini			0	20	2	1					NoTurn										1	1	
+LT_gate_v	1777	Cổng Thành	0	1	BattleNpc		504	200	994			1002			91	1	105	1	1500	1500	Setting/Npc/Ai/Stay.ini			0	20	2	1					NoTurn										1	1	
+LT_longzhu_sun	1724	Long Trụ Nhật Diệu	0	1	BattleNpc		499	200	994			1008			91	1	105	1	1500	1500	Setting/Npc/Ai/Stay.ini			1	20	2	1					NoTurn										1	1	
+LT_longzhu_moon	1725	Long Trụ Nguyệt Hoa	0	1	BattleNpc		498	200	994			1009			91	1	105	1	1500	1500	Setting/Npc/Ai/Stay.ini			1	20	2	1					NoTurn										1	1	
+LT_longzhu_star	1726	Long Trụ Tinh Huy	0	1	BattleNpc		498	200	994			1009			91	1	105	1	1500	1500	Setting/Npc/Ai/Stay.ini			1	20	2	1					NoTurn										1	1	
+LT_gongcc_bs	1727	Công Thành	0	0			506	200	994			1003	194	1	91	1	105	1	1500	1500	Setting/Npc/Ai/CommonActive.ini			1	20	1																		
+LT_jinnc_bs	1728	Kình Nỏ	0	0			480	200	994			1004	194	1	91	1	105	1	1500	1500	Setting/Npc/Ai/CommonActive.ini			1	20	1																		
+LT_tiepc_bs	1729	Thiết Pháo	0	0			378	200	994			1005	194	1	91	1	105	1	1500	1500	Setting/Npc/Ai/CommonActive.ini			1	20	1																		
+LT_shenss_zh	1730	Thần Xạ Thủ	0	0	BattleNpc		159	200	994			1006	1731	1	91	1			1000	1000	Setting/Npc/Ai/CommonActive.ini			1	20	1																		
+LT_guwq_zh	1731	Cờ Cổ Vũ	0	0	BattleNpc		505	200	994			1007			91	1	105	1	1500	1500	Setting/Npc/Ai/Stay.ini			1		2	1		1732	1														
+LT_guide_invisible	1732	Hướng dẫn ẩn	6	0			469	200	994			91			91	1			1500	1500	Setting/Npc/Ai/Stay.ini			0	20	3														1				
+LT_bsdh_gongcc	1733	Công Thành Xa-Biến Thân	2	0	DomainBattleChange	Công Thành Xa|2218|3600	506	200	994	Công Thành Xa gây nhiều sát thương cho Cổng Thành.		1003			91	1	105	1	1500	1500	Setting/Npc/Ai/Stay.ini			0	20	3						NoTurn												
+LT_bsdh_jinnc	1734	Kình Nỏ Xa-Biến thân	2	0	DomainBattleChange	Kình Nỏ Xa|2219|3600	480	200	994	Kình Nỏ Xa có thể gây sát thương khá cao cho kẻ địch trên đường. Điểm sát thương cố định, người chơi yếu có thể dùng tăng sức mạnh.		1004			91	1	105	1	1500	1500	Setting/Npc/Ai/Stay.ini			0	20	3						NoTurn												
+LT_bsdh_tiepc	1735	Thiết Pháo Xa-Biến thân	2	0	DomainBattleChange	Thiết Pháo Xa|2220|3600	378	200	994	Thiết Pháo Xa gây sát thương lớn lên địch cố định, điểm sát thương cố định, người chơi còn yếu nên dùng tăng sức mạnh.		1005			91	1	105	1	1500	1500	Setting/Npc/Ai/Stay.ini			0	20	3						NoTurn												
+LT_diaoxiang_tw	1771	Tượng Thành Chủ Thiên Vương	0	0			508	200	994			91							1500	1500	Setting/Npc/Ai/Stay.ini				20	3		6000	195	1		NoTurn												
+LT_diaoxiang_em	1772	Tượng Thành Chủ Nga Mi	0	0			509	200	994			91							1500	1500	Setting/Npc/Ai/Stay.ini				20	3		6000	195	1		NoTurn												
+LT_diaoxiang_th	1773	Tượng Thành Chủ Đào Hoa	0	0			510	200	994			91							1500	1500	Setting/Npc/Ai/Stay.ini				20	3		6000	195	1		NoTurn												
+LT_diaoxiang_xy	1774	Tượng Thành Chủ Tiêu Dao	0	0			511	200	994			91							1500	1500	Setting/Npc/Ai/Stay.ini				20	3		6000	195	1		NoTurn												
+LT_diaoxiang_wd	1775	Tượng Thành Chủ Võ Đang	0	0			512	200	994			91							1500	1500	Setting/Npc/Ai/Stay.ini				20	3		6000	195	1		NoTurn												
+LT_diaoxiang_tr	1776	Tượng Thành Chủ Thiên Nhẫn	0	0			513	200	994			91							1500	1500	Setting/Npc/Ai/Stay.ini				20	3		6000	195	1		NoTurn												
+LT_gouhuo	1817	Lửa Trại Thành Chiến	5	0	GouHuoNpc	kin|3000|12|1000|0|15	392																																					
+Card_ljf_d6	1821	Đống Thư Tịch	2	0	CardCollectionGather	2616|5|2	519	995																								NoTurn												
+Card_ljf_d7	1822	1 Quyển Kinh Thư	2	0	CardCollectionGather	2618|5|2	520	995																								NoTurn												
+Card_ljf_e3	1823	1 Bức Thư	2	0	CardCollectionGather	2624|5|2	521	995																								NoTurn												
+Card_ljf_e9	1824	Tâm Ma Bảo Châu	2	0	CardCollectionGather	2631|5|2	486	995																								NoTurn												
+Card_ljf_g10	2066	Túi Càn Khôn	2	0	CardCollectionGather	3388|5|2	566	995																								NoTurn												
+Arena_np1	1829	Võ Tăng	2	0	ArenaNpc	ArenaEnterNpc	163																					115																
+Arena_np2	1830	Võ Tăng	2	0	ArenaNpc	ArenaManagerNpc	163																					116																
+Xisuidao_npc	1831	Nạp Lan Chân	2	1	ChangeFactionDialog		177	13	113			1	21	1							Setting/Npc/Ai/CommonActive.ini			0	15	3																		
+TeacherStudent_npc	1839	Thượng Quan Phi Long	2	0	TeacherStudentNpc		5021	607	310																			160																
+LT_diaoxiang_tw_new	1841	Tượng Thành Chủ Thiên Vương	2	0	MainCityMaster	1	532	200	994			91							1500	1500	Setting/Npc/Ai/Stay.ini				20	3		6000	195	1		NoTurn												
+LT_diaoxiang_em_new	1842	Tượng Thành Chủ Nga Mi	2	0	MainCityMaster	2	531	200	994			91							1500	1500	Setting/Npc/Ai/Stay.ini				20	3		6000	195	1		NoTurn												
+LT_diaoxiang_th_new	1843	Tượng Thành Chủ Đào Hoa	2	0	MainCityMaster	3	533	200	994			91							1500	1500	Setting/Npc/Ai/Stay.ini				20	3		6000	195	1		NoTurn												
+LT_diaoxiang_xy_new	1844	Tượng Thành Chủ Tiêu Dao	2	0	MainCityMaster	4	527	200	994			91							1500	1500	Setting/Npc/Ai/Stay.ini				20	3		6000	195	1		NoTurn												
+LT_diaoxiang_wd_new	1845	Tượng Thành Chủ Võ Đang	2	0	MainCityMaster	5	529	200	994			91							1500	1500	Setting/Npc/Ai/Stay.ini				20	3		6000	195	1		NoTurn												
+LT_diaoxiang_tr_new	1846	Tượng Thành Chủ Thiên Nhẫn	2	0	MainCityMaster	6	534	200	994			91							1500	1500	Setting/Npc/Ai/Stay.ini				20	3		6000	195	1		NoTurn												
+LT_diaoxiang_sl_new	1847	Tượng Thành Chủ Thiếu Lâm	2	0	MainCityMaster	7	528	200	994			91							1500	1500	Setting/Npc/Ai/Stay.ini				20	3		6000	195	1		NoTurn												
+LT_diaoxiang_cy_new	1848	Tượng Thành Chủ Thúy Yên	2	0	MainCityMaster	8	530	200	994			91							1500	1500	Setting/Npc/Ai/Stay.ini				20	3		6000	195	1		NoTurn												
+LT_diaoxiang_tm_new	2000	Tượng Thành Chủ Đường Môn	2	0	MainCityMaster	9	537	200	994			91							1500	1500	Setting/Npc/Ai/Stay.ini				20	3		6000	195	1		NoTurn												
+LT_diaoxiang_kl_new	2002	Tượng Thành Chủ Côn Lôn	2	0	MainCityMaster	10	538	200	994			91							1500	1500	Setting/Npc/Ai/Stay.ini				20	3		6000	195	1		NoTurn												
+LT_diaoxiang_gb_new	2215	Tượng Thành Chủ Cái Bang	2	0	MainCityMaster	11	586	200	994			91							1500	1500	Setting/Npc/Ai/Stay.ini				20	3		6000	195	1		NoTurn												
+LT_diaoxiang_wudu_new	2216	Tượng Thành Chủ Ngũ Độc	2	0	MainCityMaster	12	587	200	994			91							1500	1500	Setting/Npc/Ai/Stay.ini				20	3		6000	195	1		NoTurn												
+LT_diaoxiang_cj_new	2379	Tượng Thành Chủ Tàng Kiếm	2	0	MainCityMaster	13	608	200	994			91							1500	1500	Setting/Npc/Ai/Stay.ini				20	3		6000	195	1		NoTurn												
+LT_diaoxiang_cg_new	2380	Tượng Thành Chủ Trường Ca	2	0	MainCityMaster	14	609	200	994			91							1500	1500	Setting/Npc/Ai/Stay.ini				20	3		6000	195	1		NoTurn												
+LT_diaoxiang_tsma_new	2655	Tượng Thành Chủ Thiên Sơn-Nam	2	0	MainCityMaster	15	646	200	994			91							1500	1500	Setting/Npc/Ai/Stay.ini				20	3		6000	195	1		NoTurn												
+LT_diaoxiang_tsfe_new	2656	Tượng Thành Chủ Thiên Sơn-Nữ	2	0	MainCityMaster	15	647	200	994			91							1500	1500	Setting/Npc/Ai/Stay.ini				20	3		6000	195	1		NoTurn												
+LT_diaoxiang_bdma_new	2909	Tượng Thành Chủ Bá Đao-Nam	2	0	MainCityMaster	16	689	200	994			91							1500	1500	Setting/Npc/Ai/Stay.ini				20	3		6000	195	1		NoTurn												
+LT_diaoxiang_bdfe_new	2910	Tượng Thành Chủ Bá Đao-Nữ	2	0	MainCityMaster	16	690	200	994			91							1500	1500	Setting/Npc/Ai/Stay.ini				20	3		6000	195	1		NoTurn												
+LT_diaoxiang_wdfe_new	2911	Tượng Thành Chủ Võ Đang-Nữ	2	0	MainCityMaster	5	691	200	994			91							1500	1500	Setting/Npc/Ai/Stay.ini				20	3		6000	195	1		NoTurn												
+LT_diaoxiang_hsma_new	2966	Tượng Thành Chủ Hoa Sơn-Nam	2	0	MainCityMaster	17	699	200	994			91							1500	1500	Setting/Npc/Ai/Stay.ini				20	3		6000	195	1		NoTurn												
+LT_diaoxiang_hsfe_new	2967	Tượng Thành Chủ Hoa Sơn-Nữ	2	0	MainCityMaster	17	700	200	994			91							1500	1500	Setting/Npc/Ai/Stay.ini				20	3		6000	195	1		NoTurn												
+LT_diaoxiang_klma_new	2968	Tượng Thành Chủ Côn Lôn-Nam	2	0	MainCityMaster	10	701	200	994			91							1500	1500	Setting/Npc/Ai/Stay.ini				20	3		6000	195	1		NoTurn												
+LT_diaoxiang_mjma_new	3280	Tượng Thành Chủ Minh Giáo Nam	2	0	MainCityMaster	18	708	200	994			91							1500	1500	Setting/Npc/Ai/Stay.ini				20	3		6000	195	1		NoTurn												
+LT_diaoxiang_mjfe_new	3281	Tượng Thành Chủ Minh Giáo Nữ	2	0	MainCityMaster	18	709	200	994			91							1500	1500	Setting/Npc/Ai/Stay.ini				20	3		6000	195	1		NoTurn												
+LT_diaoxiang_twfe_new	3282	Tượng Thành Chủ Thiên Vương Nữ	2	0	MainCityMaster	1	710	200	994			91							1500	1500	Setting/Npc/Ai/Stay.ini				20	3		6000	195	1		NoTurn												
+LT_diaoxiang_dsma_new	3446	Tượng Thành Chủ Đoàn Thị-Nam	2	0	MainCityMaster	19	716	200	994			91							1500	1500	Setting/Npc/Ai/Stay.ini				20	3		6000	195	1		NoTurn												
+LT_diaoxiang_dsfe_new	3447	Tượng Thành Chủ Đoàn Thị-Nữ	2	0	MainCityMaster	19	717	200	994			91							1500	1500	Setting/Npc/Ai/Stay.ini				20	3		6000	195	1		NoTurn												
+LT_diaoxiang_xyfe_new	3448	Tượng Thành Chủ Tiêu Dao-Nữ	2	0	MainCityMaster	4	718	200	994			91							1500	1500	Setting/Npc/Ai/Stay.ini				20	3		6000	195	1		NoTurn												
+LT_diaoxiang_whma_new	3724	Tượng Thành Chủ Vạn Hoa-Nam	2	0	MainCityMaster	20	729	200	994			91							1500	1500	Setting/Npc/Ai/Stay.ini				20	3		6000	195	1		NoTurn												
+LT_diaoxiang_whfe_new	3725	Tượng Thành Chủ Vạn Hoa-Nữ	2	0	MainCityMaster	20	730	200	994			91							1500	1500	Setting/Npc/Ai/Stay.ini				20	3		6000	195	1		NoTurn												
+LT_diaoxiang_gbfe_new	3726	Tượng Thành Chủ Cái Bang-Nữ	2	0	MainCityMaster	11	731	200	994			91							1500	1500	Setting/Npc/Ai/Stay.ini				20	3		6000	195	1		NoTurn												
+HSLJ_diaoxiang_tw	1886	Tượng Hoa Sơn Luận Kiếm Thiên Vương	0	0			532	200	994	Làm đỉnh Lăng Tuyệt, chiêm ngưỡng núi đồi!		91							1500	1500	Setting/Npc/Ai/Stay.ini				20	3						NoTurn												
+HSLJ_diaoxiang_em	1887	Tượng Hoa Sơn Luận Kiếm Nga Mi	0	0			531	200	994	Làm đỉnh Lăng Tuyệt, chiêm ngưỡng núi đồi!		91							1500	1500	Setting/Npc/Ai/Stay.ini				20	3						NoTurn												
+HSLJ_diaoxiang_th	1888	Tượng Hoa Sơn Luận Kiếm Đào Hoa	0	0			533	200	994	Làm đỉnh Lăng Tuyệt, chiêm ngưỡng núi đồi!		91							1500	1500	Setting/Npc/Ai/Stay.ini				20	3						NoTurn												
+HSLJ_diaoxiang_xy	1889	Tượng Hoa Sơn Luận Kiếm Tiêu Dao	0	0			527	200	994	Làm đỉnh Lăng Tuyệt, chiêm ngưỡng núi đồi!		91							1500	1500	Setting/Npc/Ai/Stay.ini				20	3						NoTurn												
+HSLJ_diaoxiang_wd	1890	Tượng Hoa Sơn Luận Kiếm Võ Đang	0	0			529	200	994	Làm đỉnh Lăng Tuyệt, chiêm ngưỡng núi đồi!		91							1500	1500	Setting/Npc/Ai/Stay.ini				20	3						NoTurn												
+HSLJ_diaoxiang_tr	1891	Tượng Hoa Sơn Luận Kiếm Thiên Nhẫn	0	0			534	200	994	Làm đỉnh Lăng Tuyệt, chiêm ngưỡng núi đồi!		91							1500	1500	Setting/Npc/Ai/Stay.ini				20	3						NoTurn												
+HSLJ_diaoxiang_sl	1892	Tượng Hoa Sơn Luận Kiếm Thiếu Lâm	0	0			528	200	994	Làm đỉnh Lăng Tuyệt, chiêm ngưỡng núi đồi!		91							1500	1500	Setting/Npc/Ai/Stay.ini				20	3						NoTurn												
+HSLJ_diaoxiang_cy	1893	Tượng Hoa Sơn Luận Kiếm Thúy Yên	0	0			530	200	994	Làm đỉnh Lăng Tuyệt, chiêm ngưỡng núi đồi!		91							1500	1500	Setting/Npc/Ai/Stay.ini				20	3						NoTurn												
+HSLJ_diaoxiang_tm	2118	Tượng Hoa Sơn Luận Kiếm Đường Môn	0	0			537	200	994	Làm đỉnh Lăng Tuyệt, chiêm ngưỡng núi đồi!		91							1500	1500	Setting/Npc/Ai/Stay.ini				20	3						NoTurn												
+HSLJ_diaoxiang_kl	2119	Tượng Hoa Sơn Luận Kiếm Côn Lôn	0	0			538	200	994	Làm đỉnh Lăng Tuyệt, chiêm ngưỡng núi đồi!		91							1500	1500	Setting/Npc/Ai/Stay.ini				20	3						NoTurn												
+HSLJ_diaoxiang_gb	2221	Tượng Hoa Sơn Luận Kiếm Cái Bang	0	0			586	200	994	Làm đỉnh Lăng Tuyệt, chiêm ngưỡng núi đồi!		91							1500	1500	Setting/Npc/Ai/Stay.ini				20	3						NoTurn												
+HSLJ_diaoxiang_wd1	2220	Tượng Hoa Sơn Luận Kiếm Ngũ Độc	0	0			587	200	994	Làm đỉnh Lăng Tuyệt, chiêm ngưỡng núi đồi!		91							1500	1500	Setting/Npc/Ai/Stay.ini				20	3						NoTurn												
+HSLJ_diaoxiang_cj	2381	Tượng Hoa Sơn Luận Kiếm Tàng Kiếm	0	0			608	200	994	Làm đỉnh Lăng Tuyệt, chiêm ngưỡng núi đồi!		91							1500	1500	Setting/Npc/Ai/Stay.ini				20	3						NoTurn												
+HSLJ_diaoxiang_cg	2382	Tượng Hoa Sơn Luận Kiếm Trường Ca	0	0			609	200	994	Làm đỉnh Lăng Tuyệt, chiêm ngưỡng núi đồi!		91							1500	1500	Setting/Npc/Ai/Stay.ini				20	3						NoTurn												
+HSLJ_diaoxiang_tsma	2677	Tượng Hoa Sơn Luận Kiếm Thiên Sơn-Nam	0	0			646	200	994	Làm đỉnh Lăng Tuyệt, chiêm ngưỡng núi đồi!		91							1500	1500	Setting/Npc/Ai/Stay.ini				20	3						NoTurn												
+HSLJ_diaoxiang_tsfe	2678	Tượng Hoa Sơn Luận Kiếm Thiên Sơn-Nữ	0	0			647	200	994	Làm đỉnh Lăng Tuyệt, chiêm ngưỡng núi đồi!		91							1500	1500	Setting/Npc/Ai/Stay.ini				20	3						NoTurn												
+HSLJ_diaoxiang_bdma	2912	Tượng Hoa Sơn Luận Kiếm Bá Đao-Nam	0	0			689	200	994	Làm đỉnh Lăng Tuyệt, chiêm ngưỡng núi đồi!		91							1500	1500	Setting/Npc/Ai/Stay.ini				20	3						NoTurn												
+HSLJ_diaoxiang_bdfe	2913	Tượng Hoa Sơn Luận Kiếm Bá Đao-Nữ	0	0			690	200	994	Làm đỉnh Lăng Tuyệt, chiêm ngưỡng núi đồi!		91							1500	1500	Setting/Npc/Ai/Stay.ini				20	3						NoTurn												
+HSLJ_diaoxiang_wdfe	2914	Tượng Hoa Sơn Luận Kiếm Võ Đang-Nữ	0	0			691	200	994	Làm đỉnh Lăng Tuyệt, chiêm ngưỡng núi đồi!		91							1500	1500	Setting/Npc/Ai/Stay.ini				20	3						NoTurn												
+HSLJ_diaoxiang_hsma	2969	Tượng Hoa Sơn Luận Kiếm Hoa Sơn-Nam	0	0			699	200	994	Làm đỉnh Lăng Tuyệt, chiêm ngưỡng núi đồi!		91							1500	1500	Setting/Npc/Ai/Stay.ini				20	3						NoTurn												
+HSLJ_diaoxiang_hsfe	2970	Tượng Hoa Sơn Luận Kiếm Hoa Sơn-Nữ	0	0			700	200	994	Làm đỉnh Lăng Tuyệt, chiêm ngưỡng núi đồi!		91							1500	1500	Setting/Npc/Ai/Stay.ini				20	3						NoTurn												
+HSLJ_diaoxiang_klma	2971	Tượng Hoa Sơn Luận Kiếm Côn Lôn-Nam	0	0			701	200	994	Làm đỉnh Lăng Tuyệt, chiêm ngưỡng núi đồi!		91							1500	1500	Setting/Npc/Ai/Stay.ini				20	3						NoTurn												
+HSLJ_diaoxiang_mjma	3283	Tượng Hoa Sơn Luận Kiếm Minh Giáo Nam	0	0			708	200	994	Làm đỉnh Lăng Tuyệt, chiêm ngưỡng núi đồi!		91							1500	1500	Setting/Npc/Ai/Stay.ini				20	3						NoTurn												
+HSLJ_diaoxiang_mjfe	3284	Tượng Hoa Sơn Luận Kiếm Minh Giáo Nữ	0	0			709	200	994	Làm đỉnh Lăng Tuyệt, chiêm ngưỡng núi đồi!		91							1500	1500	Setting/Npc/Ai/Stay.ini				20	3						NoTurn												
+HSLJ_diaoxiang_twfe	3285	Tượng Hoa Sơn Luận Kiếm Thiên Vương Nữ	0	0			710	200	994	Làm đỉnh Lăng Tuyệt, chiêm ngưỡng núi đồi!		91							1500	1500	Setting/Npc/Ai/Stay.ini				20	3						NoTurn												
+HSLJ_diaoxiang_dsma	3443	Tượng Hoa Sơn Luận Kiếm Đoàn Thị-Nam	0	0			716	200	994	Làm đỉnh Lăng Tuyệt, chiêm ngưỡng núi đồi!		91							1500	1500	Setting/Npc/Ai/Stay.ini				20	3						NoTurn												
+HSLJ_diaoxiang_dsfe	3444	Tượng Hoa Sơn Luận Kiếm Đoàn Thị-Nữ	0	0			717	200	994	Làm đỉnh Lăng Tuyệt, chiêm ngưỡng núi đồi!		91							1500	1500	Setting/Npc/Ai/Stay.ini				20	3						NoTurn												
+HSLJ_diaoxiang_xyfe	3445	Tượng Hoa Sơn Luận Kiếm Tiêu Dao-Nữ	0	0			718	200	994	Làm đỉnh Lăng Tuyệt, chiêm ngưỡng núi đồi!		91							1500	1500	Setting/Npc/Ai/Stay.ini				20	3						NoTurn												
+HSLJ_diaoxiang_whma	3727	Tượng Hoa Sơn Luận Kiếm Vạn Hoa-Nam	0	0			729	200	994	Làm đỉnh Lăng Tuyệt, chiêm ngưỡng núi đồi!		91							1500	1500	Setting/Npc/Ai/Stay.ini				20	3						NoTurn												
+HSLJ_diaoxiang_whfe	3728	Tượng Hoa Sơn Luận Kiếm Vạn Hoa-Nữ	0	0			730	200	994	Làm đỉnh Lăng Tuyệt, chiêm ngưỡng núi đồi!		91							1500	1500	Setting/Npc/Ai/Stay.ini				20	3						NoTurn												
+HSLJ_diaoxiang_gbfe	3729	Tượng Hoa Sơn Luận Kiếm Cái Bang-Nữ	0	0			731	200	994	Làm đỉnh Lăng Tuyệt, chiêm ngưỡng núi đồi!		91							1500	1500	Setting/Npc/Ai/Stay.ini				20	3						NoTurn												
+zhongqiu_dati	1895	Sứ Giả Trung Thu	2	1			183	200	994	Tiết Trung Thu chúc mọi người trong thiên hạ có thể đoàn viên. Ta có một số chủ đề ngươi có thể trả lời không? (4:00 mỗi ngày làm mới số lần Vấn Đáp)		1	21	1							Setting/Npc/Ai/CommonActive.ini			0	15	3									5									
+hd_yd_xuedui	2120	Đống Tuyết	5	0			553	200	994			100							560	980	Setting/Npc/Ai/Stay.ini			1	17	3	1					NoTurn										1		
+hd_yd_xueren_big	2121	Người Tuyết Nhỏ	2	0	NYSnowmanNpc		555	200	994			100							560	980	Setting/Npc/Ai/Stay.ini			1	17	3	1					NoTurn			1							1		
+hd_yd_xueren_big2	2151	Người Tuyết Tinh Nghịch	2	0	NYSnowmanNpc		568	200	994			100							560	980	Setting/Npc/Ai/Stay.ini			1	17	3	1					NoTurn			2							1		
+hd_yd_xueren_big3	2152	Người Tuyết Thường	2	0	NYSnowmanNpc		569	200	994			100							560	980	Setting/Npc/Ai/Stay.ini			1	17	3	1					NoTurn			3							1		
+hd_yd_xueren_big4	2153	Người Tuyết Tinh Xảo	2	0	NYSnowmanNpc		570	200	994			100							560	980	Setting/Npc/Ai/Stay.ini			1	17	3	1					NoTurn			4							1		
+hd_yd_xueren_big5	2154	Người Tuyết Lớn	2	0	NYSnowmanNpc		571	200	994			100							560	980	Setting/Npc/Ai/Stay.ini			1	17	3	1					NoTurn			5							1		
+hd_yd_xueren_big6	2155	Người Tuyết Khổng Lồ	2	0	NYSnowmanNpc		572	200	994			100							560	980	Setting/Npc/Ai/Stay.ini			1	17	3	1					NoTurn			6							1		
+hd_yd_xueren_big7	2156	Người Tuyết Siêu Cấp	2	0	NYSnowmanNpc		573	200	994			100							560	980	Setting/Npc/Ai/Stay.ini			1	17	3	1					NoTurn			7							1		
+hd__sd_shengdanshaonv	2122	Thiếu Nữ Giáng Sinh	5	0			1154	200	994			100							560	980	Setting/Npc/Ai/Stay.ini				17	3	1					NoTurn												
+hd__sd_shengdanlaoren	2123	Ông Già Noel	2	0			1160	200	994	Giáng Sinh đến rồi, chỗ ta có nhiều lễ vật, có muốn không?		100							560	980	Setting/Npc/Ai/Stay.ini				17	3	1																	
+hd__sd_shengdanshu	2124	Cây Thông Noel	5	0			554	200	994			100							560	980	Setting/Npc/Ai/Stay.ini			1	17	3	1					NoTurn										1		
+hd_dxz_nianshou	2125	Niên Thú	6	1			1159	200	994			100							560	980	Setting/Npc/Ai/Stay.ini			1	17	3	1					NoTurn										1		
+hd_dxz_nianshou1	2150	Niên Thú-Ẩn	6	1			469	200	994			100							560	980	Setting/Npc/Ai/Stay.ini			1	17	3	1					NoTurn								1				
+hd_dxz_bs01	2126	Ném Tuyết-Bé Trai	0	0			1155	200	994			100							560	980	Setting/Npc/Ai/Stay.ini				17	3	1					NoTurn												
+hd_dxz_bs02	2127	Ném Tuyết-Bé Gái	0	0			1156	200	994			100							560	980	Setting/Npc/Ai/Stay.ini				17	3	1					NoTurn												
+hd_dxz_bs03	2128	Nón Sư Tử-Bé Trai	0	0			1157	200	994			100							560	980	Setting/Npc/Ai/Stay.ini				17	3	1					NoTurn												
+hd_dxz_bs04	2129	Nón Sư Tử-Bé Gái	0	0			1158	200	994			100							560	980	Setting/Npc/Ai/Stay.ini				17	3	1					NoTurn												
+hd_dxz_xueren01	2130	Người Tuyết Thần Kỳ	2	0	FubenDialogEvent	2,Đang thu thập...,GatherNpc	539	992	992			100							560	980	Setting/Npc/Ai/Stay.ini			1	17	3	1					NoTurn										1		
+hd_dxz_xueren02	2131	Người Tuyết Thần Kỳ	2	0	FubenDialogEvent	2,Đang thu thập...,GatherNpc	540	992	992			100							560	980	Setting/Npc/Ai/Stay.ini			1	17	3	1					NoTurn										1		
+hd_dxz_xueren03	2132	Người Tuyết Thần Kỳ	2	0	FubenDialogEvent	2,Đang thu thập...,GatherNpc	543	992	992			100							560	980	Setting/Npc/Ai/Stay.ini			1	17	3	1					NoTurn										1		
+hd_dxz_xueren04	2133	Người Tuyết Thần Kỳ	2	0	FubenDialogEvent	2,Đang thu thập...,GatherNpc	542	992	992			100							560	980	Setting/Npc/Ai/Stay.ini			1	17	3	1					NoTurn										1		
+hd_dxz_xueren05	2134	Người Tuyết Nhỏ	0	0			541	992	992			100							560	980	Setting/Npc/Ai/Stay.ini			1	17	3	1					NoTurn										1		
+hd_dxz_xueren06	2135	Đống Tuyết	2	0	FubenDialogEvent	2,Đang thu thập...,GatherNpc	553	992	992			100							560	980	Setting/Npc/Ai/Stay.ini			1	17	3	1					NoTurn										1		
+hd_dxz_xianjing01	2136	Bẫy Băng Nguyên	2	0	FubenDialogEvent	1,Đang thu thập...,GatherNpc	544	992	992			100							560	980	Setting/Npc/Ai/Stay.ini			1	17	3	1					NoTurn										1		
+hd_dxz_xianjing02	2137	Bẫy Băng Nguyên	2	0	FubenDialogEvent	1,Đang thu thập...,GatherNpc	545	992	992			100							560	980	Setting/Npc/Ai/Stay.ini			1	17	3	1					NoTurn										1		
+hd_dxz_xianjing03	2138	Bẫy Băng Nguyên	2	0	FubenDialogEvent	1,Đang thu thập...,GatherNpc	546	992	992			100							560	980	Setting/Npc/Ai/Stay.ini			1	17	3	1					NoTurn										1		
+hd_miehuo_huowa01	3719	Hỏa Oa	0	0			1256	200	994			100							560	980	Setting/Npc/Ai/Stay.ini				17	3	1					NoTurn												
+hd_miehuo_shuiwa01	3706	Thủy Oa	0	0			1257	200	994			100							560	980	Setting/Npc/Ai/Stay.ini				17	3	1					NoTurn												
+hd_miehuo_jineng01	3707	Côn Lôn Tuyết	2	0	WarOfIceAndFireDialogEvent	2,Đang thu thập...,GatherNpc	553	992	992			100							560	980	Setting/Npc/Ai/Stay.ini			1	17	3	1					NoTurn										1		
+hd_miehuo_jineng02	3708	Côn Lôn Huyền Thủy	2	0	WarOfIceAndFireDialogEvent	2,Đang thu thập...,GatherNpc	727	992	992			100							560	980	Setting/Npc/Ai/Stay.ini			1	17	3	1					NoTurn										1		
+hd_miehuo_jineng03	3709	Côn Lôn Huyền Thủy	2	0	WarOfIceAndFireDialogEvent	2,Đang thu thập...,GatherNpc	679	992	992			100							560	980	Setting/Npc/Ai/Stay.ini			1	17	3	1					NoTurn										1		
+hd_miehuo_jineng04	3710	Côn Lôn Huyền Thủy	2	0	WarOfIceAndFireDialogEvent	2,Đang thu thập...,GatherNpc	680	992	992			100							560	980	Setting/Npc/Ai/Stay.ini			1	17	3	1					NoTurn										1		
+hd_miehuo_jineng05	3711	Côn Lôn Huyền Thủy	2	0	WarOfIceAndFireDialogEvent	2,Đang thu thập...,GatherNpc	728	992	992			100							560	980	Setting/Npc/Ai/Stay.ini			1	17	3	1					NoTurn										1		
+hd_miehuo_laolong01	3712	Thiên Hỏa Lao Lung	2	0	WarOfIceAndFireDialogEvent	2,Đang mở...,GatherNpc	695	995	992			100							560	980	Setting/Npc/Ai/Stay.ini			1	17	3	1					NoTurn										1		
+hd_miehuo_bujian01	3713	Xỉ Luân	2	0	WarOfIceAndFireDialogEvent	2,Đang thu thập...,GatherNpc	20020	992	992			100							560	980	Setting/Npc/Ai/Stay.ini			1	17	3	1					NoTurn										1		
+hd_miehuo_bujian02	3714	Trục Thừa	2	0	WarOfIceAndFireDialogEvent	2,Đang thu thập...,GatherNpc	20019	992	992			100							560	980	Setting/Npc/Ai/Stay.ini			1	17	3	1					NoTurn										1		
+hd_miehuo_bujian03	3715	Thủy Liên	2	0	WarOfIceAndFireDialogEvent	2,Đang thu thập...,GatherNpc	3208	992	992			100							560	980	Setting/Npc/Ai/Stay.ini			1	17	3	1					NoTurn										1		
+hd_miehuo_bujian04	3716	Khôi Giáp	2	0	WarOfIceAndFireDialogEvent	2,Đang thu thập...,GatherNpc	672	992	992			100							560	980	Setting/Npc/Ai/Stay.ini			1	17	3	1					NoTurn										1		
+hd_miehuo_jijia01	3717	Huyền Vũ Ky Giáp	2	0	WarOfIceAndFireDialogEvent	2,Đang thu thập...,GatherNpc	3219	992	992			100							560	980	Setting/Npc/Ai/Stay.ini			1	17	3	1					NoTurn										1		
+hd_miehuo_jijia02	3718	Huyền Vũ Ky Giáp	2	0			1255	200	994			100							560	980	Setting/Npc/Ai/Stay.ini				10	3	1					NoTurn												
+hd_dxz_xianjing04	2139	Bẫy Băng Nguyên	2	0	FubenDialogEvent	1,Đang thu thập...,GatherNpc	547	992	992			100							560	980	Setting/Npc/Ai/Stay.ini			1	17	3	1					NoTurn										1		
+hd_dxz_xianjing05	2140	Bẫy Băng Nguyên	2	0	FubenDialogEvent	1,Đang thu thập...,GatherNpc	548	992	992			100							560	980	Setting/Npc/Ai/Stay.ini			1	17	3	1					NoTurn										1		
+hd_dxz_shenfu01	2141	Tuyết Nguyên Phù	2	0	FubenDialogEvent	1,Đang thu thập...,GatherNpc	549	992	992			100							560	980	Setting/Npc/Ai/Stay.ini			1	17	3	1					NoTurn										1		
+hd_dxz_shenfu02	2142	Tuyết Nguyên Phù	2	0	FubenDialogEvent	1,Đang thu thập...,GatherNpc	550	992	992			100							560	980	Setting/Npc/Ai/Stay.ini			1	17	3	1					NoTurn										1		
+hd_dxz_shenfu03	2143	Tuyết Nguyên Phù	2	0	FubenDialogEvent	1,Đang thu thập...,GatherNpc	551	992	992			100							560	980	Setting/Npc/Ai/Stay.ini			1	17	3	1					NoTurn										1		
+hd_dxz_shenfu04	2144	Tuyết Nguyên Phù	2	0	FubenDialogEvent	1,Đang thu thập...,GatherNpc	552	992	992			100							560	980	Setting/Npc/Ai/Stay.ini			1	17	3	1					NoTurn										1		
+hd_yx_huadeng	2145	Hoa Đăng	2	0			556	200	994			100							560	980	Setting/Npc/Ai/Stay.ini			1	17	3	1					NoTurn												
+hd_zs_tree01	2146	Mầm Non Xanh	2	0			557	200	994			100							560	980	Setting/Npc/Ai/Stay.ini			1	17	3	1					NoTurn												
+hd_zs_tree02	2147	Cây Nhỏ	2	0			558	200	994			100							560	980	Setting/Npc/Ai/Stay.ini			1	17	3	1					NoTurn												
+hd_zs_tree03	2148	Cây To	2	0			559	200	994			100							560	980	Setting/Npc/Ai/Stay.ini			1	17	3	1					NoTurn												
+hd_zs_tree04	2149	Cây Chọc Trời	2	0			560	200	994			100							560	980	Setting/Npc/Ai/Stay.ini			1	17	3	1					NoTurn												
+Hd_cyjl_1	2051	NPC Ghép Câu Nối Chữ	0	1	FubenDeath		190		993		30	403	166	1	200	1			500	500	Setting/Npc/Ai/CommonPassive.ini			1	18	1										1								
+jiebai_npc	2056	Nạp Lan Tiềm Lẫm	2	1	SwornFriendsNpc2		187	212	312			1	21	1							Setting/Npc/Ai/CommonActive.ini			0	15	1																		
+hd_yd_xueren_box	2159	Rương Người Tuyết	2	0	NYSnowmanBox		574	200	994			100							560	980	Setting/Npc/Ai/Stay.ini			1	17	3	1					NoTurn			1									
+hd_yd_xueren_box2	2160	Rương Người Tuyết	2	0	NYSnowmanBox		574	200	994			100							560	980	Setting/Npc/Ai/Stay.ini			1	17	3	1					NoTurn			2									
+hd_yd_xueren_box3	2161	Rương Người Tuyết	2	0	NYSnowmanBox		574	200	994			100							560	980	Setting/Npc/Ai/Stay.ini			1	17	3	1					NoTurn			3									
+hd_yd_xueren_box4	2162	Rương Người Tuyết	2	0	NYSnowmanBox		574	200	994			100							560	980	Setting/Npc/Ai/Stay.ini			1	17	3	1					NoTurn			4									
+hd_yd_xueren_box5	2163	Rương Người Tuyết	2	0	NYSnowmanBox		574	200	994			100							560	980	Setting/Npc/Ai/Stay.ini			1	17	3	1					NoTurn			5									
+hd_yd_xueren_box6	2164	Rương Người Tuyết	2	0	NYSnowmanBox		574	200	994			100							560	980	Setting/Npc/Ai/Stay.ini			1	17	3	1					NoTurn			6									
+hd_yd_xueren_box7	2165	Rương Người Tuyết	2	0	NYSnowmanBox		574	200	994			100							560	980	Setting/Npc/Ai/Stay.ini			1	17	3	1					NoTurn			7									
+Partner_skill_bq	2166		7	1			523		300			31	3227	1	836	1			1500	1500	Setting/Npc/Ai/partner/partner_qinshihuang_hujia.ini			1	18	3									1								1	
+hd_ny_nianhuo	2171	Hàng Hóa	2	0	MonsterNianDlgNpc		574	200	994			100							1000	1000	Setting/Npc/Ai/Stay.ini			1	20	3	1					NoTurn			2							1		
+hd_ny_nianshou	2172	Niên Thú Hung Dữ	0	1			576	200	994			10000	91	1	3523	1			1000	1000	Setting/Npc/Ai/Activity/nianshou.ini			1	20	3									6							1	1	
+hd_ny_yanhua	2173	Pháo Hoa Rơi	2	0	FireworkPickNpc		566	200	994			100							1000	1000	Setting/Npc/Ai/Stay.ini			1	20	3	1					NoTurn			2							1		
+hd_ny_houzi	2174	Khỉ Con	0	1			575				2700	3	1032	1					600	600	Setting/Npc/Ai/CommonActive.ini			1	18			21																
+hd_ny_nianshoubox	2185	Rương Niên Thú	2	0	MonsterNianGatherBox	3713	352	995	300			100							560	980	Setting/Npc/Ai/Stay.ini			1	17	3	1					NoTurn			1							1		
+House_npc	2279	Triệu Ân Đồng	2	1	HouseManagerNpc		1178		993	Đại hiệp cần tạo phòng không?		1	56	1	1697	1					Setting/Npc/Ai/CommonActive.ini			0	15	3																		
+BeautyPageant_npc1	2304	Sứ Giả Truyền Tin Miss VLTKM	0	0			565		993			1									Setting/Npc/Ai/KeepMoving.ini			0	10	3								10										
+BeautyPageant_npc2	2305	Sứ Giả Truyền Tin Miss VLTKM	0	0			565		993			1									Setting/Npc/Ai/KeepMoving.ini			0	10	3								10										
+BeautyPageant_diaoxiang	2306	Tượng Mỹ Nhân (Quán Quân) 	2	0	BeautyPageantStatue		565		993			1									Setting/Npc/Ai/KeepMoving.ini			0	10	3						NoTurn		10	5									
+BeautyPageant_diaoxiang2	2336	Tượng Mỹ Nhân (Quán Quân toàn máy chủ) 	2	0	BeautyPageantStatue		565		993			1									Setting/Npc/Ai/KeepMoving.ini			0	10	3						NoTurn		10	5									
+Daiyanren_lingengxin	2324	Lâm Triều Hoa	2	1			1179			Ta có rượu, ngươi có truyện chứ?		1	56	1	1696	1								0	15	1																		
+Daiyanren_zhaoliying	2325	Triệu Ân Đồng	2	1			1178			Thương sinh huyết lệ thiên phàm tận, đồng châu cộng tế dữ quân hoàn		1	56	1	1697	1								0	15	1																		
+Daiyanren_City_lingengxin	2326	Lâm Triều Hoa	2	1	SampleHouseManagerNpc		1179			Mong đại hiệp ghé qua tệ xá		1	56	1	1696	1								0	15	1																		
+Daiyanren_City_zhaoliying	2327	Triệu Ân Đồng	2	1	ProlocutorNpc		1178			Nếu không chê mời ghé qua tệ xá của tại hạ		1	56	1	1697	1								0	15	1																		
+Daiyanren_House_lingengxin	2330	Lâm Triều Hoa	0	1			1179					1	56	1	1696	1					Setting/Npc/Ai/KeepMoving.ini			0	8	1								8										
+Daiyanren_House_zhaoliying	2331	Triệu Ân Đồng	2	1			1178			Hoan nghênh quý khách đến hàn xá.		1	56	1	1697	1					Setting/Npc/Ai/KeepMoving.ini			0	7	1																		
+Marry_ManLevel1	2353	Tân Lang	0	0			601					1									Setting/Npc/Ai/KeepMoving.ini			0	7	3								7										
+Marry_ManLevel2	2354	Tân Lang	0	0			590					1									Setting/Npc/Ai/KeepMoving.ini			0	7	3								7										
+Marry_ManLevel3	2355	Tân Lang	0	0			591					1									Setting/Npc/Ai/KeepMoving.ini			0	7	3								7										
+Marry_WomanLevel1	2356	Tân Nương	0	0			602					1									Setting/Npc/Ai/KeepMoving.ini			0	7	3								7										
+Marry_WomanLevel2	2357	Tân Nương	0	0			603					1									Setting/Npc/Ai/KeepMoving.ini			0	7	3								7										
+Marry_WomanLevel3	2358	Tân Nương	0	0			604					1									Setting/Npc/Ai/KeepMoving.ini			0	7	3								7										
+Marry_LoliLevel1	2359	Tân Nương (Nữ Loli) 	0	0			605					1									Setting/Npc/Ai/KeepMoving.ini			0	7	3								7										
+Marry_LoliLevel2	2360	Tân Nương (Nữ Loli) 	0	0			606					1									Setting/Npc/Ai/KeepMoving.ini			0	7	3								7										
+Marry_LoliLevel3	2361	Tân Nương (Nữ Loli) 	0	0			607					1									Setting/Npc/Ai/KeepMoving.ini			0	7	3								7										
+Marry_huajiaoLevel1	2362	Kiệu Hoa	0	0			596					1									Setting/Npc/Ai/KeepMoving.ini			0	7	3								7										
+Marry_huajiaoLoliLevel1	2365	Kiệu Hoa Nữ Loli	0	0			597					1									Setting/Npc/Ai/KeepMoving.ini			0	7	3								7										
+Marry_HorseLevel3	2370	Tân Lang Cưỡi Ngựa	0	0			598					1									Setting/Npc/Ai/KeepMoving.ini			0	7	3								7										
+Marry_yuelao	2371	Nguyệt Lão	2	0	YueLaoNpc	CityNpc	600	9041		Đại hiệp đến đây để tìm một nửa kia của mình?		1									Setting/Npc/Ai/KeepMoving.ini			0	7	3		125						7										
+Marry_Fuben_yuelao	2535	Nguyệt Lão	2	0	YueLaoNpc	FubenNpc	600	9041		Trai anh hùng, gái thuyền quyên		1									Setting/Npc/Ai/KeepMoving.ini			0	7	3		125						7										
+Marry_hongniang	2372	Hồng Nương	2	0	hongNiangNpc		599	9039		Nguyện bên nhau đến bạc đầu.		1									Setting/Npc/Ai/KeepMoving.ini			0	7	3		126						7										
+Marry_huatong1	2373	Phụng Hỉ	2	0	HuaTongNpc		595	9040		Hi hi, ngươi có phải đã thích ai đó không? Nói ra không chừng Nguyệt gia gia sẽ giúp được ngươi.		1									Setting/Npc/Ai/KeepMoving.ini			1	7	3		124						7										
+Marry_huatong2	2374		0	0			594			Phụng Hỉ (Rải hoa) (Khi diễu hành cố định tọa độ)		1									Setting/Npc/Ai/KeepMoving.ini			0	7	3								7										
+Marry_chuisuona	2375		0	0			592			Thổi Tiêu (Khi diễu hành cố định tọa độ)		1									Setting/Npc/Ai/KeepMoving.ini			0	7	3								7										
+Marry_qiaoluo	2376		0	0			593			Khua Chiêng (Khi diễu hành cố định tọa độ)		1									Setting/Npc/Ai/KeepMoving.ini			0	7	3								7										
+MarryTourMap_hongniang	2385		0	0			599			Hồng Nương (Diễu hành)  (Chưa từng sử dụng)		1									Setting/Npc/Ai/KeepMoving.ini			0	7	3								7										
+MarryTourMap_huatong1	2386		0	0			594			Phụng Hỉ 1 (Hoa Đồng trong đội cùng khu vực)		1									Setting/Npc/Ai/KeepMoving.ini			0	7	3								7										
+MarryTourMap_huatong2	2387		0	0			594			Phụng Hỉ 2 (Hoa Đồng trong đội cùng khu vực)		1									Setting/Npc/Ai/KeepMoving.ini			0	7	3								7										
+MarryTourMap_huatong3	2388		0	0			594			Phụng Hỉ 3 (Hoa Đồng điểm đầu trong đội diễu hành)		1									Setting/Npc/Ai/KeepMoving.ini			0	7	3								7										
+MarryTourMap_huatong4	2389		0	0			594			Phụng Hỉ 4 (Hoa Đồng điểm đầu trong đội diễu hành)		1									Setting/Npc/Ai/KeepMoving.ini			0	7	3								7										
+MarryTourMap_huatong5	2638		0	0	WeddingTourNpc		594			Phụng Hỉ 3 (Diễu hành kết thúc, Hoa Đồng 1 phụ trách rao tin)		1									Setting/Npc/Ai/KeepMoving.ini			0	7	3								7										
+MarryTourMap_huatong6	2639		0	0	WeddingTourNpc		594			Phụng Hỉ 4 (Diễu hành kết thúc, Hoa Đồng 2 phụ trách rao tin)		1									Setting/Npc/Ai/KeepMoving.ini			0	7	3								7										
+MarryTourMap_chuisuona1	2390		0	0			592			Thổi Tiêu 1 (Chưa từng sử dụng)		1									Setting/Npc/Ai/KeepMoving.ini			0	7	3								7										
+MarryTourMap_chuisuona2	2391		0	0			592			Thổi Tiêu 2 (Chưa từng sử dụng)		1									Setting/Npc/Ai/KeepMoving.ini			0	7	3								7										
+MarryTourMap_chuisuona3	2394		0	0			592			Thổi Tiêu 3 (Chưa từng sử dụng)		1									Setting/Npc/Ai/KeepMoving.ini			0	7	3								7										
+MarryTourMap_chuisuona4	2395		0	0			592			Thổi Tiêu 4 (Chưa từng sử dụng)		1									Setting/Npc/Ai/KeepMoving.ini			0	7	3								7										
+MarryTourMap_qiaoluo1	2392		0	0			593			Khua Chiêng 1 (Chưa từng sử dụng)		1									Setting/Npc/Ai/KeepMoving.ini			0	7	3								7										
+MarryTourMap_qiaoluo2	2393		0	0			593			Khua Chiêng 2 (Chưa từng sử dụng)		1									Setting/Npc/Ai/KeepMoving.ini			0	7	3								7										
+Marry_bianpao	2396	Pháo Hoa Vui Vẻ	0	0			612					1									Setting/Npc/Ai/KeepMoving.ini			0	7	3						NoTurn		7										
+Marry_box	2397	Hộp Quà Kẹo Hỉ	2	1	WeddingCandyNpc		613	9038				1									Setting/Npc/Ai/KeepMoving.ini			0	7	3						NoTurn		7										
+Marry_tongxinguo	2398	Quả Đồng Tâm	2	1	ConcentricFruitNpc		614	9037				1									Setting/Npc/Ai/KeepMoving.ini			0	7	3						NoTurn		7										
+Marry1_TableFood_1	2537	Nhân Duyên Mỹ Mãn	2	1	WeddingTableNpc	60	20010	9034				1									Setting/Npc/Ai/KeepMoving.ini			0		3						NoTurn												
+Marry1_TableFood_2	2538	Hỉ Khánh Mãn Đường	2	1	WeddingTableNpc	60	20010	9034				1									Setting/Npc/Ai/KeepMoving.ini			0		3						NoTurn												
+Marry1_TableFood_3	2539	Hoa Hảo Nguyệt Viên	2	1	WeddingTableNpc	60	20010	9034				1									Setting/Npc/Ai/KeepMoving.ini			0		3						NoTurn												
+Marry1_TableFood_4	2540	Vĩnh Kết Liên Lý	2	1	WeddingTableNpc	60	20010	9034				1									Setting/Npc/Ai/KeepMoving.ini			0		3						NoTurn												
+Marry1_TableFood_5	2541	Bách Niên Hảo Hợp	2	1	WeddingTableNpc	60	20010	9034				1									Setting/Npc/Ai/KeepMoving.ini			0		3						NoTurn												
+Marry2_TableFood_1	2542	Nhân Duyên Mỹ Mãn	2	1	WeddingTableNpc	60	20011	9035				1									Setting/Npc/Ai/KeepMoving.ini			0		3						NoTurn												
+Marry2_TableFood_2	2543	Hỉ Khánh Mãn Đường	2	1	WeddingTableNpc	60	20011	9035				1									Setting/Npc/Ai/KeepMoving.ini			0		3						NoTurn												
+Marry2_TableFood_3	2544	Hoa Hảo Nguyệt Viên	2	1	WeddingTableNpc	60	20011	9035				1									Setting/Npc/Ai/KeepMoving.ini			0		3						NoTurn												
+Marry2_TableFood_4	2545	Vĩnh Kết Liên Lý	2	1	WeddingTableNpc	60	20011	9035				1									Setting/Npc/Ai/KeepMoving.ini			0		3						NoTurn												
+Marry2_TableFood_5	2546	Bách Niên Hảo Hợp	2	1	WeddingTableNpc	60	20011	9035				1									Setting/Npc/Ai/KeepMoving.ini			0		3						NoTurn												
+Marry3_TableFood_1	2547	Nhân Duyên Mỹ Mãn	2	1	WeddingTableNpc	60	20012	9036				1									Setting/Npc/Ai/KeepMoving.ini			0		3						NoTurn												
+Marry3_TableFood_2	2548	Hỉ Khánh Mãn Đường	2	1	WeddingTableNpc	60	20012	9036				1									Setting/Npc/Ai/KeepMoving.ini			0		3						NoTurn												
+Marry3_TableFood_3	2549	Hoa Hảo Nguyệt Viên	2	1	WeddingTableNpc	60	20012	9036				1									Setting/Npc/Ai/KeepMoving.ini			0		3						NoTurn												
+Marry3_TableFood_4	2550	Vĩnh Kết Liên Lý	2	1	WeddingTableNpc	60	20012	9036				1									Setting/Npc/Ai/KeepMoving.ini			0		3						NoTurn												
+Marry3_TableFood_5	2551	Bách Niên Hảo Hợp	2	1	WeddingTableNpc	60	20012	9036				1									Setting/Npc/Ai/KeepMoving.ini			0		3						NoTurn												
+Marry_gouhuo	2552		4	0	GouHuoNpc	all|30000|10|250|0|147	469																	0																0				
+Marry2_gouhuo	2629		4	0	GouHuoNpc	all|30000|10|340|0|161	469																	0																0				
+Marry3_gouhuo	2630		4	0	GouHuoNpc	all|30000|10|340|0|161	469																	0																0				
+Marry1_Table	2556		0	0		60	20002			Bàn Trống 1		1									Setting/Npc/Ai/KeepMoving.ini			0		3						NoTurn												
+Marry2_Table	2557		0	0		60	20005			Bàn Trống 2		1									Setting/Npc/Ai/KeepMoving.ini			0		3						NoTurn												
+Marry3_Table	2558		0	0		60	20008			Bàn Trống 3		1									Setting/Npc/Ai/KeepMoving.ini			0		3						NoTurn												
+test_yewuxing	2449	Diệp Vô Tâm	0	1			1217					611	166	1	200	1			600	600	Setting/Npc/Ai/CommonPassive.ini	1	Setting/Npc/DropFile/yewai/yewai_100.tab	1	18	1							1			16								
+test_yeqingyang	2450	Diệp Thanh Dương	0	1			1218					611	166	1	200	1			600	600	Setting/Npc/Ai/CommonPassive.ini	1	Setting/Npc/DropFile/yewai/yewai_100.tab	1	18	1							1			16								
+test_xiaoyuzhu	2451	Tiêu Ngọc Trúc	0	1			1219					611	166	1	200	1			600	600	Setting/Npc/Ai/CommonPassive.ini	1	Setting/Npc/DropFile/yewai/yewai_100.tab	1	18	1							1			16								
+test_bingyi	2452	Băng Nghi	0	1			1210					611	166	1	200	1			600	600	Setting/Npc/Ai/CommonPassive.ini	1	Setting/Npc/DropFile/yewai/yewai_100.tab	1	18	1							1			16								
+Marry3_wanjincai	2624	Vạn Kim Tài	0	0			146					1									Setting/Npc/Ai/KeepMoving.ini			0	10	3								10										
+Marry3_lingengxin	2625	Lâm Triều Hoa	0	0			1179					1									Setting/Npc/Ai/KeepMoving.ini			0	10	3								10										
+Marry3_xiaocaiyan	2626	Tiểu Tử Yên	0	0			191					1									Setting/Npc/Ai/KeepMoving.ini			0	10	3								10										
+Marry3_xiaoyinfang	2627	Ân Phương	0	0			125					1									Setting/Npc/Ai/KeepMoving.ini			0	10	3								10										
+Marry3_xiaoyintong	2628	Tiểu Ân Đồng	0	0			192					1									Setting/Npc/Ai/KeepMoving.ini			0	10	3								10										
+xisuidao_gold	2648	Rối Thiên Cơ-Kim	0	1	FixExpNpc		190		993		15	8	166	1	200	1			500	500				1	18	1										1								
+xisuidao_Wood	2649	Rối Thiên Cơ-Mộc	0	1	FixExpNpc		190		993		15	9	166	1	200	1			500	500				1	18	1										1								
+xisuidao_Water	2650	Rối Thiên Cơ-Thủy	0	1	FixExpNpc		190		993		15	10	166	1	200	1			500	500				1	18	1										1								
+xisuidao_Fire	2651	Rối Thiên Cơ-Hỏa	0	1	FixExpNpc		190		993		15	11	166	1	200	1			500	500				1	18	1										1								
+xisuidao_Earth	2652	Rối Thiên Cơ-Thổ	0	1	FixExpNpc		190		993		15	12	166	1	200	1			500	500				1	18	1										1								
+Marry_huaquan	2654		0	0		60	20013			Hoa của Chủ Đài Hôn lễ, dùng làm vòng hoa vây thành		1									Setting/Npc/Ai/KeepMoving.ini			0		3						NoTurn												
+House_animal_1	2679	Tiểu Bạch	0	0			20300			Gâu...		1									Setting/Npc/Ai/KeepMoving.ini				7	3								7										
+House_animal_2	2680	Tiểu Hắc	0	0			20301			Meo!		1									Setting/Npc/Ai/KeepMoving.ini				7	3								7										
+House_animal_3	2941	Iraq	0	0			20302			Meo!		1									Setting/Npc/Ai/KeepMoving.ini				7	3								7										
+House_animal_4	3428	Tiểu Bát	0	0			20303			Khò khò...		1									Setting/Npc/Ai/KeepMoving.ini				7	3								7										
+diaoxiangyuliu_huapen	2681	Bồn Hoa	5	0			648	200	994			100							560	980	Setting/Npc/Ai/Stay.ini			1	17	3	1					NoTurn												
+test_101	2685	Thôn Nữ	0	1			649					611	166	1	200	1			600	600	Setting/Npc/Ai/CommonPassive.ini	1	Setting/Npc/DropFile/yewai/yewai_100.tab	1	18	1							1			16								
+test_102	2686	Mã Tặc 1	0	1			650					611	166	1	200	1			600	600	Setting/Npc/Ai/CommonPassive.ini	1	Setting/Npc/DropFile/yewai/yewai_100.tab	1	18	1							1			16								
+test_103	2687	Mã Tặc 2	0	1			651					611	166	1	200	1			600	600	Setting/Npc/Ai/CommonPassive.ini	1	Setting/Npc/DropFile/yewai/yewai_100.tab	1	18	1							1			16								
+test_104	2688	Nạn Dân	0	1			652					611	166	1	200	1			600	600	Setting/Npc/Ai/CommonPassive.ini	1	Setting/Npc/DropFile/yewai/yewai_100.tab	1	18	1							1			16								
+test_105	2689	Thích Khách 1	0	1			653					611	166	1	200	1			600	600	Setting/Npc/Ai/CommonPassive.ini	1	Setting/Npc/DropFile/yewai/yewai_100.tab	1	18	1							1			16								
+test_106	2690	Thích Khách 2	0	1			654					611	166	1	200	1			600	600	Setting/Npc/Ai/CommonPassive.ini	1	Setting/Npc/DropFile/yewai/yewai_100.tab	1	18	1							1			16								
+test_107	2691	Bé Gái	0	1			655					611	166	1	200	1			600	600	Setting/Npc/Ai/CommonPassive.ini	1	Setting/Npc/DropFile/yewai/yewai_100.tab	1	18	1							1			16								
+test_108	2692	Võ Quán	0	1			656					611	166	1	200	1			600	600	Setting/Npc/Ai/CommonPassive.ini	1	Setting/Npc/DropFile/yewai/yewai_100.tab	1	18	1							1			16								
+test_109	2693	Triệu Vân	0	1			657					611	166	1	200	1			600	600	Setting/Npc/Ai/CommonPassive.ini	1	Setting/Npc/DropFile/yewai/yewai_100.tab	1	18	1							1			16								
+test_110	2694	Vô Danh	0	1			658					611	166	1	200	1			600	600	Setting/Npc/Ai/CommonPassive.ini	1	Setting/Npc/DropFile/yewai/yewai_100.tab	1	18	1							1			16								
+test_111	2695	Thiên Sơn Chưởng Môn	0	1			659					611	166	1	200	1			600	600	Setting/Npc/Ai/CommonPassive.ini	1	Setting/Npc/DropFile/yewai/yewai_100.tab	1	18	1							1			16								
+test_112	2696	Thiên Sơn Sư Tỷ	0	1			660					611	166	1	200	1			600	600	Setting/Npc/Ai/CommonPassive.ini	1	Setting/Npc/DropFile/yewai/yewai_100.tab	1	18	1							1			16								
+test_113	2697	Tiểu Sư Muội	0	1			661					611	166	1	200	1			600	600	Setting/Npc/Ai/CommonPassive.ini	1	Setting/Npc/DropFile/yewai/yewai_100.tab	1	18	1							1			16								
+test_114	2718	Trương Phượng Phượng	0	1			3					611	166	1	200	1			600	600		1	Setting/Npc/DropFile/yewai/yewai_100.tab		18	3							1			16								
+test_115	2719	Vương Huyễn Hoàng	0	1			1008					611	166	1	200	1			600	600		1	Setting/Npc/DropFile/yewai/yewai_100.tab		18	3							1			16								
+test_116	2720	Lý Truyền Hiệp	0	1			4					611	166	1	200	1			600	600		1	Setting/Npc/DropFile/yewai/yewai_100.tab		18	3							1			16								
+test_117	2721	Lưu Kiếm Kỳ	0	1			1003					611	166	1	200	1			600	600		1	Setting/Npc/DropFile/yewai/yewai_100.tab		18	3							1			16								
+ActSkillNPC_1	2827	NPC ẩn dùng đặt kỹ năng	6	1	FubenDeath		469	200	300			343							1000	1000	Setting/Npc/Ai/CommonActive.ini			1	0	1									1					1				
+tianlao_shouwei	2828	Vạn Kim Tài	2	0	PrisonHelper		146	206	306	Chỉ cần cho ta tiền, ta sẽ giúp ngươi thoát khỏi nơi này!																						NoTurn			3									
+tianlao_Boss	2829	Bạch Khởi	0	1	FieldMapNpc		523	8002	300		15	655	3023	1	91	1	1065	1	3000	3000	Setting/Npc/Ai/Tomb/baiqi.ini			1	18	2									6								1	
+tianlao_juhua	2830	Bỏ chạy	5	0			666	200	994																							NoTurn												
+kufu_longzhu_king1	2831	Long Trụ Thiên Phúc	0	1	cross_domain_pillar		499	200	994			1010			91	1	105	1	1500	1500	Setting/Npc/Ai/Stay.ini			1	20	2	1					NoTurn										1	1	
+kufu_longzhu_king2	2832	Long Trụ Địa Tải	0	1	cross_domain_pillar		499	200	994			1010			91	1	105	1	1500	1500	Setting/Npc/Ai/Stay.ini			1	20	2	1					NoTurn										1	1	
+kufu_longzhu_king3	2833	Long Trụ Phong Dương 	0	1	cross_domain_pillar		499	200	994			1010			91	1	105	1	1500	1500	Setting/Npc/Ai/Stay.ini			1	20	2	1					NoTurn										1	1	
+kufu_longzhu_king4	2834	Long Trụ Vân Thùy	0	1	cross_domain_pillar		499	200	994			1010			91	1	105	1	1500	1500	Setting/Npc/Ai/Stay.ini			1	20	2	1					NoTurn										1	1	
+kufu_longzhu_king5	2835	Long Trụ Long Phi	0	1	cross_domain_pillar		499	200	994			1010			91	1	105	1	1500	1500	Setting/Npc/Ai/Stay.ini			1	20	2	1					NoTurn										1	1	
+kufu_longzhu_king6	2836	Long Trụ Hổ Dực	0	1	cross_domain_pillar		499	200	994			1010			91	1	105	1	1500	1500	Setting/Npc/Ai/Stay.ini			1	20	2	1					NoTurn										1	1	
+kufu_longzhu_king7	2837	Long Trụ Điểu Tường	0	1	cross_domain_pillar		499	200	994			1010			91	1	105	1	1500	1500	Setting/Npc/Ai/Stay.ini			1	20	2	1					NoTurn										1	1	
+kufu_longzhu_king8	2838	Long Trụ Xà Bàn	0	1	cross_domain_pillar		499	200	994			1010			91	1	105	1	1500	1500	Setting/Npc/Ai/Stay.ini			1	20	2	1					NoTurn										1	1	
+kuafu_longzhu_outer1	2839	Long Trụ Bắc	0	1	cross_domain_pillar		498	200	994			1011			91	1	105	1	1500	1500	Setting/Npc/Ai/Stay.ini			1	20	2	1					NoTurn										1	1	
+kuafu_longzhu_outer2	2840	Long Trụ Trung	0	1	cross_domain_pillar		498	200	994			1011			91	1	105	1	1500	1500	Setting/Npc/Ai/Stay.ini			1	20	2	1					NoTurn										1	1	
+kuafu_longzhu_outer3	2841	Long Trụ Nam	0	1	cross_domain_pillar		498	200	994			1011			91	1	105	1	1500	1500	Setting/Npc/Ai/Stay.ini			1	20	2	1					NoTurn										1	1	
+kuafu_gate_outer	2842	Cổng Thành	0	1	cross_domain_wall		504	200	994			1012			91	1	105	1	1500	1500	Setting/Npc/Ai/Stay.ini			0	20	2	1					NoTurn										1	1	
+kuafu_gate_inner1	2843	Bia Thủ Thanh Long	0	1	cross_domain_wall		20015	200	994			1013			91	1	105	1	1500	1500	Setting/Npc/Ai/Stay.ini			0	20	2	1					NoTurn										1	1	
+kuafu_gate_inner2	2844	Bia Thủ Chu Tướcộ	0	1	cross_domain_wall		20018	200	994			1013			91	1	105	1	1500	1500	Setting/Npc/Ai/Stay.ini			0	20	2	1					NoTurn										1	1	
+kuafu_gate_inner3	2845	Bia Thủ Bạch Hổ	0	1	cross_domain_wall		20016	200	994			1013			91	1	105	1	1500	1500	Setting/Npc/Ai/Stay.ini			0	20	2	1					NoTurn										1	1	
+kuafu_gate_inner4	2846	Bia Thủ Huyền Vũ	0	1	cross_domain_wall		20017	200	994			1013			91	1	105	1	1500	1500	Setting/Npc/Ai/Stay.ini			0	20	2	1					NoTurn										1	1	
+kuafu_wangzuo	2847	Lâm An Vương Tọa	2	0	cross_domain_throne		20014	9045	9045			1014			91	1	105	1	1500	1500	Setting/Npc/Ai/Stay.ini			1	20	2	1					NoTurn										1	1	
+kuafu_gongcc_bs	2848	Công Thành	2	0	corss_domain_change	Công Thành Xa|2218|3600	506	200	994	Công Thành Xa gây nhiều sát thương cho Cổng Thành.		1003			91	1	105	1	1500	1500	Setting/Npc/Ai/Stay.ini			0	20	3						NoTurn												
+kuafu_jinnc_bs	2849	Kình Nỏ	2	0	corss_domain_change	Kình Nỏ Xa|2219|3600	480	200	994	Kình Nỏ Xa có thể gây sát thương khá cao cho kẻ địch trên đường. Điểm sát thương cố định, người chơi yếu có thể dùng tăng sức mạnh.		1004			91	1	105	1	1500	1500	Setting/Npc/Ai/Stay.ini			0	20	3						NoTurn												
+kuafu_tiepc_bs	2850	Thiết Pháo	2	0	corss_domain_change	Thiết Pháo Xa|2220|3600	378	200	994	Thiết Pháo Xa gây sát thương lớn lên địch cố định, điểm sát thương cố định, người chơi còn yếu nên dùng tăng sức mạnh.		1005			91	1	105	1	1500	1500	Setting/Npc/Ai/Stay.ini			0	20	3						NoTurn												
+kuafu_shenss_zh	2851	Thần Xạ Thủ	0	0	corss_domain_attack		159	200	994			1006	1731	1	91	1			1000	1000	Setting/Npc/Ai/CommonActive.ini			1	20	1																		
+kuafu_guwq_zh	2852	Cờ Cổ Vũ	0	0	corss_domain_attack		505	200	994			1007			91	1	105	1	1500	1500	Setting/Npc/Ai/Stay.ini			1		2	1		1732	1														
+kuafu_wangzuo_2	2853	NPC ẩn dành cho Ngôi Vua	6	1			469	200	300			1014							1000	1000	Setting/Npc/Ai/CommonActive.ini			1	0	3									1					1				
+kuafu_wangzuo_fight	2870	Chiếm Vương Tọa	0	0	cross_domain_throne_fight		20014	9045	9045			1014			91	1	105	1	1500	1500	Setting/Npc/Ai/Stay.ini			1	20	2	1					NoTurn										1	1	
+Field_Header_lv120_Show1	2871	Cự Ngao Phong Hậu	0	1			667	9043				611	166	1	200	1			600	600	Setting/Npc/Ai/CommonPassive.ini	1	Setting/Npc/DropFile/yewai/yewai_100.tab	1	18	1																		
+Field_Header_lv120_Show2	2872	Long Văn Sư Vương	0	1			668	9042				611	166	1	200	1			600	600	Setting/Npc/Ai/CommonPassive.ini	1	Setting/Npc/DropFile/yewai/yewai_100.tab	1	18	1																		
+Field_Header_lv140_Show1	3330	Vạn Độc Cúc Hoàng	0	1			714	9048				611	166	1	200	1			600	600	Setting/Npc/Ai/CommonPassive.ini	1	Setting/Npc/DropFile/yewai/yewai_100.tab	1	18	1																		
+Field_Header_lv140_Show2	3331	Huyền Băng Điêu Hoàng	0	1			713	9049				611	166	1	200	1			600	600	Setting/Npc/Ai/CommonPassive.ini	1	Setting/Npc/DropFile/yewai/yewai_100.tab	1	18	1																		
+Field_Header_lv160_Show1	3731	Bàn Thạch Ngưu Vương	0	1			738	9050				611	166	1	200	1			600	600	Setting/Npc/Ai/CommonPassive.ini	1	Setting/Npc/DropFile/yewai/yewai_100.tab	1	18	1																		
+Field_Header_lv160_Show2	3732	Chích Viêm Ngưu Hậu	0	1			739	9051				611	166	1	200	1			600	600	Setting/Npc/Ai/CommonPassive.ini	1	Setting/Npc/DropFile/yewai/yewai_100.tab	1	18	1																		
+hd_ny_denglong	2873	Lồng Đèn Đỏ	2	0	LanternPickNpc		669	995	300																							NoTurn												
+PetDog	2874	Tiểu Bạch Khuyển	0	0	DogPetNpc		20300	10001	994			10000							1000	1000	Setting/Npc/Ai/normal/Pet.ini				20	3								10	1							1	1	
+PetCat	2875	Tiểu Hắc Miêu	0	0	CatPetNpc		20301	10002	994			10000							1000	1000	Setting/Npc/Ai/normal/Pet.ini				20	3								10	1							1	1	
+PetCat_VIP	3684	Tiểu Hắc Miêu	0	0	DogPetNpc		20301	10002	994			10000							1000	1000	Setting/Npc/Ai/normal/Pet.ini				20	3								10	1							1	1	
+PetCat_White	2943	Ba Tư Nhỏ	0	0	CatPetNpc		20302	10003	994			10000							1000	1000	Setting/Npc/Ai/normal/Pet.ini				20	3								10	1							1	1	
+PetCat_Show	2949	Tiểu Hắc Miêu	0	0			20301	10002	994			10000							1000	1000	Setting/Npc/Ai/Stay.ini				20	3								10	1							1	1	
+PetCat_White_Show	2950	Ba Tư Nhỏ	0	0			20302	10003	994			10000							1000	1000	Setting/Npc/Ai/Stay.ini				20	3								10	1							1	1	
+PetPig	3429	Tiểu Bát	0	0	CatPetNpc		20303	10004	994			10000							1000	1000	Setting/Npc/Ai/normal/Pet.ini				20	3								10	1							1	1	
+PetRabbit	3746	Tiểu Bạch Thố	0	0	CatPetNpc		20305	10005	994			10000							1000	1000	Setting/Npc/Ai/normal/Pet.ini				20	3								10	1							1	1	
+PetCat_LoveTask	3242	Mèo Tình Duyên	0	0	CatPetNpc		20301	10002	994			10000							1000	1000	Setting/Npc/Ai/normal/Pet.ini				20	3								10	1							1	1	
+Test_xuanjizi	2926	Tuyền Cơ Tử	0	1			1223	10002	994			10000							1000	1000	Setting/Npc/Ai/normal/Pet.ini				20	3								10	1							1	1	
+Test_daoyizhenren	2927	Đạo Nhất Chân Nhân	0	1			1236	10002	994			10000							1000	1000	Setting/Npc/Ai/normal/Pet.ini				20	3								10	1							1	1	
+GoodVoice_npc	2939	Sứ Giả Quảng Cáo The Voice	0	0			1232		993			1									Setting/Npc/Ai/KeepMoving.ini			0	10	3								10										
+GoodVoice_diaoxiang	2940	Tượng The Voice	2	0	GoodVoiceStatue		565		993			1									Setting/Npc/Ai/KeepMoving.ini			0	10	3						NoTurn		10	5									
+GoodVoice_taohuaban	2944	Cánh Hoa Đào	2	1	TaoHuaNpc		698	9046				1												1	10	1						NoTurn										1		
+GoodVoice_horse1	2945	Li Mị Tuyết Hồ	0	0			929		993			1							1000	1000	Setting/Npc/Ai/Stay.ini				10	3								10										
+GoodVoice_horse2	2946	U Viêm-Li Mị Tuyết Hồ	0	0			930		993			1							1000	1000	Setting/Npc/Ai/CommonActive.ini				10	3								10										
+TeamTreatureTrans_1to2	2954	Bùa Truyền Tống Bạc	2	1	FubenDialogEvent	0,,OpenKey	550		550										560	980				1	1										3									
+TeamTreatureTrans_2to3	2955	Bùa Truyền Tống Vàng	2	1	FubenDialogEvent	0,,OpenKey	549		549										560	980				1	1										7									
+TeamTreature_dropbox	2956	Rơi Bảo Rương	2	1	FubenDialogEvent	0,,OpenDeathDropItem	933	995	933										560	980				1	1							NoTurn												
+TeamTreature_findbox	2957	Bảo Rương	2	1	FubenDialogEvent	1,Đang thu thập...,OpenBox,2957	2957	995	2957			1							1000	1000					10							NoTurn		10										
+TeamTreature_transanimol	2958	Khỉ Ăn Vụng	0	1	FubenDeath		2958		2958			6	22	1	91	1			1000	1000	Setting/Npc/Ai/CommonActive.ini			1	20	2								20	3									
+TeamTreature_boss1	3217	Vua Khỉ Ăn Vụng	0	1	FubenDeath		3217		3217			653	22	1	91	1			1000	1000	Setting/Npc/Ai/CommonActive.ini			1	20	2								20	5									
+TeamTreature_findbox2	2959	Bảo Rương	2	1	FubenDialogEvent	1,Đang thu thập...,OpenBox,2959	2957	995	2957			1							1000	1000					10							NoTurn		10	2									
+TeamTreature_transanimol2	2960	Trộm Báu Vật	0	1	FubenDeath		143		300			6	22	1	91	1			1000	1000	Setting/Npc/Ai/CommonActive.ini				15	2								15	4									
+TeamTreature_findbox3	2961	Bảo Rương	2	1	FubenDialogEvent	10,Đang thu thập...,OpenBox,2961	2957	995	2957			1							1000	1000					10							NoTurn		10	3									
+TeamTreature_findbigbox3	2962	Rương Khổng Lồ	2	1	FubenDialogEvent	30,Đang thu thập...,OpenTeamBox,2962	2962	995	2962			1							1000	1000					10							NoTurn		10	6									
+jiazuPK_1	2974	Long Trụ	0	1	KinEncounterNpc		499	200	994			1101			91	1	105	1	1500	1500	Setting/Npc/Ai/Stay.ini			1	20	2	1					NoTurn										1	1	
+jiazuPK_1_2	3163	Long Trụ	0	1	KinEncounterNpc		499	200	994			1102			91	1	105	1	1500	1500	Setting/Npc/Ai/Stay.ini			1	20	2	1					NoTurn										1	1	
+jiazuPK_1_3	3162	Long Trụ	0	1	KinEncounterNpc		499	200	994			1103			91	1	105	1	1500	1500	Setting/Npc/Ai/Stay.ini			1	20	2	1					NoTurn										1	1	
+jiazuPK_1_4	3164	Long Trụ	0	1	KinEncounterNpc		499	200	994			1104			91	1	105	1	1500	1500	Setting/Npc/Ai/Stay.ini			1	20	2	1					NoTurn										1	1	
+jiazuPK_1_5	3165	Long Trụ	0	1	KinEncounterNpc		499	200	994			1105			91	1	105	1	1500	1500	Setting/Npc/Ai/Stay.ini			1	20	2	1					NoTurn										1	1	
+jiazuPK_1_6	3166	Long Trụ	0	1	KinEncounterNpc		499	200	994			1106			91	1	105	1	1500	1500	Setting/Npc/Ai/Stay.ini			1	20	2	1					NoTurn										1	1	
+jiazuPK_1_7	3167	Long Trụ	0	1	KinEncounterNpc		499	200	994			1107			91	1	105	1	1500	1500	Setting/Npc/Ai/Stay.ini			1	20	2	1					NoTurn										1	1	
+jiazuPK_2	2975	Phong Uyên Thần Mộc	0	1	KinEncounterNpc		702	200	994			1108			91	1	105	1	1500	1500	Setting/Npc/Ai/Stay.ini			1	20	2	1					NoTurn										1	1	
+jiazuPK_2_2	3168	Phong Uyên Thần Mộc	0	1	KinEncounterNpc		702	200	994			1109			91	1	105	1	1500	1500	Setting/Npc/Ai/Stay.ini			1	20	2	1					NoTurn										1	1	
+jiazuPK_2_3	3169	Phong Uyên Thần Mộc	0	1	KinEncounterNpc		702	200	994			1110			91	1	105	1	1500	1500	Setting/Npc/Ai/Stay.ini			1	20	2	1					NoTurn										1	1	
+jiazuPK_2_4	3170	Phong Uyên Thần Mộc	0	1	KinEncounterNpc		702	200	994			1111			91	1	105	1	1500	1500	Setting/Npc/Ai/Stay.ini			1	20	2	1					NoTurn										1	1	
+jiazuPK_2_5	3171	Phong Uyên Thần Mộc	0	1	KinEncounterNpc		702	200	994			1112			91	1	105	1	1500	1500	Setting/Npc/Ai/Stay.ini			1	20	2	1					NoTurn										1	1	
+jiazuPK_2_6	3172	Phong Uyên Thần Mộc	0	1	KinEncounterNpc		702	200	994			1113			91	1	105	1	1500	1500	Setting/Npc/Ai/Stay.ini			1	20	2	1					NoTurn										1	1	
+jiazuPK_2_7	3173	Phong Uyên Thần Mộc	0	1	KinEncounterNpc		702	200	994			1114			91	1	105	1	1500	1500	Setting/Npc/Ai/Stay.ini			1	20	2	1					NoTurn										1	1	
+jiazuPK_3	2976	Đông-Kho Lương	0	1	KinEncounterNpc		703	200	994			1108			91	1	105	1	1500	1500	Setting/Npc/Ai/Stay.ini			1	20	2	1					NoTurn										1	1	
+jiazuPK_3_2	3174	Đông-Kho Lương	0	1	KinEncounterNpc		703	200	994			1109			91	1	105	1	1500	1500	Setting/Npc/Ai/Stay.ini			1	20	2	1					NoTurn										1	1	
+jiazuPK_3_3	3175	Đông-Kho Lương	0	1	KinEncounterNpc		703	200	994			1110			91	1	105	1	1500	1500	Setting/Npc/Ai/Stay.ini			1	20	2	1					NoTurn										1	1	
+jiazuPK_3_4	3176	Đông-Kho Lương	0	1	KinEncounterNpc		703	200	994			1111			91	1	105	1	1500	1500	Setting/Npc/Ai/Stay.ini			1	20	2	1					NoTurn										1	1	
+jiazuPK_3_5	3177	Đông-Kho Lương	0	1	KinEncounterNpc		703	200	994			1112			91	1	105	1	1500	1500	Setting/Npc/Ai/Stay.ini			1	20	2	1					NoTurn										1	1	
+jiazuPK_3_6	3178	Đông-Kho Lương	0	1	KinEncounterNpc		703	200	994			1113			91	1	105	1	1500	1500	Setting/Npc/Ai/Stay.ini			1	20	2	1					NoTurn										1	1	
+jiazuPK_3_7	3179	Đông-Kho Lương	0	1	KinEncounterNpc		703	200	994			1114			91	1	105	1	1500	1500	Setting/Npc/Ai/Stay.ini			1	20	2	1					NoTurn										1	1	
+jiazuPK_4	3155	Hùng Thường Thần Mộc	0	1	KinEncounterNpc		702	200	994			1108			91	1	105	1	1500	1500	Setting/Npc/Ai/Stay.ini			1	20	2	1					NoTurn										1	1	
+jiazuPK_4_2	3180	Hùng Thường Thần Mộc	0	1	KinEncounterNpc		702	200	994			1109			91	1	105	1	1500	1500	Setting/Npc/Ai/Stay.ini			1	20	2	1					NoTurn										1	1	
+jiazuPK_4_3	3181	Hùng Thường Thần Mộc	0	1	KinEncounterNpc		702	200	994			1110			91	1	105	1	1500	1500	Setting/Npc/Ai/Stay.ini			1	20	2	1					NoTurn										1	1	
+jiazuPK_4_4	3182	Hùng Thường Thần Mộc	0	1	KinEncounterNpc		702	200	994			1111			91	1	105	1	1500	1500	Setting/Npc/Ai/Stay.ini			1	20	2	1					NoTurn										1	1	
+jiazuPK_4_5	3183	Hùng Thường Thần Mộc	0	1	KinEncounterNpc		702	200	994			1112			91	1	105	1	1500	1500	Setting/Npc/Ai/Stay.ini			1	20	2	1					NoTurn										1	1	
+jiazuPK_4_6	3184	Hùng Thường Thần Mộc	0	1	KinEncounterNpc		702	200	994			1113			91	1	105	1	1500	1500	Setting/Npc/Ai/Stay.ini			1	20	2	1					NoTurn										1	1	
+jiazuPK_4_7	3185	Hùng Thường Thần Mộc	0	1	KinEncounterNpc		702	200	994			1114			91	1	105	1	1500	1500	Setting/Npc/Ai/Stay.ini			1	20	2	1					NoTurn										1	1	
+jiazuPK_5	3156	Tây-Kho Lương	0	1	KinEncounterNpc		703	200	994			1108			91	1	105	1	1500	1500	Setting/Npc/Ai/Stay.ini			1	20	2	1					NoTurn										1	1	
+jiazuPK_5_2	3186	Tây-Kho Lương	0	1	KinEncounterNpc		703	200	994			1109			91	1	105	1	1500	1500	Setting/Npc/Ai/Stay.ini			1	20	2	1					NoTurn										1	1	
+jiazuPK_5_3	3187	Tây-Kho Lương	0	1	KinEncounterNpc		703	200	994			1110			91	1	105	1	1500	1500	Setting/Npc/Ai/Stay.ini			1	20	2	1					NoTurn										1	1	
+jiazuPK_5_4	3188	Tây-Kho Lương	0	1	KinEncounterNpc		703	200	994			1111			91	1	105	1	1500	1500	Setting/Npc/Ai/Stay.ini			1	20	2	1					NoTurn										1	1	
+jiazuPK_5_5	3189	Tây-Kho Lương	0	1	KinEncounterNpc		703	200	994			1112			91	1	105	1	1500	1500	Setting/Npc/Ai/Stay.ini			1	20	2	1					NoTurn										1	1	
+jiazuPK_5_6	3190	Tây-Kho Lương	0	1	KinEncounterNpc		703	200	994			1113			91	1	105	1	1500	1500	Setting/Npc/Ai/Stay.ini			1	20	2	1					NoTurn										1	1	
+jiazuPK_5_7	3191	Tây-Kho Lương	0	1	KinEncounterNpc		703	200	994			1114			91	1	105	1	1500	1500	Setting/Npc/Ai/Stay.ini			1	20	2	1					NoTurn										1	1	
+jiazuPK_6	3192	Kình Nỏ	2	0	KinEncounterChange	Kình Nỏ Xa|5143|3600	480	200	994	Kình Nỏ Xa có thể gây sát thương khá cao cho kẻ địch trên đường. Điểm sát thương cố định, người chơi yếu có thể dùng tăng sức mạnh.		1004			91	1	105	1	1500	1500	Setting/Npc/Ai/Stay.ini			0	20	3						NoTurn												
+jiazuPK_7	3193	Kình Nỏ	0	0			480	200	994			1004	194	1	91	1	105	1	1500	1500	Setting/Npc/Ai/CommonActive.ini			1	20	1																		
+jiuguanboss	3198	Bà Chủ	2	1	FemaleBoss		1103	999	999	Chọn khác nhau, góc nhìn khác nhau, thứ tự nắm bắt chân tướng cũng khác nhau									1500	1500	Setting/Npc/Ai/CommonActive.ini			0	15	1																		
+jiuguanboss_fb	3214	Bà Chủ	2	1			1103	999	999	Vong Ưu Tửu Quán, nhất túy vong ưu!									1500	1500	Setting/Npc/Ai/CommonActive.ini			0	15	1																		
+jiuguanjieyinren	3213	Bà Chủ	2	1	DrinkHouseNpc		1103	999	999	Vong Ưu Tửu Quán, nhất túy vong ưu!									1500	1500	Setting/Npc/Ai/CommonActive.ini			0	15	1																		
+Jiuguan_TableFood_1	3215	Bàn Gỗ Tùng	5	1			3215	9034				1									Setting/Npc/Ai/KeepMoving.ini			0		3						NoTurn												
+Jiuguan_TableFood_1_a	3236	Tiệc Bang Hội	2	1	DrinkHouseTableNpc		3215	9047				1									Setting/Npc/Ai/KeepMoving.ini			0		3						NoTurn												
+Jiuguan_TableFood_2	3216	Bàn Thường	5	1			3216	9034				1									Setting/Npc/Ai/KeepMoving.ini			0		3						NoTurn												
+Jiuguan_TableFood_2_a	3237	Tiệc Bang Hội	2	1	DrinkHouseTableNpc		3216	9047				1									Setting/Npc/Ai/KeepMoving.ini			0		3						NoTurn												
+Jiuguan_TableFood_3	3424	Tiệc Tất Niên Ngon	2	1	DrinkHouseTableNpc		3437	9047				1									Setting/Npc/Ai/KeepMoving.ini			0		3						NoTurn												
+kin_gouhuo_3	3238	Tiệc Bang Hội-Lửa Trại-Hỏa Diệm	5	0	GouHuoNpc	all|15000|30|600|1|0	392																																					
+taohuashu_1	3239		2	1	FairylandPeach		704	200	994			1									Setting/Npc/Ai/Stay.ini			1	20	2	1					NoTurn												
+taohuashu_2	3240		2	1	FairylandPeach		705	200	994			1									Setting/Npc/Ai/Stay.ini			1	20	2	1					NoTurn												
+taohuashu_3	3241		2	1	FairylandPeach		706	200	994			1									Setting/Npc/Ai/Stay.ini			1	20	2	1					NoTurn												
+jiuguan_zhaoliying	3243	Triệu Ân Đồng	2	1			1180	999	999	Thanh y bạch sam kiếm hiệp khách, bách lý tần xuyên vạn lý hào									1500	1500	Setting/Npc/Ai/CommonActive.ini			0	15	1																		
+jiuguan_lingengxin	3244	Lâm Triều Hoa	2	1			1181	999	999	Thanh y bạch sam kiếm hiệp khách, bách lý tần xuyên vạn lý hào									1500	1500	Setting/Npc/Ai/CommonActive.ini			0	15	1																		
+jiuguan_linqingyu	3245	Lâm Thanh Vũ	2	1			1244	999	999	Thanh y bạch sam kiếm hiệp khách, bách lý tần xuyên vạn lý hào									1500	1500	Setting/Npc/Ai/CommonActive.ini			0	15	1																		
+JYFL_video	3246	Lâm Thanh Vũ	2	1	TaskVideoNpc		1244	999	999	Thanh y bạch sam kiếm hiệp khách, bách lý tần xuyên vạn lý hào									1500	1500	Setting/Npc/Ai/CommonActive.ini			0	15	1																		
+WanJu_CaiHong	3252	Đồ Chơi Thái Hồng	5	1			707	200	994																																			
+WanJu_ZhanQi	3752	Thương Long Khiếu Nhật Kỳ	5	1			736	200	994																																			
+BaDao_fight	3261	Bá Đao Đệ Tử	0	1	FubenDeath		1242	999	999			20000	21	1	24	1					Setting/Npc/Ai/CommonActive.ini			1	20	1																		
+TianWang_fight	3262	Đệ Tử Thiên Vương	0	1	FubenDeath		5211	999	999			20000	21	1	24	1					Setting/Npc/Ai/CommonActive.ini			1	20	1																		
+CangJian_fight	3263	Đệ Tử Tàng Kiếm	0	1	FubenDeath		1218	999	999			20000	21	1	24	1					Setting/Npc/Ai/CommonActive.ini			1	20	1																		
+ShaoLin_fight	3264	Đệ Tử Thiếu Lâm	0	1	FubenDeath		1169	999	999			20000	21	1	24	1					Setting/Npc/Ai/CommonActive.ini			1	20	1																		
+TangMen_fight	3266	Đường Môn Đệ Tử	0	1	FubenDeath		1166	999	999			20000	21	1	27	1					Setting/Npc/Ai/CommonActive.ini			1	20	1																		
+XiaoYao_fight	3265	Đệ Tử Tiêu Dao	0	1	FubenDeath		5210	999	999			20000	21	1	27	1					Setting/Npc/Ai/CommonActive.ini			1	20	1																		
+HuaShan_fight	3267	Đệ Tử Hoa Sơn	0	1	FubenDeath		1244	999	999			20000	21	1	27	1					Setting/Npc/Ai/CommonActive.ini			1	20	1																		
+WuDu_fight	3268	Đệ Tử Ngũ Độc	0	1	FubenDeath		1174	999	999			20000	21	1	41	1					Setting/Npc/Ai/CommonActive.ini			1	20	1																		
+Emei_fight	3269	Đệ Tử Nga Mi	0	1	FubenDeath		5212	999	999			20000	21	1	43	1					Setting/Npc/Ai/CommonActive.ini			1	20	1																		
+CuiYan_fight	3270	Thúy Yên Đệ Tử	0	1	FubenDeath		1149	999	999			20000	21	1	43	1					Setting/Npc/Ai/CommonActive.ini			1	20	1																		
+TianShan_fight	3271	Thiên Sơn Đệ	0	1	FubenDeath		1232	999	999			20000	21	1	43	1					Setting/Npc/Ai/CommonActive.ini			1	20	1																		
+TaoHua_fight	3272	Đệ Tử Đào Hoa	0	1	FubenDeath		5209	999	999			20000	21	1	40	1					Setting/Npc/Ai/CommonActive.ini			1	20	1																		
+TianRen_fight	3273	Đệ Tử Thiên Nhẫn	0	1	FubenDeath		6111	999	999			20000	21	1	26	1					Setting/Npc/Ai/CommonActive.ini			1	20	1																		
+GaiBang_fight	3274	Cái Bang Đệ Tử	0	1	FubenDeath		1170	999	999			20000	21	1	26	1					Setting/Npc/Ai/CommonActive.ini			1	20	1																		
+WuDang_fight	3275	Đệ Tử Võ Đang	0	1	FubenDeath		1131	999	999			20000	21	1	59	1					Setting/Npc/Ai/CommonActive.ini			1	20	1																		
+KunLun_fight	3276	Côn Lôn Đệ Tử	0	1	FubenDeath		1165	999	999			20000	21	1	59	1					Setting/Npc/Ai/CommonActive.ini			1	20	1																		
+ChangGe_fight	3277	Trường Ca Đệ Tử	0	1	FubenDeath		1210	999	999			20000	21	1	63	1					Setting/Npc/Ai/CommonActive.ini			1	20	1																		
+Duanshi_fight	3460	Đoàn Thị Đệ Tử	0	1	FubenDeath		1210	999	999			20000	21	1	63	1					Setting/Npc/Ai/CommonActive.ini			1	20	1																		
+jiuguan_denglong	3279	Lồng Đèn Đỏ	5	0			669	995	300																							NoTurn												
+WanJu_JiuTan	3286	Hũ Rượu	2	1	ToyWineNpc	3,Đang uống rượu...	3218	995	994																							NoTurn												
+JiangniangJiutan_1	3287	Tửu Đàn	2		MaterialCollectBoxNpc		3218	995	300																							NoTurn												
+JiangniangJiutan_2	3288	Tửu Đàn	2		MaterialCollectBoxNpc		3220	995	300																							NoTurn												
+JiangniangJiutan_3	3289	Tửu Đàn	2		MaterialCollectBoxNpc		3221	995	300																							NoTurn												
+LT_diaoxiang_tw_wanju	3290	Tượng Thành Chủ Thiên Vương (Đồ Chơi)	2	0	MainCityMaster	1	30001	200	994			91							1500	1500	Setting/Npc/Ai/Stay.ini				20	3		6000	195	1		NoTurn												
+LT_diaoxiang_twfe_wanju	3291	Tượng Thành Chủ Thiên Vương Nữ (Đồ Chơi)	2	0	MainCityMaster	1	30002	200	994			91							1500	1500	Setting/Npc/Ai/Stay.ini				20	3		6000	195	1		NoTurn												
+LT_diaoxiang_em_wanju	3292	Tượng Thành Chủ Nga Mi (Đồ Chơi)	2	0	MainCityMaster	2	30003	200	994			91							1500	1500	Setting/Npc/Ai/Stay.ini				20	3		6000	195	1		NoTurn												
+LT_diaoxiang_th_wanju	3293	Tượng Thành Chủ Đào Hoa (Đồ Chơi)	2	0	MainCityMaster	3	30004	200	994			91							1500	1500	Setting/Npc/Ai/Stay.ini				20	3		6000	195	1		NoTurn												
+LT_diaoxiang_xy_wanju	3294	Tượng Thành Chủ Tiêu Dao (Đồ Chơi)	2	0	MainCityMaster	4	30005	200	994			91							1500	1500	Setting/Npc/Ai/Stay.ini				20	3		6000	195	1		NoTurn												
+LT_diaoxiang_wd_wanju	3295	Tượng Thành Chủ Võ Đang (Đồ Chơi)	2	0	MainCityMaster	5	30006	200	994			91							1500	1500	Setting/Npc/Ai/Stay.ini				20	3		6000	195	1		NoTurn												
+LT_diaoxiang_wdfe_wanju	3296	Tượng Thành Chủ Võ Đang Nữ (Đồ Chơi)	2	0	MainCityMaster	5	30007	200	994			91							1500	1500	Setting/Npc/Ai/Stay.ini				20	3		6000	195	1		NoTurn												
+LT_diaoxiang_tr_wanju	3297	Tượng Thành Chủ Thiên Nhẫn (Đồ Chơi)	2	0	MainCityMaster	6	30008	200	994			91							1500	1500	Setting/Npc/Ai/Stay.ini				20	3		6000	195	1		NoTurn												
+LT_diaoxiang_sl_wanju	3298	Tượng Thành Chủ Thiếu Lâm (Đồ Chơi)	2	0	MainCityMaster	7	30009	200	994			91							1500	1500	Setting/Npc/Ai/Stay.ini				20	3		6000	195	1		NoTurn												
+LT_diaoxiang_cy_wanju	3299	Tượng Thành Chủ Thúy Yên (Đồ Chơi)	2	0	MainCityMaster	8	30010	200	994			91							1500	1500	Setting/Npc/Ai/Stay.ini				20	3		6000	195	1		NoTurn												
+LT_diaoxiang_tm_wanju	3300	Tượng Thành Chủ Đường Môn (Đồ Chơi)	2	0	MainCityMaster	9	30011	200	994			91							1500	1500	Setting/Npc/Ai/Stay.ini				20	3		6000	195	1		NoTurn												
+LT_diaoxiang_kl_wanju	3301	Tượng Thành Chủ Côn Lôn (Đồ Chơi)	2	0	MainCityMaster	10	30012	200	994			91							1500	1500	Setting/Npc/Ai/Stay.ini				20	3		6000	195	1		NoTurn												
+LT_diaoxiang_klma_wanju	3302	Tượng Thành Chủ Côn Lôn Nam (Đồ Chơi)	2	0	MainCityMaster	10	30013	200	994			91							1500	1500	Setting/Npc/Ai/Stay.ini				20	3		6000	195	1		NoTurn												
+LT_diaoxiang_gb_wanju	3303	Tượng Thành Chủ Cái Bang (Đồ Chơi)	2	0	MainCityMaster	11	30014	200	994			91							1500	1500	Setting/Npc/Ai/Stay.ini				20	3		6000	195	1		NoTurn												
+LT_diaoxiang_wudu_wanju	3305	Tượng Thành Chủ Ngũ Độc (Đồ Chơi)	2	0	MainCityMaster	12	30015	200	994			91							1500	1500	Setting/Npc/Ai/Stay.ini				20	3		6000	195	1		NoTurn												
+LT_diaoxiang_cj_wanju	3304	Tượng Thành Chủ Tàng Kiếm (Đồ Chơi)	2	0	MainCityMaster	13	30016	200	994			91							1500	1500	Setting/Npc/Ai/Stay.ini				20	3		6000	195	1		NoTurn												
+LT_diaoxiang_cg_wanju	3306	Tượng Thành Chủ Trường Ca (Đồ Chơi)	2	0	MainCityMaster	14	30017	200	994			91							1500	1500	Setting/Npc/Ai/Stay.ini				20	3		6000	195	1		NoTurn												
+LT_diaoxiang_tsma_wanju	3307	Tượng Thành Chủ Thiên Sơn Nam (Đồ Chơi)	2	0	MainCityMaster	15	30018	200	994			91							1500	1500	Setting/Npc/Ai/Stay.ini				20	3		6000	195	1		NoTurn												
+LT_diaoxiang_tsfe_wanju	3308	Tượng Thành Chủ Thiên Sơn Nữ (Đồ Chơi)	2	0	MainCityMaster	15	30019	200	994			91							1500	1500	Setting/Npc/Ai/Stay.ini				20	3		6000	195	1		NoTurn												
+LT_diaoxiang_bdma_wanju	3309	Tượng Thành Chủ Bá Đao Nam (Đồ Chơi)	2	0	MainCityMaster	16	30020	200	994			91							1500	1500	Setting/Npc/Ai/Stay.ini				20	3		6000	195	1		NoTurn												
+LT_diaoxiang_bdfe_wanju	3310	 Tượng Thành Chủ Bá Đao Nữ (Đồ Chơi)	2	0	MainCityMaster	16	30021	200	994			91							1500	1500	Setting/Npc/Ai/Stay.ini				20	3		6000	195	1		NoTurn												
+LT_diaoxiang_hsma_wanju	3311	Tượng Thành Chủ Hoa Sơn Nam (Đồ Chơi)	2	0	MainCityMaster	17	30022	200	994			91							1500	1500	Setting/Npc/Ai/Stay.ini				20	3		6000	195	1		NoTurn												
+LT_diaoxiang_hsfe_wanju	3312	Tượng Thành Chủ Hoa Sơn Nữ (Đồ Chơi)	2	0	MainCityMaster	17	30023	200	994			91							1500	1500	Setting/Npc/Ai/Stay.ini				20	3		6000	195	1		NoTurn												
+LT_diaoxiang_mjma_wanju	3313	Tượng Thành Chủ Minh Giáo Nam Đồ Chơi)	2	0	MainCityMaster	18	30024	200	994			91							1500	1500	Setting/Npc/Ai/Stay.ini				20	3		6000	195	1		NoTurn												
+LT_diaoxiang_mjfe_wanju	3314	Tượng Thành Chủ Minh Giáo Nữ (Đồ Chơi)	2	0	MainCityMaster	18	30025	200	994			91							1500	1500	Setting/Npc/Ai/Stay.ini				20	3		6000	195	1		NoTurn												
+Jiuguan_jingjichang	3315	Nam Cung Phi	2	0			5027	207	307	Giang Hồ Thịnh Điển sắp đến rồi! Mọi người có tác phẩm gì có thể đến giao cho ta!		1	21	1							Setting/Npc/Ai/CommonActive.ini			0	15	1	1	374				NoTurn												
+BrocadeAwardBox_1	3425	Hộp Năm Mới Thường	2	0	BrocadeBoxNpc		974					1							560	980				1	15							NoTurn												
+BrocadeAwardBox_2	3426	Hộp Năm Mới Tinh Tế	2	0	BrocadeBoxNpc		975					1							560	980				1	15							NoTurn												
+BrocadeAwardBox_3	3427	Hộp Năm Mới Hoa Lệ	2	0	BrocadeBoxNpc		976					1							560	980				1	15							NoTurn												
+Caishen	3442	Thần Tài	2	0			715	200	994			100							560	980	Setting/Npc/Ai/Stay.ini				17	3	1																	
+FoolsDayPig	3461	1/4 biến thân heo	0	0	CatPetNpc		20304	10004	994			10000							1000	1000	Setting/Npc/Ai/normal/Pet.ini				20	3								10	1							1	1	
+Music_diaoxiang	3686	Thi Âm Các Điêu Tượng	2	0	GoodVoiceStatue		565		993			1									Setting/Npc/Ai/KeepMoving.ini			0	10	3						NoTurn		10	5									
+KinFoKu_1	3733	Thiên Long Kỳ	0	1	KinFoKuBattle		737	200	994			1120			91	1	105	1	1500	1500	Setting/Npc/Ai/Stay.ini			1	20	2	1					NoTurn										1	1	
+KinFoKu_2	3734	Thiên Long Châu	2	1	KinFoKuBattle		732	992	992										560	980				1	1																			
+test_linfengtang	3743	Lâm Phong Đường	0	1			1265					611	166	1	200	1			600	600	Setting/Npc/Ai/CommonPassive.ini	1	Setting/Npc/DropFile/yewai/yewai_100.tab	1	18	1							1			16								
+test_zhangchengsu	3744	Trương Thừa Tố	0	1			1266					611	166	1	200	1			600	600	Setting/Npc/Ai/CommonPassive.ini	1	Setting/Npc/DropFile/yewai/yewai_100.tab	1	18	1							1			16								
+test_damo	3745	Đạt Ma	0	1			1267					611	166	1	200	1			600	600	Setting/Npc/Ai/CommonPassive.ini	1	Setting/Npc/DropFile/yewai/yewai_100.tab	1	18	1							1			16								

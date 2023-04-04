@@ -1,0 +1,9 @@
+NpcName	NpcTemplateId	TimeFrame	NpcLevel
+Chấp Pháp Vệ	1834	OpenLevel89	85
+Chấp Pháp Vệ	1834	OpenLevel99	95
+Chấp Pháp Vệ	1834	OpenLevel109	105
+Chấp Pháp Vệ	1834	OpenLevel119	115
+Chấp Pháp Vệ	1834	OpenLevel129	125
+Chấp Pháp Vệ	1834	OpenLevel139	135
+Chấp Pháp Vệ	1834	OpenLevel149	145
+Chấp Pháp Vệ	1834	OpenLevel159	155

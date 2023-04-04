@@ -1,0 +1,32 @@
+GuideId	LoginStart	SaveFinish	ActionType	Param	PointerOffset	DescType	DescInfo	FinishCheck	CheckParam
+1	1	1	Commander	Ui("TopButton").pPanel:PlayUiAnimation("GuideBtnSkill", false, false, {});ChatMgr.PlayHelpVoice("Setting/NpcVoice/01-B.voice")				CheckAniFinish	TopButton|GuideBtnSkill
+1			LockWnd			NpcDown	Đại hiệp đã đạt [FFFE0D]Lv4[-]! Chức năng mới [FFFE0D]Kỹ năng[-] đã mở! Mau tăng cấp và xem chiêu thức đặc biệt của phái mình!	CheckClickScreen	
+2	1	1	Commander	Ui("TopButton").pPanel:PlayUiAnimation("GuideBtnLoginAward", false, false, {});ChatMgr.PlayHelpVoice("Setting/NpcVoice/02-A.voice")				CheckAniFinish	TopButton|GuideBtnLoginAward
+2			LockWnd			NpcDown	Đại hiệp đã đạt [FFFE0D]Lv5[-]! Chức năng mới [FFFE0D]Thưởng Đăng Nhập[-] đã mở! Mau nhận phần thưởng đầu tiên nào!	CheckClickScreen	
+3	1	1	Commander	Ui("TopButton").pPanel:PlayUiAnimation("GuideBtnCompanion", false, false, {});ChatMgr.PlayHelpVoice("Setting/NpcVoice/04-B.voice");				CheckAniFinish	TopButton|GuideBtnCompanion
+3			LockWnd			NpcDown	Đại hiệp đã đạt [FFFE0D]Lv9[-]! Chức năng mới [FFFE0D]Đồng Hành[-] đã mở! Hãy đến xem những người bạn đồng hành!	CheckClickScreen	
+4	1	1	Commander	Ui("TopButton").pPanel:PlayUiAnimation("GuideBtnActivity", false, false, {});ChatMgr.PlayHelpVoice("Setting/NpcVoice/03-B.voice")				CheckAniFinish	TopButton|GuideBtnActivity
+4			LockWnd			NpcDown	Đại hiệp đã đạt [FFFE0D]Lv8[-]! Chức năng mới [FFFE0D]Phúc Lợi[-] đã mở! Mau nhận phúc lợi nào!	CheckClickScreen	
+5	1	1	Commander	Ui("TopButton").pPanel:PlayUiAnimation("GuideBtnSocial", false, false, {});ChatMgr.PlayHelpVoice("Setting/NpcVoice/05-B.voice")				CheckAniFinish	TopButton|GuideBtnSocial
+5			LockWnd			NpcDown	Đại hiệp đã đạt [FFFE0D]Lv10[-]! Chức năng mới [FFFE0D]Hảo Hữu[-] đã mở! Hãy kết bạn cùng bôn ba giang hồ!	CheckClickScreen	
+9	1	1	Commander	Ui("TopButton").pPanel:PlayUiAnimation("GuideBtnShop", false, false, {});ChatMgr.PlayHelpVoice("Setting/NpcVoice/08-B.voice")				CheckAniFinish	TopButton|GuideBtnShop
+9			LockWnd			NpcDown	Đại hiệp đã đạt [FFFE0D]Lv14[-]! Chức năng mới [FFFE0D]Kỳ Trân Các[-] đã mở! Đến Kỳ Trân Các mua vật phẩm nào!	CheckClickScreen	
+6	1	1	Commander	Ui("TopButton").pPanel:PlayUiAnimation("GuideBtnFamily", false, false, {})				CheckAniFinish	TopButton|GuideBtnFamily
+7	1	1	Commander	Ui("TopButton").pPanel:PlayUiAnimation("GuideBtnAuction", false, false, {});ChatMgr.PlayHelpVoice("Setting/NpcVoice/06-A.voice")				CheckAniFinish	TopButton|GuideBtnAuction
+7			LockWnd			NpcDown	Đại hiệp đã đạt [FFFE0D]Lv11[-]! Chức năng mới [FFFE0D]Bang Hội[-] và [FFFE0D]Đấu Giá[-] đã mở! Gia nhập Bang Hội có thể tiếu ngạo giang hồ cùng đại hiệp khác, Đấu Giá sẽ đấu giá vật phẩm quý sau khi hoạt động kết thúc!	CheckClickScreen	
+8	1	1	Commander	Ui("TopButton").pPanel:PlayUiAnimation("GuideBtnCalendar", false, false, {});ChatMgr.PlayHelpVoice("Setting/NpcVoice/07-A.voice")				CheckAniFinish	TopButton|GuideBtnCalendar
+8			LockWnd			NpcDown	Đại hiệp đã đạt [FFFE0D]Lv13[-]! [FFFE0D]Hoạt động[-] đầu tiên đã mở! Có thể đến tham gia!	CheckClickScreen	
+10	1	1	Commander	Ui("TopButton").pPanel:PlayUiAnimation("GuideBtnStronger", false, false, {});ChatMgr.PlayHelpVoice("Setting/NpcVoice/09-B.voice")				CheckAniFinish	TopButton|GuideBtnStronger
+10			LockWnd			NpcDown	Đại hiệp đã đạt [FFFE0D]Lv15[-]! Chức năng mới [FFFE0D]Mạnh Hơn[-] đã mở! Hãy đi xem làm sao để khiến bản thân lợi hại hơn nào!	CheckClickScreen	
+11	1	1	Commander	Ui("TopButton").pPanel:PlayUiAnimation("GuideBtnRanking", false, false, {});ChatMgr.PlayHelpVoice("Setting/NpcVoice/11-B.voice")				CheckAniFinish	TopButton|GuideBtnRanking
+11			LockWnd			NpcDown	Đại hiệp đã đạt [FFFE0D]Lv19[-]! Chức năng mới [FFFE0D]Xếp Hạng[-] đã mở! Mau đi xem thử hạng của đại hiệp võ lâm nào!	CheckClickScreen	
+12	1	1	Commander	Ui("TopButton").pPanel:PlayUiAnimation("GuideBtnHonorLevel", false, false, {});ChatMgr.PlayHelpVoice("Setting/NpcVoice/10-B.voice")				CheckAniFinish	TopButton|GuideBtnHonorLevel
+12			LockWnd			NpcDown	Đại hiệp đã đạt [FFFE0D]Lv18[-]! Chức năng mới [FFFE0D]Quân Hàm[-] đã mở! Mau nhận Quân Hàm đầu tiên!	CheckClickScreen	
+13	1	1	Commander	Ui("TopButton").pPanel:PlayUiAnimation("GuideBtnMarketStall", false, false, {});ChatMgr.PlayHelpVoice("Setting/NpcVoice/12-A.voice")				CheckAniFinish	TopButton|GuideBtnMarketStall
+13			LockWnd			NpcDown	Đại hiệp đã đạt [FFFE0D]Lv20[-]! Chức năng mới [FFFE0D]Bày Bán[-] đã mở! Có thể bán hoặc mua vật phẩm!	CheckClickScreen	
+46		1	LockWnd			NpcDown	[FFFE0D]「Hệ Thống Môn Khách」[-] đã mở! Nhấp đồng hành [FFFE0D]đã chiêu mộ[-], trong trang [FFFE0D]chi tiết đồng hành[-] đã mở, có thể nhấp nút [FFFE0D]mời Môn Khách[-] để nhận đồng hành làm Môn Khách!	CheckClickScreen	
+47		1	LockWnd			NpcDown	Chúc mừng đã nhận một Môn Khách mới, nhấp vào Môn Khách có thể xem [FFFE0D]chi tiết Môn Khách[-], đồng thời có thể tiến hành thao tác [FFFE0D]xuất trận[-] và [FFFE0D]vào gia viên[-], mau đi xem thử!	CheckClickScreen	
+48		1	LockWnd			NpcDown	Đại hiệp đã nhận 1 ngoại trang đẹp, trong [FFFE0D]Hành Trang[-] nhấp dùng có thể trang bị!	CheckClickScreen	
+49		1	LockWnd			NpcDown	Đại hiệp đã trang bị ngoại trang, nhấp nút [FFFE0D]Ngoại Trang[-] có thể xem, mau thử đi!	CheckClickScreen	
+50		1	LockWnd			NpcDown	Tại đây có thể xem ngoại trang đã trang bị!	CheckClickScreen	
+51		1	LockWnd			NpcDown	Đại hiệp đã nhận 1 Thiên Công Bí Bảo, mau nhấp nút [FFFE0D]Thiên Công Hạp[-] phía trên khung trò chuyện để xem và dùng bí bảo!	CheckClickScreen	

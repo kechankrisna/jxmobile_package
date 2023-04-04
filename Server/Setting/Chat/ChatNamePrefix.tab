@@ -1,0 +1,76 @@
+NamePrefixId	Name	Emotion	Sort	Desc
+1	PowerFirst		9	Đệ Nhất Lực Chiến
+2	PowerTop10	#972	8	Top 10 Lực Chiến
+3	FactionMonkey		7	Đại Sư Huynh/Tỉ Môn Phái
+4	HonorableGuest	#948	6	Thịnh Điển Thượng Tân
+5	BeautyLocalFirst	#943	4	Đệ Nhất Mỹ Nhân Server
+6	BeautyFinalTop10	#942	3	Võ Lâm Đại Mỹ Nhân TOP 20
+7	BeautyFinalFirst	#941	2	Võ Lâm Đệ Nhất Mỹ Nhân
+8	BeautyParticipate	#937	5	Quốc Sắc Thiên Hương
+9	WuLinDaHuiFirst	#936	1	Võ Lâm Chí Tôn
+10	StarPlayer	#932	10	Người Chơi Ngôi Sao
+11	GoodVoice_1	#926	13	Thanh Danh
+12	GoodVoice_2	#922	12	Thanh Thoát
+13	GoodVoice_3	#928	11	Truyền Cảm
+14	GoodVoice_4	#867	14	Fan Siêu Cấp
+15	GoodVoice_5	#866	15	Tri Âm
+16	GoodVoice_6	#868	16	Tiền tố trò chuyện: Kim Thanh Ngọc Sắc
+17	GoodVoice_7	#869	17	Tiền tố trò chuyện: Thiên Lại Trợ Công
+18	GoodVoice_8	#870	18	Tiền tố trò chuyện: Điệu Du Dương
+19	GoodVoice_9	#871	19	Tiền tố trò chuyện: Châu Ngọc Chi Thanh
+20	GoodVoice_10	#872	20	Tiền tố trò chuyện: Phượng Hoàng Chi Minh
+21	GoodVoice_11	#873	21	Tiền tố trò chuyện: Tiên Lại Chi Âm
+22	GoodVoice_60	#923	22	Tiền tố trò chuyện: Thanh Động Tứ Hải
+23	GoodVoice_61	#924	23	Tiền tố trò chuyện: Tiếng Thanh Xuân
+24	GoodVoice_62	#925	24	Tiền tố trò chuyện: Giọng Truyền Cảm
+25	GoodVoice_12	#874	25	Tiền tố trò chuyện: Bá Đao Hảo Thanh
+26	GoodVoice_13	#875	25	Tiền tố trò chuyện: Thiên Sơn Hảo Thanh
+27	GoodVoice_14	#876	25	Tiền tố trò chuyện: Trường Ca Hảo Thanh
+28	GoodVoice_15	#877	25	Tiền tố trò chuyện: Tàng Kiếm Hảo Thanh
+29	GoodVoice_16	#878	25	Tiền tố trò chuyện: Ngũ Độc Hảo Thanh
+30	GoodVoice_17	#879	25	Tiền tố trò chuyện: Cái Bang Hảo Thanh
+31	GoodVoice_18	#880	25	Tiền tố trò chuyện: Côn Lôn Hảo Thanh
+32	GoodVoice_19	#881	25	Tiền tố trò chuyện: Đường Môn Hảo Thanh
+33	GoodVoice_20	#882	25	Tiền tố trò chuyện: Thúy Yên Hảo Thanh
+34	GoodVoice_21	#883	25	Tiền tố trò chuyện: Thiếu Lâm Hảo Thanh
+35	GoodVoice_22	#884	25	Tiền tố trò chuyện: Thiên Nhẫn Hảo Thanh
+36	GoodVoice_23	#885	25	Tiền tố trò chuyện: Võ Đang Hảo Thanh
+37	GoodVoice_24	#886	25	Tiền tố trò chuyện: Đào Hoa Hảo Thanh
+38	GoodVoice_25	#887	25	Tiền tố trò chuyện: Tiêu Dao Hảo Thanh
+39	GoodVoice_26	#888	25	Tiền tố trò chuyện: Nga Mi Hảo Thanh
+40	GoodVoice_27	#889	25	Tiền tố trò chuyện: Thiên Vương Hảo Thanh
+41	GoodVoice_28	#890	26	Tiền tố trò chuyện: Bá Đao Cường Thanh
+42	GoodVoice_29	#891	26	Tiền tố trò chuyện: Thiên Sơn Cường Thanh
+43	GoodVoice_30	#892	26	Tiền tố trò chuyện: Trường Ca Cường Thanh
+44	GoodVoice_31	#893	26	Tiền tố trò chuyện: Tàng Kiếm Cường Thanh
+45	GoodVoice_32	#894	26	Tiền tố trò chuyện: Ngũ Độc Cường Thanh
+46	GoodVoice_33	#895	26	Tiền tố trò chuyện: Cái Bang Cường Thanh
+47	GoodVoice_34	#896	26	Tiền tố trò chuyện: Côn Lôn Cường Thanh
+48	GoodVoice_35	#897	26	Tiền tố trò chuyện: Đường Môn Cường Thanh
+49	GoodVoice_36	#898	26	Tiền tố trò chuyện: Thúy Yên Cường Thanh
+50	GoodVoice_37	#899	26	Tiền tố trò chuyện: Thiếu Lâm Cường Thanh
+51	GoodVoice_38	#900	26	Tiền tố trò chuyện: Thiên Nhẫn Cường Thanh
+52	GoodVoice_39	#901	26	Tiền tố trò chuyện: Võ Đang Cường Thanh
+53	GoodVoice_40	#902	26	Tiền tố trò chuyện: Đào Hoa Cường Thanh
+54	GoodVoice_41	#903	26	Tiền tố trò chuyện: Tiêu Dao Cường Thanh
+55	GoodVoice_42	#904	26	Tiền tố trò chuyện: Nga Mi Cường Thanh
+56	GoodVoice_43	#905	26	Tiền tố trò chuyện: Thiên Vương Cường Thanh
+57	GoodVoice_44	#906	27	Tiền tố trò chuyện: Hương Cảng Hảo Thanh
+58	GoodVoice_45	#907	27	Tiền tố trò chuyện: Đông Bắc Hảo Thanh
+59	GoodVoice_46	#908	27	Tiền tố trò chuyện: Tây Nam Hảo Thanh
+60	GoodVoice_47	#909	27	Tiền tố trò chuyện: Tây Bắc Hảo Thanh
+61	GoodVoice_48	#910	27	Tiền tố trò chuyện: Hoa Bắc Hảo Thanh
+62	GoodVoice_49	#911	27	Tiền tố trò chuyện: Hoa Trung Hảo Thanh
+63	GoodVoice_50	#912	27	Tiền tố trò chuyện: Hoa Nam Hảo Thanh
+64	GoodVoice_51	#913	27	Tiền tố trò chuyện: Hoa Đông Hảo Thanh
+65	GoodVoice_52	#914	28	Tiền tố trò chuyện: Hương Cảng Cường Thanh
+66	GoodVoice_53	#915	28	Tiền tố trò chuyện: Đông Bắc Cường Thanh
+67	GoodVoice_54	#916	28	Tiền tố trò chuyện: Tây Nam Cường Thanh
+68	GoodVoice_55	#917	28	Tiền tố trò chuyện: Tây Bắc Cường Thanh
+69	GoodVoice_56	#918	28	Tiền tố trò chuyện: Hoa Bắc Cường Thanh
+70	GoodVoice_57	#919	28	Tiền tố trò chuyện: Hoa Trung Cường Thanh
+71	GoodVoice_58	#920	28	Tiền tố trò chuyện: Hoa Nam Cường Thanh
+72	GoodVoice_59	#921	28	Tiền tố trò chuyện: Hoa Đông Cường Thanh
+73	GoodVoice_63	#865	11	Tiền tố trò chuyện: Lời Hứa Ngàn Vàng
+74	BeautyFinalSecond	#864	2	Võ Lâm Đệ Nhị Mỹ Nhân
+75	BeautyFinalThird	#863	2	Võ Lâm Đệ Tam Mỹ Nhân

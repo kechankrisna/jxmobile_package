@@ -1,0 +1,14 @@
+nSectionIdx	nNormalNeedLevel	nEliteNeedLevel	szTitle	szNormalAward_1	szNormalAward_2	szNormalAward_3	szEliteAward_1	szEliteAward_2	szEliteAward_3
+1	1	1	Chương 1 Tìm thuốc	Coin|10000	Jade|1000	Gold|100	Coin|10000	PStone0|20	Gold|100
+2	1	1	Chương 2 Điều tra	Coin|15000	Jade|1500	Gold|150	Coin|15000	PStone0|30	Gold|150
+3	1	1	Chương 3 Tự Vấn	Coin|20000	Jade|2000	Gold|200	Coin|20000	PStone0|40	Gold|200
+4	1	1	Chưỡng-Chân Tướng	Coin|25000	Jade|2500	Gold|250	Coin|25000	PStone1|25	Gold|250
+5	1	1	Chương 5-Ha ha	Coin|30000	Jade|3000	Gold|300	Coin|30000	PStone1|30	Gold|300
+6	1	1	Chương 6-Ha ha	Coin|35000	Jade|3500	Gold|350	Coin|35000	PStone1|35	Gold|350
+7	1	1	Chương 7 Cứu Nước	Coin|10000	Coin|10000	Coin|10000	Coin|10000	Coin|10000	Coin|10000
+8	1	1	Chương 8 Quấn Quýt	Coin|10000	Coin|10000	Coin|10000	Coin|10000	Coin|10000	Coin|10000
+9	1	1	Chương 9: Thanh Phản	Coin|10000	Coin|10000	Coin|10000	Coin|10000	Coin|10000	Coin|10000
+500	1	1	Võ Lâm Đại Sự: Mùa Thu Lâm An	Coin|10000	Coin|10000	Coin|10000	Coin|10000	Coin|10000	Coin|10000
+600	1	1	Thủ Tương Dương	Coin|10000	Coin|10000	Coin|10000	Coin|10000	Coin|10000	Coin|10000
+900	1	1	Luyện Công Ngoài Thành	Coin|10000	Coin|10000	Coin|10000	Coin|10000	Coin|10000	Coin|10000
+1000	1	1	Chương Phụ Tuyến	Coin|10000	Coin|10000	Coin|10000	Coin|10000	Coin|10000	Coin|10000

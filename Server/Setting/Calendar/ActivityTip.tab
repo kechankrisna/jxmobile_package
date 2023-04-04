@@ -1,0 +1,51 @@
+Key	HelpKey	Type	Time	Desc
+ActivityQuestion	ActivityQuestionHelp	Cá nhân	Cả ngày	Mỗi ngày trả lời nhận nhiều phần thưởng, đơn giản, dễ dàng, đừng bỏ lỡ!
+Battle	BattleHelp	Cá nhân	[FFFE0D]16:30-17:00; 20:30-21:00; 22:30-23:00[-] mỗi ngày	Hoạt động chiến nhóm nhiều người! Trong hoạt động có thể đại diện cho phe Tống hoặc Kim để mang lại vinh quang cho phe đã chọn.
+Boss	BossHelp	Cá nhân	[FFFE0D]12:30-13:00[-], [FFFE0D]19:30-20:00[-] mỗi ngày	Tỷ thí với Minh Chủ Võ Lâm nhận điểm, căn cứ hạng để phát thưởng, còn có thể đoạt điểm của đại hiệp khác!
+CangBaoTu		Cá nhân	Cả ngày	Mỗi Tàng Bảo Đồ đều ghi lại thông tin kho báu thần bí.
+ChuanGong		Cá nhân	Cả ngày	Sau khi truyền công, hai bên sẽ nhận nhiều EXP và chênh lệch từ [FFFE0D]3 cấp[-] trở lên. Cũng có thể tìm [FFFE0D]Tổng Quản Bang Hội[-] tiêu hao số lần ngồi thiền, tu luyện hoàn thành sẽ nhận EXP.
+CommerceTask		Cá nhân	Cả ngày	Hoàn thành nhiệm vụ Thương Hội có thể nhận nhiều phần thưởng.
+ExplorationFuben		Cá nhân	Cả ngày	Phần thưởng kho báu đang chờ các đại hiệp!
+FieldBoss	FieldBossHelp	Cá nhân	Vào [FFFE0D]15:30[-], [FFFE0D]22:00[-]  mỗi ngày tạo mới tại Cấm Địa Danh Tướng	Đến Cấm Địa Danh Tướng diệt Danh Tướng, nhận thưởng. Mỗi ngày tấn công Danh Tướng lần đầu sẽ nhận thêm 1 phần thưởng
+FieldCrossBoss	FieldBossHelp	Cá nhân	[FFFE0D]22:00[-] thứ 2 mỗi tuần tạo mới Cấm Địa Danh Tướng	Đến Cấm Địa Danh Tướng diệt Danh Tướng, nhận thưởng. Mỗi ngày tấn công Danh Tướng lần đầu sẽ nhận thêm 1 phần thưởng
+FieldLeader		Đơn/Đội	Khu vực dã ngoại [FFFE0D]trên Lv20[-] mỗi ngày [FFFE0D]10:00[-], [FFFE0D]14:00[-], [FFFE0D]18:00[-], [FFFE0D]23:00[-] tạo mới	Khu vực dã ngoại Lv20 sẽ tạo mới nhiều Thủ Lĩnh Dã Ngoại, tiêu diệt sẽ nhận thưởng phong phú! Mỗi ngày lần đầu tiêu diệt sẽ nhận thêm thưởng!
+KinGather		Cá nhân	[FFFE0D]19:15-19:25[-] mỗi ngày	Vấn Đáp, Lửa Trại là thời gian Bang Hội đoàn tụ, vừa vui vẻ vừa nhận nhiều phần thưởng.
+Pray		Cá nhân	Thứ 2 đến thứ 5 [FFFE0D]11:00-12:00[-] 	Tăng năng lực đặc biệt từ chúc phúc, hỗ trợ tốt cho các hoạt động!
+PunishTask		Đội	Cả ngày	Khu vực dã ngoại trên [FFFE0D]Lv20[-] xuất hiện Võ Lâm Ác Đồ, chuyên phá nhà cướp của, tổ đội [FFFE0D]3 người trở lên[-] diệt chúng sẽ được thưởng phong phú!
+QunYingHui		Đơn/Đội	T5[FFFE0D]21:00~21:27[-]	Tính năng đấu ghép 2 người thời gian thực Liên SV, tất cả đại hiệp [FFFE0D]không mang theo đồng hành, có cùng thực lực[-]. Lược bỏ sự chênh lệch về trang bị và cấp, cảm nhận niềm vui thi đấu!
+RandomFuben	RandomFubenHelp	Đội	Cả ngày	Tương truyền Lăng Tuyệt Phong có kho báu lớn nhất, còn có cả Võ Lâm Cao Thủ tuyệt đỉnh. Đại hiệp có vượt qua được thử thách phía trước?
+Rank	RankHelp	Cá nhân	Cả ngày	Cùng lúc được mang 4 Đồng Hành chiến đấu, khiêu chiến các đại hiệp trên BXH để tăng hạng, hạng càng cao, thưởng càng lớn!
+TeamFuben	TeamFubenHelp	Đội	Cả ngày	Cùng người có chí hướng tổ đội khiêu chiến kẻ địch mạnh có cơ hội nhận nhiều phần thưởng!
+AdventureFuben		Đội	Cả ngày	Thảo phạt Sơn Tặc, duy trì trật tự võ lâm, có cơ hội nhận thưởng phong phú!
+HeroChallenge		Cá nhân	Cả ngày	Khiêu chiến 10 anh hùng. Thắng sẽ nhận nhiều phần thưởng. Mỗi anh hùng khiêu chiến 2 lần, sau 2 lần thất bại không được khiêu chiến tiếp.
+KinBattle		Đội	Thứ 4, thứ 6 [FFFE0D]20:50-21:30[-] 	Hoạt động bang hội và đối chiến bang hội
+FactionBattle	FactionBattleHelp	Cá nhân	[FFFE0D]21:00 thứ 4, chủ nhật[-] mở	Thi đấu nội bộ trong phái. Chia thành vòng phân cấp (Chiến nhóm) và loại trực tiếp (Đơn đấu). Quán quân cuộc thi sẽ trở thành [FFFE0D]Tân Vương[-] của phái!
+WhiteTigerFuben	WhiteTigerFubenHelp	Đơn/Đội	11:00, 13:00, 15:00\n17:00, 20:00, 24:00	Hoạt động đối kháng nhóm thời gian thực, chỉ có một lần cơ hội sinh tồn! Bạch Hổ Đường tổng cộng 4 tầng, tiêu diệt thủ lĩnh mỗi tầng sẽ có thể vào tầng sau
+KinEscort		Đơn/Đội	T3, T5, T7\n[FFFE0D]20:00-22:00[-]	Thành viên Bang Hội cùng hộ tống Tiêu Xa. Hộ tống đến điểm cuối được nhận thưởng. Tiêu Xa màu càng tốt, thưởng càng cao. Khi hộ tống hãy cẩn thận với kẻ đối đầu Bang Hội đến cướp tiêu!
+TeamBattle	TeamBattleHelp	Đội	Thứ 2, 4, 7\n[FFFE0D]21:00[-] , [FFFE0D]23:00[-]  mở	Hoạt động đối kháng đội ba người
+XiuLian		Đơn/Đội	Cả ngày	Tổ đội đến [FFFE0D]khu vực dã ngoại[-] diệt quái sẽ nhận thưởng EXP. Mở tu luyện sẽ nhận EXP đánh quái [FFFE0D]x10[-]!
+KinFuben		Cá nhân	[FFFE0D]21:00 thứ 3, thứ 6[-] mở	Hoạt động khiêu chiến bang hội tập kết. Thành viên cùng nhau đến bản đồ thí luyện để chiến đấu!
+SeriesFuben		Cá nhân	Cả ngày	Khiêu chiến cao thủ trong giang hồ. Thắng sẽ nhận EXP và Đá Hồn khảm tương ứng!
+FactionMonkey		Cá nhân	00:00~24:00	Bầu chọn Đại Sư Huynh/Đại Sư Tỷ Môn Phái hàng tháng, hãy bỏ phiếu cho người mình chọn nào! Quân Hàm khác nhau sẽ có số phiếu khác nhau
+DomainBattle	DomainHelp	Đơn/Đội	[FFFE0D]21:00-21:45 thứ 3, thứ 7[-] 	Hoạt động đối kháng bang hội tập kết, thành viên cùng nhau tranh đoạt lãnh địa, trở thành Tương Dương Thành Chủ.
+CardCollection_1	CardCollection_1Help	Đội	Cả ngày	Tham gia hoạt động Lăng Tuyệt Phong, nhận thẻ khi vượt các ải khiêu chiến. Thu thập để nhận thưởng thứ hạng.
+HuaShanLunJian	HuaShanLunJianHelp	Đơn/Đội	Ngày 7-27 mỗi tháng vào T2, T4, T6, CN\n[FFFE0D]21:00[-] mở	Lập đội tham gia Vòng Sơ Loại Hoa Sơn Luận Kiếm, xếp hạng theo điểm, Top 8 vào chung kết. Đấu chung kết chọn ra võ lâm chí tôn!
+HuaShanLunJian1	HuaShanLunJianHelp	Đơn/Đội	Ngày 28 mỗi tháng\n[FFFE0D]21:00[-] mở	Hoa Sơn Luận Kiếm sắp mở, ai sẽ là bá chủ võ lâm? Xin hãy chú ý theo dõi!
+ImperialTomb	ImperialTombHelp	Đội	10:00~24:00	Đội đến Tần Lăng diệt Sĩ Binh Tần Triều hồi sinh, có cơ hội nhận được Đoạt Bảo Mật Thất! Tần Lăng nhiều sương độc, không thể ở lâu!
+ImperialTombEmperor	ImperialTombEmperorHelp	Đội	[FFFE0D]T5, CN22:00[-] mở	Tần Thủy Hoàng tái xuất, cùng Bang Hội đến diệt hắn và đoạt kho báu ngàn năm!
+WeekendQuestion		Đội		Tổ đội với nhân vật khác giới, dựa theo manh mối để tìm Võ lâm hiệp khách chỉ định và trả lời câu hỏi!
+IdiomsAct		Đội	T7, CN	Tổ đội cùng nhân vật khác giới tính, diệt quái nhỏ, chơi Ghép Câu Nối Chữ!
+DefendAct		Đội		Tổ đội cùng nhân vật khác giới tính, bảo vệ Trương Như Mộng, đánh lui Tử Sĩ!
+InDifferBattle	InDifferBattleHelp	Đơn/Đội	T3, T5, T7	Đội 3 người thi đấu Liên SV, tất cả đại hiệp [FFFE0D]Lv80, không đem theo Đồng Hành, ban đầu có lực chiến ngang nhau[-]. Bỏ qua ràng buộc về trang bị, đẳng cấp, cảm nhận cảm giác thi đấu chân thực.
+InDifferBattleJuedi	InDifferBattleJueDiHelp	Đơn/Đội	T3, T5, T7	Một dạng khác của Tâm Ma Ảo Cảnh, thi đấu không cách biệt Liên SV nhóm 3 người, lược bỏ sự chênh lệch về trang bị và cấp, cảm nhận niềm vui thi đấu!
+DaXueZhang	DaXueZhang	Cá nhân	Mỗi ngày [FFFE0D]13:30, 16:00, 20:00[-]	Cá nhân báo danh, vào vách núi tuyết lợi dụng quả cầu tuyết chiến đấu với người chơi khác!
+Muse	MuseHelp	Cá nhân	Cả ngày	Tịnh tâm được nhiều Nguyên Khí dùng ngưng tụ Chân Nguyên.
+ImperialTombFemaleEmperor	ImperialTombFemaleHelp	Đội	[FFFE0D]T5, CN22:00[-] mở	Võ Tắc Thiên đã hồi sinh, hãy cùng thành viên bang hội đến tiêu diệt
+ZhenFaTask		Đội	Cả ngày	Tổ đội với [FFFE0D]hiệp lữ, tình duyên, sư đồ, kết bái, hảo hữu[-], cùng khiêu chiến Trận Pháp Thí Luyện, nhận nhiều phần thưởng! Hỗ trợ thí luyện cũng sẽ nhận [FFFE0D]phần thưởng trợ giúp[-] (Mỗi ngày 20 lần)!
+CrossDomainBattle	CrossDomainHelp	Đơn/Đội	[FFFE0D]21:00-21:40 CN mỗi 2 tuần[-]	Hoạt động Bang Hội Liên SV, thành viên cùng đoạt Vương Tọa trở thành  Lâm An Thành Chủ.
+KinSecretFuben	KinSecretFubenHelp	Đơn/Đội	[FFFE0D]21:00 thứ 6[-] mở	Hoạt động Chiến Bang nhóm. Thành viên cùng đến Bí Cảnh Bang Hội khiêu chiến Minh Chủ Võ Lâm!
+KeyQuestFuben	KeyQuestFubenHelp	Đội	[FFFE0D]19:50 thứ 2, 4[-] mở	Hoạt động tầm bảo dạng nhóm nhỏ, tìm Bùa Truyền Tống vào sâu bên trong di tích, nhận kho báu ẩn giấu trong di tích!
+KinEncounterAct	KinEncounterHelp	Đơn/Đội	Trong thời gian hoạt động [FFFE0D]20:59 T2,T4,T6,CN[-] mở	Liên server cùng đấu với bang hội có sức mạnh ngang nhau, chiến đấu vì vinh dự cho bang hội!
+PartnerCardTask		Cá nhân	Cả ngày	Mỗi ngày được chọn 1 Môn Khách, hoàn thành 5 nhiệm vụ Môn Khách, nhận độ thân mật với Môn Khách đó!
+LoverTask	LoverTaskHelp	Đội	Cả ngày	Cùng người khác giới đến [FFFE0D]Yên Nhược Tuyết[-] nhận nhiệm vụ Tình Duyên, mỗi tuần được hoàn thành [FFFE0D]2 lần[-], nhưng chỉ được nhận [FFFE0D]1 lần thưởng[-]!
+KinDefendFuben	KinDefendHelp	Đơn/Đội	[FFFE0D]21:00 thứ 6[-] mở	Hoạt động khiêu chiến bang hội tập kết. Thành viên cùng nhau chống đỡ tấn công của Hoàn Nhan Tông Hàn!

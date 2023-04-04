@@ -1,0 +1,81 @@
+szTimeFrame	nNpcTID	Name	Map	szTips1	szTips2	szTips3	Desc
+OpenLevel39	1966	Nạp Lan Tiềm Lẫm	Tỏa Vân Uyên	Vô Ưu Giáo Chủ, ở Bản Đồ Lv10-Nam	Nạp Lan Tiềm Lẫm, ở Tỏa Vân Uyên-Nam		Mẫu Đơn Ngưng Huyết, Vô Ưu Giáo Chủ
+OpenLevel39	1967	Nạp Lan Chân	Tỏa Vân Uyên	Vong Ưu Đảo Minh Châu, ở Bản Đồ Lv10-Bắc	Nạp Lan Chân, ở Tỏa Vân Uyên-Bắc		Mẫu Đơn Ngưng Huyết, Ngân Ti Thần Thảo
+OpenLevel39	1968	Độc Cô Kiếm	Tỏa Vân Uyên	Minh Chủ Võ Lâm, ở Bản Đồ Lv10-Tây Bắc	Độc Cô Kiếm, ở Tỏa Vân Uyên-Tây Bắc		Mẫu Đơn Ngưng Huyết, Hiệp Chi Đại Giả
+OpenLevel39	1969	Trương Lâm Tâm	Võ Di Sơn	Vợ Độc Cô Kiếm, ở Bản Đồ Lv10-Đông Bắc	Trương Lâm Tâm, ở Võ Di Sơn-Đông Bắc		Giang Nam Danh Sơn, Em Gái Như Mộng
+OpenLevel39	1970	Nam Cung Phi	Võ Di Sơn	Kiếm Trung Chi Kiếm, ở Bản Đồ Lv10-Tây	Nam Cung Phi, ở Võ Di Sơn-Tây		Giang Nam Danh Sơn, Hán Kim Hỗn Huyết
+OpenLevel39	1971	Yên Nhược Tuyết	Võ Di Sơn	Vợ Nam Cung Phi, ở Bản Đồ Lv10-Nam	Yên Nhược Tuyết, ở Võ Di Sơn-Nam		Giang Nam Danh Sơn, Cung Phi Thê Tử
+OpenLevel39	1972	Mạnh Tri Thu	Nhạn Đãng Sơn	Cha Tường Vi, ở Bản Đồ Lv10-Tây	Mạnh Tri Thu, ở Nhạn Đãng Sơn-Tây		Phù Dung Danh Phong, Lạc Diệp Sơn Trang
+OpenLevel39	1973	Nguyệt My Nhi	Nhạn Đãng Sơn	Phi Long Thiếu Chủ, ở Bản Đồ Lv10-Đông	Nguyệt My Nhi, ở Nhạn Đãng Sơn-Đông		Phù Dung Danh Phong, Thù Cha
+OpenLevel39	1974	Dương Ảnh Phong	Nhạn Đãng Sơn	Bi Ma Kiếm Thánh, ở Bản Đồ Lv10-Bắc	Dương Ảnh Phong, ở Nhạn Đãng Sơn-Bắc		Phù Dung Danh Phong, Thiên Hạ Đệ Nhất
+OpenLevel39	1975	Tường Vi	Bờ Hồ Động Đình	Con gái Mạnh Tri Thu, ở Bản Đồ Lv20-Đông	Tường Vi, ở Động Đình Hồ-Đông		Vân Mộng Đại Trạch, Thiếu Nữ Luyện Thú
+OpenLevel39	1976	Trương Như Mộng	Bờ Hồ Động Đình	Cha của Nam Cung Thái Hồng, ở Bản Đồ Lv20-Tây Nam	Trương Như Mộng, ở Động Đình Hồ-Tây Nam		Vân Mộng Đại Trạch, Đại Mạc Định Tình
+OpenLevel39	1977	Nam Cung Thái Hồng	Bờ Hồ Động Đình	Vợ Trương Như Mộng, ở Bản Đồ Lv20-Bắc	Nam Cung Thái Hồng, ở Động Đình Hồ-Bắc		Vân Mộng Đại Trạch, Đại Mạc Định Tình
+OpenLevel39	1978	Trác Phi Phàm	Miêu Lĩnh	Tàng Kiếm Sơn Trang Trang Chủ, ở Bản Đồ Lv20-Tây	Trác Phi Phàm, ở Miêu Lĩnh-Tây		Huệ Thủy Lôi Công, Võ Đạo Đức Kinh
+OpenLevel39	1979	Tử Hiên	Miêu Lĩnh	Cô Nương Cầm Dù, ở Bản Đồ Lv20-Nam	Tử Hiên, ở Miêu Lĩnh-Nam		Huệ Thủy Lôi Công, Hồng Y Ngọc Địch
+OpenLevel39	1980	Sài Tung	Miêu Lĩnh	Trường Ca Môn Chủ, ở Bản Đồ Lv20-Đông	Sài Tung, ở Miêu Lĩnh-Đông		Huệ Thủy Lôi Công, Tâm Hệ Vô Song
+OpenLevel39	1981	Dương Anh	Điểm Thương Sơn	Thiên Vương Bang Chủ, ở Bản Đồ Lv20-Tây	Dương Anh, ở Điểm Thương Sơn-Tây		Vân Lĩnh Sơn Mạch, Sơn Hà Xã Tắc
+OpenLevel39	1982	Hồ Thần Y	Điểm Thương Sơn	Dược Vương Cốc Chủ, ở Bản Đồ Lv20-Đông	Hồ Thần Y, ở Điểm Thương Sơn-Đông		Vân Lĩnh Sơn Mạch, Dược Vương Cốc Chủ
+OpenLevel39	1983	Thu Y Thủy	Điểm Thương Sơn	Thúy Yên Môn Chủ, ở Bản Đồ Lv20-Bắc	Thu Y Thủy, ở Điểm Thương Sơn-Bắc		Vân Lĩnh Sơn Mạch, Tâm Hệ Đường Ảnh
+OpenLevel39	1984	Vạn Kim Tài	Phế Tích Dạ Lang	Tên Mập Giàu Có, ở Bản Đồ PK-Bắc	Vạn Kim Tài, ở Phế Tích Dạ Lang-Bắc		Vận Tiêu Sở, Nhà Buôn
+OpenLevel39	1985	Ngu Cơ	Phế Tích Dạ Lang	Bá Vương Biệt Cơ,  ở Bản Đồ PK-Nam	Ngu Cơ, ở Phế Tích Dạ Lang-Nam		Vận Tiêu Sở, Cai Hạ Ca
+OpenLevel49	1966	Nạp Lan Tiềm Lẫm	Tỏa Vân Uyên	Vô Ưu Giáo Chủ, ở Bản Đồ Lv10-Nam	Nạp Lan Tiềm Lẫm, ở Tỏa Vân Uyên-Nam		Trúc Lâm U Tịch, Nhất Đại Kiêu Hùng
+OpenLevel49	1967	Nạp Lan Chân	Tỏa Vân Uyên	Vong Ưu Đảo Minh Châu, ở Bản Đồ Lv10-Bắc	Nạp Lan Chân, ở Tỏa Vân Uyên-Bắc		Trúc Lâm U Tịch, Huệ Chất Lan Tâm
+OpenLevel49	1968	Độc Cô Kiếm	Võ Di Sơn	Minh Chủ Võ Lâm, ở Bản Đồ Lv10-Đông Bắc	Độc Cô Kiếm, ở Võ Di Sơn-Đông Bắc		Trúc Lâm U Tịch, Kháng Kim Hào Hiệp
+OpenLevel49	1969	Trương Lâm Tâm	Võ Di Sơn	Vợ Độc Cô Kiếm, ở Bản Đồ Lv10-Tây	Trương Lâm Tâm, ở Võ Di Sơn-Tây		Vũ Lưu Thiền Gia, Thanh Tâm Thuật
+OpenLevel49	1970	Nam Cung Phi	Nhạn Đãng Sơn	Kiếm Trung Chi Kiếm, ở Bản Đồ Lv10-Tây	Nam Cung Phi, ở Nhạn Đãng Sơn-Tây		Vũ Lưu Thiền Gia, Hoa Phi Hồ Điệp
+OpenLevel49	1971	Yên Nhược Tuyết	Nhạn Đãng Sơn	Vợ Nam Cung Phi, ở Bản Đồ Lv10-Đông	Yên Nhược Tuyết, ở Nhạn Đãng Sơn-Đông		Vũ Lưu Thiền Gia, Kim Quốc Công Chúa
+OpenLevel49	1972	Mạnh Tri Thu	Bờ Hồ Động Đình	Cha Tường Vi, ở Bản Đồ Lv20-Đông	Mạnh Tri Thu, ở Bờ Hồ Động Đình-Đông		Kết Thảo Vi Đãng, Thương Hải Nguyệt Minh
+OpenLevel49	1973	Nguyệt My Nhi	Bờ Hồ Động Đình	Phi Long Thiếu Chủ, ở Bản Đồ Lv20-Tây Nam	Nguyệt My Nhi, ở Bờ Hồ Động Đình-Tây Nam		Kết Thảo Vi Đãng, Băng Tâm Tiên Tử
+OpenLevel49	1974	Dương Ảnh Phong	Miêu Lĩnh	Bi Ma Kiếm Thánh, ở Bản Đồ Lv20-Tây	Dương Ảnh Phong, ở Miêu Lĩnh-Tây		Kết Thảo Vi Đãng, Liệt Hỏa Tình Thiên
+OpenLevel49	1975	Tường Vi	Miêu Lĩnh	Con Gái Mạnh Tri Thu, ở Bản Đồ Lv20-Nam	Tường Vi, ở Miêu Lĩnh-Nam		Ngạn Chỉ Đinh Lan, Cô Gái Bướng Bỉnh
+OpenLevel49	1976	Trương Như Mộng	Điểm Thương Sơn	Cha Nam Cung Thái Hồng, ở Bản Đồ Lv20-Tây	Trương Như Mộng, ở Điểm Thương Sơn-Tây		Ngạn Chỉ Đinh Lan, Cô Sơn Ấn Nguyệt
+OpenLevel49	1977	Nam Cung Thái Hồng	Điểm Thương Sơn	Vợ Trương Như Mộng, ở Bản Đồ Lv20-Đông	Nam Cung Thái Hồng, ở Điểm Thương Sơn-Đông		Ngạn Chỉ Đinh Lan, Dám Yêu Dám Hận
+OpenLevel49	1978	Trác Phi Phàm	Phế Tích Dạ Lang	Tàng Kiếm Trang Chủ,  ở Bản Đồ PK-Bắc	Trác Phi Phàm, ở Phế Tích Dạ Lang-Bắc		Trúc Lâm U Tịch, Tâm Địa Độc Ác
+OpenLevel49	1979	Tử Hiên	Phế Tích Dạ Lang	Cô Nương Cầm Dù,  ở Bản Đồ PK-Nam	Tử Hiên, ở Phế Tích Dạ Lang-Nam		Trúc Lâm U Tịch, Thân Thế Bình Thường
+OpenLevel49	1980	Sài Tung	Hưởng Thủy Động	Trường Ca Môn Chủ, ở Bản Đồ Lv40-Bắc	Sài Tung, ở Hưởng Thủy Động-Bắc		Trúc Lâm U Tịch, Vân Hải Mộng Điệp
+OpenLevel49	1981	Dương Anh	Hưởng Thủy Động	Thiên Vương Bang Chủ, ở Bản Đồ Lv40-Đông Nam	Dương Anh, ở Hưởng Thủy Động-Đông Nam		Nhị Nguyên Hạ Quan, Nữ Hào Kiệt
+OpenLevel49	1982	Hồ Thần Y	Kiến Tính Phong	Dược Vương Cốc Chủ, ở Bản Đồ Lv40-Nam	Hồ Thần Y, ở Kiến Tính Phong-Nam		Nhị Nguyên Hạ Quan, Người Cưỡi Lừa
+OpenLevel49	1983	Thu Y Thủy	Kiến Tính Phong	Thúy Yên Môn Chủ, ở Bản Đồ Lv40-Đông Bắc	Thu Y Thủy, ở Kiến Tính Phong-Đông Bắc		Nhị Nguyên Hạ Quan, Tuyết Ánh Hồng Trần
+OpenLevel49	1984	Vạn Kim Tài	Kiếm Môn Quan	Tên Mập Giàu Có, ở Bản Đồ Lv40-Tây Nam	Vạn Kim Tài, ở Kiếm Môn Quan-Tây Nam		Phân Tranh, Kim Nha Bàn Tử
+OpenLevel49	1985	Ngu Cơ	Kiếm Môn Quan	Bá Vương Biệt Cơ, ở Bản Đồ Lv40-Bắc	Ngu Cơ, ở Kiếm Môn Quan-Bắc		Phân Tranh, Tây Sở Mỹ Nhân
+OpenLevel69	1966	Nạp Lan Tiềm Lẫm	Tỏa Vân Uyên	Vô Ưu Giáo Chủ, ở Bản Đồ Lv10-Bắc	Nạp Lan Tiềm Lẫm, ở Tỏa Vân Uyên-Bắc		Mẫu Đơn Ngưng Huyết, Vô Ưu Giáo Chủ
+OpenLevel69	1967	Nạp Lan Chân	Võ Di Sơn	Vong Ưu Đảo Minh Châu, ở Bản Đồ Lv10-Tây	Nạp Lan Chân, ở Võ Di Sơn-Tây		Mẫu Đơn Ngưng Huyết, Ngân Ti Thần Thảo
+OpenLevel69	1968	Độc Cô Kiếm	Nhạn Đãng Sơn	Minh Chủ Võ Lâm, ở Bản Đồ Lv10-Đông	Độc Cô Kiếm, ở Nhạn Đãng Sơn-Đông		Mẫu Đơn Ngưng Huyết, Hiệp Chi Đại Giả
+OpenLevel69	1969	Trương Lâm Tâm	Bờ Hồ Động Đình	Vợ Độc Cô Kiếm, ở Bản Đồ Lv20-Tây Nam	Trương Lâm Tâm, ở Bờ Hồ Động Đình-Tây Nam		Giang Nam Danh Sơn, Em Gái Như Mộng
+OpenLevel69	1970	Nam Cung Phi	Miêu Lĩnh	Kiếm Trung Chi Kiếm, ở Bản Đồ Lv20-Nam	Nam Cung Phi, ở Miêu Lĩnh-Nam		Giang Nam Danh Sơn, Hán Kim Hỗn Huyết
+OpenLevel69	1971	Yên Nhược Tuyết	Điểm Thương Sơn	Vợ Nam Cung Phi, ở Bản Đồ Lv20-Đông	Yên Nhược Tuyết, ở Điểm Thương Sơn-Đông		Giang Nam Danh Sơn, Cung Phi Thê Tử
+OpenLevel69	1972	Mạnh Tri Thu	Phế Tích Dạ Lang	Cha Tường Vi,  ở Bản Đồ PK-Nam	Mạnh Tri Thu, ở Phế Tích Dạ Lang-Nam		Phù Dung Danh Phong, Lạc Diệp Sơn Trang
+OpenLevel69	1973	Nguyệt My Nhi	Hưởng Thủy Động	Phi Long Thiếu Chủ, ở Bản Đồ Lv40-Bắc	Nguyệt My Nhi, ở Hưởng Thủy Động-Bắc		Phù Dung Danh Phong, Thù Cha
+OpenLevel69	1974	Dương Ảnh Phong	Hưởng Thủy Động	Bi Ma Kiếm Thánh, ở Bản Đồ Lv40-Đông Nam	Dương Ảnh Phong, ở Hưởng Thủy Động-Đông Nam		Phù Dung Danh Phong, Thiên Hạ Đệ Nhất
+OpenLevel69	1975	Tường Vi	Kiến Tính Phong	Con Gái Mạnh Tri Thu, ở Bản Đồ Lv40-Nam	Tường Vi, ở Kiến Tính Phong-Nam		Vân Mộng Đại Trạch, Thiếu Nữ Luyện Thú
+OpenLevel69	1976	Trương Như Mộng	Kiến Tính Phong	Cha Nam Cung Thái Hồng, ở Bản Đồ Lv40-Đông Bắc	Trương Như Mộng, ở Kiến Tính Phong-Đông Bắc		Vân Mộng Đại Trạch, Đại Mạc Định Tình
+OpenLevel69	1977	Nam Cung Thái Hồng	Kiếm Môn Quan	Vợ Trương Như Mộng, ở Bản Đồ Lv40-Tây Nam	Nam Cung Thái Hồng, ở Kiếm Môn Quan-Tây Nam		Vân Mộng Đại Trạch, Đại Mạc Định Tình
+OpenLevel69	1978	Trác Phi Phàm	Kiếm Môn Quan	Tàng Kiếm Trang Chủ, ở Bản Đồ Lv40-Bắc	Trác Phi Phàm, ở Kiếm Môn Quan-Bắc		Huệ Thủy Lôi Công, Võ Đạo Đức Kinh
+OpenLevel69	1979	Tử Hiên	Tiến Cúc Động	Cô Nương Cầm Dù, ở Bản Đồ Lv60-Tây Nam	Tử Hiên, ở Tiến Cúc Động-Tây Nam		Huệ Thủy Lôi Công, Hồng Y Ngọc Địch
+OpenLevel69	1980	Sài Tung	Tiến Cúc Động	Trường Ca Môn Chủ, ở Bản Đồ Lv60-Bắc	Sài Tung, ở Tiến Cúc Động-Bắc		Huệ Thủy Lôi Công, Tâm Hệ Vô Song
+OpenLevel69	1981	Dương Anh	Phục Ngưu Sơn	Thiên Vương Bang Chủ, ở Bản Đồ Lv60-Đông Bắc	Dương Anh, ở Phục Ngưu Sơn-Đông Bắc		Vân Lĩnh Sơn Mạch, Sơn Hà Xã Tắc
+OpenLevel69	1982	Hồ Thần Y	Phục Ngưu Sơn	Dược Vương Cốc Chủ, ở Bản Đồ Lv60-Tây	Hồ Thần Y, ở Phục Ngưu Sơn-Tây		Vân Lĩnh Sơn Mạch, Dược Vương Cốc Chủ
+OpenLevel69	1983	Thu Y Thủy	Chiến Trường Cổ	Thúy Yên Môn Chủ, ở Bản Đồ Lv60-Đông Bắc	Thu Y Thủy, ở Chiến Trường Cổ-Đông Bắc		Vân Lĩnh Sơn Mạch, Tâm Hệ Đường Ảnh
+OpenLevel69	1984	Vạn Kim Tài	Chiến Trường Cổ	Tên Mập Giàu Có, ở Bản Đồ Lv60-Tây	Vạn Kim Tài, ở Chiến Trường Cổ-Tây		Vận Tiêu Sở, Nhà Buôn
+OpenLevel69	1985	Ngu Cơ	Phong Lăng Độ	Bá Vương Biệt Cơ,  ở Bản Đồ PK-Bắc	Ngu Cơ, ở Phong Lăng Độ-Bắc		Vận Tiêu Sở, Cai Hạ Ca
+OpenLevel89	1966	Nạp Lan Tiềm Lẫm	Tỏa Vân Uyên	Vô Ưu Giáo Chủ, ở Bản Đồ Lv10-Bắc	Nạp Lan Tiềm Lẫm, ở Tỏa Vân Uyên-Bắc		Trúc Lâm U Tịch, Nhất Đại Kiêu Hùng
+OpenLevel89	1967	Nạp Lan Chân	Võ Di Sơn	Vong Ưu Đảo Minh Châu, ở Bản Đồ Lv10-Tây	Nạp Lan Chân, ở Võ Di Sơn-Tây		Trúc Lâm U Tịch, Huệ Chất Lan Tâm
+OpenLevel89	1968	Độc Cô Kiếm	Nhạn Đãng Sơn	Minh Chủ Võ Lâm, ở Bản Đồ Lv10-Đông	Độc Cô Kiếm, ở Nhạn Đãng Sơn-Đông		Trúc Lâm U Tịch, Kháng Kim Hào Hiệp
+OpenLevel89	1969	Trương Lâm Tâm	Bờ Hồ Động Đình	Vợ Độc Cô Kiếm, ở Bản Đồ Lv20-Tây Nam	Trương Lâm Tâm, ở Bờ Hồ Động Đình-Tây Nam		Vũ Lưu Thiền Gia, Thanh Tâm Thuật
+OpenLevel89	1970	Nam Cung Phi	Miêu Lĩnh	Kiếm Trung Chi Kiếm, ở Bản Đồ Lv20-Nam	Nam Cung Phi, ở Miêu Lĩnh-Nam		Vũ Lưu Thiền Gia, Hoa Phi Hồ Điệp
+OpenLevel89	1971	Yên Nhược Tuyết	Điểm Thương Sơn	Vợ Nam Cung Phi, ở Bản Đồ Lv20-Đông	Yên Nhược Tuyết, ở Điểm Thương Sơn-Đông		Vũ Lưu Thiền Gia, Kim Quốc Công Chúa
+OpenLevel89	1972	Mạnh Tri Thu	Phế Tích Dạ Lang	Cha Tường Vi,  ở Bản Đồ PK-Nam	Mạnh Tri Thu, ở Phế Tích Dạ Lang-Nam		Kết Thảo Vi Đãng, Thương Hải Nguyệt Minh
+OpenLevel89	1973	Nguyệt My Nhi	Hưởng Thủy Động	Phi Long Thiếu Chủ, ở Bản Đồ Lv40-Bắc	Nguyệt My Nhi, ở Hưởng Thủy Động-Bắc		Kết Thảo Vi Đãng, Băng Tâm Tiên Tử
+OpenLevel89	1974	Dương Ảnh Phong	Kiến Tính Phong	Bi Ma Kiếm Thánh, ở Bản Đồ Lv40-Nam	Dương Ảnh Phong, ở Kiến Tính Phong-Nam		Kết Thảo Vi Đãng, Liệt Hỏa Tình Thiên
+OpenLevel89	1975	Tường Vi	Kiếm Môn Quan	Con Gái Mạnh Tri Thu, ở Bản Đồ Lv40-Tây Nam	Tường Vi, ở Kiếm Môn Quan-Tây Nam		Ngạn Chỉ Đinh Lan, Cô Gái Bướng Bỉnh
+OpenLevel89	1976	Trương Như Mộng	Tiến Cúc Động	Cha Nam Cung Thái Hồng, ở Bản Đồ Lv60-Tây Nam	Trương Như Mộng, ở Tiến Cúc Động-Tây Nam		Ngạn Chỉ Đinh Lan, Cô Sơn Ấn Nguyệt
+OpenLevel89	1977	Nam Cung Thái Hồng	Phục Ngưu Sơn	Vợ Trương Như Mộng, ở Bản Đồ Lv60-Đông Bắc	Nam Cung Thái Hồng, ở Phục Ngưu Sơn-Đông Bắc		Ngạn Chỉ Đinh Lan, Dám Yêu Dám Hận
+OpenLevel89	1978	Trác Phi Phàm	Chiến Trường Cổ	Tàng Kiếm Trang Chủ, ở Bản Đồ Lv60-Đông Bắc	Trác Phi Phàm, ở Chiến Trường Cổ-Đông Bắc		Trúc Lâm U Tịch, Tâm Địa Độc Ác
+OpenLevel89	1979	Tử Hiên	Phong Lăng Độ	Cô Nương Cầm Dù,  ở Bản Đồ PK-Bắc	Tử Hiên, ở Phong Lăng Độ-Bắc		Trúc Lâm U Tịch, Thân Thế Bình Thường
+OpenLevel89	1980	Sài Tung	Kỳ Liên Sơn	Trường Ca Môn Chủ, ở Bản Đồ Lv80-Bắc	Sài Tung, ở Kỳ Liên Sơn-Bắc		Trúc Lâm U Tịch, Vân Hải Mộng Điệp
+OpenLevel89	1981	Dương Anh	Kỳ Liên Sơn	Thiên Vương Bang Chủ, ở Bản Đồ Lv80-Tây	Dương Anh, ở Kỳ Liên Sơn-Tây		Nhị Nguyên Hạ Quan, Nữ Hào Kiệt
+OpenLevel89	1982	Hồ Thần Y	Di Tích Sa Mạc	Dược Vương Cốc Chủ, ở Bản Đồ Lv80-Tây	Hồ Thần Y, ở Di Tích Sa Mạc-Tây		Nhị Nguyên Hạ Quan, Người Cưỡi Lừa
+OpenLevel89	1983	Thu Y Thủy	Di Tích Sa Mạc	Thúy Yên Môn Chủ, ở Bản Đồ Lv80-Đông	Thu Y Thủy, ở Di Tích Sa Mạc-Đông		Nhị Nguyên Hạ Quan, Tuyết Ánh Hồng Trần
+OpenLevel89	1984	Vạn Kim Tài	Đôn Hoàng Cổ Thành	Tên Mập Giàu Có, ở Bản Đồ Lv80-Bắc	Vạn Kim Tài, ở Đôn Hoàng Cổ Thành-Bắc		Phân Tranh, Kim Nha Bàn Tử
+OpenLevel89	1985	Ngu Cơ	Đôn Hoàng Cổ Thành	Bá Vương Biệt Cơ, ở Bản Đồ Lv80-Nam	Ngu Cơ, ở Đôn Hoàng Cổ Thành-Nam		Phân Tranh, Tây Sở Mỹ Nhân

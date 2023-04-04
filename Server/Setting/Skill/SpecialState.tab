@@ -1,0 +1,27 @@
+StateName	MaxFrame	HeadWord	Desc	HeadResId	BodyResId	PosResId	ColorId	IsCanAdd	IsUIGray	IsAlpha
+fixed	75	Định 	Định Thân		59					
+zhican	900	Tàn Phế	Tàn Phế		60					
+stun	75	Choáng	Choáng	68						
+slowall	90	Chậm	Làm Chậm		58					
+palsy	75	Tê	Tê liệt		61					
+burn	150	Bỏng	Thiêu Đốt		63		3	1		
+weak	900	Yếu	Suy Yếu		66		4			
+selffreeze	900		Đóng Băng							
+silence	900	Mặc	Bất Lực	64						
+slowrun	75	Chậm	Làm Chậm							
+hurt	75	Thương	Bị Thương							
+confuse	75	Loạn	Hỗn Loạn	65						
+knock	75		Đánh Lui					1		
+drag	75		Kéo Lại		3507					
+float	900		Phù Không			62				
+freeze	900	Đông 	Đóng Băng		9001					
+sleep	900		Ngủ	67						
+hide	0	Ẩn	Ẩn Thân							1
+shield	0	Thuẫn	Tọa Vọng Vô Ngã							
+knock2	900		Lùi Xa							
+nojump	900	Khóa	Khinh Công		1457					
+forceatk	900	Khiêu	Khiêu Khích	296						
+dragfloat	75		Kéo Xuống, Phù Không							
+npchurt	30		Bị Thương					1		
+npcknock	75		Đánh Lui					1		
+fixshield	0		Du Long Kiếm Ý		2867					

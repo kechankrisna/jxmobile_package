@@ -1,0 +1,13 @@
+Index	NpcName	TitleID	NpcTemplateId	WalkNearLength	CanAutoPath	NpcLevel	XPos	YPos	StandDir	Quantity	NpcType	NpcCamp	NpcDroprate	NpcSeriesAuto	NpcSeriesMetal	NpcSeriesWood	NpcSeriesWater	NpcSeriesFire	NpcSeriesEarth	Removewhendeath	ChangeColorScheme
+NpcTrapToDXC	Đến Đạo Hương Thôn		73	50	1	1	4241	12084	0	-1	0	0		0	0	0	0	0	0	0	0
+NpcTrapToBLX	Đến Ba Lăng Huyện		73	50	1	1	4243	9540	0	-1	0	0		0	0	0	0	0	0	0	0
+NpcTrapToJJC	Đến Giang Tân Thôn		73	50	1	1	4241	6958	0	-1	0	0		0	0	0	0	0	0	0	0
+NpcTrapToYLZ	Đến Vĩnh Lạc Trấn		73	50	1	1	4356	4051	0	-1	0	0		0	0	0	0	0	0	0	0
+ZY_GateN	Cổng Bắc		1732	50	1	1	12918	11022	0	-1	0	0		0	0	0	0	0	0	0	0
+ZY_GateM	Cổng Giữa		1732	50	1	1	12922	8273	0	-1	0	0		0	0	0	0	0	0	0	0
+ZY_GateS	Cổng Nam		1732	50	1	1	12918	5611	0	-1	0	0		0	0	0	0	0	0	0	0
+ZY_Longzhu_sun	Long Trụ Nhật Diệu		1732	50	1	1	15536	8278	0	-1	0	0		0	0	0	0	0	0	0	0
+ZY_Longzhu_moon	Long Trụ Nguyệt Hoa		1732	50	1	1	15536	11012	0	-1	0	0		0	0	0	0	0	0	0	0
+ZY_Longzhu_star	Long Trụ Tinh Huy		1732	50	1	1	15539	5577	0	-1	0	0		0	0	0	0	0	0	0	0
+WallGuard	Hậu Doanh Chướng Ngại		104	50		1	19478	8105	64	-1	0	0		0	0	0	0	0	0	0	0
+WallGuard	Hậu Doanh Chướng Ngại		104	50		1	19475	8460	64	-1	0	0		0	0	0	0	0	0	0	0

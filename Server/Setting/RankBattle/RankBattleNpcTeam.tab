@@ -1,0 +1,877 @@
+TeamID	Name	HeroName	Faction	Level	ExtAttribId	HonorLevel	PartnerId1	PartnerId2	PartnerId3	PartnerId4	PartnerLevel	Strength	Vitality	Dexterity	Energy	SkillLevel	SkillID1	SkillID2	SkillID3	SkillID4	SkillID5
+1	Võ Thần Điện Thủ Hộ	Quan Thư Cầm	1	10	1	0	96				5	0	0	0	0	1					
+2	Võ Thần Điện Thủ Hộ	Cung Chí Thành	2	10	1	0		96			5	0	0	0	0	1					
+3	Võ Thần Điện Thủ Hộ	Tả Khâu Hàn Lâm	3	10	1	0			96		5	0	0	0	0	1					
+4	Võ Thần Điện Thủ Hộ	Trọng Tôn Hoằng Viễn	4	10	1	0				96	5	0	0	0	0	1					
+5	Võ Thần Điện Thủ Hộ	Chương Ức Đạt	5	10	1	0	96				5	0	0	0	0	1					
+6	Võ Thần Điện Thủ Hộ	Độc Cô Tuấn Dự	6	10	1	0		96			5	0	0	0	0	1					
+7	Võ Thần Điện Thủ Hộ	Nghiêm Nhuệ Tinh	7	10	1	0			96		5	0	0	0	0	1					
+8	Võ Thần Điện Thủ Hộ	Loan Mịch Vân	8	10	1	0				96	5	0	0	0	0	1					
+9	Võ Thần Điện Thủ Hộ	Tư Mã Diệc Toàn	9	10	1	0	96				5	0	0	0	0	1					
+10	Võ Thần Điện Thủ Hộ	Đoạn Ức Tuyết	10	10	1	0		96			5	0	0	0	0	1					
+11	Võ Thần Điện Thủ Hộ	Mục Mặc Dung	11	10	1	0			96		5	0	0	0	0	1					
+12	Võ Thần Điện Thủ Hộ	Thẩm Tinh Hỏa	12	10	1	0				96	5	0	0	0	0	1					
+13	Võ Thần Điện Thủ Hộ	Lệnh Hồ Tư Phong	13	10	1	0	96				5	0	0	0	0	1					
+14	Võ Thần Điện Thủ Hộ	Mộ Hàn Tùng	14	10	1	0		96			5	0	0	0	0	1					
+15	Võ Thần Điện Thủ Hộ	Hạ Hòa Quang	15	10	1	0			96		5	0	0	0	0	1					
+16	Võ Thần Điện Thủ Hộ	Mục Hồng Hi	16	11	1	0				96	6	0	0	0	0	1					
+17	Võ Thần Điện Thủ Hộ	Tô Hoằng Văn	17	11	1	0	96				6	0	0	0	0	1					
+18	Võ Thần Điện Thủ Hộ	Ung Gia Tứ	18	11	1	0		96			6	0	0	0	0	1					
+19	Võ Thần Điện Thủ Hộ	Ngũ Hưng Nghiệp	1	11	1	0			96		6	0	0	0	0	1					
+20	Võ Thần Điện Thủ Hộ	Hình Nghi Nhân	2	11	1	0				96	6	0	0	0	0	1					
+21	Võ Thần Điện Thủ Hộ	Khương Gia Thụ	3	11	1	0	96				6	0	0	0	0	1					
+22	Võ Thần Điện Thủ Hộ	Đông Môn Tư Tuyên	4	11	1	0		96			6	0	0	0	0	1					
+23	Võ Thần Điện Thủ Hộ	Tần Nhạn Lục	5	11	1	0			96		6	0	0	0	0	1					
+24	Võ Thần Điện Thủ Hộ	Xa Ánh Chân	6	11	1	0				96	6	0	0	0	0	1					
+25	Võ Thần Điện Thủ Hộ	La Tài Lương	7	11	1	0	96				6	0	0	0	0	1					
+26	Võ Thần Điện Thủ Hộ	Hùng Mặc Vân	8	11	1	0		96			6	0	0	0	0	1					
+27	Võ Thần Điện Thủ Hộ	Diêm Tuyết Dung	9	11	1	0			96		6	0	0	0	0	1					
+28	Võ Thần Điện Thủ Hộ	Hạng Kỳ Thắng	10	11	1	0				96	6	0	0	0	0	1					
+29	Võ Thần Điện Thủ Hộ	Tư Hồng Thu Phiến	11	11	1	0	96				6	0	0	0	0	1					
+30	Võ Thần Điện Thủ Hộ	Nghiêm Dĩ Quân	12	11	1	0		96			6	0	0	0	0	1					
+31	Võ Thần Điện Thủ Hộ	Sái Thi Đan	13	12	1	0	96	78			7	0	0	0	0	1					
+32	Võ Thần Điện Thủ Hộ	Long Bác Hãn	14	12	1	0		96	78		7	0	0	0	0	1					
+33	Võ Thần Điện Thủ Hộ	Y Phỏng Cầm	15	12	1	1			96	78	7	0	0	0	0	1					
+34	Võ Thần Điện Thủ Hộ	Tiêu Hòa Tụng	16	12	1	1	78	96			7	0	0	0	0	1					
+35	Võ Thần Điện Thủ Hộ	Quách Hòa Dục	17	12	1	1		78	96		7	0	0	0	0	1					
+36	Võ Thần Điện Thủ Hộ	Giản Hiểu Bác	18	12	2	1			78	96	7	0	0	0	0	1					
+37	Võ Thần Điện Thủ Hộ	Tống Dương Vũ	1	12	2	1	96	78			7	0	0	0	0	1					
+38	Võ Thần Điện Thủ Hộ	Mã Linh Phiến	2	12	2	1		96	78		7	0	0	0	0	1					
+39	Võ Thần Điện Thủ Hộ	Nhạc Mẫn Duệ	3	12	2	1			96	78	7	0	0	0	0	1					
+40	Võ Thần Điện Thủ Hộ	Từ Linh Tùng	4	12	2	1	78	96			7	0	0	0	0	1					
+41	Võ Thần Điện Thủ Hộ	Khấu Túy Liễu	5	12	2	1		78	96		7	0	0	0	0	1					
+42	Võ Thần Điện Thủ Hộ	Tư Mã Minh Hiên	6	12	2	1			78	96	7	0	0	0	0	1					
+43	Võ Thần Điện Thủ Hộ	Diệp Hàn Tảo	7	12	2	1	96	78			7	0	0	0	0	1					
+44	Võ Thần Điện Thủ Hộ	Hình Tuấn Triết	8	12	2	1		96	78		7	0	0	0	0	1					
+45	Võ Thần Điện Thủ Hộ	Lư Khưu Kiên Bạch	9	12	2	1			96	78	7	0	0	0	0	1					
+46	Võ Thần Điện Thủ Hộ	Bốc Kỳ Thụy	10	13	2	1	78	96			8	0	0	0	0	1					
+47	Võ Thần Điện Thủ Hộ	Lâm Nhã Kiện	11	13	2	1		78	96		8	0	0	0	0	1					
+48	Võ Thần Điện Thủ Hộ	Soái Văn Thạch	12	13	2	1			78	96	8	0	0	0	0	1					
+49	Võ Thần Điện Thủ Hộ	Ô Tiếu Hòe	13	13	2	1	96	78			8	0	0	0	0	1					
+50	Võ Thần Điện Thủ Hộ	Vũ Vĩ Kỳ	14	13	2	1		96	78		8	0	0	0	0	1					
+51	Võ Thần Điện Thủ Hộ	Giả Hưng Đằng	15	13	2	1			96	78	8	0	0	0	0	1					
+52	Võ Thần Điện Thủ Hộ	Kha Diệp Thước	16	13	2	1	78	96			8	0	0	0	0	1					
+53	Võ Thần Điện Thủ Hộ	Bảo Nhã Đạt	17	13	2	1		78	96		8	0	0	0	0	1					
+54	Võ Thần Điện Thủ Hộ	Mai Mịch Song	18	13	2	1			78	96	8	0	0	0	0	1					
+55	Võ Thần Điện Thủ Hộ	Cù Duệ Thức	1	13	2	1	96	76			8	0	0	0	0	1					
+56	Võ Thần Điện Thủ Hộ	Lỗ Thừa Cơ	2	13	2	1	96	77	102		8	0	0	0	0	1					
+57	Võ Thần Điện Thủ Hộ	Kim Bạch An	3	13	2	1	96	78	103		8	0	0	0	0	1					
+58	Võ Thần Điện Thủ Hộ	Hạng Hoài Hàn	4	13	2	1	96	79	104		8	0	0	0	0	1					
+59	Võ Thần Điện Thủ Hộ	Mộc Chí Học	5	13	2	1	96	80	105		8	0	0	0	0	1					
+60	Võ Thần Điện Thủ Hộ	Mộ Thính Phong	6	13	2	1	96	81	106		8	0	0	0	0	1					
+61	Võ Thần Điện Thủ Hộ	Đông Môn Bân Úy	7	14	2	1	96	82	107		9	0	0	0	0	1					
+62	Võ Thần Điện Thủ Hộ	Bành Nhạn Hạm	8	14	2	1	96	83	108		9	0	0	0	0	1					
+63	Võ Thần Điện Thủ Hộ	Hồ Tinh Hán	9	14	2	1	96	84	109		9	0	0	0	0	1					
+64	Võ Thần Điện Thủ Hộ	Trì Phán Dịch	10	14	2	1	96	85	102		9	0	0	0	0	1					
+65	Võ Thần Điện Thủ Hộ	Tang Bạch Trúc	11	14	2	1	96	86	103		9	0	0	0	0	1					
+66	Võ Thần Điện Thủ Hộ	Toàn Ngữ Nhi	12	14	2	1	96	87	104		9	0	0	0	0	1					
+67	Võ Thần Điện Thủ Hộ	Đường Hùng Bác	13	14	2	1	96	88	105		9	0	0	0	0	1					
+68	Võ Thần Điện Thủ Hộ	Vi Nguyên Dao	14	14	2	1	96	89	106		9	0	0	0	0	1					
+69	Võ Thần Điện Thủ Hộ	Hoa Ảo Phong	15	14	2	1	96	90	107		9	0	0	0	0	1					
+70	Võ Thần Điện Thủ Hộ	Thành Ngạo Dị	16	14	2	1	96	91	108		9	0	0	0	0	1					
+71	Võ Thần Điện Thủ Hộ	Thạch Anh Duệ	17	14	2	1	96	92	109		9	0	0	0	0	1					
+72	Võ Thần Điện Thủ Hộ	Tư Hồng Thiệu Quân	18	14	2	1	96	93	102		9	0	0	0	0	1					
+73	Võ Thần Điện Thủ Hộ	Chu Tư Diểu	1	14	2	1	96	94	103		9	0	0	0	0	1					
+74	Võ Thần Điện Thủ Hộ	Vũ Văn Ức Nam	2	14	2	1	96	95	104		9	0	0	0	0	1					
+75	Võ Thần Điện Thủ Hộ	Tư Ngưng Liên	3	14	2	1	96	76	105		9	0	0	0	0	1					
+76	Võ Thần Điện Thủ Hộ	Mạnh Dĩ Đằng	4	15	2	1	96	77	106		10	0	0	0	0	1					
+77	Võ Thần Điện Thủ Hộ	Ung Dị Hoè	5	15	2	1	96	78	107		10	0	0	0	0	1					
+78	Võ Thần Điện Thủ Hộ	Thích Kiên Thành	6	15	2	1	96	79	108		10	0	0	0	0	1					
+79	Võ Thần Điện Thủ Hộ	Mưu Mộ Nhạn	7	15	2	1	96	80	109		10	0	0	0	0	1					
+80	Võ Thần Điện Thủ Hộ	Cảnh Dũng Nam	8	15	2	1	96	81	102		10	0	0	0	0	1					
+81	Võ Thần Điện Thủ Hộ	Du Tu Quân	9	15	2	2	96	82	103		10	0	0	0	0	1					
+82	Võ Thần Điện Thủ Hộ	Uất Trì Tích Phiến	10	15	2	2	96	83	104		10	0	0	0	0	1					
+83	Võ Thần Điện Thủ Hộ	Mã Tâm Viễn	11	15	2	2	96	84	105		10	0	0	0	0	1					
+84	Võ Thần Điện Thủ Hộ	Diêm Thiên Kiêu	12	15	2	2	96	85	106		10	0	0	0	0	1					
+85	Võ Thần Điện Thủ Hộ	Soái Thư Liễu	13	15	2	2	96	86	107		10	0	0	0	0	1					
+86	Võ Thần Điện Thủ Hộ	Mạch Bành Bành	14	16	2	2	96	87	108		11	0	0	0	0	1					
+87	Võ Thần Điện Thủ Hộ	Kết nối với 	15	16	2	2	96	88	109		11	0	0	0	0	1					
+88	Võ Thần Điện Thủ Hộ	Tư Không Hồng Thâm	16	16	2	2	96	89	102		11	0	0	0	0	1					
+89	Võ Thần Điện Thủ Hộ	Dị Ký Dao	17	16	2	2	96	90	103		11	0	0	0	0	1					
+90	Võ Thần Điện Thủ Hộ	Miêu Bạch Hủy	18	16	2	2	96	91	104		11	0	0	0	0	1					
+91	Võ Thần Điện Thủ Hộ	Thời Tuấn Kiệt	1	16	2	2	96	92	105		11	0	0	0	0	1					
+92	Võ Thần Điện Thủ Hộ	Quảng Phi Thư	2	16	2	2	96	93	106		11	0	0	0	0	1					
+93	Võ Thần Điện Thủ Hộ	Khấu Hoa Hàn	3	16	2	2	96	94	107		11	0	0	0	0	1					
+94	Võ Thần Điện Thủ Hộ	Thuần Vu Lãnh Sương	4	16	2	2	96	95	108		11	0	0	0	0	1					
+95	Võ Thần Điện Thủ Hộ	Nhậm Ký Linh	5	16	2	2	96	76	109		11	0	0	0	0	1					
+96	Võ Thần Điện Thủ Hộ	Hà Tự Di	6	17	2	2	96	77	102		12	0	0	0	0	1					
+97	Võ Thần Điện Thủ Hộ	Gia Phàm Chi	7	17	2	2	96	78	103		12	0	0	0	0	1					
+98	Võ Thần Điện Thủ Hộ	Tùy Diệc Du	8	17	2	2	96	79	104		12	0	0	0	0	1					
+99	Võ Thần Điện Thủ Hộ	Quản Sơ Dao	9	17	2	2	96	80	105		12	0	0	0	0	1					
+100	Võ Thần Điện Thủ Hộ	Tiêu Hạo Bác	10	17	2	2	96	81	106		12	0	0	0	0	1					
+101	Võ Thần Điện Thủ Hộ	Tìm	11	17	2	2	96	82	107		12	0	0	0	0	1					
+102	Võ Thần Điện Thủ Hộ	Tây Môn Linh An	12	17	2	2	96	83	108		12	0	0	0	0	1					
+103	Võ Thần Điện Thủ Hộ	Bốc Hải Đông	13	17	2	2	96	84	109		12	0	0	0	0	1					
+104	Võ Thần Điện Thủ Hộ	Uất Trì Lương Hàn	14	17	2	2	96	85	102		12	0	0	0	0	1					
+105	Võ Thần Điện Thủ Hộ	Vinh Hạ Chân	15	17	2	2	96	86	103		12	0	0	0	0	1					
+106	Võ Thần Điện Thủ Hộ	Đơn Vu Lạc Phàm	16	18	2	2	96	87	104	59	13	0	0	0	0	1					
+107	Võ Thần Điện Thủ Hộ	Lang Bán An	17	18	2	2	96	88	105	59	13	0	0	0	0	1					
+108	Võ Thần Điện Thủ Hộ	Phan Trạch Ngữ	18	18	2	2	96	89	106	59	13	0	0	0	0	1					
+109	Võ Thần Điện Thủ Hộ	Đơn Vu Nguyên Tư	1	18	2	2	96	90	107	59	13	0	0	0	0	1					
+110	Võ Thần Điện Thủ Hộ	Minh Khiếu Phú	2	18	2	2	96	91	108	59	13	0	0	0	0	1					
+111	Võ Thần Điện Thủ Hộ	Ngao Tử Mặc	3	18	2	2	96	92	109	59	13	0	0	0	0	1					
+112	Võ Thần Điện Thủ Hộ	Doãn Cô Lăng	4	18	2	2	96	93	102	59	13	0	0	0	0	1					
+113	Võ Thần Điện Thủ Hộ	Cốc Khiếu Thao	5	18	2	2	96	94	103	59	13	0	0	0	0	1					
+114	Võ Thần Điện Thủ Hộ	Vu Mặc Tuyên	6	18	2	2	96	95	104	59	13	0	0	0	0	1					
+115	Võ Thần Điện Thủ Hộ	Hồ Đại Linh	7	18	2	2	96	76	105	59	13	0	0	0	0	1					
+116	Võ Thần Điện Thủ Hộ	Miêu Thanh Hàn	8	19	2	2	96	77	106	59	14	0	0	0	0	1					
+117	Võ Thần Điện Thủ Hộ	Lăng Tu Vi	9	19	2	2	96	78	107	59	14	0	0	0	0	1					
+118	Võ Thần Điện Thủ Hộ	Thuần Vu Ức Phong	10	19	2	2	96	79	108	59	14	0	0	0	0	1					
+119	Võ Thần Điện Thủ Hộ	Khói Trì Hoãn	11	19	2	2	96	80	109	59	14	0	0	0	0	1					
+120	Võ Thần Điện Thủ Hộ	Phòng Hưng Đằng	12	19	2	2	96	81	102	59	14	0	0	0	0	1					
+121	Võ Thần Điện Thủ Hộ	Hình Tích Hàn	13	19	2	2	96	82	103	59	14	0	0	0	0	1					
+122	Võ Thần Điện Thủ Hộ	Trịnh Dạ Dục	14	19	2	2	96	83	104	59	14	0	0	0	0	1					
+123	Võ Thần Điện Thủ Hộ	Mễ Hòa Hiệp	15	19	2	2	96	84	105	59	14	0	0	0	0	1					
+124	Võ Thần Điện Thủ Hộ	Thương Tư Ngự	16	19	2	2	96	85	106	59	14	0	0	0	0	1					
+125	Võ Thần Điện Thủ Hộ	Đào An Ba	17	19	2	2	96	86	107	59	14	0	0	0	0	1					
+126	Võ Thần Điện Thủ Hộ	Quế Đạt An	18	20	2	2	96	87	108	59	15	0	0	0	0	1					
+127	Võ Thần Điện Thủ Hộ	Du Tu Văn	1	20	2	2	96	88	109	59	15	0	0	0	0	1					
+128	Võ Thần Điện Thủ Hộ	Liêu Hoằng Thâm	2	20	2	2	96	89	102	59	15	0	0	0	0	1					
+129	Võ Thần Điện Thủ Hộ	Lê Cảnh Diệu	3	20	2	2	96	90	103	59	15	0	0	0	0	1					
+130	Võ Thần Điện Thủ Hộ	Dụ Thiên Canh	4	20	2	2	96	91	104	59	15	0	0	0	0	1					
+131	Võ Thần Điện Thủ Hộ	Sư Ân Yên	5	21	2	2	96	92	105	59	16	0	0	0	0	1					
+132	Võ Thần Điện Thủ Hộ	Uyển Diệp Hách	6	21	2	2	96	93	106	59	16	0	0	0	0	1					
+133	Võ Thần Điện Thủ Hộ	Mã Phong Đức	7	21	2	2	96	94	107	59	16	0	0	0	0	1					
+134	Võ Thần Điện Thủ Hộ	Tuân Vũ Ấm	8	21	2	2	96	95	108	59	16	0	0	0	0	1					
+135	Võ Thần Điện Thủ Hộ	Vu Thành Lễ	9	21	2	2	96	76	109	59	16	0	0	0	0	1					
+136	Võ Thần Điện Thủ Hộ	Địch Kỳ Thúy	10	22	2	3	96	77	102	59	17	0	0	0	0	1					
+137	Võ Thần Điện Thủ Hộ	Trịnh Đại Linh	11	22	2	3	96	78	103	59	17	0	0	0	0	1					
+138	Võ Thần Điện Thủ Hộ	Lăng Dương Sóc	12	22	2	3	96	79	104	59	17	0	0	0	0	1					
+139	Võ Thần Điện Thủ Hộ	Lưu Quân Hạo	13	22	2	3	96	80	105	59	17	0	0	0	0	1					
+140	Võ Thần Điện Thủ Hộ	Phiền Bạch Phàm	14	22	2	3	96	81	106	59	17	0	0	0	0	1					
+141	Võ Thần Điện Thủ Hộ	Tôn Minh Húc	15	23	2	3	96	82	107	59	18	0	0	0	0	1					
+142	Võ Thần Điện Thủ Hộ	Bàng Tòng Ngưng	16	23	2	3	96	83	108	59	18	0	0	0	0	1					
+143	Võ Thần Điện Thủ Hộ	Khổng Chính Nghị	17	23	2	3	96	84	109	59	18	0	0	0	0	1					
+144	Võ Thần Điện Thủ Hộ	Cù Vĩnh Khang	18	23	2	3	96	85	102	59	18	0	0	0	0	1					
+145	Võ Thần Điện Thủ Hộ	Ông Kỳ Lược	1	23	2	3	96	86	103	59	18	0	0	0	0	1					
+146	Võ Thần Điện Thủ Hộ	Nguyên Liên Đằng	2	24	2	3	96	87	104	59	19	0	0	0	0	1					
+147	Võ Thần Điện Thủ Hộ	Lặc Bằng Hưng	3	24	2	3	96	88	105	59	19	0	0	0	0	1					
+148	Võ Thần Điện Thủ Hộ	Từ Hàn Tảo	4	24	2	3	96	89	106	59	19	0	0	0	0	1					
+149	Võ Thần Điện Thủ Hộ	Công Dã Hạ Thu	5	24	3	3	96	90	107	59	19	0	0	0	0	1					
+150	Võ Thần Điện Thủ Hộ	Khổng Hựu Liên	6	24	3	3	96	91	108	59	19	0	0	0	0	1					
+151	Võ Thần Điện Thủ Hộ	Mâu Mặc Dao	7	25	3	4	96	92	109	59	20	0	0	0	0	1					
+152	Võ Thần Điện Thủ Hộ	Mưu Dị Văn	8	25	3	4	96	93	102	59	20	0	0	0	0	1					
+153	Võ Thần Điện Thủ Hộ	Quách Hãn Nguyệt	9	25	3	4	96	94	103	59	20	0	0	0	0	1					
+154	Võ Thần Điện Thủ Hộ	Cữu An Nhiên	10	25	3	4	96	95	104	59	20	0	0	0	0	1					
+155	Võ Thần Điện Thủ Hộ	Ngân Vũ Văn	11	25	3	4	96	76	105	59	20	0	0	0	0	1					
+156	Võ Thần Điện Thủ Hộ	Mẫn Đan Khiếu	12	26	3	4	96	77	106	59	21	0	0	0	0	1					
+157	Võ Thần Điện Thủ Hộ	Lê Anh Ngạn	13	26	3	4	96	78	107	59	21	0	0	0	0	1					
+158	Võ Thần Điện Thủ Hộ	Hình Niệm Thao	14	26	3	4	96	79	108	59	21	0	0	0	0	1					
+159	Võ Thần Điện Thủ Hộ	Cung Tinh Kiếm	15	26	3	4	96	80	109	59	21	0	0	0	0	1					
+160	Võ Thần Điện Thủ Hộ	Thuần Vu Văn Xương	16	26	3	4	96	81	102	59	21	0	0	0	0	1					
+161	Võ Thần Điện Thủ Hộ	Gia Hòa An	17	27	3	4	96	82	103	59	22	0	0	0	0	1					
+162	Võ Thần Điện Thủ Hộ	Cảnh Bình Đoan	18	27	3	4	96	83	104	59	22	0	0	0	0	1					
+163	Võ Thần Điện Thủ Hộ	Lăng Gia Chí	1	27	3	4	96	84	105	59	22	0	0	0	0	1					
+164	Võ Thần Điện Thủ Hộ	Địch Nhĩ Liễu	2	27	3	4	96	85	106	59	22	0	0	0	0	1					
+165	Võ Thần Điện Thủ Hộ	Tuân Bán Song	3	27	4	4	96	86	107	59	22	0	0	0	0	1					
+166	Võ Thần Điện Thủ Hộ	Lý Vũ Chính	4	28	4	4	96	87	108	59	23	0	0	0	0	1					
+167	Võ Thần Điện Thủ Hộ	Đằng Nguy Ngang	5	28	4	4	96	88	109	59	23	0	0	0	0	1					
+168	Võ Thần Điện Thủ Hộ	Văn Chí Minh	6	28	4	4	96	89	102	59	23	0	0	0	0	1					
+169	Võ Thần Điện Thủ Hộ	Hầu Tiếu Nam	7	28	4	4	96	90	103	59	23	0	0	0	0	1					
+170	Võ Thần Điện Thủ Hộ	Đông Quách An Tường	8	28	4	4	96	91	104	59	23	0	0	0	0	1					
+171	Võ Thần Điện Thủ Hộ	Sử Hoài Liên	9	29	4	4	96	92	105	59	24	0	0	0	0	1					
+172	Võ Thần Điện Thủ Hộ	Liêm Bác Siêu	10	29	4	4	96	93	106	59	24	0	0	0	0	1					
+173	Võ Thần Điện Thủ Hộ	Biện Phong Bật	11	29	4	4	96	94	107	59	24	0	0	0	0	1					
+174	Võ Thần Điện Thủ Hộ	Tần Đại Phàm	12	29	4	4	96	95	108	59	24	0	0	0	0	1					
+175	Võ Thần Điện Thủ Hộ	Liêm Linh Phiến	13	29	4	4	96	76	109	59	24	0	0	0	0	1					
+176	Võ Thần Điện Thủ Hộ	Đường Lãnh Chính	14	30	4	4	96	77	102	59	25	0	0	0	0	1					
+177	Võ Thần Điện Thủ Hộ	Hoa Hạo Đại	15	30	4	4	96	78	103	59	25	0	0	0	0	1					
+178	Võ Thần Điện Thủ Hộ	Tiết Bái Cần	16	30	4	4	96	79	104	59	25	0	0	0	0	1					
+179	Võ Thần Điện Thủ Hộ	Đơn Phỏng Phong	17	30	4	4	96	80	105	59	25	0	0	0	0	1					
+180	Võ Thần Điện Thủ Hộ	Phí Hoa Áo	18	30	4	4	96	81	106	59	25	0	0	0	0	1					
+181	Võ Thần Điện Thủ Hộ	Hàn Hướng Hoè	1	31	4	4	96	82	107	59	26	0	0	0	0	1					
+182	Võ Thần Điện Thủ Hộ	Vu Minh Trí	2	31	4	4	96	83	108	59	26	0	0	0	0	1					
+183	Võ Thần Điện Thủ Hộ	Phí Quang Dự	3	31	4	4	96	84	109	59	26	0	0	0	0	1					
+184	Võ Thần Điện Thủ Hộ	Ân Thu Tiếu	4	31	4	4	96	85	102	59	26	0	0	0	0	1					
+185	Võ Thần Điện Thủ Hộ	Mộ Dung Dị Dung	5	31	4	4	96	86	103	59	26	0	0	0	0	1					
+186	Võ Thần Điện Thủ Hộ	Ô Anh Tư	6	32	4	4	96	87	104	59	27	0	0	0	0	1					
+187	Võ Thần Điện Thủ Hộ	Nghiêm Đoan Khiếu	7	32	4	4	96	88	105	59	27	0	0	0	0	1					
+188	Võ Thần Điện Thủ Hộ	Hoàng Thiên Công	8	32	5	4	96	89	106	59	27	0	0	0	0	1					
+189	Võ Thần Điện Thủ Hộ	Giản Mặc Trúc	9	32	5	4	96	90	107	59	27	0	0	0	0	1					
+190	Võ Thần Điện Thủ Hộ	Bùi Đạt Hàn	10	32	5	4	96	91	108	59	27	0	0	0	0	1					
+191	Võ Thần Điện Thủ Hộ	Tư Mã Nguyên Thanh	11	33	5	4	96	92	109	59	28	0	0	0	0	1					
+192	Võ Thần Điện Thủ Hộ	Lâm Thủy Hà	12	33	5	4	96	93	102	59	28	0	0	0	0	1					
+193	Võ Thần Điện Thủ Hộ	Giang Nguyên Cơ	13	33	5	4	96	94	103	59	28	0	0	0	0	1					
+194	Võ Thần Điện Thủ Hộ	Đới Lãnh Tuyết	14	33	5	4	96	95	104	59	28	0	0	0	0	1					
+195	Võ Thần Điện Thủ Hộ	Vu Tuyết Thu	15	33	5	4	96	76	105	59	28	0	0	0	0	1					
+196	Võ Thần Điện Thủ Hộ	Nhạc Minh Triết	16	34	5	4	96	77	106	59	29	0	0	0	0	1					
+197	Võ Thần Điện Thủ Hộ	Hình Thủy Nhi	17	34	5	4	96	78	107	59	29	0	0	0	0	1					
+198	Võ Thần Điện Thủ Hộ	Triệu Sơn Phú	18	34	5	4	96	79	108	59	29	0	0	0	0	1					
+199	Võ Thần Điện Thủ Hộ	Dụ Lạc Du	1	34	5	4	96	80	109	59	29	0	0	0	0	1					
+200	Võ Thần Điện Thủ Hộ	Lữ Tử Trạc	2	34	5	4	96	81	102	59	29	0	0	0	0	1					
+201	Võ Thần Điện Thủ Hộ	Quan Thư Cầm	3	35	5	5	96	87	104	59	30	0	0	0	0	1					
+202	Võ Thần Điện Thủ Hộ	Cung Chí Thành	4	35	5	5	96	88	105	59	30	0	0	0	0	1					
+203	Võ Thần Điện Thủ Hộ	Tả Khâu Hàn Lâm	5	35	5	5	96	89	106	59	30	0	0	0	0	1					
+204	Võ Thần Điện Thủ Hộ	Trọng Tôn Hoằng Viễn	6	35	5	5	96	90	107	59	30	0	0	0	0	1					
+205	Võ Thần Điện Thủ Hộ	Chương Ức Đạt	7	35	5	5	96	91	108	59	30	0	0	0	0	1					
+206	Võ Thần Điện Thủ Hộ	Độc Cô Tuấn Dự	8	36	5	5	96	92	109	59	31	0	0	0	0	1					
+207	Võ Thần Điện Thủ Hộ	Nghiêm Nhuệ Tinh	9	36	5	5	96	93	102	59	31	0	0	0	0	1					
+208	Võ Thần Điện Thủ Hộ	Loan Mịch Vân	10	36	5	5	96	94	103	59	31	0	0	0	0	1					
+209	Võ Thần Điện Thủ Hộ	Tư Mã Diệc Toàn	11	36	5	5	96	95	104	59	31	0	0	0	0	1					
+210	Võ Thần Điện Thủ Hộ	Đoạn Ức Tuyết	12	36	5	5	96	76	105	59	31	0	0	0	0	1					
+211	Võ Thần Điện Thủ Hộ	Mục Mặc Dung	13	37	5	5	96	77	106	59	32	0	0	0	0	1					
+212	Võ Thần Điện Thủ Hộ	Thẩm Tinh Hỏa	14	37	5	5	96	78	107	59	32	0	0	0	0	1					
+213	Võ Thần Điện Thủ Hộ	Lệnh Hồ Tư Phong	15	37	5	5	96	79	108	59	32	0	0	0	0	1					
+214	Võ Thần Điện Thủ Hộ	Mộ Hàn Tùng	16	37	5	5	96	80	109	59	32	0	0	0	0	1					
+215	Võ Thần Điện Thủ Hộ	Hạ Hòa Quang	17	37	5	5	96	81	102	59	32	0	0	0	0	1					
+216	Võ Thần Điện Thủ Hộ	Mục Hồng Hi	18	38	5	5	96	82	103	59	33	0	0	0	0	1					
+217	Võ Thần Điện Thủ Hộ	Tô Hoằng Văn	1	38	5	5	96	83	104	59	33	0	0	0	0	1					
+218	Võ Thần Điện Thủ Hộ	Ung Gia Tứ	2	38	5	5	96	84	105	59	33	0	0	0	0	1					
+219	Võ Thần Điện Thủ Hộ	Ngũ Hưng Nghiệp	3	38	5	5	96	85	106	59	33	0	0	0	0	1					
+220	Võ Thần Điện Thủ Hộ	Hình Nghi Nhân	4	38	5	5	96	86	107	59	33	0	0	0	0	1					
+221	Võ Thần Điện Thủ Hộ	Khương Gia Thụ	5	39	5	5	96	87	108	59	34	0	0	0	0	1					
+222	Võ Thần Điện Thủ Hộ	Đông Môn Tư Tuyên	6	39	5	5	96	88	109	59	34	0	0	0	0	1					
+223	Võ Thần Điện Thủ Hộ	Tần Nhạn Lục	7	39	5	5	96	89	102	59	34	0	0	0	0	1					
+224	Võ Thần Điện Thủ Hộ	Xa Ánh Chân	8	39	5	5	96	90	103	59	34	0	0	0	0	1					
+225	Võ Thần Điện Thủ Hộ	La Tài Lương	9	39	5	5	96	91	104	59	34	0	0	0	0	1					
+226	Võ Thần Điện Thủ Hộ	Hùng Mặc Vân	10	40	6	5	96	92	105	59	35	0	0	0	0	1					
+227	Võ Thần Điện Thủ Hộ	Diêm Tuyết Dung	11	40	6	5	96	93	106	59	35	0	0	0	0	1					
+228	Võ Thần Điện Thủ Hộ	Hạng Kỳ Thắng	12	40	6	5	96	94	107	59	35	0	0	0	0	1					
+229	Võ Thần Điện Thủ Hộ	Tư Hồng Thu Phiến	13	40	6	5	96	95	108	59	35	0	0	0	0	1					
+230	Võ Thần Điện Thủ Hộ	Nghiêm Dĩ Quân	14	40	6	5	96	76	109	59	35	0	0	0	0	1					
+231	Võ Thần Điện Thủ Hộ	Sái Thi Đan	15	41	6	5	96	77	102	59	36	0	0	0	0	1					
+232	Võ Thần Điện Thủ Hộ	Long Bác Hãn	16	41	6	5	96	78	103	59	36	0	0	0	0	1					
+233	Võ Thần Điện Thủ Hộ	Y Phỏng Cầm	17	41	6	5	96	79	104	59	36	0	0	0	0	1					
+234	Võ Thần Điện Thủ Hộ	Tiêu Hòa Tụng	18	41	6	5	96	80	105	59	36	0	0	0	0	1					
+235	Võ Thần Điện Thủ Hộ	Quách Hòa Dục	1	41	6	5	96	81	106	59	36	0	0	0	0	1					
+236	Võ Thần Điện Thủ Hộ	Giản Hiểu Bác	2	42	6	5	96	82	107	59	37	0	0	0	0	1					
+237	Võ Thần Điện Thủ Hộ	Tống Dương Vũ	3	42	6	5	96	83	108	59	37	0	0	0	0	1					
+238	Võ Thần Điện Thủ Hộ	Mã Linh Phiến	4	42	6	5	96	84	109	59	37	0	0	0	0	1					
+239	Võ Thần Điện Thủ Hộ	Nhạc Mẫn Duệ	5	42	6	5	96	85	102	59	37	0	0	0	0	1					
+240	Võ Thần Điện Thủ Hộ	Từ Linh Tùng	6	42	6	5	96	86	103	59	37	0	0	0	0	1					
+241	Võ Thần Điện Thủ Hộ	Khấu Túy Liễu	7	43	6	5	96	87	104	59	38	0	0	0	0	1					
+242	Võ Thần Điện Thủ Hộ	Tư Mã Minh Hiên	8	43	6	5	96	88	105	59	38	0	0	0	0	1					
+243	Võ Thần Điện Thủ Hộ	Diệp Hàn Tảo	9	43	6	5	96	89	106	59	38	0	0	0	0	1					
+244	Võ Thần Điện Thủ Hộ	Hình Tuấn Triết	10	43	6	5	96	90	107	59	38	0	0	0	0	1					
+245	Võ Thần Điện Thủ Hộ	Lư Khưu Kiên Bạch	11	43	6	5	96	91	108	59	38	0	0	0	0	1					
+246	Võ Thần Điện Thủ Hộ	Bốc Kỳ Thụy	12	44	6	5	96	92	109	59	39	0	0	0	0	1					
+247	Võ Thần Điện Thủ Hộ	Lâm Nhã Kiện	13	44	6	5	96	93	102	59	39	0	0	0	0	1					
+248	Võ Thần Điện Thủ Hộ	Soái Văn Thạch	14	44	6	5	96	94	103	59	39	0	0	0	0	1					
+249	Võ Thần Điện Thủ Hộ	Ô Tiếu Hòe	15	44	6	5	96	95	104	59	39	0	0	0	0	1					
+250	Võ Thần Điện Thủ Hộ	Vũ Vĩ Kỳ	16	44	6	5	96	76	105	59	39	0	0	0	0	1					
+251	Võ Thần Điện Thủ Hộ	Giả Hưng Đằng	17	45	6	6	96	77	106	59	40	0	0	0	0	1					
+252	Võ Thần Điện Thủ Hộ	Kha Diệp Thước	18	45	6	6	96	78	107	59	40	0	0	0	0	1					
+253	Võ Thần Điện Thủ Hộ	Bảo Nhã Đạt	1	45	6	6	96	79	108	59	40	0	0	0	0	1					
+254	Võ Thần Điện Thủ Hộ	Mai Mịch Song	2	45	6	6	96	80	109	59	40	0	0	0	0	1					
+255	Võ Thần Điện Thủ Hộ	Cù Duệ Thức	3	45	6	6	96	81	102	59	40	0	0	0	0	1					
+256	Võ Thần Điện Thủ Hộ	Lỗ Thừa Cơ	4	46	6	6	96	82	103	59	41	0	0	0	0	1					
+257	Võ Thần Điện Thủ Hộ	Kim Bạch An	5	46	6	6	96	83	104	59	41	0	0	0	0	1					
+258	Võ Thần Điện Thủ Hộ	Hạng Hoài Hàn	6	46	6	6	96	84	105	59	41	0	0	0	0	1					
+259	Võ Thần Điện Thủ Hộ	Mộc Chí Học	7	46	6	6	96	85	106	59	41	0	0	0	0	1					
+260	Võ Thần Điện Thủ Hộ	Mộ Thính Phong	8	46	6	6	96	86	107	59	41	0	0	0	0	1					
+261	Võ Thần Điện Thủ Hộ	Đông Môn Bân Úy	9	47	6	6	96	87	108	59	42	0	0	0	0	1					
+262	Võ Thần Điện Thủ Hộ	Bành Nhạn Hạm	10	47	6	6	96	88	109	59	42	0	0	0	0	1					
+263	Võ Thần Điện Thủ Hộ	Hồ Tinh Hán	11	47	6	6	96	89	102	59	42	0	0	0	0	1					
+264	Võ Thần Điện Thủ Hộ	Trì Phán Dịch	12	47	6	6	96	90	103	59	42	0	0	0	0	1					
+265	Võ Thần Điện Thủ Hộ	Tang Bạch Trúc	13	47	6	6	96	91	104	59	42	0	0	0	0	1					
+266	Võ Thần Điện Thủ Hộ	Toàn Ngữ Nhi	14	48	6	6	96	92	105	59	43	0	0	0	0	1					
+267	Võ Thần Điện Thủ Hộ	Đường Hùng Bác	15	48	6	6	96	93	106	59	43	0	0	0	0	1					
+268	Võ Thần Điện Thủ Hộ	Vi Nguyên Dao	16	48	6	6	96	94	107	59	43	0	0	0	0	1					
+269	Võ Thần Điện Thủ Hộ	Hoa Ảo Phong	17	48	6	6	96	95	108	59	43	0	0	0	0	1					
+270	Võ Thần Điện Thủ Hộ	Thành Ngạo Dị	18	48	6	6	96	76	109	59	43	0	0	0	0	1					
+271	Võ Thần Điện Thủ Hộ	Thạch Anh Duệ	1	49	6	6	96	77	102	59	44	0	0	0	0	1					
+272	Võ Thần Điện Thủ Hộ	Tư Hồng Thiệu Quân	2	49	6	6	96	78	103	59	44	0	0	0	0	1					
+273	Võ Thần Điện Thủ Hộ	Chu Tư Diểu	3	49	6	6	96	79	104	59	44	0	0	0	0	1					
+274	Võ Thần Điện Thủ Hộ	Vũ Văn Ức Nam	4	49	6	6	96	80	105	59	44	0	0	0	0	1					
+275	Võ Thần Điện Thủ Hộ	Tư Ngưng Liên	5	49	6	6	96	81	106	59	44	0	0	0	0	1					
+276	Võ Thần Điện Thủ Hộ	Mạnh Dĩ Đằng	6	50	7	6	96	82	107	59	45	0	0	0	0	1					
+277	Võ Thần Điện Thủ Hộ	Ung Dị Hoè	7	50	7	6	96	83	108	59	45	0	0	0	0	1					
+278	Võ Thần Điện Thủ Hộ	Thích Kiên Thành	8	50	7	6	96	84	109	59	45	0	0	0	0	1					
+279	Võ Thần Điện Thủ Hộ	Mưu Mộ Nhạn	9	50	7	6	96	85	102	59	45	0	0	0	0	1					
+280	Võ Thần Điện Thủ Hộ	Cảnh Dũng Nam	10	50	7	6	96	86	103	59	45	0	0	0	0	1					
+281	Võ Thần Điện Thủ Hộ	Du Tu Quân	11	51	7	6	96	87	104	59	46	0	0	0	0	1					
+282	Võ Thần Điện Thủ Hộ	Uất Trì Tích Phiến	12	51	7	6	96	88	105	59	46	0	0	0	0	1					
+283	Võ Thần Điện Thủ Hộ	Mã Tâm Viễn	13	51	7	6	96	89	106	59	46	0	0	0	0	1					
+284	Võ Thần Điện Thủ Hộ	Diêm Thiên Kiêu	14	51	7	6	96	90	107	59	46	0	0	0	0	1					
+285	Võ Thần Điện Thủ Hộ	Soái Thư Liễu	15	51	7	6	96	91	108	59	46	0	0	0	0	1					
+286	Võ Thần Điện Thủ Hộ	Mạch Bành Bành	16	52	7	6	96	92	109	59	47	0	0	0	0	1					
+287	Võ Thần Điện Thủ Hộ	Kết nối với 	17	52	7	6	96	93	102	59	47	0	0	0	0	1					
+288	Võ Thần Điện Thủ Hộ	Tư Không Hồng Thâm	18	52	7	6	96	94	103	59	47	0	0	0	0	1					
+289	Võ Thần Điện Thủ Hộ	Dị Ký Dao	1	52	7	6	96	95	104	59	47	0	0	0	0	1					
+290	Võ Thần Điện Thủ Hộ	Miêu Bạch Hủy	2	52	7	6	96	76	105	59	47	0	0	0	0	1					
+291	Võ Thần Điện Thủ Hộ	Thời Tuấn Kiệt	3	53	7	6	96	77	106	59	48	0	0	0	0	1					
+292	Võ Thần Điện Thủ Hộ	Quảng Phi Thư	4	53	7	6	96	78	107	59	48	0	0	0	0	1					
+293	Võ Thần Điện Thủ Hộ	Khấu Hoa Hàn	5	53	7	6	96	79	108	59	48	0	0	0	0	1					
+294	Võ Thần Điện Thủ Hộ	Thuần Vu Lãnh Sương	6	53	7	6	96	80	109	59	48	0	0	0	0	1					
+295	Võ Thần Điện Thủ Hộ	Nhậm Ký Linh	7	53	7	6	96	81	102	59	48	0	0	0	0	1					
+296	Võ Thần Điện Thủ Hộ	Hà Tự Di	8	54	7	6	96	79	108	59	49	0	0	0	0	1					
+297	Võ Thần Điện Thủ Hộ	Gia Phàm Chi	9	54	7	6	96	80	109	59	49	0	0	0	0	1					
+298	Võ Thần Điện Thủ Hộ	Tùy Diệc Du	10	54	7	6	96	81	102	59	49	0	0	0	0	1					
+299	Võ Thần Điện Thủ Hộ	Quản Sơ Dao	11	54	7	6	96	79	108	59	49	0	0	0	0	1					
+300	Võ Thần Điện Thủ Hộ	Tiêu Hạo Bác	12	54	7	6	96	80	109	59	49	0	0	0	0	1					
+301	Võ Thần Điện Thủ Hộ	Tìm	13	55	7	7	96	81	102	59	50	0	0	0	0	1					
+302	Võ Thần Điện Thủ Hộ	Tây Môn Linh An	14	55	7	7	96	79	108	59	50	0	0	0	0	1					
+303	Võ Thần Điện Thủ Hộ	Bốc Hải Đông	15	55	7	7	96	80	109	59	50	0	0	0	0	1					
+304	Võ Thần Điện Thủ Hộ	Uất Trì Lương Hàn	16	55	7	7	96	81	102	59	50	0	0	0	0	1					
+305	Võ Thần Điện Thủ Hộ	Vinh Hạ Chân	17	55	7	7	96	81	102	59	50	0	0	0	0	1					
+306	Võ Thần Điện Thủ Hộ	Đơn Vu Lạc Phàm	18	56	7	7	96	87	104	59	51	0	0	0	0	1					
+307	Võ Thần Điện Thủ Hộ	Lang Bán An	1	56	7	7	96	88	105	59	51	0	0	0	0	1					
+308	Võ Thần Điện Thủ Hộ	Phan Trạch Ngữ	2	56	7	7	96	89	106	59	51	0	0	0	0	1					
+309	Võ Thần Điện Thủ Hộ	Đơn Vu Nguyên Tư	3	56	7	7	96	90	107	59	51	0	0	0	0	1					
+310	Võ Thần Điện Thủ Hộ	Minh Khiếu Phú	4	56	7	7	96	91	108	59	51	0	0	0	0	1					
+311	Võ Thần Điện Thủ Hộ	Ngao Tử Mặc	5	57	7	7	96	92	109	59	52	0	0	0	0	1					
+312	Võ Thần Điện Thủ Hộ	Doãn Cô Lăng	6	57	7	7	96	93	102	59	52	0	0	0	0	1					
+313	Võ Thần Điện Thủ Hộ	Cốc Khiếu Thao	7	57	7	7	96	94	103	59	52	0	0	0	0	1					
+314	Võ Thần Điện Thủ Hộ	Vu Mặc Tuyên	8	57	7	7	96	95	104	59	52	0	0	0	0	1					
+315	Võ Thần Điện Thủ Hộ	Hồ Đại Linh	9	57	7	7	96	76	105	59	52	0	0	0	0	1					
+316	Võ Thần Điện Thủ Hộ	Miêu Thanh Hàn	10	58	7	7	96	77	106	59	53	0	0	0	0	1					
+317	Võ Thần Điện Thủ Hộ	Lăng Tu Vi	11	58	7	7	96	78	107	59	53	0	0	0	0	1					
+318	Võ Thần Điện Thủ Hộ	Thuần Vu Ức Phong	12	58	7	7	96	79	108	59	53	0	0	0	0	1					
+319	Võ Thần Điện Thủ Hộ	Khói Trì Hoãn	13	58	7	7	96	80	109	59	53	0	0	0	0	1					
+320	Võ Thần Điện Thủ Hộ	Phòng Hưng Đằng	14	58	7	7	96	81	102	59	53	0	0	0	0	1					
+321	Võ Thần Điện Thủ Hộ	Hình Tích Hàn	15	59	7	7	96	82	103	59	54	0	0	0	0	1					
+322	Võ Thần Điện Thủ Hộ	Trịnh Dạ Dục	16	59	7	7	96	83	104	59	54	0	0	0	0	1					
+323	Võ Thần Điện Thủ Hộ	Mễ Hòa Hiệp	17	59	7	7	96	84	105	59	54	0	0	0	0	1					
+324	Võ Thần Điện Thủ Hộ	Thương Tư Ngự	18	59	7	7	96	85	106	59	54	0	0	0	0	1					
+325	Võ Thần Điện Thủ Hộ	Đào An Ba	1	59	7	7	96	86	107	59	54	0	0	0	0	1					
+326	Võ Thần Điện Thủ Hộ	Quế Đạt An	2	60	8	7	96	87	108	59	55	0	0	0	0	1					
+327	Võ Thần Điện Thủ Hộ	Du Tu Văn	3	60	8	7	96	88	109	59	55	0	0	0	0	1					
+328	Võ Thần Điện Thủ Hộ	Liêu Hoằng Thâm	4	60	8	7	96	89	102	59	55	0	0	0	0	1					
+329	Võ Thần Điện Thủ Hộ	Lê Cảnh Diệu	5	60	8	7	96	90	103	59	55	0	0	0	0	1					
+330	Võ Thần Điện Thủ Hộ	Dụ Thiên Canh	6	60	8	7	96	91	104	59	55	0	0	0	0	1					
+331	Võ Thần Điện Thủ Hộ	Sư Ân Yên	7	61	8	7	96	92	105	59	56	0	0	0	0	1					
+332	Võ Thần Điện Thủ Hộ	Uyển Diệp Hách	8	61	8	7	96	93	106	59	56	0	0	0	0	1					
+333	Võ Thần Điện Thủ Hộ	Mã Phong Đức	9	61	8	7	96	94	107	59	56	0	0	0	0	1					
+334	Võ Thần Điện Thủ Hộ	Tuân Vũ Ấm	10	61	8	7	96	95	108	59	56	0	0	0	0	1					
+335	Võ Thần Điện Thủ Hộ	Vu Thành Lễ	11	61	8	7	96	76	109	59	56	0	0	0	0	1					
+336	Võ Thần Điện Thủ Hộ	Địch Kỳ Thúy	12	62	8	7	96	77	102	59	57	0	0	0	0	1					
+337	Võ Thần Điện Thủ Hộ	Trịnh Đại Linh	13	62	8	7	96	78	103	59	57	0	0	0	0	1					
+338	Võ Thần Điện Thủ Hộ	Lăng Dương Sóc	14	62	8	7	96	79	104	59	57	0	0	0	0	1					
+339	Võ Thần Điện Thủ Hộ	Lưu Quân Hạo	15	62	8	7	96	80	105	59	57	0	0	0	0	1					
+340	Võ Thần Điện Thủ Hộ	Phiền Bạch Phàm	16	62	8	7	96	81	106	59	57	0	0	0	0	1					
+341	Võ Thần Điện Thủ Hộ	Tôn Minh Húc	17	63	8	7	96	82	107	59	58	0	0	0	0	1					
+342	Võ Thần Điện Thủ Hộ	Bàng Tòng Ngưng	18	63	8	7	96	83	108	59	58	0	0	0	0	1					
+343	Võ Thần Điện Thủ Hộ	Khổng Chính Nghị	1	63	8	7	96	84	109	59	58	0	0	0	0	1					
+344	Võ Thần Điện Thủ Hộ	Cù Vĩnh Khang	2	63	8	7	96	85	102	59	58	0	0	0	0	1					
+345	Võ Thần Điện Thủ Hộ	Ông Kỳ Lược	3	63	8	7	96	86	103	59	58	0	0	0	0	1					
+346	Võ Thần Điện Thủ Hộ	Nguyên Liên Đằng	4	64	8	7	96	87	104	59	59	0	0	0	0	1					
+347	Võ Thần Điện Thủ Hộ	Lặc Bằng Hưng	5	64	8	7	96	88	105	59	59	0	0	0	0	1					
+348	Võ Thần Điện Thủ Hộ	Từ Hàn Tảo	6	64	8	7	96	89	106	59	59	0	0	0	0	1					
+349	Võ Thần Điện Thủ Hộ	Công Dã Hạ Thu	7	64	8	7	96	90	107	59	59	0	0	0	0	1					
+350	Võ Thần Điện Thủ Hộ	Khổng Hựu Liên	8	64	8	7	96	91	108	59	59	0	0	0	0	1					
+351	Võ Thần Điện Thủ Hộ	Mâu Mặc Dao	9	65	8	8	96	92	109	59	60	0	0	0	0	1					
+352	Võ Thần Điện Thủ Hộ	Mưu Dị Văn	10	65	8	8	96	93	102	59	60	0	0	0	0	1					
+353	Võ Thần Điện Thủ Hộ	Quách Hãn Nguyệt	11	65	8	8	96	94	103	59	60	0	0	0	0	1					
+354	Võ Thần Điện Thủ Hộ	Cữu An Nhiên	12	65	8	8	96	95	104	59	60	0	0	0	0	1					
+355	Võ Thần Điện Thủ Hộ	Ngân Vũ Văn	13	65	8	8	96	76	105	59	60	0	0	0	0	1					
+356	Võ Thần Điện Thủ Hộ	Mẫn Đan Khiếu	14	66	8	8	96	77	106	59	61	0	0	0	0	1					
+357	Võ Thần Điện Thủ Hộ	Lê Anh Ngạn	15	66	8	8	96	78	107	59	61	0	0	0	0	1					
+358	Võ Thần Điện Thủ Hộ	Hình Niệm Thao	16	66	8	8	96	79	108	59	61	0	0	0	0	1					
+359	Võ Thần Điện Thủ Hộ	Cung Tinh Kiếm	17	66	8	8	96	80	109	59	61	0	0	0	0	1					
+360	Võ Thần Điện Thủ Hộ	Thuần Vu Văn Xương	18	66	8	8	96	81	102	59	61	0	0	0	0	1					
+361	Võ Thần Điện Thủ Hộ	Gia Hòa An	1	67	8	8	96	82	103	59	62	0	0	0	0	1					
+362	Võ Thần Điện Thủ Hộ	Cảnh Bình Đoan	2	67	8	8	96	83	104	59	62	0	0	0	0	1					
+363	Võ Thần Điện Thủ Hộ	Lăng Gia Chí	3	67	8	8	96	84	105	59	62	0	0	0	0	1					
+364	Võ Thần Điện Thủ Hộ	Địch Nhĩ Liễu	4	67	8	8	96	85	106	59	62	0	0	0	0	1					
+365	Võ Thần Điện Thủ Hộ	Tuân Bán Song	5	67	8	8	96	86	107	59	62	0	0	0	0	1					
+366	Võ Thần Điện Thủ Hộ	Lý Vũ Chính	6	68	8	8	96	87	108	59	63	0	0	0	0	1					
+367	Võ Thần Điện Thủ Hộ	Đằng Nguy Ngang	7	68	8	8	96	88	109	59	63	0	0	0	0	1					
+368	Võ Thần Điện Thủ Hộ	Văn Chí Minh	8	68	8	8	96	89	102	59	63	0	0	0	0	1					
+369	Võ Thần Điện Thủ Hộ	Hầu Tiếu Nam	9	68	8	8	96	90	103	59	63	0	0	0	0	1					
+370	Võ Thần Điện Thủ Hộ	Đông Quách An Tường	10	68	8	8	96	91	104	59	63	0	0	0	0	1					
+371	Võ Thần Điện Thủ Hộ	Sử Hoài Liên	11	69	8	8	96	92	105	59	64	0	0	0	0	1					
+372	Võ Thần Điện Thủ Hộ	Liêm Bác Siêu	12	69	8	8	96	93	106	59	64	0	0	0	0	1					
+373	Võ Thần Điện Thủ Hộ	Biện Phong Bật	13	69	8	8	96	94	107	59	64	0	0	0	0	1					
+374	Võ Thần Điện Thủ Hộ	Tần Đại Phàm	14	69	8	8	96	95	108	59	64	0	0	0	0	1					
+375	Võ Thần Điện Thủ Hộ	Liêm Linh Phiến	15	69	8	8	96	76	109	59	64	0	0	0	0	1					
+376	Võ Thần Điện Thủ Hộ	Đường Lãnh Chính	16	70	9	8	96	77	102	59	65	0	0	0	0	1					
+377	Võ Thần Điện Thủ Hộ	Hoa Hạo Đại	17	70	9	8	96	78	103	59	65	0	0	0	0	1					
+378	Võ Thần Điện Thủ Hộ	Tiết Bái Cần	18	70	9	8	96	79	104	59	65	0	0	0	0	1					
+379	Võ Thần Điện Thủ Hộ	Đơn Phỏng Phong	1	70	9	8	96	80	105	59	65	0	0	0	0	1					
+380	Võ Thần Điện Thủ Hộ	Phí Hoa Áo	2	70	9	8	96	81	106	59	65	0	0	0	0	1					
+381	Võ Thần Điện Thủ Hộ	Hàn Hướng Hoè	3	71	9	8	96	82	107	59	66	0	0	0	0	1					
+382	Võ Thần Điện Thủ Hộ	Vu Minh Trí	4	71	9	8	96	83	108	59	66	0	0	0	0	1					
+383	Võ Thần Điện Thủ Hộ	Phí Quang Dự	5	71	9	8	96	84	109	59	66	0	0	0	0	1					
+384	Võ Thần Điện Thủ Hộ	Ân Thu Tiếu	6	71	9	8	96	85	102	59	66	0	0	0	0	1					
+385	Võ Thần Điện Thủ Hộ	Mộ Dung Dị Dung	7	71	9	8	96	86	103	59	66	0	0	0	0	1					
+386	Võ Thần Điện Thủ Hộ	Ô Anh Tư	8	72	9	8	96	87	104	59	67	0	0	0	0	1					
+387	Võ Thần Điện Thủ Hộ	Nghiêm Đoan Khiếu	9	72	9	8	96	88	105	59	67	0	0	0	0	1					
+388	Võ Thần Điện Thủ Hộ	Hoàng Thiên Công	10	72	9	8	96	89	106	59	67	0	0	0	0	1					
+389	Võ Thần Điện Thủ Hộ	Giản Mặc Trúc	11	72	9	8	96	90	107	59	67	0	0	0	0	1					
+390	Võ Thần Điện Thủ Hộ	Bùi Đạt Hàn	12	72	9	8	96	91	108	59	67	0	0	0	0	1					
+391	Võ Thần Điện Thủ Hộ	Tư Mã Nguyên Thanh	13	73	9	8	96	92	109	59	68	0	0	0	0	1					
+392	Võ Thần Điện Thủ Hộ	Lâm Thủy Hà	14	73	9	8	96	93	102	59	68	0	0	0	0	1					
+393	Võ Thần Điện Thủ Hộ	Giang Nguyên Cơ	15	73	9	8	96	94	103	59	68	0	0	0	0	1					
+394	Võ Thần Điện Thủ Hộ	Đới Lãnh Tuyết	16	73	9	8	96	95	104	59	68	0	0	0	0	1					
+395	Võ Thần Điện Thủ Hộ	Vu Tuyết Thu	17	73	9	8	96	76	105	59	68	0	0	0	0	1					
+396	Võ Thần Điện Thủ Hộ	Nhạc Minh Triết	18	74	9	8	96	77	106	59	69	0	0	0	0	1					
+397	Võ Thần Điện Thủ Hộ	Hình Thủy Nhi	1	74	9	8	96	78	107	59	69	0	0	0	0	1					
+398	Võ Thần Điện Thủ Hộ	Triệu Sơn Phú	2	74	9	8	96	79	108	59	69	0	0	0	0	1					
+399	Võ Thần Điện Thủ Hộ	Dụ Lạc Du	3	74	9	8	96	80	109	59	69	0	0	0	0	1					
+400	Võ Thần Điện Thủ Hộ	Lữ Tử Trạc	4	74	9	8	96	81	102	59	69	0	0	0	0	1					
+401	Võ Thần Điện Thủ Hộ	Quan Thư Cầm	5	75	9	9	96	81	102	59	70	0	0	0	0	1					
+402	Võ Thần Điện Thủ Hộ	Cung Chí Thành	6	75	9	9	96	81	102	59	70	0	0	0	0	1					
+403	Võ Thần Điện Thủ Hộ	Tả Khâu Hàn Lâm	7	75	9	9	96	81	102	59	70	0	0	0	0	1					
+404	Võ Thần Điện Thủ Hộ	Trọng Tôn Hoằng Viễn	8	75	9	9	96	81	102	59	70	0	0	0	0	1					
+405	Võ Thần Điện Thủ Hộ	Chương Ức Đạt	9	75	9	9	96	81	102	59	70	0	0	0	0	1					
+406	Võ Thần Điện Thủ Hộ	Độc Cô Tuấn Dự	10	76	9	9	96	81	102	59	71	0	0	0	0	1					
+407	Võ Thần Điện Thủ Hộ	Nghiêm Nhuệ Tinh	11	76	9	9	96	81	102	59	71	0	0	0	0	1					
+408	Võ Thần Điện Thủ Hộ	Loan Mịch Vân	12	76	9	9	96	81	102	59	71	0	0	0	0	1					
+409	Võ Thần Điện Thủ Hộ	Tư Mã Diệc Toàn	13	76	9	9	96	81	102	59	71	0	0	0	0	1					
+410	Võ Thần Điện Thủ Hộ	Đoạn Ức Tuyết	14	76	9	9	96	81	102	59	71	0	0	0	0	1					
+411	Võ Thần Điện Thủ Hộ	Mục Mặc Dung	15	77	9	9	96	81	102	59	72	0	0	0	0	1					
+412	Võ Thần Điện Thủ Hộ	Thẩm Tinh Hỏa	16	77	9	9	96	81	102	59	72	0	0	0	0	1					
+413	Võ Thần Điện Thủ Hộ	Lệnh Hồ Tư Phong	17	77	9	9	96	81	102	59	72	0	0	0	0	1					
+414	Võ Thần Điện Thủ Hộ	Mộ Hàn Tùng	18	77	9	9	96	81	102	59	72	0	0	0	0	1					
+415	Võ Thần Điện Thủ Hộ	Hạ Hòa Quang	1	77	9	9	96	81	102	59	72	0	0	0	0	1					
+416	Võ Thần Điện Thủ Hộ	Mục Hồng Hi	2	78	9	9	96	81	102	59	73	0	0	0	0	1					
+417	Võ Thần Điện Thủ Hộ	Tô Hoằng Văn	3	78	9	9	96	81	102	59	73	0	0	0	0	1					
+418	Võ Thần Điện Thủ Hộ	Ung Gia Tứ	4	78	9	9	96	81	102	59	73	0	0	0	0	1					
+419	Võ Thần Điện Thủ Hộ	Ngũ Hưng Nghiệp	5	78	9	9	96	81	102	59	73	0	0	0	0	1					
+420	Võ Thần Điện Thủ Hộ	Hình Nghi Nhân	6	78	9	9	96	81	102	59	73	0	0	0	0	1					
+421	Võ Thần Điện Thủ Hộ	Khương Gia Thụ	7	79	9	9	96	81	102	59	74	0	0	0	0	1					
+422	Võ Thần Điện Thủ Hộ	Đông Môn Tư Tuyên	8	79	9	9	96	81	102	59	74	0	0	0	0	1					
+423	Võ Thần Điện Thủ Hộ	Tần Nhạn Lục	9	79	9	9	96	81	102	59	74	0	0	0	0	1					
+424	Võ Thần Điện Thủ Hộ	Xa Ánh Chân	10	79	9	9	96	81	102	59	74	0	0	0	0	1					
+425	Võ Thần Điện Thủ Hộ	La Tài Lương	11	79	9	9	96	81	102	59	74	0	0	0	0	1					
+426	Võ Thần Điện Thủ Hộ	Hùng Mặc Vân	12	80	10	9	96	81	102	59	75	0	0	0	0	1					
+427	Võ Thần Điện Thủ Hộ	Diêm Tuyết Dung	13	80	10	9	96	81	102	59	75	0	0	0	0	1					
+428	Võ Thần Điện Thủ Hộ	Hạng Kỳ Thắng	14	80	10	9	96	81	102	59	75	0	0	0	0	1					
+429	Võ Thần Điện Thủ Hộ	Tư Hồng Thu Phiến	15	80	10	9	96	81	102	59	75	0	0	0	0	1					
+430	Võ Thần Điện Thủ Hộ	Nghiêm Dĩ Quân	16	80	10	9	96	81	102	59	75	0	0	0	0	1					
+431	Võ Thần Điện Thủ Hộ	Sái Thi Đan	17	81	10	9	96	81	102	59	76	0	0	0	0	1					
+432	Võ Thần Điện Thủ Hộ	Long Bác Hãn	18	81	10	9	96	81	102	59	76	0	0	0	0	1					
+433	Võ Thần Điện Thủ Hộ	Y Phỏng Cầm	1	81	10	9	96	81	102	59	76	0	0	0	0	1					
+434	Võ Thần Điện Thủ Hộ	Tiêu Hòa Tụng	2	81	10	9	96	81	102	59	76	0	0	0	0	1					
+435	Võ Thần Điện Thủ Hộ	Quách Hòa Dục	3	81	10	9	96	81	102	59	76	0	0	0	0	1					
+436	Võ Thần Điện Thủ Hộ	Giản Hiểu Bác	4	82	10	9	96	81	102	59	77	0	0	0	0	1					
+437	Võ Thần Điện Thủ Hộ	Tống Dương Vũ	5	82	10	9	96	81	102	59	77	0	0	0	0	1					
+438	Võ Thần Điện Thủ Hộ	Mã Linh Phiến	6	82	10	9	96	81	102	59	77	0	0	0	0	1					
+439	Võ Thần Điện Thủ Hộ	Nhạc Mẫn Duệ	7	82	10	9	96	81	102	59	77	0	0	0	0	1					
+440	Võ Thần Điện Thủ Hộ	Từ Linh Tùng	8	82	10	9	96	81	102	59	77	0	0	0	0	1					
+441	Võ Thần Điện Thủ Hộ	Khấu Túy Liễu	9	83	10	9	96	81	102	59	78	0	0	0	0	1					
+442	Võ Thần Điện Thủ Hộ	Tư Mã Minh Hiên	10	83	10	9	96	81	102	59	78	0	0	0	0	1					
+443	Võ Thần Điện Thủ Hộ	Diệp Hàn Tảo	11	83	10	9	96	81	102	59	78	0	0	0	0	1					
+444	Võ Thần Điện Thủ Hộ	Hình Tuấn Triết	12	83	10	9	96	81	102	59	78	0	0	0	0	1					
+445	Võ Thần Điện Thủ Hộ	Lư Khưu Kiên Bạch	13	83	10	9	96	81	102	59	78	0	0	0	0	1					
+446	Võ Thần Điện Thủ Hộ	Bốc Kỳ Thụy	14	84	10	9	96	81	102	59	79	0	0	0	0	1					
+447	Võ Thần Điện Thủ Hộ	Lâm Nhã Kiện	15	84	10	9	96	81	102	59	79	0	0	0	0	1					
+448	Võ Thần Điện Thủ Hộ	Soái Văn Thạch	16	84	10	9	96	81	102	59	79	0	0	0	0	1					
+449	Võ Thần Điện Thủ Hộ	Ô Tiếu Hòe	17	84	10	9	96	81	102	59	79	0	0	0	0	1					
+450	Võ Thần Điện Thủ Hộ	Vũ Vĩ Kỳ	18	84	10	9	96	81	102	59	79	0	0	0	0	1					
+451	Võ Thần Điện Thủ Hộ	Giả Hưng Đằng	1	85	10	10	96	81	102	59	80	0	0	0	0	1					
+452	Võ Thần Điện Thủ Hộ	Kha Diệp Thước	2	85	10	10	96	81	102	59	80	0	0	0	0	1					
+453	Võ Thần Điện Thủ Hộ	Bảo Nhã Đạt	3	85	10	10	96	81	102	59	80	0	0	0	0	1					
+454	Võ Thần Điện Thủ Hộ	Mai Mịch Song	4	85	10	10	96	81	102	59	80	0	0	0	0	1					
+455	Võ Thần Điện Thủ Hộ	Cù Duệ Thức	5	85	10	10	96	81	102	59	80	0	0	0	0	1					
+456	Võ Thần Điện Thủ Hộ	Lỗ Thừa Cơ	6	86	10	10	96	81	102	59	81	0	0	0	0	1					
+457	Võ Thần Điện Thủ Hộ	Kim Bạch An	7	86	10	10	96	81	102	59	81	0	0	0	0	1					
+458	Võ Thần Điện Thủ Hộ	Hạng Hoài Hàn	8	86	10	10	96	81	102	59	81	0	0	0	0	1					
+459	Võ Thần Điện Thủ Hộ	Mộc Chí Học	9	86	10	10	96	81	102	59	81	0	0	0	0	1					
+460	Võ Thần Điện Thủ Hộ	Mộ Thính Phong	10	86	10	10	96	81	102	59	81	0	0	0	0	1					
+461	Võ Thần Điện Thủ Hộ	Đông Môn Bân Úy	11	87	10	10	96	81	102	59	82	0	0	0	0	1					
+462	Võ Thần Điện Thủ Hộ	Bành Nhạn Hạm	12	87	10	10	96	81	102	59	82	0	0	0	0	1					
+463	Võ Thần Điện Thủ Hộ	Hồ Tinh Hán	13	87	10	10	96	81	102	59	82	0	0	0	0	1					
+464	Võ Thần Điện Thủ Hộ	Trì Phán Dịch	14	87	10	10	96	81	102	59	82	0	0	0	0	1					
+465	Võ Thần Điện Thủ Hộ	Tang Bạch Trúc	15	87	10	10	96	81	102	59	82	0	0	0	0	1					
+466	Võ Thần Điện Thủ Hộ	Toàn Ngữ Nhi	16	88	10	10	96	81	102	59	83	0	0	0	0	1					
+467	Võ Thần Điện Thủ Hộ	Đường Hùng Bác	17	88	10	10	96	81	102	59	83	0	0	0	0	1					
+468	Võ Thần Điện Thủ Hộ	Vi Nguyên Dao	18	88	10	10	96	81	102	59	83	0	0	0	0	1					
+469	Võ Thần Điện Thủ Hộ	Hoa Ảo Phong	1	88	10	10	96	81	102	59	83	0	0	0	0	1					
+470	Võ Thần Điện Thủ Hộ	Thành Ngạo Dị	2	88	10	10	96	81	102	59	83	0	0	0	0	1					
+471	Võ Thần Điện Thủ Hộ	Thạch Anh Duệ	3	89	10	10	96	81	102	59	84	0	0	0	0	1					
+472	Võ Thần Điện Thủ Hộ	Tư Hồng Thiệu Quân	4	89	10	10	96	81	102	59	84	0	0	0	0	1					
+473	Võ Thần Điện Thủ Hộ	Chu Tư Diểu	5	89	10	10	96	81	102	59	84	0	0	0	0	1					
+474	Võ Thần Điện Thủ Hộ	Vũ Văn Ức Nam	6	89	10	10	96	81	102	59	84	0	0	0	0	1					
+475	Võ Thần Điện Thủ Hộ	Tư Ngưng Liên	7	89	10	10	96	81	102	59	84	0	0	0	0	1					
+476	Võ Thần Điện Thủ Hộ	Mạnh Dĩ Đằng	8	90	11	10	96	81	102	59	85	0	0	0	0	1					
+477	Võ Thần Điện Thủ Hộ	Ung Dị Hoè	9	90	11	10	96	81	102	59	85	0	0	0	0	1					
+478	Võ Thần Điện Thủ Hộ	Thích Kiên Thành	10	90	11	10	96	81	102	59	85	0	0	0	0	1					
+479	Võ Thần Điện Thủ Hộ	Mưu Mộ Nhạn	11	90	11	10	96	81	102	59	85	0	0	0	0	1					
+480	Võ Thần Điện Thủ Hộ	Cảnh Dũng Nam	12	90	11	10	96	81	102	59	85	0	0	0	0	1					
+481	Võ Thần Điện Thủ Hộ	Du Tu Quân	13	91	11	10	96	81	102	59	86	0	0	0	0	1					
+482	Võ Thần Điện Thủ Hộ	Uất Trì Tích Phiến	14	91	11	10	96	81	102	59	86	0	0	0	0	1					
+483	Võ Thần Điện Thủ Hộ	Mã Tâm Viễn	15	91	11	10	96	81	102	59	86	0	0	0	0	1					
+484	Võ Thần Điện Thủ Hộ	Diêm Thiên Kiêu	16	91	11	10	96	81	102	59	86	0	0	0	0	1					
+485	Võ Thần Điện Thủ Hộ	Soái Thư Liễu	17	91	11	10	96	81	102	59	86	0	0	0	0	1					
+486	Võ Thần Điện Thủ Hộ	Mạch Bành Bành	18	92	11	10	96	81	102	59	87	0	0	0	0	1					
+487	Võ Thần Điện Thủ Hộ	Kết nối với 	1	92	11	10	96	81	102	59	87	0	0	0	0	1					
+488	Võ Thần Điện Thủ Hộ	Tư Không Hồng Thâm	2	92	11	10	96	81	102	59	87	0	0	0	0	1					
+489	Võ Thần Điện Thủ Hộ	Dị Ký Dao	3	92	11	10	96	81	102	59	87	0	0	0	0	1					
+490	Võ Thần Điện Thủ Hộ	Miêu Bạch Hủy	4	92	11	10	96	81	102	59	87	0	0	0	0	1					
+491	Võ Thần Điện Thủ Hộ	Thời Tuấn Kiệt	5	93	11	10	96	81	102	59	88	0	0	0	0	1					
+492	Võ Thần Điện Thủ Hộ	Quảng Phi Thư	6	93	11	10	96	81	102	59	88	0	0	0	0	1					
+493	Võ Thần Điện Thủ Hộ	Khấu Hoa Hàn	7	93	11	10	96	81	102	59	88	0	0	0	0	1					
+494	Võ Thần Điện Thủ Hộ	Thuần Vu Lãnh Sương	8	93	11	10	96	81	102	59	88	0	0	0	0	1					
+495	Võ Thần Điện Thủ Hộ	Nhậm Ký Linh	9	93	11	10	96	81	102	59	88	0	0	0	0	1					
+496	Võ Thần Điện Thủ Hộ	Hà Tự Di	10	94	11	10	96	81	102	59	89	0	0	0	0	1					
+497	Võ Thần Điện Thủ Hộ	Gia Phàm Chi	11	94	11	10	96	81	102	59	89	0	0	0	0	1					
+498	Võ Thần Điện Thủ Hộ	Tùy Diệc Du	12	94	11	10	96	81	102	59	89	0	0	0	0	1					
+499	Võ Thần Điện Thủ Hộ	Quản Sơ Dao	13	94	11	10	96	81	102	59	89	0	0	0	0	1					
+500	Võ Thần Điện Thủ Hộ	Tiêu Hạo Bác	14	94	11	10	96	81	102	59	89	0	0	0	0	1					
+501	Võ Thần Điện Thủ Hộ	Tìm	15	95	11	11	96	81	102	59	90	0	0	0	0	1					
+502	Võ Thần Điện Thủ Hộ	Tây Môn Linh An	16	95	11	11	96	81	102	59	90	0	0	0	0	1					
+503	Võ Thần Điện Thủ Hộ	Bốc Hải Đông	17	95	11	11	96	81	102	59	90	0	0	0	0	1					
+504	Võ Thần Điện Thủ Hộ	Uất Trì Lương Hàn	18	95	11	11	96	81	102	59	90	0	0	0	0	1					
+505	Võ Thần Điện Thủ Hộ	Vinh Hạ Chân	1	95	11	11	96	81	102	59	90	0	0	0	0	1					
+506	Võ Thần Điện Thủ Hộ	Đơn Vu Lạc Phàm	2	96	11	11	96	81	102	59	91	0	0	0	0	1					
+507	Võ Thần Điện Thủ Hộ	Lang Bán An	3	96	11	11	96	81	102	59	91	0	0	0	0	1					
+508	Võ Thần Điện Thủ Hộ	Phan Trạch Ngữ	4	96	11	11	96	81	102	59	91	0	0	0	0	1					
+509	Võ Thần Điện Thủ Hộ	Đơn Vu Nguyên Tư	5	96	11	11	96	81	102	59	91	0	0	0	0	1					
+510	Võ Thần Điện Thủ Hộ	Minh Khiếu Phú	6	96	11	11	96	81	102	59	91	0	0	0	0	1					
+511	Võ Thần Điện Thủ Hộ	Ngao Tử Mặc	7	97	11	11	96	81	102	59	92	0	0	0	0	1					
+512	Võ Thần Điện Thủ Hộ	Doãn Cô Lăng	8	97	11	11	96	81	102	59	92	0	0	0	0	1					
+513	Võ Thần Điện Thủ Hộ	Cốc Khiếu Thao	9	97	11	11	96	81	102	59	92	0	0	0	0	1					
+514	Võ Thần Điện Thủ Hộ	Vu Mặc Tuyên	10	97	11	11	96	81	102	59	92	0	0	0	0	1					
+515	Võ Thần Điện Thủ Hộ	Hồ Đại Linh	11	97	11	11	96	81	102	59	92	0	0	0	0	1					
+516	Võ Thần Điện Thủ Hộ	Miêu Thanh Hàn	12	98	11	11	96	81	102	59	93	0	0	0	0	1					
+517	Võ Thần Điện Thủ Hộ	Lăng Tu Vi	13	98	11	11	96	81	102	59	93	0	0	0	0	1					
+518	Võ Thần Điện Thủ Hộ	Thuần Vu Ức Phong	14	98	11	11	96	81	102	59	93	0	0	0	0	1					
+519	Võ Thần Điện Thủ Hộ	Khói Trì Hoãn	15	98	11	11	96	81	102	59	93	0	0	0	0	1					
+520	Võ Thần Điện Thủ Hộ	Phòng Hưng Đằng	16	98	11	11	96	81	102	59	93	0	0	0	0	1					
+521	Võ Thần Điện Thủ Hộ	Hình Tích Hàn	17	99	11	11	96	81	102	59	94	0	0	0	0	1					
+522	Võ Thần Điện Thủ Hộ	Trịnh Dạ Dục	18	99	11	11	96	81	102	59	94	0	0	0	0	1					
+523	Võ Thần Điện Thủ Hộ	Mễ Hòa Hiệp	1	99	11	11	96	81	102	59	94	0	0	0	0	1					
+524	Võ Thần Điện Thủ Hộ	Thương Tư Ngự	2	99	11	11	96	81	102	59	94	0	0	0	0	1					
+525	Võ Thần Điện Thủ Hộ	Đào An Ba	3	99	11	11	96	81	102	59	94	0	0	0	0	1					
+526	Võ Thần Điện Thủ Hộ	Quế Đạt An	4	100	12	11	96	81	102	59	95	0	0	0	0	1					
+527	Võ Thần Điện Thủ Hộ	Du Tu Văn	5	100	12	11	96	81	102	59	95	0	0	0	0	1					
+528	Võ Thần Điện Thủ Hộ	Liêu Hoằng Thâm	6	100	12	11	96	81	102	59	95	0	0	0	0	1					
+529	Võ Thần Điện Thủ Hộ	Lê Cảnh Diệu	7	100	12	11	96	81	102	59	95	0	0	0	0	1					
+530	Võ Thần Điện Thủ Hộ	Dụ Thiên Canh	8	100	12	11	96	81	102	59	95	0	0	0	0	1					
+531	Võ Thần Điện Thủ Hộ	Sư Ân Yên	9	101	12	11	96	81	102	59	96	0	0	0	0	1					
+532	Võ Thần Điện Thủ Hộ	Uyển Diệp Hách	10	101	12	11	96	81	102	59	96	0	0	0	0	1					
+533	Võ Thần Điện Thủ Hộ	Mã Phong Đức	11	101	12	11	96	81	102	59	96	0	0	0	0	1					
+534	Võ Thần Điện Thủ Hộ	Tuân Vũ Ấm	12	101	12	11	96	81	102	59	96	0	0	0	0	1					
+535	Võ Thần Điện Thủ Hộ	Vu Thành Lễ	13	101	12	11	96	81	102	59	96	0	0	0	0	1					
+536	Võ Thần Điện Thủ Hộ	Địch Kỳ Thúy	14	102	12	11	96	81	102	59	97	0	0	0	0	1					
+537	Võ Thần Điện Thủ Hộ	Trịnh Đại Linh	15	102	12	11	96	81	102	59	97	0	0	0	0	1					
+538	Võ Thần Điện Thủ Hộ	Lăng Dương Sóc	16	102	12	11	96	81	102	59	97	0	0	0	0	1					
+539	Võ Thần Điện Thủ Hộ	Lưu Quân Hạo	17	102	12	11	96	81	102	59	97	0	0	0	0	1					
+540	Võ Thần Điện Thủ Hộ	Phiền Bạch Phàm	18	102	12	11	96	81	102	59	97	0	0	0	0	1					
+541	Võ Thần Điện Thủ Hộ	Tôn Minh Húc	1	103	12	11	96	81	102	59	98	0	0	0	0	1					
+542	Võ Thần Điện Thủ Hộ	Bàng Tòng Ngưng	2	103	12	11	96	81	102	59	98	0	0	0	0	1					
+543	Võ Thần Điện Thủ Hộ	Khổng Chính Nghị	3	103	12	11	96	81	102	59	98	0	0	0	0	1					
+544	Võ Thần Điện Thủ Hộ	Cù Vĩnh Khang	4	103	12	11	96	81	102	59	98	0	0	0	0	1					
+545	Võ Thần Điện Thủ Hộ	Ông Kỳ Lược	5	103	12	11	96	81	102	59	98	0	0	0	0	1					
+546	Võ Thần Điện Thủ Hộ	Nguyên Liên Đằng	6	104	12	11	96	81	102	59	99	0	0	0	0	1					
+547	Võ Thần Điện Thủ Hộ	Lặc Bằng Hưng	7	104	12	11	96	81	102	59	99	0	0	0	0	1					
+548	Võ Thần Điện Thủ Hộ	Từ Hàn Tảo	8	104	12	11	96	81	102	59	99	0	0	0	0	1					
+549	Võ Thần Điện Thủ Hộ	Công Dã Hạ Thu	9	104	12	11	96	81	102	59	99	0	0	0	0	1					
+550	Võ Thần Điện Thủ Hộ	Khổng Hựu Liên	10	104	12	11	96	81	102	59	99	0	0	0	0	1					
+551	Võ Thần Điện Thủ Hộ	Mâu Mặc Dao	11	105	12	12	96	81	102	59	100	0	0	0	0	1					
+552	Võ Thần Điện Thủ Hộ	Mưu Dị Văn	12	105	12	12	96	81	102	59	100	0	0	0	0	1					
+553	Võ Thần Điện Thủ Hộ	Quách Hãn Nguyệt	13	105	12	12	96	81	102	59	100	0	0	0	0	1					
+554	Võ Thần Điện Thủ Hộ	Cữu An Nhiên	14	105	12	12	96	81	102	59	100	0	0	0	0	1					
+555	Võ Thần Điện Thủ Hộ	Ngân Vũ Văn	15	105	12	12	96	81	102	59	100	0	0	0	0	1					
+556	Võ Thần Điện Thủ Hộ	Mẫn Đan Khiếu	16	106	12	12	96	81	102	59	101	0	0	0	0	1					
+557	Võ Thần Điện Thủ Hộ	Lê Anh Ngạn	17	106	12	12	96	81	102	59	101	0	0	0	0	1					
+558	Võ Thần Điện Thủ Hộ	Hình Niệm Thao	18	106	12	12	96	81	102	59	101	0	0	0	0	1					
+559	Võ Thần Điện Thủ Hộ	Cung Tinh Kiếm	1	106	12	12	96	81	102	59	101	0	0	0	0	1					
+560	Võ Thần Điện Thủ Hộ	Thuần Vu Văn Xương	2	106	12	12	96	81	102	59	101	0	0	0	0	1					
+561	Võ Thần Điện Thủ Hộ	Gia Hòa An	3	107	12	12	96	81	102	59	102	0	0	0	0	1					
+562	Võ Thần Điện Thủ Hộ	Cảnh Bình Đoan	4	107	12	12	96	81	102	59	102	0	0	0	0	1					
+563	Võ Thần Điện Thủ Hộ	Lăng Gia Chí	5	107	12	12	96	81	102	59	102	0	0	0	0	1					
+564	Võ Thần Điện Thủ Hộ	Địch Nhĩ Liễu	6	107	12	12	96	81	102	59	102	0	0	0	0	1					
+565	Võ Thần Điện Thủ Hộ	Tuân Bán Song	7	107	12	12	96	81	102	59	102	0	0	0	0	1					
+566	Võ Thần Điện Thủ Hộ	Lý Vũ Chính	8	108	12	12	96	81	102	59	103	0	0	0	0	1					
+567	Võ Thần Điện Thủ Hộ	Đằng Nguy Ngang	9	108	12	12	96	81	102	59	103	0	0	0	0	1					
+568	Võ Thần Điện Thủ Hộ	Văn Chí Minh	10	108	12	12	96	81	102	59	103	0	0	0	0	1					
+569	Võ Thần Điện Thủ Hộ	Hầu Tiếu Nam	11	108	12	12	96	81	102	59	103	0	0	0	0	1					
+570	Võ Thần Điện Thủ Hộ	Đông Quách An Tường	12	108	12	12	96	81	102	59	103	0	0	0	0	1					
+571	Võ Thần Điện Thủ Hộ	Sử Hoài Liên	13	109	12	12	96	81	102	59	104	0	0	0	0	1					
+572	Võ Thần Điện Thủ Hộ	Liêm Bác Siêu	14	109	12	12	96	81	102	59	104	0	0	0	0	1					
+573	Võ Thần Điện Thủ Hộ	Biện Phong Bật	15	109	12	12	96	81	102	59	104	0	0	0	0	1					
+574	Võ Thần Điện Thủ Hộ	Tần Đại Phàm	16	109	12	12	96	81	102	59	104	0	0	0	0	1					
+575	Võ Thần Điện Thủ Hộ	Liêm Linh Phiến	17	109	12	12	96	81	102	59	104	0	0	0	0	1					
+576	Võ Thần Điện Thủ Hộ	Đường Lãnh Chính	18	110	13	12	96	81	102	59	105	0	0	0	0	1					
+577	Võ Thần Điện Thủ Hộ	Hoa Hạo Đại	1	110	13	12	96	81	102	59	105	0	0	0	0	1					
+578	Võ Thần Điện Thủ Hộ	Tiết Bái Cần	2	110	13	12	96	81	102	59	105	0	0	0	0	1					
+579	Võ Thần Điện Thủ Hộ	Đơn Phỏng Phong	3	110	13	12	96	81	102	59	105	0	0	0	0	1					
+580	Võ Thần Điện Thủ Hộ	Phí Hoa Áo	4	110	13	12	96	81	102	59	105	0	0	0	0	1					
+581	Võ Thần Điện Thủ Hộ	Hàn Hướng Hoè	5	111	13	12	96	81	102	59	106	0	0	0	0	1					
+582	Võ Thần Điện Thủ Hộ	Vu Minh Trí	6	111	13	12	96	81	102	59	106	0	0	0	0	1					
+583	Võ Thần Điện Thủ Hộ	Phí Quang Dự	7	111	13	12	96	81	102	59	106	0	0	0	0	1					
+584	Võ Thần Điện Thủ Hộ	Ân Thu Tiếu	8	111	13	12	96	81	102	59	106	0	0	0	0	1					
+585	Võ Thần Điện Thủ Hộ	Mộ Dung Dị Dung	9	111	13	12	96	81	102	59	106	0	0	0	0	1					
+586	Võ Thần Điện Thủ Hộ	Ô Anh Tư	10	112	13	12	96	81	102	59	107	0	0	0	0	1					
+587	Võ Thần Điện Thủ Hộ	Nghiêm Đoan Khiếu	11	112	13	12	96	81	102	59	107	0	0	0	0	1					
+588	Võ Thần Điện Thủ Hộ	Hoàng Thiên Công	12	112	13	12	96	81	102	59	107	0	0	0	0	1					
+589	Võ Thần Điện Thủ Hộ	Giản Mặc Trúc	13	112	13	12	96	81	102	59	107	0	0	0	0	1					
+590	Võ Thần Điện Thủ Hộ	Bùi Đạt Hàn	14	112	13	12	96	81	102	59	107	0	0	0	0	1					
+591	Võ Thần Điện Thủ Hộ	Tư Mã Nguyên Thanh	15	113	13	12	96	81	102	59	108	0	0	0	0	1					
+592	Võ Thần Điện Thủ Hộ	Lâm Thủy Hà	16	113	13	12	96	81	102	59	108	0	0	0	0	1					
+593	Võ Thần Điện Thủ Hộ	Giang Nguyên Cơ	17	113	13	12	96	81	102	59	108	0	0	0	0	1					
+594	Võ Thần Điện Thủ Hộ	Đới Lãnh Tuyết	18	113	13	12	96	81	102	59	108	0	0	0	0	1					
+595	Võ Thần Điện Thủ Hộ	Vu Tuyết Thu	1	113	13	12	96	81	102	59	108	0	0	0	0	1					
+596	Võ Thần Điện Thủ Hộ	Nhạc Minh Triết	2	114	13	12	96	81	102	59	109	0	0	0	0	1					
+597	Võ Thần Điện Thủ Hộ	Hình Thủy Nhi	3	114	13	12	96	81	102	59	109	0	0	0	0	1					
+598	Võ Thần Điện Thủ Hộ	Triệu Sơn Phú	4	114	13	12	96	81	102	59	109	0	0	0	0	1					
+599	Võ Thần Điện Thủ Hộ	Dụ Lạc Du	5	114	13	12	96	81	102	59	109	0	0	0	0	1					
+600	Võ Thần Điện Thủ Hộ	Lữ Tử Trạc	6	114	13	12	96	81	102	59	109	0	0	0	0	1					
+601	Võ Thần Điện Thủ Hộ	Quan Thư Cầm	7	115	13	13	96	81	102	59	110	0	0	0	0	1					
+602	Võ Thần Điện Thủ Hộ	Cung Chí Thành	8	115	13	13	96	81	102	59	110	0	0	0	0	1					
+603	Võ Thần Điện Thủ Hộ	Tả Khâu Hàn Lâm	9	115	13	13	96	81	102	59	110	0	0	0	0	1					
+604	Võ Thần Điện Thủ Hộ	Trọng Tôn Hoằng Viễn	10	115	13	13	96	81	102	59	110	0	0	0	0	1					
+605	Võ Thần Điện Thủ Hộ	Chương Ức Đạt	11	115	13	13	96	81	102	59	110	0	0	0	0	1					
+606	Võ Thần Điện Thủ Hộ	Độc Cô Tuấn Dự	12	116	13	13	96	81	102	59	110	0	0	0	0	1					
+607	Võ Thần Điện Thủ Hộ	Nghiêm Nhuệ Tinh	13	116	13	13	96	81	102	59	110	0	0	0	0	1					
+608	Võ Thần Điện Thủ Hộ	Loan Mịch Vân	14	116	13	13	96	81	102	59	110	0	0	0	0	1					
+609	Võ Thần Điện Thủ Hộ	Tư Mã Diệc Toàn	15	116	13	13	96	81	102	59	110	0	0	0	0	1					
+610	Võ Thần Điện Thủ Hộ	Đoạn Ức Tuyết	16	116	13	13	96	81	102	59	110	0	0	0	0	1					
+611	Võ Thần Điện Thủ Hộ	Mục Mặc Dung	17	117	13	13	96	81	102	59	110	0	0	0	0	1					
+612	Võ Thần Điện Thủ Hộ	Thẩm Tinh Hỏa	18	117	13	13	96	81	102	59	110	0	0	0	0	1					
+613	Võ Thần Điện Thủ Hộ	Lệnh Hồ Tư Phong	1	117	13	13	96	81	102	59	110	0	0	0	0	1					
+614	Võ Thần Điện Thủ Hộ	Mộ Hàn Tùng	2	117	13	13	96	81	102	59	110	0	0	0	0	1					
+615	Võ Thần Điện Thủ Hộ	Hạ Hòa Quang	3	117	13	13	96	81	102	59	110	0	0	0	0	1					
+616	Võ Thần Điện Thủ Hộ	Mục Hồng Hi	4	118	13	13	96	81	102	59	110	0	0	0	0	1					
+617	Võ Thần Điện Thủ Hộ	Tô Hoằng Văn	5	118	13	13	96	81	102	59	110	0	0	0	0	1					
+618	Võ Thần Điện Thủ Hộ	Ung Gia Tứ	6	118	13	13	96	81	102	59	110	0	0	0	0	1					
+619	Võ Thần Điện Thủ Hộ	Ngũ Hưng Nghiệp	7	118	13	13	96	81	102	59	110	0	0	0	0	1					
+620	Võ Thần Điện Thủ Hộ	Hình Nghi Nhân	8	118	13	13	96	81	102	59	110	0	0	0	0	1					
+621	Võ Thần Điện Thủ Hộ	Khương Gia Thụ	9	119	13	13	96	81	102	59	110	0	0	0	0	1					
+622	Võ Thần Điện Thủ Hộ	Đông Môn Tư Tuyên	10	119	13	13	96	81	102	59	110	0	0	0	0	1					
+623	Võ Thần Điện Thủ Hộ	Tần Nhạn Lục	11	119	13	13	96	81	102	59	110	0	0	0	0	1					
+624	Võ Thần Điện Thủ Hộ	Xa Ánh Chân	12	119	13	13	96	81	102	59	110	0	0	0	0	1					
+625	Võ Thần Điện Thủ Hộ	La Tài Lương	13	119	13	13	96	81	102	59	110	0	0	0	0	1					
+626	Võ Thần Điện Thủ Hộ	Hùng Mặc Vân	14	120	14	13	96	81	102	59	110	0	0	0	0	1					
+627	Võ Thần Điện Thủ Hộ	Diêm Tuyết Dung	15	120	14	13	96	81	102	59	110	0	0	0	0	1					
+628	Võ Thần Điện Thủ Hộ	Hạng Kỳ Thắng	16	120	14	13	96	81	102	59	110	0	0	0	0	1					
+629	Võ Thần Điện Thủ Hộ	Tư Hồng Thu Phiến	17	120	14	13	96	81	102	59	110	0	0	0	0	1					
+630	Võ Thần Điện Thủ Hộ	Nghiêm Dĩ Quân	18	120	14	13	96	81	102	59	110	0	0	0	0	1					
+631	Võ Thần Điện Thủ Hộ	Sái Thi Đan	1	121	14	13	96	81	102	59	110	0	0	0	0	1					
+632	Võ Thần Điện Thủ Hộ	Long Bác Hãn	2	121	14	13	96	81	102	59	110	0	0	0	0	1					
+633	Võ Thần Điện Thủ Hộ	Y Phỏng Cầm	3	121	14	13	96	81	102	59	110	0	0	0	0	1					
+634	Võ Thần Điện Thủ Hộ	Tiêu Hòa Tụng	4	121	14	13	96	81	102	59	110	0	0	0	0	1					
+635	Võ Thần Điện Thủ Hộ	Quách Hòa Dục	5	121	14	13	96	81	102	59	110	0	0	0	0	1					
+636	Võ Thần Điện Thủ Hộ	Giản Hiểu Bác	6	122	14	13	96	81	102	59	110	0	0	0	0	1					
+637	Võ Thần Điện Thủ Hộ	Tống Dương Vũ	7	122	14	13	96	81	102	59	110	0	0	0	0	1					
+638	Võ Thần Điện Thủ Hộ	Mã Linh Phiến	8	122	14	13	96	81	102	59	110	0	0	0	0	1					
+639	Võ Thần Điện Thủ Hộ	Nhạc Mẫn Duệ	9	122	14	13	96	81	102	59	110	0	0	0	0	1					
+640	Võ Thần Điện Thủ Hộ	Từ Linh Tùng	10	122	14	13	96	81	102	59	110	0	0	0	0	1					
+641	Võ Thần Điện Thủ Hộ	Khấu Túy Liễu	11	123	14	13	96	81	102	59	110	0	0	0	0	1					
+642	Võ Thần Điện Thủ Hộ	Tư Mã Minh Hiên	12	123	14	13	96	81	102	59	110	0	0	0	0	1					
+643	Võ Thần Điện Thủ Hộ	Diệp Hàn Tảo	13	123	14	13	96	81	102	59	110	0	0	0	0	1					
+644	Võ Thần Điện Thủ Hộ	Hình Tuấn Triết	14	123	14	13	96	81	102	59	110	0	0	0	0	1					
+645	Võ Thần Điện Thủ Hộ	Lư Khưu Kiên Bạch	15	123	14	13	96	81	102	59	110	0	0	0	0	1					
+646	Võ Thần Điện Thủ Hộ	Bốc Kỳ Thụy	16	124	14	13	96	81	102	59	110	0	0	0	0	1					
+647	Võ Thần Điện Thủ Hộ	Lâm Nhã Kiện	17	124	14	13	96	81	102	59	110	0	0	0	0	1					
+648	Võ Thần Điện Thủ Hộ	Soái Văn Thạch	18	124	14	13	96	81	102	59	110	0	0	0	0	1					
+649	Võ Thần Điện Thủ Hộ	Ô Tiếu Hòe	1	124	14	13	96	81	102	59	110	0	0	0	0	1					
+650	Võ Thần Điện Thủ Hộ	Vũ Vĩ Kỳ	2	124	14	13	96	81	102	59	110	0	0	0	0	1					
+651	Võ Thần Điện Thủ Hộ	Giả Hưng Đằng	3	125	14	14	96	81	102	59	110	0	0	0	0	1					
+652	Võ Thần Điện Thủ Hộ	Kha Diệp Thước	4	125	14	14	96	81	102	59	110	0	0	0	0	1					
+653	Võ Thần Điện Thủ Hộ	Bảo Nhã Đạt	5	125	14	14	96	81	102	59	110	0	0	0	0	1					
+654	Võ Thần Điện Thủ Hộ	Mai Mịch Song	6	125	14	14	96	81	102	59	110	0	0	0	0	1					
+655	Võ Thần Điện Thủ Hộ	Cù Duệ Thức	7	125	14	14	96	81	102	59	110	0	0	0	0	1					
+656	Võ Thần Điện Thủ Hộ	Lỗ Thừa Cơ	8	126	14	14	96	81	102	59	110	0	0	0	0	1					
+657	Võ Thần Điện Thủ Hộ	Kim Bạch An	9	126	14	14	96	81	102	59	110	0	0	0	0	1					
+658	Võ Thần Điện Thủ Hộ	Hạng Hoài Hàn	10	126	14	14	96	81	102	59	110	0	0	0	0	1					
+659	Võ Thần Điện Thủ Hộ	Mộc Chí Học	11	126	14	14	96	81	102	59	110	0	0	0	0	1					
+660	Võ Thần Điện Thủ Hộ	Mộ Thính Phong	12	126	14	14	96	81	102	59	110	0	0	0	0	1					
+661	Võ Thần Điện Thủ Hộ	Đông Môn Bân Úy	13	127	14	14	96	81	102	59	110	0	0	0	0	1					
+662	Võ Thần Điện Thủ Hộ	Bành Nhạn Hạm	14	127	14	14	96	81	102	59	110	0	0	0	0	1					
+663	Võ Thần Điện Thủ Hộ	Hồ Tinh Hán	15	127	14	14	96	81	102	59	110	0	0	0	0	1					
+664	Võ Thần Điện Thủ Hộ	Trì Phán Dịch	16	127	14	14	96	81	102	59	110	0	0	0	0	1					
+665	Võ Thần Điện Thủ Hộ	Tang Bạch Trúc	17	127	14	14	96	81	102	59	110	0	0	0	0	1					
+666	Võ Thần Điện Thủ Hộ	Toàn Ngữ Nhi	18	128	14	14	96	81	102	59	110	0	0	0	0	1					
+667	Võ Thần Điện Thủ Hộ	Đường Hùng Bác	1	128	14	14	96	81	102	59	110	0	0	0	0	1					
+668	Võ Thần Điện Thủ Hộ	Vi Nguyên Dao	2	128	14	14	96	81	102	59	110	0	0	0	0	1					
+669	Võ Thần Điện Thủ Hộ	Hoa Ảo Phong	3	128	14	14	96	81	102	59	110	0	0	0	0	1					
+670	Võ Thần Điện Thủ Hộ	Thành Ngạo Dị	4	128	14	14	96	81	102	59	110	0	0	0	0	1					
+671	Võ Thần Điện Thủ Hộ	Thạch Anh Duệ	5	129	14	14	96	81	102	59	110	0	0	0	0	1					
+672	Võ Thần Điện Thủ Hộ	Tư Hồng Thiệu Quân	6	129	14	14	96	81	102	59	110	0	0	0	0	1					
+673	Võ Thần Điện Thủ Hộ	Chu Tư Diểu	7	129	14	14	96	81	102	59	110	0	0	0	0	1					
+674	Võ Thần Điện Thủ Hộ	Vũ Văn Ức Nam	8	129	14	14	96	81	102	59	110	0	0	0	0	1					
+675	Võ Thần Điện Thủ Hộ	Tư Ngưng Liên	9	129	14	14	96	81	102	59	110	0	0	0	0	1					
+676	Võ Thần Điện Thủ Hộ	Mạnh Dĩ Đằng	10	130	15	14	96	81	102	59	110	0	0	0	0	1					
+677	Võ Thần Điện Thủ Hộ	Ung Dị Hoè	11	130	15	14	96	81	102	59	110	0	0	0	0	1					
+678	Võ Thần Điện Thủ Hộ	Thích Kiên Thành	12	130	15	14	96	81	102	59	110	0	0	0	0	1					
+679	Võ Thần Điện Thủ Hộ	Mưu Mộ Nhạn	13	130	15	14	96	81	102	59	110	0	0	0	0	1					
+680	Võ Thần Điện Thủ Hộ	Cảnh Dũng Nam	14	130	15	14	96	81	102	59	110	0	0	0	0	1					
+681	Võ Thần Điện Thủ Hộ	Du Tu Quân	15	131	15	14	96	81	102	59	110	0	0	0	0	1					
+682	Võ Thần Điện Thủ Hộ	Uất Trì Tích Phiến	16	131	15	14	96	81	102	59	110	0	0	0	0	1					
+683	Võ Thần Điện Thủ Hộ	Mã Tâm Viễn	17	131	15	14	96	81	102	59	110	0	0	0	0	1					
+684	Võ Thần Điện Thủ Hộ	Diêm Thiên Kiêu	18	131	15	14	96	81	102	59	110	0	0	0	0	1					
+685	Võ Thần Điện Thủ Hộ	Soái Thư Liễu	1	131	15	14	96	81	102	59	110	0	0	0	0	1					
+686	Võ Thần Điện Thủ Hộ	Mạch Bành Bành	2	132	15	14	96	81	102	59	110	0	0	0	0	1					
+687	Võ Thần Điện Thủ Hộ	Kết nối với 	3	132	15	14	96	81	102	59	110	0	0	0	0	1					
+688	Võ Thần Điện Thủ Hộ	Tư Không Hồng Thâm	4	132	15	14	96	81	102	59	110	0	0	0	0	1					
+689	Võ Thần Điện Thủ Hộ	Dị Ký Dao	5	132	15	14	96	81	102	59	110	0	0	0	0	1					
+690	Võ Thần Điện Thủ Hộ	Miêu Bạch Hủy	6	132	15	14	96	81	102	59	110	0	0	0	0	1					
+691	Võ Thần Điện Thủ Hộ	Thời Tuấn Kiệt	7	133	15	14	96	81	102	59	110	0	0	0	0	1					
+692	Võ Thần Điện Thủ Hộ	Quảng Phi Thư	8	133	15	14	96	81	102	59	110	0	0	0	0	1					
+693	Võ Thần Điện Thủ Hộ	Khấu Hoa Hàn	9	133	15	14	96	81	102	59	110	0	0	0	0	1					
+694	Võ Thần Điện Thủ Hộ	Thuần Vu Lãnh Sương	10	133	15	14	96	81	102	59	110	0	0	0	0	1					
+695	Võ Thần Điện Thủ Hộ	Nhậm Ký Linh	11	133	15	14	96	81	102	59	110	0	0	0	0	1					
+696	Võ Thần Điện Thủ Hộ	Hà Tự Di	12	134	15	14	96	81	102	59	110	0	0	0	0	1					
+697	Võ Thần Điện Thủ Hộ	Gia Phàm Chi	13	134	15	14	96	81	102	59	110	0	0	0	0	1					
+698	Võ Thần Điện Thủ Hộ	Tùy Diệc Du	14	134	15	14	96	81	102	59	110	0	0	0	0	1					
+699	Võ Thần Điện Thủ Hộ	Quản Sơ Dao	15	134	15	14	96	81	102	59	110	0	0	0	0	1					
+700	Võ Thần Điện Thủ Hộ	Tiêu Hạo Bác	16	134	15	14	96	81	102	59	110	0	0	0	0	1					
+701	Võ Thần Điện Thủ Hộ	Tìm	17	135	15	15	96	81	102	59	110	0	0	0	0	1					
+702	Võ Thần Điện Thủ Hộ	Tây Môn Linh An	18	135	15	15	96	81	102	59	110	0	0	0	0	1					
+703	Võ Thần Điện Thủ Hộ	Bốc Hải Đông	1	135	15	15	96	81	102	59	110	0	0	0	0	1					
+704	Võ Thần Điện Thủ Hộ	Uất Trì Lương Hàn	2	135	15	15	96	81	102	59	110	0	0	0	0	1					
+705	Võ Thần Điện Thủ Hộ	Vinh Hạ Chân	3	135	15	15	96	81	102	59	110	0	0	0	0	1					
+706	Võ Thần Điện Thủ Hộ	Đơn Vu Lạc Phàm	4	136	15	15	96	81	102	59	110	0	0	0	0	1					
+707	Võ Thần Điện Thủ Hộ	Lang Bán An	5	136	15	15	96	81	102	59	110	0	0	0	0	1					
+708	Võ Thần Điện Thủ Hộ	Phan Trạch Ngữ	6	136	15	15	96	81	102	59	110	0	0	0	0	1					
+709	Võ Thần Điện Thủ Hộ	Đơn Vu Nguyên Tư	7	136	15	15	96	81	102	59	110	0	0	0	0	1					
+710	Võ Thần Điện Thủ Hộ	Minh Khiếu Phú	8	136	15	15	96	81	102	59	110	0	0	0	0	1					
+711	Võ Thần Điện Thủ Hộ	Ngao Tử Mặc	9	137	15	15	96	81	102	59	110	0	0	0	0	1					
+712	Võ Thần Điện Thủ Hộ	Doãn Cô Lăng	10	137	15	15	96	81	102	59	110	0	0	0	0	1					
+713	Võ Thần Điện Thủ Hộ	Cốc Khiếu Thao	11	137	15	15	96	81	102	59	110	0	0	0	0	1					
+714	Võ Thần Điện Thủ Hộ	Vu Mặc Tuyên	12	137	15	15	96	81	102	59	110	0	0	0	0	1					
+715	Võ Thần Điện Thủ Hộ	Hồ Đại Linh	13	137	15	15	96	81	102	59	110	0	0	0	0	1					
+716	Võ Thần Điện Thủ Hộ	Miêu Thanh Hàn	14	138	15	15	96	81	102	59	110	0	0	0	0	1					
+717	Võ Thần Điện Thủ Hộ	Lăng Tu Vi	15	138	15	15	96	81	102	59	110	0	0	0	0	1					
+718	Võ Thần Điện Thủ Hộ	Thuần Vu Ức Phong	16	138	15	15	96	81	102	59	110	0	0	0	0	1					
+719	Võ Thần Điện Thủ Hộ	Khói Trì Hoãn	17	138	15	15	96	81	102	59	110	0	0	0	0	1					
+720	Võ Thần Điện Thủ Hộ	Phòng Hưng Đằng	18	138	15	15	96	81	102	59	110	0	0	0	0	1					
+721	Võ Thần Điện Thủ Hộ	Hình Tích Hàn	1	139	15	15	96	81	102	59	110	0	0	0	0	1					
+722	Võ Thần Điện Thủ Hộ	Trịnh Dạ Dục	2	139	15	15	96	81	102	59	110	0	0	0	0	1					
+723	Võ Thần Điện Thủ Hộ	Mễ Hòa Hiệp	3	139	15	15	96	81	102	59	110	0	0	0	0	1					
+724	Võ Thần Điện Thủ Hộ	Thương Tư Ngự	4	139	15	15	96	81	102	59	110	0	0	0	0	1					
+725	Võ Thần Điện Thủ Hộ	Đào An Ba	5	139	15	15	96	81	102	59	110	0	0	0	0	1					
+726	Võ Thần Điện Thủ Hộ	Quế Đạt An	6	140	16	15	96	81	102	59	110	0	0	0	0	1					
+727	Võ Thần Điện Thủ Hộ	Du Tu Văn	7	140	16	15	96	81	102	59	110	0	0	0	0	1					
+728	Võ Thần Điện Thủ Hộ	Liêu Hoằng Thâm	8	140	16	15	96	81	102	59	110	0	0	0	0	1					
+729	Võ Thần Điện Thủ Hộ	Lê Cảnh Diệu	9	140	16	15	96	81	102	59	110	0	0	0	0	1					
+730	Võ Thần Điện Thủ Hộ	Dụ Thiên Canh	10	140	16	15	96	81	102	59	110	0	0	0	0	1					
+731	Võ Thần Điện Thủ Hộ	Sư Ân Yên	11	141	16	15	96	81	102	59	110	0	0	0	0	1					
+732	Võ Thần Điện Thủ Hộ	Uyển Diệp Hách	12	141	16	15	96	81	102	59	110	0	0	0	0	1					
+733	Võ Thần Điện Thủ Hộ	Mã Phong Đức	13	141	16	15	96	81	102	59	110	0	0	0	0	1					
+734	Võ Thần Điện Thủ Hộ	Tuân Vũ Ấm	14	141	16	15	96	81	102	59	110	0	0	0	0	1					
+735	Võ Thần Điện Thủ Hộ	Vu Thành Lễ	15	141	16	15	96	81	102	59	110	0	0	0	0	1					
+736	Võ Thần Điện Thủ Hộ	Địch Kỳ Thúy	16	142	16	15	96	81	102	59	110	0	0	0	0	1					
+737	Võ Thần Điện Thủ Hộ	Trịnh Đại Linh	17	142	16	15	96	81	102	59	110	0	0	0	0	1					
+738	Võ Thần Điện Thủ Hộ	Lăng Dương Sóc	18	142	16	15	96	81	102	59	110	0	0	0	0	1					
+739	Võ Thần Điện Thủ Hộ	Lưu Quân Hạo	1	142	16	15	96	81	102	59	110	0	0	0	0	1					
+740	Võ Thần Điện Thủ Hộ	Phiền Bạch Phàm	2	142	16	15	96	81	102	59	110	0	0	0	0	1					
+741	Võ Thần Điện Thủ Hộ	Tôn Minh Húc	3	143	16	15	96	81	102	59	110	0	0	0	0	1					
+742	Võ Thần Điện Thủ Hộ	Bàng Tòng Ngưng	4	143	16	15	96	81	102	59	110	0	0	0	0	1					
+743	Võ Thần Điện Thủ Hộ	Khổng Chính Nghị	5	143	16	15	96	81	102	59	110	0	0	0	0	1					
+744	Võ Thần Điện Thủ Hộ	Cù Vĩnh Khang	6	143	16	15	96	81	102	59	110	0	0	0	0	1					
+745	Võ Thần Điện Thủ Hộ	Ông Kỳ Lược	7	143	16	15	96	81	102	59	110	0	0	0	0	1					
+746	Võ Thần Điện Thủ Hộ	Nguyên Liên Đằng	8	144	16	15	96	81	102	59	110	0	0	0	0	1					
+747	Võ Thần Điện Thủ Hộ	Lặc Bằng Hưng	9	144	16	15	96	81	102	59	110	0	0	0	0	1					
+748	Võ Thần Điện Thủ Hộ	Từ Hàn Tảo	10	144	16	15	96	81	102	59	110	0	0	0	0	1					
+749	Võ Thần Điện Thủ Hộ	Công Dã Hạ Thu	11	144	16	15	96	81	102	59	110	0	0	0	0	1					
+750	Võ Thần Điện Thủ Hộ	Khổng Hựu Liên	12	144	16	15	96	81	102	59	110	0	0	0	0	1					
+751	Võ Thần Điện Thủ Hộ	Mâu Mặc Dao	13	145	16	16	96	81	102	59	110	0	0	0	0	1					
+752	Võ Thần Điện Thủ Hộ	Mưu Dị Văn	14	145	16	16	96	81	102	59	110	0	0	0	0	1					
+753	Võ Thần Điện Thủ Hộ	Quách Hãn Nguyệt	15	145	16	16	96	81	102	59	110	0	0	0	0	1					
+754	Võ Thần Điện Thủ Hộ	Cữu An Nhiên	16	145	16	16	96	81	102	59	110	0	0	0	0	1					
+755	Võ Thần Điện Thủ Hộ	Ngân Vũ Văn	17	145	16	16	96	81	102	59	110	0	0	0	0	1					
+756	Võ Thần Điện Thủ Hộ	Mẫn Đan Khiếu	18	146	16	16	96	81	102	59	110	0	0	0	0	1					
+757	Võ Thần Điện Thủ Hộ	Lê Anh Ngạn	1	146	16	16	96	81	102	59	110	0	0	0	0	1					
+758	Võ Thần Điện Thủ Hộ	Hình Niệm Thao	2	146	16	16	96	81	102	59	110	0	0	0	0	1					
+759	Võ Thần Điện Thủ Hộ	Cung Tinh Kiếm	3	146	16	16	96	81	102	59	110	0	0	0	0	1					
+760	Võ Thần Điện Thủ Hộ	Thuần Vu Văn Xương	4	146	16	16	96	81	102	59	110	0	0	0	0	1					
+761	Võ Thần Điện Thủ Hộ	Gia Hòa An	5	147	16	16	96	81	102	59	110	0	0	0	0	1					
+762	Võ Thần Điện Thủ Hộ	Cảnh Bình Đoan	6	147	16	16	96	81	102	59	110	0	0	0	0	1					
+763	Võ Thần Điện Thủ Hộ	Lăng Gia Chí	7	147	16	16	96	81	102	59	110	0	0	0	0	1					
+764	Võ Thần Điện Thủ Hộ	Địch Nhĩ Liễu	8	147	16	16	96	81	102	59	110	0	0	0	0	1					
+765	Võ Thần Điện Thủ Hộ	Tuân Bán Song	9	147	16	16	96	81	102	59	110	0	0	0	0	1					
+766	Võ Thần Điện Thủ Hộ	Lý Vũ Chính	10	148	16	16	96	81	102	59	110	0	0	0	0	1					
+767	Võ Thần Điện Thủ Hộ	Đằng Nguy Ngang	11	148	16	16	96	81	102	59	110	0	0	0	0	1					
+768	Võ Thần Điện Thủ Hộ	Văn Chí Minh	12	148	16	16	96	81	102	59	110	0	0	0	0	1					
+769	Võ Thần Điện Thủ Hộ	Hầu Tiếu Nam	13	148	16	16	96	81	102	59	110	0	0	0	0	1					
+770	Võ Thần Điện Thủ Hộ	Đông Quách An Tường	14	148	16	16	96	81	102	59	110	0	0	0	0	1					
+771	Võ Thần Điện Thủ Hộ	Sử Hoài Liên	15	149	16	16	96	81	102	59	110	0	0	0	0	1					
+772	Võ Thần Điện Thủ Hộ	Liêm Bác Siêu	16	149	16	16	96	81	102	59	110	0	0	0	0	1					
+773	Võ Thần Điện Thủ Hộ	Biện Phong Bật	17	149	16	16	96	81	102	59	110	0	0	0	0	1					
+774	Võ Thần Điện Thủ Hộ	Tần Đại Phàm	18	149	16	16	96	81	102	59	110	0	0	0	0	1					
+775	Võ Thần Điện Thủ Hộ	Liêm Linh Phiến	1	149	16	16	96	81	102	59	110	0	0	0	0	1					
+776	Võ Thần Điện Thủ Hộ	Đường Lãnh Chính	2	150	17	16	96	81	102	59	110	0	0	0	0	1					
+777	Võ Thần Điện Thủ Hộ	Hoa Hạo Đại	3	150	17	16	96	81	102	59	110	0	0	0	0	1					
+778	Võ Thần Điện Thủ Hộ	Tiết Bái Cần	4	150	17	16	96	81	102	59	110	0	0	0	0	1					
+779	Võ Thần Điện Thủ Hộ	Đơn Phỏng Phong	5	150	17	16	96	81	102	59	110	0	0	0	0	1					
+780	Võ Thần Điện Thủ Hộ	Phí Hoa Áo	6	150	17	16	96	81	102	59	110	0	0	0	0	1					
+781	Võ Thần Điện Thủ Hộ	Hàn Hướng Hoè	7	151	17	16	96	81	102	59	110	0	0	0	0	1					
+782	Võ Thần Điện Thủ Hộ	Vu Minh Trí	8	151	17	16	96	81	102	59	110	0	0	0	0	1					
+783	Võ Thần Điện Thủ Hộ	Phí Quang Dự	9	151	17	16	96	81	102	59	110	0	0	0	0	1					
+784	Võ Thần Điện Thủ Hộ	Ân Thu Tiếu	10	151	17	16	96	81	102	59	110	0	0	0	0	1					
+785	Võ Thần Điện Thủ Hộ	Mộ Dung Dị Dung	11	151	17	16	96	81	102	59	110	0	0	0	0	1					
+786	Võ Thần Điện Thủ Hộ	Ô Anh Tư	12	152	17	16	96	81	102	59	110	0	0	0	0	1					
+787	Võ Thần Điện Thủ Hộ	Nghiêm Đoan Khiếu	13	152	17	16	96	81	102	59	110	0	0	0	0	1					
+788	Võ Thần Điện Thủ Hộ	Hoàng Thiên Công	14	152	17	16	96	81	102	59	110	0	0	0	0	1					
+789	Võ Thần Điện Thủ Hộ	Giản Mặc Trúc	15	152	17	16	96	81	102	59	110	0	0	0	0	1					
+790	Võ Thần Điện Thủ Hộ	Bùi Đạt Hàn	16	152	17	16	96	81	102	59	110	0	0	0	0	1					
+791	Võ Thần Điện Thủ Hộ	Tư Mã Nguyên Thanh	17	153	17	16	96	81	102	59	110	0	0	0	0	1					
+792	Võ Thần Điện Thủ Hộ	Lâm Thủy Hà	18	153	17	16	96	81	102	59	110	0	0	0	0	1					
+793	Võ Thần Điện Thủ Hộ	Giang Nguyên Cơ	1	153	17	16	96	81	102	59	110	0	0	0	0	1					
+794	Võ Thần Điện Thủ Hộ	Đới Lãnh Tuyết	2	153	17	16	96	81	102	59	110	0	0	0	0	1					
+795	Võ Thần Điện Thủ Hộ	Vu Tuyết Thu	3	153	17	16	96	81	102	59	110	0	0	0	0	1					
+796	Võ Thần Điện Thủ Hộ	Nhạc Minh Triết	4	154	17	16	96	81	102	59	110	0	0	0	0	1					
+797	Võ Thần Điện Thủ Hộ	Hình Thủy Nhi	5	154	17	16	96	81	102	59	110	0	0	0	0	1					
+798	Võ Thần Điện Thủ Hộ	Triệu Sơn Phú	6	154	17	16	96	81	102	59	110	0	0	0	0	1					
+799	Võ Thần Điện Thủ Hộ	Dụ Lạc Du	7	154	17	16	96	81	102	59	110	0	0	0	0	1					
+800	Võ Thần Điện Thủ Hộ	Lữ Tử Trạc	8	154	17	16	96	81	102	59	110	0	0	0	0	1					
+801	Võ Thần Điện Thủ Hộ	Quan Thư Cầm	9	155	17	17	96	81	102	59	110	0	0	0	0	1					
+802	Võ Thần Điện Thủ Hộ	Cung Chí Thành	10	155	17	17	96	81	102	59	110	0	0	0	0	1					
+803	Võ Thần Điện Thủ Hộ	Tả Khâu Hàn Lâm	11	155	17	17	96	81	102	59	110	0	0	0	0	1					
+804	Võ Thần Điện Thủ Hộ	Trọng Tôn Hoằng Viễn	12	155	17	17	96	81	102	59	110	0	0	0	0	1					
+805	Võ Thần Điện Thủ Hộ	Chương Ức Đạt	13	155	17	17	96	81	102	59	110	0	0	0	0	1					
+806	Võ Thần Điện Thủ Hộ	Độc Cô Tuấn Dự	14	156	17	17	96	81	102	59	110	0	0	0	0	1					
+807	Võ Thần Điện Thủ Hộ	Nghiêm Nhuệ Tinh	15	156	17	17	96	81	102	59	110	0	0	0	0	1					
+808	Võ Thần Điện Thủ Hộ	Loan Mịch Vân	16	156	17	17	96	81	102	59	110	0	0	0	0	1					
+809	Võ Thần Điện Thủ Hộ	Tư Mã Diệc Toàn	17	156	17	17	96	81	102	59	110	0	0	0	0	1					
+810	Võ Thần Điện Thủ Hộ	Đoạn Ức Tuyết	18	156	17	17	96	81	102	59	110	0	0	0	0	1					
+811	Võ Thần Điện Thủ Hộ	Mục Mặc Dung	1	157	17	17	96	81	102	59	110	0	0	0	0	1					
+812	Võ Thần Điện Thủ Hộ	Thẩm Tinh Hỏa	2	157	17	17	96	81	102	59	110	0	0	0	0	1					
+813	Võ Thần Điện Thủ Hộ	Lệnh Hồ Tư Phong	3	157	17	17	96	81	102	59	110	0	0	0	0	1					
+814	Võ Thần Điện Thủ Hộ	Mộ Hàn Tùng	4	157	17	17	96	81	102	59	110	0	0	0	0	1					
+815	Võ Thần Điện Thủ Hộ	Hạ Hòa Quang	5	157	17	17	96	81	102	59	110	0	0	0	0	1					
+816	Võ Thần Điện Thủ Hộ	Mục Hồng Hi	6	158	17	17	96	81	102	59	110	0	0	0	0	1					
+817	Võ Thần Điện Thủ Hộ	Tô Hoằng Văn	7	158	17	17	96	81	102	59	110	0	0	0	0	1					
+818	Võ Thần Điện Thủ Hộ	Ung Gia Tứ	8	158	17	17	96	81	102	59	110	0	0	0	0	1					
+819	Võ Thần Điện Thủ Hộ	Ngũ Hưng Nghiệp	9	158	17	17	96	81	102	59	110	0	0	0	0	1					
+820	Võ Thần Điện Thủ Hộ	Hình Nghi Nhân	10	158	17	17	96	81	102	59	110	0	0	0	0	1					
+821	Võ Thần Điện Thủ Hộ	Khương Gia Thụ	11	159	17	17	96	81	102	59	110	0	0	0	0	1					
+822	Võ Thần Điện Thủ Hộ	Đông Môn Tư Tuyên	12	159	17	17	96	81	102	59	110	0	0	0	0	1					
+823	Võ Thần Điện Thủ Hộ	Tần Nhạn Lục	13	159	17	17	96	81	102	59	110	0	0	0	0	1					
+824	Võ Thần Điện Thủ Hộ	Xa Ánh Chân	14	159	17	17	96	81	102	59	110	0	0	0	0	1					
+825	Võ Thần Điện Thủ Hộ	La Tài Lương	15	159	17	17	96	81	102	59	110	0	0	0	0	1					
+826	Võ Thần Điện Thủ Hộ	Hùng Mặc Vân	16	160	18	17	96	81	102	59	110	0	0	0	0	1					
+827	Võ Thần Điện Thủ Hộ	Diêm Tuyết Dung	17	160	18	17	96	81	102	59	110	0	0	0	0	1					
+828	Võ Thần Điện Thủ Hộ	Hạng Kỳ Thắng	18	160	18	17	96	81	102	59	110	0	0	0	0	1					
+829	Võ Thần Điện Thủ Hộ	Tư Hồng Thu Phiến	1	160	18	17	96	81	102	59	110	0	0	0	0	1					
+830	Võ Thần Điện Thủ Hộ	Nghiêm Dĩ Quân	2	160	18	17	96	81	102	59	110	0	0	0	0	1					
+831	Võ Thần Điện Thủ Hộ	Sái Thi Đan	3	161	18	17	96	81	102	59	110	0	0	0	0	1					
+832	Võ Thần Điện Thủ Hộ	Long Bác Hãn	4	161	18	17	96	81	102	59	110	0	0	0	0	1					
+833	Võ Thần Điện Thủ Hộ	Y Phỏng Cầm	5	161	18	17	96	81	102	59	110	0	0	0	0	1					
+834	Võ Thần Điện Thủ Hộ	Tiêu Hòa Tụng	6	161	18	17	96	81	102	59	110	0	0	0	0	1					
+835	Võ Thần Điện Thủ Hộ	Quách Hòa Dục	7	161	18	17	96	81	102	59	110	0	0	0	0	1					
+836	Võ Thần Điện Thủ Hộ	Giản Hiểu Bác	8	162	18	17	96	81	102	59	110	0	0	0	0	1					
+837	Võ Thần Điện Thủ Hộ	Tống Dương Vũ	9	162	18	17	96	81	102	59	110	0	0	0	0	1					
+838	Võ Thần Điện Thủ Hộ	Mã Linh Phiến	10	162	18	17	96	81	102	59	110	0	0	0	0	1					
+839	Võ Thần Điện Thủ Hộ	Nhạc Mẫn Duệ	11	162	18	17	96	81	102	59	110	0	0	0	0	1					
+840	Võ Thần Điện Thủ Hộ	Từ Linh Tùng	12	162	18	17	96	81	102	59	110	0	0	0	0	1					
+841	Võ Thần Điện Thủ Hộ	Khấu Túy Liễu	13	163	18	17	96	81	102	59	110	0	0	0	0	1					
+842	Võ Thần Điện Thủ Hộ	Tư Mã Minh Hiên	14	163	18	17	96	81	102	59	110	0	0	0	0	1					
+843	Võ Thần Điện Thủ Hộ	Diệp Hàn Tảo	15	163	18	17	96	81	102	59	110	0	0	0	0	1					
+844	Võ Thần Điện Thủ Hộ	Hình Tuấn Triết	16	163	18	17	96	81	102	59	110	0	0	0	0	1					
+845	Võ Thần Điện Thủ Hộ	Lư Khưu Kiên Bạch	17	163	18	17	96	81	102	59	110	0	0	0	0	1					
+846	Võ Thần Điện Thủ Hộ	Bốc Kỳ Thụy	18	164	18	17	96	81	102	59	110	0	0	0	0	1					
+847	Võ Thần Điện Thủ Hộ	Lâm Nhã Kiện	1	164	18	17	96	81	102	59	110	0	0	0	0	1					
+848	Võ Thần Điện Thủ Hộ	Soái Văn Thạch	2	164	18	17	96	81	102	59	110	0	0	0	0	1					
+849	Võ Thần Điện Thủ Hộ	Ô Tiếu Hòe	3	164	18	17	96	81	102	59	110	0	0	0	0	1					
+850	Võ Thần Điện Thủ Hộ	Vũ Vĩ Kỳ	4	164	18	17	96	81	102	59	110	0	0	0	0	1					
+851	Võ Thần Điện Thủ Hộ	Giả Hưng Đằng	5	165	18	18	96	81	102	59	110	0	0	0	0	1					
+852	Võ Thần Điện Thủ Hộ	Kha Diệp Thước	6	165	18	18	96	81	102	59	110	0	0	0	0	1					
+853	Võ Thần Điện Thủ Hộ	Bảo Nhã Đạt	7	165	18	18	96	81	102	59	110	0	0	0	0	1					
+854	Võ Thần Điện Thủ Hộ	Mai Mịch Song	8	165	18	18	96	81	102	59	110	0	0	0	0	1					
+855	Võ Thần Điện Thủ Hộ	Cù Duệ Thức	9	165	18	18	96	81	102	59	110	0	0	0	0	1					
+856	Võ Thần Điện Thủ Hộ	Lỗ Thừa Cơ	10	166	18	18	96	81	102	59	110	0	0	0	0	1					
+857	Võ Thần Điện Thủ Hộ	Kim Bạch An	11	166	18	18	96	81	102	59	110	0	0	0	0	1					
+858	Võ Thần Điện Thủ Hộ	Hạng Hoài Hàn	12	166	18	18	96	81	102	59	110	0	0	0	0	1					
+859	Võ Thần Điện Thủ Hộ	Mộc Chí Học	13	166	18	18	96	81	102	59	110	0	0	0	0	1					
+860	Võ Thần Điện Thủ Hộ	Mộ Thính Phong	14	166	18	18	96	81	102	59	110	0	0	0	0	1					
+861	Võ Thần Điện Thủ Hộ	Đông Môn Bân Úy	15	167	18	18	96	81	102	59	110	0	0	0	0	1					
+862	Võ Thần Điện Thủ Hộ	Bành Nhạn Hạm	16	167	18	18	96	81	102	59	110	0	0	0	0	1					
+863	Võ Thần Điện Thủ Hộ	Hồ Tinh Hán	17	167	18	18	96	81	102	59	110	0	0	0	0	1					
+864	Võ Thần Điện Thủ Hộ	Trì Phán Dịch	18	167	18	18	96	81	102	59	110	0	0	0	0	1					
+865	Võ Thần Điện Thủ Hộ	Tang Bạch Trúc	1	167	18	18	96	81	102	59	110	0	0	0	0	1					
+866	Võ Thần Điện Thủ Hộ	Toàn Ngữ Nhi	2	168	18	18	96	81	102	59	110	0	0	0	0	1					
+867	Võ Thần Điện Thủ Hộ	Đường Hùng Bác	3	168	18	18	96	81	102	59	110	0	0	0	0	1					
+868	Võ Thần Điện Thủ Hộ	Vi Nguyên Dao	4	168	18	18	96	81	102	59	110	0	0	0	0	1					
+869	Võ Thần Điện Thủ Hộ	Hoa Ảo Phong	5	168	18	18	96	81	102	59	110	0	0	0	0	1					
+870	Võ Thần Điện Thủ Hộ	Thành Ngạo Dị	6	168	18	18	96	81	102	59	110	0	0	0	0	1					
+871	Võ Thần Điện Thủ Hộ	Thạch Anh Duệ	7	169	18	18	96	81	102	59	110	0	0	0	0	1					
+872	Võ Thần Điện Thủ Hộ	Tư Hồng Thiệu Quân	8	169	18	18	96	81	102	59	110	0	0	0	0	1					
+873	Võ Thần Điện Thủ Hộ	Chu Tư Diểu	9	169	18	18	96	81	102	59	110	0	0	0	0	1					
+874	Võ Thần Điện Thủ Hộ	Vũ Văn Ức Nam	10	169	18	18	96	81	102	59	110	0	0	0	0	1					
+875	Võ Thần Điện Thủ Hộ	Tư Ngưng Liên	11	169	18	18	96	81	102	59	110	0	0	0	0	1					
+876	Võ Thần Điện Thủ Hộ	Mạnh Dĩ Đằng	12	170	18	18	96	81	102	59	110	0	0	0	0	1					

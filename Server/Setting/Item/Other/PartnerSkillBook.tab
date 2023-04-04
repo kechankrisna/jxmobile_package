@@ -1,0 +1,144 @@
+TemplateId	Name	Kind	ItemType	Icon	BigIcon	CDType	ClassName	DetailType	Intro	ItemValue	Level	ObjID	Price	Quality	RequireLevel	Sellable	Stack	ExtParam1	ExtParam2	ExtParam3	ExtParam4	ExtParam5	ExtParam6	ExtParam7	ExtParam8	ExtParam9	ExtParam10
+1971	【Sơ】Chính Xác	PartnerSkillLevel1_1	35	1971	1971		PartnerSkillBook	35	【Bị】Đồng Hành tăng chính xác	50000	1	1	1000	1	1	0	99999	28									
+1972	【Sơ】Né Tránh	PartnerSkillLevel1_2	35	1972	1972		PartnerSkillBook	35	【Bị】Đồng Hành tăng né tránh	50000	1	1	1000	1	1	0	99999	31									
+1973	【Sơ】Bỏ Qua Né Tránh	PartnerSkillLevel1_3	35	1973	1973		PartnerSkillBook	35	【Bị】Đồng Hành tăng bỏ qua né tránh	50000	1	1	1000	1	1	0	99999	34									
+1974	【Sơ】Tỉ Lệ Kháng Bạo Kích	PartnerSkillLevel1_4	35	1974	1974		PartnerSkillBook	35	【Bị】Đồng Hành tăng tỉ lệ kháng bạo kích	50000	1	1	1000	1	1	0	99999	37									
+1975	【Sơ】Hồi Phục Sinh Lực	PartnerSkillLevel1_5	35	1975	1975		PartnerSkillBook	35	【Bị】Đồng Hành tăng hồi sinh lực	50000	1	1	1000	1	1	0	99999	40									
+1976	【Sơ】Hiệu Quả Kháng Bị Thương	PartnerSkillLevel1_6	35	1976	1976		PartnerSkillBook	35	【Bị】Đồng Hành tăng khả năng kháng hiệu quả bị thương	50000	1	1	1000	1	1	0	99999	43									
+1977	【Sơ】Hiệu Quả Kháng Làm Chậm	PartnerSkillLevel1_7	35	1977	1977		PartnerSkillBook	35	【Bị】Đồng Hành tăng khả năng kháng hiệu quả làm chậm	50000	1	1	1000	1	1	0	99999	46									
+1978	【Sơ】Kháng Tàn Phế	PartnerSkillLevel1_8	35	1978	1978		PartnerSkillBook	35	【Bị】Tăng hiệu quả chống đỡ tàn phế của Đồng Hành	50000	1	1	1000	1	1	0	99999	49									
+1979	【Sơ】Hiệu Quả Kháng Tê Liệt	PartnerSkillLevel1_9	35	1979	1979		PartnerSkillBook	35	【Bị】Đồng Hành tăng khả năng kháng hiệu quả tê liệt	50000	1	1	1000	1	1	0	99999	52									
+1980	【Sơ】Hiệu Quả Kháng Choáng	PartnerSkillLevel1_10	35	1980	1980		PartnerSkillBook	35	【Bị】Đồng Hành tăng khả năng kháng hiệu quả choáng	50000	1	1	1000	1	1	0	99999	55									
+1981	Vô Danh Trảm	PartnerSkillLevel2_1	35	1981	1981		PartnerSkillBook	35	【Chủ】Tấn công cận chiến\n\n[FFFE0D]Đồng Hành hệ【Kim】có thể học kỹ năng này[-]	150000	1	1	1000	2	1	0	99999	1									
+1982	Hàn Sương Ấn	PartnerSkillLevel2_2	35	1982	1982		PartnerSkillBook	35	【Chủ】Tấn công mục tiêu tầm xa\n\n[FFFE0D]Đồng Hành hệ【Thủy】có thể học kỹ năng này[-]	150000	1	1	1000	2	1	0	99999	2									
+1983	Kịch Độc Tiêu	PartnerSkillLevel2_3	35	1983	1983		PartnerSkillBook	35	【Chủ】Tấn công mục tiêu tầm xa\n\n[FFFE0D]Đồng Hành hệ【Mộc】có thể học kỹ năng này[-]	150000	1	1	1000	2	1	0	99999	3									
+1984	Tịch Lịch Ấn	PartnerSkillLevel2_4	35	1984	1984		PartnerSkillBook	35	【Chủ】Tấn công mục tiêu tầm xa\n\n[FFFE0D]Đồng Hành hệ【Hỏa】có thể học kỹ năng này[-]	150000	1	1	1000	2	1	0	99999	4									
+1985	Lôi Đình Ấn	PartnerSkillLevel2_5	35	1985	1985		PartnerSkillBook	35	【Chủ】Tấn công mục tiêu tầm xa\n\n[FFFE0D]Đồng Hành hệ【Thổ】có thể học kỹ năng này[-]	150000	1	1	1000	2	1	0	99999	5									
+1986	Thuật Trị Liệu	PartnerSkillLevel2_6	35	1986	1986		PartnerSkillBook	35	【Chủ】Trị liệu 1 đồng đội	150000	1	1	1000	2	1	0	99999	16									
+1987	【Trung】Chính Xác	PartnerSkillLevel2_7	35	1987	1987		PartnerSkillBook	35	【Bị】Đồng Hành tăng chính xác	150000	1	1	1000	2	1	0	99999	29									
+1988	【Trung】Né Tránh	PartnerSkillLevel2_8	35	1988	1988		PartnerSkillBook	35	【Bị】Đồng Hành tăng né tránh	150000	1	1	1000	2	1	0	99999	32									
+1989	【Trung】Bỏ Qua Né Tránh	PartnerSkillLevel2_9	35	1989	1989		PartnerSkillBook	35	【Bị】Đồng Hành tăng bỏ qua né tránh	150000	1	1	1000	2	1	0	99999	35									
+1990	【Trung】Tỉ Lệ Kháng Bạo Kích	PartnerSkillLevel2_10	35	1990	1990		PartnerSkillBook	35	【Bị】Đồng Hành tăng tỉ lệ kháng bạo kích	150000	1	1	1000	2	1	0	99999	38									
+1991	【Trung】Hồi Phục Sinh Lực	PartnerSkillLevel2_11	35	1991	1991		PartnerSkillBook	35	【Bị】Đồng Hành tăng hồi sinh lực	150000	1	1	1000	2	1	0	99999	41									
+1992	【Trung】Kháng Bị Thương	PartnerSkillLevel2_12	35	1992	1992		PartnerSkillBook	35	【Bị】Đồng Hành tăng khả năng kháng hiệu quả bị thương	150000	1	1	1000	2	1	0	99999	44									
+1993	【Trung】Kháng Làm Chậm	PartnerSkillLevel2_13	35	1993	1993		PartnerSkillBook	35	【Bị】Đồng Hành tăng khả năng kháng hiệu quả làm chậm	150000	1	1	1000	2	1	0	99999	47									
+1994	【Trung】Kháng Tàn Phế	PartnerSkillLevel2_14	35	1994	1994		PartnerSkillBook	35	【Bị】Tăng hiệu quả chống đỡ tàn phế của Đồng Hành	150000	1	1	1000	2	1	0	99999	50									
+1995	【Trung】Kháng Tê Liệt	PartnerSkillLevel2_15	35	1995	1995		PartnerSkillBook	35	【Bị】Đồng Hành tăng khả năng kháng hiệu quả tê liệt	150000	1	1	1000	2	1	0	99999	53									
+1996	【Trung】Kháng Choáng	PartnerSkillLevel2_16	35	1996	1996		PartnerSkillBook	35	【Bị】Đồng Hành tăng khả năng kháng hiệu quả choáng	150000	1	1	1000	2	1	0	99999	56									
+1997	【Sơ】Tỉ Lệ Bạo Kích	PartnerSkillLevel2_17	35	1997	1997		PartnerSkillBook	35	【Bị】Đồng Hành tăng tỉ lệ bạo kích	150000	1	1	1000	2	1	0	99999	58									
+1998	【Sơ】Tấn Công	PartnerSkillLevel2_18	35	1998	1998		PartnerSkillBook	35	【Bị】Đồng Hành tăng tấn công	150000	1	1	1000	2	1	0	99999	61									
+1999	【Sơ】Sinh Lực	PartnerSkillLevel2_19	35	1999	1999		PartnerSkillBook	35	【Bị】Đồng Hành tăng sinh lực	150000	1	1	1000	2	1	0	99999	64									
+2000	【Sơ】Di Chuyển	PartnerSkillLevel2_20	35	2000	2000		PartnerSkillBook	35	【Bị】Đồng Hành tăng di chuyển	150000	1	1	1000	2	1	0	99999	67									
+2001	【Sơ】Kháng Kim	PartnerSkillLevel2_21	35	2001	2001		PartnerSkillBook	35	【Bị】Đồng Hành tăng kháng Kim	150000	1	1	1000	2	1	0	99999	70									
+2002	【Sơ】Kháng Mộc	PartnerSkillLevel2_22	35	2002	2002		PartnerSkillBook	35	【Bị】Đồng Hành tăng kháng Mộc	150000	1	1	1000	2	1	0	99999	73									
+2003	【Sơ】Kháng Thủy	PartnerSkillLevel2_23	35	2003	2003		PartnerSkillBook	35	【Bị】Đồng Hành tăng kháng Thủy	150000	1	1	1000	2	1	0	99999	76									
+2004	【Sơ】Kháng Hỏa	PartnerSkillLevel2_24	35	2004	2004		PartnerSkillBook	35	【Bị】Đồng Hành tăng kháng Hỏa	150000	1	1	1000	2	1	0	99999	79									
+2005	【Sơ】Kháng Thổ	PartnerSkillLevel2_25	35	2005	2005		PartnerSkillBook	35	【Bị】Đồng Hành tăng kháng Thổ	150000	1	1	1000	2	1	0	99999	82									
+2006	【Sơ】Kháng Hiệu Quả Thuộc Tính	PartnerSkillLevel2_26	35	2006	2006		PartnerSkillBook	35	【Bị】Đồng Hành tăng khả năng chống đỡ hiệu quả thuộc tính	150000	1	1	1000	2	1	0	99999	85									
+2007	Phá Thiên Trảm 	PartnerSkillLevel3_1	35	2007	2007		PartnerSkillBook	35	【Chủ】Tấn công cận chiến, kèm hiệu quả bị thương\n\n[FFFE0D]Đồng Hành hệ【Kim】có thể học kỹ năng này[-]	500000	1	1	1000	3	1	0	99999	6									
+2008	Băng Phong Chỉ	PartnerSkillLevel3_2	35	2008	2008		PartnerSkillBook	35	【Chủ】Tấn công mục tiêu tầm xa, kèm hiệu quả làm chậm\n\n[FFFE0D]Đồng Hành hệ【Thủy】có thể học kỹ năng này[-]	500000	1	1	1000	3	1	0	99999	7									
+2009	Tụ Lí Tiễn	PartnerSkillLevel3_3	35	2009	2009		PartnerSkillBook	35	【Chủ】Tấn công mục tiêu tầm xa, kèm hiệu quả tàn phế\n\n[FFFE0D]Đồng Hành hệ【Mộc】có thể học kỹ năng này[-]	500000	1	1	1000	3	1	0	99999	8									
+2010	Liệt Diệm Chỉ	PartnerSkillLevel3_4	35	2010	2010		PartnerSkillBook	35	【Chủ】Tấn công mục tiêu tầm xa, kèm hiệu quả tê liệt\n\n[FFFE0D]Đồng Hành hệ【Hỏa】có thể học kỹ năng này[-]	500000	1	1	1000	3	1	0	99999	9									
+2011	Nộ Lôi Chỉ 	PartnerSkillLevel3_5	35	2011	2011		PartnerSkillBook	35	【Chủ】Tấn công mục tiêu tầm xa, kèm hiệu quả choáng\n\n[FFFE0D]Đồng Hành hệ【Thổ】có thể học kỹ năng này[-]	500000	1	1	1000	3	1	0	99999	10									
+2012	Quần Thể Trị Liệu Thuật	PartnerSkillLevel3_6	35	2012	2012		PartnerSkillBook	35	【Chủ】Trị liệu đồng đội trong tầm nhìn	500000	1	1	1000	3	1	0	99999	17									
+2013	Độc Chướng Thuật	PartnerSkillLevel3_7	35	2013	2013		PartnerSkillBook	35	【Chủ】Khiến mục tiêu trúng độc, vô hiệu hóa hiệu quả hồi sinh lực	500000	1	1	1000	3	1	0	99999	19									
+2014	Kim Cang Hộ Thể	PartnerSkillLevel3_8	35	2014	2014		PartnerSkillBook	35	【Chủ】Một đồng đội không bị sát thương trong một thời gian	500000	1	1	1000	3	1	0	99999	21									
+2015	Bất Động Minh Vương	PartnerSkillLevel3_9	35	2015	2015		PartnerSkillBook	35	【Chủ】 Khiến 1 đồng đội miễn dịch hiệu quả bất lợi và thuộc tính bất kỳ trong một thời gian	500000	1	1	1000	3	1	0	99999	23									
+2016	Khô Mộc Phùng Xuân	PartnerSkillLevel3_10	35	2016	2016		PartnerSkillBook	35	【Chủ】Khi trọng thương có tỉ lệ hồi sinh lực	500000	1	1	1000	3	1	0	99999	25									
+2017	Súc Lực Tiễn	PartnerSkillLevel3_11	35	2017	2017		PartnerSkillBook	35	【Chủ】Tấn công mục tiêu tầm xa, đánh lui mục tiêu	500000	1	1	1000	3	1	0	99999	27									
+2018	【Cao】Chính Xác	PartnerSkillLevel3_12	35	2018	2018		PartnerSkillBook	35	【Bị】Đồng Hành tăng chính xác	500000	1	1	1000	3	1	0	99999	30									
+2019	【Cao】Né Tránh	PartnerSkillLevel3_13	35	2019	2019		PartnerSkillBook	35	【Bị】Đồng Hành tăng né tránh	500000	1	1	1000	3	1	0	99999	33									
+2020	【Cao】Bỏ Qua Né Tránh	PartnerSkillLevel3_14	35	2020	2020		PartnerSkillBook	35	【Bị】Đồng Hành tăng bỏ qua né tránh	500000	1	1	1000	3	1	0	99999	36									
+2021	【Cao】Tỉ Lệ Kháng Bạo Kích	PartnerSkillLevel3_15	35	2021	2021		PartnerSkillBook	35	【Bị】Đồng Hành tăng tỉ lệ kháng bạo kích	500000	1	1	1000	3	1	0	99999	39									
+2022	【Cao】Hồi Sinh Lực	PartnerSkillLevel3_16	35	2022	2022		PartnerSkillBook	35	【Bị】Đồng Hành tăng hồi sinh lực	500000	1	1	1000	3	1	0	99999	42									
+2023	【Cao】Kháng Bị Thương	PartnerSkillLevel3_17	35	2023	2023		PartnerSkillBook	35	【Bị】Đồng Hành tăng khả năng kháng hiệu quả bị thương	500000	1	1	1000	3	1	0	99999	45									
+2024	【Cao】Kháng Làm Chậm	PartnerSkillLevel3_18	35	2024	2024		PartnerSkillBook	35	【Bị】Đồng Hành tăng khả năng kháng hiệu quả làm chậm	500000	1	1	1000	3	1	0	99999	48									
+2025	【Cao】Kháng Tàn Phế	PartnerSkillLevel3_19	35	2025	2025		PartnerSkillBook	35	【Bị】Tăng hiệu quả chống đỡ tàn phế của Đồng Hành	500000	1	1	1000	3	1	0	99999	51									
+2026	【Cao】Kháng Tê Liệt	PartnerSkillLevel3_20	35	2026	2026		PartnerSkillBook	35	【Bị】Đồng Hành tăng khả năng kháng hiệu quả tê liệt	500000	1	1	1000	3	1	0	99999	54									
+2027	【Cao】Kháng Choáng	PartnerSkillLevel3_21	35	2027	2027		PartnerSkillBook	35	【Bị】Đồng Hành tăng khả năng kháng hiệu quả choáng	500000	1	1	1000	3	1	0	99999	57									
+2028	【Trung】Tỉ Lệ Bạo Kích	PartnerSkillLevel3_22	35	2028	2028		PartnerSkillBook	35	【Bị】Đồng Hành tăng tỉ lệ bạo kích	500000	1	1	1000	3	1	0	99999	59									
+2029	【Trung】Tấn Công	PartnerSkillLevel3_23	35	2029	2029		PartnerSkillBook	35	【Bị】Đồng Hành tăng tấn công	500000	1	1	1000	3	1	0	99999	62									
+2030	【Trung】Sinh Lực	PartnerSkillLevel3_24	35	2030	2030		PartnerSkillBook	35	【Bị】Đồng Hành tăng sinh lực	500000	1	1	1000	3	1	0	99999	65									
+2031	【Trung】Di Chuyển	PartnerSkillLevel3_25	35	2031	2031		PartnerSkillBook	35	【Bị】Đồng Hành tăng di chuyển	500000	1	1	1000	3	1	0	99999	68									
+2032	【Trung】Kháng Kim	PartnerSkillLevel3_26	35	2032	2032		PartnerSkillBook	35	【Bị】Đồng Hành tăng kháng Kim	500000	1	1	1000	3	1	0	99999	71									
+2033	【Trung】Kháng Mộc	PartnerSkillLevel3_27	35	2033	2033		PartnerSkillBook	35	【Bị】Đồng Hành tăng kháng Mộc	500000	1	1	1000	3	1	0	99999	74									
+2034	【Trung】Kháng Thủy	PartnerSkillLevel3_28	35	2034	2034		PartnerSkillBook	35	【Bị】Đồng Hành tăng kháng Thủy	500000	1	1	1000	3	1	0	99999	77									
+2035	【Trung】Kháng Hỏa	PartnerSkillLevel3_29	35	2035	2035		PartnerSkillBook	35	【Bị】Đồng Hành tăng kháng Hỏa	500000	1	1	1000	3	1	0	99999	80									
+2036	【Trung】Kháng Thổ	PartnerSkillLevel3_30	35	2036	2036		PartnerSkillBook	35	【Bị】Đồng Hành tăng kháng Thổ	500000	1	1	1000	3	1	0	99999	83									
+2037	【Trung】Kháng Thuộc Tính	PartnerSkillLevel3_31	35	2037	2037		PartnerSkillBook	35	【Bị】Đồng Hành tăng khả năng chống đỡ hiệu quả thuộc tính	500000	1	1	1000	3	1	0	99999	86									
+2038	【Sơ】Hút Sinh Lực	PartnerSkillLevel3_32	35	2038	2038		PartnerSkillBook	35	【Bị】Đồng Hành tăng hút sinh lực	500000	1	1	1000	3	1	0	99999	88									
+2039	【Sơ】Hiệu Quả Bị Thương	PartnerSkillLevel3_33	35	2039	2039		PartnerSkillBook	35	【Bị】Đồng Hành đánh thường tăng hiệu quả gây sát thương\n\n[FFFE0D]Đồng Hành hệ【Kim】có thể học kỹ năng này[-]	500000	1	1	1000	3	1	0	99999	91									
+2040	【Sơ】Hiệu Quả Làm Chậm	PartnerSkillLevel3_34	35	2040	2040		PartnerSkillBook	35	【Bị】Đồng Hành đánh thường tăng hiệu quả làm chậm\n\n[FFFE0D]Đồng Hành hệ【Thủy】có thể học kỹ năng này[-]	500000	1	1	1000	3	1	0	99999	94									
+2041	【Sơ】Tàn Phế	PartnerSkillLevel3_35	35	2041	2041		PartnerSkillBook	35	【Bị】Đồng Hành đánh thường tăng hiệu quả gây tàn phế\n\n[FFFE0D]Đồng Hành hệ【Mộc】có thể học kỹ năng này[-]	500000	1	1	1000	3	1	0	99999	97									
+2042	【Sơ】Hiệu Quả Tê Liệt	PartnerSkillLevel3_36	35	2042	2042		PartnerSkillBook	35	【Bị】Đồng Hành đánh thường tăng hiệu quả gây tê liệt\n\n[FFFE0D]Đồng Hành hệ【Hỏa】có thể học kỹ năng này[-]	500000	1	1	1000	3	1	0	99999	100									
+2043	【Sơ】Hiệu Quả Choáng	PartnerSkillLevel3_37	35	2043	2043		PartnerSkillBook	35	【Bị】Đồng Hành đánh thường tăng hiệu quả gây choáng\n\n[FFFE0D]Đồng Hành hệ【Thổ】có thể học kỹ năng này[-]	500000	1	1	1000	3	1	0	99999	103									
+2044	【Sơ】Kháng Tất Cả	PartnerSkillLevel3_38	35	2044	2044		PartnerSkillBook	35	【Bị】Đồng Hành tăng kháng tất cả	500000	1	1	1000	3	1	0	99999	106									
+2045	【Sơ】Bỏ Qua Kháng Tất Cả	PartnerSkillLevel3_39	35	2045	2045		PartnerSkillBook	35	【Bị】Đồng Hành tăng khả năng bỏ qua kháng tất cả	500000	1	1	1000	3	1	0	99999	109									
+2046	【Sơ】Phản Kích	PartnerSkillLevel3_40	35	2046	2046		PartnerSkillBook	35	【Bị】Bị sát thương cận chiến có tỉ lệ phản kích bằng lượng nhỏ sức tấn công bản thân	500000	1	1	1000	3	1	0	99999	112									
+2047	【Sơ】Tốc Đánh	PartnerSkillLevel3_41	35	2047	2047		PartnerSkillBook	35	【Bị】Đồng Hành tăng tốc đánh	500000	1	1	1000	3	1	0	99999	115									
+2048	Bán Nguyệt Trảm	PartnerSkillLevel4_1	35	2048	2048		PartnerSkillBook	35	【Chủ】Tấn công địch phạm vi nhỏ, đồng thời hút sinh lực\n\n[FFFE0D]Đồng Hành hệ【Kim】có thể học kỹ năng này[-]	1500000	1	1	1000	4	1	0	99999	11									
+2049	Kinh Đào Hãi Lãng	PartnerSkillLevel4_2	35	2049	2049		PartnerSkillBook	35	【Chủ】Tạo sóng tấn công địch trên đường thẳng\n\n[FFFE0D]Đồng Hành hệ【Thủy】có thể học kỹ năng này[-]	1500000	1	1	1000	4	1	0	99999	12									
+2050	Xuyên Tâm Thích	PartnerSkillLevel4_3	35	2050	2050		PartnerSkillBook	35	【Chủ】Tạo gai đất xung quanh gây sát thương địch\n\n[FFFE0D]Đồng Hành hệ【Mộc】có thể học kỹ năng này[-]	1500000	1	1	1000	4	1	0	99999	13									
+2051	Thôi Sơn Điền Hải	PartnerSkillLevel4_4	35	2051	2051		PartnerSkillBook	35	【Chủ】Thiêu đốt gây sát thương duy trì cho địch trên đường thẳng\n\n[FFFE0D]Đồng Hành hệ【Hỏa】có thể học kỹ năng này[-]	1500000	1	1	1000	4	1	0	99999	14									
+2052	Cửu Thiên Cuồng Lôi	PartnerSkillLevel4_5	35	2052	2052		PartnerSkillBook	35	【Chủ】Sấm sét tấn công địch và tiếp tục tấn công mục tiêu khác ở xung quanh với số lần nhất định\n\n[FFFE0D]Đồng Hành hệ【Thổ】có thể học kỹ năng này[-]	1500000	1	1	1000	4	1	0	99999	15									
+2053	Quần Thể Độc Chướng	PartnerSkillLevel4_6	35	2053	2053		PartnerSkillBook	35	【Chủ】Khiến mục tiêu trong phạm vi trúng độc, vô hiệu hóa hiệu quả hồi sinh lực	1500000	1	1	1000	4	1	0	99999	20									
+2054	Quần Thể Kim Cang	PartnerSkillLevel4_7	35	2054	2054		PartnerSkillBook	35	【Chủ】Khiến phe ta trong tầm nhìn không bị sát thương trong một thời gian	1500000	1	1	1000	4	1	0	99999	22									
+2055	Quần Thể Minh Vương	PartnerSkillLevel4_8	35	2055	2055		PartnerSkillBook	35	【Chủ】Khiến phe ta trong tầm nhìn miễn dịch hiệu quả bất lợi và thuộc tính bất kỳ trong một thời gian	1500000	1	1	1000	4	1	0	99999	24									
+2056	Niết Bàn Trùng Sinh	PartnerSkillLevel4_9	35	2056	2056		PartnerSkillBook	35	【Chủ】Khi trọng thương có tỉ lệ hồi sinh lực, xóa tất cả hiệu quả bất lợi và thuộc tính	1500000	1	1	1000	4	1	0	99999	26									
+2057	【Cao】Tỉ Lệ Bạo Kích	PartnerSkillLevel4_10	35	2057	2057		PartnerSkillBook	35	【Bị】Đồng Hành tăng tỉ lệ bạo kích	1500000	1	1	1000	4	1	0	99999	60									
+2058	【Cao】Tấn Công	PartnerSkillLevel4_11	35	2058	2058		PartnerSkillBook	35	【Bị】Đồng Hành tăng tấn công	1500000	1	1	1000	4	1	0	99999	63									
+2059	【Cao】Sinh Lực	PartnerSkillLevel4_12	35	2059	2059		PartnerSkillBook	35	【Bị】Đồng Hành tăng sinh lực	1500000	1	1	1000	4	1	0	99999	66									
+2060	【Cao】Di Chuyển	PartnerSkillLevel4_13	35	2060	2060		PartnerSkillBook	35	【Bị】Đồng Hành tăng di chuyển	1500000	1	1	1000	4	1	0	99999	69									
+2061	【Cao】Kháng Kim	PartnerSkillLevel4_14	35	2061	2061		PartnerSkillBook	35	【Bị】Đồng Hành tăng kháng Kim	1500000	1	1	1000	4	1	0	99999	72									
+2062	【Cao】Kháng Mộc	PartnerSkillLevel4_15	35	2062	2062		PartnerSkillBook	35	【Bị】Đồng Hành tăng kháng Mộc	1500000	1	1	1000	4	1	0	99999	75									
+2063	【Cao】Kháng Thủy	PartnerSkillLevel4_16	35	2063	2063		PartnerSkillBook	35	【Bị】Đồng Hành tăng kháng Thủy	1500000	1	1	1000	4	1	0	99999	78									
+2064	【Cao】Kháng Hỏa	PartnerSkillLevel4_17	35	2064	2064		PartnerSkillBook	35	【Bị】Đồng Hành tăng kháng Hỏa	1500000	1	1	1000	4	1	0	99999	81									
+2065	【Cao】Kháng Thổ	PartnerSkillLevel4_18	35	2065	2065		PartnerSkillBook	35	【Bị】Đồng Hành tăng kháng Thổ	1500000	1	1	1000	4	1	0	99999	84									
+2066	【Cao】Kháng Thuộc Tính	PartnerSkillLevel4_19	35	2066	2066		PartnerSkillBook	35	【Bị】Đồng Hành tăng khả năng chống đỡ hiệu quả thuộc tính	1500000	1	1	1000	4	1	0	99999	87									
+2067	【Trung】Hút Sinh Lực	PartnerSkillLevel4_20	35	2067	2067		PartnerSkillBook	35	【Bị】Đồng Hành tăng hút sinh lực	1500000	1	1	1000	4	1	0	99999	89									
+2068	【Trung】Hiệu Quả Bị Thương	PartnerSkillLevel4_21	35	2068	2068		PartnerSkillBook	35	【Bị】Đồng Hành đánh thường tăng hiệu quả gây sát thương\n\n[FFFE0D]Đồng Hành hệ【Kim】có thể học kỹ năng này[-]	1500000	1	1	1000	4	1	0	99999	92									
+2069	【Trung】Hiệu Quả Làm Chậm	PartnerSkillLevel4_22	35	2069	2069		PartnerSkillBook	35	【Bị】Đồng Hành đánh thường tăng hiệu quả làm chậm\n\n[FFFE0D]Đồng Hành hệ【Thủy】có thể học kỹ năng này[-]	1500000	1	1	1000	4	1	0	99999	95									
+2070	【Trung】Tàn Phế	PartnerSkillLevel4_23	35	2070	2070		PartnerSkillBook	35	【Bị】Đồng Hành đánh thường tăng hiệu quả gây tàn phế\n\n[FFFE0D]Đồng Hành hệ【Mộc】có thể học kỹ năng này[-]	1500000	1	1	1000	4	1	0	99999	98									
+2071	【Trung】Hiệu Quả Tê Liệt	PartnerSkillLevel4_24	35	2071	2071		PartnerSkillBook	35	【Bị】Đồng Hành đánh thường tăng hiệu quả gây tê liệt\n\n[FFFE0D]Đồng Hành hệ【Hỏa】có thể học kỹ năng này[-]	1500000	1	1	1000	4	1	0	99999	101									
+2072	【Trung】Hiệu Quả Choáng	PartnerSkillLevel4_25	35	2072	2072		PartnerSkillBook	35	【Bị】Đồng Hành đánh thường tăng hiệu quả gây choáng\n\n[FFFE0D]Đồng Hành hệ【Thổ】có thể học kỹ năng này[-]	1500000	1	1	1000	4	1	0	99999	104									
+2073	【Trung】Kháng Tất Cả	PartnerSkillLevel4_26	35	2073	2073		PartnerSkillBook	35	【Bị】Đồng Hành tăng kháng tất cả	1500000	1	1	1000	4	1	0	99999	107									
+2074	【Trung】Bỏ Qua Kháng Tất Cả	PartnerSkillLevel4_27	35	2074	2074		PartnerSkillBook	35	【Bị】Đồng Hành tăng khả năng bỏ qua kháng tất cả	1500000	1	1	1000	4	1	0	99999	110									
+2075	【Trung】Phản Kích	PartnerSkillLevel4_28	35	2075	2075		PartnerSkillBook	35	【Bị】Bị sát thương cận chiến có tỉ lệ phản kích bằng một phần sức tấn công bản thân	1500000	1	1	1000	4	1	0	99999	113									
+2076	【Trung】Tốc Đánh	PartnerSkillLevel4_29	35	2076	2076		PartnerSkillBook	35	【Bị】Đồng Hành tăng tốc đánh	1500000	1	1	1000	4	1	0	99999	116									
+2077	Bách Thảo Tiên Lộ	PartnerSkillLevel5_1	35	2077	2077		PartnerSkillBook	35	【Chủ】Trị liệu đồng đội trong tầm nhìn, xóa tất cả hiệu quả thuộc tính dị thường và trúng độc	5000000	1	1	1000	6	1	0	99999	18									
+2078	【Cao】Hút Sinh Lực	PartnerSkillLevel5_2	35	2078	2078		PartnerSkillBook	35	【Bị】Đồng Hành tăng hút sinh lực	5000000	1	1	1000	6	1	0	99999	90									
+2079	【Cao】Hiệu Quả Bị Thương	PartnerSkillLevel5_3	35	2079	2079		PartnerSkillBook	35	【Bị】Đồng Hành đánh thường tăng hiệu quả gây sát thương\n\n[FFFE0D]Đồng Hành hệ【Kim】có thể học kỹ năng này[-]	5000000	1	1	1000	6	1	0	99999	93									
+2080	【Cao】Hiệu Quả Làm Chậm	PartnerSkillLevel5_4	35	2080	2080		PartnerSkillBook	35	【Bị】Đồng Hành đánh thường tăng hiệu quả làm chậm\n\n[FFFE0D]Đồng Hành hệ【Thủy】có thể học kỹ năng này[-]	5000000	1	1	1000	6	1	0	99999	96									
+2081	【Cao】Tàn Phế	PartnerSkillLevel5_5	35	2081	2081		PartnerSkillBook	35	【Bị】Đồng Hành đánh thường tăng hiệu quả gây tàn phế\n\n[FFFE0D]Đồng Hành hệ【Mộc】có thể học kỹ năng này[-]	5000000	1	1	1000	6	1	0	99999	99									
+2082	【Cao】Hiệu Quả Tê Liệt	PartnerSkillLevel5_6	35	2082	2082		PartnerSkillBook	35	【Bị】Đồng Hành đánh thường tăng hiệu quả gây tê liệt\n\n[FFFE0D]Đồng Hành hệ【Hỏa】có thể học kỹ năng này[-]	5000000	1	1	1000	6	1	0	99999	102									
+2083	【Cao】Hiệu Quả Choáng	PartnerSkillLevel5_7	35	2083	2083		PartnerSkillBook	35	【Bị】Đồng Hành đánh thường tăng hiệu quả gây choáng\n\n[FFFE0D]Đồng Hành hệ【Thổ】có thể học kỹ năng này[-]	5000000	1	1	1000	6	1	0	99999	105									
+2084	【Cao】Kháng Tất Cả	PartnerSkillLevel5_8	35	2084	2084		PartnerSkillBook	35	【Bị】Đồng Hành tăng kháng tất cả	5000000	1	1	1000	6	1	0	99999	108									
+2085	【Cao】Bỏ Qua Kháng Tất Cả	PartnerSkillLevel5_9	35	2085	2085		PartnerSkillBook	35	【Bị】Đồng Hành tăng khả năng bỏ qua kháng tất cả	5000000	1	1	1000	6	1	0	99999	111									
+2086	【Cao】Phản Kích	PartnerSkillLevel5_10	35	2086	2086		PartnerSkillBook	35	【Bị】Bị sát thương cận chiến có tỉ lệ phản kích bằng phần lớn sức tấn công bản thân	5000000	1	1	1000	6	1	0	99999	114									
+2087	【Cao】Tốc Đánh	PartnerSkillLevel5_11	35	2087	2087		PartnerSkillBook	35	【Bị】Đồng Hành tăng tốc đánh	5000000	1	1	1000	6	1	0	99999	117									
+800001	【Cao】Thanh Long Phân Hải Trảo	PartnerSkillLevel6_1	35	800001	800001		PartnerSkillBook	35	[Bị] Đồng Hành tăng tấn công, bỏ qua né tránh, tỉ lệ bạo kích	15000000	1	1	1000	7	1	0	99999	118									
+800002	【Cao】Huyền Võ Đại Hoang Chung	PartnerSkillLevel6_2	35	800002	800002		PartnerSkillBook	35	[Bị] Đồng Hành tăng sinh lực, né tránh, thời gian kháng hiệu quả thuộc tính	15000000	1	1	1000	7	1	0	99999	119									
+800003	【Cao】Kim Thi	PartnerSkillLevel6_3	35	800003	800003		PartnerSkillBook	35	[Chủ] Sát thương toàn màn hình kèm bị thương	15000000	1	1	1000	7	1	0	99999	120									
+800004	【Cao】Mật Lâm Đấu Phồn Tinh	PartnerSkillLevel6_4	35	800004	800004		PartnerSkillBook	35	[Chủ] Sát thương toàn màn hình kèm tàn phế	15000000	1	1	1000	7	1	0	99999	121									
+800005	【Cao】Nghịch Lưu	PartnerSkillLevel6_5	35	800005	800005		PartnerSkillBook	35	[Chủ] Sát thương toàn màn hình kèm làm chậm	15000000	1	1	1000	7	1	0	99999	122									
+800006	【Cao】Tam Muội Li Hỏa Ngục	PartnerSkillLevel6_6	35	800006	800006		PartnerSkillBook	35	[Chủ] Sát thương toàn màn hình kèm tê liệt	15000000	1	1	1000	7	1	0	99999	123									
+800007	【Cao】Bát Phương Tinh Lôi Đỗng	PartnerSkillLevel6_7	35	800007	800007		PartnerSkillBook	35	[Chủ] Sát thương toàn màn hình kèm choáng	15000000	1	1	1000	7	1	0	99999	124									
+800008	【Cao】Quần Thể Kim Cang	PartnerSkillLevel6_8	35	800008	800008		PartnerSkillBook	35	[Chủ] Đồng đội trong tầm nhìn không chịu sát thương trong một thời gian và hồi sinh lực	15000000	1	1	1000	7	1	0	99999	125									
+800009	【Cao】Quần Thể Minh Vương	PartnerSkillLevel6_9	35	800009	800009		PartnerSkillBook	35	[Chủ] Khiến phe ta trong tầm nhìn miễn dịch tất cả trạng thái thuộc tính và trạng thái xấu, đồng thời tăng Né Tránh trong thời gian nhất định	15000000	1	1	1000	7	1	0	99999	126									
+800010	【Cao】Luân Hồi Vãng Sinh	PartnerSkillLevel6_10	35	800010	800010		PartnerSkillBook	35	[Bị] Trọng thương có xác suất hồi phục sinh lực, xóa tất cả trạng thái thuộc tính, trạng thái xấu và tăng tấn công	15000000	1	1	1000	7	1	0	99999	127									
+800011	【Cao】Phá Thiên Nhất Kích	PartnerSkillLevel6_11	35	800011	800011		PartnerSkillBook	35	[Chủ] Gây sát thương cho địch trên đường kèm đánh lui và định thân	15000000	1	1	1000	7	1	0	99999	128									
+800012	【Cao】Thập Phương Câu Tĩnh	PartnerSkillLevel6_12	35	800012	800012		PartnerSkillBook	35	[Chủ] Xóa hiệu quả có lợi của địch phạm vi rộng	15000000	1	1	1000	7	1	0	99999	129									
+800013	【Cao】Quần Thể Độc Chướng	PartnerSkillLevel6_13	35	800013	800013		PartnerSkillBook	35	[Chủ] Khiến mục tiêu trong phạm vi trúng độc, vô hiệu hồi phục, đồng thời giảm hộ thuẫn, giảm kháng tất cả	15000000	1	1	1000	7	1	0	99999	130									
+800014	【Thần】Khải Minh Chi Nộ	PartnerSkillLevel7_1	35	800014	800014		PartnerSkillBook	35	[Chủ Động] Tăng tỉ lệ và thời gian bị thương toàn màn hình, gây nhiều sát thương 3 lần trong phạm vi kèm hiệu quả bị thương	15000000	1	1	1000	9	1	0	99999	131									
+800015	【Thần】Mật Lâm Hoán Kinh	PartnerSkillLevel7_2	35	800015	800015		PartnerSkillBook	35	[Chủ Động] Tăng tỉ lệ và thời gian gây hiệu quả tàn phế toàn màn hình, gây nhiều sát thương 3 lần và tỉ lệ hiệu quả gây tàn phế cho địch trong phạm vi	15000000	1	1	1000	9	1	0	99999	132									
+800016	【Thần】Nộ Sương Cuồng Thao	PartnerSkillLevel7_3	35	800016	800016		PartnerSkillBook	35	[Chủ Động] Tăng tỉ lệ và thời gian làm chậm toàn màn hình, gây nhiều sát thương 3 lần và tỉ lệ làm chậm địch trong phạm vi	15000000	1	1	1000	9	1	0	99999	133									
+800017	【Thần】Phần Sương Hỏa Ngục	PartnerSkillLevel7_4	35	800017	800017		PartnerSkillBook	35	[Chủ Động] Tăng tỉ lệ và thời gian làm tê liệt toàn màn hình, gây nhiều sát thương 3 lần và tỉ lệ làm tê liệt địch trong phạm vi	15000000	1	1	1000	9	1	0	99999	134									
+800018	【Thần】Đại Địa Lôi Đỗng	PartnerSkillLevel7_5	35	800018	800018		PartnerSkillBook	35	[Chủ Động] Tăng tỉ lệ và thời gian gây choáng, gây nhiều sát thương 3 lần và tỉ lệ gây choáng cho địch trong phạm vi	15000000	1	1	1000	9	1	0	99999	135									
+800019	【Thần】Siêu Quần Thể Kim Cang	PartnerSkillLevel7_6	35	800019	800019		PartnerSkillBook	35	[Chủ Động] Đồng đội trong tầm nhìn không chịu sát thương trong một thời gian và hồi sinh lực	15000000	1	1	1000	9	1	0	99999	136									
+800020	【Thần】Siêu Quần Thể Minh Vương	PartnerSkillLevel7_7	35	800020	800020		PartnerSkillBook	35	[Chủ Động] Giúp phe ta trong tầm nhìn miễn dịch thuộc tính, hiệu quả bất lợi trong một thời gian, đồng thời tăng né tránh	15000000	1	1	1000	9	1	0	99999	137									
+800021	【Thần】Luân Hồi Lục Đạo	PartnerSkillLevel7_8	35	800021	800021		PartnerSkillBook	35	[Bị Động] Khi bị trọng thương có tỉ lệ hồi lượng lớn sinh lực, giải trừ thuộc tính, hiệu quả bất lợi, đồng thời tăng tấn công	15000000	1	1	1000	9	1	0	99999	138									
+800022	【Thần】Phá Thiên Võng Nguyệt	PartnerSkillLevel7_9	35	800022	800022		PartnerSkillBook	35	[Chủ Động] Tăng tỉ lệ và thời gian làm hỗn loạn, gây nhiều sát thương 2 lần và gây thêm hiệu quả hỗn loạn	15000000	1	1	1000	9	1	0	99999	139									
+800023	【Thần】Bách Niệm Cự Diệt	PartnerSkillLevel7_10	35	800023	800023		PartnerSkillBook	35	[Chủ Động] Gây sát thương cho địch trên đường kèm đánh lui và định thân trong phạm vi lớn	15000000	1	1	1000	9	1	0	99999	140									
+800024	【Thần】Quần Thể Sương Độc Chướng	PartnerSkillLevel7_11	35	800024	800024		PartnerSkillBook	35	[Chủ Động] Khiến mục tiêu trong phạm vi trúng độc, vô hiệu hồi phục, đồng thời giảm hộ thuẫn, giảm kháng tất cả	15000000	1	1	1000	9	1	0	99999	141									
+800025	【Thần】Khải Minh Chi Giáp	PartnerSkillLevel7_12	35	800025	800025		PartnerSkillBook	35	[Hỗ Trợ] Gây sát thương cho địch trên đường kèm đánh lui và định thân 	15000000	1	1	1000	9	1	0	99999	142									
+800026	【Thần】Đoạn Cấp	PartnerSkillLevel7_13	35	800026	800026		PartnerSkillBook	35	[Hỗ Trợ] Giúp phe ta tăng khả năng hút sinh lực	15000000	1	1	1000	9	1	0	99999	143									

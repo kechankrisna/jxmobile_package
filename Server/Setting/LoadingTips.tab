@@ -1,0 +1,30 @@
+nLevel	szTimeFrame	szTips
+0	OpenLevel39	Nhấp hình đại diện góc trên bên trái, chọn Thiết lập, chọn [FFFE0D]chất lượng hình ảnh thấp[-] và [FFFE0D]giảm số người chơi cùng màn hình [-] để làm nhẹ máy!
+20	OpenLevel39	Mỗi ngày [FFFE0D]lần đầu tấn công Thủ Lĩnh Dã Ngoại[-] sẽ nhận 1 phần thưởng, đừng bỏ lỡ!
+0	OpenLevel39	Hãy vào [FFFE0D]bang hội[-] tham gia các hoạt động để nhận nhiều phần thưởng hấp dẫn!
+20	OpenLevel39	[FFFE0D]Bản đồ Dã Ngoại[-] có thể bị đại hiệp khác tập kích, phải cẩn thận!
+20	OpenLevel39	Đánh bại Thủ Lĩnh Dã Ngoại xuất hiện theo giờ ở [FFFE0D]Bản đồ luyện công Lv20 trở lên[-] nhận phần thưởng!
+0	OpenLevel39	Khi đang mở giao diện [FFFE0D]Đội[-], nhấp nút [FFFE0D]Đội[-] lần nữa có thể vào giao diện Đội
+0	OpenLevel39	Khi đang mở giao diện [FFFE0D]Nhiệm vụ[-], nhấp nút [FFFE0D]Nhiệm vụ[-] lần nữa có thể vào giao diện Nhiệm vụ
+0	OpenLevel39	Hãy mở giao diện hoạt động xem [FFFE0D]Mục tiêu ngày[-] để tham gia hoạt động!
+0	OpenLevel39	Ở trạng thái chiến đấu, [FFFE0D]nhấn tự làm hoặc tự động[-] có thể vào thiết lập chi tiết tự động dùng kỹ năng
+20	OpenLevel39	Dạng bang hội có thể tấn công người chơi khác [FFFE0D]ở dạng tự do, bang hội[-] [FFFE0D]khác bang khác đội[-]
+20	OpenLevel39	Dạng tự do có thể tấn công người chơi khác ở dạng bất kì [FFFE0D]khác bang khác đội[-]
+15	OpenLevel39	Trong quá trình đào Tàng Bảo Đồ có khả năng [FFFE0D]rơi vào Động Thần Bí[-], hãy mời [FFFE0D]thành viên bang hội[-] và [FFFE0D]hảo hữu[-] đến giúp!
+15	OpenLevel39	Đánh bại [FFFE0D]Địa Cung Thủ Hộ[-] ở [FFFE0D]Động Thần Bí[-] xong hãy quan sát kỹ, biết đâu sẽ có bất ngờ!
+20	OpenLevel39	[FFFE0D] 12:30 - 12:42[-], [FFFE0D] 19:30 - 19:42 [-], Minh Chủ Võ Lâm sẽ chờ các vị đến khiêu chiến
+0	OpenLevel39	Muốn [FFFE0D]tham gia hoạt động tổ đội[-], vào [FFFE0D]giao diện hoạt động tổ đội[-] chọn hoạt động muốn tham gia, [FFFE0D]tự động ghép[-] 
+0	OpenLevel39	Vật phẩm không cần dùng có thể [FFFE0D]bày bán[-] cho người chơi khác mua
+20	OpenLevel39	Đệ tử [FFFE0D]Thiên Nhẫn[-] phải biết [FFFE0D]chờ thời cơ hành động, đánh phải trúng đích[-]
+0	OpenLevel39	Nhắc nhở: Trò chơi không có tính năng nhập CODE, mua bán và tặng CODE là hành vi lừa đảo, đại hiệp nên cẩn thận!
+20	OpenDay2D	Nhắc nhở: Rời mạng sẽ vào trạng thái [FFFE0D]Ủy Thác Rời Mạng[-] tích lũy EXP tăng cấp, tối đa tích lũy [FFFE0D]48 giờ[-]!
+0	OpenDay33	Nhắc nhở: Trong Gia Viên cũng tích lũy thời gian ủy thác, khi lắp đặt và chơi không sợ tổn thất EXP!
+0	OpenLevel39	Ngũ Hành Tương Khắc: [FFFE0D]Kim (Thiên Vương/Thiếu Lâm/Tàng Kiếm/Bá Đao)[-] khắc [64db00]Mộc (Tiêu Dao/Đường Môn/Ngũ Độc/Hoa Sơn)[-]
+0	OpenLevel39	Ngũ Hành Tương Khắc: [64db00]Mộc (Tiêu Dao/Đường Môn/Ngũ Độc/Hoa Sơn)[-] khắc [F4A460]Thổ (Võ Đang/Côn Lôn/Trường Ca)[-]
+0	OpenLevel39	Ngũ Hành Tương Khắc: [F4A460]Thổ (Võ Đang/Côn Lôn/Trường Ca)[-] khắc [00BFFF]Thủy (Nga Mi/Thúy Yên/Thiên Sơn/Đoàn Thị)[-]
+0	OpenLevel39	Ngũ Hành Tương Khắc: [00BFFF]Thủy (Nga Mi/Thúy Yên/Thiên Sơn/Đoàn Thị)[-] khắc [DC143C]Hỏa (Đào Hoa/Thiên Nhẫn/Cái Bang/Minh Giáo)[-]
+0	OpenLevel39	Ngũ Hành Tương Khắc:[DC143C]Hỏa (Đào Hoa/Thiên Nhẫn/Cái Bang/Minh Giáo)[-] khắc [FFFE0D]Kim (Thiên Vương/Thiếu Lâm/Tàng Kiếm/Bá Đao)[-]
+0	OpenLevel39	Lăng Tuyệt Phong là hiểm địa trong thiên hạ, luôn thu hút vô số nhân sĩ giang hồ đến khám phá
+0	OpenLevel39	Võ Đang, Thiếu Lâm là trụ cột võ lâm chính đạo, chỉ là gần đây các thế lực vùng dậy nên hành sự phải cẩn trọng
+0	OpenLevel39	Tiêu Dao, Đào Hoa là phái mới nổi trong trăm năm trở lại đây, võ học cực kỳ vi diệu
+0	OpenLevel39	Võ Lâm Sử: Tương truyền Bá Đao đã tái xuất giang hồ, cục diện võ lâm sẽ thay đổi ra sao?

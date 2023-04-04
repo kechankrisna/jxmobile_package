@@ -1,0 +1,27 @@
+GroupID	TimeFrame	ItemID	Param	NotSave	Desc
+1	OpenLevel119	3553	0.375		Đồng Hành-Hạng Vũ
+1	OpenLevel119	3543	0.125		Hạng Vũ-Bá Vương Kích
+1	OpenDay399	3553	0.375		Đồng Hành-Hạng Vũ
+1	OpenDay399	3543	0.125		Hạng Vũ-Bá Vương Kích
+1	OpenLevel149	3553	0.375		Đồng Hành-Hạng Vũ
+1	OpenLevel149	3543	0.125		Hạng Vũ-Bá Vương Kích
+1	OpenLevel149	10140	0.125		Hạng Vũ-Phong Ấn Kích
+1	OpenLevel159	3553	0.375		Đồng Hành-Hạng Vũ
+1	OpenLevel159	3543	0.125		Hạng Vũ-Bá Vương Kích
+1	OpenLevel159	10140	0.125		Hạng Vũ-Phong Ấn Kích
+2	OpenDay353	3553	0.25		Đồng Hành-Hạng Vũ
+2	OpenDay353	4595	0.25	1	Đá Hồn Hạng Vũ-Sơ
+2	OpenDay353	6112	0.25	1	Đá Hồn Ngu Cơ Tuyệt Thế-Sơ
+2	OpenDay353	3543	0.125		Hạng Vũ-Bá Vương Kích
+2	OpenDay399	3553	0.25		Đồng Hành-Hạng Vũ
+2	OpenDay399	4595	0.25	1	Đá Hồn Hạng Vũ-Sơ
+2	OpenDay399	6112	0.25	1	Đá Hồn Ngu Cơ Tuyệt Thế-Sơ
+2	OpenDay399	3543	0.125		Hạng Vũ-Bá Vương Kích
+2	OpenLevel149	3553	0.25		Đồng Hành-Hạng Vũ
+2	OpenLevel149	4595	0.25	1	Đá Hồn Hạng Vũ-Sơ
+2	OpenLevel149	6112	0.25	1	Đá Hồn Ngu Cơ Tuyệt Thế-Sơ
+2	OpenLevel149	3543	0.125		Hạng Vũ-Bá Vương Kích
+2	OpenLevel159	3553	0.25		Đồng Hành-Hạng Vũ
+2	OpenLevel159	4595	0.25	1	Đá Hồn Hạng Vũ-Sơ
+2	OpenLevel159	6112	0.25	1	Đá Hồn Ngu Cơ Tuyệt Thế-Sơ
+2	OpenLevel159	3543	0.125		Hạng Vũ-Bá Vương Kích

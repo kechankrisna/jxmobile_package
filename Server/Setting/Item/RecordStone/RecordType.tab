@@ -1,0 +1,9 @@
+StoneId	Type	Name	SaveKey	Sprite	Atlas	LevelMin1	LevelMin2	LevelMin3	LevelMin4	LevelMin5	LevelMin6	LevelMin7
+3577	Battle	Phá địch Chiến Trường	11	RecordStone_N1	UI/Atlas/Item/Item/Item6.prefab	0	500	1000	3000	10000	20000	50000
+3578	Domain	Phá địch Công Thành Chiến	12	RecordStone_N2	UI/Atlas/Item/Item/Item6.prefab	0	500	1000	3000	10000	20000	50000
+3579	WhiteTiger	Phá địch Bạch Hổ Đường	13	RecordStone_N3	UI/Atlas/Item/Item/Item6.prefab	0	150	300	1000	3000	6000	15000
+3580	FactionBattle	Số lần Tân Vương trúng cử	14	RecordStone_N4	UI/Atlas/Item/Item/Item6.prefab	0	2	4	12	20	40	100
+3581	Master	Minh Chủ Võ Lâm đoạt điểm thành công	15	RecordStone_N5	UI/Atlas/Item/Item/Item6.prefab	0	50	100	300	1000	2000	5000
+3582	Boss	Phá địch Danh Tướng	16	RecordStone_N6	UI/Atlas/Item/Item/Item6.prefab	0	500	1000	3000	10000	20000	50000
+3584	Tower	Trận thắng Thông Thiên Tháp	17	RecordStone_N8	UI/Atlas/Item/Item/Item6.prefab	0	20	40	120	200	400	1000
+3583	HuaShan	Trận thắng Hoa Sơn Luận Kiếm	18	RecordStone_N7	UI/Atlas/Item/Item/Item6.prefab	0	18	36	90	180	360	720

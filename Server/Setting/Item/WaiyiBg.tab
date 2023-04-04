@@ -1,0 +1,6 @@
+BgId	BgName	BgTipsPic	BgTexture	ViewBgTexture	RequirementText	Desc
+1	Chủ Đề-Đêm Trăng	DressBgBig1	UI/Textures/DressBg.png	UI/Textures/OthersDetailBg1.jpg	Chủ đề mặc định	BgId không được trống và trùng, dữ liệu bộ nhớ hiện chỉ hỗ trợ đến 32
+2	Chủ Đề-Sắc Xuân	DressBgBig2	UI/Textures/DressBg2.png	UI/Textures/OthersDetailBg2.jpg	Hấp dẫn đạt 2000 mở	
+3	Chủ Đề-Rừng Phong	DressBgBig3	UI/Textures/DressBg3.png	UI/Textures/OthersDetailBg3.jpg	Hấp dẫn đạt 5000 mở	
+4	Chủ Đề-Hương Hoa	DressBgBig4	UI/Textures/DressBg4.png	UI/Textures/OthersDetailBg4.jpg	Hấp dẫn đạt 20000 mở	
+5	Chủ đề-Thuyền Quyên	DressBgBig5	UI/Textures/DressBg5.png	UI/Textures/OthersDetailBg5.jpg	Top 3 hoạt động Trung Thu Tế Nguyệt có thể mở khóa	

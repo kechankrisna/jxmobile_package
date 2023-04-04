@@ -1,0 +1,595 @@
+TemplateId	NextTemplateId	Name	Debris	InsetType	FightPower	Weapon	Helm	Cuff	Armor	Belt	Boots	Necklace	Ring	Pendant	Amulet	AttribType1	Value11	Value21	Value31	AttribType2	Value12	Value22	Value32
+201	230	Mảnh Đá Sinh Lực	1	0																			
+230	231	Đá Sinh Lực Lv1		0	20		1	1		1	1					lifemax_v	240						
+231	232	Đá Sinh Lực Lv2		0	60		1	1		1	1					lifemax_v	480						
+232		Đá Sinh Lực Lv3		0	180		1	1		1	1					lifemax_v	840						
+233		Đá Sinh Lực Lv4		0	540		1	1		1	1					lifemax_v	1200						
+234		Đá Sinh Lực Lv5		0	1650		1	1		1	1					lifemax_v	1680						
+235		Đá Sinh Lực Lv6		0	5000		1	1		1	1					lifemax_v	2160						
+236		Đá Sinh Lực Lv7		0	15000		1	1		1	1					lifemax_v	3080						
+237		Đá Sinh Lực Lv8		0	45000		1	1		1	1					lifemax_v	4000						
+238		Đá Sinh Lực Lv9		0	45000		1	1		1	1					lifemax_v	4000						
+202	240	Mảnh Đá Tấn Công	1	0																			
+240	241	Đá Tấn Công Lv1		0	20							1	1	1	1	physical_damage_v	12		12				
+241	242	Đá Tấn Công Lv2		0	60							1	1	1	1	physical_damage_v	24		24				
+242		Đá Tấn Công Lv3		0	180							1	1	1	1	physical_damage_v	42		42				
+243		Đá Tấn Công Lv4		0	540							1	1	1	1	physical_damage_v	60		60				
+244		Đá Tấn Công Lv5		0	1650							1	1	1	1	physical_damage_v	84		84				
+245		Đá Tấn Công Lv6		0	5000							1	1	1	1	physical_damage_v	108		108				
+246		Đá Tấn Công Lv7		0	15000							1	1	1	1	physical_damage_v	154		154				
+247		Đá Tấn Công Lv8		0	45000							1	1	1	1	physical_damage_v	200		200				
+248		Đá Tấn Công Lv9		0	45000							1	1	1	1	physical_damage_v	200		200				
+203	250	Mảnh Đá Kháng Tính	1	0																			
+250	251	Đá Kháng Tính Lv1		0	20		1	1	1	1						all_series_resist_v	6						
+251	252	Đá Kháng Tính Lv2		0	60		1	1	1	1						all_series_resist_v	12						
+252		Đá Kháng Tính Lv3		0	180		1	1	1	1						all_series_resist_v	21						
+253		Đá Kháng Tính Lv4		0	540		1	1	1	1						all_series_resist_v	30						
+254		Đá Kháng Tính Lv5		0	1650		1	1	1	1						all_series_resist_v	42						
+255		Đá Kháng Tính Lv6		0	5000		1	1	1	1						all_series_resist_v	54						
+256		Đá Kháng Tính Lv7		0	15000		1	1	1	1						all_series_resist_v	77						
+257		Đá Kháng Tính Lv8		0	45000		1	1	1	1						all_series_resist_v	100						
+258		Đá Kháng Tính Lv9		0	45000		1	1	1	1						all_series_resist_v	100						
+204	260	Mảnh Đá Bỏ Qua Kháng	1	0																			
+260	261	Đá Bỏ Qua Kháng Lv1		0	20	1						1	1	1		ignore_all_resist_v	100	6					
+261	262	Đá Bỏ Qua Kháng Lv2		0	60	1						1	1	1		ignore_all_resist_v	100	12					
+262		Đá Bỏ Qua Kháng Lv3		0	180	1						1	1	1		ignore_all_resist_v	100	21					
+263		Đá Bỏ Qua Kháng Lv4		0	540	1						1	1	1		ignore_all_resist_v	100	30					
+264		Đá Bỏ Qua Kháng Lv5		0	1650	1						1	1	1		ignore_all_resist_v	100	42					
+265		Đá Bỏ Qua Kháng Lv6		0	5000	1						1	1	1		ignore_all_resist_v	100	54					
+266		Đá Bỏ Qua Kháng Lv7		0	15000	1						1	1	1		ignore_all_resist_v	100	77					
+267		Đá Bỏ Qua Kháng Lv8		0	45000	1						1	1	1		ignore_all_resist_v	100	100					
+268		Đá Bỏ Qua Kháng Lv9		0	45000	1						1	1	1		ignore_all_resist_v	100	100					
+205	270	Mảnh Đá Né Tránh	1	0																			
+270	271	Đá Né Tránh Lv1		0	20		1	1	1		1					defense_v	24						
+271	272	Đá Né Tránh Lv2		0	60		1	1	1		1					defense_v	48						
+272	273	Đá Né Tránh Lv3		0	180		1	1	1		1					defense_v	84						
+273	274	Đá Né Tránh Lv4		0	540		1	1	1		1					defense_v	120						
+274	275	Đá Né Tránh Lv5		0	1650		1	1	1		1					defense_v	168						
+275	276	Đá Né Tránh Lv6		0	5000		1	1	1		1					defense_v	216						
+276	277	Đá Né Tránh Lv7		0	15000		1	1	1		1					defense_v	308						
+277		Đá Né Tránh Lv8		0	45000		1	1	1		1					defense_v	400						
+278		Đá Né Tránh Lv9		0	45000		1	1	1		1					defense_v	400						
+206	280	Mảnh Đá Bỏ Qua Né Tránh	1	0																			
+280	281	Đá Bỏ Qua Né Tránh Lv1		0	20	1						1	1		1	ignore_defense_v	24						
+281	282	Đá Bỏ Qua Né Tránh Lv2		0	60	1						1	1		1	ignore_defense_v	48						
+282	283	Đá Bỏ Qua Né Tránh Lv3		0	180	1						1	1		1	ignore_defense_v	84						
+283	284	Đá Bỏ Qua Né Tránh Lv4		0	540	1						1	1		1	ignore_defense_v	120						
+284	285	Đá Bỏ Qua Né Tránh Lv5		0	1650	1						1	1		1	ignore_defense_v	168						
+285	286	Đá Bỏ Qua Né Tránh Lv6		0	5000	1						1	1		1	ignore_defense_v	216						
+286	287	Đá Bỏ Qua Né Tránh Lv7		0	15000	1						1	1		1	ignore_defense_v	308						
+287		Đá Bỏ Qua Né Tránh Lv8		0	45000	1						1	1		1	ignore_defense_v	400						
+288		Đá Bỏ Qua Né Tránh Lv9		0	45000	1						1	1		1	ignore_defense_v	400						
+207	290	Mảnh Đá Bạo Kích	1	0																			
+290	291	Đá Bạo Kích Lv1		0	20	1						1		1	1	deadlystrike_v	12						
+291	292	Đá Bạo Kích Lv2		0	60	1						1		1	1	deadlystrike_v	24						
+292	293	Đá Bạo Kích Lv3		0	180	1						1		1	1	deadlystrike_v	42						
+293	294	Đá Bạo Kích Lv4		0	540	1						1		1	1	deadlystrike_v	60						
+294	295	Đá Bạo Kích Lv5		0	1650	1						1		1	1	deadlystrike_v	84						
+295	296	Đá Bạo Kích Lv6		0	5000	1						1		1	1	deadlystrike_v	108						
+296	297	Đá Bạo Kích Lv7		0	15000	1						1		1	1	deadlystrike_v	154						
+297		Đá Bạo Kích Lv8		0	45000	1						1		1	1	deadlystrike_v	200						
+298		Đá Bạo Kích Lv9		0	45000	1						1		1	1	deadlystrike_v	200						
+208	300	Mảnh Đá Giảm Bạo Kích	1	0																			
+300	301	Đá Giảm Bạo Kích Lv1		0	20			1	1	1	1					weaken_deadlystrike_v	12						
+301	302	Đá Giảm Bạo Kích Lv2		0	60			1	1	1	1					weaken_deadlystrike_v	24						
+302	303	Đá Giảm Bạo Kích Lv3		0	180			1	1	1	1					weaken_deadlystrike_v	42						
+303	304	Đá Giảm Bạo Kích Lv4		0	540			1	1	1	1					weaken_deadlystrike_v	60						
+304	305	Đá Giảm Bạo Kích Lv5		0	1650			1	1	1	1					weaken_deadlystrike_v	84						
+305	306	Đá Giảm Bạo Kích Lv6		0	5000			1	1	1	1					weaken_deadlystrike_v	108						
+306	307	Đá Giảm Bạo Kích Lv7		0	15000			1	1	1	1					weaken_deadlystrike_v	154						
+307		Đá Giảm Bạo Kích Lv8		0	45000			1	1	1	1					weaken_deadlystrike_v	200						
+308		Đá Giảm Bạo Kích Lv9		0	45000			1	1	1	1					weaken_deadlystrike_v	200						
+209	310	Mảnh Đá Hiệu Quả	1	0																			
+310	311	Đá Hiệu Quả Lv1		0	20	1							1	1	1	add_seriesstate_rate_v	6						
+311	312	Đá Hiệu Quả Lv2		0	60	1							1	1	1	add_seriesstate_rate_v	12						
+312	313	Đá Hiệu Quả Lv3		0	180	1							1	1	1	add_seriesstate_rate_v	21						
+313	314	Đá Hiệu Quả Lv4		0	540	1							1	1	1	add_seriesstate_rate_v	30						
+314	315	Đá Hiệu Quả Lv5		0	1650	1							1	1	1	add_seriesstate_rate_v	42						
+315	316	Đá Hiệu Quả Lv6		0	5000	1							1	1	1	add_seriesstate_rate_v	54						
+316	317	Đá Hiệu Quả Lv7		0	15000	1							1	1	1	add_seriesstate_rate_v	77						
+317		Đá Hiệu Quả Lv8		0	45000	1							1	1	1	add_seriesstate_rate_v	100						
+318		Đá Hiệu Quả Lv9		0	45000	1							1	1	1	add_seriesstate_rate_v	100						
+210	320	Mảnh Đá Giảm Hiệu Quả	1	0																			
+320	321	Đá Giảm Hiệu Quả Lv1		0	20		1		1	1	1					resist_allseriesstate_rate_v	6						
+321	322	Đá Giảm Hiệu Quả Lv2		0	60		1		1	1	1					resist_allseriesstate_rate_v	12						
+322	323	Đá Giảm Hiệu Quả Lv3		0	180		1		1	1	1					resist_allseriesstate_rate_v	21						
+323	324	Đá Giảm Hiệu Quả Lv4		0	540		1		1	1	1					resist_allseriesstate_rate_v	30						
+324	325	Đá Giảm Hiệu Quả Lv5		0	1650		1		1	1	1					resist_allseriesstate_rate_v	42						
+325	326	Đá Giảm Hiệu Quả Lv6		0	5000		1		1	1	1					resist_allseriesstate_rate_v	54						
+326	327	Đá Giảm Hiệu Quả Lv7		0	15000		1		1	1	1					resist_allseriesstate_rate_v	77						
+327		Đá Giảm Hiệu Quả Lv8		0	45000		1		1	1	1					resist_allseriesstate_rate_v	100						
+328		Đá Giảm Hiệu Quả Lv9		0	45000		1		1	1	1					resist_allseriesstate_rate_v	100						
+212	222	Thủy Tinh Trắng		0																			
+222	223	Thủy Tinh Lục		0																			
+223	224	Thủy Tinh Lam		0																			
+224	225	Thủy Tinh Tím		0																			
+225	227	Thủy Tinh Cam		0																			
+227		Thủy Tinh Vàng		0																			
+213	214	Khoáng Thạch Thần Bí-Vỡ		0																			
+214	215	Khoáng Thạch Thần Bí Lv2		0																			
+215	216	Khoáng Thạch Thần Bí Lv3		0																			
+216	217	Khoáng Thạch Thần Bí Lv4		0																			
+217		Khoáng Thạch Thần Bí Lv5		0																			
+1693	1772	Đá Hồn Lý Tam-Sơ		0	50	1										attackrate_v	80						
+1694	1771	Đá Hồn Lư Thanh-Sơ		0	50							1				water_resist_v	30						
+1695	1773	Đá Hồn Oanh Nhi-Sơ		0	50				1							recover_life_v	100	75					
+1696	1774	Đá Hồn Cố Võ-Sơ		0	50			1								attackrate_v	80						
+1697	1775	Đá Hồn Tiểu Võ-Sơ		0	150										1	earth_resist_v	40			lifemax_v	256		
+1698	1776	Đá Hồn Tô Mặc Vân-Sơ		0	50				1							lifemax_v	400						
+1699	1777	Đá Hồn Tiêu Động Trần-Sơ		0	50										1	earth_resist_v	30						
+1700	1778	Đá Hồn Hồ Thần Y-Sơ		0	50									1		state_palsy_resistrate	30						
+1701	1779	Đá Hồn Tần Mộc Bạch-Sơ		0	50							1				state_slowall_resistrate	30						
+1702	1780	Đá Hồn Trương Trọng Thiên-Sơ		0	50										1	state_stun_resistrate	30						
+1703	1781	Đá Hồn Lộ Đạt-Sơ		0	50								1			state_zhican_resistrate	30						
+1704	1782	Đá Hồn Bạch Mi Hầu Vương-Sơ		1	150					1						metal_resist_v	48						
+1705	1783	Đá Hồn Đại Địa Lang Vương-Sơ		2	150					1						wood_resist_v	48						
+1706	1784	Đá Hồn Hàn Ngọc Lộc Vương-Sơ		3	150					1						fire_resist_v	48						
+1707	1785	Đá Hồn Tường Vi-Sơ		0	50					1						vitality_v	20						
+1708	1786	Đá Hồn Tử Hiên-Sơ		0	50						1					dexterity_v	20						
+1709	1787	Đá Hồn Trác Phi Phàm-Sơ		4	150							1				deadlystrike_v	32						
+1710	1788	Đá Hồn Nguyệt Minh Dao-Sơ		0	150		1									metal_resist_v	40			lifemax_v	256		
+1711	1789	Đá Hồn Long Ngạo Thiên-Sơ		0	150				1							state_zhican_resisttime	40			lifemax_v	256		
+1712	1790	Đá Hồn Mạt Thiên Nhiên-Sơ		0	150				1							state_hurt_resisttime	40			lifemax_v	256		
+1713	1791	Đá Hồn Tiểu Ảnh Phong-Sơ		5	450				1							meleedamagereturn_p	5			lifemax_v	690		
+1714	1792	Đá Hồn Nam Cung Thái Hồng-Sơ		0	50			1								energy_v	20						
+1715	1793	Đá Hồn Lâm Hải-Sơ		0	50						1					lifemax_v	400						
+1716	1794	Đá Hồn Lục Văn Long-Sơ		0	50		1									state_zhican_resisttime	30						
+1717	1795	Đá Hồn Triệu Vô Song-Sơ		0	50									1		fire_resist_v	30						
+1718	1796	Đá Hồn Vô Tướng-Sơ		0	50					1						lifemax_v	400						
+1719	1797	Đá Hồn Đường Tiêu-Sơ		0	150			1								energy_v	25			lifemax_v	256		
+1720	1798	Đá Hồn Trương Như Mộng-Sơ		0	50	1										strength_v	20						
+1721	1799	Đá Hồn Trương Lâm Tâm-Sơ		0	150				1							recover_life_v	128	75		lifemax_v	256		
+1722	1800	Đá Hồn Phong Ngọc Thư-Sơ		0	150								1			wood_resist_v	40			lifemax_v	256		
+1723	1801	Đá Hồn Triệu Tiết-Sơ		0	50								1			wood_resist_v	30						
+1724	1802	Đá Hồn Thiệu Kỵ Phong-Sơ		0	50		1									metal_resist_v	30						
+1725	1803	Đá Hồn Hà Mộ Tuyết-Sơ		0	150									1		fire_resist_v	40			lifemax_v	256		
+1726	1804	Đá Hồn Triệu Thăng Quyền-Sơ		0	150			1								energy_v	25			attackrate_v	52		
+1727	1805	Đá Hồn Nạp Lan Chân-Sơ		0	150					1						vitality_v	25			lifemax_v	256		
+1728	1806	Đá Hồn Sài Tung-Sơ		0	150							1				water_resist_v	40			lifemax_v	256		
+1729	1807	Đá Hồn Khúc Hà-Sơ		0	450										1	lifemax_p	9			recover_life_v	96	75	
+1730	1808	Đá Hồn Gia Luật Tị Li-Sơ 		53	450	1										basic_damage_v	48		48				
+1731	1809	Đá Hồn Dương Thiết Tâm-Sơ		6	450								1			basic_damage_v	38		38	state_zhican_resistrate	28		
+1732	1810	Đá Hồn Vô Tưởng-Sơ		0	450				1							all_series_resist_v	20			recover_life_v	96	75	
+1733	1811	Đá Hồn Liễu Tiêu Đình-Sơ		7	450										1	resist_allseriesstate_rate_v	20			state_stun_resisttime	28		
+1734	1812	Đá Hồn Lý Điềm Nhi-Sơ		8	450					1						rangedamagereturn_p	5			lifemax_v	690		
+1735	1813	Đá Hồn Lý Thiên Mục-Sơ		9	450			1								attackspeed_v	6			attackrate_v	96		
+1736	1814	Đá Hồn Hoàn Nhan Tương-Sơ		10	450		1									deadlystrike_damage_p	4			state_hurt_resistrate	28		
+2847	2849	Đá Hồn Huyền Từ-Sơ 		49	450										1	lifemax_p	13						
+1737	1815	Đá Hồn Thiệu Hồng Uyên-Sơ		0	150	1										strength_v	25			attackrate_v	52		
+1738	1816	Đá Hồn Bạch Ngạn Kính-Sơ		0	150					1						vitality_v	25			attackrate_v	52		
+1739	1817	Đá Hồn Gia Luật Sở Tài-Sơ		11	450									1		weaken_deadlystrike_damage_p	4			state_palsy_resistrate	28		
+1740	1818	Đá Hồn Lôi Phong-Sơ		0	150				1							state_stun_resistrate	40			lifemax_v	256		
+1741	1819	Đá Hồn Lôi Đồng-Sơ		0	150				1							state_slowall_resistrate	40			lifemax_v	256		
+1742	1820	Đá Hồn Đường Quyên Quyên-Sơ		0	150				1							state_palsy_resistrate	40			lifemax_v	256		
+1743	1821	Đá Hồn Lôi Chấn Thiên-Sơ		12	450							1				add_seriesstate_rate_v	20			state_slowall_resistrate	28		
+1744	1822	Đá Hồn Đoạt Bảo Tặc-Sơ		0	150						1					dexterity_v	25			attackrate_v	52		
+1745	1823	Đá Hồn Song Dị Thú-Sơ		13	150					1						earth_resist_v	48						
+1746	1824	Đá Hồn Bôn Diệm Báo Vương-Sơ		14	150						1					all_series_resist_v	16						
+1747	1825	Đá Hồn Cửu Vĩ Hồ Vương-Sơ		15	150					1						water_resist_v	48						
+2528	2537	Đá Hồn Dương Anh-Sơ		30	1350	1										steallife_p	9			strength_v	28		
+2529	2538	Đá Hồn Thanh Hiểu Sư Thái-Sơ		34	1350				1							vitality_v	56			all_series_resist_v	14		
+2530	2539	Đá Hồn Chúc Tử Hư-Sơ		35	1350									1		energy_v	56			defense_v	56		
+2531	2540	Đá Hồn Hoàng Ngọc Anh-Sơ		32	1350							1				deadlystrike_v	56			ignore_defense_v	56		
+2532	2541	Đá Hồn Đạo Nhất Chân Nhân-Sơ		38	1350						1					ignore_all_resist_v	100	28		dexterity_v	28		
+2533	2542	Đá Hồn Đoan Mộc Duệ-Sơ		31	1350		1									deadlystrike_damage_p	5			metal_resist_v	56		
+2848	2850	Đá Hồn Huyền Nhân-Sơ 		50	1350	1										ignore_defense_v	112			strength_v	28		
+1748	1826	Đá Hồn Cao Trường Cung-Sơ		0	450	1										physical_firedamage_v	38			attackrate_v	76		
+1749	1827	Đá Hồn Triết Biệt-Sơ		17	450	1										deadlystrike_v	38			attackrate_v	76		
+1750	1828	Đá Hồn Tần Lương Ngọc-Sơ		0	450	1										physical_waterdamage_v	38			attackrate_v	76		
+1751	1829	Đá Hồn Viên Thừa Chí-Sơ		0	450	1										physical_earthdamage_v	38			attackrate_v	76		
+1752	1830	Đá Hồn Ngao Bái-Sơ		0	450	1										physical_metaldamage_v	38			attackrate_v	76		
+1753	1831	Đá Hồn Hàn Thế Trung-Sơ		0	450	1										physical_wooddamage_v	38			attackrate_v	76		
+1754	1832	Đá Hồn Xích Tinh Hổ Hoàng-Sơ		22	1350			1								metal_resist_v	84			lifemax_v	1000		
+1755	1833	Đá Hồn Hám Thiên Hùng Hoàng-Sơ		23	1350			1								wood_resist_v	84			lifemax_v	1000		
+1756	1834	Đá Hồn Tử Bối Ngạc Hoàng-Sơ		24	1350										1	all_series_resist_v	28			lifemax_v	1000		
+1757	1835	Đá Hồn Định Hải Kim Cang-Sơ		25	1350			1								water_resist_v	84			lifemax_v	1000		
+1758	1836	Đá Hồn Kim Sí Bằng Hoàng-Sơ		26	1350			1								earth_resist_v	84			lifemax_v	1000		
+1759	1837	Đá Hồn Ngân Giác Tê Hoàng-Sơ		27	1350			1								fire_resist_v	84			lifemax_v	1000		
+2534	2543	Đá Hồn Mạnh Tri Thu-Sơ		33	1350								1			strength_v	56			wood_resist_v	42		
+2535	2544	Đá Hồn Lý Hiển Trung-Sơ		36	1350					1						all_series_resist_v	28			recover_life_v	140	75	
+2536	2545	Đá Hồn Đồ Đơn Khắc Ninh-Sơ		37	1350										1	dexterity_v	56			resist_allseriesstate_rate_v	14		
+2668	2669	Đá Hồn Độc Cô Kiếm-Sơ		39	1350		1									ignore_all_resist_v	100	28		basic_damage_v	42		42
+2880	2882	Đá Hồn Nam Cung Phi-Sơ 		51	1350								1			energy_v	56			ignore_all_resist_v	100	14	
+2881	2883	Đá Hồn Dương Ảnh Phong-Sơ 		52	1350					1						vitality_v	56			defense_v	56		
+2672	2675	Đá Hồn Kinh Kha-Sơ		42	1350						1					ignore_all_resist_v	100	28		defense_v	56		
+2673	2676	Đá Hồn Ngu Cơ-Sơ		41	1350									1		fire_resist_v	84			state_palsy_resistrate	42		
+2674	2677	Đá Hồn Nhạc Phi-Sơ		40	1350							1				water_resist_v	84			state_slowall_resistrate	42		
+2696	2697	Đá Hồn Hoàn Nhan Hồng Liệt-Sơ		43	1350										1	basic_damage_v	84		84	lifemax_p	6		
+2824	2829	Đá Hồn Huyền Thiên Võ Cơ-Sơ 		46	1350							1				dexterity_v	84						
+2825	2830	Đá Hồn Bạch Khởi-Sơ 		47	1350				1							all_series_resist_v	42						
+2826	2831	Đá Hồn Lý Tư-Sơ 		48	1350									1		weaken_deadlystrike_v	84						
+3022	3023	Đá Hồn Lôi-Sơ 		54	1350				1							defense_v	168						
+2827	2832	Đá Hồn Tần Thủy Hoàng-Sơ (Âm) 		44	4000		1									series_abate_v	300			basic_damage_v	60		60
+2828	2833	Đá Hồn Tần Thủy Hoàng-Sơ (Dương) 		45	4000					1						series_enhance_v	300			lifemax_p	9		
+1760	1838	Đá Hồn Trương Phong-Sơ		0	150	1										strength_v	25			lifemax_v	256		
+1761	1839	Đá Hồn Nguyệt My Nhi-Sơ		0	150						1					dexterity_v	25			lifemax_v	256		
+1762	1840	Đá Hồn Thiên Tinh Đạo Trưởng-Sơ		0	450								1			ignore_defense_v	76			lifemax_v	690		
+1763	1841	Đá Hồn Yên Nhược Tuyết-Sơ		0	450									1		defense_v	76			lifemax_v	690		
+1764	1842	Đá Hồn Dương Hi Liệt-Sơ		0	450			1								add_seriesstate_time_v	20			lifemax_v	690		
+1765	1843	Đá Hồn Thượng Quan Phi Long-Sơ		28	450									1		weaken_deadlystrike_v	38			lifemax_v	690		
+1766	1844	Đá Hồn Nạp Lan Tiềm Lẫm-Sơ		29	450						1					ignore_all_resist_v	100	20		lifemax_v	690		
+1767	1845	Đá Hồn Phương Miễn-Sơ		0	450		1									resist_allseriesstate_time_v	20			lifemax_v	690		
+1768	1846	Đá Hồn Nam Cung Diệt-Sơ		0	450					1						lifemax_p	9			recover_life_v	96	75	
+1769	1848	Đá Hồn Đường Ảnh-Sơ		0	450							1				ignore_defense_v	76			lifemax_v	690		
+1770	1847	Đá Hồn Thu Y Thủy-Sơ		0	450						1					defense_v	76			lifemax_v	690		
+3215	3218	Đá Hồn Lý Nguyên Bá-Sơ		56	1350						1					vitality_v	84						
+3216	3219	Đá Hồn Triệu Vân-Sơ		55	1350								1			ignore_defense_v	168						
+3217	3220	Đá Hồn Lý Quảng-Sơ		57	1350			1								energy_v	84						
+3371	3374	Đá Hồn Doãn Hàm Yên-Sơ 		58	1350					1						lifemax_v	3025						
+3372	3375	Đá Hồn Tuyền Cơ Tử-Sơ 		59	1350		1									basic_damage_v	105		105				
+3373	3376	Đá Hồn Huyền Thiên Đạo Nhân-Sơ 		60	1350	1										deadlystrike_v	84						
+3709	3710	Đá Hồn Niên Thú-Sơ		61	1350						1					all_series_resist_v	42						
+3854	3857	Đá Hồn Hắc Diện Lang Quân-Sơ		63	1350	1										strength_v	56			attackrate_v	112		
+3855	3858	Đá Hồn Hà Nhân Ngã-Sơ		65	1350									1		weaken_deadlystrike_damage_p	8						
+3856	3859	Đá Hồn Đường Cừu-Sơ		64	1350							1				add_seriesstate_rate_v	42						
+3897	3898	Đá Hồn Đường Giản-Sơ		62	4000								1			strength_v	80			dexterity_v	40		
+4053	4054	Đá Hồn Hoàn Nhan Hồng Liệt-Sơ (Chân)		66	4000				1							all_series_resist_p	20						
+4540	4543	Đá Hồn Băng Lân Tích Hoàng-Sơ		67	1350										1	meleedamagereturn_p	7			recover_life_v	140	75	
+4541	4544	Đá Hồn Ngân Câu Hạt Hoàng-Sơ		68	1350										1	defense_p	6			lifemax_v	1000		
+4542	4545	Đá Hồn Cuồng Tông Ngao Hoàng-Sơ		69	1350										1	rangedamagereturn_p	7			recover_life_v	140	75	
+4595	4596	Đá Hồn Hạng Vũ-Sơ		70	4000	1										enhance_final_damage_p	6						
+4849	4850	Đá Hồn Đường Hiểu-Sơ		71	4000							1				deadlystrike_p	20						
+4873	4875	Đá Hồn Tống Thu Thạch-Sơ		73	1350								1			basic_damage_v	84		84	earth_resist_v	42		
+4874	4876	Đá Hồn Cổ Yên Nhiên-Sơ		74	1350				1							lifemax_v	2400			resist_allseriesstate_time_v	28		
+5432	5434	Đá Hồn Doãn Tiêu Vũ-Sơ		75	1350		1									ignore_defense_vp	10						
+5433	5435	Đá Hồn Thạch Hiên Viên-Sơ		72	1350					1						ignore_all_resist_vp	13						
+6067	6071	Đá Hồn Diệp Thanh Dương-Sơ		76	1350							1				weaken_deadlystrike_v	67			lifemax_v	1000		
+6068	6072	Đá Hồn Băng Nghi-Sơ		77	1350						1					dexterity_v	56			lifemax_v	1000		
+6069	6073	Đá Hồn Dương Tái Hưng-Sơ		78	1350								1			ignore_defense_v	112			basic_damage_v	53		53
+6070	6074	Đá Hồn Hoàn Nhan Lâu Thất-Sơ		79	1350									1		weaken_deadlystrike_damage_p	5			lifemax_v	1000		
+6100	6102	Đá Hồn Tiêu Ngọc Trúc-Sơ		80	1350		1									resist_allseriesstate_rate_v	28			lifemax_v	1000		
+6101	6103	Đá Hồn Kim Ngột Thuật-Sơ		81	1350					1						all_series_resist_v	28			add_seriesstate_time_v	28		
+6112	6113	Đá Hồn Ngu Cơ Tuyệt Thế-Sơ		82	4000						1					reduce_final_damage_p	6						
+6126	6131	Đá Hồn Võ Tắc Thiên-Sơ (Âm)		83	4000										1	steallife_resist_p	10			basic_damage_v	60		60
+6127	6132	Đá Hồn Võ Tắc Thiên-Sơ (Dương)		84	4000									1		steallife_resist_p	10			lifemax_p	9		
+6128	6133	Đá Hồn Địch Nhân Kiệt-Sơ 		85	1350	1										basic_damage_v	105		105				
+6129	6134	Đá Hồn Lý Nguyên Phương-Sơ 		86	1350			1								all_series_resist_v	28			lifemax_v	1000		
+6130	6135	Đá Hồn Vô Tự Bi-Sơ 		87	1350				1							add_seriesstate_rate_v	28			recover_life_v	140	75	
+6285	6286	Đá Hồn Hàn Mông-Sơ 		88	1350					1						lifemax_p	12			ignore_defense_v	56		
+7374	7375	Đá Hồn Hà Linh Phiêu-Sơ		89	1350			1								energy_v	56			lifemax_v	1000		
+7377	7378	Đá Hồn Ngu Doãn Văn-Sơ		90	4000			1								physics_potentialdamage_p	6			resist_allseriesstate_time_v	40		
+7429	7430	Đá Hồn Long Văn Sư Vương-Sơ		91	1350									1		ignore_deadlystrike_vp	10			state_palsy_resisttime	42		
+7432	7433	Đá Hồn Cự Ngao Phong Hậu-Sơ		92	1350							1				ignore_defense_vp	6			lifemax_v	1000		
+7648	7651	Đá Hồn Vương Đằng-Sơ		93	4000				1							vitality_v	80			energy_v	40		
+7649	7652	Đá Hồn Vương Vân Tiêu-Sơ		94	1350		1									resist_allseriesstate_time_v	60						
+7650	7653	Đá Hồn Kinh Tuyết-Sơ		95	1350								1			deadlystrike_damage_p	5			lifemax_v	1000		
+7741	7742	Đá Hồn Không Tướng-Sơ		96	1350	1										ignore_all_resist_v	100	28		strength_v	28		
+9398	9399	Đá Hồn Lâm Thanh Vũ-Sơ		97	1350				1							meleedamagereturn_p	7			resist_allseriesstate_rate_v	28		
+9401	9402	Đá Hồn Mạnh Thương Lam-Sơ		98	4000		1									dexterity_v	80			energy_v	40		
+9971	9972	Đá Hồn Phong Hành Chu-Sơ		99	1350						1					lifemax_v	2500			ignore_all_resist_v	100	28	
+9977	9978	Đá Hồn Quỷ Cốc Tử-Sơ (Âm)		100	4000					1						return_resist_p	10			deadlystrike_v	42		
+9980	9981	Đá Hồn Quỷ Cốc Tử-Sơ (Dương)		101	4000			1								return_resist_p	10			all_series_resist_v	20		
+9974	9975	Đá Hồn Phương Công Vọng-Sơ		102	4000										1	reduce_final_damage_p	6						
+10126	10129	Đá Hồn Huyền Băng Điêu Hoàng-Sơ		103	4000							1				lifemax_p	20						
+10127	10130	Đá Hồn Vạn Độc Cúc Hoàng-Sơ		104	4000						1					ignore_all_resist_vp	20						
+10128	10131	Đá Hồn Hoàn Nhan Tông Hàn-Sơ		105	4000								1			ignore_defense_vp	9			physics_potentialdamage_p	3		
+10149	10150	Đá Hồn Diệp Vô Tâm-Sơ		106	4000									1		defense_p	9			add_seriesstate_rate_v	40		
+10449	10450	Đá Hồn Thiên Âm-Sơ		107	4000				1							defense_v	360			resist_allseriesstate_time_v	56		
+10475	10476	Đá Hồn Vân Hạo Nhiên-Sơ		108	4000								1			energy_v	80			ignore_defense_v	80		
+10626	10628	Đá Hồn Bản Trần-Sơ		109	4000	1										deadlystrike_damage_p	10						
+10627	10629	Đá Hồn Đoàn Trí Hưng-Sơ		110	4000		1									ignore_all_resist_v	100	100		resist_allseriesstate_rate_v	40		
+10912	10913	Đá Hồn Bản Nhân-Sơ		111	4000					1						add_allspecialstate_rate_v	56			rangedamagereturn_p	5		
+10946	10947	Đá Hồn Bản Quan-Sơ		112	4000			1								add_allspecialstate_time_v	56			meleedamagereturn_p	5		
+11061	11062	Đá Hồn Bản Tướng-Sơ		113	4000										1	lifemax_p	16			dexterity_v	40		
+1772	1849	Đá Hồn Lý Tam-Trung		0	150	1										attackrate_v	128						
+1771	1850	Đá Hồn Lư Thanh-Trung		0	150							1				water_resist_v	48						
+1773	1851	Đá Hồn Oanh Nhi-Trung		0	150				1							recover_life_v	160	75					
+1774	1852	Đá Hồn Cố Võ-Trung		0	150			1								attackrate_v	128						
+1775	1853	Đá Hồn Tiểu Võ-Trung		0	450										1	earth_resist_v	60			lifemax_v	384		
+1776	1854	Đá Hồn Tô Mặc Vân-Trung		0	150				1							lifemax_v	640						
+1777	1855	Đá Hồn Tiêu Động Trần-Trung		0	150										1	earth_resist_v	48						
+1778	1856	Đá Hồn Hồ Thần Y-Trung		0	150									1		state_palsy_resistrate	48						
+1779	1857	Đá Hồn Tần Mộc Bạch-Trung		0	150							1				state_slowall_resistrate	48						
+1780	1858	Đá Hồn Trương Trọng Thiên-Trung		0	150										1	state_stun_resistrate	48						
+1781	1859	Đá Hồn Lộ Đạt-Trung		0	150								1			state_zhican_resistrate	48						
+1782	1860	Đá Hồn Bạch Mi Hầu Vương-Trung		1	450					1						metal_resist_v	72						
+1783	1861	Đá Hồn Đại Địa Lang Vương-Trung		2	450					1						wood_resist_v	72						
+1784	1862	Đá Hồn Hàn Ngọc Lộc Vương-Trung		3	450					1						fire_resist_v	72						
+1785	1863	Đá Hồn Tường Vi-Trung		0	150					1						vitality_v	32						
+1786	1864	Đá Hồn Tử Hiên-Trung		0	150						1					dexterity_v	32						
+1787	1865	Đá Hồn Trác Phi Phàm-Trung		4	450							1				deadlystrike_v	48						
+1788	1866	Đá Hồn Nguyệt Minh Dao-Trung		0	450		1									metal_resist_v	60			lifemax_v	384		
+1789	1867	Đá Hồn Long Ngạo Thiên-Trung		0	450				1							state_zhican_resisttime	60			lifemax_v	384		
+1790	1868	Đá Hồn Mạt Thiên Nhiên-Trung		0	450				1							state_hurt_resisttime	60			lifemax_v	384		
+1791	1869	Đá Hồn Tiểu Ảnh Phong-Trung		5	1350				1							meleedamagereturn_p	7			lifemax_v	1000		
+1792	1870	Đá Hồn Nam Cung Thái Hồng-Trung		0	150			1								energy_v	32						
+1793	1871	Đá Hồn Lâm Hải-Trung		0	150						1					lifemax_v	640						
+1794	1873	Đá Hồn Lục Văn Long-Trung		0	150		1									state_zhican_resisttime	48						
+1795	1872	Đá Hồn Triệu Vô Song-Trung		0	150									1		fire_resist_v	48						
+1796	1874	Đá Hồn Vô Tướng-Trung		0	150					1						lifemax_v	640						
+1797	1875	Đá Hồn Đường Tiêu-Trung		0	450			1								energy_v	38			lifemax_v	384		
+1798	1876	Đá Hồn Trương Như Mộng-Trung		0	150	1										strength_v	32						
+1799	1877	Đá Hồn Trương Lâm Tâm-Trung		0	450				1							recover_life_v	192	75		lifemax_v	384		
+1800	1878	Đá Hồn Phong Ngọc Thư-Trung		0	450								1			wood_resist_v	60			lifemax_v	384		
+1801	1879	Đá Hồn Triệu Tiết-Trung		0	150								1			wood_resist_v	48						
+1802	1880	Đá Hồn Thiệu Kỵ Phong-Trung		0	150		1									metal_resist_v	48						
+1803	1881	Đá Hồn Hà Mộ Tuyết-Trung		0	450									1		fire_resist_v	60			lifemax_v	384		
+1804	1882	Đá Hồn Triệu Thăng Quyền-Trung		0	450			1								energy_v	38			attackrate_v	76		
+1805	1883	Đá Hồn Nạp Lan Chân-Trung		0	450					1						vitality_v	38			lifemax_v	384		
+1806	1884	Đá Hồn Sài Tung-Trung		0	450							1				water_resist_v	60			lifemax_v	384		
+1807	1885	Đá Hồn Khúc Hà-Trung		0	1350										1	lifemax_p	12			recover_life_v	140	75	
+1808	1886	Đá Hồn Gia Luật Tị Li-Trung 		53	1350	1										basic_damage_v	105		105				
+1809	1887	Đá Hồn Dương Thiết Tâm-Trung		6	1350								1			basic_damage_v	84		84	state_zhican_resistrate	42		
+1810	1888	Đá Hồn Vô Tưởng-Trung		0	1350				1							all_series_resist_v	28			recover_life_v	140	75	
+1811	1889	Đá Hồn Liễu Tiêu Đình-Trung		7	1350										1	resist_allseriesstate_rate_v	28			state_stun_resisttime	42		
+1812	1890	Đá Hồn Lý Điềm Nhi-Trung		8	1350					1						rangedamagereturn_p	7			lifemax_v	1000		
+1813	1891	Đá Hồn Lý Thiên Mục-Trung		9	1350			1								attackspeed_v	8			attackrate_v	140		
+1814	1892	Đá Hồn Hoàn Nhan Tương-Trung		10	1350		1									deadlystrike_damage_p	5			state_hurt_resistrate	42		
+2849	2851	Đá Hồn Huyền Từ-Trung 		49	1350										1	lifemax_p	18						
+1815	1893	Đá Hồn Thiệu Hồng Uyên-Trung		0	450	1										strength_v	38			attackrate_v	76		
+1816	1894	Đá Hồn Bạch Ngạn Kính-Trung		0	450					1						vitality_v	38			attackrate_v	76		
+1817	1895	Đá Hồn Gia Luật Sở Tài-Trung		11	1350									1		weaken_deadlystrike_damage_p	5			state_palsy_resistrate	42		
+1818	1896	Đá Hồn Lôi Phong-Trung		0	450				1							state_stun_resistrate	60			lifemax_v	384		
+1819	1897	Đá Hồn Lôi Đồng-Trung		0	450				1							state_slowall_resistrate	60			lifemax_v	384		
+1820	1898	Đá Hồn Đường Quyên Quyên-Trung		0	450				1							state_palsy_resistrate	60			lifemax_v	384		
+1821	1899	Đá Hồn Lôi Chấn Thiên-Trung		12	1350							1				add_seriesstate_rate_v	28			state_slowall_resistrate	42		
+1822	1900	Đá Hồn Đoạt Bảo Tặc-Trung		0	450						1					dexterity_v	38			attackrate_v	76		
+1823	1901	Đá Hồn Song Dị Thú-Trung		13	450					1						earth_resist_v	72						
+1824	1902	Đá Hồn Bôn Diệm Báo Vương-Trung		14	450						1					all_series_resist_v	24						
+1825	1903	Đá Hồn Cửu Vĩ Hồ Vương-Trung		15	450					1						water_resist_v	72						
+2537	2546	Đá Hồn Dương Anh-Trung		30	4000	1										steallife_p	11			strength_v	40		
+2538	2547	Đá Hồn Thanh Hiểu Sư Thái-Trung		34	4000				1							vitality_v	80			all_series_resist_v	20		
+2539	2548	Đá Hồn Chúc Tử Hư-Trung		35	4000									1		energy_v	80			defense_v	80		
+2540	2549	Đá Hồn Hoàng Ngọc Anh-Trung		32	4000							1				deadlystrike_v	80			ignore_defense_v	80		
+2541	2550	Đá Hồn Đạo Nhất Chân Nhân-Trung		38	4000						1					ignore_all_resist_v	100	40		dexterity_v	40		
+2542	2551	Đá Hồn Đoan Mộc Duệ-Trung		31	4000		1									deadlystrike_damage_p	6			metal_resist_v	80		
+2850	2852	Đá Hồn Huyền Nhân-Trung 		50	4000	1										ignore_defense_v	160			strength_v	40		
+1826	1904	Đá Hồn Cao Trường Cung-Trung		0	1350	1										physical_firedamage_v	84			attackrate_v	112		
+1827	1905	Đá Hồn Triết Biệt-Trung		17	1350	1										deadlystrike_v	56			attackrate_v	112		
+1828	1906	Đá Hồn Tần Lương Ngọc-Trung		0	1350	1										physical_waterdamage_v	84			attackrate_v	112		
+1829	1907	Đá Hồn Viên Thừa Chí-Trung		0	1350	1										physical_earthdamage_v	84			attackrate_v	112		
+1830	1908	Đá Hồn Ngao Bái-Trung		0	1350	1										physical_metaldamage_v	84			attackrate_v	112		
+1831	1909	Đá Hồn Hàn Thế Trung-Trung		0	1350	1										physical_wooddamage_v	84			attackrate_v	112		
+1832	1910	Đá Hồn Xích Tinh Hổ Hoàng-Trung		22	4000			1								metal_resist_v	120			lifemax_v	1450		
+1833	1911	Đá Hồn Hám Thiên Hùng Hoàng-Trung		23	4000			1								wood_resist_v	120			lifemax_v	1450		
+1834	1912	Đá Hồn Tử Bối Ngạc Hoàng-Trung		24	4000										1	all_series_resist_v	40			lifemax_v	1450		
+1835	1913	Đá Hồn Định Hải Kim Cang-Trung		25	4000			1								water_resist_v	120			lifemax_v	1450		
+1836	1914	Đá Hồn Kim Sí Bằng Hoàng-Trung		26	4000			1								earth_resist_v	120			lifemax_v	1450		
+1837	1915	Đá Hồn Ngân Giác Tê Hoàng-Trung		27	4000			1								fire_resist_v	120			lifemax_v	1450		
+2543	2552	Đá Hồn Mạnh Tri Thu-Trung		33	4000								1			strength_v	80			wood_resist_v	60		
+2544	2553	Đá Hồn Lý Hiển Trung-Trung		36	4000					1						all_series_resist_v	40			recover_life_v	200	75	
+2545	2554	Đá Hồn Đồ Đơn Khắc Ninh-Trung		37	4000										1	dexterity_v	80			resist_allseriesstate_rate_v	20		
+2669	2670	Đá Hồn Độc Cô Kiếm-Trung		39	4000		1									ignore_all_resist_v	100	40		basic_damage_v	60		60
+2882	2884	Đá Hồn Nam Cung Phi-Trung 		51	4000								1			energy_v	80			ignore_all_resist_v	100	20	
+2883	2885	Đá Hồn Dương Ảnh Phong-Trung 		52	4000					1						vitality_v	80			defense_v	80		
+2675	2678	Đá Hồn Kinh Kha-Trung		42	4000						1					ignore_all_resist_v	100	40		defense_v	80		
+2676	2679	Đá Hồn Ngu Cơ-Trung		41	4000									1		fire_resist_v	120			state_palsy_resistrate	60		
+2677	2680	Đá Hồn Nhạc Phi-Trung		40	4000							1				water_resist_v	120			state_slowall_resistrate	60		
+2697	2698	Đá Hồn Hoàn Nhan Hồng Liệt-Trung		43	4000										1	basic_damage_v	120		120	lifemax_p	9		
+2829	2834	Đá Hồn Huyền Thiên Võ Cơ-Trung 		46	4000							1				dexterity_v	120						
+2830	2835	Đá Hồn Bạch Khởi-Trung 		47	4000				1							all_series_resist_v	60						
+2831	2836	Đá Hồn Lý Tư-Trung 		48	4000									1		weaken_deadlystrike_v	120						
+3023	3024	Đá Hồn Lôi-Trung 		54	4000				1							defense_v	336						
+2832	2837	Đá Hồn Tần Thủy Hoàng-Trung (Âm) 		44	12000		1									series_abate_v	420			basic_damage_v	84		84
+2833	2838	Đá Hồn Tần Thủy Hoàng-Trung (Dương) 		45	12000					1						series_enhance_v	420			lifemax_p	12		
+1838	1916	Đá Hồn Trương Phong-Trung		0	450	1										strength_v	38			lifemax_v	384		
+1839	1917	Đá Hồn Nguyệt My Nhi-Trung		0	450						1					dexterity_v	38			lifemax_v	384		
+1840	1918	Đá Hồn Thiên Tinh Đạo Trưởng-Trung		0	1350								1			ignore_defense_v	112			lifemax_v	1000		
+1841	1919	Đá Hồn Yên Nhược Tuyết-Trung		0	1350									1		defense_v	112			lifemax_v	1000		
+1842	1920	Đá Hồn Dương Hi Liệt-Trung		0	1350			1								add_seriesstate_time_v	28			lifemax_v	1000		
+1843	1921	Đá Hồn Thượng Quan Phi Long-Trung		28	1350									1		weaken_deadlystrike_v	56			lifemax_v	1000		
+1844	1922	Đá Hồn Nạp Lan Tiềm Lẫm-Trung		29	1350						1					ignore_all_resist_v	100	28		lifemax_v	1000		
+1845	1923	Đá Hồn Phương Miễn-Trung		0	1350		1									resist_allseriesstate_time_v	28			lifemax_v	1000		
+1846	1924	Đá Hồn Nam Cung Diệt-Trung		0	1350					1						lifemax_p	12			recover_life_v	140	75	
+1848	1925	Đá Hồn Đường Ảnh-Trung		0	1350							1				ignore_defense_v	112			lifemax_v	1000		
+1847	1926	Đá Hồn Thu Y Thủy-Trung		0	1350						1					defense_v	112			lifemax_v	1000		
+3218	3221	Đá Hồn Lý Nguyên Bá-Trung		56	4000						1					vitality_v	120						
+3219	3222	Đá Hồn Triệu Vân-Trung		55	4000								1			ignore_defense_v	240						
+3220	3223	Đá Hồn Lý Quảng-Trung		57	4000			1								energy_v	120						
+3374	3377	Đá Hồn Doãn Hàm Yên-Trung 		58	4000					1						lifemax_v	4320						
+3375	3378	Đá Hồn Tuyền Cơ Tử-Trung 		59	4000		1									basic_damage_v	150		150				
+3376	3379	Đá Hồn Huyền Thiên Đạo Nhân-Trung 		60	4000	1										deadlystrike_v	120						
+3710	3711	Đá Hồn Niên Thú-Trung		61	4000						1					all_series_resist_v	60						
+3857	3860	Đá Hồn Hắc Diện Lang Quân-Trung		63	4000	1										strength_v	80			attackrate_v	160		
+3858	3861	Đá Hồn Hà Nhân Ngã-Trung		65	4000									1		weaken_deadlystrike_damage_p	10						
+3859	3862	Đá Hồn Đường Cừu-Trung		64	4000							1				add_seriesstate_rate_v	60						
+3898	3899	Đá Hồn Đường Giản-Trung		62	12000								1			strength_v	112			dexterity_v	56		
+4054	4055	Đá Hồn Hoàn Nhan Hồng Liệt-Trung (Chân)		66	12000				1							all_series_resist_p	35						
+4543	4546	Đá Hồn Băng Lân Tích Hoàng-Trung		67	4000										1	meleedamagereturn_p	9			recover_life_v	200	75	
+4544	4547	Đá Hồn Ngân Câu Hạt Hoàng-Trung		68	4000										1	defense_p	9			lifemax_v	1450		
+4545	4548	Đá Hồn Cuồng Tông Ngao Hoàng-Trung		69	4000										1	rangedamagereturn_p	9			recover_life_v	200	75	
+4596	4597	Đá Hồn Hạng Vũ-Trung		70	12000	1										enhance_final_damage_p	9						
+4850	4851	Đá Hồn Đường Hiểu-Trung		71	12000							1				deadlystrike_p	35						
+4875	4877	Đá Hồn Tống Thu Thạch-Trung		73	4000								1			basic_damage_v	120		120	earth_resist_v	60		
+4876	4878	Đá Hồn Cổ Yên Nhiên-Trung		74	4000				1							lifemax_v	3450			resist_allseriesstate_time_v	40		
+5434	5436	Đá Hồn Doãn Tiêu Vũ-Trung		75	4000		1									ignore_defense_vp	15						
+5435	5437	Đá Hồn Thạch Hiên Viên-Trung		72	4000					1						ignore_all_resist_vp	20						
+6071	6075	Đá Hồn Diệp Thanh Dương-Trung		76	4000							1				weaken_deadlystrike_v	96			lifemax_v	1450		
+6072	6076	Đá Hồn Băng Nghi-Trung		77	4000						1					dexterity_v	80			lifemax_v	1450		
+6073	6077	Đá Hồn Dương Tái Hưng-Trung		78	4000								1			ignore_defense_v	160			basic_damage_v	75		75
+6074	6078	Đá Hồn Hoàn Nhan Lâu Thất-Trung		79	4000									1		weaken_deadlystrike_damage_p	6			lifemax_v	1450		
+6102	6104	Đá Hồn Tiêu Ngọc Trúc-Trung		80	4000		1									resist_allseriesstate_rate_v	40			lifemax_v	1450		
+6103	6105	Đá Hồn Kim Ngột Thuật-Trung		81	4000					1						all_series_resist_v	40			add_seriesstate_time_v	40		
+6113	6114	Đá Hồn Ngu Cơ Tuyệt Thế-Trung		82	12000						1					reduce_final_damage_p	9						
+6131	6136	Đá Hồn Võ Tắc Thiên-Trung (Âm)		83	12000										1	steallife_resist_p	15			basic_damage_v	84		84
+6132	6137	Đá Hồn Võ Tắc Thiên-Trung (Dương)		84	12000									1		steallife_resist_p	15			lifemax_p	12		
+6133	6138	Đá Hồn Địch Nhân Kiệt-Trung 		85	4000	1										basic_damage_v	150		150				
+6134	6139	Đá Hồn Lý Nguyên Phương-Trung		86	4000			1								all_series_resist_v	40			lifemax_v	1450		
+6135	6140	Đá Hồn Vô Tự Bi-Trung 		87	4000				1							add_seriesstate_rate_v	40			recover_life_v	200	75	
+6286	6287	Đá Hồn Hàn Mông-Trung 		88	4000					1						lifemax_p	18			ignore_defense_v	80		
+7375	7376	Đá Hồn Hà Linh Phiêu-Trung		89	4000			1								energy_v	80			lifemax_v	1450		
+7378	7379	Đá Hồn Ngu Doãn Văn-Trung		90	12000			1								physics_potentialdamage_p	9			resist_allseriesstate_time_v	56		
+7430	7431	Đá Hồn Long Văn Sư Vương-Trung		91	4000									1		ignore_deadlystrike_vp	15			state_palsy_resisttime	60		
+7433	7434	Đá Hồn Cự Ngao Phong Hậu-Trung		92	4000							1				ignore_defense_vp	9			lifemax_v	1450		
+7651	7654	Đá Hồn Vương Đằng-Trung		93	12000				1							vitality_v	112			energy_v	56		
+7652	7655	Đá Hồn Vương Vân Tiêu-Trung		94	4000		1									resist_allseriesstate_time_v	90						
+7653	7656	Đá Hồn Kinh Tuyết-Trung		95	4000								1			deadlystrike_damage_p	6			lifemax_v	1450		
+7742	7743	Đá Hồn Không Tướng-Trung		96	4000	1										ignore_all_resist_v	100	40		strength_v	40		
+9399	9400	Đá Hồn Lâm Thanh Vũ-Trung		97	4000				1							meleedamagereturn_p	9			resist_allseriesstate_rate_v	40		
+9402	9403	Đá Hồn Mạnh Thương Lam-Trung		98	12000		1									dexterity_v	112			energy_v	56		
+9972	9973	Đá Hồn Phong Hành Chu-Trung		99	4000						1					lifemax_v	3500			ignore_all_resist_v	100	40	
+9978	9979	Đá Hồn Quỷ Cốc Tử-Trung (Âm)		100	12000					1						return_resist_p	15			deadlystrike_v	60		
+9981	9982	Đá Hồn Quỷ Cốc Tử-Trung (Dương)		101	12000			1								return_resist_p	15			all_series_resist_v	30		
+9975	9976	Đá Hồn Phương Công Vọng-Trung		102	12000										1	reduce_final_damage_p	9						
+10129	10132	Đá Hồn Huyền Băng Điêu Hoàng-Trung		103	12000							1				lifemax_p	35						
+10130	10133	Đá Hồn Vạn Độc Cúc Hoàng-Trung		104	12000						1					ignore_all_resist_vp	35						
+10131	10134	Đá Hồn Hoàn Nhan Tông Hàn-Trung		105	12000								1			ignore_defense_vp	12			physics_potentialdamage_p	5		
+10150	10151	Đá Hồn Diệp Vô Tâm-Trung		106	12000									1		defense_p	12			add_seriesstate_rate_v	56		
+10450	10451	Đá Hồn Thiên Âm-Trung		107	12000				1							defense_v	500			resist_allseriesstate_time_v	78		
+10476	10477	Đá Hồn Vân Hạo Nhiên-Trung		108	12000								1			energy_v	112			ignore_defense_v	112		
+10628	10630	Đá Hồn Bản Trần-Trung		109	12000	1										deadlystrike_damage_p	12						
+10629	10631	Đá Hồn Đoàn Trí Hưng-Trung		110	12000		1									ignore_all_resist_v	100	140		resist_allseriesstate_rate_v	56		
+10913	10914	Đá Hồn Bản Nhân-Trung		111	12000					1						add_allspecialstate_rate_v	80			rangedamagereturn_p	7		
+10947	10948	Đá Hồn Bản Quan-Trung		112	12000			1								add_allspecialstate_time_v	80			meleedamagereturn_p	7		
+11062	11063	Đá Hồn Bản Tướng-Trung		113	12000										1	lifemax_p	28			dexterity_v	56		
+1849		Đá Hồn Lý Tam-Cao		0	450	1										attackrate_v	192						
+1850		Đá Hồn Lư Thanh-Cao		0	450							1				water_resist_v	72						
+1851		Đá Hồn Oanh Nhi-Cao		0	450				1							recover_life_v	240	75					
+1852		Đá Hồn Cố Võ-Cao		0	450			1								attackrate_v	192						
+1853		Đá Hồn Tiểu Võ-Cao		0	1350										1	earth_resist_v	84			lifemax_v	560		
+1854		Đá Hồn Tô Mặc Vân-Cao		0	450				1							lifemax_v	960						
+1855		Đá Hồn Tiêu Động Trần-Cao		0	450										1	earth_resist_v	72						
+1856		Đá Hồn Hồ Thần Y-Cao		0	450									1		state_palsy_resistrate	72						
+1857		Đá Hồn Tần Mộc Bạch-Cao		0	450							1				state_slowall_resistrate	72						
+1858		Đá Hồn Trương Trọng Thiên-Cao		0	450										1	state_stun_resistrate	72						
+1859		Đá Hồn Lộ Đạt-Cao		0	450								1			state_zhican_resistrate	72						
+1860		Đá Hồn Bạch Mi Hầu Vương-Cao		1	1350					1						metal_resist_v	105						
+1861		Đá Hồn Đại Địa Lang Vương-Cao		2	1350					1						wood_resist_v	105						
+1862		Đá Hồn Hàn Ngọc Lộc Vương-Cao		3	1350					1						fire_resist_v	105						
+1863		Đá Hồn Tường Vi-Cao		0	450					1						vitality_v	48						
+1864		Đá Hồn Tử Hiên-Cao		0	450						1					dexterity_v	48						
+1865		Đá Hồn Trác Phi Phàm-Cao		4	1350							1				deadlystrike_v	70						
+1866		Đá Hồn Nguyệt Minh Dao-Cao		0	1350		1									metal_resist_v	84			lifemax_v	560		
+1867		Đá Hồn Long Ngạo Thiên-Cao		0	1350				1							state_zhican_resisttime	84			lifemax_v	560		
+1868		Đá Hồn Mạt Thiên Nhiên-Cao		0	1350				1							state_hurt_resisttime	84			lifemax_v	560		
+1869		Đá Hồn Tiểu Ảnh Phong-Cao		5	4000				1							meleedamagereturn_p	9			lifemax_v	1450		
+1870		Đá Hồn Nam Cung Thái Hồng-Cao		0	450			1								energy_v	48						
+1871		Đá Hồn Lâm Hải-Cao		0	450						1					lifemax_v	960						
+1873		Đá Hồn Lục Văn Long-Cao		0	450		1									state_zhican_resisttime	72						
+1872		Đá Hồn Triệu Vô Song-Cao		0	450									1		fire_resist_v	72						
+1874		Đá Hồn Vô Tướng-Cao		0	450					1						lifemax_v	960						
+1875		Đá Hồn Đường Tiêu-Cao		0	1350			1								energy_v	56			lifemax_v	560		
+1876		Đá Hồn Trương Như Mộng-Cao		0	450	1										strength_v	48						
+1877		Đá Hồn Trương Lâm Tâm-Cao		0	1350				1							recover_life_v	280	75		lifemax_v	560		
+1878		Đá Hồn Phong Ngọc Thư-Cao		0	1350								1			wood_resist_v	84			lifemax_v	560		
+1879		Đá Hồn Triệu Tiết-Cao		0	450								1			wood_resist_v	72						
+1880		Đá Hồn Thiệu Kỵ Phong-Cao		0	450		1									metal_resist_v	72						
+1881		Đá Hồn Hà Mộ Tuyết-Cao		0	1350									1		fire_resist_v	84			lifemax_v	560		
+1882		Đá Hồn Triệu Thăng Quyền-Cao		0	1350			1								energy_v	56			attackrate_v	112		
+1883		Đá Hồn Nạp Lan Chân-Cao		0	1350					1						vitality_v	56			lifemax_v	560		
+1884		Đá Hồn Sài Tung-Cao		0	1350							1				water_resist_v	84			lifemax_v	560		
+1885		Đá Hồn Khúc Hà-Cao		0	4000										1	lifemax_p	18			recover_life_v	200	75	
+1886		Đá Hồn Gia Luật Tị Li-Cao 		53	4000	1										basic_damage_v	150		150				
+1887		Đá Hồn Dương Thiết Tâm-Cao		6	4000								1			basic_damage_v	120		120	state_zhican_resistrate	60		
+1888		Đá Hồn Vô Tưởng-Cao		0	4000				1							all_series_resist_v	40			recover_life_v	200	75	
+1889		Đá Hồn Liễu Tiêu Đình-Cao		7	4000										1	resist_allseriesstate_rate_v	40			state_stun_resisttime	60		
+1890		Đá Hồn Lý Điềm Nhi-Cao		8	4000					1						rangedamagereturn_p	9			lifemax_v	1450		
+1891		Đá Hồn Lý Thiên Mục-Cao		9	4000			1								attackspeed_v	10			attackrate_v	200		
+1892		Đá Hồn Hoàn Nhan Tương-Cao		10	4000		1									deadlystrike_damage_p	6			state_hurt_resistrate	60		
+2851		Đá Hồn Huyền Từ-Cao 		49	4000										1	lifemax_p	27						
+1893		Đá Hồn Thiệu Hồng Uyên-Cao		0	1350	1										strength_v	56			attackrate_v	112		
+1894		Đá Hồn Bạch Ngạn Kính-Cao		0	1350					1						vitality_v	56			attackrate_v	112		
+1895		Đá Hồn Gia Luật Sở Tài-Cao		11	4000									1		weaken_deadlystrike_damage_p	6			state_palsy_resistrate	60		
+1896		Đá Hồn Lôi Phong-Cao		0	1350				1							state_stun_resistrate	84			lifemax_v	560		
+1897		Đá Hồn Lôi Đồng-Cao		0	1350				1							state_slowall_resistrate	84			lifemax_v	560		
+1898		Đá Hồn Đường Quyên Quyên-Cao		0	1350				1							state_palsy_resistrate	84			lifemax_v	560		
+1899		Đá Hồn Lôi Chấn Thiên-Cao		12	4000							1				add_seriesstate_rate_v	40			state_slowall_resistrate	60		
+1900		Đá Hồn Đoạt Bảo Tặc-Cao		0	1350						1					dexterity_v	56			attackrate_v	112		
+1901		Đá Hồn Song Dị Thú-Cao		13	1350					1						earth_resist_v	105						
+1902		Đá Hồn Bôn Diệm Báo Vương-Cao		14	1350						1					all_series_resist_v	35						
+1903		Đá Hồn Cửu Vĩ Hồ Vương-Cao		15	1350					1						water_resist_v	105						
+2546		Đá Hồn Dương Anh-Cao		30	12000	1										steallife_p	13			strength_v	56		
+2547		Đá Hồn Thanh Hiểu Sư Thái-Cao		34	12000				1							vitality_v	112			all_series_resist_v	28		
+2548		Đá Hồn Chúc Tử Hư-Cao		35	12000									1		energy_v	112			defense_v	112		
+2549		Đá Hồn Hoàng Ngọc Anh-Cao		32	12000							1				deadlystrike_v	112			ignore_defense_v	112		
+2550		Đá Hồn Đạo Nhất Chân Nhân-Cao		38	12000						1					ignore_all_resist_v	100	56		dexterity_v	56		
+2551		Đá Hồn Đoan Mộc Duệ-Cao		31	12000		1									deadlystrike_damage_p	7			metal_resist_v	112		
+2852		Đá Hồn Huyền Nhân-Cao 		50	12000	1										ignore_defense_v	224			strength_v	56		
+1904		Đá Hồn Cao Trường Cung-Cao		0	4000	1										physical_firedamage_v	120			attackrate_v	160		
+1905		Đá Hồn Triết Biệt-Cao		17	4000	1										deadlystrike_v	80			attackrate_v	160		
+1906		Đá Hồn Tần Lương Ngọc-Cao		0	4000	1										physical_waterdamage_v	120			attackrate_v	160		
+1907		Đá Hồn Viên Thừa Chí-Cao		0	4000	1										physical_earthdamage_v	120			attackrate_v	160		
+1908		Đá Hồn Ngao Bái-Cao		0	4000	1										physical_metaldamage_v	120			attackrate_v	160		
+1909		Đá Hồn Hàn Thế Trung-Cao		0	4000	1										physical_wooddamage_v	120			attackrate_v	160		
+1910		Đá Hồn Xích Tinh Hổ Hoàng-Cao		22	12000			1								metal_resist_v	168			lifemax_v	2000		
+1911		Đá Hồn Hám Thiên Hùng Hoàng-Cao		23	12000			1								wood_resist_v	168			lifemax_v	2000		
+1912		Đá Hồn Tử Bối Ngạc Hoàng-Cao		24	12000										1	all_series_resist_v	56			lifemax_v	2000		
+1913		Đá Hồn Định Hải Kim Cang-Cao		25	12000			1								water_resist_v	168			lifemax_v	2000		
+1914		Đá Hồn Kim Sí Bằng Hoàng-Cao		26	12000			1								earth_resist_v	168			lifemax_v	2000		
+1915		Đá Hồn Ngân Giác Tê Hoàng-Cao		27	12000			1								fire_resist_v	168			lifemax_v	2000		
+2552		Đá Hồn Mạnh Tri Thu-Cao		33	12000								1			strength_v	112			wood_resist_v	84		
+2553		Đá Hồn Lý Hiển Trung-Cao		36	12000					1						all_series_resist_v	56			recover_life_v	280	75	
+2554		Đá Hồn Đồ Đơn Khắc Ninh-Cao		37	12000										1	dexterity_v	112			resist_allseriesstate_rate_v	28		
+2670		Đá Hồn Độc Cô Kiếm-Cao		39	12000		1									ignore_all_resist_v	100	56		basic_damage_v	84		84
+2884		Đá Hồn Nam Cung Phi-Cao 		51	12000								1			energy_v	112			ignore_all_resist_v	100	29	
+2885		Đá Hồn Dương Ảnh Phong-Cao 		52	12000					1						vitality_v	112			defense_v	112		
+2678		Đá Hồn Kinh Kha-Cao		42	12000						1					ignore_all_resist_v	100	56		defense_v	112		
+2679		Đá Hồn Ngu Cơ-Cao		41	12000									1		fire_resist_v	168			state_palsy_resistrate	84		
+2680		Đá Hồn Nhạc Phi-Cao		40	12000							1				water_resist_v	168			state_slowall_resistrate	84		
+2698		Đá Hồn Hoàn Nhan Hồng Liệt-Cao		43	12000										1	basic_damage_v	168		168	lifemax_p	12		
+2834		Đá Hồn Huyền Thiên Võ Cơ-Cao 		46	12000							1				dexterity_v	168						
+2835		Đá Hồn Bạch Khởi-Cao 		47	12000				1							all_series_resist_v	84						
+2836		Đá Hồn Lý Tư-Cao 		48	12000									1		weaken_deadlystrike_v	168						
+3024		Đá Hồn Lôi-Cao 		54	12000				1							defense_v	480						
+2837		Đá Hồn Tần Thủy Hoàng-Cao (Âm) 		44	36000		1									series_abate_v	600			basic_damage_v	120		120
+2838		Đá Hồn Tần Thủy Hoàng-Cao (Dương) 		45	36000					1						series_enhance_v	600			lifemax_p	18		
+1916		Đá Hồn Trương Phong-Cao		0	1350	1										strength_v	56			lifemax_v	560		
+1917		Đá Hồn Nguyệt My Nhi-Cao		0	1350						1					dexterity_v	56			lifemax_v	560		
+1918		Đá Hồn Thiên Tinh Đạo Trưởng-Cao		0	4000								1			ignore_defense_v	160			lifemax_v	1450		
+1919		Đá Hồn Yên Nhược Tuyết-Cao		0	4000									1		defense_v	160			lifemax_v	1450		
+1920		Đá Hồn Dương Hi Liệt-Cao		0	4000			1								add_seriesstate_time_v	40			lifemax_v	1450		
+1921		Đá Hồn Thượng Quan Phi Long-Cao		28	4000									1		weaken_deadlystrike_v	80			lifemax_v	1450		
+1922		Đá Hồn Nạp Lan Tiềm Lẫm-Cao		29	4000						1					ignore_all_resist_v	100	40		lifemax_v	1450		
+1923		Đá Hồn Phương Miễn-Cao		0	4000		1									resist_allseriesstate_time_v	40			lifemax_v	1450		
+1924		Đá Hồn Nam Cung Diệt-Cao		0	4000					1						lifemax_p	18			recover_life_v	200	75	
+1925		Đá Hồn Đường Ảnh-Cao		0	4000							1				ignore_defense_v	160			lifemax_v	1450		
+1926		Đá Hồn Thu Y Thủy-Cao		0	4000						1					defense_v	160			lifemax_v	1450		
+3221		Đá Hồn Lý Nguyên Bá-Cao		56	12000						1					vitality_v	168						
+3222		Đá Hồn Triệu Vân-Cao		55	12000								1			ignore_defense_v	336						
+3223		Đá Hồn Lý Quảng-Cao		57	12000			1								energy_v	168						
+3377		Đá Hồn Doãn Hàm Yên-Cao 		58	12000					1						lifemax_v	6050						
+3378		Đá Hồn Tuyền Cơ Tử-Cao 		59	12000		1									basic_damage_v	210		210				
+3379		Đá Hồn Huyền Thiên Đạo Nhân-Cao 		60	12000	1										deadlystrike_v	168						
+3711		Đá Hồn Niên Thú-Cao		61	12000						1					all_series_resist_v	84						
+3860		Đá Hồn Hắc Diện Lang Quân-Cao		63	12000	1										strength_v	112			attackrate_v	224		
+3861		Đá Hồn Hà Nhân Ngã-Cao		65	12000									1		weaken_deadlystrike_damage_p	12						
+3862		Đá Hồn Đường Cừu-Cao		64	12000							1				add_seriesstate_rate_v	84						
+3899		Đá Hồn Đường Giản-Cao		62	36000								1			strength_v	160			dexterity_v	80		
+4055		Đá Hồn Hoàn Nhan Hồng Liệt-Cao (Chân)		66	36000				1							all_series_resist_p	45						
+4546		Đá Hồn Băng Lân Tích Hoàng-Cao		67	12000										1	meleedamagereturn_p	12			recover_life_v	280	75	
+4547		Đá Hồn Ngân Câu Hạt Hoàng-Cao		68	12000										1	defense_p	12			lifemax_v	2000		
+4548		Đá Hồn Cuồng Tông Ngao Hoàng-Cao		69	12000										1	rangedamagereturn_p	12			recover_life_v	280	75	
+4597		Đá Hồn Hạng Vũ-Cao		70	36000	1										enhance_final_damage_p	12						
+4851		Đá Hồn Đường Hiểu-Cao		71	36000							1				deadlystrike_p	45						
+4877		Đá Hồn Tống Thu Thạch-Cao		73	12000								1			basic_damage_v	168		168	earth_resist_v	84		
+4878		Đá Hồn Cổ Yên Nhiên-Cao		74	12000				1							lifemax_v	4800			resist_allseriesstate_time_v	56		
+5436		Đá Hồn Doãn Tiêu Vũ-Cao		75	12000		1									ignore_defense_vp	20						
+5437		Đá Hồn Thạch Hiên Viên-Cao		72	12000					1						ignore_all_resist_vp	35						
+6075		Đá Hồn Diệp Thanh Dương-Cao		76	12000							1				weaken_deadlystrike_v	135			lifemax_v	2000		
+6076		Đá Hồn Băng Nghi-Cao		77	12000						1					dexterity_v	112			lifemax_v	2000		
+6077		Đá Hồn Dương Tái Hưng-Cao		78	12000								1			ignore_defense_v	224			basic_damage_v	105		105
+6078		Đá Hồn Hoàn Nhan Lâu Thất-Cao		79	12000									1		weaken_deadlystrike_damage_p	7			lifemax_v	2000		
+6104		Đá Hồn Tiêu Ngọc Trúc-Cao		80	12000		1									resist_allseriesstate_rate_v	56			lifemax_v	2000		
+6105		Đá Hồn Kim Ngột Thuật-Cao		81	12000					1						all_series_resist_v	56			add_seriesstate_time_v	56		
+6114		Đá Hồn Ngu Cơ Tuyệt Thế-Cao		82	36000						1					reduce_final_damage_p	12						
+6136		Đá Hồn Võ Tắc Thiên-Cao (Âm)		83	36000										1	steallife_resist_p	20			basic_damage_v	120		120
+6137		Đá Hồn Võ Tắc Thiên-Cao (Dương)		84	36000									1		steallife_resist_p	20			lifemax_p	18		
+6138		Đá Hồn Địch Nhân Kiệt-Cao 		85	12000	1										basic_damage_v	210		210				
+6139		Đá Hồn Lý Nguyên Phương-Cao		86	12000			1								all_series_resist_v	56			lifemax_v	2000		
+6140		Đá Hồn Vô Tự Bi-Cao 		87	12000				1							add_seriesstate_rate_v	56			recover_life_v	280	75	
+6287		Đá Hồn Hàn Mông-Cao		88	12000					1						lifemax_p	27			ignore_defense_v	112		
+7376		Đá Hồn Hà Linh Phiêu-Cao		89	12000			1								energy_v	112			lifemax_v	2000		
+7379		Đá Hồn Ngu Doãn Văn-Cao		90	36000			1								physics_potentialdamage_p	13			resist_allseriesstate_time_v	80		
+7431		Đá Hồn Long Văn Sư Vương-Cao		91	12000									1		ignore_deadlystrike_vp	22			state_palsy_resisttime	84		
+7434		Đá Hồn Cự Ngao Phong Hậu-Cao		92	12000							1				ignore_defense_vp	12			lifemax_v	2000		
+7654		Đá Hồn Vương Đằng-Cao		93	36000				1							vitality_v	160			energy_v	80		
+7655		Đá Hồn Vương Vân Tiêu-Cao		94	12000		1									resist_allseriesstate_time_v	120						
+7656		Đá Hồn Kinh Tuyết-Cao		95	12000								1			deadlystrike_damage_p	7			lifemax_v	2000		
+7743		Đá Hồn Không Tướng-Cao		96	12000	1										ignore_all_resist_v	100	56		strength_v	56		
+9400		Đá Hồn Lâm Thanh Vũ-Cao		97	12000				1							meleedamagereturn_p	12			resist_allseriesstate_rate_v	56		
+9403		Đá Hồn Mạnh Thương Lam-Cao		98	36000		1									dexterity_v	160			energy_v	80		
+9973		Đá Hồn Phong Hành Chu-Cao		99	12000						1					lifemax_v	4850			ignore_all_resist_v	100	56	
+9979		Đá Hồn Quỷ Cốc Tử-Cao (Âm)		100	36000					1						return_resist_p	20			deadlystrike_v	84		
+9982		Đá Hồn Quỷ Cốc Tử-Cao (Dương)		101	36000			1								return_resist_p	20			all_series_resist_v	42		
+9976		Đá Hồn Phương Công Vọng-Cao		102	36000										1	reduce_final_damage_p	12						
+10132		Đá Hồn Huyền Băng Điêu Hoàng-Cao		103	36000							1				lifemax_p	45						
+10133		Đá Hồn Vạn Độc Cúc Hoàng-Cao		104	36000						1					ignore_all_resist_vp	45						
+10134		Đá Hồn Hoàn Nhan Tông Hàn-Cao		105	36000								1			ignore_defense_vp	15			physics_potentialdamage_p	7		
+10151		Đá Hồn Diệp Vô Tâm-Cao		106	36000									1		defense_p	15			add_seriesstate_rate_v	80		
+10451		Đá Hồn Thiên Âm-Cao		107	36000				1							defense_v	720			resist_allseriesstate_time_v	115		
+10477		Đá Hồn Vân Hạo Nhiên-Cao		108	36000								1			energy_v	160			ignore_defense_v	160		
+10630		Đá Hồn Bản Trần-Cao		109	36000	1										deadlystrike_damage_p	15						
+10631		Đá Hồn Đoàn Trí Hưng-Cao		110	36000		1									ignore_all_resist_v	100	200		resist_allseriesstate_rate_v	80		
+10914		Đá Hồn Bản Nhân-Cao		111	36000					1						add_allspecialstate_rate_v	112			rangedamagereturn_p	9		
+10948		Đá Hồn Bản Quan-Cao		112	36000			1								add_allspecialstate_time_v	112			meleedamagereturn_p	9		
+11063		Đá Hồn Bản Tướng-Cao		113	36000										1	lifemax_p	36			dexterity_v	80		

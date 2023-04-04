@@ -1,0 +1,17 @@
+Nơi vào	6451	6274
+Nơi vào	8350	6296
+Nơi vào	4420	6273
+Nơi vào	6506	8117
+Nơi vào	6459	4490
+Lôi Đài 4-Chủ Lôi Đài	5276	7432
+Lôi Đài 4-Người Khiêu Chiến	3822	8912
+Lôi Đài 3-Chủ Lôi Đài	7688	7406
+Lôi Đài 3-Người Khiêu Chiến	9075	8893
+Lôi Đài 2-Chủ Lôi Đài	5268	5176
+Lôi Đài 2-Người Khiêu Chiến	3870	3697
+Lôi Đài 1-Chủ Lôi Đài	7711	5167
+Lôi Đài 1-Người Khiêu Chiến	9130	3701
+Lôi Đài 4	4531	8198
+Lôi Đài 3	8393	8219
+Lôi Đài 2	4534	4363
+Lôi Đài 1	8401	4360

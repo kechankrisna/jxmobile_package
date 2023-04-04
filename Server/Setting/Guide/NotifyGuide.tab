@@ -1,0 +1,53 @@
+GuideName	SaveId	StartLevel	TimeFrame	Fuben	Desc	From	DelLevel	DelTimeFrame
+WorldMap	1	15			Bản đồ	Giao diện chính		
+KinJoin	2	11			Vào Bang Hội	Giao diện chính		
+Jingying	3	25			Tinh Anh	Phó bản		
+AutoFightSettingGuide	4	12			Thiết lập tự đánh	Giao diện chính		
+AutoFightGuide	5	6			Hướng dẫn tự đánh	Giao diện chính		
+PickCard	6			2_4	Rút Thẻ	Đồng Hành		
+Partner	7	9			Đồng Hành xuất trận	Đồng Hành		
+SkillUpGrade	8	4			Tăng kỹ năng	Tăng kỹ năng		
+MoneyTreePanel	9	8			Rung Cây Tiền	Phúc lợi		
+SignInAwards	10	9			Điểm Danh Nhận Thưởng	Phúc lợi		
+GrowInvest	11	21			Đầu Tư	Phúc lợi		
+EverydayTarget_First	12	20			Nhận thưởng mục tiêu ngày	Tính năng		
+EverydayTarget_Preview	13	20			Xem trước thưởng	Tính năng		
+Boss	14	20	OpenDay1A		Minh Chủ Võ Lâm	Hoạt động 		
+CommerceTask	15	30	OpenDay2		Nhiệm Vụ Thương Hội	Hoạt động 		
+Battle	16	24	OpenDay1A		Chiến Trường Tống Kim	Hoạt động 		
+CangBaoTu	17	21			Tàng Bảo Đồ	Hoạt động 		
+PunishTask	18	22			Nhiệm Vụ Trừng Ác	Hoạt động 		
+TeamFuben	19	15			Bí Cảnh Tổ Đội	Hoạt động 		
+ExplorationFuben	20	19			Tìm Kho Báu	Hoạt động 	69	
+Rank	21	17			Võ Thần Điện	Hoạt động 		
+RandomFuben	22	30	OpenDay2		Lăng Tuyệt Phong	Hoạt động 		
+FieldBoss	23	30	OpenDay7		Danh Tướng	Hoạt động 		
+FieldLeader	24	20	OpenDay3C		Thủ Lĩnh Dã Ngoại	Hoạt động 		
+ChuanGong	25	15	OpenDay2		Bang Hội Truyền Công	Hoạt động 		
+KinGather	26	11	OpenDay1		Lửa Trại Bang Hội	Hoạt động 		
+AdventureFuben	27	13			Sơn Tặc Mật Quật	Hoạt động 		
+HeroChallenge	28	30	OpenDay3		Khiêu Chiến Anh Hùng	Hoạt động 		
+WhiteTigerFuben	30	30	OpenDay3		Bạch Hổ Đường	Hoạt động 		
+TeamBattle	31	30	OpenDay4		Thông Thiên Tháp	Hoạt động 		
+FactionBattle	32	30	OpenDay4		Thi Đấu Môn Phái	Hoạt động 		
+KinEscort	33	30	OpenDay5		Vận Tiêu Bang Hội	Hoạt động 		
+XiuLian	34	24			Luyện Công Ngoài Thành	Hoạt động 		
+KinFuben	35	15	OpenDay4		Thí Luyện Bang Hội	Hoạt động 		
+SeriesFuben	36	20			Thí Luyện Giang Hồ	Hoạt động 	40	
+TitleGuide	37	17			Hướng dẫn Quân Hàm	Quân Hàm		
+KinBuildUpgrade	38				Mở Kiến trúc Bang Hội	Giao diện chính		
+Enemy	39				Kẻ Thù	Quan hệ		
+PkMode	40	20			Dạng PK	Giao diện chính		
+RefineGuide	41				Hướng dẫn Tẩy Luyện	Tẩy luyện		
+MountGuide	42	1			Thú Cưỡi	Giao diện chính		
+BindingMailGuideIOS	43	1			Khóa máy IOS	Giao diện nhân vật		
+BindingMailGuideAndroid	44	1			Khóa máy Android	Giao diện nhân vật		
+ImperialTomb	45	60	OpenDay89		Tần Lăng	Hoạt động 		
+ImperialTombEmperor	46	60	OpenDay89		Thủy Hoàng Giáng Thế	Hoạt động 		
+InDifferBattle	47	60	OpenDay118		Tâm Ma Ảo Cảnh	Hoạt động 		
+BtnHome	48	999			Gia Viên	Giao diện chính		
+ZhuangXiu	49	1			Lắp đặt	Giao diện chính		
+RechargeGift	50	10			Quà Nguyên Bảo	Phúc lợi		
+DailyRechargeGift	51	10			Quà Mỗi Ngày	Phúc lợi		
+FrameSettingGuide	52	1			Điều chỉnh góc nhìn	Giao diện chính		
+PartnerCardTab	53				Đổi trang Môn Khách	Môn Khách		

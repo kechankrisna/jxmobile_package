@@ -1,0 +1,142 @@
+Index	TemplateID	Name	Kind	Camp	ClassName	ScriptParam	NpcResID	FaceID	BigFaceID	ReviveFrame	NpcAttribID	NormalSkill1	NormalSkillLevel1	NormalSkill2	NormalSkillLevel2	NormalSkill3	NormalSkillLevel3	VisionRadius	ActiveRadius	AiFile	Treasure	DropFile	FightMode	RunSpeed	BloodStyle	ForbitMove	TitleID	AuraSkillId	AuraSkillLevel	StartActEvent	Tag	DropType	DefaultDialog	WalkSpeed	NameColor	Experience	GouHuoRate	TransBossNpcTID	TransBossRate	FixExperience	IsNotBYStealLife	IsNotShowShadow	Sex	SyncFirst
+Kin_Flag_1	1189	Cờ	0	0	FubenDeath		412	200	300		135	22	1	91	1			1500	1500				1	18	1						NoTurn													
+Kin_Enemy_1	1190	Kim Xích Hầu	0	1	FubenDeath		1127	200	300		811	22	1					1500	1500	Setting/Npc/Ai/CommonActive.ini			1	18	1										1									
+Kin_Enemy_2	1254	Cơ Quan Chiến Xa	0	1	FubenDeath		154	200	300		812	1874	1	91	1			1500	1500	Setting/Npc/Ai/CommonActive.ini			1	18	2										3									
+Kin_Enemy_3	1255	Đồng Chùy Man Sĩ	0	1	FubenDeath		1107	200	300		812			91	1			1500	1500	Setting/Npc/Ai/kinfuben/tongchuimanshi.ini			1	18	2										3									
+Kin_Enemy_4	1256	Vệ Sĩ Phản Đòn	0	1	FubenDeath		180	200	300		812	22	1	91	1			1500	1500	Setting/Npc/Ai/CommonActive.ini			1	18	2			1687	1						3									
+Kin_Enemy_5	1257	Thích Khách Bịt Mặt	0	1	FubenDeath		121	200	300		812	22	1	91	1			1500	1500	Setting/Npc/Ai/CommonActive.ini			1	18	2			1685	1						3									
+Kin_Enemy_6	1259	Kim Xích Hầu-Tinh Anh	0	1	FubenDeath		1127	200	300		812	22	1	91	1			1500	1500	Setting/Npc/Ai/CommonActive.ini			1	18	2										3									
+Kin_Enemy_7	1260	Hỏa Pháo	0	1	FubenDeath		378	200	300		812	22	1	91	1			1500	1500	Setting/Npc/Ai/kinfuben/huopao.ini			1	18	2										3									
+Kin_Boss_1	1191	Kim Đại Tướng	0	1	FubenDeath		402	200	300		815	22	1	91	1			1500	1500	Setting/Npc/Ai/CommonActive.ini			1	18	2										4									
+Kin_Boss_2	1192	Kim Đại Tướng	0	1	FubenDeath		402	200	300		815	22	1	91	1			1500	1500	Setting/Npc/Ai/CommonActive.ini			1	18	2										4									
+Kin_Boss_3	1193	Kim Đại Tướng	0	1	FubenDeath		402	200	300		815	22	1	91	1			1500	1500	Setting/Npc/Ai/CommonActive.ini			1	18	2										4									
+Kin_Boss_4	1194	Kim Đại Tướng	0	1	FubenDeath		402	200	300		815	22	1	91	1			1500	1500	Setting/Npc/Ai/CommonActive.ini			1	18	2										4									
+Kin_Boss_5	1195	Kim Đại Tướng	0	1	FubenDeath		402	200	300		815	22	1	91	1			1500	1500	Setting/Npc/Ai/CommonActive.ini			1	18	2										4									
+Kin_Resouce_1	1196	Kim Hậu Cần-Lương	0	1	FubenDeath		171	200	300		403	22	1	91	1			1500	1500	Setting/Npc/Ai/CommonPassive.ini			1	18	1																			
+Kin_Resouce_2	1197	Kim Hậu Cần-Cỏ	0	1	FubenDeath		181	200	300		403	22	1	91	1			1500	1500	Setting/Npc/Ai/CommonPassive.ini			1	18	1																			
+Kin_Resouce_3	1198	Kim Hậu Cần-Thủy	0	1	FubenDeath		136	200	300		403	22	1	91	1			1500	1500	Setting/Npc/Ai/CommonPassive.ini			1	18	1																			
+Kin_Resouce_4	1199	Kim Hậu Cần-Muối	0	1	FubenDeath		142	200	300		403	22	1	91	1			1500	1500	Setting/Npc/Ai/CommonPassive.ini			1	18	1																			
+Kin_Resouce_5	1200	Kim Hậu Cần-Tiền	0	1	FubenDeath		146	200	300		403	22	1	91	1			1500	1500	Setting/Npc/Ai/CommonPassive.ini			1	18	1																			
+Kin_Train	1201	Xe Vật Tư	2	1	KinTrainCar		438	995	326		1	21	1							Setting/Npc/Ai/CommonActive.ini			0	15	1						NoTurn													
+Kin_Box	1258	Bảo Rương	2	1	KinTrainBox	5|60	352	995	326		1	21	1							Setting/Npc/Ai/CommonActive.ini			0	15	1						NoTurn													
+Kin_Stone	1203	Nham Thạch	0	1	FubenDeath		335	200	300	30	921	22	1	91	1								1	18	1																			
+Kin_Enemy_1_2	1290	Kim Xích Hầu	0	1	FubenDeath		1127	200	300		811	22	1					1500	1500	Setting/Npc/Ai/CommonActive.ini			1	18	1										1									
+Kin_Enemy_2_2	1291	Cơ Quan Chiến Xa	0	1	FubenDeath		154	200	300		813	1874	1	91	1			1500	1500	Setting/Npc/Ai/CommonActive.ini			1	18	2										3									
+Kin_Enemy_3_2	1292	Đồng Chùy Man Sĩ	0	1	FubenDeath		1107	200	300		813			91	1			1500	1500	Setting/Npc/Ai/kinfuben/tongchuimanshi.ini			1	18	2										3									
+Kin_Enemy_4_2	1293	Vệ Sĩ Phản Đòn	0	1	FubenDeath		180	200	300		813	22	1	91	1			1500	1500	Setting/Npc/Ai/CommonActive.ini			1	18	2			1687	1						3									
+Kin_Enemy_5_2	1294	Thích Khách Bịt Mặt	0	1	FubenDeath		121	200	300		813	22	1	91	1			1500	1500	Setting/Npc/Ai/CommonActive.ini			1	18	2			1685	1						3									
+Kin_Enemy_6_2	1295	Kim Xích Hầu-Tinh Anh	0	1	FubenDeath		1127	200	300		813	22	1	91	1			1500	1500	Setting/Npc/Ai/CommonActive.ini			1	18	2										3									
+Kin_Enemy_7_2	1296	Hỏa Pháo	0	1	FubenDeath		378	200	300		813	22	1	91	1			1500	1500	Setting/Npc/Ai/kinfuben/huopao.ini			1	18	2										3									
+Kin_Enemy_1_3	1297	Kim Xích Hầu	0	1	FubenDeath		1127	200	300		811	22	1					1500	1500	Setting/Npc/Ai/CommonActive.ini			1	18	1										1									
+Kin_Enemy_2_3	1298	Cơ Quan Chiến Xa	0	1	FubenDeath		154	200	300		814	1874	1	91	1			1500	1500	Setting/Npc/Ai/CommonActive.ini			1	18	2										3									
+Kin_Enemy_3_3	1299	Đồng Chùy Man Sĩ	0	1	FubenDeath		1107	200	300		814			91	1			1500	1500	Setting/Npc/Ai/kinfuben/tongchuimanshi.ini			1	18	2										3									
+Kin_Enemy_4_3	1300	Vệ Sĩ Phản Đòn	0	1	FubenDeath		180	200	300		814	22	1	91	1			1500	1500	Setting/Npc/Ai/CommonActive.ini			1	18	2			1687	1						3									
+Kin_Enemy_5_3	1301	Thích Khách Bịt Mặt	0	1	FubenDeath		121	200	300		814	22	1	91	1			1500	1500	Setting/Npc/Ai/CommonActive.ini			1	18	2			1685	1						3									
+Kin_Enemy_6_3	1302	Kim Xích Hầu-Tinh Anh	0	1	FubenDeath		1127	200	300		814	22	1	91	1			1500	1500	Setting/Npc/Ai/CommonActive.ini			1	18	2										3									
+Kin_Enemy_7_3	1303	Hỏa Pháo	0	1	FubenDeath		378	200	300		814	22	1	91	1			1500	1500	Setting/Npc/Ai/kinfuben/huopao.ini			1	18	2										3									
+KinCaptain_1	2753	Đồ Đơn Đại Hùng	0	1	FubenDeath		20400	200	994		816	166	1	91	1			1500	1500	Setting/Npc/Ai/fuben/KinFubenCaptaion.ini			1	20	2		550																	
+KinCaptain_2	2754	Đồ Đơn Nhị Hùng	0	1	FubenDeath		20400	200	994		816	166	1	91	1			1500	1500	Setting/Npc/Ai/fuben/KinFubenCaptaion.ini			1	20	2		550																	
+KinCaptain_3	2755	Đồ Đơn Tam Hùng	0	1	FubenDeath		20400	200	994		816	166	1	91	1			1500	1500	Setting/Npc/Ai/fuben/KinFubenCaptaion.ini			1	20	2		550																	
+KinCaptain_1_2	2756	Đồ Đơn Đại Hùng	0	1	FubenDeath		20400	200	994		817	166	1	91	1			1500	1500	Setting/Npc/Ai/fuben/KinFubenCaptaion.ini			1	20	2		550																	
+KinCaptain_2_2	2757	Đồ Đơn Nhị Hùng	0	1	FubenDeath		20400	200	994		817	166	1	91	1			1500	1500	Setting/Npc/Ai/fuben/KinFubenCaptaion.ini			1	20	2		550																	
+KinCaptain_3_2	2758	Đồ Đơn Tam Hùng	0	1	FubenDeath		20400	200	994		817	166	1	91	1			1500	1500	Setting/Npc/Ai/fuben/KinFubenCaptaion.ini			1	20	2		550																	
+KinCaptain_1_3	2759	Đồ Đơn Đại Hùng	0	1	FubenDeath		20400	200	994		818	166	1	91	1			1500	1500	Setting/Npc/Ai/fuben/KinFubenCaptaion.ini			1	20	2		550																	
+KinCaptain_2_3	2760	Đồ Đơn Nhị Hùng	0	1	FubenDeath		20400	200	994		818	166	1	91	1			1500	1500	Setting/Npc/Ai/fuben/KinFubenCaptaion.ini			1	20	2		550																	
+KinCaptain_3_3	2761	Đồ Đơn Tam Hùng	0	1	FubenDeath		20400	200	994		818	166	1	91	1			1500	1500	Setting/Npc/Ai/fuben/KinFubenCaptaion.ini			1	20	2		550																	
+Kin_longzhu_sun	2762	Long Trụ Nhật Diệu	0	0	FubenDeath		499	200	994		1008	91	1	105	1			1500	1500	Setting/Npc/Ai/Stay.ini			1	20	2	1															1	1		
+Kin_longzhu_moon	2763	Long Trụ Nguyệt Hoa	0	0	FubenDeath		498	200	994		1009	91	1	105	1			1500	1500	Setting/Npc/Ai/Stay.ini			1	20	2	1															1	1		
+Kin_longzhu_star	2764	Long Trụ Tinh Huy	0	0	FubenDeath		498	200	994		1009	91	1	105	1			1500	1500	Setting/Npc/Ai/Stay.ini			1	20	2	1															1	1		
+Kin_shibing_dh	2765	Tống Quân Chỉ Huy	2	0			477	200	300									1500	1500	Setting/Npc/Ai/CommonActive.ini				20	3		552						Kim Quân Tam Hùng đã bị phá một đạo quân, trong vòng [FFFE0D]10 giây[-] phải phá 2 đạo quân tiếp theo!   [FF6464FF]Gợi ý: Mở bản đồ có thể xem thông tin tương ứng[-]		2									
+Kin_gate	2772	Cổng Thành	0	0	FubenDeath		504	200	994		1001	91	1	105	1			1500	1500	Setting/Npc/Ai/Stay.ini			0	20	3	1															1	1		
+Kin_Flag_2	2773	Cứ Điểm Quân Kim	6	0			412	200	300		135	22	1	91	1			1500	1500					18	3						NoTurn													
+Kin_Resouce_n1	2774	Kim Hậu Cần-Lương	0	1	FubenDeath		171	200	300		403	22	1	91	1			1500	1500	Setting/Npc/Ai/CommonPassive.ini			1	18	1																			
+Kin_Resouce_n2	2775	Kim Hậu Cần-Cỏ	0	1	FubenDeath		181	200	300		403	22	1	91	1			1500	1500	Setting/Npc/Ai/CommonPassive.ini			1	18	1																			
+Kin_Resouce_n3	2776	Kim Hậu Cần-Thủy	0	1	FubenDeath		136	200	300		403	22	1	91	1			1500	1500	Setting/Npc/Ai/CommonPassive.ini			1	18	1																			
+Kin_Resouce_n4	2777	Kim Hậu Cần-Muối	0	1	FubenDeath		142	200	300		403	22	1	91	1			1500	1500	Setting/Npc/Ai/CommonPassive.ini			1	18	1																			
+Kin_Train2	2778	Xe Quân Lương	0	0	FubenDeath		438	995	326		1008	21	1										0	15	1	1					NoTurn													
+Kin_shibing_dh2	2779	Quan Vật Tư	2	0	KinTrainCar		477	995	326		1	21	1										0	15	3					1	NoTurn													
+Kin_Enemy_n1	2780	Kim Binh	0	1	FubenDeath		1127	200	300		811	22	1					1500	1500	Setting/Npc/Ai/CommonActive.ini			1	18	1										1									
+Kin_Enemy_n1_2	2781	Kim Binh	0	1	FubenDeath		1127	200	300		811	22	1					1500	1500	Setting/Npc/Ai/CommonActive.ini			1	18	1										1									
+Kin_Enemy_n1_3	2782	Kim Binh	0	1	FubenDeath		1127	200	300		811	22	1					1500	1500	Setting/Npc/Ai/CommonActive.ini			1	18	1										1									
+Kin_Boss_n1	2783	Hoàn Nhan Hồng Liệt	0	1	FubenDeath		20401	200	993		815	3137	1	91	1			1000	1500	Setting/Npc/Ai/random/pilihuo.ini			1	20	2		551																	
+Kin_Boss_n2	2784	Hoàn Nhan Hồng Liệt	0	1	FubenDeath		20401	200	993		815	3137	1	91	1			1000	1500	Setting/Npc/Ai/random/pilihuo.ini			1	20	2		551																	
+Kin_Boss_n3	2785	Hoàn Nhan Hồng Liệt	0	1	FubenDeath		20401	200	993		815	3137	1	91	1			1000	1500	Setting/Npc/Ai/random/pilihuo.ini			1	20	2		551																	
+Kin_Boss_n4	2786	Hoàn Nhan Hồng Liệt	0	1	FubenDeath		20401	200	993		815	3137	1	91	1			1000	1500	Setting/Npc/Ai/random/pilihuo.ini			1	20	2		551																	
+mijing_boss_1	2928	Nam Cung Phi	0	1	FubenDeath		27	200	993		819	21	1	91	1			1000	1500	Setting/Npc/Ai/kinfuben/nangongfeiyun.ini			1	20	2																1			
+mijing_boss_2	2929	Dương Ảnh Phong	0	1	KinSecretNpc2		536	200	993		820	21	1	91	1			1000	1500	Setting/Npc/Ai/kinfuben/yangyingfeng.ini			1	20	2																1			
+mijing_boss_3a	2930	Độc Cô Kiếm	0	1	KinSecretNpc3A		32	200	993		821	21	1	91	1			1000	1500	Setting/Npc/Ai/kinfuben/dugujian.ini			1	20	2		5105														1			
+mijing_boss_3b	2931	Trương Lâm Tâm	0	1	KinSecretNpc3B		461	200	993		822	41	1	91	1			1000	1500	Setting/Npc/Ai/kinfuben/zhanglinxin.ini			1	20	2		5106														1			
+mijing_fazhen_jin	2919	Pháp Trận Hệ Kim	6	0			692	200	300																						NoTurn													
+mijing_fazhen_mu	2920	Pháp Trận Hệ Mộc	6	0			693	200	300																						NoTurn													
+mijing_fazhen_shui	2921	Pháp Trận Hệ Thủy	6	0			694	200	300																						NoTurn													
+mijing_fazhen_huo	2922	Pháp Trận Hệ Hỏa	6	0			695	200	300																						NoTurn													
+mijing_fazhen_tu	2923	Pháp Trận Hệ Thổ	6	0			696	200	300																						NoTurn													
+mijing_xianjing	2932	Bẫy diệt nhanh	6	1	FubenDeath		456	200	300		323	2468	30										1								NoTurn											1		
+mijing_rewardbox	2933	Bảo Rương Lớn	2	0	FubenDialog	4,Đang mở...	574	200	300																						NoTurn													
+Defend_Boss	3332	Hoàn Nhan Tông Hàn	0	1	FubenDeath		20400	200	300		824	22	1	91	1			1500	1500	Setting/Npc/Ai/random/pilihuo.ini			1	20	2																			
+Defend_fenshen_jin	3333	Hoàn Nhan Tông Hàn-Kim	0	1	FubenDeath		20400	200	300		825	22	1	91	1			500	500	Setting/Npc/Ai/random/pilihuo.ini			1	20	2																1			
+Defend_fenshen_mu	3334	Hoàn Nhan Tông Hàn-Mộc	0	1	FubenDeath		20400	200	300		825	22	1	91	1			500	500	Setting/Npc/Ai/random/pilihuo.ini			1	20	2																1			
+Defend_fenshen_shui	3335	Hoàn Nhan Tông Hàn-Thủy	0	1	FubenDeath		20400	200	300		825	22	1	91	1			500	500	Setting/Npc/Ai/random/pilihuo.ini			1	20	2																1			
+Defend_fenshen_huo	3336	Hoàn Nhan Tông Hàn-Hỏa	0	1	FubenDeath		20400	200	300		825	22	1	91	1			500	500	Setting/Npc/Ai/random/pilihuo.ini			1	20	2																1			
+Defend_fenshen_tu	3337	Hoàn Nhan Tông Hàn-Thổ	0	1	FubenDeath		20400	200	300		825	22	1	91	1			500	500	Setting/Npc/Ai/random/pilihuo.ini			1	20	2																1			
+Defend_linghunqiu_jin	3338	Linh Hồn Cầu-Kim	0	0	FubenDeath		487	200	300		403	22	1	91	1			1500	1500	Setting/Npc/Ai/CommonActive.ini			1	20	3																			
+Defend_linghunqiu_mu	3339	Linh Hồn Cầu-Mộc	0	0	FubenDeath		489	200	300		403	22	1	91	1			1500	1500	Setting/Npc/Ai/CommonActive.ini			1	20	3																			
+Defend_linghunqiu_shui	3340	Linh Hồn Cầu-Thủy	0	0	FubenDeath		485	200	300		403	22	1	91	1			1500	1500	Setting/Npc/Ai/CommonActive.ini			1	20	3																			
+Defend_linghunqiu_huo	3341	Linh Hồn Cầu-Hỏa	0	0	FubenDeath		486	200	300		403	22	1	91	1			1500	1500	Setting/Npc/Ai/CommonActive.ini			1	20	3																			
+Defend_linghunqiu_tu	3342	Linh Hồn Cầu-Thổ	0	0	FubenDeath		488	200	300		403	22	1	91	1			1500	1500	Setting/Npc/Ai/CommonActive.ini			1	20	3																			
+Defend_wushi_jin	3343	Vu Sư-Kim	0	1	FubenDeath		121	200	300		826	22	1	3735	1			1500	1500	Setting/Npc/Ai/CommonActive.ini			1	5	1																			
+Defend_wushi_mu	3344	Vu Sư-Mộc	0	1	FubenDeath		121	200	300		826	22	1	3735	1			1500	1500	Setting/Npc/Ai/CommonActive.ini			1	5	1																			
+Defend_wushi_shui	3345	Vu Sư-Thủy	0	1	FubenDeath		121	200	300		826	22	1	3735	1			1500	1500	Setting/Npc/Ai/CommonActive.ini			1	5	1																			
+Defend_wushi_huo	3346	Vu Sư-Hỏa	0	1	FubenDeath		121	200	300		826	22	1	3735	1			1500	1500	Setting/Npc/Ai/CommonActive.ini			1	5	1																			
+Defend_wushi_tu	3347	Vu Sư-Thổ	0	1	FubenDeath		121	200	300		826	22	1	3735	1			1500	1500	Setting/Npc/Ai/CommonActive.ini			1	5	1																			
+Defend_yao_jin	3348	Tiên Chi-Kim	2	1	KinDefendPickNpc	20,Đang thu thập...	962	992	300	900								1500	1500	Setting/Npc/Ai/CommonActive.ini											NoTurn													
+Defend_yao_mu	3349	Tiên Chi-Mộc	2	1	KinDefendPickNpc	20,Đang thu thập...	962	992	300	900								1500	1500	Setting/Npc/Ai/CommonActive.ini											NoTurn													
+Defend_yao_shui	3350	Tiên Chi-Thủy	2	1	KinDefendPickNpc	20,Đang thu thập...	962	992	300	900								1500	1500	Setting/Npc/Ai/CommonActive.ini											NoTurn													
+Defend_yao_huo	3351	Tiên Chi-Hỏa	2	1	KinDefendPickNpc	20,Đang thu thập...	962	992	300	900								1500	1500	Setting/Npc/Ai/CommonActive.ini											NoTurn													
+Defend_yao_tu	3352	Tiên Chi-Thổ	2	1	KinDefendPickNpc	20,Đang thu thập...	962	992	300	900								1500	1500	Setting/Npc/Ai/CommonActive.ini											NoTurn													
+Defend_sishi_jin	3353	Bảo Vật Xích Hầu-Kim	0	1	FubenDeath		1127	200	300	1800	827	22	1	91	1			1500	1500	Setting/Npc/Ai/CommonActive.ini			1	20	1																			
+Defend_sishi_mu	3354	Bảo Vật Xích Hầu-Mộc	0	1	FubenDeath		1127	200	300	1800	827	22	1	91	1			1500	1500	Setting/Npc/Ai/CommonActive.ini			1	20	1																			
+Defend_sishi_shui	3355	Bảo Vật Xích Hầu-Thủy	0	1	FubenDeath		1127	200	300	1800	827	22	1	91	1			1500	1500	Setting/Npc/Ai/CommonActive.ini			1	20	1																			
+Defend_sishi_huo	3356	Bảo Vật Xích Hầu-Hỏa	0	1	FubenDeath		1127	200	300	1800	827	22	1	91	1			1500	1500	Setting/Npc/Ai/CommonActive.ini			1	20	1																			
+Defend_sishi_tu	3357	Bảo Vật Xích Hầu-Thổ	0	1	FubenDeath		1127	200	300	1800	827	22	1	91	1			1500	1500	Setting/Npc/Ai/CommonActive.ini			1	20	1																			
+Defend_qibing	3358	Kỵ Binh Tinh Nhuệ	0	1	FubenDeath		181	200	300		823	22	1	91	1			1500	1500	Setting/Npc/Ai/CommonActive.ini			1	20	1																			
+Defend_bubing	3359	Bộ Binh Tinh Nhuệ	0	1	FubenDeath		431	200	300		823	22	1	91	1			1500	1500	Setting/Npc/Ai/CommonActive.ini			1	20	1																			
+Defend_shibei	3377	Bia Đá	2	0	KinDefendSteleNpc		415	200	300																						NoTurn													
+Defend_Boss2	3378	Hoàn Nhan Tông Hàn	0	1	FubenDeath		20400	200	300		829	22	1	91	1			1500	1500	Setting/Npc/Ai/random/pilihuo.ini			1	20	2																			
+Defend_fenshen_jin2	3379	Hoàn Nhan Tông Hàn-Kim	0	1	FubenDeath		20400	200	300		830	22	1	91	1			500	500	Setting/Npc/Ai/random/pilihuo.ini			1	20	2																1			
+Defend_fenshen_mu2	3380	Hoàn Nhan Tông Hàn-Mộc	0	1	FubenDeath		20400	200	300		830	22	1	91	1			500	500	Setting/Npc/Ai/random/pilihuo.ini			1	20	2																1			
+Defend_fenshen_shui2	3381	Hoàn Nhan Tông Hàn-Thủy	0	1	FubenDeath		20400	200	300		830	22	1	91	1			500	500	Setting/Npc/Ai/random/pilihuo.ini			1	20	2																1			
+Defend_fenshen_huo2	3382	Hoàn Nhan Tông Hàn-Hỏa	0	1	FubenDeath		20400	200	300		830	22	1	91	1			500	500	Setting/Npc/Ai/random/pilihuo.ini			1	20	2																1			
+Defend_fenshen_tu2	3383	Hoàn Nhan Tông Hàn-Thổ	0	1	FubenDeath		20400	200	300		830	22	1	91	1			500	500	Setting/Npc/Ai/random/pilihuo.ini			1	20	2																1			
+Defend_wushi_jin2	3384	Vu Sư-Kim	0	1	FubenDeath		121	200	300		831	22	1	3735	1			1500	1500	Setting/Npc/Ai/CommonActive.ini			1	5	1																			
+Defend_wushi_mu2	3385	Vu Sư-Mộc	0	1	FubenDeath		121	200	300		831	22	1	3735	1			1500	1500	Setting/Npc/Ai/CommonActive.ini			1	5	1																			
+Defend_wushi_shui2	3386	Vu Sư-Thủy	0	1	FubenDeath		121	200	300		831	22	1	3735	1			1500	1500	Setting/Npc/Ai/CommonActive.ini			1	5	1																			
+Defend_wushi_huo2	3387	Vu Sư-Hỏa	0	1	FubenDeath		121	200	300		831	22	1	3735	1			1500	1500	Setting/Npc/Ai/CommonActive.ini			1	5	1																			
+Defend_wushi_tu2	3388	Vu Sư-Thổ	0	1	FubenDeath		121	200	300		831	22	1	3735	1			1500	1500	Setting/Npc/Ai/CommonActive.ini			1	5	1																			
+Defend_sishi_jin2	3389	Bảo Vật Xích Hầu-Kim	0	1	FubenDeath		1127	200	300	1800	832	22	1	91	1			1500	1500	Setting/Npc/Ai/CommonActive.ini			1	20	1																			
+Defend_sishi_mu2	3390	Bảo Vật Xích Hầu-Mộc	0	1	FubenDeath		1127	200	300	1800	832	22	1	91	1			1500	1500	Setting/Npc/Ai/CommonActive.ini			1	20	1																			
+Defend_sishi_shui2	3391	Bảo Vật Xích Hầu-Thủy	0	1	FubenDeath		1127	200	300	1800	832	22	1	91	1			1500	1500	Setting/Npc/Ai/CommonActive.ini			1	20	1																			
+Defend_sishi_huo2	3392	Bảo Vật Xích Hầu-Hỏa	0	1	FubenDeath		1127	200	300	1800	832	22	1	91	1			1500	1500	Setting/Npc/Ai/CommonActive.ini			1	20	1																			
+Defend_sishi_tu2	3393	Bảo Vật Xích Hầu-Thổ	0	1	FubenDeath		1127	200	300	1800	832	22	1	91	1			1500	1500	Setting/Npc/Ai/CommonActive.ini			1	20	1																			
+Defend_qibing2	3394	Kỵ Binh Tinh Nhuệ	0	1	FubenDeath		181	200	300		828	22	1	91	1			1500	1500	Setting/Npc/Ai/CommonActive.ini			1	20	1																			
+Defend_bubing2	3395	Bộ Binh Tinh Nhuệ	0	1	FubenDeath		431	200	300		828	22	1	91	1			1500	1500	Setting/Npc/Ai/CommonActive.ini			1	20	1																			
+Defend_Boss3	3396	Hoàn Nhan Tông Hàn	0	1	FubenDeath		20400	200	300		834	22	1	91	1			1500	1500	Setting/Npc/Ai/random/pilihuo.ini			1	20	2																			
+Defend_fenshen_jin3	3397	Hoàn Nhan Tông Hàn-Kim	0	1	FubenDeath		20400	200	300		835	22	1	91	1			500	500	Setting/Npc/Ai/random/pilihuo.ini			1	20	2																1			
+Defend_fenshen_mu3	3398	Hoàn Nhan Tông Hàn-Mộc	0	1	FubenDeath		20400	200	300		835	22	1	91	1			500	500	Setting/Npc/Ai/random/pilihuo.ini			1	20	2																1			
+Defend_fenshen_shui3	3399	Hoàn Nhan Tông Hàn-Thủy	0	1	FubenDeath		20400	200	300		835	22	1	91	1			500	500	Setting/Npc/Ai/random/pilihuo.ini			1	20	2																1			
+Defend_fenshen_huo3	3400	Hoàn Nhan Tông Hàn-Hỏa	0	1	FubenDeath		20400	200	300		835	22	1	91	1			500	500	Setting/Npc/Ai/random/pilihuo.ini			1	20	2																1			
+Defend_fenshen_tu3	3401	Hoàn Nhan Tông Hàn-Thổ	0	1	FubenDeath		20400	200	300		835	22	1	91	1			500	500	Setting/Npc/Ai/random/pilihuo.ini			1	20	2																1			
+Defend_wushi_jin3	3402	Vu Sư-Kim	0	1	FubenDeath		121	200	300		836	22	1	3735	1			1500	1500	Setting/Npc/Ai/CommonActive.ini			1	5	1																			
+Defend_wushi_mu3	3403	Vu Sư-Mộc	0	1	FubenDeath		121	200	300		836	22	1	3735	1			1500	1500	Setting/Npc/Ai/CommonActive.ini			1	5	1																			
+Defend_wushi_shui3	3404	Vu Sư-Thủy	0	1	FubenDeath		121	200	300		836	22	1	3735	1			1500	1500	Setting/Npc/Ai/CommonActive.ini			1	5	1																			
+Defend_wushi_huo3	3405	Vu Sư-Hỏa	0	1	FubenDeath		121	200	300		836	22	1	3735	1			1500	1500	Setting/Npc/Ai/CommonActive.ini			1	5	1																			
+Defend_wushi_tu3	3406	Vu Sư-Thổ	0	1	FubenDeath		121	200	300		836	22	1	3735	1			1500	1500	Setting/Npc/Ai/CommonActive.ini			1	5	1																			
+Defend_sishi_jin3	3407	Bảo Vật Xích Hầu-Kim	0	1	FubenDeath		1127	200	300	1800	837	22	1	91	1			1500	1500	Setting/Npc/Ai/CommonActive.ini			1	20	1																			
+Defend_sishi_mu3	3408	Bảo Vật Xích Hầu-Mộc	0	1	FubenDeath		1127	200	300	1800	837	22	1	91	1			1500	1500	Setting/Npc/Ai/CommonActive.ini			1	20	1																			
+Defend_sishi_shui3	3409	Bảo Vật Xích Hầu-Thủy	0	1	FubenDeath		1127	200	300	1800	837	22	1	91	1			1500	1500	Setting/Npc/Ai/CommonActive.ini			1	20	1																			
+Defend_sishi_huo3	3410	Bảo Vật Xích Hầu-Hỏa	0	1	FubenDeath		1127	200	300	1800	837	22	1	91	1			1500	1500	Setting/Npc/Ai/CommonActive.ini			1	20	1																			
+Defend_sishi_tu3	3411	Bảo Vật Xích Hầu-Thổ	0	1	FubenDeath		1127	200	300	1800	837	22	1	91	1			1500	1500	Setting/Npc/Ai/CommonActive.ini			1	20	1																			
+Defend_qibing3	3412	Kỵ Binh Tinh Nhuệ	0	1	FubenDeath		181	200	300		833	22	1	91	1			1500	1500	Setting/Npc/Ai/CommonActive.ini			1	20	1																			
+Defend_bubing3	3413	Bộ Binh Tinh Nhuệ	0	1	FubenDeath		431	200	300		833	22	1	91	1			1500	1500	Setting/Npc/Ai/CommonActive.ini			1	20	1																			
+Defend_Boss_zhanshi	3414	Hoàn Nhan Tông Hàn	0	1	FubenDeath		180	200	300		824	22	1	91	1			1500	1500	Setting/Npc/Ai/CommonActive.ini			1	20	2																			
+Defend_jineng	3415	Bỏ kỹ năng	6	1	FubenDeath		469	200	300		343							1000	1000	Setting/Npc/Ai/CommonActive.ini			1	14	1																1			

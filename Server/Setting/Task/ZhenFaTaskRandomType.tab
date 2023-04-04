@@ -1,0 +1,8 @@
+nRandomType	Des	1	2	3	4	5	6
+1	Chắc chắn ra nhiệm vụ cường hóa cộng đồng	100					
+2	Chắc chắn ra nhiệm vụ bắn Pháo Hoa			100			
+3	Chắc chắn ra nhiệm vụ NPC đối thoại Vấn Đáp						100
+4	Tỉ lệ cao Đồng Tâm Hoa chắc chắn ra NPC đối thoại Vấn Đáp (Tình Duyên có Sư Đồ)		80		10	10	
+5	Tỉ lệ cao Đồng Tâm Hoa ngẫu nhiên ra NPC đối thoại Vấn Đáp (Tình Duyên không có Sư Đồ)		70		10	10	10
+6	Ngẫu nhiên bình quân có Sư Đồ		30		35	35	
+7	Ngẫu nhiên bình quân không có Sư Đồ		10		40	40	10

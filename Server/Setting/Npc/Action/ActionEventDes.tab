@@ -1,0 +1,42 @@
+EventType	Des	EventName	EventParam1	EventParam2	EventParam3	EventParam4	EventParam5	EventParamStr
+1 là bắt đầu	Nếu tốc đánh người chơi tăng sẽ dựa vào tỉ lệ thời gian thi triển để tự điều chỉnh (Không thể điền kỹ năng động tác) 	CastSkill	ID kỹ năng (Để trống là ID kỹ năng thi triển ban đầu)	Cấp kỹ năng (Để trống là cấp kỹ năng thi triển ban đầu)				
+2 là frame	Phát hiệu ứng bản thân	PlayEffect	ID tài nguyên (Không điền được hiểu là CastEffectRestId kỹ năng)	Có phải tuần hoàn không	Không theo tốc độ điều chỉnh động tác?	Vị trí lỗ	Frame xóa chậm khi kết thúc kỹ năng (-1 không gián đoạn khi kết thúc động tác)	
+3 là kết thúc	Phát hiệu ứng bản thân, nếu tuần hoàn không đóng phát lại	PlayEffectNoClear	ID tài nguyên (Không điền được hiểu là CastEffectRestId kỹ năng)	Có phải tuần hoàn không	Không theo tốc độ điều chỉnh động tác?	Vị trí lỗ	Frame xóa chậm khi kết thúc kỹ năng (-1 không gián đoạn khi kết thúc động tác)	
+	Xóa hiệu ứng	ClearEffect	ID tài nguyên	Đồng ý xóa Npc liên quan				
+	Hủy hiệu ứng bản thân không theo sau NPC	UnbindEffect	ID tài nguyên					
+	Gây chấn động	PlayShake	Dao động trên dưới (1 là 1 cm) 	Tốc độ dao động trên dưới	Số lần	Trước sau?	Bắt buộc?	
+	Ngưng rung	StopShake	Bắt buộc?					
+	(Đặt ở sự kiện bắt đầu) Sự kiện liên chiến lúc đầu (ID kỹ năng: 1-3 là cấp ưu tiên từ cao đến thấp, như học số 1, học số 2 sẽ thi triển số 1. Không học số 1, học số 2 thì thi triển số 2) 	LinkSkillInit	Frame phán định hữu hiệu cuối cùng	ID kỹ năng: 1	ID kỹ năng: 2	ID kỹ năng: 3		
+	Thi triển liên chiêu	CastLinkSkill	Di chuyển sẽ dừng động tác?					
+	Chuyển hướng	InstantDir	Xoay góc  Độ/Mỗi frame (Frame này 45 frame/giây) 					
+	Thao tác quá nhiều.	CrossFade	Điểm vượt mức (10000/1000=1)	Điểm vượt mức/(Frame động tác x Frame) 	Điểm vượt mức tối đa			
+	Di chuyển (kỹ năng động tác vô hiệu) 	MovePos	Độ dài di chuyển cm	Tốc độ cm/frame	Mục tiêu ở phạm vi nào không thể di chuyển cm?	Tăng tốc độ		
+	Dùng khung ảnh động tác cuối (chú ý kết thúc sự kiện phải thêm tham số 0) 	UseLastAct	Dùng động tác cuối?	Dùng frame hiện tại?	Dùng frame động tác cuối?			
+	Phát hiệu ứng bản đồ	PlaySceneEffect	ID tài nguyên					
+	Đổi kích thước bản thân (Kết thúc cần khôi phục tham số NpcChangeSize 1:100) 	NpcChangeSize	Kích thước (%)	Tốc độ (%) (Không điền sẽ thay đổi) 				
+	Cảnh quá tối (Chú ý sau khi kết thúc vào CloseSceneGray) 	OpenSceneGray						
+	Hồi phục cảnh tối	CloseSceneGray	Chậm bao nhiêu frame sẽ đóng					
+	Phát âm thanh	PlaySound	ID Âm thanh					
+	Tắt tiếng	StopSound	ID Âm thanh	Frames sau khi động tác gián đoạn, âm thanh lưu giữ trong bao lâu				
+	Thay đổi độ sáng NPC (Kết thúc sự kiện phải vào ClearBright) 	ChangeBright	Tỉ lệ (100 = 1) 					
+	Xóa độ sáng NPC	ClearBright						
+	Đổi động tác (Đặt vào ban đầu)	ChangeAct	ID động tác	Frame động tác (Không có sẽ mặc định là NPCRes)	ID động tác người chơi (nếu không có, lấy tham số 1) 			
+	Di chuyển về sau	MoveBack	Độ dài di chuyển	Tốc độ di chuyển	Tăng tốc độ			
+	Hiện bóng (Sự kiện kết thúc phải thêm tham số ShadowActive 1 biểu thị là hiện ra) 	ShadowActive	Hiện bóng?					
+	Có thể di chuyển	CanDoRun						
+	Cập nhật lại vị trí	RetsetPos						
+	Thực hiện động tác thông thường	DoCommonAct	ID động tác	ID sự kiện	Có phải tuần hoàn không	Frame động tác (Mặc định là NPCRes)	Dạng hình động tài nguyên (1 Biểu cảm, không điền tức mặc định)	
+	Có thể đổi kỹ năng bản thân hoặc khác (Không thể đặt vào sự kiện bắt đầu)	CanDoSkill	0 hoặc trống: Cấp ưu tiên kỹ năng mới > cấp ưu tiên kỹ năng hiện tại sẽ có thể thi triển; 1: Cấp ưu tiên kỹ năng mới ≥ cấp ưu tiên kỹ năng hiện tại sẽ có thể thi triển					
+	Thiết lập thời gian chờ chung	SetCanDoSkillFrame	Thời gian (Bị Tốc Đánh ảnh hưởng, chỉ có thể thiết lập trong eventtype=2)	Cấp ưu tiên kỹ năng mới frame x＞Cấp ưu tiên chờ kỹ năng chung có thể thi triển (0 hoặc mặc định >, 1 là ≥), thiết lập xong gcd còn cần kỹ năng cao hơn 1 frame (0) cấp ưu tiên kỹ năng candoskill, sau đó x frame thiết lập cùng (0) cấp ưu tiên kỹ năng candoskill				
+	Bảo vệ	Protected	Bảo vệ?					
+	Hiện UI trên đầu	HeadUIVisable	Hiện UI?					
+	Hiện người	BodyVisable	Hiện người?					
+	Bỏ qua trạng thái bị lỗi?	IgnoreSpeState	Có bỏ không qua					
+	Xóa BUFF	RemoveBuff	ID kỹ năng					
+	Thiết lập chờ kỹ năng (Chú ý chỉ có thể trước lần đầu CastSkill, mặc định lần đầu CastSkill) 	SetSkillCD	ID kỹ năng					
+	Bị sát thương, động tác bị gián đoạn	ReceiveDmgBreakAct						
+	Tải động tác trước	PreLoadAni	Dạng tài nguyên động tác (1 Biểu cảm, không điền tức mặc định) 	ID động tác				
+	Kích hoạt AutoSkill	CastAutoSkill						
+	Ẩn hiệu ứng Model	ModelEffectVisible	Đồng ý hiện 					
+	Thiết lập sự kiện có tuần hoàn hay không mặc định không tuần hoàn	SetEventLoop	Có phải tuần hoàn không					
+	Chấp hành script	DoCallScript	Loại					

@@ -1,0 +1,28 @@
+nId	nIndex	nItemId	szName	nPrice	nMaxCount	nRate	szTimeFrame
+1	27	212	Thủy Tinh Trắng	50	100	100	
+2	26	222	Thủy Tinh Lục	200	30	100	
+3	25	223	Thủy Tinh Lam	800	10	100	
+4	24	224	Thủy Tinh Tím	3200	3	100	
+5	22	2590	Bánh Ít Ngũ Hương	600	3	100	
+6	21	2591	Bánh Ít Bát Bảo	5000	1	10	
+7	9	1430	Bí Kíp Võ Lâm (Thượng) 	5000	1	20	
+8	7	2700	Ngoại Trang T0	5000	1	20	
+9	5	2301	Tu Luyện Đơn	1800	1	50	
+10	4	2759	Truyền Công Đơn	1800	1	50	
+11	1	2160	Sách Đồng Hành Lv4 Ngẫu Nhiên	15000	1	20	
+12	3	2847	Đá Hồn Huyền Từ-Sơ	4500	1	30	
+13	2	2848	Đá Hồn Huyền Nhân-Sơ	13500	1	10	
+14	23	2878	Thương Hải Nguyệt Minh	300	3	100	
+15	22	2877	Thái Vân Truy Nguyệt	2000	1	30	
+16	21	2876	Nguyệt Mãn Tây Lâu	5000	1	10	
+17	6	6203	Vũ Khí T0	8000	1	20	
+18	8	6995	Đầu T0	2000	1	20	
+19	18	2161	Sách Đồng Hành Lv5 Ngẫu Nhiên	20000	1	20	
+20	17	2169	Đá Hồn Lv4 Ngẫu Nhiên	18000	1	20	
+21	16	7716	Rương Chọn Đá Hồn Binh Giáp Lv4	30000	1	10	
+22	15	7717	Rương Chọn Đá Hồn Trang Sức Lv4	30000	1	10	
+23	14	7718	Rương Chọn Đá Hồn Phòng Cụ Lv4	30000	1	10	
+24	13	100027	【Ngoại Trang-Áo】Kim Ngọc Mãn Đường	50000	1	10	
+25	12	100034	【Ngoại Trang-Đầu】Kim Mãn Ngọc Đường	50000	1	10	
+26	11	100035	【Ngoại Trang-Đầu】Vân Mộng Khởi	50000	1	10	
+27	10	100036	【Ngoại Trang-Đầu】Nhung Tuyết Hoa Quán	50000	1	10	

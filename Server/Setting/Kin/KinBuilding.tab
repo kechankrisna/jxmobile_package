@@ -1,0 +1,93 @@
+BuildingId	Level	MainBuildingLimit	LevelUpCost	Desc
+1	1	1	0	●  Cấp Chính Điện là cấp của Bang Hội\n●  Tăng cấp Chính Điện để xây dựng Tác Phường khác\n●  Cấp Tác Phường không thể vượt quá cấp Chính Điện\n●  Chính Điện đạt [FFFE0D]Lv2[-] tăng [FFFE0D]1[-] suất chức vị Trưởng Lão\n●  Chính Điện đạt [FFFE0D]Lv2[-] sẽ mở [FFFE0D]Binh Giáp Phường[-], [FFFE0D]Phòng Cụ Phường[-], [FFFE0D]Trang Sức Phường[-]
+1	2	1	600000	●  Cấp Chính Điện là cấp của Bang Hội\n●  Tăng cấp Chính Điện để xây dựng Tác Phường khác\n●  Cấp Tác Phường không thể vượt quá cấp Chính Điện\n●  Chính Điện đạt [FFFE0D]Lv3[-] tăng [FFFE0D]2[-] suất chức vị Trưởng Lão
+1	3	1	1800000	● Cấp Chính Điện là cấp bang hội.\n● Tăng cấp Chính Điện để mở các Tác Phường khác.\n● Cấp Tác Phường không được cao hơn cấp Chính Điện.
+1	4	1	3600000	● Cấp Chính Điện là cấp bang hội.\n● Tăng cấp Chính Điện để mở các Tác Phường khác.\n● Cấp Tác Phường không được cao hơn cấp Chính Điện.
+1	5	1	7200000	● Cấp Chính Điện là cấp bang hội.\n● Tăng cấp Chính Điện để mở các Tác Phường khác.\n● Cấp Tác Phường không được cao hơn cấp Chính Điện.
+1	6	1	15000000	● Cấp Chính Điện là cấp bang hội.\n● Tăng cấp Chính Điện để mở các Tác Phường khác.\n● Cấp Tác Phường không được cao hơn cấp Chính Điện.
+1	7	1	30000000	● Cấp Chính Điện là cấp bang hội.\n● Tăng cấp Chính Điện để mở các Tác Phường khác.\n● Cấp Tác Phường không được cao hơn cấp Chính Điện.
+1	8	1	60000000	● Cấp Chính Điện là cấp bang hội.\n● Tăng cấp Chính Điện để mở các Tác Phường khác.\n● Cấp Tác Phường không được cao hơn cấp Chính Điện.
+1	9	1	90000000	● Cấp Chính Điện là cấp bang hội.\n● Tăng cấp Chính Điện để mở các Tác Phường khác.\n● Cấp Tác Phường không được cao hơn cấp Chính Điện.
+1	10	1	120000000	● Cấp Chính Điện là cấp bang hội.\n● Tăng cấp Chính Điện để mở các Tác Phường khác.\n● Cấp Tác Phường không được cao hơn cấp Chính Điện.
+1	11	1	150000000	● Cấp Chính Điện là cấp bang hội.\n● Tăng cấp Chính Điện để mở các Tác Phường khác.\n● Cấp Tác Phường không được cao hơn cấp Chính Điện.
+1	12	1	180000000	● Cấp Chính Điện là cấp bang hội.\n● Tăng cấp Chính Điện để mở các Tác Phường khác.\n● Cấp Tác Phường không được cao hơn cấp Chính Điện.
+1	13	1	200000000	● Cấp Chính Điện là cấp bang hội.\n● Tăng cấp Chính Điện để mở các Tác Phường khác.\n● Cấp Tác Phường không được cao hơn cấp Chính Điện.
+1	14	1	220000000	● Cấp Chính Điện là cấp bang hội.\n● Tăng cấp Chính Điện để mở các Tác Phường khác.\n● Cấp Tác Phường không được cao hơn cấp Chính Điện.
+4	1	1	0	● Tích trữ quỹ xây dựng và Hộp Quà Bang Hội.\n● Cấp càng cao, cấp hộp quà nhận càng cao.
+4	2	2	250000	● Tích trữ quỹ xây dựng và Hộp Quà Bang Hội.\n● Cấp càng cao, cấp hộp quà nhận càng cao.
+4	3	3	500000	● Tích trữ quỹ xây dựng và Hộp Quà Bang Hội.\n● Cấp càng cao, cấp hộp quà nhận càng cao.
+4	4	4	1000000	● Tích trữ quỹ xây dựng và Hộp Quà Bang Hội.\n● Cấp càng cao, cấp hộp quà nhận càng cao.
+4	5	5	2000000	● Tích trữ quỹ xây dựng và Hộp Quà Bang Hội.\n● Cấp càng cao, cấp hộp quà nhận càng cao.
+4	6	6	4000000	● Tích trữ quỹ xây dựng và Hộp Quà Bang Hội.\n● Cấp càng cao, cấp hộp quà nhận càng cao.
+4	7	7	8000000	● Tích trữ quỹ xây dựng và Hộp Quà Bang Hội.\n● Cấp càng cao, cấp hộp quà nhận càng cao.
+4	8	8	16000000	● Tích trữ quỹ xây dựng và Hộp Quà Bang Hội.\n● Cấp càng cao, cấp hộp quà nhận càng cao.
+4	9	9	24000000	● Tích trữ quỹ xây dựng và Hộp Quà Bang Hội.\n● Cấp càng cao, cấp hộp quà nhận càng cao.
+4	10	10	32000000	● Tích trữ quỹ xây dựng và Hộp Quà Bang Hội.\n● Cấp càng cao, cấp hộp quà nhận càng cao.
+4	11	11	40000000	● Tích trữ quỹ xây dựng và Hộp Quà Bang Hội.\n● Cấp càng cao, cấp hộp quà nhận càng cao.
+4	12	12	50000000	● Tích trữ quỹ xây dựng và Hộp Quà Bang Hội.\n● Cấp càng cao, cấp hộp quà nhận càng cao.
+4	13	13	60000000	● Tích trữ quỹ xây dựng và Hộp Quà Bang Hội.\n● Cấp càng cao, cấp hộp quà nhận càng cao.
+4	14	14	70000000	● Tích trữ quỹ xây dựng và Hộp Quà Bang Hội.\n● Cấp càng cao, cấp hộp quà nhận càng cao.
+5	1	1	200000	● Trân Bảo Phường bán các loại [FFFE0D]Thủy Tinh[-], [FFFE0D]Đá Hồn[-], [FFFE0D]Đồ Cổ[-]. \n● Cấp càng cao cấp vật phẩm bày bán càng cao, ưu đãi càng nhiều.\n● [FFFE0D]04:00[-] mỗi ngày tạo mới vật phẩm.
+5	2	2	250000	● Trân Bảo Phường bán các loại [FFFE0D]Thủy Tinh[-], [FFFE0D]Đá Hồn[-], [FFFE0D]Đồ Cổ[-]. \n● Cấp càng cao cấp vật phẩm bày bán càng cao, ưu đãi càng nhiều.\n● [FFFE0D]04:00[-] mỗi ngày tạo mới vật phẩm.
+5	3	3	500000	● Trân Bảo Phường bán các loại [FFFE0D]Thủy Tinh[-], [FFFE0D]Đá Hồn[-], [FFFE0D]Đồ Cổ[-]. \n● Cấp càng cao cấp vật phẩm bày bán càng cao, ưu đãi càng nhiều.\n● [FFFE0D]04:00[-] mỗi ngày tạo mới vật phẩm.
+5	4	4	1000000	● Trân Bảo Phường bán các loại [FFFE0D]Thủy Tinh[-], [FFFE0D]Đá Hồn[-], [FFFE0D]Đồ Cổ[-]. \n● Cấp càng cao cấp vật phẩm bày bán càng cao, ưu đãi càng nhiều.\n● [FFFE0D]04:00[-] mỗi ngày tạo mới vật phẩm.
+5	5	5	2000000	● Trân Bảo Phường bán các loại [FFFE0D]Thủy Tinh[-], [FFFE0D]Đá Hồn[-], [FFFE0D]Đồ Cổ[-]. \n● Cấp càng cao cấp vật phẩm bày bán càng cao, ưu đãi càng nhiều.\n● [FFFE0D]04:00[-] mỗi ngày tạo mới vật phẩm.
+5	6	6	4000000	● Trân Bảo Phường bán các loại [FFFE0D]Thủy Tinh[-], [FFFE0D]Đá Hồn[-], [FFFE0D]Đồ Cổ[-]. \n● Cấp càng cao cấp vật phẩm bày bán càng cao, ưu đãi càng nhiều.\n● [FFFE0D]04:00[-] mỗi ngày tạo mới vật phẩm.
+5	7	7	8000000	● Trân Bảo Phường bán các loại [FFFE0D]Thủy Tinh[-], [FFFE0D]Đá Hồn[-], [FFFE0D]Đồ Cổ[-]. \n● Cấp càng cao cấp vật phẩm bày bán càng cao, ưu đãi càng nhiều.\n● [FFFE0D]04:00[-] mỗi ngày tạo mới vật phẩm.
+5	8	8	16000000	● Trân Bảo Phường bán các loại [FFFE0D]Thủy Tinh[-], [FFFE0D]Đá Hồn[-], [FFFE0D]Đồ Cổ[-]. \n● Cấp càng cao cấp vật phẩm bày bán càng cao, ưu đãi càng nhiều.\n● [FFFE0D]04:00[-] mỗi ngày tạo mới vật phẩm.
+5	9	9	24000000	● Trân Bảo Phường bán các loại [FFFE0D]Thủy Tinh[-], [FFFE0D]Đá Hồn[-], [FFFE0D]Đồ Cổ[-]. \n● Cấp càng cao cấp vật phẩm bày bán càng cao, ưu đãi càng nhiều.\n● [FFFE0D]04:00[-] mỗi ngày tạo mới vật phẩm.
+5	10	10	32000000	● Trân Bảo Phường bán các loại [FFFE0D]Thủy Tinh[-], [FFFE0D]Đá Hồn[-], [FFFE0D]Đồ Cổ[-]. \n● Cấp càng cao cấp vật phẩm bày bán càng cao, ưu đãi càng nhiều.\n● [FFFE0D]04:00[-] mỗi ngày tạo mới vật phẩm.
+5	11	11	40000000	● Trân Bảo Phường bán các loại [FFFE0D]Thủy Tinh[-], [FFFE0D]Đá Hồn[-], [FFFE0D]Đồ Cổ[-]. \n● Cấp càng cao cấp vật phẩm bày bán càng cao, ưu đãi càng nhiều.\n● [FFFE0D]04:00[-] mỗi ngày tạo mới vật phẩm.
+5	12	12	50000000	● Trân Bảo Phường bán các loại [FFFE0D]Thủy Tinh[-], [FFFE0D]Đá Hồn[-], [FFFE0D]Đồ Cổ[-]. \n● Cấp càng cao cấp vật phẩm bày bán càng cao, ưu đãi càng nhiều.\n● [FFFE0D]04:00[-] mỗi ngày tạo mới vật phẩm.
+5	13	13	60000000	● Trân Bảo Phường bán các loại [FFFE0D]Thủy Tinh[-], [FFFE0D]Đá Hồn[-], [FFFE0D]Đồ Cổ[-]. \n● Cấp càng cao cấp vật phẩm bày bán càng cao, ưu đãi càng nhiều.\n● [FFFE0D]04:00[-] mỗi ngày tạo mới vật phẩm.
+5	14	14	70000000	● Trân Bảo Phường bán các loại [FFFE0D]Thủy Tinh[-], [FFFE0D]Đá Hồn[-], [FFFE0D]Đồ Cổ[-]. \n● Cấp càng cao cấp vật phẩm bày bán càng cao, ưu đãi càng nhiều.\n● [FFFE0D]04:00[-] mỗi ngày tạo mới vật phẩm.
+6	1	2	250000	● Phòng Cụ Phường chế tạo: [FFFE0D]Nón[-], [FFFE0D]Hộ Uyển[-], [FFFE0D]Đai[-], [FFFE0D]Giày[-]. \n● Phòng Cụ Phường cấp càng cao phí chế tạo càng rẻ.
+6	2	3	500000	● Phòng Cụ Phường chế tạo: [FFFE0D]Nón[-], [FFFE0D]Hộ Uyển[-], [FFFE0D]Đai[-], [FFFE0D]Giày[-]. \n● Phòng Cụ Phường cấp càng cao phí chế tạo càng rẻ.
+6	3	4	1000000	● Phòng Cụ Phường chế tạo: [FFFE0D]Nón[-], [FFFE0D]Hộ Uyển[-], [FFFE0D]Đai[-], [FFFE0D]Giày[-]. \n● Phòng Cụ Phường cấp càng cao phí chế tạo càng rẻ.
+6	4	5	2000000	● Phòng Cụ Phường chế tạo: [FFFE0D]Nón[-], [FFFE0D]Hộ Uyển[-], [FFFE0D]Đai[-], [FFFE0D]Giày[-]. \n● Phòng Cụ Phường cấp càng cao phí chế tạo càng rẻ.
+6	5	6	4000000	● Phòng Cụ Phường chế tạo: [FFFE0D]Nón[-], [FFFE0D]Hộ Uyển[-], [FFFE0D]Đai[-], [FFFE0D]Giày[-]. \n● Phòng Cụ Phường cấp càng cao phí chế tạo càng rẻ.
+6	6	7	8000000	● Phòng Cụ Phường chế tạo: [FFFE0D]Nón[-], [FFFE0D]Hộ Uyển[-], [FFFE0D]Đai[-], [FFFE0D]Giày[-]. \n● Phòng Cụ Phường cấp càng cao phí chế tạo càng rẻ.
+6	7	8	16000000	● Phòng Cụ Phường chế tạo: [FFFE0D]Nón[-], [FFFE0D]Hộ Uyển[-], [FFFE0D]Đai[-], [FFFE0D]Giày[-]. \n● Phòng Cụ Phường cấp càng cao phí chế tạo càng rẻ.
+6	8	9	24000000	● Phòng Cụ Phường chế tạo: [FFFE0D]Nón[-], [FFFE0D]Hộ Uyển[-], [FFFE0D]Đai[-], [FFFE0D]Giày[-]. \n● Phòng Cụ Phường cấp càng cao phí chế tạo càng rẻ.
+6	9	10	32000000	● Phòng Cụ Phường chế tạo: [FFFE0D]Nón[-], [FFFE0D]Hộ Uyển[-], [FFFE0D]Đai[-], [FFFE0D]Giày[-]. \n● Phòng Cụ Phường cấp càng cao phí chế tạo càng rẻ.
+6	10	11	40000000	● Phòng Cụ Phường chế tạo: [FFFE0D]Nón[-], [FFFE0D]Hộ Uyển[-], [FFFE0D]Đai[-], [FFFE0D]Giày[-]. \n● Phòng Cụ Phường cấp càng cao phí chế tạo càng rẻ.
+6	11	12	50000000	● Phòng Cụ Phường chế tạo: [FFFE0D]Nón[-], [FFFE0D]Hộ Uyển[-], [FFFE0D]Đai[-], [FFFE0D]Giày[-]. \n● Phòng Cụ Phường cấp càng cao phí chế tạo càng rẻ.
+6	12	13	60000000	● Phòng Cụ Phường chế tạo: [FFFE0D]Nón[-], [FFFE0D]Hộ Uyển[-], [FFFE0D]Đai[-], [FFFE0D]Giày[-]. \n● Phòng Cụ Phường cấp càng cao phí chế tạo càng rẻ.
+6	13	14	70000000	● Phòng Cụ Phường chế tạo: [FFFE0D]Nón[-], [FFFE0D]Hộ Uyển[-], [FFFE0D]Đai[-], [FFFE0D]Giày[-]. \n● Phòng Cụ Phường cấp càng cao phí chế tạo càng rẻ.
+7	1	2	250000	● Binh Giáp Phường chế tạo: [FFFE0D]Vũ Khí[-], [FFFE0D]Áo[-]. \n● Binh Giáp Phường cấp càng cao phí chế tạo càng rẻ.
+7	2	3	500000	● Binh Giáp Phường chế tạo: [FFFE0D]Vũ Khí[-], [FFFE0D]Áo[-]. \n● Binh Giáp Phường cấp càng cao phí chế tạo càng rẻ.
+7	3	4	1000000	● Binh Giáp Phường chế tạo: [FFFE0D]Vũ Khí[-], [FFFE0D]Áo[-]. \n● Binh Giáp Phường cấp càng cao phí chế tạo càng rẻ.
+7	4	5	2000000	● Binh Giáp Phường chế tạo: [FFFE0D]Vũ Khí[-], [FFFE0D]Áo[-]. \n● Binh Giáp Phường cấp càng cao phí chế tạo càng rẻ.
+7	5	6	4000000	● Binh Giáp Phường chế tạo: [FFFE0D]Vũ Khí[-], [FFFE0D]Áo[-]. \n● Binh Giáp Phường cấp càng cao phí chế tạo càng rẻ.
+7	6	7	8000000	● Binh Giáp Phường chế tạo: [FFFE0D]Vũ Khí[-], [FFFE0D]Áo[-]. \n● Binh Giáp Phường cấp càng cao phí chế tạo càng rẻ.
+7	7	8	16000000	● Binh Giáp Phường chế tạo: [FFFE0D]Vũ Khí[-], [FFFE0D]Áo[-]. \n● Binh Giáp Phường cấp càng cao phí chế tạo càng rẻ.
+7	8	9	24000000	● Binh Giáp Phường chế tạo: [FFFE0D]Vũ Khí[-], [FFFE0D]Áo[-]. \n● Binh Giáp Phường cấp càng cao phí chế tạo càng rẻ.
+7	9	10	32000000	● Binh Giáp Phường chế tạo: [FFFE0D]Vũ Khí[-], [FFFE0D]Áo[-]. \n● Binh Giáp Phường cấp càng cao phí chế tạo càng rẻ.
+7	10	11	40000000	● Binh Giáp Phường chế tạo: [FFFE0D]Vũ Khí[-], [FFFE0D]Áo[-]. \n● Binh Giáp Phường cấp càng cao phí chế tạo càng rẻ.
+7	11	12	50000000	● Binh Giáp Phường chế tạo: [FFFE0D]Vũ Khí[-], [FFFE0D]Áo[-]. \n● Binh Giáp Phường cấp càng cao phí chế tạo càng rẻ.
+7	12	13	60000000	● Binh Giáp Phường chế tạo: [FFFE0D]Vũ Khí[-], [FFFE0D]Áo[-]. \n● Binh Giáp Phường cấp càng cao phí chế tạo càng rẻ.
+7	13	14	70000000	● Binh Giáp Phường chế tạo: [FFFE0D]Vũ Khí[-], [FFFE0D]Áo[-]. \n● Binh Giáp Phường cấp càng cao phí chế tạo càng rẻ.
+8	1	2	250000	● Trang Sức Phường chế tạo: [FFFE0D]Dây Chuyền[-], [FFFE0D]Nhẫn[-], [FFFE0D]Ngọc Bội[-], [FFFE0D]Hộ Thân Phù[-] \n● Trang Sức Phường cấp càng cao phí chế tạo càng rẻ
+8	2	3	500000	● Trang Sức Phường chế tạo: [FFFE0D]Dây Chuyền[-], [FFFE0D]Nhẫn[-], [FFFE0D]Ngọc Bội[-], [FFFE0D]Hộ Thân Phù[-] \n● Trang Sức Phường cấp càng cao phí chế tạo càng rẻ
+8	3	4	1000000	● Trang Sức Phường chế tạo: [FFFE0D]Dây Chuyền[-], [FFFE0D]Nhẫn[-], [FFFE0D]Ngọc Bội[-], [FFFE0D]Hộ Thân Phù[-] \n● Trang Sức Phường cấp càng cao phí chế tạo càng rẻ
+8	4	5	2000000	● Trang Sức Phường chế tạo: [FFFE0D]Dây Chuyền[-], [FFFE0D]Nhẫn[-], [FFFE0D]Ngọc Bội[-], [FFFE0D]Hộ Thân Phù[-] \n● Trang Sức Phường cấp càng cao phí chế tạo càng rẻ
+8	5	6	4000000	● Trang Sức Phường chế tạo: [FFFE0D]Dây Chuyền[-], [FFFE0D]Nhẫn[-], [FFFE0D]Ngọc Bội[-], [FFFE0D]Hộ Thân Phù[-] \n● Trang Sức Phường cấp càng cao phí chế tạo càng rẻ
+8	6	7	8000000	● Trang Sức Phường chế tạo: [FFFE0D]Dây Chuyền[-], [FFFE0D]Nhẫn[-], [FFFE0D]Ngọc Bội[-], [FFFE0D]Hộ Thân Phù[-] \n● Trang Sức Phường cấp càng cao phí chế tạo càng rẻ
+8	7	8	16000000	● Trang Sức Phường chế tạo: [FFFE0D]Dây Chuyền[-], [FFFE0D]Nhẫn[-], [FFFE0D]Ngọc Bội[-], [FFFE0D]Hộ Thân Phù[-] \n● Trang Sức Phường cấp càng cao phí chế tạo càng rẻ
+8	8	9	24000000	● Trang Sức Phường chế tạo: [FFFE0D]Dây Chuyền[-], [FFFE0D]Nhẫn[-], [FFFE0D]Ngọc Bội[-], [FFFE0D]Hộ Thân Phù[-] \n● Trang Sức Phường cấp càng cao phí chế tạo càng rẻ
+8	9	10	32000000	● Trang Sức Phường chế tạo: [FFFE0D]Dây Chuyền[-], [FFFE0D]Nhẫn[-], [FFFE0D]Ngọc Bội[-], [FFFE0D]Hộ Thân Phù[-] \n● Trang Sức Phường cấp càng cao phí chế tạo càng rẻ
+8	10	11	40000000	● Trang Sức Phường chế tạo: [FFFE0D]Dây Chuyền[-], [FFFE0D]Nhẫn[-], [FFFE0D]Ngọc Bội[-], [FFFE0D]Hộ Thân Phù[-] \n● Trang Sức Phường cấp càng cao phí chế tạo càng rẻ
+8	11	12	50000000	● Trang Sức Phường chế tạo: [FFFE0D]Dây Chuyền[-], [FFFE0D]Nhẫn[-], [FFFE0D]Ngọc Bội[-], [FFFE0D]Hộ Thân Phù[-] \n● Trang Sức Phường cấp càng cao phí chế tạo càng rẻ
+8	12	13	60000000	● Trang Sức Phường chế tạo: [FFFE0D]Dây Chuyền[-], [FFFE0D]Nhẫn[-], [FFFE0D]Ngọc Bội[-], [FFFE0D]Hộ Thân Phù[-] \n● Trang Sức Phường cấp càng cao phí chế tạo càng rẻ
+8	13	14	70000000	● Trang Sức Phường chế tạo: [FFFE0D]Dây Chuyền[-], [FFFE0D]Nhẫn[-], [FFFE0D]Ngọc Bội[-], [FFFE0D]Hộ Thân Phù[-] \n● Trang Sức Phường cấp càng cao phí chế tạo càng rẻ
+9	1	4	1000000	● Quân Nhu Phường bán đạo cụ Công Thành Chiến: [FFFE0D]Công Thành Xa[-], [FFFE0D]Kình Nỏ Xa[-], [FFFE0D]Thiết Pháo Xa[-], [FFFE0D]Thần Xạ Thủ[-], [FFFE0D]Cờ Cổ Vũ[-]. \n● Cấp Quân Nhu Phường càng cao chiết khấu càng nhiều.
+9	2	5	2000000	● Quân Nhu Phường bán đạo cụ Công Thành Chiến: [FFFE0D]Công Thành Xa[-], [FFFE0D]Kình Nỏ Xa[-], [FFFE0D]Thiết Pháo Xa[-], [FFFE0D]Thần Xạ Thủ[-], [FFFE0D]Cờ Cổ Vũ[-]. \n● Cấp Quân Nhu Phường càng cao chiết khấu càng nhiều.
+9	3	6	4000000	● Quân Nhu Phường bán đạo cụ Công Thành Chiến: [FFFE0D]Công Thành Xa[-], [FFFE0D]Kình Nỏ Xa[-], [FFFE0D]Thiết Pháo Xa[-], [FFFE0D]Thần Xạ Thủ[-], [FFFE0D]Cờ Cổ Vũ[-]. \n● Cấp Quân Nhu Phường càng cao chiết khấu càng nhiều.
+9	4	7	8000000	● Quân Nhu Phường bán đạo cụ Công Thành Chiến: [FFFE0D]Công Thành Xa[-], [FFFE0D]Kình Nỏ Xa[-], [FFFE0D]Thiết Pháo Xa[-], [FFFE0D]Thần Xạ Thủ[-], [FFFE0D]Cờ Cổ Vũ[-]. \n● Cấp Quân Nhu Phường càng cao chiết khấu càng nhiều.
+9	5	8	16000000	● Quân Nhu Phường bán đạo cụ Công Thành Chiến: [FFFE0D]Công Thành Xa[-], [FFFE0D]Kình Nỏ Xa[-], [FFFE0D]Thiết Pháo Xa[-], [FFFE0D]Thần Xạ Thủ[-], [FFFE0D]Cờ Cổ Vũ[-]. \n● Cấp Quân Nhu Phường càng cao chiết khấu càng nhiều.
+9	6	9	24000000	● Quân Nhu Phường bán đạo cụ Công Thành Chiến: [FFFE0D]Công Thành Xa[-], [FFFE0D]Kình Nỏ Xa[-], [FFFE0D]Thiết Pháo Xa[-], [FFFE0D]Thần Xạ Thủ[-], [FFFE0D]Cờ Cổ Vũ[-]. \n● Cấp Quân Nhu Phường càng cao chiết khấu càng nhiều.
+9	7	10	32000000	● Quân Nhu Phường bán đạo cụ Công Thành Chiến: [FFFE0D]Công Thành Xa[-], [FFFE0D]Kình Nỏ Xa[-], [FFFE0D]Thiết Pháo Xa[-], [FFFE0D]Thần Xạ Thủ[-], [FFFE0D]Cờ Cổ Vũ[-]. \n● Cấp Quân Nhu Phường càng cao chiết khấu càng nhiều.
+9	8	11	40000000	● Quân Nhu Phường bán đạo cụ Công Thành Chiến: [FFFE0D]Công Thành Xa[-], [FFFE0D]Kình Nỏ Xa[-], [FFFE0D]Thiết Pháo Xa[-], [FFFE0D]Thần Xạ Thủ[-], [FFFE0D]Cờ Cổ Vũ[-]. \n● Cấp Quân Nhu Phường càng cao chiết khấu càng nhiều.
+9	9	12	50000000	● Quân Nhu Phường bán đạo cụ Công Thành Chiến: [FFFE0D]Công Thành Xa[-], [FFFE0D]Kình Nỏ Xa[-], [FFFE0D]Thiết Pháo Xa[-], [FFFE0D]Thần Xạ Thủ[-], [FFFE0D]Cờ Cổ Vũ[-]. \n● Cấp Quân Nhu Phường càng cao chiết khấu càng nhiều.
+9	10	13	60000000	● Quân Nhu Phường bán đạo cụ Công Thành Chiến: [FFFE0D]Công Thành Xa[-], [FFFE0D]Kình Nỏ Xa[-], [FFFE0D]Thiết Pháo Xa[-], [FFFE0D]Thần Xạ Thủ[-], [FFFE0D]Cờ Cổ Vũ[-]. \n● Cấp Quân Nhu Phường càng cao chiết khấu càng nhiều.
+9	11	14	70000000	● Quân Nhu Phường bán đạo cụ Công Thành Chiến: [FFFE0D]Công Thành Xa[-], [FFFE0D]Kình Nỏ Xa[-], [FFFE0D]Thiết Pháo Xa[-], [FFFE0D]Thần Xạ Thủ[-], [FFFE0D]Cờ Cổ Vũ[-]. \n● Cấp Quân Nhu Phường càng cao chiết khấu càng nhiều.

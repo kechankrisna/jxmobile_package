@@ -1,0 +1,104 @@
+MainFrame	SubFrame	Name	DurationDays	OpenDay	OpenTime	NewMaxLevel
+OpenLevel39		Cấp tối đa Lv39	6		0	39
+	OpenDay1	Lửa Trại Bang Hội		1	1000	
+	OpenDay1A	Tăng võ công Minh Chủ Võ Lâm, Chiến Trường Tống Kim		1	1900	
+	OpenDay2D	Ủy thác rời mạng, Top 10 lực chiến khi chat được ký hiệu riêng		2	0	
+	OpenDay2	Bang Hội Truyền Công, Nhiệm Vụ Thương Hội, Lăng Tuyệt Phong		2	1000	
+	OpenDay2A	Tăng võ công Minh Chủ Võ Lâm		2	1200	
+	OpenDay2B			2	1800	
+	OpenDay2C	Tăng võ công Minh Chủ Võ Lâm		2	1900	
+	OpenDay3C	Thủ Lĩnh Dã Ngoại Lv20 Bạch Mi Hầu Vương, Đại Địa Lang Vương, Hàn Ngọc Lộc Vương		3	0	
+	OpenDay3	Bạch Hổ Đường, Khiêu Chiến Anh Hùng		3	1000	
+	OpenDay3A	Tăng võ công Minh Chủ Võ Lâm		3	1200	
+	OpenDay3B	Tăng võ công Minh Chủ Võ Lâm		3	1900	
+	OpenDay4A	EXP cộng thêm bậc 1		4	400	
+	OpenDay4	Thi Đấu Môn Phái, Thí Luyện Bang Hội, Thông Thiên Tháp		4	1000	
+	OpenDay5A	EXP cộng thêm bậc 2		5	400	
+	OpenDay5	Bang Hội Chiến, Vận Tiêu Bang Hội		5	1000	
+OpenLevel49		Cấp tối đa Lv49	10		400	49
+	OpenDay6	Quần Anh Hội, Thủ Lĩnh Dã Ngoại Lv40 Song Thủ Dị Thú, Bôn Diệm Báo Vương, Cửu Vĩ Hồ Vương		1	1000	
+	OpenDay7	Danh Tướng Lv40 Ngao Bái, Viên Thừa Chí, Hàn Thế Trung, Triết Biệt, Cao Trường Cung, Tần Lương Ngọc		2	1000	
+	OpenDay8			3	1000	
+	OpenDay10			5	400	
+	OpenDay12			7	1000	
+OpenLevel59		Cấp tối đa Lv59	17		400	59
+	OpenDay15	Cấp Gia Viên (Lv1, Lv2) , Cấp Chế Tạo (Lv1, Lv2)		1	1000	
+	OpenDomainBattle	Mở Công Thành Chiến		1	400	
+	OpenDay16			2	1000	
+	OpenDay20	Quà Mỗi Ngày 1		6	400	
+OpenLevel69		Cấp tối đa Lv69	32		400	69
+	OpenDay33			1	1000	
+	HuaShanLunJian	Mở Hoa Sơn Luận Kiếm		1	400	
+	OpenDay35	Thủ Lĩnh Dã Ngoại Lv60 Định Hải Kim Cang, Kim Sí Bằng Hoàng, Ngân Giác Tê Hoàng		3	1000	
+	OpenDay36			4	1000	
+	OpenDay118	Tâm Ma Ảo Cảnh		5	1000	
+	OpenDay39			7	1000	
+	OpenDay42	Thay đổi phần thưởng Minh Chủ Võ Lâm		10	1000	
+	OpenDay45			13	1000	
+	OpenDay52	Danh Tướng Lv60 Kinh Kha, Ngu Cơ, Nhạc Phi		15	1000	
+OpenLevel79		Cấp tối đa Lv79	38		400	79
+	OpenDay67	Quà Mỗi Ngày 2		1	400	
+	OpenDay69	Cấp Gia Viên (Lv3)		1	1000	
+	OpenDay70			2	400	
+	OpenDay72			4	400	
+	OpenDay90			16	400	
+	OpenDay89	Tần Lăng		21	1000	
+	OpenDay99	Cấp Chế Tạo (Lv3)		31	1000	
+	OpenDay100			32	400	
+OpenLevel89		Cấp tối đa Lv89	52		400	89
+	OpenDay114	Cấp Gia Viên (Lv4)		1	1000	
+	OpenDay116	Thủ Lĩnh Dã Ngoại Lv80 Hám Thiên Hùng Hoàng, Xích Tinh Hổ Hoàng, Tử Bối Ngạc Hoàng		3	1000	
+	OpenDay128	Danh Tướng Lv80 Lý Quảng , Triệu Vân, Lý Nguyên Bá		15	1000	
+	OpenDay130			17	400	
+	OpenDay141			28	1000	
+	OpenDay143			30	400	
+	OpenDay145			32	400	
+	OpenImperialTomb	Mở Tần Lăng		37	1000	
+	OpenDay153	Tăng phần thưởng Tần Lăng		40	400	
+	OpenDay159	Mở Thức Tỉnh Đồng Hành		46	1000	
+	OpenDay160			47	400	
+	OpenDay180			51	400	
+OpenLevel99		Cấp tối đa Lv99	70		400	99
+	OpenDay174	Cấp Gia Viên (Lv5)		1	1000	
+	OpenKeyQuestFuben	Mở Di Tích Tầm Bảo		1	400	
+	OpenDay188	Mở quân hàm Vô Song		15	400	
+	OpenDay204	Tần Lăng rơi Đồng Hành SSS Tần Thủy Hoàng		31	400	
+	OpenDay208			35	400	
+	OpenDay221			48	400	
+	OpenDay224	Cấp Chế Tạo (Lv4)		51	1000	
+	OpenDay234	Tần Lăng rơi Vũ Khí Bổn Mạng		61	400	
+OpenLevel109		Giới hạn Lv109, Minh Chủ Võ Lâm-Đường Giản, Môn Khách	85		400	109
+	OpenDay249	Cấp Gia Viên (Lv6)		1	1000	
+	OpenDay251	Thủ Lĩnh Dã Ngoại Lv100 Băng Lân Tích Hoàng, Ngân Câu Hạt Hoàng, Cuồng Tông Ngao Hoàng		3	1000	
+	OpenDay279	Mở Đồng Hành SSS-Hoàn Nhan Hồng Liệt, Môn Khách 2		31	1000	
+	OpenDay285			37	1000	
+	OpenDay290	Môn Khách 3 Sao		42	1000	
+	OpenDay309	Môn Khách 3		61	400	
+	OpenDay360			80	400	
+OpenLevel119		Tối đa Lv119	91		400	119
+	OpenCrossDomainBattle	Mở Công Thành Liên Server		1	400	
+	OpenDay353	Danh Tướng Lv110 Hạng Vũ		15	1000	
+	OpenDay369	Mở Tuyệt Học Khu 2		31	1000	
+	OpenDay399	Tạo gia cụ (Lv5)		61	1000	
+OpenLevel129		Tối đa Lv129	95		400	129
+	OpenLevel129Add10	Mở Võ Tắc Thiên		10	400	
+	OpenLevel129Add30	Trang bị Hoàng Kim do Võ Tắc Thiên tạo ra		30	400	
+	OpenDay489			61	400	
+OpenLevel139		Giới hạn Lv139	121		400	139
+	OpenLevel139Add30	Mở giới hạn Lv139 30 ngày		31	400	
+	OpenLevel139Add90	Mở giới hạn Lv139 90 ngày		91	400	
+OpenLevel149		Cấp tối đa 149	121		400	149
+	OpenLevel149Add90	Mở cấp tối đa Lv149 90 ngày		91	400	
+OpenLevel159		Cấp tối đa Lv159	121		400	159
+	OpenLevel159Add90	Mở cấp tối đa Lv159 90 ngày		91	400	
+OpenLevel169		Cấp tối đa Lv169	121		400	169
+	OpenLevel169Add90	Mở giới hạn Lv169 90 ngày		91	400	
+OpenLevel179		Cấp tối đa Lv179	121		400	179
+	OpenLevel179Add90	Mở giới hạn Lv179 90 ngày		91	400	
+OpenLevel189		Cấp tối đa Lv189	121		400	189
+	OpenLevel189Add90	Mở giới hạn Lv189 90 ngày		91	400	
+OpenLevel199		Cấp tối đa Lv199	121		400	199
+	OpenLevel199Add90	Mở giới hạn Lv199 90 ngày		91	400	
+OpenLevel200		Cấp tối đa Lv200	121		400	200
+	OpenDay720	Tạm không có tác dụng, chỉ dùng để ẩn quân hàm không cho người chơi tiếp cận		292	400	
+	OpenSecretFuben			999	400	

@@ -1,0 +1,46 @@
+RealLevel	AttribLevel	Desc
+1	1	Thường T1
+2	2	Kế Thừa T1
+3	3	Thường T2
+4	4	Hiếm T1
+5	4	Kế Thừa T2
+6	5	Thường T3
+7	6	Hiếm T2
+8	6	Kế Thừa T3
+9	7	Thường T4
+10	8	Hiếm T3
+11	8	Kế Thừa T4
+12	9	Thường T5
+13	10	Hiếm T4
+14	10	Kế Thừa T5
+15	11	Thường T6
+16	12	Hiếm T5
+17	12	Kế Thừa T6
+18	13	T7 Thường
+19	14	Hiếm T6
+20	14	T7 Kế thừa
+21	15	T8 Thường
+22	16	T7 Hiếm
+23	16	T8 Kế thừa
+24	17	Thường T9
+25	18	T8 Hiếm
+26	18	Kế Thừa T9
+27	19	Thường T10
+28	20	Kế Thừa T10
+29	20	Hiếm T9
+30	21	Thường T11
+31	22	Hiếm T10
+32	22	Kế Thừa T11
+33	23	Thường T12 
+34	24	Hiếm T11
+35	24	Kế Thừa T12
+36	25	Thường T13
+37	26	Hiếm T12
+38	26	Kế Thừa T13
+39	27	Thường T14
+40	28	Hiếm T13
+41	28	Kế Thừa T14
+42	29	Thường T15
+43	30	Hiếm T14
+44	30	Kế Thừa T5
+45	32	Hiếm T15

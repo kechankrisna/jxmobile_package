@@ -1,0 +1,54 @@
+Index	TemplateID	Name	Kind	Camp	ClassName	ScriptParam	NpcResID	FaceID	BigFaceID	ReviveFrame	NpcAttribID	NormalSkill1	NormalSkillLevel1	NormalSkill2	NormalSkillLevel2	NormalSkill3	NormalSkillLevel3	NormalSkill4	NormalSkillLevel4	VisionRadius	ActiveRadius	AiFile	Treasure	DropFile	FightMode	RunSpeed	BloodStyle	ForbitMove	TitleID	AuraSkillId	AuraSkillLevel	StartActEvent	Tag	DropType	DefaultDialog	WalkSpeed	NameColor	Experience	GouHuoRate	TransBossNpcTID	TransBossRate	IsNotShowShadow	FixExperience	SyncFirst	IsNotBYStealLife	Sex
+InDifferShopNpc	1987	Thương Nhân Thần Bí	2	1	InDifferShopNpc		146	206	306																				31																	
+InDifferBox_Item1	1994	Bảo Rương	2	1	IndifferBox	5	352	995																									NoTurn													
+InDifferBox_Money1	1995	Bảo Rương (Bỏ)	2	1	IndifferBox		352																										NoTurn													
+InDifferBox_Skill1	1996	Bảo Rương (Bỏ)	2	1	IndifferBox		352																										NoTurn													
+InDifferSuperBox_1	2101	Tâm Ma Ảo Tượng	2	1	IndifferBox	10	410	995																									NoTurn													
+IndifferBattleNpc_1	2096	Tâm Ma-Ác	0	1	IndifferBattleNpc		123			450	751	166	1	200	1					400	400	Setting/Npc/Ai/CommonPassive.ini			1	18	1																			
+IndifferBattleNpc_2	2097	Tâm Ma-Tham	0	1	IndifferBattleNpc		101			450	751	166	1	200	1					400	400	Setting/Npc/Ai/CommonPassive.ini			1	18	1																			
+IndifferBattleNpc_3	2098	Tâm Ma-Vọng	0	1	IndifferBattleNpc		134			450	751	166	1	200	1					400	400	Setting/Npc/Ai/CommonPassive.ini			1	18	1																			
+IndifferBattleNpc_4	2099	Tâm Ma-Oán	0	1	IndifferBattleNpc		143			450	751	166	1	200	1					400	400	Setting/Npc/Ai/CommonPassive.ini			1	18	1																			
+IndifferBattleNpc_5	2100	Tâm Ma-Bi	0	1	IndifferBattleNpc		170			450	751	166	1	200	1					400	400	Setting/Npc/Ai/CommonPassive.ini			1	18	1																			
+IndifferBattleLeader_1	2102	Ảo Thú Tinh Anh-Hàn Ngọc Lộc Vương	0	1			28				752	153	1	91	1	195	1					Setting/Npc/Ai/fieldboss/20leader_luwang.ini			1	25	2																	1		
+IndifferBattleLeader_2	2103	Ảo Thú Tinh Anh-Đại Địa Lang Vương	0	1			29				752	146	1	91	1	195	1					Setting/Npc/Ai/fieldboss/20leader_langwang.ini			1	25	2																	1		
+IndifferBattleLeader_3	2104	Ảo Thú Tinh Anh-Bạch Mi Hầu Vương	0	1			35				752	153	1	91	1	195	1					Setting/Npc/Ai/fieldboss/20leader_langwang.ini			1	25	2																	1		
+IndifferBattleLeader_4	2105	Ảo Thú Tinh Anh-Bôn Diệm Báo Vương	0	1			30				752	157	1	91	1	195	1					Setting/Npc/Ai/fieldboss/20leader_baowang.ini			1	25	2																	1		
+IndifferBattleLeader_5	2106	Ảo Thú Tinh Anh-Cửu Vĩ Hồ Vương	0	1			26				752	160	1	91	1	195	1					Setting/Npc/Ai/fieldboss/20leader_huwang.ini			1	25	2																	1		
+IndifferBattleLeader_6	2107	Ảo Thú Tinh Anh-Song Thủ Dị Thú	0	1			34				752	160	1	91	1	195	1					Setting/Npc/Ai/fieldboss/20leader_huwang.ini			1	25	2																	1		
+IndifferBattleLeader_7	2108	Ảo Thú Tinh Anh-Định Hải Kim Cang	0	1			40				752	153	1	91	1	195	1					Setting/Npc/Ai/fieldboss/20leader_baowang.ini			1	25	2																	1		
+IndifferBattleLeader_8	2109	Ảo Thú Tinh Anh-Kim Sí Bằng Hoàng	0	1			36				752	160	1	91	1	195	1					Setting/Npc/Ai/fieldboss/20leader_huwang.ini			1	25	2																	1		
+IndifferBattleLeader_9	2110	Ảo Thú Tinh Anh-Ngân Giác Tê Hoàng	0	1			38				752	153	1	91	1	195	1					Setting/Npc/Ai/fieldboss/20leader_luwang.ini			1	25	2																	1		
+IndifferBattleBoss_1	2111	Ảo Thú Thủ Lĩnh-Tử Bối Ngạc Hoàng	0	1			41				753	3356	1	91	1	195	1					Setting/Npc/Ai/fieldboss/80leader_ehuang.ini			1	25	2																	1		
+IndifferBattleBoss_2	2112	Ảo Thú Thủ Lĩnh-Hám Thiên Hùng Hoàng	0	1			37	9023			753	3353	1	91	1	195	1					Setting/Npc/Ai/fieldboss/80leader_xionghuang.ini			1	25	2																	1		
+IndifferSkillNpc_1	2113	Cơ Quan Ảo Cảnh	6	1			469				754																															1				
+IndifferSkillNpc_2	2953	Cơ Quan Ảo Cảnh	6	1			469				754			5117	1																											1				
+IndifferRunStone	2117	Đá Lửa Lăn	6	1			375				754									1000	1500	Setting/Npc/Ai/AlwaysRunning.ini				28	3			3180	4															
+XMJD_cj_menpai01	2885	Sức Mạnh Môn Phái	2	0	IndifferChangeFaction	1	670	995																									NoTurn													
+XMJD_cj_qianghua01	2886	Cường Hóa Trang Bị-Sơ	2	0	IndifferEnhance	1	671	995																									NoTurn													
+XMJD_cj_qianghua02	2887	Cường Hóa Trang Bị-Trung	2	0	IndifferEnhance	1	672	995																									NoTurn													
+XMJD_cj_qianghua03	2888	Cường Hóa Trang Bị-Cao	2	0	IndifferEnhance	1	673	995																									NoTurn													
+XMJD_cj_miji01	2889	Bí Kíp-Sơ	2	0	IndifferGatherBook	1	674	995																									NoTurn													
+XMJD_cj_miji02	2890	Bí Kíp-Trung	2	0	IndifferGatherBook	1	675	995																									NoTurn													
+XMJD_cj_miji03	2891	Bí Kíp-Cao	2	0	IndifferGatherBook	1	676	995																									NoTurn													
+XMJD_cj_yao01	2892	Kim Sáng Dược	2	0	IndiffeGatherItem	1	677	995																									NoTurn													
+XMJD_cj_yao02	2893	Hồi Thiên Đơn	2	0	IndiffeGatherItem	1	678	995																									NoTurn													
+XMJD_cj_fumo01	2894	Phụ Ma-Tấn Công-Sơ	2	0	IndiffeGatherItem	1	679	995																									NoTurn													
+XMJD_cj_fumo02	2895	Phụ Ma-Tấn Công-Trung	2	0	IndiffeGatherItem	1	680	995																									NoTurn													
+XMJD_cj_fumo03	2896	Phụ Ma-Tấn Công-Cao	2	0	IndiffeGatherItem	1	681	995																									NoTurn													
+XMJD_cj_fumo04	2916	Phụ Ma-Phòng Thủ-Sơ	2	0	IndiffeGatherItem	1	679	995																									NoTurn													
+XMJD_cj_fumo05	2917	Phụ Ma-Phòng Thủ-Trung	2	0	IndiffeGatherItem	1	680	995																									NoTurn													
+XMJD_cj_fumo06	2918	Phụ Ma-Phòng Thủ-Cao	2	0	IndiffeGatherItem	1	681	995																									NoTurn													
+XMJD_cj_fumo07	2934	Phụ Ma-Khống Chế-Sơ	2	0	IndiffeGatherItem	1	679	995																									NoTurn													
+XMJD_cj_fumo08	2935	Phụ Ma-Khống Chế-Trung	2	0	IndiffeGatherItem	1	680	995																									NoTurn													
+XMJD_cj_fumo09	2936	Phụ Ma-Khống Chế-Cao	2	0	IndiffeGatherItem	1	681	995																									NoTurn													
+XMJD_cj_xingnang01	2897	Túi-Sơ	2	0	IndiffeItemBag	1	682	995																									NoTurn													
+XMJD_cj_xingnang02	2898	Túi-Cao	2	0	IndiffeItemBag	1	683	995																									NoTurn													
+XMJD_cj_zuoqi01	2899	Thú Cưỡi	2	0	IndifferHorse	1	684	995																									NoTurn													
+XMJD_cj_men01	2900	Quang Tường Trúng Độc	5	0			685																										NoTurn											1		
+XMJD_cj_men02	2901	Quang Tường Vô Độc	5	0			686																										NoTurn											1		
+XMJD_cj_skill01	2902	Kỹ Năng Ẩn Thân	2	0	IndiffeGatherItem	1	687	995																									NoTurn													
+XMJD_cj_skill02	2903	Kỹ Năng Bẫy	2	0	IndiffeGatherItem	1	688	995																									NoTurn													
+XMJD_xiongshou	2908	Hung Thú Thượng Cổ	0	1			576	200	994		753	91	1	3523	1					560	980	Setting/Npc/Ai/Stay.ini				17	3	3					NoTurn				7					1				
+XMJD_fuhuoshi	2937	Đá Hồi Sinh	2	0	IndiffeGatherItem	1	697	995																									NoTurn													
+XMJD_xianjing01	2938	Kim Sáng Dược	2	0	IndifferBox	1	677	995																									NoTurn													
+XMJD_zhanlipin	2942	Chiến lợi phẩm	2	0	IndifferDeathDropBox	2	933	995																									NoTurn													

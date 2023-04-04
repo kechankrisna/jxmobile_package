@@ -1,0 +1,83 @@
+nPartsID	nThemeID	nType	nIcon	nGirlIcon	Desc
+1	1	1	30012		Mặc định: Khung hình đại diện
+2	1	2	30025		Mặc định: Khung chat
+3	2	1	30005		Quán Quân Hoa Sơn Luận Kiếm
+4	2	2	30018		Quán Quân Hoa Sơn Luận Kiếm
+5	3	1	30001	30007	Đại Sư Huynh Môn Phái\Đại Sư Tỷ
+6	3	2	30014	30020	Đại Sư Huynh Môn Phái\Đại Sư Tỷ
+7	4	1	30004		Bảo Bối
+8	4	2	30017		Bảo Bối
+9	5	1	30008		V13
+10	5	2	30021		V13
+11	6	1	30009		V15
+12	6	2	30022		V15
+13	7	1	30010		V18
+14	7	2	30023		V18
+15	8	1	30027		Thịnh Điển Thượng Tân
+16	8	2	30028		Thịnh Điển Thượng Tân
+17	9	1	30029		Như Ý Cát Tường
+18	9	2	30030		Như Ý Cát Tường
+19	10	1	30011		Lễ Tình Nhân-Kết Tình Phiêu Bạt
+20	10	2	30024		Lễ Tình Nhân-Kết Tình Phiêu Bạt
+21	11	1	30031		Võ Lâm Đại Mỹ Nhân TOP 20
+22	11	2	30032		Võ Lâm Đại Mỹ Nhân TOP 20
+23	12	1	30033		Thập Đại Mỹ Nhân Server
+24	12	2	30034		Thập Đại Mỹ Nhân Server
+25	13	1	30000		Kiếm Ca Giang Hồ
+26	13	2	30013		Kiếm Ca Giang Hồ
+27	14	1	30003		Võ Lâm Chí Tôn
+28	14	2	30016		Võ Lâm Chí Tôn
+29	15	1	30035		Võ Lâm Danh Hiệp
+30	15	2	30036		Võ Lâm Danh Hiệp
+31	16	1	30037		V8
+32	16	2	30038		V8
+33	17	1	30002		Hội Viên Chí Tôn
+34	17	2	30015		Hội Viên Chí Tôn
+35	18	1	30006		Hà Đường Nguyệt Sắc
+36	18	2	30019		Hà Đường Nguyệt Sắc
+37	19	1	30039		Chào mừng Võ Lâm Truyền Kỳ mới
+38	19	2	30040		Chào mừng Võ Lâm Truyền Kỳ mới
+39	20	1	30041		Chứng Thực
+40	20	2	30042		Chứng Thực
+41	21	1	30043		Ti Lộ Lưu Sa
+42	21	2	30044		Ti Lộ Lưu Sa
+43	22	1	30045		Vượt Đỉnh Thông Thiên Năm
+44	22	2	30046		Vượt Đỉnh Thông Thiên Năm
+45	23	1	30047		Giáng Sinh Vui Vẻ
+46	23	2	30048		Giáng Sinh Vui Vẻ
+47	24	1	30049		Thành chủ Công Thành Liên SV
+48	24	2	30050		Thành chủ Công Thành Liên SV
+49	25	1	30051		Lễ Tình Nhân-Kết Tình Phiêu Bạt
+50	25	2	30052		Lễ Tình Nhân-Kết Tình Phiêu Bạt
+51	26	1	30063		The Voice_7 màu
+52	26	2	30064		The Voice_7 màu
+53	27	1	30053		The Voice_Trắng
+54	27	2	30054		The Voice_Trắng
+55	28	1	30055		The Voice_Lam
+56	28	2	30056		The Voice_Lam
+57	29	1	30057		The Voice_Tím
+58	29	2	30058		The Voice_Tím
+59	30	1	30059		The Voice_Cam
+60	30	2	30060		The Voice_Cam
+61	31	1	30061		The Voice_Vàng
+62	31	2	30062		The Voice_Vàng
+63	32	1	30065		Trăm Năm Tương Phùng
+64	32	2	30066		Trăm Năm Tương Phùng
+65	33	1	30067		Tương Kim Liên Diệp Trích
+66	33	2	30068		Tương Kim Liên Diệp Trích
+67	34	1	30069		Ngày Đông Gửi Tình
+68	34	2	30070		Ngày Đông Gửi Tình
+69	35	1	30071		Hồn Thiêng Đất Việt
+70	35	2	30072		Hồn Thiêng Đất Việt
+71	36	1	30073		Phồn Vinh Hưng Vượng
+72	36	2	30074		Phồn Vinh Hưng Vượng
+73	37	1	30075		Thủy Long Ngâm
+74	37	2	30076		Thủy Long Ngâm
+75	38	1	30077		Túy Mộng Giang Hồ
+76	38	2	30078		Túy Mộng Giang Hồ
+77	39	1	30079		Túy Mộng Giang Hồ
+78	39	2	30080		Túy Mộng Giang Hồ
+79	40	1	30081		Thơ Âm Các
+80	40	2	30082		Thơ Âm Các
+85	43	1	30087		Diệu Bút Sinh Hoa
+86	43	2	30088		Diệu Bút Sinh Hoa

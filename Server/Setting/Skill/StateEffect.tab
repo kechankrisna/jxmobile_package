@@ -1,0 +1,476 @@
+StateEffectId	StateName	EffectResID1	SlotID1	EffectResID2	SlotID2	HeadResID	Alpha	ChangeSize	ChangeSizeSpeed	RunActID	HeadWord	MagicDesc	Icon	IconAtlas	NotShowTime	HideBody	HideHead	ShowSort	HightLightSkill	RequireSuperpose
+114	Khải Giáp Thép	114																		
+195	Vòng Thủ Lĩnh	9031																		
+197	Vòng Tinh Anh	197																		
+198	Lửa Trại	198																		
+199	Tu Luyện Châu											EXP đánh quái: x[00ff00]%s[-]\nEXP còn: [00ff00]%s[-]	BUFF_xiulianzhu	UI/Atlas/NewAtlas/Buff/Buff.prefab						
+213	Kim Chung Tráo	9076										Kháng tất cả cơ bản +[00ff00]all_series_resist_p1%[-]\nKháng tất cả +[00ff00]all_series_resist_v1[-] điểm\nTỉ lệ kháng thuộc tính +[00ff00]resist_allseriesstate_rate_v1[-]	TianwangSkill_03_buff	UI/Atlas/NewAtlas/Buff/Buff.prefab						
+217	Bí Kíp-Sơ: Nhất Kích Sát Thần											Tỉ lệ bạo kích cơ bản +[00ff00]deadlystrike_p1%[-]	Tianwang_bd02_buff	UI/Atlas/NewAtlas/Buff/Buff.prefab						
+221	Bí Kíp-Sơ: Bá Vương Nộ Hống											Kháng sát thương cận chiến +[00ff00]melee_dmg_p1%[-]\nKháng sát thương tầm xa +[00ff00]remote_dmg_p1%[-]	Tianwang_bd04_buff	UI/Atlas/NewAtlas/Buff/Buff.prefab						
+219	Phá Phủ Trầm Châu	2416										Vô Địch	Tianwang_bd03_buff	UI/Atlas/NewAtlas/Buff/Buff.prefab						
+225	Nhất Kỵ Đương Thiên											Kháng tất cả cơ bản +[00ff00]all_series_resist_p1%[-]	Tianwang_bd07_buff	UI/Atlas/NewAtlas/Buff/Buff.prefab						
+241	Kinh Lôi Phá Thiên											Tấn công cơ bản +[00ff00]physics_potentialdamage_p1%[-]	Tianwang_bd08_buff	UI/Atlas/NewAtlas/Buff/Buff.prefab						
+246	Khí Cái Bát Hoang											Sinh lực cơ bản tối đa +[00ff00]lifemax_p1%[-]	Tianwang_bd09_buff	UI/Atlas/NewAtlas/Buff/Buff.prefab						
+247	Khí Cái Bát Hoang											Sinh lực cơ bản tối đa +[00ff00]lifemax_p1%[-]	Tianwang_bd09_buff	UI/Atlas/NewAtlas/Buff/Buff.prefab						
+270	Kim Cang Phục Ma	3270						120	5			Miễn dịch thuộc tính\nMiễn dịch bất lợi\nSát thương bạo kích +[00ff00]deadlystrike_damage_p1%[-]\nMiễn sát thương bạo kích +[00ff00]weaken_deadlystrike_damage_p1%[-]	ShaolinSkill_04_buff	UI/Atlas/NewAtlas/Buff/Buff.prefab						
+273	La Hán Trận	273																		
+279	Lập Địa Thành Phật											Kháng tất cả cơ bản +[00ff00]all_series_resist_p1%[-]	Shaolin_bd04_buff	UI/Atlas/NewAtlas/Buff/Buff.prefab						
+281	Kim Cang Nộ Mục	3281										Kháng tất cả cơ bản +[00ff00]all_series_resist_p1%[-]\nTấn công cơ bản Kim Cang Nộ Mục +[00ff00]add_usebasedmg_p12%[-]	Shaolin_bd05_buff	UI/Atlas/NewAtlas/Buff/Buff.prefab						
+297	Bí Kíp-Cao: Thập Nhị Cầm Long Thủ											Tấn công cơ bản [FF3030]giảm physics_potentialdamage_p1%[-]	Sl_mj03_buff	UI/Atlas/NewAtlas/Buff/Buff.prefab						
+306	Từ Hàng Phổ Độ	3306										Mỗi cách [00ff00]1[-] giây hồi phục [00ff00]dir_recover_life_pp1/100%[-] sinh lực tối đa	Emei_jx01_buff	UI/Atlas/NewAtlas/Buff/Buff.prefab						
+316	Bí Kíp: Từ Hàng Phổ Độ											Miễn dịch thuộc tính	Em_mj02_buff	UI/Atlas/NewAtlas/Buff/Buff.prefab						
+318	Miên Lý Tàng Châm											Mỗi [00ff00]recover_life_p2/15[-] giây hồi [00ff00]recover_life_p1%[-] sinh lực	Emei_bd06_buff	UI/Atlas/NewAtlas/Buff/Buff.prefab						
+328	Bí Kíp: Thiên Vũ Bảo Luân											Kháng tất cả +[00ff00]all_series_resist_v1[-]	Emei_bd06_buff	UI/Atlas/NewAtlas/Buff/Buff.prefab						
+329	Bí Kíp: Thiên Vũ Bảo Luân																			
+330	Bí Kíp: Thiên Vũ Bảo Luân											Giải trừ và miễn dịch thuộc tính và hiệu quả bất lợi	Emei_bd06_buff	UI/Atlas/NewAtlas/Buff/Buff.prefab						
+331	Bí Kíp: Thiên Vũ Bảo Luân											Di chuyển cơ bản +[00ff00]runspeed_p1%[-]	Emei_bd06_buff	UI/Atlas/NewAtlas/Buff/Buff.prefab						
+377	Bí Kíp: Thiên Vũ Bảo Luân											Né tránh cơ bản [FF3030] giảm defense_p1%[-]	Emei_bd06_buff	UI/Atlas/NewAtlas/Buff/Buff.prefab						
+341	Phật Tâm Từ Hựu											Kháng tỉ lệ thuộc tính +[00ff00]resist_allseriesstate_rate_v1[-]\nKháng thời gian thuộc tính +[00ff00]resist_allseriesstate_time_v1[-]\nKháng tỉ lệ bất lợi +[00ff00]resist_allspecialstate_rate_v1[-]\nKháng thời gian bất lợi+[00ff00]resist_allspecialstate_time_v1[-]	Emei_bd02_buff	UI/Atlas/NewAtlas/Buff/Buff.prefab						
+342	Phật Tâm Từ Hựu											Kháng tỉ lệ thuộc tính +[00ff00]resist_allseriesstate_rate_v1[-]\nKháng thời gian thuộc tính +[00ff00]resist_allseriesstate_time_v1[-]\nKháng tỉ lệ bất lợi +[00ff00]resist_allspecialstate_rate_v1[-]\nKháng thời gian bất lợi+[00ff00]resist_allspecialstate_time_v1[-]	Emei_bd02_buff	UI/Atlas/NewAtlas/Buff/Buff.prefab						
+406	Hỏa Phượng Liêu Nguyên	406										Di chuyển +[00ff00]runspeed_v1[-]\nTốc đánh +[00ff00]attackspeed_v1[-]\nBỏ qua kháng tính cuối +[00ff00]ignore_all_resist2%[-]\nNé tránh cơ bản +[00ff00]defense_p1%[-]	TaohuaSkill_02_buff	UI/Atlas/NewAtlas/Buff/Buff.prefab						
+414	Bí Kíp-Sơ: Hỏa Phượng Liêu Nguyên											Miễn hiệu quả bất lợi\nMiễn hiệu quả Bị Thương	TaohuaSkill_02_buff	UI/Atlas/NewAtlas/Buff/Buff.prefab						
+426	Dục Hỏa Trùng Sinh											Mỗi [00ff00]recover_life_p2/15[-] giây hồi [00ff00]recover_life_p1%[-] sinh lực	Taohua_bd07_buff	UI/Atlas/NewAtlas/Buff/Buff.prefab						
+459	Bí Kíp-Cao: Hỏa Phượng Liêu Nguyên											Né tránh cơ bản +[00ff00]defense_p1%[-]	TaohuaSkill_02_buff	UI/Atlas/NewAtlas/Buff/Buff.prefab						
+466	Khinh Vân Tế Nguyệt											Tốc đánh +[00ff00]attackspeed_v1[-]\nĐào Hoa Tiễn Thuật tấn công cơ bản +[00ff00]add_usebasedmg_p12%[-]\nĐào Hoa Tiễn Thuật bỏ qua Vô Địch	Taohua_bd02_buff	UI/Atlas/NewAtlas/Buff/Buff.prefab						
+518	Bí Kíp-Cao: Thất Thám Xà Bàn											Tỉ lệ kháng thuộc tính [FF3030] giảm resist_allseriesstate_rate_v1[-]\nTỉ lệ kháng bất lợi [FF3030] giảm resist_allspecialstate_rate_v1[-]	Xiaoyao_bd02_buff	UI/Atlas/NewAtlas/Buff/Buff.prefab						
+520	Bí Kíp-Sơ: Phong Quyển Tàn Vân											Kháng tất cả cơ bản [FF3030] giảm all_series_resist_p1%[-]	Xiaoyao_bd02_buff	UI/Atlas/NewAtlas/Buff/Buff.prefab						
+523	Tam Nguyên Quy Nhất	523										Tấn công cơ bản +[00ff00]physics_potentialdamage_p1%[-]	Xiaoyao_bd07_buff	UI/Atlas/NewAtlas/Buff/Buff.prefab						
+542	Tiêu Dao Ngự Phong	2888										Né tránh cơ bản +[00ff00]defense_p1%[-]\nTỉ lệ bạo kích cơ bản +[00ff00]deadlystrike_p1%[-]\nDi chuyển +[00ff00]runspeed_v1[-]\nMiễn dịch thuộc tính\nMiễn dịch bất lợi	Xiaoyao_bd02_buff	UI/Atlas/NewAtlas/Buff/Buff.prefab						
+527	Hoàn Vũ Tiêu Dao Du	527																		
+562	Bi Tô Thanh Phong											Kháng tất cả cơ bản +[00ff00]all_series_resist_p1%[-]\nTấn công cơ bản +[00ff00]physics_potentialdamage_p1%[-]	Xiaoyao_bd08_buff	UI/Atlas/NewAtlas/Buff/Buff.prefab						
+613	Tọa Vọng Vô Ngã	613										Tổng sát thương đỡ: [00ff00]t_magicshield1[-]\nTỉ lệ miễn dịch Bùa Chú +[00ff00]ignore_dmgskill1/100%[-]	WudangSkill_04_buff	UI/Atlas/NewAtlas/Buff/Buff.prefab						
+616	Thiên Địa Vô Cực											Kháng tất cả cơ bản [FF3030] giảm all_series_resist_p1%[-]\nNé tránh cơ bản [FF3030] giảm defense_p1%[-]	BUFF_Earth	UI/Atlas/NewAtlas/Buff/Buff.prefab						
+618	Thái Nhất Chân Khí	2849										Giải trừ và miễn dịch thuộc tính	Wudang_bd02_buff	UI/Atlas/NewAtlas/Buff/Buff.prefab						
+625	Bí Kíp-Sơ: Tọa Vọng Vô Ngã											[8dccf7]<Kiếm Phi Kinh Thiên >[-] tấn công cơ bản +[00ff00]add_usebasedmg_p12%[-]	WudangSkill_04_buff	UI/Atlas/NewAtlas/Buff/Buff.prefab						
+645	Chân Võ Thất Tiệt											Tấn công cơ bản +[00ff00]physics_potentialdamage_p1%[-]	Wudang_bd04_buff	UI/Atlas/NewAtlas/Buff/Buff.prefab						
+646	Chân Võ Thất Tiệt											Tấn công cơ bản +[00ff00]physics_potentialdamage_p1%[-]	Wudang_bd04_buff	UI/Atlas/NewAtlas/Buff/Buff.prefab						
+650	Bí Kíp-Trung: Vô Ngã Vô Kiếm											Lần kế [8dccf7]<Võ Đang Kiếm Pháp>[-] kích hoạt [8dccf7]<Kiếm Phi Kinh Thiên >[-]	Changge_bd02_buff	UI/Atlas/NewAtlas/Buff/Buff.prefab						
+655	Bí Kíp-Trung: Thiên Địa Vô Cực											Bỏ qua kháng tất cả +[00ff00]ignore_all_resist_vp1%[-]\nHút sinh lực +[00ff00]steallife_p1%[-]	Tianshan_bd07_buff	UI/Atlas/NewAtlas/Buff/Buff.prefab						
+657	Bí Kíp-Trung: Nhân Kiếm Hợp Nhất											Tấn công cơ bản +[00ff00]physics_potentialdamage_p1%[-]\nTốc đánh +[00ff00]attackspeed_v1[-] điểm 	WudangSkill_03_buff	UI/Atlas/NewAtlas/Buff/Buff.prefab						
+662	Bí Kíp Tọa Vọng Vô Ngã-Cao											Kháng sát thương cận chiến +[00ff00]melee_dmg_p1%[-]\nKháng sát thương tầm xa +[00ff00]remote_dmg_p1%[-]	WudangSkill_04_buff	UI/Atlas/NewAtlas/Buff/Buff.prefab						
+666	Thất Tinh Quyết											Tỉ lệ bạo kích cơ bản [FF3030]giảm deadlystrike_p1%[-]\nDi chuyển cơ bản [FF3030]giảm runspeed_p1%[-]	Wudang_bd08_buff	UI/Atlas/NewAtlas/Buff/Buff.prefab						
+667	Thất Tinh Quyết											Tỉ lệ bạo kích cơ bản +[00ff00]deadlystrike_p1%[-]\nDi chuyển cơ bản +[00ff00]runspeed_p1%[-]	Wudang_bd08_buff	UI/Atlas/NewAtlas/Buff/Buff.prefab						
+706	Ma Diệm Tại Thiên	706										Tấn công 6 lần sẽ biến mất	TianrenSkill_02_buff	UI/Atlas/NewAtlas/Buff/Buff.prefab						
+707	Ma Diệm Tại Thiên	6707										Di chuyển [FF3030] giảm runspeed_p1%[-]	TianrenSkill_02_buff	UI/Atlas/NewAtlas/Buff/Buff.prefab						
+711	Huyết Nguyệt Chi Ảnh									31		Ẩn thân\nDi chuyển +[00ff00]runspeed_v1[-]\nTốc đánh +[00ff00]attackspeed_v1[-]\nTấn công cơ bản +[00ff00]physics_potentialdamage_p1%[-]	TianrenSkill_04_buff	UI/Atlas/NewAtlas/Buff/Buff.prefab						
+712	Huyết Nguyệt Chi Ảnh_Phá Ẩn									31		Di chuyển +[00ff00]runspeed_v1[-]\nTốc đánh +[00ff00]attackspeed_v1[-]\nTấn công cơ bản +[00ff00]physics_potentialdamage_p1%[-]	TianrenSkill_04_buff	UI/Atlas/NewAtlas/Buff/Buff.prefab						
+713	Huyết Nguyệt Chi Ảnh_Phá Ẩn									31		Sát thương liên chiêu Thiên Nhẫn Thích Sát Thuật +[00ff00]50%[-]	TianrenSkill_04_buff	UI/Atlas/NewAtlas/Buff/Buff.prefab						
+743	Ma Diệm Thất Sát											Bỏ qua kháng tất cả giảm [00ff00]ignore_all_resist2%[-]	Gb_mj04_buff	UI/Atlas/NewAtlas/Buff/Buff.prefab						
+746	Phá Toái Hư Không											Né tránh cơ bản +[00ff00]defense_p1%[-]\nTỉ lệ kháng bất lợi +[00ff00]resist_allspecialstate_rate_v1[-] điểm	Tianren_bd06_buff	UI/Atlas/NewAtlas/Buff/Buff.prefab						
+764	Bí Kíp: Ma Diệm Tại Thiên											Tấn công cơ bản +[00ff00]physics_potentialdamage_p1%[-]	TianrenSkill_02_buff	UI/Atlas/NewAtlas/Buff/Buff.prefab						
+766	Bí Kíp: Huyết Nguyệt Chi Ảnh											Né tránh cơ bản +[00ff00]defense_p1%[-]\nMiễn dịch bất lợi	TianrenSkill_04_buff	UI/Atlas/NewAtlas/Buff/Buff.prefab						
+767	Bí Kíp: Huyết Nguyệt Chi Ảnh											Né tránh cơ bản +[00ff00]defense_p1%[-]\nMiễn dịch bất lợi	TianrenSkill_04_buff	UI/Atlas/NewAtlas/Buff/Buff.prefab						
+769	Bí Kíp: Nhiếp Hồn Loạn Tâm											Né tránh cơ bản [FF3030]giảm defense_p1%[-]\nTỉ lệ kháng thuộc tính [FF3030] giảm resist_allseriesstate_rate_v1[-]\nTỉ lệ kháng bất lợi [FF3030] giảm resist_allspecialstate_rate_v1[-]	Tianren_bd02_buff	UI/Atlas/NewAtlas/Buff/Buff.prefab						
+810	Triệu Hồi Bảo Bảo											Bảo Bảo	CuiyanSkill_04_buff	UI/Atlas/NewAtlas/Buff/Buff.prefab						
+818	Tuyết Ảnh											Di chuyển +[00ff00]runspeed_v1[-]\nBỏ qua né tránh cơ bản +[00ff00]ignore_defense_vp1%[-]	Cuiyan_bd02_buff	UI/Atlas/NewAtlas/Buff/Buff.prefab						
+819	Tuyết Ảnh											Di chuyển +[00ff00]runspeed_v1[-]\nBỏ qua né tránh cơ bản +[00ff00]ignore_defense_vp1%[-]	Cuiyan_bd02_buff	UI/Atlas/NewAtlas/Buff/Buff.prefab						
+857	Bí Kíp: Băng Tung Vô Ảnh	973										Tấn công cơ bản +[00ff00]physics_potentialdamage_p1%[-]\nTỉ lệ bỏ qua né tránh cuối của kẻ địch +[00ff00]ignore_defense_p1%[-]	Emei_bd06_buff	UI/Atlas/NewAtlas/Buff/Buff.prefab						
+860	Bí Kíp: Tuyền Cơ La Vũ											Tấn công cơ bản Tuyền Cơ La Vũ +[00ff00]add_usebasedmg_p12%[-]	Cuiyan_bd05_buff	UI/Atlas/NewAtlas/Buff/Buff.prefab						
+879	Triệu hồi Bảo Bảo-Trung	2849										Giảm sát thương đánh thường [FF3030] style_skill_damage_p2%[-]	CuiyanSkill_04_buff	UI/Atlas/NewAtlas/Buff/Buff.prefab						
+927	Độc Chướng Thuật	927																		
+930	Kim Cang Hộ Thể	2416																		
+933	Bất Động Minh Vương	2416																		
+937	Khô Mộc Phùng Xuân	6306																		
+939	Niết Bàn Trùng Sinh	2849																		
+948	Linh Tê	948																		
+950	Tâm Nhãn	950																		
+958	Niết Bàn Trùng Sinh	6306																		
+970	Minh Nguyệt Quyết	970																		
+973	Thanh Tâm Thuật	973																		
+995	Bi Tô Thanh Phong	927																		
+1001	Dấu than nhiệm vụ_Lục					1001														
+1002	Dấu than nhiệm vụ_Lam					1002														
+1003	Dấu hỏi nhiệm vụ_Xám					1003														
+1004	Dấu hỏi nhiệm vụ_Lục					1004														
+1005	Dấu hỏi nhiệm vụ_Lam					1005														
+1006	Dấu hỏi nhiệm vụ_Vàng					1006														
+1008	Gia tốc nhiệm vụ	1008								31										
+1009	Đang tự tìm đường										Golden_01|Golden_02|Golden_06|Golden_07|Golden_05									
+1010	Đang tự chiến đấu										Golden_01|Golden_02|Golden_03|Golden_04|Golden_05									
+1011	Theo										|Blue_01|Blue_02|Blue_03									
+1012	Đang đào kho báu										|Blue_04|Blue_05|Blue_03									
+1057	EXP đánh quái											EXP đánh quái: +[00ff00]enhance_exp_p1%[-]	BUFF_xiulianzhu	UI/Atlas/NewAtlas/Buff/Buff.prefab						
+1059	Tỷ thí thắng					1059														
+1060	Tỷ thí thua					1060														
+1062	Hiệu ứng truyền công	1062																		
+1063	Hiệu ứng truyền công_Tất cả hiệu ứng	1063																		
+1085	Kết Bái: Cùng Hưởng Phúc											Sát thương thuộc tính +[00ff00]physical_damage_v1[-]\nSinh lực +[00ff00]lifemax_v1[-]\nKháng tất cả +[00ff00]all_series_resist_v1[-]	BUFF_intimacy	UI/Atlas/NewAtlas/Buff/Buff.prefab	1					
+1086	Ngồi thiền	1086																		
+1087	Cấm di chuyển, kỹ năng, vật phẩm	59																		
+1096	Vòng sáng chân Đồng Hành_Trắng	9032																		
+1097	Vòng sáng chân Đồng Hành_Lục	9033																		
+1098	Vòng sáng chân Đồng Hành_Lam	9034																		
+1099	Vòng sáng chân Đồng Hành_Tím	9035																		
+1100	Vòng sáng chân Đồng Hành_Vàng	9036																		
+1105	Kim Chung Tráo	9076																		
+1367	Cuồng Bạo Phệ Huyết							133	5											
+1457	Khóa chân (Cấm khinh công)	1457																		
+1500	Mũi Tên					1500														
+1501	Trạng thái Trọng Thương					4501	700													
+1502	Trạng thái Khí Tuyệt	1502				4502	700													
+1503	Vòng Sáng_Hồi Sinh Lực	1503																		
+1504	Vòng Sáng_Thêm kháng	1504																		
+1505	Vòng Sáng_Thêm kháng_Phụ	1505																		
+1506	Vòng Sáng_Hồi Sinh Lực_Phụ	1506																		
+1507	Hồi Sinh Lực					4507														
+1508	Tấn công					4508														
+1509	Kháng tính					4509														
+1510	Tốc Chạy					4510														
+1512	buffball	1512																		
+1513	buffball	1513																		
+1514	Vòng Sáng Rương	9012																		
+1517	Trạng thái bảo vệ						400					Trong thời gian trạng thái bảo vệ không bị sát thương	BUFF_Protect	UI/Atlas/NewAtlas/Buff/Buff.prefab						
+1519	Lửa Trại	9044																		
+1533	Vòng Sáng_Tốc đánh	1533																		
+1534	Vòng Sáng_Tốc đánh_Phụ	1534																		
+1535	Vòng Sáng_Sát thương	1535																		
+1536	Vòng Sáng_Sát thương_Phụ	1536																		
+1537	Cuồng Bạo	1367	16	7367	15			133	5											
+1676	Hiệu ứng nộ khí Thiên Vương	1676																		
+1677	Hiệu ứng nộ khí Nga Mi	1677																		
+1678	Hiệu ứng nộ khí Đào Hoa	1678																		
+1679	Hiệu ứng nộ khí Tiêu Dao	1679																		
+1696	Vòng Đại Diện_Nam	1696																		
+1697	Vòng Đại Diện_Nữ	1697																		
+1705	buff_Tấn công	1705																		
+1732	Cổ Vũ Chiến Hống	197										Tấn công +[00ff00]basic_damage_v1[-]\nSinh lực +[00ff00]lifemax_v1[-]\nKháng tất cả +[00ff00]all_series_resist_v1[-]\nTỉ lệ thuộc tính +[00ff00]add_seriesstate_rate_v1[-]\nThời gian thuộc tính +[00ff00]add_seriesstate_time_v1[-]	Taohua_bd02_buff	UI/Atlas/NewAtlas/Buff/Buff.prefab						
+1733	Cổ Vũ Chiến Hống											Tấn công +[00ff00]basic_damage_v1[-]\nSinh lực +[00ff00]lifemax_v1[-]\nKháng tất cả +[00ff00]all_series_resist_v1[-]\nTỉ lệ thuộc tính +[00ff00]add_seriesstate_rate_v1[-]\nThời gian thuộc tính +[00ff00]add_seriesstate_time_v1[-]	Taohua_bd02_buff	UI/Atlas/NewAtlas/Buff/Buff.prefab						
+1772	Trung Quán Bạch Nhật	613										Giảm sát thương: [00ff00]t_magicshield1[-]	WudangSkill_04_buff	UI/Atlas/NewAtlas/Buff/Buff.prefab						
+1833	Cuồng Nhiệt					4508														
+1883	Vòng Tầm Nhìn (Đường kính 2,8)	1883																		
+1884	Vòng Tầm Nhìn (Đường kính 6m) 	1453																		
+1885	Vòng Diệt Nhanh	1885																		
+1889	Vòng Sáng Trúng Độc toàn màn hình_Phụ 2	1889																		
+2035	Vòng Chí Mạng-Hỏa	2035																		
+2037	Vòng Kháng Tính-Hỏa	1504																		
+2038	Vòng Kháng Tính-Hỏa_Phụ	1505																		
+2095	Vòng Hồi Phục	2070																		
+2251	Cuồng Bạo Phệ Huyết																			
+2301	Chúc phúc máy chủ mới: Cùng Chiến											EXP luyện công đánh quái ngoài thành +[00ff00]10%[-]	meigui_02	UI/Atlas/Item/Item/Item2.prefab						
+2302	Chúc phúc máy chủ mới: May Mắn											Bạc nhận từ Rung Cây Tiền, Mục Tiêu Ngày, Địa Cung Ngẫu Nhiên, Luyện Công Ngoài Thành, Nhiệm Vụ Thương Hội +[00ff00]10%[-]	chongjujianghu	UI/Atlas/Item/Item/Item6.prefab						
+2303	Chúc phúc máy chủ mới: Thiên Công											Cống hiến nhận từ Góp Bang Hội, Võ Thần Điện, Nhiệm Vụ Trừng Ác, Vấn Đáp Lửa Trại Bang Hội, Minh Chủ Võ Lâm +[00ff00]10%[-]	BUFF_intimacy	UI/Atlas/NewAtlas/Buff/Buff.prefab						
+2304	Chúc Phúc-Hỏa											Bỏ qua né tránh +[00ff00]ignore_defense_v1[-]\nTỉ lệ bạo kích +[00ff00]deadlystrike_v1[-]	BUFF_Fire	UI/Atlas/NewAtlas/Buff/Buff.prefab						
+2305	Chúc Phúc-Thổ											Kháng tất cả +[00ff00]all_series_resist_v1[-]	BUFF_Earth	UI/Atlas/NewAtlas/Buff/Buff.prefab						
+2306	Uống Rượu											  	BUFF_nverhong	UI/Atlas/NewAtlas/Buff/Buff.prefab						
+2307	Chúc Phúc Ngày Lễ											Sát thương thuộc tính +[00ff00]physical_damage_v1[-]\nSinh lực tối đa +[00ff00]lifemax_v1[-]\nKháng tất cả +[00ff00]all_series_resist_v1[-]	BUFF_zhuxiudan	UI/Atlas/NewAtlas/Buff/Buff.prefab						
+2308	Tăng thân mật											  	BUFF_intimacy	UI/Atlas/NewAtlas/Buff/Buff.prefab						
+2310	Khoản nợ											  	Gold	UI/Atlas/NewAtlas/Buff/Buff.prefab	1					
+2311	Thời gian dừng Tần Lăng											  	Buff_yemingzhu	UI/Atlas/NewAtlas/Buff/Buff.prefab						
+2312	Bảo vệ PK											  	BUFF_Protect	UI/Atlas/NewAtlas/Buff/Buff.prefab						
+2313	Thương Hải Nguyệt Minh											EXP đánh quái: +[00ff00]enhance_exp_p1%[-]	Buff_canghaiyueming	UI/Atlas/NewAtlas/Buff/Buff.prefab						
+2314	Nợ trạng thái xấu											EXP đánh quái: [FF3030] giảm enhance_exp_p1%[-]\nTấn công cơ bản: [FF3030] giảm physics_potentialdamage_p1%[-]\nKháng tất cả cơ bản: [FF3030] giảm all_series_resist_p1%[-]	Gold	UI/Atlas/NewAtlas/Buff/Buff.prefab	1					
+2316	Bánh Chưng											Lửa Trại Bang Hội nhận [FFFE0D]EXP cộng thêm[-]	labazhou	UI/Atlas/Item/Item/Item5.prefab						
+2317	Tái Xuất											Thân mật nhận +[00ff00]100%[-]\nEXP đánh quái +[00ff00]enhance_exp_p1%[-]\nTấn công +[00ff00]basic_damage_v1[-]\nKháng tất cả +[00ff00]all_series_resist_v1[-]\nSinh lực +[00ff00]lifemax_v1[-]	chongjujianghu	UI/Atlas/Item/Item/Item6.prefab						
+2318	Nợ trạng thái xấu											Lực chiến: [FF3030]Giảm fightpower_v11[-]	Gold	UI/Atlas/NewAtlas/Buff/Buff.prefab	1					
+2319	Nữ Hiệp Xem Trọng											Sát thương thuộc tính +[00ff00]physical_damage_v1[-]\nSinh lực tối đa +[00ff00]lifemax_v1[-]\nKháng tất cả +[00ff00]all_series_resist_v1[-]	meigui_02	UI/Atlas/Item/Item/Item2.prefab						
+2320	Linh Quả Thần Bí											Sát thương quái +[00ff00]damage4npc_p1%[-]	ArborDay_04	UI/Atlas/Item/Item/Item7.prefab						
+2321	Gia Viên Ẩn Thân															1				
+2322	Trạng thái Hồn Thanh Minh	1502					700													
+2323	Gia Viên Ẩn Thân Trốn Tìm															1				
+2324	Vô Địch Hoa Đồng	2416						150	3			Vô Địch!	Tianwang_bd03_buff	UI/Atlas/NewAtlas/Buff/Buff.prefab						
+2325	Thiên Phạt											  	buff_cell	UI/Atlas/NewAtlas/Buff/Buff.prefab						
+2326	Bánh Ít Bạch Ngọc											EXP đánh quái: +[00ff00]enhance_exp_p1%[-]	DuanwuZongzi1	UI/Atlas/Item/Item/Item13.prefab						
+2515	Triết Biệt-Kỹ năng vòng sáng	9044																		
+2522	Viên Thừa Chí-Kỹ năng vòng sáng	9044																		
+2527	Diệp Vô Tâm-Kỹ năng vòng sáng	9044																		
+2563	Nạp Lan Chân-Kỹ năng vòng sáng	9044																		
+2554	Phách Không Chưởng					9053														
+2398	Vòng Sáng_Phản Đòn	2398																		
+2399	Vòng Sáng_Phản Đòn_Phụ	2399																		
+2400	Vòng Sáng_Phản Xạ	2400																		
+2401	Vòng Sáng_Phản Xạ_Phụ	2401																		
+2402	Vòng Tầm Nhìn (Nhỏ)	1454																		
+2403	Vòng Tầm Nhìn (Lớn)	95																		
+2404	Vòng Sáng Trúng Độc	2404																		
+2405	Cường Lực (buff)	2405																		
+2416	Vô Địch-Bị Động	2416																		
+2468	Vòng Sáng Trúng Độc	1396																		
+2497	Bẫy Lửa	2497																		
+2646	Bạch Lang Nhập Trận	2646																		
+2708	Phản Đòn (Buff) 	2708																		
+2709	Kinh Cúc (buff) 	2709																		
+2776	Định Thân miễn kéo	59																		
+2784	Vòng Hỗn Loạn	1883																		
+2844	Long Tượng Cửu Trùng					2844														
+2845	Long Tượng Cửu Trùng_Phụ					2845														
+2849	Tuyết Ánh Hồng Trần_Hiệu ứng	2849																		
+2858	Quyết Biệt					4508														
+2886	Ki Bán Phù	2886																		
+2888	Phong Tuyết Bộ Pháp	2888																		
+2900	Thương Hải Nguyệt Minh_Hiệu Ứng	2900																		
+2978	Tận Trung Báo Quốc	1367						130												
+3029	Cuồng Bạo Chiến Ý	1367						130												
+3056	Thu nhỏ đến 80%							80												
+3057	Thu nhỏ đến 60%							60												
+3058	Thu nhỏ đến 40%							40												
+3059	Thu nhỏ đến 20%							20												
+3066	Trường Sinh Bất Lão	2416																		
+3070	Đứng 10 giây_Vô Địch	2416					700													
+3077	Thủy Hoàng Giáng Lâm	14																		
+3078	Thủy Hoàng Giáng Lâm					6034														
+3106	Bẫy Toàn Phong	1887																		
+3109	Bẫy Lửa	2497																		
+3115	Vòng Vô Địch	13115		13116																
+3116	Vòng Vô Địch_Phụ	2416																		
+3166	Diệu Thủ Hồi Xuân					4507						Mỗi [00ff00]recover_life_p2/15[-] giây hồi [00ff00]recover_life_p1%[-] sinh lực	buff_recover	UI/Atlas/NewAtlas/Buff/Buff.prefab						
+3167	Bất Diệt Kiếm Ý					4508						Tấn công cơ bản +[00ff00]physics_potentialdamage_p1%[-]	buff_adddamage	UI/Atlas/NewAtlas/Buff/Buff.prefab						
+3168	Kim Cang Bất Hoại					4509						Kháng tất cả cơ bản +[00ff00]all_series_resist_p1%[-]	buff_series	UI/Atlas/NewAtlas/Buff/Buff.prefab						
+3169	Nhanh Như Chớp					4510						Di chuyển +[00ff00]runspeed_p1%[-]	buff_runspeed	UI/Atlas/NewAtlas/Buff/Buff.prefab						
+3191	Lực Bạo Kích	970										Bạo kích +[00ff00]deadlystrike_v1[-]\nSát thương bạo kích +[00ff00]deadlystrike_damage_p1%[-]	buff_huixin	UI/Atlas/NewAtlas/Buff/Buff.prefab						
+3192	Kim Cang Hộ Thể	2416										Miễn dịch sát thương và khống chế	buff_wudi	UI/Atlas/NewAtlas/Buff/Buff.prefab						
+3194	Diệu Thủ Hồi Xuân					4507						Mỗi [00ff00]recover_life_p2/15[-] giây hồi [00ff00]recover_life_p1%[-] sinh lực	buff_recover	UI/Atlas/NewAtlas/Buff/Buff.prefab						
+3195	Bất Động Minh Vương	1504										Trạng thái miễn khống chế	ShaolinSkill_04_buff	UI/Atlas/NewAtlas/Buff/Buff.prefab						
+3196	Nhanh Như Chớp					4510						Di chuyển +[00ff00]runspeed_v1[-]	buff_runspeed	UI/Atlas/NewAtlas/Buff/Buff.prefab						
+3197	Ẩn Thân											(Dùng kỹ năng lập tức phá Ẩn Thân)	hd_changecard_gq	UI/Atlas/Item/Item/Item5.prefab						
+3198	Hiệu quả thuốc					4507						Mỗi [00ff00]recover_life_p2/15[-] giây hồi phục [00ff00]recover_life_p1%[-] sinh lực\n(Hiệu quả sẽ mất khi bị tấn công)	buff_recover	UI/Atlas/NewAtlas/Buff/Buff.prefab						
+3217	Kích Nộ					13217		133	5											
+3272	Thức Tỉnh_Lớn	13272						120	120											
+3273	Thức Tỉnh_Thường	13273						120	120											
+3274	Thức Tỉnh_Động vật mặt đất 1	13274						120	120											
+3275	Thức Tỉnh_Động vật mặt đất 2	13275						120	120											
+3255	Luân Hồi Vãng Sinh	2849																		
+3256	Luân Hồi Vãng Sinh	6306																		
+3263	Kim Cang-Cao	3306																		
+3366	Đạp Băng Quyết	13366										Di chuyển +[00ff00]runspeed_v1[-]	BUFF_Wood	UI/Atlas/NewAtlas/Buff/Buff.prefab						
+3367	Thừa Sương Thức	13367										Tốc độ bay của Tuyết Cầu +[00ff00]100%[-]	BUFF_Water	UI/Atlas/NewAtlas/Buff/Buff.prefab						
+3370	Tuyết Ảnh Vũ	13370										Trạng thái miễn khống chế	BUFF_Gold	UI/Atlas/NewAtlas/Buff/Buff.prefab						
+3371	Kiên Băng Ngự	13371										Sát thương -[00ff00]100%[-]	BUFF_Fire	UI/Atlas/NewAtlas/Buff/Buff.prefab						
+3399	Biến thành Người Tuyết															1	1			
+3450	Bí Kíp-Cao: Kim Chung Tráo											Kháng tất cả cơ bản +[00ff00]all_series_resist_p1%[-]\nHiệu suất hồi phục +[00ff00]lifereplenish_p1%[-]	TianwangSkill_03_buff	UI/Atlas/NewAtlas/Buff/Buff.prefab						
+3458	Bí Kíp-Cao: Kim Cang Phục Ma											Mục tiêu tấn công tối đa của Đại Lực Kim Cang Chỉ +[00ff00]addms_hittotal_c12[-]	Sl_mj03_buff	UI/Atlas/NewAtlas/Buff/Buff.prefab						
+3549	Ẩn tên																1			
+3550	Đồng Lòng											Sát thương thuộc tính +[00ff00]physical_damage_v1[-]\nSinh lực tối đa+[00ff00]lifemax_v1[-]\nKháng tất cả +[00ff00]all_series_resist_v1[-]\nNé tránh +[00ff00]defense_v1[-]	tongxinguo	UI/Atlas/Item/Item/Item9.prefab						
+3551	Tân Nhân Chúc Phúc											Sát thương thuộc tính +[00ff00]physical_damage_v1[-]\nSinh lực tối đa +[00ff00]lifemax_v1[-]\nKháng tất cả +[00ff00]all_series_resist_v1[-]	ArborDay_01	UI/Atlas/Item/Item/Item7.prefab						
+3701	Thử nghiệm-Kim											Ngăn sát thương nhân vật +[00ff00]playerdmg_npc_p1%[-]	BUFF_Gold	UI/Atlas/NewAtlas/Buff/Buff.prefab						
+3702	Thử nghiệm-Mộc											Né tránh hoàn toàn +[00ff00]miss_alldmg_v1[-]	BUFF_Wood	UI/Atlas/NewAtlas/Buff/Buff.prefab						
+3703	Thử nghiệm-Thủy											Kháng hút sinh lực +[00ff00]steallife_resist_v1[-]	BUFF_Water	UI/Atlas/NewAtlas/Buff/Buff.prefab						
+3704	Thử nghiệm-Hỏa											Kháng hút sinh lực +[00ff00]steallife_resist_p1%[-]	BUFF_Fire	UI/Atlas/NewAtlas/Buff/Buff.prefab						
+3705	Thử nghiệm-Thổ											Hút sinh lực tăng [00ff00]steallife_p1%[-]	BUFF_Earth	UI/Atlas/NewAtlas/Buff/Buff.prefab						
+3716	Ký hiệu đối tượng hận thù					13716														
+3767	Ký hiệu Tháp Phòng					13767														
+3805	Trạng thái miễn dịch	13805										Miễn dịch thuộc tính\nMiễn hiệu quả bất lợi	Wudang_bd02_buff	UI/Atlas/NewAtlas/Buff/Buff.prefab						
+3921	Sức Mạnh Nữ Đế	13921																		
+3928	Hợp Tung Liên Hoành	2886										Triệt tiêu sát thương cuối [FF3030]giảm reduce_final_damage_p1%[-]	mingcaqiuhao	UI/Atlas/NewAtlas/CompanionSkill/CompanionSkill_02.prefab						
+3932	Âm Dương Quyết	13932										Tấn công cơ bản +[00ff00]physics_potentialdamage_p1%[-]\nHút sinh lực +[00ff00]steallife_p1%[-]	chunyangwujigong	UI/Atlas/NewAtlas/CompanionSkill/CompanionSkill_02.prefab						
+4015	Tôi Độc Thuật											Tấn công cơ bản +[00ff00]physics_potentialdamage_p1%[-]\nSát thương bạo kích +[00ff00]deadlystrike_damage_p1%[-]	Tangmen_bd01_buff	UI/Atlas/NewAtlas/Buff/Buff.prefab						
+4016	Tôi Độc Thuật											Sát thương bạo kích +[00ff00]deadlystrike_damage_p1%[-]	Tangmen_bd01_buff	UI/Atlas/NewAtlas/Buff/Buff.prefab						
+4020	Tâm Nhãn											Bỏ qua né tránh cơ bản +[00ff00]ignore_defense_vp1%[-]\nTỉ lệ bạo kích cơ bản +[00ff00]deadlystrike_p1%[-]	Tangmen_bd06_buff	UI/Atlas/NewAtlas/Buff/Buff.prefab						
+4028	Di Hình Hoán Ảnh											Ẩn Thân\nGiải trừ và miễn dịch hiệu quả thuộc tính\nGiải trừ và miễn dịch hiệu quả bất lợi	Tangmen_bd07_buff	UI/Atlas/NewAtlas/Buff/Buff.prefab						
+4046	Bí Kíp-Trung: Mê Ảnh Tung											Né tránh cơ bản +[00ff00]defense_p1%[-]\nMiễn dịch bất lợi\nMiễn dịch thuộc tính	Tm_mj02_buff	UI/Atlas/NewAtlas/Buff/Buff.prefab						
+4119	Hỗn Nguyên Càn Khôn											Hút sinh lực tăng [00ff00]steallife_p1%[-]	Kunlun_bd02_buff	UI/Atlas/NewAtlas/Buff/Buff.prefab						
+4120	Hỗn Nguyên Càn Khôn											Hiệu suất hồi sinh lực [FF3030] giảm lifereplenish_p1%[-]\nDi chuyển [FF3030] giảm runspeed_p1%[-]	Kunlun_bd02_buff	UI/Atlas/NewAtlas/Buff/Buff.prefab						
+4121	Ngự Phong Hành	613										Giảm sát thương: [00ff00]t_magicshield1[-]	WudangSkill_04_buff	UI/Atlas/NewAtlas/Buff/Buff.prefab						
+4131	Nhất Khí Tam Thanh	613										Giảm sát thương: [00ff00]t_magicshield1[-]	WudangSkill_04_buff	UI/Atlas/NewAtlas/Buff/Buff.prefab						
+4134	Bí Kíp-Sơ: Tiên Nhân Chỉ Lộ											Tỉ lệ bạo kích cơ bản +[00ff00]deadlystrike_p1%[-]\nThời gian gây choáng +[00ff00]state_stun_attacktime1[-]	Kl_mj03_buff	UI/Atlas/NewAtlas/Buff/Buff.prefab						
+4140	Bí Kíp-Trung: Tiên Nhân Chỉ Lộ											Miễn dịch hiệu quả Làm Chậm\nMiễn hiệu quả bất lợi	Kl_mj03_buff	UI/Atlas/NewAtlas/Buff/Buff.prefab						
+4143	Bí Kíp-Trung: Hỗn Độn Kiếm Trận											Kháng tất cả cơ bản [FF3030] giảm all_series_resist_p1%[-]	Kl_mj01_buff	UI/Atlas/NewAtlas/Buff/Buff.prefab						
+4150	Bí Kíp-Cao: Hỗn Độn Kiếm Trận											Kháng sát thương tầm xa +[00ff00]remote_dmg_p1%[-]	Kl_mj01_buff	UI/Atlas/NewAtlas/Buff/Buff.prefab						
+4153	Thiên Thanh Địa Trọc											Tốc đánh -[00ff00]attackspeed_v1[-] điểm\nTấn công cơ bản-[00ff00]physics_potentialdamage_p1%[-]\nKháng cơ bản +[00ff00]all_series_resist_p1%[-]\nNé tránh cơ bản +[00ff00]defense_p1%[-]	Kunlun_bd08_buff	UI/Atlas/NewAtlas/Buff/Buff.prefab						
+4155	Bí Kíp-Cao: Tiếu Phong Tam Liên Kích	14432										Né tránh cơ bản [FF3030]giảm defense_p1%[-]\nTỉ lệ kháng thuộc tính [FF3030] giảm resist_allseriesstate_rate_v1[-]\nTỉ lệ kháng bất lợi [FF3030] giảm resist_allspecialstate_rate_v1[-]	Kunlun_bd08_buff	UI/Atlas/NewAtlas/Buff/Buff.prefab						
+4156	Bí Kíp-Cao: Lôi Động Cửu Thiên											Giải trừ và miễn dịch thuộc tính	Kl_mj03_buff	UI/Atlas/NewAtlas/Buff/Buff.prefab						
+4211	Túy Điệp Cuồng Vũ	24211								31		Di chuyển +[00ff00]runspeed_v1[-]\nNé tránh cơ bản +[00ff00]defense_p1%[-]	GaibangSkill_05_buff	UI/Atlas/NewAtlas/Buff/Buff.prefab						
+4219	Bá Vương Tạ Giáp											Bỏ qua kháng tính cuối +[00ff00]ignore_all_resist2%[-]	Gaibang_bd06_buff	UI/Atlas/NewAtlas/Buff/Buff.prefab						
+4223	Du Long Quyết											Tấn công cơ bản +[00ff00]physics_potentialdamage_p1%[-]	Gaibang_bd01_buff	UI/Atlas/NewAtlas/Buff/Buff.prefab						
+4241	Bí Kíp: Túy Điệp Cuồng Vũ											Di chuyển +[00ff00]runspeed_v1[-]\nNé tránh cơ bản +[00ff00]defense_p1%[-]	Gb_mj04_buff	UI/Atlas/NewAtlas/Buff/Buff.prefab						
+4250	Bí Kíp: Khốn Long Công											Kháng tất cả cơ bản [FF3030] giảm all_series_resist_p1%[-]	Gb_mj02_buff	UI/Atlas/NewAtlas/Buff/Buff.prefab						
+4301	Trúng Độc	14305																		
+4312	Triệu hồi Linh Xà											Linh Xà	WuduSkill_02_buff	UI/Atlas/NewAtlas/Buff/Buff.prefab						
+4314	Triệu hồi Bích Thiềm											Bích Thiềm	WuduSkill_02_buff	UI/Atlas/NewAtlas/Buff/Buff.prefab						
+4316	Triệu Hồi Xích Hạt											Sát thương bạo kích +[00ff00]deadlystrike_damage_p1%[-]	WuduSkill_02_buff	UI/Atlas/NewAtlas/Buff/Buff.prefab						
+4318	Triệu hồi Phong Ngô											Phong Ngô	WuduSkill_02_buff	UI/Atlas/NewAtlas/Buff/Buff.prefab						
+4320	Triệu hồi Mặc Tri											Nhện Đen	WuduSkill_02_buff	UI/Atlas/NewAtlas/Buff/Buff.prefab						
+4336	Mê Tâm Cổ					24336						Tăng sát thương độc công phải chịu [00ff00]recdot_wood_p1%[-]	WuduSkill_04_buff	UI/Atlas/NewAtlas/Buff/Buff.prefab						
+4341	Bách Độc Xuyên Tâm											Tỉ lệ bạo kích cơ bản +[00ff00]deadlystrike_p1%[-]	Wudu_bd05_buff	UI/Atlas/NewAtlas/Buff/Buff.prefab						
+4342	Bách Độc Xuyên Tâm											Tỉ lệ bạo kích cơ bản +[00ff00]deadlystrike_p1%[-]	Wudu_bd05_buff	UI/Atlas/NewAtlas/Buff/Buff.prefab						
+4348	Hồi Hồn Mật Chú	14348										Sát thương phải chịu chuyển thành hồi sinh lực	Wudu_bd07_buff	UI/Atlas/NewAtlas/Buff/Buff.prefab						
+4325	Bích Thiềm											Kháng Mộc [FF3030] giảm wood_resist_v1[-] điểm	WuduSkill_02_buff	UI/Atlas/NewAtlas/Buff/Buff.prefab						
+4330	Phong Ngô											Né tránh [FF3030] giảm defense_v1[-] điểm	WuduSkill_02_buff	UI/Atlas/NewAtlas/Buff/Buff.prefab						
+4371	Bí kíp: Âm Phong Thực Cốt											Tốc đánh +[00ff00]attackspeed_v1[-]	Wdu_mj03_buff	UI/Atlas/NewAtlas/Buff/Buff.prefab						
+4375	Bí Kíp: Bích Thiềm											Kháng Mộc [FF3030] giảm wood_resist_v1[-] điểm	Wdu_mj04_buff	UI/Atlas/NewAtlas/Buff/Buff.prefab						
+4378	Bí Kíp: Phong Ngô											Né tránh [FF3030] giảm defense_v1[-] điểm	Wdu_mj04_buff	UI/Atlas/NewAtlas/Buff/Buff.prefab						
+4381	Bí Kíp: Mê Tâm Cổ											Thời gian chờ kỹ năng chủ động +[00ff00]allfactionskill_cd_point1/15[-] giây	Wdu_mj01_buff	UI/Atlas/NewAtlas/Buff/Buff.prefab						
+4410	Tâm Kiếm	34410										Tấn công cơ bản +[00ff00]physics_potentialdamage_p1%[-]\nTỉ lệ bạo kích cơ bản +[00ff00]deadlystrike_p1%[-]\nSát thương với NPC +[00ff00]damage4npc_p1%[-]	CangjianSkill_05_buff	UI/Atlas/NewAtlas/Buff/Buff.prefab						
+4418	Hạc Quy Cô Sơn											Tấn công cơ bản +[00ff00]physics_potentialdamage_p1%[-]	Cangjian_bd02_buff	UI/Atlas/NewAtlas/Buff/Buff.prefab						
+4419	Hạc Quy Cô Sơn											Tấn công cơ bản [FF3030] giảm physics_potentialdamage_p1%[-]\nSát thương Độc công [FF3030] giảm add_dottype_wood_p2%[-]	Cangjian_bd02_buff	UI/Atlas/NewAtlas/Buff/Buff.prefab						
+4423	Ánh Ba Tỏa Lan	2849										Kháng tất cả cơ bản + [00ff00]all_series_resist_p1%[-]\nMiễn dịch hiệu quả Tàn Phế\nMiễn hiệu quả bất lợi\n	Cangjian_bd04_buff	UI/Atlas/NewAtlas/Buff/Buff.prefab						
+4439	Bí Kíp-Trung: Đoạn Triều											Đoạn Triều tăng tấn công cơ bản [00ff00]add_usebasedmg_p12%[-]\nĐoạn Triều có [00ff00]add_fixed_r2%[-] Định Thân [00ff00]add_fixed_t2/15[-] giây	Cj_mj02_buff	UI/Atlas/NewAtlas/Buff/Buff.prefab						
+4443	Bí Kíp-Cao: Tâm Kiếm 	2849										Miễn hiệu quả Tàn phế\nMiễn hiệu quả bất lợi	CangjianSkill_05_buff	UI/Atlas/NewAtlas/Buff/Buff.prefab						
+4451	Bí Kíp-Sơ: Ngọc Tuyền Ngư Dược	14432										Di chuyển [FF3030] giảm runspeed_v1[-]	Cj_mj03_buff	UI/Atlas/NewAtlas/Buff/Buff.prefab						
+4462	Bí Kíp-Cao: Phong Tháp Vân Cảnh											Sát thương bạo kích [FF3030] giảm deadlystrike_damage_p1%[-]	Cj_mj04_buff	UI/Atlas/NewAtlas/Buff/Buff.prefab						
+4488	Tâm Kiếm	34410										Công thường chính xác tăng thuộc tính bản thân:\nTấn công cơ bản +[00ff00]physics_potentialdamage_p1%[-]	CangjianSkill_05_buff	UI/Atlas/NewAtlas/Buff/Buff.prefab						
+4489	Tâm Kiếm											Tấn công cơ bản +[00ff00]physics_potentialdamage_p1%[-]	CangjianSkill_05_buff	UI/Atlas/NewAtlas/Buff/Buff.prefab						
+4509	Vân Sinh Kết Hải	1008										Tấn công cơ bản +[00ff00]physics_potentialdamage_p1%[-]\nKháng tất cả cơ bản +[00ff00]all_series_resist_p1%[-]\nPhản đòn cận chiến +[00ff00]meleedamagereturn_p1%[-]\nPhản đòn tầm xa +[00ff00]rangedamagereturn_p1%[-]	ChanggeSkill_03_buff	UI/Atlas/NewAtlas/Buff/Buff.prefab						
+4510	Vân Sinh Kết Hải	1008										Tấn công cơ bản +[00ff00]physics_potentialdamage_p1%[-]\nKháng tất cả cơ bản +[00ff00]all_series_resist_p1%[-]\nPhản đòn cận chiến +[00ff00]meleedamagereturn_p1%[-]\nPhản đòn tầm xa +[00ff00]rangedamagereturn_p1%[-]	ChanggeSkill_03_buff	UI/Atlas/NewAtlas/Buff/Buff.prefab						
+4519	Giang Trục Nguyệt Thiên											Chính xác cơ bản [FF3030] giảm attackrate_p1%[-]\nBạo kích cơ bản [FF3030] giảm deadlystrike_p1%[-]	ChanggeSkill_02_buff	UI/Atlas/NewAtlas/Buff/Buff.prefab						
+4520	Giang Trục Nguyệt Thiên											Tấn công cơ bản +[00ff00]physics_potentialdamage_p1%[-]\nTốc đánh +[00ff00]attackspeed_v1[-]\nDi chuyển +[00ff00]runspeed_v1[-]	ChanggeSkill_02_buff	UI/Atlas/NewAtlas/Buff/Buff.prefab						
+4523	Dạ Dẫn Phong Lam											Né tránh cơ bản +[00ff00]defense_p1%[-]\nKháng thời gian thuộc tính +[00ff00]resist_allseriesstate_time_v1[-] điểm	Tangmen_bd07_buff	UI/Atlas/NewAtlas/Buff/Buff.prefab						
+4528	Ma Âm Triền Nhiễu	14528										Tấn công cơ bản [FF3030] giảm physics_potentialdamage_p1%[-]\nChính xác cơ bản [FF3030] giảm attackrate_p1%[-]\nBạo kích cơ bản [FF3030] giảm deadlystrike_p1%[-]\nKháng tất cả cơ bản [FF3030] giảm all_series_resist_p1%[-]	Changge_bd05_buff	UI/Atlas/NewAtlas/Buff/Buff.prefab						
+4542	Dương Xuân Bạch Tuyết	14542										Hiệu quả hồi phục vô hiệu	Changge_bd02_buff	UI/Atlas/NewAtlas/Buff/Buff.prefab						
+4572	Bình Sa Nhạn Lạc											Tấn công cơ bản [FF3030]giảm physics_potentialdamage_p1%[-]	Changge_bd02_buff	UI/Atlas/NewAtlas/Buff/Buff.prefab						
+4610	Ngân Bình Ngọc Toái					24610						Tấn công cơ bản [FF3030] giảm physics_potentialdamage_p1%[-]\nBị tấn công sẽ mất 1 tầng hiệu quả	TianshanSkill_03_buff	UI/Atlas/NewAtlas/Buff/Buff.prefab						
+4620	Phượng Thê Ngô Đồng											Tấn công cơ bản +[00ff00]physics_potentialdamage_p1%[-]	Tianshan_bd03_buff	UI/Atlas/NewAtlas/Buff/Buff.prefab						
+4624	Thủy Mộ Thiên Hoa											Bỏ qua tỉ lệ né tránh cuối của địch +[00ff00]ignore_defense_p1%[-]\nMiễn sát thương bạo kích +[00ff00]weaken_deadlystrike_damage_p1%[-]	Tianshan_bd04_buff	UI/Atlas/NewAtlas/Buff/Buff.prefab						
+4625	Thủy Mộ Thiên Hoa											Miễn sát thương bạo kích +[00ff00]weaken_deadlystrike_damage_p1%[-]	Tianshan_bd04_buff	UI/Atlas/NewAtlas/Buff/Buff.prefab						
+4627	Nghịch Thủy Hàn	14627										Hút sinh lực +[00ff00]steallife_p1%[-]\nKháng tất cả cơ bản +[00ff00]all_series_resist_p1%[-]\nGiải trừ và miễn dịch thuộc tính, hiệu quả bất lợi	Tianshan_bd07_buff	UI/Atlas/NewAtlas/Buff/Buff.prefab						
+4632	Không Sơn Ngưng Vân	24611										Tấn công cơ bản +[00ff00]physics_potentialdamage_p1%[-]\nTốc đánh +[00ff00]attackspeed_v1[-]\nBị tấn công sẽ mất 1 tầng hiệu quả	TianshanSkill_04_buff	UI/Atlas/NewAtlas/Buff/Buff.prefab						
+4650	Bí Kíp-Cao: Phi Yến Lăng Ba											Tỉ lệ bạo kích cơ bản +[00ff00]deadlystrike_p1%[-]	TianshanSkill_02_buff	UI/Atlas/NewAtlas/Buff/Buff.prefab						
+4652	Bí Kíp-Cao: Ngân Bình Ngọc Toái											Miễn sát thương bạo kích [FF3030] giảm weaken_deadlystrike_damage_p1%[-]	TianshanSkill_03_buff	UI/Atlas/NewAtlas/Buff/Buff.prefab						
+4655	Bí Kíp-Cao: Không Sơn Ngưng Vân											Giải trừ và miễn dịch bất lợi	TianshanSkill_04_buff	UI/Atlas/NewAtlas/Buff/Buff.prefab						
+4656	Bí Kíp-Sơ: Thủy Long Ngâm	14656										[00ff00]ignore_dmgskill1/100%[-] không nhận được một phần hiệu quả tăng ích	TianshanSkill_05_buff	UI/Atlas/NewAtlas/Buff/Buff.prefab						
+4706	Vận Hành_Thể hình tăng							150	3			Thể hình phóng to 50%	BUFF_zhuxiudan	UI/Atlas/NewAtlas/Buff/Buff.prefab						
+4707	Vận Hành_Tăng sát thương cuối											Tăng sát thương cuối +[00ff00]enhance_final_damage_p1%[-]	BUFF_zhuxiudan	UI/Atlas/NewAtlas/Buff/Buff.prefab						
+4708	Vận Hành_HP cơ bản											Sinh lực cơ bản tối đa +[00ff00]lifemax_p1%[-]	BUFF_zhuxiudan	UI/Atlas/NewAtlas/Buff/Buff.prefab						
+4709	Vận Hành_Sinh lực hiện tại											Sinh lực hiện tại +[00ff00]lifecurmax_p1%[-]	BUFF_zhuxiudan	UI/Atlas/NewAtlas/Buff/Buff.prefab						
+4710	Hiệu ứng mở khóa Môn Khách 1	4710																		
+4711	Hiệu ứng mở khóa Môn Khách 2	4711																		
+4712	Ngươi là heo à?							100	10			Khò khò...	PetPig	UI/Atlas/Item/Item/Item19.prefab						
+4713	Phóng to đến 120%							120	10											
+4714	Phóng to đến 140%							140	10											
+4715	Phóng to đến 160%							160	10											
+4716	Phóng to đến 180%							180	10											
+4717	Phóng to đến 200%							200	10											
+4718	Phóng to đến 220%							220	10											
+4719	Phóng to đến 240%							240	10											
+4720	Phóng to đến 260%							260	10											
+4721	Phóng to đến 280%							280	10											
+4722	Phóng to đến 300%							300	10											
+4723	Phóng to đến 320%							320	10											
+4724	Phóng to đến 340%							340	10											
+4725	Phóng to đến 360%							360	10											
+4726	Phóng to đến 380%							380	10											
+4727	Phóng to đến 400%							400	10											
+4728	Phóng to đến 420%							420	10											
+4729	Phóng to đến 440%							440	10											
+4730	Phóng to đến 460%							460	10											
+4731	Phóng to đến 480%							480	10											
+4732	Phóng to đến 500%							500	10											
+4751	Mứt Quả											Chua chua ngọt ngọt, rất ngon miệng	Toys_tanghulu	UI/Atlas/Item/Item/Item17.prefab						
+4752	Hiệu ứng Đầu Rồng	9298																		
+4753	Hiệu ứng Mình Rồng	9299																		
+4754	Hiệu ứng Đuôi Rồng	9300																		
+4808	Xung Mạch-U Môn	2849										Miễn dịch thuộc tính và hiệu quả bất lợi	buff_jingmai1	UI/Atlas/NewAtlas/Buff/Buff.prefab						
+4812	Âm Khiêu-Công Tôn	14812										Hiệu suất hồi sinh lực [FF3030]giảm lifereplenish_p1%[-]	jm_skill05	UI/Atlas/SkillIcon/MeridianSkill.prefab						
+4814	Dương Duy-Kim Môn	7367	1	7368	2							Bỏ qua kháng tính cơ bản +[00ff00]ignore_all_resist_vp1%[-]	jm_skill06	UI/Atlas/SkillIcon/MeridianSkill.prefab						
+4902	Vương Tọa	14902																		
+4903	Trụ Vô Địch	14903																		
+4905	Tâm Linh Hộ	14905										Đỡ sát thương +[00ff00]100%[-]	BUFF_zhuxiudan	UI/Atlas/NewAtlas/Buff/Buff.prefab						
+4906	Tiệc Bang Hội											Trong bản đồ Tiệc Bang Hội mỗi [00ff00]15[-] giây nhận EXP 1 lần, [00ff00]đoán đúng mỗi câu thành ngữ EXP nhận tăng gấp 1 lần[-]	Head_jh_zhuozi02	UI/Atlas/Home/HomeScreenAtlas2.prefab						
+4951	Chúc Phúc Thú Cưng											Sát thương quái +[00ff00]damage4npc_p1%[-]	Buff_dog	UI/Atlas/NewAtlas/Buff/Buff.prefab						
+4952	Chúc Phúc Thú Cưng											EXP đánh quái +[00ff00]enhance_exp_p1%[-]	Buff_dog	UI/Atlas/NewAtlas/Buff/Buff.prefab						
+4953	Chúc Phúc Thú Cưng											EXP đánh quái +[00ff00]enhance_exp_p1%[-]\nEXP đánh quái chia sẻ +[00ff00]userdesc_1011%[-]	Buff_dog	UI/Atlas/NewAtlas/Buff/Buff.prefab						
+4954	Chúc Phúc Thú Cưng											Bạc nhận +[00ff00]exp_coin_contrib2%[-]	Buff_dog	UI/Atlas/NewAtlas/Buff/Buff.prefab						
+4955	Chúc Phúc Thú Cưng											Bạc nhận +[00ff00]exp_coin_contrib2%[-]\nCống hiến nhận +[00ff00]exp_coin_contrib3%[-]	Buff_dog	UI/Atlas/NewAtlas/Buff/Buff.prefab						
+4956	Chúc Phúc Thú Cưng											Ngũ Hành nhược hóa +[00ff00]series_abate_v1[-]	Buff_dog	UI/Atlas/NewAtlas/Buff/Buff.prefab						
+4957	Chúc Phúc Thú Cưng											Ngũ Hành nhược hóa +[00ff00]series_abate_v1[-]\nNgũ Hành cường hóa +[00ff00]series_enhance_v1[-]	Buff_dog	UI/Atlas/NewAtlas/Buff/Buff.prefab						
+4958	Chúc Phúc Thú Cưng											Kháng tất cả cơ bản +[00ff00]all_series_resist_p1%[-]	Buff_dog	UI/Atlas/NewAtlas/Buff/Buff.prefab						
+4959	Chúc Phúc Thú Cưng											Kháng tất cả cơ bản +[00ff00]all_series_resist_p1%[-]\nHiệu suất hồi phục +[00ff00]lifereplenish_p1%[-]	Buff_dog	UI/Atlas/NewAtlas/Buff/Buff.prefab						
+4960	Chúc Phúc Thú Cưng											Sinh lực cơ bản tối đa +[00ff00]lifemax_p1%[-]	Buff_dog	UI/Atlas/NewAtlas/Buff/Buff.prefab						
+4961	Chúc Phúc Thú Cưng											Sinh lực cơ bản tối đa +[00ff00]lifemax_p1%[-]\nPhản đòn cận chiến +[00ff00]meleedamagereturn_p1%[-]\nPhản đòn tầm xa +[00ff00]rangedamagereturn_p1%[-]	Buff_dog	UI/Atlas/NewAtlas/Buff/Buff.prefab						
+4962	Chúc Phúc Thú Cưng											Tỉ lệ kháng thuộc tính +[00ff00]resist_allseriesstate_rate_v1[-]	Buff_dog	UI/Atlas/NewAtlas/Buff/Buff.prefab						
+4963	Chúc Phúc Thú Cưng											Tỉ lệ kháng thuộc tính +[00ff00]resist_allseriesstate_rate_v1[-]\nDi chuyển +[00ff00]runspeed_v1[-]	Buff_dog	UI/Atlas/NewAtlas/Buff/Buff.prefab						
+4964	Chúc Phúc Thú Cưng											Bỏ qua kháng tính cơ bản +[00ff00]ignore_all_resist_vp1%[-]	Buff_dog	UI/Atlas/NewAtlas/Buff/Buff.prefab						
+4965	Chúc Phúc Thú Cưng											Bỏ qua kháng tính cơ bản +[00ff00]ignore_all_resist_vp1%[-]\nHút sinh lực +[00ff00]steallife_p1%[-]	Buff_dog	UI/Atlas/NewAtlas/Buff/Buff.prefab						
+4966	Chúc Phúc Thú Cưng											Bỏ qua né tránh cơ bản +[00ff00]ignore_defense_vp1%[-]	Buff_dog	UI/Atlas/NewAtlas/Buff/Buff.prefab						
+4967	Chúc Phúc Thú Cưng											Bỏ qua né tránh cơ bản +[00ff00]ignore_defense_vp1%[-]\nTấn công cơ bản +[00ff00]physics_potentialdamage_p1%[-]	Buff_dog	UI/Atlas/NewAtlas/Buff/Buff.prefab						
+4968	Chúc Phúc Thú Cưng											Sát thương bạo kích +[00ff00]deadlystrike_damage_p1%[-]	Buff_dog	UI/Atlas/NewAtlas/Buff/Buff.prefab						
+4969	Chúc Phúc Thú Cưng											Sát thương bạo kích +[00ff00]deadlystrike_damage_p1%[-]\nTỉ lệ bạo kích cơ bản +[00ff00]deadlystrike_p1%[-]	Buff_dog	UI/Atlas/NewAtlas/Buff/Buff.prefab						
+4970	Chúc Phúc Thú Cưng											Tốc Đánh +[00ff00]attackspeed_v1[-]	Buff_dog	UI/Atlas/NewAtlas/Buff/Buff.prefab						
+4971	Chúc Phúc Thú Cưng											Tốc Đánh +[00ff00]attackspeed_v1[-]\nTỉ lệ thuộc tính +[00ff00]add_seriesstate_rate_v1[-]	Buff_dog	UI/Atlas/NewAtlas/Buff/Buff.prefab						
+5015	Dục Huyết Đạo Phong	25015						120	15			Miễn dịch thuộc tính\nMiễn dịch bất lợi\nSinh lực cơ bản tối đa +[00ff00]lifemax_p1%[-]\nTấn công cơ bản +[00ff00]physics_potentialdamage_p1%[-]\nMỗi [00ff00]2 giây[-] giảm chờ Hóa Huyết Kiếp Quang [00ff00]reduce_cd_time_point12/15[-] giây	BadaoSkill_05_buff	UI/Atlas/NewAtlas/Buff/Buff.prefab					5005	
+5019	Bĩ Cực Thái Lai	25006										Gần chết sẽ trừ [00ff00]1[-] tầng miễn tử, hồi [00ff00]dir_recover_life_pp1/100%[-] sinh lực tối đa, Vô Địch [00ff00]skill_statetime1/15[-] giây	Badao_bd02_buff	UI/Atlas/NewAtlas/Buff/Buff.prefab						
+5027	Tị Thực Tựu Hư											Kháng tất cả cơ bản [FF3030] giảm all_series_resist_p1%[-]	Badao_bd06_buff	UI/Atlas/NewAtlas/Buff/Buff.prefab						
+5033	Thừa Thắng Trục Bắc											Sát thương bạo kích +[00ff00]deadlystrike_damage_p1%[-]\nKháng tất cả cơ bản +[00ff00]all_series_resist_p1%[-]\nTốc đánh +[00ff00]attackspeed_v1[-]\nDi chuyển +[00ff00]runspeed_v1[-]	Badao_bd07_buff	UI/Atlas/NewAtlas/Buff/Buff.prefab						
+5035	Liên Hoàn Đao. Tấn công giảm											Tấn công cơ bản [FF3030]giảm physics_potentialdamage_p1%[-]	Badao_bd04_buff	UI/Atlas/NewAtlas/Buff/Buff.prefab						
+5036	Liên Hoàn Đao. Tấn công tăng											Tấn công cơ bản +[00ff00]physics_potentialdamage_p1%[-]	Badao_bd04_buff	UI/Atlas/NewAtlas/Buff/Buff.prefab						
+5052	Bí Kíp-Sơ: Hiệp Sơn Siêu Hải	2849										Miễn dịch thuộc tính	BadaoSkill_03_buff	UI/Atlas/NewAtlas/Buff/Buff.prefab						
+5053	Bí Kíp-Cao: Hiệp Sơn Siêu Hải	2849										Miễn dịch thuộc tính\nMiễn sát thương bạo kích +[00ff00]weaken_deadlystrike_damage_p1%[-]	BadaoSkill_03_buff	UI/Atlas/NewAtlas/Buff/Buff.prefab						
+5054	Bí Kíp-Sơ: Nghịch Huyết Tiệt Mạch	14432										Kháng tất cả cơ bản [FF3030]giảm all_series_resist_p1%[-]\nDi chuyển [FF3030] giảm runspeed_v1[-]	Badao_bd04_buff	UI/Atlas/NewAtlas/Buff/Buff.prefab						
+5056	Bí Kíp-Cao: Dục Huyết Đạo Phong	2416										[00ff00]Vô Địch[-]	Bd_mj04_buff	UI/Atlas/NewAtlas/Buff/Buff.prefab						
+5083	Dục Huyết Đạo Phong	25015						120	15											
+5100	Hủy sát thương											Triệt tiêu sát thương cuối +[00ff00]reduce_final_damage_p1%[-]	Bd_mj04_buff	UI/Atlas/NewAtlas/Buff/Buff.prefab						
+5102	Bom-Điểm Danh	1454																		
+5104	Ngũ Hành Hộ Thể_Kim	15104																		
+5105	Ngũ Hành Hộ Thể_Mộc	15105																		
+5106	Ngũ Hành Hộ Thể_Thủy	15106																		
+5107	Ngũ Hành Hộ Thể_Hỏa	15107																		
+5108	Ngũ Hành Hộ Thể_Thổ	15108																		
+5109	 phút					15109														
+5110	Hợp					15110														
+5111	Phản đòn cận chiến	2708																		
+5112	Phản đòn tầm xa	2708																		
+5113	Hấp Hồn											Tăng sát thương cuối +[00ff00]enhance_final_damage_p1%[-]	Bd_mj04_buff	UI/Atlas/NewAtlas/Buff/Buff.prefab						
+5114	Cuồng Bạo Phệ Huyết	1367										Tăng sát thương cuối +[00ff00]enhance_final_damage_p1%[-]	Bd_mj04_buff	UI/Atlas/NewAtlas/Buff/Buff.prefab						
+5135	Bùa Truyền Tống Vàng	15135																		
+5136	Bùa Truyền Tống Bạc	15136																		
+5137	Đỡ sát thương											Đỡ sát thương +[00ff00]defuse_damage2%[-]\n(Trong thời gian ngắn bị tấn công nhiều lần sẽ là trạng thái nhận khi trọng thương)	BUFF_zhuxiudan	UI/Atlas/NewAtlas/Buff/Buff.prefab						
+5144	Sĩ Khí Dâng Cao											Sinh lực cơ bản tối đa +[00ff00]lifemax_p1%[-]\nTấn công cơ bản +[00ff00]physics_potentialdamage_p1%[-]	BUFF_shiqigaozhang	UI/Atlas/NewAtlas/Buff/Buff.prefab						
+5218	Kiếm Ý											Hoa Sơn Kiếm Ý	HuashanSkill_04_buff	UI/Atlas/NewAtlas/Buff/Buff.prefab					5206	7
+5210	Thiên Thân Đảo Huyền	15210										Tấn công cơ bản [FF3030]giảm physics_potentialdamage_p1%[-]	HuashanSkill_03_buff	UI/Atlas/NewAtlas/Buff/Buff.prefab						
+5221	Phá Chiêu	15221										Phá giải mọi chiêu thức	Huashan_bd02_buff	UI/Atlas/NewAtlas/Buff/Buff.prefab						
+5234	Tử Hà Kiếm Khí											Tăng số lần sát thương của Phong Tống Tử Hà	HuashanSkill_05_buff	UI/Atlas/NewAtlas/Buff/Buff.prefab					5215	5
+5249	Bí Kíp-Trung: Tiêu Sử Thừa Long											Miễn dịch thuộc tính\nMiễn hiệu quả bất lợi	Hs_mj01_buff	UI/Atlas/NewAtlas/Buff/Buff.prefab						
+5251	Bí Kíp-Sơ: Triều Dương Kiếm Khí	14432										Di chuyển [FF3030] giảm runspeed_p1%[-]	Hs_mj02_buff	UI/Atlas/NewAtlas/Buff/Buff.prefab						
+5252	Bí Kíp-Trung: Triều Dương Kiếm Khí											Sát thương bạo kích +[00ff00]deadlystrike_damage_p1%[-]	Hs_mj02_buff	UI/Atlas/NewAtlas/Buff/Buff.prefab						
+5141	Đang Tịnh Tâm										|Blue_06|Blue_07|Blue_03									
+5142	Nhập Ma										|Red_01|Red_02									
+5359	Tuyệt Học: Hỏa Phượng Liêu Nguyên											Né tránh cơ bản +[00ff00]defense_p1%[-]	Taohua_jx01_buff	UI/Atlas/NewAtlas/Buff/Buff.prefab						
+5362	Tuyệt Học: Đại Lực Kim Cang Chỉ											Tấn công cơ bản +[00ff00]physics_potentialdamage_p1%[-]	Shaolin_jx01_buff	UI/Atlas/NewAtlas/Buff/Buff.prefab						
+5365	Tuyệt Học: Ngũ Độc Địch Pháp											Sát thương bạo kích +[00ff00]deadlystrike_damage_p1%[-]	Wudu_jx01_buff	UI/Atlas/NewAtlas/Buff/Buff.prefab						
+5366	Tuyệt Học: Ngọc Tuyền Ngư Dược											Sát thương bạo kích +[00ff00]deadlystrike_damage_p1%[-]\nMiễn sát thương bạo kích +[00ff00]weaken_deadlystrike_damage_p1%[-]	Cangjian_jx01_buff	UI/Atlas/NewAtlas/Buff/Buff.prefab						
+5367	Tuyệt Học: Dư Âm Nhiễu Lương											[00ff00]Thanh Âm Trường Khiếu[-] tấn công cơ bản tăng [00ff00]add_usebasedmg_p12%[-]	Changge_jx01_buff	UI/Atlas/NewAtlas/Buff/Buff.prefab					4511	
+5368	Tuyệt Học: Dư Âm Nhiễu Lương											[00ff00]Bình Sa Nhạn Lạc[-] tấn công cơ bản tăng [00ff00]add_usebasedmg_p22%[-]	Changge_jx01_buff	UI/Atlas/NewAtlas/Buff/Buff.prefab					4506	
+5370	Tuyệt Học: Huyết Chiến Bát Phương											[00ff00]Huyết Chiến Bát Phương[-] tấn công cơ bản tăng [00ff00]add_usebasedmg_p12%[-]	Tianwang_jx02_buff	UI/Atlas/NewAtlas/Buff/Buff.prefab						
+5371	Tuyệt Học: Bạch Lộ Ngưng Sương											Tấn công cơ bản +[00ff00]physics_potentialdamage_p1%[-]\nKháng sát thương cận chiến +[00ff00]melee_dmg_p1%[-]\nKháng sát thương tầm xa +[00ff00]remote_dmg_p1%[-]	Emei_jx02_buff	UI/Atlas/NewAtlas/Buff/Buff.prefab						
+5372	Tuyệt Học: Đào Hoa Tiễn Thuật											Tấn công cơ bản +[00ff00]physics_potentialdamage_p1%[-]\nNé tránh +[00ff00]defense_p1[-]	Taohua_jx02_buff	UI/Atlas/NewAtlas/Buff/Buff.prefab						
+5374	Tuyệt Học: Tọa Vọng Vô Ngã											Kháng sát thương cận chiến +[00ff00]melee_dmg_p1%[-]\nKháng sát thương tầm xa +[00ff00]remote_dmg_p1%[-]	Wudang_jx02_buff	UI/Atlas/NewAtlas/Buff/Buff.prefab						
+5377	Tuyệt Học: Băng Tâm Tuyết Liên											[8dccf7]<Thúy Yên Ngự Tản Quyết>[-] tấn công cơ bản +[00ff00]add_usebasedmg_p12%[-]	Cuiyan_jx02_buff	UI/Atlas/NewAtlas/Buff/Buff.prefab						
+5378	Tuyệt Học: Cửu Cung Phi Tinh											Sát thương bạo kích +[00ff00]deadlystrike_damage_p1%[-]\nTỉ lệ bạo kích cơ bản +[00ff00]deadlystrike_p1%[-]	Tangmen_jx02_buff	UI/Atlas/NewAtlas/Buff/Buff.prefab						
+5379	Tuyệt Học: Vô Ngã Vô Kiếm	14542										Hiệu quả hồi phục vô hiệu	Changge_bd02_buff	UI/Atlas/NewAtlas/Buff/Buff.prefab						
+5382	Tuyệt Học: Ánh Ba Tỏa Lan											Sinh lực cơ bản tối đa +[00ff00]lifemax_p1%[-]	Cangjian_jx02_buff	UI/Atlas/NewAtlas/Buff/Buff.prefab						
+5385	Tuyệt Học: Hiệp Sơn Siêu Hải											Kháng tất cả +[00ff00]all_series_resist_p1%[-]	Badao_jx02_buff	UI/Atlas/NewAtlas/Buff/Buff.prefab						
+5512	Hỏa Quang Tàn Ảnh									31		Di chuyển +[00ff00]runspeed_v1[-]\nNé tránh cơ bản +[00ff00]defense_p1%[-]	MingjiaoSkill_04_buff	UI/Atlas/NewAtlas/Buff/Buff.prefab						
+5517	Hủy Thiên Diệt Địa											Bay lên	MingjiaoSkill_05_buff	UI/Atlas/NewAtlas/Buff/Buff.prefab					5515	
+5528	Dẫn Hỏa Thiêu Thân											Bỏ qua kháng tính cuối +[00ff00]ignore_all_resist2%[-]\nBỏ qua kháng tính cơ bản +[00ff00]ignore_all_resist_vp1%[-]	Mingjiao_bd04_buff	UI/Atlas/NewAtlas/Buff/Buff.prefab						
+5529	Dẫn Hỏa Thiêu Thân											Bỏ qua kháng tính cơ bản +[00ff00]ignore_all_resist_vp1%[-]	Mingjiao_bd04_buff	UI/Atlas/NewAtlas/Buff/Buff.prefab						
+5531	Tinh Hỏa Liêu Nguyên											Miễn dịch thuộc tính\nMiễn hiệu quả bất lợi	Mingjiao_bd05_buff	UI/Atlas/NewAtlas/Buff/Buff.prefab						
+5535	Hỏa Vũ Lăng Thiên											Né tránh cơ bản +[00ff00]defense_p1%[-]\nTấn công cơ bản +[00ff00]physics_potentialdamage_p1%[-]	Mingjiao_bd07_buff	UI/Atlas/NewAtlas/Buff/Buff.prefab						
+5543	Bí kíp: Điện Quang Thạch Hỏa											Miễn dịch thuộc tính\nMiễn dịch hiệu quả bất lợi trừ đóng băng ra	Mj_mj04_buff	UI/Atlas/NewAtlas/Buff/Buff.prefab						
+5545	Bí kíp: Hỏa Quang Tàn Ảnh											Kháng tất cả cơ bản [FF3030]giảm all_series_resist_p1%[-]\nDi chuyển [FF3030]giảm runspeed_v1[-]	Mj_mj03	UI/Atlas/SkillIcon/MJ_Skill.prefab						
+5547	Bí kíp: Hỏa Quang Tàn Ảnh											Kháng tất cả cơ bản [FF3030]giảm all_series_resist_p1%[-]\nDi chuyển [FF3030]giảm runspeed_v1[-]\nTỉ lệ kháng thuộc tính [FF3030]giảm resist_allseriesstate_rate_v1[-]\nThời gian kháng thuộc tính [FF3030]giảm resist_allseriesstate_time_v1[-]\nTỉ lệ kháng bất lợi [FF3030]giảm resist_allspecialstate_rate_v1[-]\nTỉ lệ kháng bất lợi [FF3030]giảm resist_allspecialstate_time_v1[-]	Mj_mj03	UI/Atlas/SkillIcon/MJ_Skill.prefab						
+5551	Bí kíp: Hủy Thiên Diệt Địa											Miễn dịch thuộc tính\nMiễn hiệu quả bất lợi	Mj_mj02_buff	UI/Atlas/NewAtlas/Buff/Buff.prefab						
+5553	Bí kíp: Hủy Thiên Diệt Địa											Miễn dịch thuộc tính\nMiễn hiệu quả bất lợi\nSinh lực cơ bản tối đa +[00ff00]lifemax_p1%[-]	Mj_mj02_buff	UI/Atlas/NewAtlas/Buff/Buff.prefab						
+5560	Tuyệt học: Hỏa Quang Tàn Ảnh											Miễn sát thương bạo kích [FF3030]giảm weaken_deadlystrike_damage_p1%[-]\nBỏ qua né tránh cơ bản [FF3030]giảm ignore_defense_vp1%[-]	Mingjiao_jx01	UI/Atlas/SkillIcon/LostKnowledge.prefab						
+5562	Tuyệt học: Bất Diệt Quang											Tỉ lệ bạo kích cơ bản +[00ff00]deadlystrike_p1%[-]	Mingjiao_jx02_buff	UI/Atlas/NewAtlas/Buff/Buff.prefab						
+5389	Huy Duệ Sinh Phong	15389										Tốc đánh +[00ff00]attackspeed_v1[-]\nDi chuyển +[00ff00]runspeed_v1[-]	Tongyong_jx02_buff	UI/Atlas/NewAtlas/Buff/Buff.prefab						
+5390	Huy Duệ Sinh Phong	15389										Tốc đánh +[00ff00]attackspeed_v1[-]	Tongyong_jx02_buff	UI/Atlas/NewAtlas/Buff/Buff.prefab						
+5626	Thủy Long Ngục	35626										Bị giam trong Thủy Long Ngục	DuanShiSkill_05_buff	UI/Atlas/NewAtlas/Buff/Buff.prefab						
+5638	Họa Địa Vi Lao											Tấn công cơ bản +[00ff00]physics_potentialdamage_p1%[-]\nHiệu suất hồi sinh lực +[00ff00]lifereplenish_p1%[-]	DuanShi_bd04_buff	UI/Atlas/NewAtlas/Buff/Buff.prefab						
+5639	Họa Địa Vi Lao											Phản đòn cận chiến +[00ff00]meleedamagereturn_p1%[-]\nPhản đòn tầm xa +[00ff00]rangedamagereturn_p1%[-]\nTốc đánh +[00ff00]attackspeed_v1[-]\nDi chuyển +[00ff00]runspeed_v1[-]	DuanShi_bd04_buff	UI/Atlas/NewAtlas/Buff/Buff.prefab						
+5640	Họa Địa Vi Lao	1008										Tốc đánh +[00ff00]attackspeed_v1[-]\nDi chuyển +[00ff00]runspeed_v1[-]	DuanShi_bd04_buff	UI/Atlas/NewAtlas/Buff/Buff.prefab						
+5647	Bắc Minh Thần Công											Tấn công cơ bản [FF3030]giảm physics_potentialdamage_p1%[-]	DuanShi_bd07_buff	UI/Atlas/NewAtlas/Buff/Buff.prefab						
+5648	Bắc Minh Thần Công											Công thường kích hoạt sát thương vòng băng	DuanShi_bd07_buff	UI/Atlas/NewAtlas/Buff/Buff.prefab					5601	
+5657	Bí Kíp: Ngũ La Khinh Yên	1008										Tốc đánh +[00ff00]attackspeed_v1[-]\nDi chuyển +[00ff00]runspeed_v1[-]	DuanShiSkill_03_buff	UI/Atlas/NewAtlas/Buff/Buff.prefab						
+5666	Bí Kíp: Thủy Long Ngục											Di chuyển [FF3030]giảm runspeed_v1[-]\nMiễn sát thương bạo kích [FF3030]giảm weaken_deadlystrike_damage_p1%[-]	DuanShiSkill_05_buff	UI/Atlas/NewAtlas/Buff/Buff.prefab						
+5667	Bí Kíp: Thủy Long Ngục											Sinh lực hiện tại +[00ff00]lifecurmax_p1%[-]	DuanShiSkill_05_buff	UI/Atlas/NewAtlas/Buff/Buff.prefab						
+5668	Bí Kíp: Thủy Long Ngục											Di chuyển [FF3030]giảm runspeed_v1[-]\nMiễn sát thương bạo kích [FF3030]giảm weaken_deadlystrike_damage_p1%[-]\nNé tránh cơ bản [FF3030]giảm defense_p1%[-]	DuanShiSkill_05_buff	UI/Atlas/NewAtlas/Buff/Buff.prefab						
+5675	Tuyệt Học: Ngũ La Khinh Yên											Mỗi 1m công thường tấn công cơ bản +[00ff00]add_adddmgbydist2/10%[-]	DuanShi_jx03_buff	UI/Atlas/NewAtlas/Buff/Buff.prefab						
+5715	Siêu Quần Thể Kim Cang_Phụ 2											Mỗi giây hồi phục sinh lực [00ff00]Thể chất*vitality_recover_life1%[-]\nấn công cơ bản +[00ff00]physics_potentialdamage_p1%[-]	chaoqunjingang	UI/Atlas/NewAtlas/CompanionSkill/CompanionSkill_02.prefab						
+5717	Siêu Quần Thể Minh Vương_Phụ	1504										Miễn dịch thuộc tính\nMiễn hiệu quả bất lợi\nNé tránh +[00ff00]defense_v1[-]\nSát thương bạo kích +[00ff00]deadlystrike_damage_p1%[-]	chaoqunmingwang	UI/Atlas/NewAtlas/CompanionSkill/CompanionSkill_02.prefab						
+5725	Bách Niệm Cự Diệt_Khuyếch đại tổn thương	15725										Tăng sát thương cuối [FF3030]enhance_final_damage_p1%[-]	bainianjumie	UI/Atlas/NewAtlas/CompanionSkill/CompanionSkill_02.prefab						
+5727	Quần Thể Sương Độc Chướng_Tử	927										Hiệu quả hồi phục vô hiệu\nHiệu quả hộ thuẫn [FF3030]-50%[-]\nKháng tất cả [FF3030]all_series_resist_v1[-]\nTriệt tiêu sát thương cuối [FF3030]reduce_final_damage_p1%[-]	dulongewu	UI/Atlas/NewAtlas/CompanionSkill/CompanionSkill_02.prefab						
+5728	Khải Minh Chi Giáp					15728						Mỗi lần tấn công có [00ff00]ignore_invincible_rate2%[-] tỉ lệ Kim Cang Hộ Thể	chuanjiapokai	UI/Atlas/NewAtlas/CompanionSkill/CompanionSkill_02.prefab						
+5729	Đoạn Cấp					15729						Kháng hút sinh lực +[00ff00]steallife_resist_p1%[-]	duanji	UI/Atlas/NewAtlas/CompanionSkill/CompanionSkill_02.prefab						
+5730	Đoạn Cấp_Người					15729						Kháng hút sinh lực +[00ff00]steallife_resist_p1%[-]	duanji	UI/Atlas/NewAtlas/CompanionSkill/CompanionSkill_02.prefab						
+5806	Vũ Bút Lộng Mặc					35806						Múa bút làm mực	WanHuaSkill_01_buff	UI/Atlas/NewAtlas/Buff/Buff.prefab						
+5813	Hội Hổ Điểm Tình											Vẽ hổ vẽ rồng điểm mắt	WanHuaSkill_05_buff	UI/Atlas/NewAtlas/Buff/Buff.prefab						
+5832	Mặc Thủ Thành Quy											Bảo thủ không chịu thay đổi	WanHua_bd02_buff	UI/Atlas/NewAtlas/Buff/Buff.prefab						
+5833	Mặc Thủ Thành Quy (Hộ Thuẫn)	613										Tổng chống cự tổn thương điểm số: [00ff00]t_magicshield1[-]	WanHua_bd02_buff	UI/Atlas/NewAtlas/Buff/Buff.prefab						
+5838	Dữ Hổ Thiêm Dực											Cùng hổ thêm cánh điệp gia số tầng	WanHua_bd04_buff	UI/Atlas/NewAtlas/Buff/Buff.prefab					5839	5
+5840	Dữ Hổ Thiêm Dực											Cự hình thủy mặc hổ tiếp tục thời gian 	WanHua_bd04_buff	UI/Atlas/NewAtlas/Buff/Buff.prefab						
+5847	Hổ Khiếu Sơn Lâm											Miễn dịch thuộc tính hiệu quả\nMiễn dịch mặt trái hiệu quả\nHấp thụ sinh mệnh+[00ff00]steallife_p1%[-]	WanHua_bd05_buff	UI/Atlas/NewAtlas/Buff/Buff.prefab						
+5851	Mặc Nhiễm Thất Sắc											Cơ sở lực công kích+[00ff00]physics_potentialdamage_p1%[-]	WanHua_bd07_buff	UI/Atlas/NewAtlas/Buff/Buff.prefab						
+5852	Mặc Nhiễm Thất Sắc											Hồi phục hiệu suất[FF3030] Giảm xuống lifereplenish_p1%[-]	WanHua_bd07_buff	UI/Atlas/NewAtlas/Buff/Buff.prefab						
+5856	Bí Kíp: Chấp Dĩnh Điểm Mặc											Cơ sở toàn hệ kháng tính[FF3030] Giảm xuống all_series_resist_p1%[-]	Kl_mj01_buff	UI/Atlas/NewAtlas/Buff/Buff.prefab						
+5875	Tuyệt Học: Mặc Thủ Thành Quy											Cận trình tổn thương kháng tính+[00ff00]melee_dmg_p1%[-]\nViễn trình tổn thương kháng tính +[00ff00]remote_dmg_p1%[-]	Tangmen_bd06_buff	UI/Atlas/NewAtlas/Buff/Buff.prefab						
+5876	Bí Kíp: Chấp Dĩnh Điểm Mặc											Hiểu ý tổn thương+[00ff00]deadlystrike_damage_p1%[-]	WanHuaSkill_01_buff	UI/Atlas/NewAtlas/Buff/Buff.prefab						
+10000	EXP đánh quái											EXP đánh quái: +[00ff00]enhance_exp_p1%[-]	BUFF_xiulianzhu	UI/Atlas/NewAtlas/Buff/Buff.prefab						

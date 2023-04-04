@@ -1,0 +1,421 @@
+TemplateId	Name	Kind	ItemType	BigIcon	CDType	ClassName	DetailType	Icon	Intro	ItemValue	Level	ObjID	Price	Quality	RequireLevel	Sellable	Stack	ExtParam1	ExtParam2	ExtParam3	ExtParam4	ExtParam5	ExtParam6	ExtParam7	ExtParam8	ExtParam9	ExtParam10
+9338	Bùa Tẩy Luyện Vũ Khí Bậc 7	Refine_T7_Weapon_Q1	36	8530		RefineStone	1	8530		500000	7	7	500000	3	80	1	1	1	18								
+8920	Bùa Tẩy Luyện Vũ Khí Bậc 8	Refine_T8_Weapon_Q1	36	8530		RefineStone	1	8530		750000	8	7	750000	3	90	1	1	1	21								
+8921	Bùa Tẩy Luyện Vũ Khí Bậc 9	Refine_T9_Weapon_Q1	36	8530		RefineStone	1	8530		950000	9	7	950000	3	100	1	1	1	24								
+8922	Bùa Tẩy Luyện Vũ Khí Bậc 10	Refine_T10_Weapon_Q1	36	8530		RefineStone	1	8530		1350000	10	7	1350000	3	110	1	1	1	27								
+8923	Bùa Tẩy Luyện Vũ Khí Bậc 11	Refine_T11_Weapon_Q1	36	8530		RefineStone	1	8530		1900000	11	7	1900000	3	120	1	1	1	30								
+8924	Bùa Tẩy Luyện Vũ Khí Bậc 12	Refine_T12_Weapon_Q1	36	8530		RefineStone	1	8530		2350000	12	7	2350000	3	130	1	1	1	33								
+8925	Bùa Tẩy Luyện Vũ Khí Bậc 13	Refine_T13_Weapon_Q1	36	8530		RefineStone	1	8530		2700000	13	7	2700000	3	140	1	1	1	36								
+8926	Bùa Tẩy Luyện Vũ Khí Bậc 14	Refine_T14_Weapon_Q1	36	8530		RefineStone	1	8530		3000000	14	7	3000000	3	150	1	1	1	39								
+8927	Bùa Tẩy Luyện Vũ Khí Bậc 15	Refine_T15_Weapon_Q1	36	8530		RefineStone	1	8530		3600000	15	7	3600000	3	160	1	1	1	42								
+8928	Bùa Tẩy Luyện Vũ Khí Bậc 16	Refine_T16_Weapon_Q1	36	8530		RefineStone	1	8530		3850000	16	7	3850000	3	170	1	1	1	45								
+8929	Bùa Tẩy Luyện Vũ Khí Bậc 17	Refine_T17_Weapon_Q1	36	8530		RefineStone	1	8530		4200000	17	7	4200000	3	180	1	1	1	48								
+8930	Bùa Tẩy Luyện Vũ Khí Bậc 18	Refine_T18_Weapon_Q1	36	8530		RefineStone	1	8530		3000000	18	7	3000000	3	190	1	1	1	51								
+8931	Bùa Tẩy Luyện Vũ Khí Bậc 19	Refine_T19_Weapon_Q1	36	8530		RefineStone	1	8530		3000000	19	7	3000000	3	200	1	1	1	54								
+8932	Bùa Tẩy Luyện Vũ Khí Bậc 20	Refine_T20_Weapon_Q1	36	8530		RefineStone	1	8530		3000000	20	7	3000000	3	210	1	1	1	57								
+9339	Bùa Tẩy Luyện Dây Chuyền Bậc 7	Refine_T7_Necklace_Q1	36	8543		RefineStone	1	8543		200000	7	7	200000	3	82	1	1	4	18								
+8933	Bùa Tẩy Luyện Dây Chuyền Bậc 8	Refine_T8_Necklace_Q1	36	8543		RefineStone	1	8543		300000	8	7	300000	3	92	1	1	4	21								
+8934	Bùa Tẩy Luyện Dây Chuyền Bậc 9	Refine_T9_Necklace_Q1	36	8543		RefineStone	1	8543		380000	9	7	380000	3	102	1	1	4	24								
+8935	Bùa Tẩy Luyện Dây Chuyền Bậc 10	Refine_T10_Necklace_Q1	36	8543		RefineStone	1	8543		540000	10	7	540000	3	112	1	1	4	27								
+8936	Bùa Tẩy Luyện Dây Chuyền Bậc 11	Refine_T11_Necklace_Q1	36	8543		RefineStone	1	8543		760000	11	7	760000	3	122	1	1	4	30								
+8937	Bùa Tẩy Luyện Dây Chuyền Bậc 12	Refine_T12_Necklace_Q1	36	8543		RefineStone	1	8543		940000	12	7	940000	3	132	1	1	4	33								
+8938	Bùa Tẩy Luyện Dây Chuyền Bậc 13	Refine_T13_Necklace_Q1	36	8543		RefineStone	1	8543		1080000	13	7	1080000	3	142	1	1	4	36								
+8939	Bùa Tẩy Luyện Dây Chuyền Bậc 14	Refine_T14_Necklace_Q1	36	8543		RefineStone	1	8543		1200000	14	7	1200000	3	152	1	1	4	39								
+8940	Bùa Tẩy Luyện Dây Chuyền Bậc 15	Refine_T15_Necklace_Q1	36	8543		RefineStone	1	8543		1440000	15	7	1440000	3	162	1	1	4	42								
+8941	Bùa Tẩy Luyện Dây Chuyền Bậc 16	Refine_T16_Necklace_Q1	36	8543		RefineStone	1	8543		1540000	16	7	1540000	3	172	1	1	4	45								
+8942	Bùa Tẩy Luyện Dây Chuyền Bậc 17	Refine_T17_Necklace_Q1	36	8543		RefineStone	1	8543		1680000	17	7	1680000	3	182	1	1	4	48								
+8943	Bùa Tẩy Luyện Dây Chuyền Bậc 18	Refine_T18_Necklace_Q1	36	8543		RefineStone	1	8543		1200000	18	7	1200000	3	192	1	1	4	51								
+8944	Bùa Tẩy Luyện Dây Chuyền Bậc 19	Refine_T19_Necklace_Q1	36	8543		RefineStone	1	8543		1200000	19	7	1200000	3	202	1	1	4	54								
+8945	Bùa Tẩy Luyện Dây Chuyền Bậc 20	Refine_T20_Necklace_Q1	36	8543		RefineStone	1	8543		1200000	20	7	1200000	3	212	1	1	4	57								
+9340	Bùa Tẩy Luyện Nhẫn Bậc 7	Refine_T7_Ring_Q1	36	8556		RefineStone	1	8556		200000	7	7	200000	3	84	1	1	3	18								
+8946	Bùa Tẩy Luyện Nhẫn Bậc 8	Refine_T8_Ring_Q1	36	8556		RefineStone	1	8556		300000	8	7	300000	3	94	1	1	3	21								
+8947	Bùa Tẩy Luyện Nhẫn Bậc 9	Refine_T9_Ring_Q1	36	8556		RefineStone	1	8556		380000	9	7	380000	3	104	1	1	3	24								
+8948	Bùa Tẩy Luyện Nhẫn Bậc 10	Refine_T10_Ring_Q1	36	8556		RefineStone	1	8556		540000	10	7	540000	3	114	1	1	3	27								
+8949	Bùa Tẩy Luyện Nhẫn Bậc 11	Refine_T11_Ring_Q1	36	8556		RefineStone	1	8556		760000	11	7	760000	3	124	1	1	3	30								
+8950	Bùa Tẩy Luyện Nhẫn Bậc 12	Refine_T12_Ring_Q1	36	8556		RefineStone	1	8556		940000	12	7	940000	3	134	1	1	3	33								
+8951	Bùa Tẩy Luyện Nhẫn Bậc 13	Refine_T13_Ring_Q1	36	8556		RefineStone	1	8556		1080000	13	7	1080000	3	144	1	1	3	36								
+8952	Bùa Tẩy Luyện Nhẫn Bậc 14	Refine_T14_Ring_Q1	36	8556		RefineStone	1	8556		1200000	14	7	1200000	3	154	1	1	3	39								
+8953	Bùa Tẩy Luyện Nhẫn Bậc 15	Refine_T15_Ring_Q1	36	8556		RefineStone	1	8556		1440000	15	7	1440000	3	164	1	1	3	42								
+8954	Bùa Tẩy Luyện Nhẫn Bậc 16	Refine_T16_Ring_Q1	36	8556		RefineStone	1	8556		1540000	16	7	1540000	3	174	1	1	3	45								
+8955	Bùa Tẩy Luyện Nhẫn Bậc 17	Refine_T17_Ring_Q1	36	8556		RefineStone	1	8556		1680000	17	7	1680000	3	184	1	1	3	48								
+8956	Bùa Tẩy Luyện Nhẫn Bậc 18	Refine_T18_Ring_Q1	36	8556		RefineStone	1	8556		1200000	18	7	1200000	3	194	1	1	3	51								
+8957	Bùa Tẩy Luyện Nhẫn Bậc 19	Refine_T19_Ring_Q1	36	8556		RefineStone	1	8556		1200000	19	7	1200000	3	204	1	1	3	54								
+8958	Bùa Tẩy Luyện Nhẫn Bậc 20	Refine_T20_Ring_Q1	36	8556		RefineStone	1	8556		1200000	20	7	1200000	3	214	1	1	3	57								
+9341	Bùa Tẩy Luyện Ngọc Bội Bậc 7	Refine_T7_Pendant_Q1	36	8569		RefineStone	1	8569		200000	7	7	200000	3	86	1	1	10	18								
+8959	Bùa Tẩy Luyện Ngọc Bội Bậc 8	Refine_T8_Pendant_Q1	36	8569		RefineStone	1	8569		300000	8	7	300000	3	96	1	1	10	21								
+8960	Bùa Tẩy Luyện Ngọc Bội Bậc 9	Refine_T9_Pendant_Q1	36	8569		RefineStone	1	8569		380000	9	7	380000	3	106	1	1	10	24								
+8961	Bùa Tẩy Luyện Ngọc Bội Bậc 10	Refine_T10_Pendant_Q1	36	8569		RefineStone	1	8569		540000	10	7	540000	3	116	1	1	10	27								
+8962	Bùa Tẩy Luyện Ngọc Bội Bậc 11	Refine_T11_Pendant_Q1	36	8569		RefineStone	1	8569		760000	11	7	760000	3	126	1	1	10	30								
+8963	Bùa Tẩy Luyện Ngọc Bội Bậc 12	Refine_T12_Pendant_Q1	36	8569		RefineStone	1	8569		940000	12	7	940000	3	136	1	1	10	33								
+8964	Bùa Tẩy Luyện Ngọc Bội Bậc 13	Refine_T13_Pendant_Q1	36	8569		RefineStone	1	8569		1080000	13	7	1080000	3	146	1	1	10	36								
+8965	Bùa Tẩy Luyện Ngọc Bội Bậc 14	Refine_T14_Pendant_Q1	36	8569		RefineStone	1	8569		1200000	14	7	1200000	3	156	1	1	10	39								
+8966	Bùa Tẩy Luyện Ngọc Bội Bậc 15	Refine_T15_Pendant_Q1	36	8569		RefineStone	1	8569		1440000	15	7	1440000	3	166	1	1	10	42								
+8967	Bùa Tẩy Luyện Ngọc Bội Bậc 16	Refine_T16_Pendant_Q1	36	8569		RefineStone	1	8569		1540000	16	7	1540000	3	176	1	1	10	45								
+8968	Bùa Tẩy Luyện Ngọc Bội Bậc 17	Refine_T17_Pendant_Q1	36	8569		RefineStone	1	8569		1680000	17	7	1680000	3	186	1	1	10	48								
+8969	Bùa Tẩy Luyện Ngọc Bội Bậc 18	Refine_T18_Pendant_Q1	36	8569		RefineStone	1	8569		1200000	18	7	1200000	3	196	1	1	10	51								
+8970	Bùa Tẩy Luyện Ngọc Bội Bậc 19	Refine_T19_Pendant_Q1	36	8569		RefineStone	1	8569		1200000	19	7	1200000	3	206	1	1	10	54								
+8971	Bùa Tẩy Luyện Ngọc Bội Bậc 20	Refine_T20_Pendant_Q1	36	8569		RefineStone	1	8569		1200000	20	7	1200000	3	216	1	1	10	57								
+9342	Bùa Tẩy Luyện Hộ Thân Phù Bậc 7	Refine_T7_Amulet_Q1	36	8582		RefineStone	1	8582		200000	7	7	200000	3	88	1	1	5	18								
+8972	Bùa Tẩy Luyện Hộ Thân Phù Bậc 8	Refine_T8_Amulet_Q1	36	8582		RefineStone	1	8582		300000	8	7	300000	3	98	1	1	5	21								
+8973	Bùa Tẩy Luyện Hộ Thân Phù Bậc 9	Refine_T9_Amulet_Q1	36	8582		RefineStone	1	8582		380000	9	7	380000	3	108	1	1	5	24								
+8974	Bùa Tẩy Luyện Hộ Thân Phù Bậc 10	Refine_T10_Amulet_Q1	36	8582		RefineStone	1	8582		540000	10	7	540000	3	118	1	1	5	27								
+8975	Bùa Tẩy Luyện Hộ Thân Phù Bậc 11	Refine_T11_Amulet_Q1	36	8582		RefineStone	1	8582		760000	11	7	760000	3	128	1	1	5	30								
+8976	Bùa Tẩy Luyện Hộ Thân Phù Bậc 12	Refine_T12_Amulet_Q1	36	8582		RefineStone	1	8582		940000	12	7	940000	3	138	1	1	5	33								
+8977	Bùa Tẩy Luyện Hộ Thân Phù Bậc 13	Refine_T13_Amulet_Q1	36	8582		RefineStone	1	8582		1080000	13	7	1080000	3	148	1	1	5	36								
+8978	Bùa Tẩy Luyện Hộ Thân Phù Bậc 14	Refine_T14_Amulet_Q1	36	8582		RefineStone	1	8582		1200000	14	7	1200000	3	158	1	1	5	39								
+8979	Bùa Tẩy Luyện Hộ Thân Phù Bậc 15	Refine_T15_Amulet_Q1	36	8582		RefineStone	1	8582		1440000	15	7	1440000	3	168	1	1	5	42								
+8980	Bùa Tẩy Luyện Hộ Thân Phù Bậc 16	Refine_T16_Amulet_Q1	36	8582		RefineStone	1	8582		1540000	16	7	1540000	3	178	1	1	5	45								
+8981	Bùa Tẩy Luyện Hộ Thân Phù Bậc 17	Refine_T17_Amulet_Q1	36	8582		RefineStone	1	8582		1680000	17	7	1680000	3	188	1	1	5	48								
+8982	Bùa Tẩy Luyện Hộ Thân Phù Bậc 18	Refine_T18_Amulet_Q1	36	8582		RefineStone	1	8582		1200000	18	7	1200000	3	198	1	1	5	51								
+8983	Bùa Tẩy Luyện Hộ Thân Phù Bậc 19	Refine_T19_Amulet_Q1	36	8582		RefineStone	1	8582		1200000	19	7	1200000	3	208	1	1	5	54								
+8984	Bùa Tẩy Luyện Hộ Thân Phù Bậc 20	Refine_T20_Amulet_Q1	36	8582		RefineStone	1	8582		1200000	20	7	1200000	3	218	1	1	5	57								
+9343	Bùa Tẩy Luyện Nón Bậc 7	Refine_T7_Helm_Q1	36	8595		RefineStone	1	8595		100000	7	7	100000	3	81	1	1	8	18								
+8985	Bùa Tẩy Luyện Nón Bậc 8	Refine_T8_Helm_Q1	36	8595		RefineStone	1	8595		150000	8	7	150000	3	91	1	1	8	21								
+8986	Bùa Tẩy Luyện Nón Bậc 9	Refine_T9_Helm_Q1	36	8595		RefineStone	1	8595		190000	9	7	190000	3	101	1	1	8	24								
+8987	Bùa Tẩy Luyện Nón Bậc 10	Refine_T10_Helm_Q1	36	8595		RefineStone	1	8595		270000	10	7	270000	3	111	1	1	8	27								
+8988	Bùa Tẩy Luyện Nón Bậc 11	Refine_T11_Helm_Q1	36	8595		RefineStone	1	8595		380000	11	7	380000	3	121	1	1	8	30								
+8989	Bùa Tẩy Luyện Nón Bậc 12	Refine_T12_Helm_Q1	36	8595		RefineStone	1	8595		470000	12	7	470000	3	131	1	1	8	33								
+8990	Bùa Tẩy Luyện Nón Bậc 13	Refine_T13_Helm_Q1	36	8595		RefineStone	1	8595		540000	13	7	540000	3	141	1	1	8	36								
+8991	Bùa Tẩy Luyện Nón Bậc 14	Refine_T14_Helm_Q1	36	8595		RefineStone	1	8595		600000	14	7	600000	3	151	1	1	8	39								
+8992	Bùa Tẩy Luyện Nón Bậc 15	Refine_T15_Helm_Q1	36	8595		RefineStone	1	8595		720000	15	7	720000	3	161	1	1	8	42								
+8993	Bùa Tẩy Luyện Nón Bậc 16	Refine_T16_Helm_Q1	36	8595		RefineStone	1	8595		770000	16	7	770000	3	171	1	1	8	45								
+8994	Bùa Tẩy Luyện Nón Bậc 17	Refine_T17_Helm_Q1	36	8595		RefineStone	1	8595		840000	17	7	840000	3	181	1	1	8	48								
+8995	Bùa Tẩy Luyện Nón Bậc 18	Refine_T18_Helm_Q1	36	8595		RefineStone	1	8595		600000	18	7	600000	3	191	1	1	8	51								
+8996	Bùa Tẩy Luyện Nón Bậc 19	Refine_T19_Helm_Q1	36	8595		RefineStone	1	8595		600000	19	7	600000	3	201	1	1	8	54								
+8997	Bùa Tẩy Luyện Nón Bậc 20	Refine_T20_Helm_Q1	36	8595		RefineStone	1	8595		600000	20	7	600000	3	211	1	1	8	57								
+9344	Bùa Tẩy Luyện Áo Bậc 7	Refine_T7_Armor_Q1	36	8608		RefineStone	1	8608		300000	7	7	300000	3	85	1	1	2	18								
+8998	Bùa Tẩy Luyện Áo Bậc 8	Refine_T8_Armor_Q1	36	8608		RefineStone	1	8608		450000	8	7	450000	3	95	1	1	2	21								
+8999	Bùa Tẩy Luyện Áo Bậc 9	Refine_T9_Armor_Q1	36	8608		RefineStone	1	8608		570000	9	7	570000	3	105	1	1	2	24								
+9000	Bùa Tẩy Luyện Áo Bậc 10	Refine_T10_Armor_Q1	36	8608		RefineStone	1	8608		810000	10	7	810000	3	115	1	1	2	27								
+9001	Bùa Tẩy Luyện Áo Bậc 11	Refine_T11_Armor_Q1	36	8608		RefineStone	1	8608		1140000	11	7	1140000	3	125	1	1	2	30								
+9002	Bùa Tẩy Luyện Áo Bậc 12	Refine_T12_Armor_Q1	36	8608		RefineStone	1	8608		1410000	12	7	1410000	3	135	1	1	2	33								
+9003	Bùa Tẩy Luyện Áo Bậc 13	Refine_T13_Armor_Q1	36	8608		RefineStone	1	8608		1620000	13	7	1620000	3	145	1	1	2	36								
+9004	Bùa Tẩy Luyện Áo Bậc 14	Refine_T14_Armor_Q1	36	8608		RefineStone	1	8608		1800000	14	7	1800000	3	155	1	1	2	39								
+9005	Bùa Tẩy Luyện Áo Bậc 15	Refine_T15_Armor_Q1	36	8608		RefineStone	1	8608		2160000	15	7	2160000	3	165	1	1	2	42								
+9006	Bùa Tẩy Luyện Áo Bậc 16	Refine_T16_Armor_Q1	36	8608		RefineStone	1	8608		2310000	16	7	2310000	3	175	1	1	2	45								
+9007	Bùa Tẩy Luyện Áo Bậc 17	Refine_T17_Armor_Q1	36	8608		RefineStone	1	8608		2520000	17	7	2520000	3	185	1	1	2	48								
+9008	Bùa Tẩy Luyện Áo Bậc 18	Refine_T18_Armor_Q1	36	8608		RefineStone	1	8608		1800000	18	7	1800000	3	195	1	1	2	51								
+9009	Bùa Tẩy Luyện Áo Bậc 19	Refine_T19_Armor_Q1	36	8608		RefineStone	1	8608		1800000	19	7	1800000	3	205	1	1	2	54								
+9010	Bùa Tẩy Luyện Áo Bậc 20	Refine_T20_Armor_Q1	36	8608		RefineStone	1	8608		1800000	20	7	1800000	3	215	1	1	2	57								
+9345	Bùa Tẩy Luyện Hộ Uyển Bậc 7	Refine_T7_Cuff_Q1	36	8621		RefineStone	1	8621		100000	7	7	100000	3	83	1	1	9	18								
+9011	Bùa Tẩy Luyện Hộ Uyển Bậc 8	Refine_T8_Cuff_Q1	36	8621		RefineStone	1	8621		150000	8	7	150000	3	93	1	1	9	21								
+9012	Bùa Tẩy Luyện Hộ Uyển Bậc 9	Refine_T9_Cuff_Q1	36	8621		RefineStone	1	8621		190000	9	7	190000	3	103	1	1	9	24								
+9013	Bùa Tẩy Luyện Hộ Uyển Bậc 10	Refine_T10_Cuff_Q1	36	8621		RefineStone	1	8621		270000	10	7	270000	3	113	1	1	9	27								
+9014	Bùa Tẩy Luyện Hộ Uyển Bậc 11	Refine_T11_Cuff_Q1	36	8621		RefineStone	1	8621		380000	11	7	380000	3	123	1	1	9	30								
+9015	Bùa Tẩy Luyện Hộ Uyển Bậc 12	Refine_T12_Cuff_Q1	36	8621		RefineStone	1	8621		470000	12	7	470000	3	133	1	1	9	33								
+9016	Bùa Tẩy Luyện Hộ Uyển Bậc 13	Refine_T13_Cuff_Q1	36	8621		RefineStone	1	8621		540000	13	7	540000	3	143	1	1	9	36								
+9017	Bùa Tẩy Luyện Hộ Uyển Bậc 14	Refine_T14_Cuff_Q1	36	8621		RefineStone	1	8621		600000	14	7	600000	3	153	1	1	9	39								
+9018	Bùa Tẩy Luyện Hộ Uyển Bậc 15	Refine_T15_Cuff_Q1	36	8621		RefineStone	1	8621		720000	15	7	720000	3	163	1	1	9	42								
+9019	Bùa Tẩy Luyện Hộ Uyển Bậc 16	Refine_T16_Cuff_Q1	36	8621		RefineStone	1	8621		770000	16	7	770000	3	173	1	1	9	45								
+9020	Bùa Tẩy Luyện Hộ Uyển Bậc 17	Refine_T17_Cuff_Q1	36	8621		RefineStone	1	8621		840000	17	7	840000	3	183	1	1	9	48								
+9021	Bùa Tẩy Luyện Hộ Uyển Bậc 18	Refine_T18_Cuff_Q1	36	8621		RefineStone	1	8621		600000	18	7	600000	3	193	1	1	9	51								
+9022	Bùa Tẩy Luyện Hộ Uyển Bậc 19	Refine_T19_Cuff_Q1	36	8621		RefineStone	1	8621		600000	19	7	600000	3	203	1	1	9	54								
+9023	Bùa Tẩy Luyện Hộ Uyển Bậc 20	Refine_T20_Cuff_Q1	36	8621		RefineStone	1	8621		600000	20	7	600000	3	213	1	1	9	57								
+9346	Bùa Tẩy Luyện Đai Bậc 7	Refine_T7_Belt_Q1	36	8634		RefineStone	1	8634		100000	7	7	100000	3	87	1	1	7	18								
+9024	Bùa Tẩy Luyện Đai Bậc 8	Refine_T8_Belt_Q1	36	8634		RefineStone	1	8634		150000	8	7	150000	3	97	1	1	7	21								
+9025	Bùa Tẩy Luyện Đai Bậc 9	Refine_T9_Belt_Q1	36	8634		RefineStone	1	8634		190000	9	7	190000	3	107	1	1	7	24								
+9026	Bùa Tẩy Luyện Đai Bậc 10	Refine_T10_Belt_Q1	36	8634		RefineStone	1	8634		270000	10	7	270000	3	117	1	1	7	27								
+9027	Bùa Tẩy Luyện Đai Bậc 11	Refine_T11_Belt_Q1	36	8634		RefineStone	1	8634		380000	11	7	380000	3	127	1	1	7	30								
+9028	Bùa Tẩy Luyện Đai Bậc 12	Refine_T12_Belt_Q1	36	8634		RefineStone	1	8634		470000	12	7	470000	3	137	1	1	7	33								
+9029	Bùa Tẩy Luyện Đai Bậc 13	Refine_T13_Belt_Q1	36	8634		RefineStone	1	8634		540000	13	7	540000	3	147	1	1	7	36								
+9030	Bùa Tẩy Luyện Đai Bậc 14	Refine_T14_Belt_Q1	36	8634		RefineStone	1	8634		600000	14	7	600000	3	157	1	1	7	39								
+9031	Bùa Tẩy Luyện Đai Bậc 15	Refine_T15_Belt_Q1	36	8634		RefineStone	1	8634		720000	15	7	720000	3	167	1	1	7	42								
+9032	Bùa Tẩy Luyện Đai Bậc 16	Refine_T16_Belt_Q1	36	8634		RefineStone	1	8634		770000	16	7	770000	3	177	1	1	7	45								
+9033	Bùa Tẩy Luyện Đai Bậc 17	Refine_T17_Belt_Q1	36	8634		RefineStone	1	8634		840000	17	7	840000	3	187	1	1	7	48								
+9034	Bùa Tẩy Luyện Đai Bậc 18	Refine_T18_Belt_Q1	36	8634		RefineStone	1	8634		600000	18	7	600000	3	197	1	1	7	51								
+9035	Bùa Tẩy Luyện Đai Bậc 19	Refine_T19_Belt_Q1	36	8634		RefineStone	1	8634		600000	19	7	600000	3	207	1	1	7	54								
+9036	Bùa Tẩy Luyện Đai Bậc 20	Refine_T20_Belt_Q1	36	8634		RefineStone	1	8634		600000	20	7	600000	3	217	1	1	7	57								
+9347	Bùa Tẩy Luyện Giày Bậc 7	Refine_T7_Boots_Q1	36	8647		RefineStone	1	8647		100000	7	7	100000	3	89	1	1	6	18								
+9037	Bùa Tẩy Luyện Giày Bậc 8	Refine_T8_Boots_Q1	36	8647		RefineStone	1	8647		150000	8	7	150000	3	99	1	1	6	21								
+9038	Bùa Tẩy Luyện Giày Bậc 9	Refine_T9_Boots_Q1	36	8647		RefineStone	1	8647		190000	9	7	190000	3	109	1	1	6	24								
+9039	Bùa Tẩy Luyện Giày Bậc 10	Refine_T10_Boots_Q1	36	8647		RefineStone	1	8647		270000	10	7	270000	3	119	1	1	6	27								
+9040	Bùa Tẩy Luyện Giày Bậc 11	Refine_T11_Boots_Q1	36	8647		RefineStone	1	8647		380000	11	7	380000	3	129	1	1	6	30								
+9041	Bùa Tẩy Luyện Giày Bậc 12	Refine_T12_Boots_Q1	36	8647		RefineStone	1	8647		470000	12	7	470000	3	139	1	1	6	33								
+9042	Bùa Tẩy Luyện Giày Bậc 13	Refine_T13_Boots_Q1	36	8647		RefineStone	1	8647		540000	13	7	540000	3	149	1	1	6	36								
+9043	Bùa Tẩy Luyện Giày Bậc 14	Refine_T14_Boots_Q1	36	8647		RefineStone	1	8647		600000	14	7	600000	3	159	1	1	6	39								
+9044	Bùa Tẩy Luyện Giày Bậc 15	Refine_T15_Boots_Q1	36	8647		RefineStone	1	8647		720000	15	7	720000	3	169	1	1	6	42								
+9045	Bùa Tẩy Luyện Giày Bậc 16	Refine_T16_Boots_Q1	36	8647		RefineStone	1	8647		770000	16	7	770000	3	179	1	1	6	45								
+9046	Bùa Tẩy Luyện Giày Bậc 17	Refine_T17_Boots_Q1	36	8647		RefineStone	1	8647		840000	17	7	840000	3	189	1	1	6	48								
+9047	Bùa Tẩy Luyện Giày Bậc 18	Refine_T18_Boots_Q1	36	8647		RefineStone	1	8647		600000	18	7	600000	3	199	1	1	6	51								
+9048	Bùa Tẩy Luyện Giày Bậc 19	Refine_T19_Boots_Q1	36	8647		RefineStone	1	8647		600000	19	7	600000	3	209	1	1	6	54								
+9049	Bùa Tẩy Luyện Giày Bậc 20	Refine_T20_Boots_Q1	36	8647		RefineStone	1	8647		600000	20	7	600000	3	219	1	1	6	57								
+9348	【Kế Thừa】Bùa Tẩy Luyện Vũ Khí Bậc 7	Refine_T7_Weapon_Q2	36	9378		RefineStone	3	9378		800000	7	7	800000	4	80	1	1	1	20								
+9050	【Kế Thừa】Bùa Tẩy Luyện Vũ Khí Bậc 8	Refine_T8_Weapon_Q2	36	9378		RefineStone	3	9378		1200000	8	7	1200000	4	90	1	1	1	23								
+9051	【Kế Thừa】Bùa Tẩy Luyện Vũ Khí Bậc 9	Refine_T9_Weapon_Q2	36	9378		RefineStone	3	9378		1600000	9	7	1600000	4	100	1	1	1	26								
+9052	【Kế Thừa】Bùa Tẩy Luyện Vũ Khí Bậc 10	Refine_T10_Weapon_Q2	36	9378		RefineStone	3	9378		2150000	10	7	2150000	4	110	1	1	1	29								
+9053	【Kế Thừa】Bùa Tẩy Luyện Vũ Khí Bậc 11	Refine_T11_Weapon_Q2	36	9378		RefineStone	3	9378		2850000	11	7	2850000	4	120	1	1	1	32								
+9054	【Kế Thừa】Bùa Tẩy Luyện Vũ Khí Bậc 12	Refine_T12_Weapon_Q2	36	9378		RefineStone	3	9378		3450000	12	7	3450000	4	130	1	1	1	35								
+9055	【Kế Thừa】Bùa Tẩy Luyện Vũ Khí Bậc 13	Refine_T13_Weapon_Q2	36	9378		RefineStone	3	9378		3950000	13	7	3950000	4	140	1	1	1	38								
+9056	【Kế Thừa】Bùa Tẩy Luyện Vũ Khí Bậc 14	Refine_T14_Weapon_Q2	36	9378		RefineStone	3	9378		4350000	14	7	4350000	4	150	1	1	1	41								
+9057	【Kế Thừa】Bùa Tẩy Luyện Vũ Khí Bậc 15	Refine_T15_Weapon_Q2	36	9378		RefineStone	3	9378		4800000	15	7	4800000	4	160	1	1	1	44								
+9058	【Kế Thừa】Bùa Tẩy Luyện Vũ Khí Bậc 16	Refine_T16_Weapon_Q2	36	9378		RefineStone	3	9378		5300000	16	7	5300000	4	170	1	1	1	47								
+9059	【Kế Thừa】Bùa Tẩy Luyện Vũ Khí Bậc 17	Refine_T17_Weapon_Q2	36	9378		RefineStone	3	9378		5800000	17	7	5800000	4	180	1	1	1	50								
+9060	【Kế Thừa】Bùa Tẩy Luyện Vũ Khí Bậc 18	Refine_T18_Weapon_Q2	36	9378		RefineStone	3	9378		4350000	18	7	4350000	4	190	1	1	1	53								
+9061	【Kế Thừa】Bùa Tẩy Luyện Vũ Khí Bậc 19	Refine_T19_Weapon_Q2	36	9378		RefineStone	3	9378		4350000	19	7	4350000	4	200	1	1	1	56								
+9062	【Kế Thừa】Bùa Tẩy Luyện Vũ Khí Bậc 20	Refine_T20_Weapon_Q2	36	9378		RefineStone	3	9378		4350000	20	7	4350000	4	210	1	1	1	59								
+9349	【Kế Thừa】Bùa Tẩy Luyện Dây Chuyền Bậc 7	Refine_T7_Necklace_Q2	36	9379		RefineStone	3	9379		320000	7	7	320000	4	82	1	1	4	20								
+9063	【Kế Thừa】Bùa Tẩy Luyện Dây Chuyền Bậc 8	Refine_T8_Necklace_Q2	36	9379		RefineStone	3	9379		480000	8	7	480000	4	92	1	1	4	23								
+9064	【Kế Thừa】Bùa Tẩy Luyện Dây Chuyền Bậc 9	Refine_T9_Necklace_Q2	36	9379		RefineStone	3	9379		640000	9	7	640000	4	102	1	1	4	26								
+9065	【Kế Thừa】Bùa Tẩy Luyện Dây Chuyền Bậc 10	Refine_T10_Necklace_Q2	36	9379		RefineStone	3	9379		860000	10	7	860000	4	112	1	1	4	29								
+9066	【Kế Thừa】Bùa Tẩy Luyện Dây Chuyền Bậc 11	Refine_T11_Necklace_Q2	36	9379		RefineStone	3	9379		1140000	11	7	1140000	4	122	1	1	4	32								
+9067	【Kế Thừa】Bùa Tẩy Luyện Dây Chuyền Bậc 12	Refine_T12_Necklace_Q2	36	9379		RefineStone	3	9379		1380000	12	7	1380000	4	132	1	1	4	35								
+9068	【Kế Thừa】Bùa Tẩy Luyện Dây Chuyền Bậc 13	Refine_T13_Necklace_Q2	36	9379		RefineStone	3	9379		1580000	13	7	1580000	4	142	1	1	4	38								
+9069	【Kế Thừa】Bùa Tẩy Luyện Dây Chuyền Bậc 14	Refine_T14_Necklace_Q2	36	9379		RefineStone	3	9379		1740000	14	7	1740000	4	152	1	1	4	41								
+9070	【Kế Thừa】Bùa Tẩy Luyện Dây Chuyền Bậc 15	Refine_T15_Necklace_Q2	36	9379		RefineStone	3	9379		1920000	15	7	1920000	4	162	1	1	4	44								
+9071	【Kế Thừa】Bùa Tẩy Luyện Dây Chuyền Bậc 16	Refine_T16_Necklace_Q2	36	9379		RefineStone	3	9379		2120000	16	7	2120000	4	172	1	1	4	47								
+9072	【Kế Thừa】Bùa Tẩy Luyện Dây Chuyền Bậc 17	Refine_T17_Necklace_Q2	36	9379		RefineStone	3	9379		2320000	17	7	2320000	4	182	1	1	4	50								
+9073	【Kế Thừa】Bùa Tẩy Luyện Dây Chuyền Bậc 18	Refine_T18_Necklace_Q2	36	9379		RefineStone	3	9379		1740000	18	7	1740000	4	192	1	1	4	53								
+9074	【Kế Thừa】Bùa Tẩy Luyện Dây Chuyền Bậc 19	Refine_T19_Necklace_Q2	36	9379		RefineStone	3	9379		1740000	19	7	1740000	4	202	1	1	4	56								
+9075	【Kế Thừa】Bùa Tẩy Luyện Dây Chuyền Bậc 20	Refine_T20_Necklace_Q2	36	9379		RefineStone	3	9379		1740000	20	7	1740000	4	212	1	1	4	59								
+9350	【Kế Thừa】Bùa Tẩy Luyện Nhẫn Bậc 7	Refine_T7_Ring_Q2	36	9380		RefineStone	3	9380		320000	7	7	320000	4	84	1	1	3	20								
+9076	【Kế Thừa】Bùa Tẩy Luyện Nhẫn Bậc 8	Refine_T8_Ring_Q2	36	9380		RefineStone	3	9380		480000	8	7	480000	4	94	1	1	3	23								
+9077	【Kế Thừa】Bùa Tẩy Luyện Nhẫn Bậc 9	Refine_T9_Ring_Q2	36	9380		RefineStone	3	9380		640000	9	7	640000	4	104	1	1	3	26								
+9078	【Kế Thừa】Bùa Tẩy Luyện Nhẫn Bậc 10	Refine_T10_Ring_Q2	36	9380		RefineStone	3	9380		860000	10	7	860000	4	114	1	1	3	29								
+9079	【Kế Thừa】Bùa Tẩy Luyện Nhẫn Bậc 11	Refine_T11_Ring_Q2	36	9380		RefineStone	3	9380		1140000	11	7	1140000	4	124	1	1	3	32								
+9080	【Kế Thừa】Bùa Tẩy Luyện Nhẫn Bậc 12	Refine_T12_Ring_Q2	36	9380		RefineStone	3	9380		1380000	12	7	1380000	4	134	1	1	3	35								
+9081	【Kế Thừa】Bùa Tẩy Luyện Nhẫn Bậc 13	Refine_T13_Ring_Q2	36	9380		RefineStone	3	9380		1580000	13	7	1580000	4	144	1	1	3	38								
+9082	【Kế Thừa】Bùa Tẩy Luyện Nhẫn Bậc 14	Refine_T14_Ring_Q2	36	9380		RefineStone	3	9380		1740000	14	7	1740000	4	154	1	1	3	41								
+9083	【Kế Thừa】Bùa Tẩy Luyện Nhẫn Bậc 15	Refine_T15_Ring_Q2	36	9380		RefineStone	3	9380		1920000	15	7	1920000	4	164	1	1	3	44								
+9084	【Kế Thừa】Bùa Tẩy Luyện Nhẫn Bậc 16	Refine_T16_Ring_Q2	36	9380		RefineStone	3	9380		2120000	16	7	2120000	4	174	1	1	3	47								
+9085	【Kế Thừa】Bùa Tẩy Luyện Nhẫn Bậc 17	Refine_T17_Ring_Q2	36	9380		RefineStone	3	9380		2320000	17	7	2320000	4	184	1	1	3	50								
+9086	【Kế Thừa】Bùa Tẩy Luyện Nhẫn Bậc 18	Refine_T18_Ring_Q2	36	9380		RefineStone	3	9380		1740000	18	7	1740000	4	194	1	1	3	53								
+9087	【Kế Thừa】Bùa Tẩy Luyện Nhẫn Bậc 19	Refine_T19_Ring_Q2	36	9380		RefineStone	3	9380		1740000	19	7	1740000	4	204	1	1	3	56								
+9088	【Kế Thừa】Bùa Tẩy Luyện Nhẫn Bậc 20	Refine_T20_Ring_Q2	36	9380		RefineStone	3	9380		1740000	20	7	1740000	4	214	1	1	3	59								
+9351	【Kế Thừa】Bùa Tẩy Luyện Ngọc Bội Bậc 7	Refine_T7_Pendant_Q2	36	9381		RefineStone	3	9381		320000	7	7	320000	4	86	1	1	10	20								
+9089	【Kế Thừa】Bùa Tẩy Luyện Ngọc Bội Bậc 8	Refine_T8_Pendant_Q2	36	9381		RefineStone	3	9381		480000	8	7	480000	4	96	1	1	10	23								
+9090	【Kế Thừa】Bùa Tẩy Luyện Ngọc Bội Bậc 9	Refine_T9_Pendant_Q2	36	9381		RefineStone	3	9381		640000	9	7	640000	4	106	1	1	10	26								
+9091	【Kế Thừa】Bùa Tẩy Luyện Ngọc Bội Bậc 10	Refine_T10_Pendant_Q2	36	9381		RefineStone	3	9381		860000	10	7	860000	4	116	1	1	10	29								
+9092	【Kế Thừa】Bùa Tẩy Luyện Ngọc Bội Bậc 11	Refine_T11_Pendant_Q2	36	9381		RefineStone	3	9381		1140000	11	7	1140000	4	126	1	1	10	32								
+9093	【Kế Thừa】Bùa Tẩy Luyện Ngọc Bội Bậc 12	Refine_T12_Pendant_Q2	36	9381		RefineStone	3	9381		1380000	12	7	1380000	4	136	1	1	10	35								
+9094	【Kế Thừa】Bùa Tẩy Luyện Ngọc Bội Bậc 13	Refine_T13_Pendant_Q2	36	9381		RefineStone	3	9381		1580000	13	7	1580000	4	146	1	1	10	38								
+9095	【Kế Thừa】Bùa Tẩy Luyện Ngọc Bội Bậc 14	Refine_T14_Pendant_Q2	36	9381		RefineStone	3	9381		1740000	14	7	1740000	4	156	1	1	10	41								
+9096	【Kế Thừa】Bùa Tẩy Luyện Ngọc Bội Bậc 15	Refine_T15_Pendant_Q2	36	9381		RefineStone	3	9381		1920000	15	7	1920000	4	166	1	1	10	44								
+9097	【Kế Thừa】Bùa Tẩy Luyện Ngọc Bội Bậc 16	Refine_T16_Pendant_Q2	36	9381		RefineStone	3	9381		2120000	16	7	2120000	4	176	1	1	10	47								
+9098	【Kế Thừa】Bùa Tẩy Luyện Ngọc Bội Bậc 17	Refine_T17_Pendant_Q2	36	9381		RefineStone	3	9381		2320000	17	7	2320000	4	186	1	1	10	50								
+9099	【Kế Thừa】Bùa Tẩy Luyện Ngọc Bội Bậc 18	Refine_T18_Pendant_Q2	36	9381		RefineStone	3	9381		1740000	18	7	1740000	4	196	1	1	10	53								
+9100	【Kế Thừa】Bùa Tẩy Luyện Ngọc Bội Bậc 19	Refine_T19_Pendant_Q2	36	9381		RefineStone	3	9381		1740000	19	7	1740000	4	206	1	1	10	56								
+9101	【Kế Thừa】Bùa Tẩy Luyện Ngọc Bội Bậc 20	Refine_T20_Pendant_Q2	36	9381		RefineStone	3	9381		1740000	20	7	1740000	4	216	1	1	10	59								
+9352	【Kế Thừa】Bùa Tẩy Luyện Hộ Thân Phù Bậc 7	Refine_T7_Amulet_Q2	36	9382		RefineStone	3	9382		320000	7	7	320000	4	88	1	1	5	20								
+9102	【Kế Thừa】Bùa Tẩy Luyện Hộ Thân Phù Bậc 8	Refine_T8_Amulet_Q2	36	9382		RefineStone	3	9382		480000	8	7	480000	4	98	1	1	5	23								
+9103	【Kế Thừa】Bùa Tẩy Luyện Hộ Thân Phù Bậc 9	Refine_T9_Amulet_Q2	36	9382		RefineStone	3	9382		640000	9	7	640000	4	108	1	1	5	26								
+9104	【Kế Thừa】Bùa Tẩy Luyện Hộ Thân Phù Bậc 10	Refine_T10_Amulet_Q2	36	9382		RefineStone	3	9382		860000	10	7	860000	4	118	1	1	5	29								
+9105	【Kế Thừa】Bùa Tẩy Luyện Hộ Thân Phù Bậc 11	Refine_T11_Amulet_Q2	36	9382		RefineStone	3	9382		1140000	11	7	1140000	4	128	1	1	5	32								
+9106	【Kế Thừa】Bùa Tẩy Luyện Hộ Thân Phù Bậc 12	Refine_T12_Amulet_Q2	36	9382		RefineStone	3	9382		1380000	12	7	1380000	4	138	1	1	5	35								
+9107	【Kế Thừa】Bùa Tẩy Luyện Hộ Thân Phù Bậc 13	Refine_T13_Amulet_Q2	36	9382		RefineStone	3	9382		1580000	13	7	1580000	4	148	1	1	5	38								
+9108	【Kế Thừa】Bùa Tẩy Luyện Hộ Thân Phù Bậc 14	Refine_T14_Amulet_Q2	36	9382		RefineStone	3	9382		1740000	14	7	1740000	4	158	1	1	5	41								
+9109	【Kế Thừa】Bùa Tẩy Luyện Hộ Thân Phù Bậc 15	Refine_T15_Amulet_Q2	36	9382		RefineStone	3	9382		1920000	15	7	1920000	4	168	1	1	5	44								
+9110	【Kế Thừa】Bùa Tẩy Luyện Hộ Thân Phù Bậc 16	Refine_T16_Amulet_Q2	36	9382		RefineStone	3	9382		2120000	16	7	2120000	4	178	1	1	5	47								
+9111	【Kế Thừa】Bùa Tẩy Luyện Hộ Thân Phù Bậc 17	Refine_T17_Amulet_Q2	36	9382		RefineStone	3	9382		2320000	17	7	2320000	4	188	1	1	5	50								
+9112	【Kế Thừa】Bùa Tẩy Luyện Hộ Thân Phù Bậc 18	Refine_T18_Amulet_Q2	36	9382		RefineStone	3	9382		1740000	18	7	1740000	4	198	1	1	5	53								
+9113	【Kế Thừa】Bùa Tẩy Luyện Hộ Thân Phù Bậc 19	Refine_T19_Amulet_Q2	36	9382		RefineStone	3	9382		1740000	19	7	1740000	4	208	1	1	5	56								
+9114	【Kế Thừa】Bùa Tẩy Luyện Hộ Thân Phù Bậc 20	Refine_T20_Amulet_Q2	36	9382		RefineStone	3	9382		1740000	20	7	1740000	4	218	1	1	5	59								
+9353	【Kế Thừa】Bùa Tẩy Luyện Nón Bậc 7	Refine_T7_Helm_Q2	36	9383		RefineStone	3	9383		160000	7	7	160000	4	81	1	1	8	20								
+9115	【Kế Thừa】Bùa Tẩy Luyện Nón Bậc 8	Refine_T8_Helm_Q2	36	9383		RefineStone	3	9383		240000	8	7	240000	4	91	1	1	8	23								
+9116	【Kế Thừa】Bùa Tẩy Luyện Nón Bậc 9	Refine_T9_Helm_Q2	36	9383		RefineStone	3	9383		320000	9	7	320000	4	101	1	1	8	26								
+9117	【Kế Thừa】Bùa Tẩy Luyện Nón Bậc 10	Refine_T10_Helm_Q2	36	9383		RefineStone	3	9383		430000	10	7	430000	4	111	1	1	8	29								
+9118	【Kế Thừa】Bùa Tẩy Luyện Nón Bậc 11	Refine_T11_Helm_Q2	36	9383		RefineStone	3	9383		570000	11	7	570000	4	121	1	1	8	32								
+9119	【Kế Thừa】Bùa Tẩy Luyện Nón Bậc 12	Refine_T12_Helm_Q2	36	9383		RefineStone	3	9383		690000	12	7	690000	4	131	1	1	8	35								
+9120	【Kế Thừa】Bùa Tẩy Luyện Nón Bậc 13	Refine_T13_Helm_Q2	36	9383		RefineStone	3	9383		790000	13	7	790000	4	141	1	1	8	38								
+9121	【Kế Thừa】Bùa Tẩy Luyện Nón Bậc 14	Refine_T14_Helm_Q2	36	9383		RefineStone	3	9383		870000	14	7	870000	4	151	1	1	8	41								
+9122	【Kế Thừa】Bùa Tẩy Luyện Nón Bậc 15	Refine_T15_Helm_Q2	36	9383		RefineStone	3	9383		960000	15	7	960000	4	161	1	1	8	44								
+9123	【Kế Thừa】Bùa Tẩy Luyện Nón Bậc 16	Refine_T16_Helm_Q2	36	9383		RefineStone	3	9383		1060000	16	7	1060000	4	171	1	1	8	47								
+9124	【Kế Thừa】Bùa Tẩy Luyện Nón Bậc 17	Refine_T17_Helm_Q2	36	9383		RefineStone	3	9383		1160000	17	7	1160000	4	181	1	1	8	50								
+9125	【Kế Thừa】Bùa Tẩy Luyện Nón Bậc 18	Refine_T18_Helm_Q2	36	9383		RefineStone	3	9383		870000	18	7	870000	4	191	1	1	8	53								
+9126	【Kế Thừa】Bùa Tẩy Luyện Nón Bậc 19	Refine_T19_Helm_Q2	36	9383		RefineStone	3	9383		870000	19	7	870000	4	201	1	1	8	56								
+9127	【Kế Thừa】Bùa Tẩy Luyện Nón Bậc 20	Refine_T20_Helm_Q2	36	9383		RefineStone	3	9383		870000	20	7	870000	4	211	1	1	8	59								
+9354	【Kế Thừa】Bùa Tẩy Luyện Áo Bậc 7	Refine_T7_Armor_Q2	36	9384		RefineStone	3	9384		480000	7	7	480000	4	85	1	1	2	20								
+9128	【Kế Thừa】Bùa Tẩy Luyện Áo Bậc 8	Refine_T8_Armor_Q2	36	9384		RefineStone	3	9384		720000	8	7	720000	4	95	1	1	2	23								
+9129	【Kế Thừa】Bùa Tẩy Luyện Áo Bậc 9	Refine_T9_Armor_Q2	36	9384		RefineStone	3	9384		960000	9	7	960000	4	105	1	1	2	26								
+9130	【Kế Thừa】Bùa Tẩy Luyện Áo Bậc 10	Refine_T10_Armor_Q2	36	9384		RefineStone	3	9384		1290000	10	7	1290000	4	115	1	1	2	29								
+9131	【Kế Thừa】Bùa Tẩy Luyện Áo Bậc 11	Refine_T11_Armor_Q2	36	9384		RefineStone	3	9384		1710000	11	7	1710000	4	125	1	1	2	32								
+9132	【Kế Thừa】Bùa Tẩy Luyện Áo Bậc 12	Refine_T12_Armor_Q2	36	9384		RefineStone	3	9384		2070000	12	7	2070000	4	135	1	1	2	35								
+9133	【Kế Thừa】Bùa Tẩy Luyện Áo Bậc 13	Refine_T13_Armor_Q2	36	9384		RefineStone	3	9384		2370000	13	7	2370000	4	145	1	1	2	38								
+9134	【Kế Thừa】Bùa Tẩy Luyện Áo Bậc 14	Refine_T14_Armor_Q2	36	9384		RefineStone	3	9384		2610000	14	7	2610000	4	155	1	1	2	41								
+9135	【Kế Thừa】Bùa Tẩy Luyện Áo Bậc 15	Refine_T15_Armor_Q2	36	9384		RefineStone	3	9384		2880000	15	7	2880000	4	165	1	1	2	44								
+9136	【Kế Thừa】Bùa Tẩy Luyện Áo Bậc 16	Refine_T16_Armor_Q2	36	9384		RefineStone	3	9384		3180000	16	7	3180000	4	175	1	1	2	47								
+9137	【Kế Thừa】Bùa Tẩy Luyện Áo Bậc 17	Refine_T17_Armor_Q2	36	9384		RefineStone	3	9384		3480000	17	7	3480000	4	185	1	1	2	50								
+9138	【Kế Thừa】Bùa Tẩy Luyện Áo Bậc 18	Refine_T18_Armor_Q2	36	9384		RefineStone	3	9384		2610000	18	7	2610000	4	195	1	1	2	53								
+9139	【Kế Thừa】Bùa Tẩy Luyện Áo Bậc 19	Refine_T19_Armor_Q2	36	9384		RefineStone	3	9384		2610000	19	7	2610000	4	205	1	1	2	56								
+9140	【Kế Thừa】Bùa Tẩy Luyện Áo Bậc 20	Refine_T20_Armor_Q2	36	9384		RefineStone	3	9384		2610000	20	7	2610000	4	215	1	1	2	59								
+9355	【Kế Thừa】Bùa Tẩy Luyện Hộ Uyển Bậc 7	Refine_T7_Cuff_Q2	36	9385		RefineStone	3	9385		160000	7	7	160000	4	83	1	1	9	20								
+9141	【Kế Thừa】Bùa Tẩy Luyện Hộ Uyển Bậc 8	Refine_T8_Cuff_Q2	36	9385		RefineStone	3	9385		240000	8	7	240000	4	93	1	1	9	23								
+9142	【Kế Thừa】Bùa Tẩy Luyện Hộ Uyển Bậc 9	Refine_T9_Cuff_Q2	36	9385		RefineStone	3	9385		320000	9	7	320000	4	103	1	1	9	26								
+9143	【Kế Thừa】Bùa Tẩy Luyện Hộ Uyển Bậc 10	Refine_T10_Cuff_Q2	36	9385		RefineStone	3	9385		430000	10	7	430000	4	113	1	1	9	29								
+9144	【Kế Thừa】Bùa Tẩy Luyện Hộ Uyển Bậc 11	Refine_T11_Cuff_Q2	36	9385		RefineStone	3	9385		570000	11	7	570000	4	123	1	1	9	32								
+9145	【Kế Thừa】Bùa Tẩy Luyện Hộ Uyển Bậc 12	Refine_T12_Cuff_Q2	36	9385		RefineStone	3	9385		690000	12	7	690000	4	133	1	1	9	35								
+9146	【Kế Thừa】Bùa Tẩy Luyện Hộ Uyển Bậc 13	Refine_T13_Cuff_Q2	36	9385		RefineStone	3	9385		790000	13	7	790000	4	143	1	1	9	38								
+9147	【Kế Thừa】Bùa Tẩy Luyện Hộ Uyển Bậc 14	Refine_T14_Cuff_Q2	36	9385		RefineStone	3	9385		870000	14	7	870000	4	153	1	1	9	41								
+9148	【Kế Thừa】Bùa Tẩy Luyện Hộ Uyển Bậc 15	Refine_T15_Cuff_Q2	36	9385		RefineStone	3	9385		960000	15	7	960000	4	163	1	1	9	44								
+9149	【Kế Thừa】Bùa Tẩy Luyện Hộ Uyển Bậc 16	Refine_T16_Cuff_Q2	36	9385		RefineStone	3	9385		1060000	16	7	1060000	4	173	1	1	9	47								
+9150	【Kế Thừa】Bùa Tẩy Luyện Hộ Uyển Bậc 17	Refine_T17_Cuff_Q2	36	9385		RefineStone	3	9385		1160000	17	7	1160000	4	183	1	1	9	50								
+9151	【Kế Thừa】Bùa Tẩy Luyện Hộ Uyển Bậc 18	Refine_T18_Cuff_Q2	36	9385		RefineStone	3	9385		870000	18	7	870000	4	193	1	1	9	53								
+9152	【Kế Thừa】Bùa Tẩy Luyện Hộ Uyển Bậc 19	Refine_T19_Cuff_Q2	36	9385		RefineStone	3	9385		870000	19	7	870000	4	203	1	1	9	56								
+9153	【Kế Thừa】Bùa Tẩy Luyện Hộ Uyển Bậc 20	Refine_T20_Cuff_Q2	36	9385		RefineStone	3	9385		870000	20	7	870000	4	213	1	1	9	59								
+9356	【Kế Thừa】Bùa Tẩy Luyện Đai Bậc 7	Refine_T7_Belt_Q2	36	9386		RefineStone	3	9386		160000	7	7	160000	4	87	1	1	7	20								
+9154	【Kế Thừa】Bùa Tẩy Luyện Đai Bậc 8	Refine_T8_Belt_Q2	36	9386		RefineStone	3	9386		240000	8	7	240000	4	97	1	1	7	23								
+9155	【Kế Thừa】Bùa Tẩy Luyện Đai Bậc 9	Refine_T9_Belt_Q2	36	9386		RefineStone	3	9386		320000	9	7	320000	4	107	1	1	7	26								
+9156	【Kế Thừa】Bùa Tẩy Luyện Đai Bậc 10	Refine_T10_Belt_Q2	36	9386		RefineStone	3	9386		430000	10	7	430000	4	117	1	1	7	29								
+9157	【Kế Thừa】Bùa Tẩy Luyện Đai Bậc 11	Refine_T11_Belt_Q2	36	9386		RefineStone	3	9386		570000	11	7	570000	4	127	1	1	7	32								
+9158	【Kế Thừa】Bùa Tẩy Luyện Đai Bậc 12	Refine_T12_Belt_Q2	36	9386		RefineStone	3	9386		690000	12	7	690000	4	137	1	1	7	35								
+9159	【Kế Thừa】Bùa Tẩy Luyện Đai Bậc 13	Refine_T13_Belt_Q2	36	9386		RefineStone	3	9386		790000	13	7	790000	4	147	1	1	7	38								
+9160	【Kế Thừa】Bùa Tẩy Luyện Đai Bậc 14	Refine_T14_Belt_Q2	36	9386		RefineStone	3	9386		870000	14	7	870000	4	157	1	1	7	41								
+9161	【Kế Thừa】Bùa Tẩy Luyện Đai Bậc 15	Refine_T15_Belt_Q2	36	9386		RefineStone	3	9386		960000	15	7	960000	4	167	1	1	7	44								
+9162	【Kế Thừa】Bùa Tẩy Luyện Đai Bậc 16	Refine_T16_Belt_Q2	36	9386		RefineStone	3	9386		1060000	16	7	1060000	4	177	1	1	7	47								
+9163	【Kế Thừa】Bùa Tẩy Luyện Đai Bậc 17	Refine_T17_Belt_Q2	36	9386		RefineStone	3	9386		1160000	17	7	1160000	4	187	1	1	7	50								
+9164	【Kế Thừa】Bùa Tẩy Luyện Đai Bậc 18	Refine_T18_Belt_Q2	36	9386		RefineStone	3	9386		870000	18	7	870000	4	197	1	1	7	53								
+9165	【Kế Thừa】Bùa Tẩy Luyện Đai Bậc 19	Refine_T19_Belt_Q2	36	9386		RefineStone	3	9386		870000	19	7	870000	4	207	1	1	7	56								
+9166	【Kế Thừa】Bùa Tẩy Luyện Đai Bậc 20	Refine_T20_Belt_Q2	36	9386		RefineStone	3	9386		870000	20	7	870000	4	217	1	1	7	59								
+9357	【Kế Thừa】Bùa Tẩy Luyện Giày Bậc 7	Refine_T7_Boots_Q2	36	9387		RefineStone	3	9387		160000	7	7	160000	4	89	1	1	6	20								
+9167	【Kế Thừa】Bùa Tẩy Luyện Giày Bậc 8	Refine_T8_Boots_Q2	36	9387		RefineStone	3	9387		240000	8	7	240000	4	99	1	1	6	23								
+9168	【Kế Thừa】Bùa Tẩy Luyện Giày Bậc 9	Refine_T9_Boots_Q2	36	9387		RefineStone	3	9387		320000	9	7	320000	4	109	1	1	6	26								
+9169	【Kế Thừa】Bùa Tẩy Luyện Giày Bậc 10	Refine_T10_Boots_Q2	36	9387		RefineStone	3	9387		430000	10	7	430000	4	119	1	1	6	29								
+9170	【Kế Thừa】Bùa Tẩy Luyện Giày Bậc 11	Refine_T11_Boots_Q2	36	9387		RefineStone	3	9387		570000	11	7	570000	4	129	1	1	6	32								
+9171	【Kế Thừa】Bùa Tẩy Luyện Giày Bậc 12	Refine_T12_Boots_Q2	36	9387		RefineStone	3	9387		690000	12	7	690000	4	139	1	1	6	35								
+9172	【Kế Thừa】Bùa Tẩy Luyện Giày Bậc 13	Refine_T13_Boots_Q2	36	9387		RefineStone	3	9387		790000	13	7	790000	4	149	1	1	6	38								
+9173	【Kế Thừa】Bùa Tẩy Luyện Giày Bậc 14	Refine_T14_Boots_Q2	36	9387		RefineStone	3	9387		870000	14	7	870000	4	159	1	1	6	41								
+9174	【Kế Thừa】Bùa Tẩy Luyện Giày Bậc 15	Refine_T15_Boots_Q2	36	9387		RefineStone	3	9387		960000	15	7	960000	4	169	1	1	6	44								
+9175	【Kế Thừa】Bùa Tẩy Luyện Giày Bậc 16	Refine_T16_Boots_Q2	36	9387		RefineStone	3	9387		1060000	16	7	1060000	4	179	1	1	6	47								
+9176	【Kế Thừa】Bùa Tẩy Luyện Giày Bậc 17	Refine_T17_Boots_Q2	36	9387		RefineStone	3	9387		1160000	17	7	1160000	4	189	1	1	6	50								
+9177	【Kế Thừa】Bùa Tẩy Luyện Giày Bậc 18	Refine_T18_Boots_Q2	36	9387		RefineStone	3	9387		870000	18	7	870000	4	199	1	1	6	53								
+9178	【Kế Thừa】Bùa Tẩy Luyện Giày Bậc 19	Refine_T19_Boots_Q2	36	9387		RefineStone	3	9387		870000	19	7	870000	4	209	1	1	6	56								
+9179	【Kế Thừa】Bùa Tẩy Luyện Giày Bậc 20	Refine_T20_Boots_Q2	36	9387		RefineStone	3	9387		870000	20	7	870000	4	219	1	1	6	59								
+9358	【Trác Việt】Bùa Tẩy Luyện Vũ Khí Bậc 7	Refine_T7_Weapon_Q3	36	9388		RefineStone	2	9388		1500000	7	7	1500000	5	80	1	1	1	22								
+9180	【Trác Việt】Bùa Tẩy Luyện Vũ Khí Bậc 8	Refine_T8_Weapon_Q3	36	9388		RefineStone	2	9388		2400000	8	7	2400000	5	90	1	1	1	25								
+9181	【Trác Việt】Bùa Tẩy Luyện Vũ Khí Bậc 9	Refine_T9_Weapon_Q3	36	9388		RefineStone	2	9388		2850000	9	7	2850000	5	100	1	1	1	28								
+9182	【Trác Việt】Bùa Tẩy Luyện Vũ Khí Bậc 10	Refine_T10_Weapon_Q3	36	9388		RefineStone	2	9388		3650000	10	7	3650000	5	110	1	1	1	31								
+9183	【Trác Việt】Bùa Tẩy Luyện Vũ Khí Bậc 11	Refine_T11_Weapon_Q3	36	9388		RefineStone	2	9388		4750000	11	7	4750000	5	120	1	1	1	34								
+9184	【Trác Việt】Bùa Tẩy Luyện Vũ Khí Bậc 12	Refine_T12_Weapon_Q3	36	9388		RefineStone	2	9388		5600000	12	7	5600000	5	130	1	1	1	37								
+9185	【Trác Việt】Bùa Tẩy Luyện Vũ Khí Bậc 13	Refine_T13_Weapon_Q3	36	9388		RefineStone	2	9388		6350000	13	7	6350000	5	140	1	1	1	40								
+9186	【Trác Việt】Bùa Tẩy Luyện Vũ Khí Bậc 14	Refine_T14_Weapon_Q3	36	9388		RefineStone	2	9388		6700000	14	7	6700000	5	150	1	1	1	43								
+9187	【Trác Việt】Bùa Tẩy Luyện Vũ Khí Bậc 15	Refine_T15_Weapon_Q3	36	9388		RefineStone	2	9388		7650000	15	7	7650000	5	160	1	1	1	46								
+9188	【Trác Việt】Bùa Tẩy Luyện Vũ Khí Bậc 16	Refine_T16_Weapon_Q3	36	9388		RefineStone	2	9388		8150000	16	7	8150000	5	170	1	1	1	49								
+9189	【Trác Việt】Bùa Tẩy Luyện Vũ Khí Bậc 17	Refine_T17_Weapon_Q3	36	9388		RefineStone	2	9388		8900000	17	7	8900000	5	180	1	1	1	52								
+9190	【Trác Việt】Bùa Tẩy Luyện Vũ Khí Bậc 18	Refine_T18_Weapon_Q3	36	9388		RefineStone	2	9388		6700000	18	7	6700000	5	190	1	1	1	55								
+9191	【Trác Việt】Bùa Tẩy Luyện Vũ Khí Bậc 19	Refine_T19_Weapon_Q3	36	9388		RefineStone	2	9388		6700000	19	7	6700000	5	200	1	1	1	58								
+9192	【Trác Việt】Bùa Tẩy Luyện Vũ Khí Bậc 20	Refine_T20_Weapon_Q3	36	9388		RefineStone	2	9388		6700000	20	7	6700000	5	210	1	1	1	61								
+9359	【Trác Việt】Bùa Tẩy Luyện Dây Chuyền Bậc 7	Refine_T7_Necklace_Q3	36	9389		RefineStone	2	9389		600000	7	7	600000	5	82	1	1	4	22								
+9193	【Trác Việt】Bùa Tẩy Luyện Dây Chuyền Bậc 8	Refine_T8_Necklace_Q3	36	9389		RefineStone	2	9389		960000	8	7	960000	5	92	1	1	4	25								
+9194	【Trác Việt】Bùa Tẩy Luyện Dây Chuyền Bậc 9	Refine_T9_Necklace_Q3	36	9389		RefineStone	2	9389		1140000	9	7	1140000	5	102	1	1	4	28								
+9195	【Trác Việt】Bùa Tẩy Luyện Dây Chuyền Bậc 10	Refine_T10_Necklace_Q3	36	9389		RefineStone	2	9389		1460000	10	7	1460000	5	112	1	1	4	31								
+9196	【Trác Việt】Bùa Tẩy Luyện Dây Chuyền Bậc 11	Refine_T11_Necklace_Q3	36	9389		RefineStone	2	9389		1900000	11	7	1900000	5	122	1	1	4	34								
+9197	【Trác Việt】Bùa Tẩy Luyện Dây Chuyền Bậc 12	Refine_T12_Necklace_Q3	36	9389		RefineStone	2	9389		2240000	12	7	2240000	5	132	1	1	4	37								
+9198	【Trác Việt】Bùa Tẩy Luyện Dây Chuyền Bậc 13	Refine_T13_Necklace_Q3	36	9389		RefineStone	2	9389		2540000	13	7	2540000	5	142	1	1	4	40								
+9199	【Trác Việt】Bùa Tẩy Luyện Dây Chuyền Bậc 14	Refine_T14_Necklace_Q3	36	9389		RefineStone	2	9389		2680000	14	7	2680000	5	152	1	1	4	43								
+9200	【Trác Việt】Bùa Tẩy Luyện Dây Chuyền Bậc 15	Refine_T15_Necklace_Q3	36	9389		RefineStone	2	9389		3060000	15	7	3060000	5	162	1	1	4	46								
+9201	【Trác Việt】Bùa Tẩy Luyện Dây Chuyền Bậc 16	Refine_T16_Necklace_Q3	36	9389		RefineStone	2	9389		3260000	16	7	3260000	5	172	1	1	4	49								
+9202	【Trác Việt】Bùa Tẩy Luyện Dây Chuyền Bậc 17	Refine_T17_Necklace_Q3	36	9389		RefineStone	2	9389		3560000	17	7	3560000	5	182	1	1	4	52								
+9203	【Trác Việt】Bùa Tẩy Luyện Dây Chuyền Bậc 18	Refine_T18_Necklace_Q3	36	9389		RefineStone	2	9389		2680000	18	7	2680000	5	192	1	1	4	55								
+9204	【Trác Việt】Bùa Tẩy Luyện Dây Chuyền Bậc 19	Refine_T19_Necklace_Q3	36	9389		RefineStone	2	9389		2680000	19	7	2680000	5	202	1	1	4	58								
+9205	【Trác Việt】Bùa Tẩy Luyện Dây Chuyền Bậc 20	Refine_T20_Necklace_Q3	36	9389		RefineStone	2	9389		2680000	20	7	2680000	5	212	1	1	4	61								
+9360	【Trác Việt】Bùa Tẩy Luyện Nhẫn Bậc 7	Refine_T7_Ring_Q3	36	9390		RefineStone	2	9390		600000	7	7	600000	5	84	1	1	3	22								
+9206	【Trác Việt】Bùa Tẩy Luyện Nhẫn Bậc 8	Refine_T8_Ring_Q3	36	9390		RefineStone	2	9390		960000	8	7	960000	5	94	1	1	3	25								
+9207	【Trác Việt】Bùa Tẩy Luyện Nhẫn Bậc 9	Refine_T9_Ring_Q3	36	9390		RefineStone	2	9390		1140000	9	7	1140000	5	104	1	1	3	28								
+9208	【Trác Việt】Bùa Tẩy Luyện Nhẫn Bậc 10	Refine_T10_Ring_Q3	36	9390		RefineStone	2	9390		1460000	10	7	1460000	5	114	1	1	3	31								
+9209	【Trác Việt】Bùa Tẩy Luyện Nhẫn Bậc 11	Refine_T11_Ring_Q3	36	9390		RefineStone	2	9390		1900000	11	7	1900000	5	124	1	1	3	34								
+9210	【Trác Việt】Bùa Tẩy Luyện Nhẫn Bậc 12	Refine_T12_Ring_Q3	36	9390		RefineStone	2	9390		2240000	12	7	2240000	5	134	1	1	3	37								
+9211	【Trác Việt】Bùa Tẩy Luyện Nhẫn Bậc 13	Refine_T13_Ring_Q3	36	9390		RefineStone	2	9390		2540000	13	7	2540000	5	144	1	1	3	40								
+9212	【Trác Việt】Bùa Tẩy Luyện Nhẫn Bậc 14	Refine_T14_Ring_Q3	36	9390		RefineStone	2	9390		2680000	14	7	2680000	5	154	1	1	3	43								
+9213	【Trác Việt】Bùa Tẩy Luyện Nhẫn Bậc 15	Refine_T15_Ring_Q3	36	9390		RefineStone	2	9390		3060000	15	7	3060000	5	164	1	1	3	46								
+9214	【Trác Việt】Bùa Tẩy Luyện Nhẫn Bậc 16	Refine_T16_Ring_Q3	36	9390		RefineStone	2	9390		3260000	16	7	3260000	5	174	1	1	3	49								
+9215	【Trác Việt】Bùa Tẩy Luyện Nhẫn Bậc 17	Refine_T17_Ring_Q3	36	9390		RefineStone	2	9390		3560000	17	7	3560000	5	184	1	1	3	52								
+9216	【Trác Việt】Bùa Tẩy Luyện Nhẫn Bậc 18	Refine_T18_Ring_Q3	36	9390		RefineStone	2	9390		2680000	18	7	2680000	5	194	1	1	3	55								
+9217	【Trác Việt】Bùa Tẩy Luyện Nhẫn Bậc 19	Refine_T19_Ring_Q3	36	9390		RefineStone	2	9390		2680000	19	7	2680000	5	204	1	1	3	58								
+9218	【Trác Việt】Bùa Tẩy Luyện Nhẫn Bậc 20	Refine_T20_Ring_Q3	36	9390		RefineStone	2	9390		2680000	20	7	2680000	5	214	1	1	3	61								
+9361	【Trác Việt】Bùa Tẩy Luyện Ngọc Bội Bậc 7	Refine_T7_Pendant_Q3	36	9391		RefineStone	2	9391		600000	7	7	600000	5	86	1	1	10	22								
+9219	【Trác Việt】Bùa Tẩy Luyện Ngọc Bội Bậc 8	Refine_T8_Pendant_Q3	36	9391		RefineStone	2	9391		960000	8	7	960000	5	96	1	1	10	25								
+9220	【Trác Việt】Bùa Tẩy Luyện Ngọc Bội Bậc 9	Refine_T9_Pendant_Q3	36	9391		RefineStone	2	9391		1140000	9	7	1140000	5	106	1	1	10	28								
+9221	【Trác Việt】Bùa Tẩy Luyện Ngọc Bội Bậc 10	Refine_T10_Pendant_Q3	36	9391		RefineStone	2	9391		1460000	10	7	1460000	5	116	1	1	10	31								
+9222	【Trác Việt】Bùa Tẩy Luyện Ngọc Bội Bậc 11	Refine_T11_Pendant_Q3	36	9391		RefineStone	2	9391		1900000	11	7	1900000	5	126	1	1	10	34								
+9223	【Trác Việt】Bùa Tẩy Luyện Ngọc Bội Bậc 12	Refine_T12_Pendant_Q3	36	9391		RefineStone	2	9391		2240000	12	7	2240000	5	136	1	1	10	37								
+9224	【Trác Việt】Bùa Tẩy Luyện Ngọc Bội Bậc 13	Refine_T13_Pendant_Q3	36	9391		RefineStone	2	9391		2540000	13	7	2540000	5	146	1	1	10	40								
+9225	【Trác Việt】Bùa Tẩy Luyện Ngọc Bội Bậc 14	Refine_T14_Pendant_Q3	36	9391		RefineStone	2	9391		2680000	14	7	2680000	5	156	1	1	10	43								
+9226	【Trác Việt】Bùa Tẩy Luyện Ngọc Bội Bậc 15	Refine_T15_Pendant_Q3	36	9391		RefineStone	2	9391		3060000	15	7	3060000	5	166	1	1	10	46								
+9227	【Trác Việt】Bùa Tẩy Luyện Ngọc Bội Bậc 16	Refine_T16_Pendant_Q3	36	9391		RefineStone	2	9391		3260000	16	7	3260000	5	176	1	1	10	49								
+9228	【Trác Việt】Bùa Tẩy Luyện Ngọc Bội Bậc 17	Refine_T17_Pendant_Q3	36	9391		RefineStone	2	9391		3560000	17	7	3560000	5	186	1	1	10	52								
+9229	【Trác Việt】Bùa Tẩy Luyện Ngọc Bội Bậc 18	Refine_T18_Pendant_Q3	36	9391		RefineStone	2	9391		2680000	18	7	2680000	5	196	1	1	10	55								
+9230	【Trác Việt】Bùa Tẩy Luyện Ngọc Bội Bậc 19	Refine_T19_Pendant_Q3	36	9391		RefineStone	2	9391		2680000	19	7	2680000	5	206	1	1	10	58								
+9231	【Trác Việt】Bùa Tẩy Luyện Ngọc Bội Bậc 20	Refine_T20_Pendant_Q3	36	9391		RefineStone	2	9391		2680000	20	7	2680000	5	216	1	1	10	61								
+9362	【Trác Việt】Bùa Tẩy Luyện Hộ Thân Phù Bậc 7	Refine_T7_Amulet_Q3	36	9392		RefineStone	2	9392		600000	7	7	600000	5	88	1	1	5	22								
+9232	【Trác Việt】Bùa Tẩy Luyện Hộ Thân Phù Bậc 8	Refine_T8_Amulet_Q3	36	9392		RefineStone	2	9392		960000	8	7	960000	5	98	1	1	5	25								
+9233	【Trác Việt】Bùa Tẩy Luyện Hộ Thân Phù Bậc 9	Refine_T9_Amulet_Q3	36	9392		RefineStone	2	9392		1140000	9	7	1140000	5	108	1	1	5	28								
+9234	【Trác Việt】Bùa Tẩy Luyện Hộ Thân Phù Bậc 10	Refine_T10_Amulet_Q3	36	9392		RefineStone	2	9392		1460000	10	7	1460000	5	118	1	1	5	31								
+9235	【Trác Việt】Bùa Tẩy Luyện Hộ Thân Phù Bậc 11	Refine_T11_Amulet_Q3	36	9392		RefineStone	2	9392		1900000	11	7	1900000	5	128	1	1	5	34								
+9236	【Trác Việt】Bùa Tẩy Luyện Hộ Thân Phù Bậc 12	Refine_T12_Amulet_Q3	36	9392		RefineStone	2	9392		2240000	12	7	2240000	5	138	1	1	5	37								
+9237	【Trác Việt】Bùa Tẩy Luyện Hộ Thân Phù Bậc 13	Refine_T13_Amulet_Q3	36	9392		RefineStone	2	9392		2540000	13	7	2540000	5	148	1	1	5	40								
+9238	【Trác Việt】Bùa Tẩy Luyện Hộ Thân Phù Bậc 14	Refine_T14_Amulet_Q3	36	9392		RefineStone	2	9392		2680000	14	7	2680000	5	158	1	1	5	43								
+9239	【Trác Việt】Bùa Tẩy Luyện Hộ Thân Phù Bậc 15	Refine_T15_Amulet_Q3	36	9392		RefineStone	2	9392		3060000	15	7	3060000	5	168	1	1	5	46								
+9240	【Trác Việt】Bùa Tẩy Luyện Hộ Thân Phù Bậc 16	Refine_T16_Amulet_Q3	36	9392		RefineStone	2	9392		3260000	16	7	3260000	5	178	1	1	5	49								
+9241	【Trác Việt】Bùa Tẩy Luyện Hộ Thân Phù Bậc 17	Refine_T17_Amulet_Q3	36	9392		RefineStone	2	9392		3560000	17	7	3560000	5	188	1	1	5	52								
+9242	【Trác Việt】Bùa Tẩy Luyện Hộ Thân Phù Bậc 18	Refine_T18_Amulet_Q3	36	9392		RefineStone	2	9392		2680000	18	7	2680000	5	198	1	1	5	55								
+9243	【Trác Việt】Bùa Tẩy Luyện Hộ Thân Phù Bậc 19	Refine_T19_Amulet_Q3	36	9392		RefineStone	2	9392		2680000	19	7	2680000	5	208	1	1	5	58								
+9244	【Trác Việt】Bùa Tẩy Luyện Hộ Thân Phù Bậc 20	Refine_T20_Amulet_Q3	36	9392		RefineStone	2	9392		2680000	20	7	2680000	5	218	1	1	5	61								
+9363	【Trác Việt】Bùa Tẩy Luyện Nón Bậc 7	Refine_T7_Helm_Q3	36	9393		RefineStone	2	9393		300000	7	7	300000	5	81	1	1	8	22								
+9245	【Trác Việt】Bùa Tẩy Luyện Nón Bậc 8	Refine_T8_Helm_Q3	36	9393		RefineStone	2	9393		480000	8	7	480000	5	91	1	1	8	25								
+9246	【Trác Việt】Bùa Tẩy Luyện Nón Bậc 9	Refine_T9_Helm_Q3	36	9393		RefineStone	2	9393		570000	9	7	570000	5	101	1	1	8	28								
+9247	【Trác Việt】Bùa Tẩy Luyện Nón Bậc 10	Refine_T10_Helm_Q3	36	9393		RefineStone	2	9393		730000	10	7	730000	5	111	1	1	8	31								
+9248	【Trác Việt】Bùa Tẩy Luyện Nón Bậc 11	Refine_T11_Helm_Q3	36	9393		RefineStone	2	9393		950000	11	7	950000	5	121	1	1	8	34								
+9249	【Trác Việt】Bùa Tẩy Luyện Nón Bậc 12	Refine_T12_Helm_Q3	36	9393		RefineStone	2	9393		1120000	12	7	1120000	5	131	1	1	8	37								
+9250	【Trác Việt】Bùa Tẩy Luyện Nón Bậc 13	Refine_T13_Helm_Q3	36	9393		RefineStone	2	9393		1270000	13	7	1270000	5	141	1	1	8	40								
+9251	【Trác Việt】Bùa Tẩy Luyện Nón Bậc 14	Refine_T14_Helm_Q3	36	9393		RefineStone	2	9393		1340000	14	7	1340000	5	151	1	1	8	43								
+9252	【Trác Việt】Bùa Tẩy Luyện Nón Bậc 15	Refine_T15_Helm_Q3	36	9393		RefineStone	2	9393		1530000	15	7	1530000	5	161	1	1	8	46								
+9253	【Trác Việt】Bùa Tẩy Luyện Nón Bậc 16	Refine_T16_Helm_Q3	36	9393		RefineStone	2	9393		1630000	16	7	1630000	5	171	1	1	8	49								
+9254	【Trác Việt】Bùa Tẩy Luyện Nón Bậc 17	Refine_T17_Helm_Q3	36	9393		RefineStone	2	9393		1780000	17	7	1780000	5	181	1	1	8	52								
+9255	【Trác Việt】Bùa Tẩy Luyện Nón Bậc 18	Refine_T18_Helm_Q3	36	9393		RefineStone	2	9393		1340000	18	7	1340000	5	191	1	1	8	55								
+9256	【Trác Việt】Bùa Tẩy Luyện Nón Bậc 19	Refine_T19_Helm_Q3	36	9393		RefineStone	2	9393		1340000	19	7	1340000	5	201	1	1	8	58								
+9257	【Trác Việt】Bùa Tẩy Luyện Nón Bậc 20	Refine_T20_Helm_Q3	36	9393		RefineStone	2	9393		1340000	20	7	1340000	5	211	1	1	8	61								
+9364	【Trác Việt】Bùa Tẩy Luyện Áo Bậc 7	Refine_T7_Armor_Q3	36	9394		RefineStone	2	9394		900000	7	7	900000	5	85	1	1	2	22								
+9258	【Trác Việt】Bùa Tẩy Luyện Áo Bậc 8	Refine_T8_Armor_Q3	36	9394		RefineStone	2	9394		1440000	8	7	1440000	5	95	1	1	2	25								
+9259	【Trác Việt】Bùa Tẩy Luyện Áo Bậc 9	Refine_T9_Armor_Q3	36	9394		RefineStone	2	9394		1710000	9	7	1710000	5	105	1	1	2	28								
+9260	【Trác Việt】Bùa Tẩy Luyện Áo Bậc 10	Refine_T10_Armor_Q3	36	9394		RefineStone	2	9394		2190000	10	7	2190000	5	115	1	1	2	31								
+9261	【Trác Việt】Bùa Tẩy Luyện Áo Bậc 11	Refine_T11_Armor_Q3	36	9394		RefineStone	2	9394		2850000	11	7	2850000	5	125	1	1	2	34								
+9262	【Trác Việt】Bùa Tẩy Luyện Áo Bậc 12	Refine_T12_Armor_Q3	36	9394		RefineStone	2	9394		3360000	12	7	3360000	5	135	1	1	2	37								
+9263	【Trác Việt】Bùa Tẩy Luyện Áo Bậc 13	Refine_T13_Armor_Q3	36	9394		RefineStone	2	9394		3810000	13	7	3810000	5	145	1	1	2	40								
+9264	【Trác Việt】Bùa Tẩy Luyện Áo Bậc 14	Refine_T14_Armor_Q3	36	9394		RefineStone	2	9394		4020000	14	7	4020000	5	155	1	1	2	43								
+9265	【Trác Việt】Bùa Tẩy Luyện Áo Bậc 15	Refine_T15_Armor_Q3	36	9394		RefineStone	2	9394		4590000	15	7	4590000	5	165	1	1	2	46								
+9266	【Trác Việt】Bùa Tẩy Luyện Áo Bậc 16	Refine_T16_Armor_Q3	36	9394		RefineStone	2	9394		4890000	16	7	4890000	5	175	1	1	2	49								
+9267	【Trác Việt】Bùa Tẩy Luyện Áo Bậc 17	Refine_T17_Armor_Q3	36	9394		RefineStone	2	9394		5340000	17	7	5340000	5	185	1	1	2	52								
+9268	【Trác Việt】Bùa Tẩy Luyện Áo Bậc 18	Refine_T18_Armor_Q3	36	9394		RefineStone	2	9394		4020000	18	7	4020000	5	195	1	1	2	55								
+9269	【Trác Việt】Bùa Tẩy Luyện Áo Bậc 19	Refine_T19_Armor_Q3	36	9394		RefineStone	2	9394		4020000	19	7	4020000	5	205	1	1	2	58								
+9270	【Trác Việt】Bùa Tẩy Luyện Áo Bậc 20	Refine_T20_Armor_Q3	36	9394		RefineStone	2	9394		4020000	20	7	4020000	5	215	1	1	2	61								
+9365	【Trác Việt】Bùa Tẩy Luyện Hộ Uyển Bậc 7	Refine_T7_Cuff_Q3	36	9395		RefineStone	2	9395		300000	7	7	300000	5	83	1	1	9	22								
+9271	【Trác Việt】Bùa Tẩy Luyện Hộ Uyển Bậc 8	Refine_T8_Cuff_Q3	36	9395		RefineStone	2	9395		480000	8	7	480000	5	93	1	1	9	25								
+9272	【Trác Việt】Bùa Tẩy Luyện Hộ Uyển Bậc 9	Refine_T9_Cuff_Q3	36	9395		RefineStone	2	9395		570000	9	7	570000	5	103	1	1	9	28								
+9273	【Trác Việt】Bùa Tẩy Luyện Hộ Uyển Bậc 10	Refine_T10_Cuff_Q3	36	9395		RefineStone	2	9395		730000	10	7	730000	5	113	1	1	9	31								
+9274	【Trác Việt】Bùa Tẩy Luyện Hộ Uyển Bậc 11	Refine_T11_Cuff_Q3	36	9395		RefineStone	2	9395		950000	11	7	950000	5	123	1	1	9	34								
+9275	【Trác Việt】Bùa Tẩy Luyện Hộ Uyển Bậc 12	Refine_T12_Cuff_Q3	36	9395		RefineStone	2	9395		1120000	12	7	1120000	5	133	1	1	9	37								
+9276	【Trác Việt】Bùa Tẩy Luyện Hộ Uyển Bậc 13	Refine_T13_Cuff_Q3	36	9395		RefineStone	2	9395		1270000	13	7	1270000	5	143	1	1	9	40								
+9277	【Trác Việt】Bùa Tẩy Luyện Hộ Uyển Bậc 14	Refine_T14_Cuff_Q3	36	9395		RefineStone	2	9395		1340000	14	7	1340000	5	153	1	1	9	43								
+9278	【Trác Việt】Bùa Tẩy Luyện Hộ Uyển Bậc 15	Refine_T15_Cuff_Q3	36	9395		RefineStone	2	9395		1530000	15	7	1530000	5	163	1	1	9	46								
+9279	【Trác Việt】Bùa Tẩy Luyện Hộ Uyển Bậc 16	Refine_T16_Cuff_Q3	36	9395		RefineStone	2	9395		1630000	16	7	1630000	5	173	1	1	9	49								
+9280	【Trác Việt】Bùa Tẩy Luyện Hộ Uyển Bậc 17	Refine_T17_Cuff_Q3	36	9395		RefineStone	2	9395		1780000	17	7	1780000	5	183	1	1	9	52								
+9281	【Trác Việt】Bùa Tẩy Luyện Hộ Uyển Bậc 18	Refine_T18_Cuff_Q3	36	9395		RefineStone	2	9395		1340000	18	7	1340000	5	193	1	1	9	55								
+9282	【Trác Việt】Bùa Tẩy Luyện Hộ Uyển Bậc 19	Refine_T19_Cuff_Q3	36	9395		RefineStone	2	9395		1340000	19	7	1340000	5	203	1	1	9	58								
+9283	【Trác Việt】Bùa Tẩy Luyện Hộ Uyển Bậc 20	Refine_T20_Cuff_Q3	36	9395		RefineStone	2	9395		1340000	20	7	1340000	5	213	1	1	9	61								
+9366	【Trác Việt】Bùa Tẩy Luyện Đai Bậc 7	Refine_T7_Belt_Q3	36	9396		RefineStone	2	9396		300000	7	7	300000	5	87	1	1	7	22								
+9284	【Trác Việt】Bùa Tẩy Luyện Đai Bậc 8	Refine_T8_Belt_Q3	36	9396		RefineStone	2	9396		480000	8	7	480000	5	97	1	1	7	25								
+9285	【Trác Việt】Bùa Tẩy Luyện Đai Bậc 9	Refine_T9_Belt_Q3	36	9396		RefineStone	2	9396		570000	9	7	570000	5	107	1	1	7	28								
+9286	【Trác Việt】Bùa Tẩy Luyện Đai Bậc 10	Refine_T10_Belt_Q3	36	9396		RefineStone	2	9396		730000	10	7	730000	5	117	1	1	7	31								
+9287	【Trác Việt】Bùa Tẩy Luyện Đai Bậc 11	Refine_T11_Belt_Q3	36	9396		RefineStone	2	9396		950000	11	7	950000	5	127	1	1	7	34								
+9288	【Trác Việt】Bùa Tẩy Luyện Đai Bậc 12	Refine_T12_Belt_Q3	36	9396		RefineStone	2	9396		1120000	12	7	1120000	5	137	1	1	7	37								
+9289	【Trác Việt】Bùa Tẩy Luyện Đai Bậc 13	Refine_T13_Belt_Q3	36	9396		RefineStone	2	9396		1270000	13	7	1270000	5	147	1	1	7	40								
+9290	【Trác Việt】Bùa Tẩy Luyện Đai Bậc 14	Refine_T14_Belt_Q3	36	9396		RefineStone	2	9396		1340000	14	7	1340000	5	157	1	1	7	43								
+9291	【Trác Việt】Bùa Tẩy Luyện Đai Bậc 15	Refine_T15_Belt_Q3	36	9396		RefineStone	2	9396		1530000	15	7	1530000	5	167	1	1	7	46								
+9292	【Trác Việt】Bùa Tẩy Luyện Đai Bậc 16	Refine_T16_Belt_Q3	36	9396		RefineStone	2	9396		1630000	16	7	1630000	5	177	1	1	7	49								
+9293	【Trác Việt】Bùa Tẩy Luyện Đai Bậc 17	Refine_T17_Belt_Q3	36	9396		RefineStone	2	9396		1780000	17	7	1780000	5	187	1	1	7	52								
+9294	【Trác Việt】Bùa Tẩy Luyện Đai Bậc 18	Refine_T18_Belt_Q3	36	9396		RefineStone	2	9396		1340000	18	7	1340000	5	197	1	1	7	55								
+9295	【Trác Việt】Bùa Tẩy Luyện Đai Bậc 19	Refine_T19_Belt_Q3	36	9396		RefineStone	2	9396		1340000	19	7	1340000	5	207	1	1	7	58								
+9296	【Trác Việt】Bùa Tẩy Luyện Đai Bậc 20	Refine_T20_Belt_Q3	36	9396		RefineStone	2	9396		1340000	20	7	1340000	5	217	1	1	7	61								
+9367	【Trác Việt】Bùa Tẩy Luyện Giày Bậc 7	Refine_T7_Boots_Q3	36	9397		RefineStone	2	9397		300000	7	7	300000	5	89	1	1	6	22								
+9297	【Trác Việt】Bùa Tẩy Luyện Giày Bậc 8	Refine_T8_Boots_Q3	36	9397		RefineStone	2	9397		480000	8	7	480000	5	99	1	1	6	25								
+9298	【Trác Việt】Bùa Tẩy Luyện Giày Bậc 9	Refine_T9_Boots_Q3	36	9397		RefineStone	2	9397		570000	9	7	570000	5	109	1	1	6	28								
+9299	【Trác Việt】Bùa Tẩy Luyện Giày Bậc 10	Refine_T10_Boots_Q3	36	9397		RefineStone	2	9397		730000	10	7	730000	5	119	1	1	6	31								
+9300	【Trác Việt】Bùa Tẩy Luyện Giày Bậc 11	Refine_T11_Boots_Q3	36	9397		RefineStone	2	9397		950000	11	7	950000	5	129	1	1	6	34								
+9301	【Trác Việt】Bùa Tẩy Luyện Giày Bậc 12	Refine_T12_Boots_Q3	36	9397		RefineStone	2	9397		1120000	12	7	1120000	5	139	1	1	6	37								
+9302	【Trác Việt】Bùa Tẩy Luyện Giày Bậc 13	Refine_T13_Boots_Q3	36	9397		RefineStone	2	9397		1270000	13	7	1270000	5	149	1	1	6	40								
+9303	【Trác Việt】Bùa Tẩy Luyện Giày Bậc 14	Refine_T14_Boots_Q3	36	9397		RefineStone	2	9397		1340000	14	7	1340000	5	159	1	1	6	43								
+9304	【Trác Việt】Bùa Tẩy Luyện Giày Bậc 15	Refine_T15_Boots_Q3	36	9397		RefineStone	2	9397		1530000	15	7	1530000	5	169	1	1	6	46								
+9305	【Trác Việt】Bùa Tẩy Luyện Giày Bậc 16	Refine_T16_Boots_Q3	36	9397		RefineStone	2	9397		1630000	16	7	1630000	5	179	1	1	6	49								
+9306	【Trác Việt】Bùa Tẩy Luyện Giày Bậc 17	Refine_T17_Boots_Q3	36	9397		RefineStone	2	9397		1780000	17	7	1780000	5	189	1	1	6	52								
+9307	【Trác Việt】Bùa Tẩy Luyện Giày Bậc 18	Refine_T18_Boots_Q3	36	9397		RefineStone	2	9397		1340000	18	7	1340000	5	199	1	1	6	55								
+9308	【Trác Việt】Bùa Tẩy Luyện Giày Bậc 19	Refine_T19_Boots_Q3	36	9397		RefineStone	2	9397		1340000	19	7	1340000	5	209	1	1	6	58								
+9309	【Trác Việt】Bùa Tẩy Luyện Giày Bậc 20	Refine_T20_Boots_Q3	36	9397		RefineStone	2	9397		1340000	20	7	1340000	5	219	1	1	6	61								

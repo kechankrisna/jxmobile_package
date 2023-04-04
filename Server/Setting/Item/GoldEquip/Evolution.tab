@@ -1,0 +1,117 @@
+SrcItem	TarItem	CosumeItem1	ConsumeCount1	CosumeItem2	ConsumeCount2	CosumeItem3	ConsumeCount3	CosumeItemBAK1	ConsumeCountBAK1	CosumeItemBAK2	ConsumeCountBAK2	TimeFrame	DESC
+2794	2764	2804	120										Vũ Khí Hoàng Kim T6
+2795	2782	2804	72										Áo Hoàng Kim T6
+2796	2779	2804	24										Nón Hoàng Kim T6
+2797	2788	2804	24										Đai Hoàng Kim T6
+2798	2785	2804	24										Bao Tay Hoàng Kim T6
+2799	2791	2804	24										Giày Hoàng Kim T6
+2800	2767	2804	48										Dây Chuyền Hoàng Kim T6
+2801	2770	2804	48										Nhẫn Hoàng Kim T6
+2802	2773	2804	48										Ngọc Bội Hoàng Kim T6
+2803	2776	2804	48										Hộ Thân Phù Hoàng Kim T6
+2400	3012	2527	120									OpenLevel79	Thú Cưỡi
+3012	3598	2527	180									OpenLevel99	Thú Cưỡi
+3598	4046	2527	240									OpenLevel119	Thú Cưỡi Lv110
+4046	4051	2527	300									OpenLevel139	Thú Cưỡi Lv130
+4051	4859	2527	360									OpenLevel159	Thú Cưỡi Lv150
+3415	3416	3461	8										Cương Bậc 2
+3417	3418	3468	8										Yên Bậc 2
+3419	3420	3475	8										Bàn Đạp Bậc 2
+3416	3445	3462	16										Cương Bậc 3
+3418	3450	3469	16										Yên Bậc 3
+3420	3455	3476	16										Bàn Đạp Bậc 3
+3445	3446	3462	20					3445	1			OpenLevel109	Cương Bậc 4
+3450	3451	3469	20					3450	1			OpenLevel109	Yên Bậc 4
+3455	3456	3476	20					3455	1			OpenLevel109	Bàn Đạp Bậc 4
+3446	3447	3462	30									OpenLevel129	Cương Bậc 5
+3451	3452	3469	30									OpenLevel129	Yên Bậc 5
+3456	3457	3476	30									OpenLevel129	Bàn Đạp Bậc 5
+3447	3448	3462	30									OpenLevel149	Cương Bậc 6
+3452	3453	3469	30									OpenLevel149	Yên Bậc 6
+3457	3458	3476	30									OpenLevel149	Bàn Đạp Bậc 6
+3448	3449	3462	30									OpenLevel169	Cương Bậc 7
+3453	3454	3469	30									OpenLevel169	Yên Bậc 7
+3458	3459	3476	30									OpenLevel169	Bàn Đạp Bậc 7
+3449	11068	3462	30									OpenLevel189	Cương Bậc 8
+3454	11071	3469	30									OpenLevel189	Yên Bậc 8
+3459	11074	3476	30									OpenLevel189	Bàn Đạp Bậc 8
+3620	10016	10004	1	10014	30								Vũ Khí Bạch Kim T10
+3632	10104	10005	1	10014	18								Áo Bạch Kim T10
+3630	10060	10006	1	10014	6								Nón Bạch Kim T10
+3636	10093	10007	1	10014	6								Đai Bạch Kim T10
+3634	10071	10008	1	10014	6								Bao Tay Bạch Kim T10
+3638	10082	10009	1	10014	6								Giày Bạch Kim T10
+3622	10049	10010	1	10014	12								Dây Chuyền Bạch Kim T10
+3624	10027	10011	1	10014	12								Nhẫn Bạch Kim T10
+3626	10038	10012	1	10014	12								Ngọc Bội Bạch Kim T10
+3628	10115	10013	1	10014	12								Hộ Thân Phù Bạch Kim T10
+5360	10017	10004	1	10014	60								Vũ Khí Bạch Kim T11
+5390	10105	10005	1	10014	36								Áo Bạch Kim T11
+5385	10061	10006	1	10014	12								Nón Bạch Kim T11
+5400	10094	10007	1	10014	12								Đai Bạch Kim T11
+5395	10072	10008	1	10014	12								Bao Tay Bạch Kim T11
+5405	10083	10009	1	10014	12								Giày Bạch Kim T11
+5365	10050	10010	1	10014	24								Dây Chuyền Bạch Kim T11
+5370	10028	10011	1	10014	24								Nhẫn Bạch Kim T11
+5375	10039	10012	1	10014	24								Ngọc Bội Bạch Kim T11
+5380	10116	10013	1	10014	24								Hộ Thân Phù Bạch Kim T11
+5361	10018	10004	1	10014	90								Vũ Khí Bạch Kim T12
+5391	10106	10005	1	10014	54								Áo Bạch Kim T12
+5386	10062	10006	1	10014	18								Nón Bạch Kim T12
+5401	10095	10007	1	10014	18								Đai Bạch Kim T12
+5396	10073	10008	1	10014	18								Bao Tay Bạch Kim T12
+5406	10084	10009	1	10014	18								Giày Bạch Kim T12
+5366	10051	10010	1	10014	36								Dây Chuyền Bạch Kim T12
+5371	10029	10011	1	10014	36								Nhẫn Bạch Kim T12
+5376	10040	10012	1	10014	36								Ngọc Bội Bạch Kim T12
+5381	10117	10013	1	10014	36								Hộ Thân Phù Bạch Kim T12
+5362	10019	10004	1	10014	120								Vũ Khí Bạch Kim T13
+5392	10107	10005	1	10014	72								Áo Bạch Kim T13
+5387	10063	10006	1	10014	24								Nón Bạch Kim T13
+5402	10096	10007	1	10014	24								Đai Bạch Kim T13
+5397	10074	10008	1	10014	24								Bao Tay Bạch Kim T13
+5407	10085	10009	1	10014	24								Giày Bạch Kim T13
+5367	10052	10010	1	10014	48								Dây Chuyền Bạch Kim T13
+5372	10030	10011	1	10014	48								Nhẫn Bạch Kim T13
+5377	10041	10012	1	10014	48								Ngọc Bội Bạch Kim T13
+5382	10118	10013	1	10014	48								Hộ Thân Phù Bạch Kim T13
+5363	10020	10004	1	10014	150								Vũ Khí Bạch Kim T14
+5393	10108	10005	1	10014	90								Áo Bạch Kim T14
+5388	10064	10006	1	10014	30								Nón Bạch Kim T14
+5403	10097	10007	1	10014	30								Đai Bạch Kim T14
+5398	10075	10008	1	10014	30								Bao Tay Bạch Kim T14
+5408	10086	10009	1	10014	30								Giày Bạch Kim T14
+5368	10053	10010	1	10014	60								Dây Chuyền Bạch Kim T14
+5373	10031	10011	1	10014	60								Nhẫn Bạch Kim T14
+5378	10042	10012	1	10014	60								Ngọc Bội Bạch Kim T14
+5383	10119	10013	1	10014	60								Hộ Thân Phù Bạch Kim T14
+5364	10021	10004	1	10014	180								Vũ Khí Bạch Kim T15
+5394	10109	10005	1	10014	108								Áo Bạch Kim T15
+5389	10065	10006	1	10014	36								Nón Bạch Kim T15
+5404	10098	10007	1	10014	36								Đai Bạch Kim T15
+5399	10076	10008	1	10014	36								Hộ Uyển Bạch Kim T15
+5409	10087	10009	1	10014	36								Giày Bạch Kim T15
+5369	10054	10010	1	10014	72								Dây Chuyền Bạch Kim T15
+5374	10032	10011	1	10014	72								Nhẫn Bạch Kim T15
+5379	10043	10012	1	10014	72								Ngọc Bội Bạch Kim T15
+5384	10120	10013	1	10014	72								Hộ Thân Phù Bạch Kim T15
+5365	10022	10004	1	10014	210								Vũ Khí Bạch Kim T16
+5395	10110	10005	1	10014	126								Áo Bạch Kim T16
+5390	10066	10006	1	10014	42								Nón Bạch Kim T16
+5405	10099	10007	1	10014	42								Đai Bạch Kim T16
+5400	10077	10008	1	10014	42								Hộ Uyển Bạch Kim T16
+5410	10088	10009	1	10014	42								Giày Bạch Kim T16
+5370	10055	10010	1	10014	84								Dây Chuyền Bạch Kim T16
+5375	10033	10011	1	10014	84								Nhẫn Bạch Kim T16
+5380	10044	10012	1	10014	84								Ngọc Bội Bạch Kim T16
+5385	10121	10013	1	10014	84								Hộ Thân Phù Bạch Kim T16
+5366	10023	10004	1	10014	240								Vũ Khí Bạch Kim T17
+5396	10111	10005	1	10014	144								Áo Bạch Kim T17
+5391	10067	10006	1	10014	48								Nón Bạch Kim T17
+5406	10100	10007	1	10014	48								Đai Bạch Kim T17
+5401	10078	10008	1	10014	48								Hộ Uyển Bạch Kim T17
+5411	10089	10009	1	10014	48								Giày Bạch Kim T17
+5371	10056	10010	1	10014	96								Dây Chuyền Bạch Kim T17
+5376	10034	10011	1	10014	96								Nhẫn Bạch Kim T17
+5381	10045	10012	1	10014	96								Ngọc Bội Bạch Kim T17
+5386	10122	10013	1	10014	96								Hộ Thân Phù Bạch Kim T17

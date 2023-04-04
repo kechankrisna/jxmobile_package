@@ -1,0 +1,174 @@
+TemplateId	Name	Kind	ItemType	BigIcon	CDType	ClassName	DetailType	Icon	Intro	ItemValue	Level	ObjID	Price	Quality	RequireLevel	Sellable	Stack	ExtParam1	ExtParam2	ExtParam3	ExtParam4	ExtParam5	ExtParam6	ExtParam7	ExtParam8	ExtParam9	ExtParam10
+793	Mảnh-Xi Vưu	Partner_piece_SSS_1	35	793		PartnerStone	1	793	Mảnh Đồng Hành	80000	1	6	1000	7	1	0	99999	1									
+794	Mảnh-Hậu Nghệ	Partner_piece_SSS_2	35	794		PartnerStone	1	794	Mảnh Đồng Hành	80000	1	6	1000	7	1	0	99999	2									
+795	Mảnh-Tô Đắc Kỷ	Partner_piece_SSS_3	35	795		PartnerStone	1	795	Mảnh Đồng Hành	80000	1	6	1000	7	1	0	99999	3									
+796	Mảnh-Quỷ Cốc Tử	Partner_piece_SSS_4	35	796		PartnerStone	1	796	Mảnh Đồng Hành	80000	1	6	1000	7	1	0	99999	4									
+797	Mảnh-Hạng Vũ	Partner_piece_SSS_5	35	797		PartnerStone	1	797	Mảnh Đồng Hành	80000	1	6	1000	7	1	0	99999	5									
+798	Mảnh-Tần Thủy Hoàng	Partner_piece_SSS_6	35	798		PartnerStone	1	798	Mảnh Đồng Hành	80000	1	6	1000	7	1	0	99999	6									
+799	Mảnh-Võ Tắc Thiên	Partner_piece_SSS_7	35	799		PartnerStone	1	799	Mảnh Đồng Hành	80000	1	6	1000	7	1	0	99999	7									
+800	Mảnh-Lữ Động Tân	Partner_piece_SSS_8	35	800		PartnerStone	1	800	Mảnh Đồng Hành	80000	1	6	1000	7	1	0	99999	8									
+801	Mảnh-Trương Tam Phong	Partner_piece_SSS_9	35	801		PartnerStone	1	801	Mảnh Đồng Hành	80000	1	6	1000	7	1	0	99999	9									
+802	Mảnh-Tây Thi	Partner_piece_SSS_10	35	802		PartnerStone	1	802	Mảnh Đồng Hành	80000	1	6	1000	7	1	0	99999	10									
+803	Mảnh-Độc Cô Kiếm	Partner_piece_SS_1	35	803		PartnerStone	1	803	Mảnh Đồng Hành	40000	1	6	1000	6	1	0	99999	11									
+804	Mảnh-Nam Cung Phi	Partner_piece_SS_2	35	804		PartnerStone	1	804	Mảnh Đồng Hành	40000	1	6	1000	6	1	0	99999	12									
+805	Mảnh-Dương Ảnh Phong	Partner_piece_SS_3	35	805		PartnerStone	1	805	Mảnh Đồng Hành	40000	1	6	1000	6	1	0	99999	13									
+806	Mảnh-Huyền Thiên Đạo Nhân	Partner_piece_SS_4	35	806		PartnerStone	1	806	Mảnh Đồng Hành	40000	1	6	1000	6	1	0	99999	14									
+807	Mảnh-Ngu Cơ	Partner_piece_SS_5	35	807		PartnerStone	1	807	Mảnh Đồng Hành	40000	1	6	1000	6	1	0	99999	15									
+808	Mảnh-Triệu Phi Yến	Partner_piece_SS_6	35	808		PartnerStone	1	808	Mảnh Đồng Hành	40000	1	6	1000	6	1	0	99999	16									
+809	Mảnh-Kinh Kha	Partner_piece_SS_7	35	809		PartnerStone	1	809	Mảnh Đồng Hành	40000	1	6	1000	6	1	0	99999	17									
+810	Mảnh-Lý Quảng 	Partner_piece_SS_8	35	810		PartnerStone	1	810	Mảnh Đồng Hành	40000	1	6	1000	6	1	0	99999	18									
+811	Mảnh-Triệu Vân	Partner_piece_SS_9	35	811		PartnerStone	1	811	Mảnh Đồng Hành	40000	1	6	1000	6	1	0	99999	19									
+1017	Mảnh-Lý Nguyên Bá	Partner_piece_SS_10	35	1447		PartnerStone	1	1447	Mảnh Đồng Hành	40000	1	6	1000	6	1	0	99999	20									
+812	Mảnh-Nguyệt My Nhi	Partner_piece_S_1	35	812		PartnerStone	1	812	Mảnh Đồng Hành	20000	1	6	1000	4	1	0	99999	21									
+813	Mảnh-Dương Anh	Partner_piece_S_2	35	813		PartnerStone	1	813	Mảnh Đồng Hành	20000	1	6	1000	4	1	0	99999	22									
+814	Mảnh-Chúc Tử Hư	Partner_piece_S_3	35	814		PartnerStone	1	814	Mảnh Đồng Hành	20000	1	6	1000	4	1	0	99999	23									
+815	Mảnh-Thanh Hòa	Partner_piece_S_4	35	815		PartnerStone	1	815	Mảnh Đồng Hành	20000	1	6	1000	4	1	0	99999	24									
+816	Mảnh-Hoàng Mộ Vân	Partner_piece_S_5	35	816		PartnerStone	1	816	Mảnh Đồng Hành	20000	1	6	1000	4	1	0	99999	25									
+817	Mảnh-Đạo Nhất Chân Nhân	Partner_piece_S_6	35	817		PartnerStone	1	817	Mảnh Đồng Hành	20000	1	6	1000	4	1	0	99999	26									
+818	Mảnh-Đoan Mộc Duệ	Partner_piece_S_7	35	818		PartnerStone	1	818	Mảnh Đồng Hành	20000	1	6	1000	4	1	0	99999	27									
+819	Mảnh-Huyền Nhân	Partner_piece_S_8	35	819		PartnerStone	1	819	Mảnh Đồng Hành	20000	1	6	1000	4	1	0	99999	28									
+820	Mảnh-Doãn Hàm Yên	Partner_piece_S_9	35	820		PartnerStone	1	820	Mảnh Đồng Hành	20000	1	6	1000	4	1	0	99999	29									
+1435	Mảnh-Hà Nhân Ngã	Partner_piece_S_30	35	1435		PartnerStone	1	1435	Mảnh Đồng Hành	20000	1	6	1000	4	1	0	99999	127									
+1436	Mảnh-Tuyền Cơ Tử	Partner_piece_S_31	35	1436		PartnerStone	1	1436	Mảnh Đồng Hành	20000	1	6	1000	4	1	0	99999	128									
+1437	Mảnh-Hắc Diện Lang Quân	Partner_piece_S_32	35	1437		PartnerStone	1	1437	Mảnh Đồng Hành	20000	1	6	1000	4	1	0	99999	129									
+1438	Mảnh-Đường Cừu 	Partner_piece_S_33	35	1438		PartnerStone	1	1438	Mảnh Đồng Hành	20000	1	6	1000	4	1	0	99999	130									
+821	Mảnh-Cao Trường Cung	Partner_piece_S_10	35	821		PartnerStone	1	821	Mảnh Đồng Hành	20000	1	6	1000	4	1	0	99999	30									
+822	Mảnh-Triết Biệt	Partner_piece_S_11	35	822		PartnerStone	1	822	Mảnh Đồng Hành	20000	1	6	1000	4	1	0	99999	31									
+823	Mảnh-Viên Thừa Chí	Partner_piece_S_12	35	823		PartnerStone	1	823	Mảnh Đồng Hành	20000	1	6	1000	4	1	0	99999	32									
+824	Mảnh-Ngao Bái	Partner_piece_S_13	35	824		PartnerStone	1	824	Mảnh Đồng Hành	20000	1	6	1000	4	1	0	99999	33									
+825	Mảnh-Kim Sí Bằng Hoàng	Partner_piece_S_14	35	825		PartnerStone	1	825	Mảnh Đồng Hành	20000	1	6	1000	4	1	0	99999	34									
+826	Mảnh-Xích Tinh Hổ Hoàng	Partner_piece_S_15	35	826		PartnerStone	1	826	Mảnh Đồng Hành	20000	1	6	1000	4	1	0	99999	35									
+827	Mảnh-Hám Thiên Hùng Hoàng	Partner_piece_S_16	35	827		PartnerStone	1	827	Mảnh Đồng Hành	20000	1	6	1000	4	1	0	99999	36									
+828	Mảnh-Định Hải Kim Cang	Partner_piece_S_17	35	828		PartnerStone	1	828	Mảnh Đồng Hành	20000	1	6	1000	4	1	0	99999	37									
+829	Mảnh-Đường Ảnh	Partner_piece_S_18	35	829		PartnerStone	1	829	Mảnh Đồng Hành	20000	1	6	1000	4	1	0	99999	38									
+830	Mảnh-Nhạc Phi	Partner_piece_S_19	35	830		PartnerStone	1	830	Mảnh Đồng Hành	20000	1	6	1000	4	1	0	99999	39									
+831	Mảnh-Dương Hi Liệt	Partner_piece_S_20	35	831		PartnerStone	1	831	Mảnh Đồng Hành	20000	1	6	1000	4	1	0	99999	40									
+832	Mảnh-Thượng Quan Phi Long	Partner_piece_S_21	35	832		PartnerStone	1	832	Mảnh Đồng Hành	20000	1	6	1000	4	1	0	99999	41									
+833	Mảnh-Diệp Vô Tâm	Partner_piece_S_22	35	833		PartnerStone	1	833	Mảnh Đồng Hành	20000	1	6	1000	4	1	0	99999	42									
+834	Mảnh-Mạnh Tri Thu	Partner_piece_S_23	35	834		PartnerStone	1	834	Mảnh Đồng Hành	20000	1	6	1000	4	1	0	99999	43									
+835	Mảnh-Nạp Lan Tiềm Lẫm	Partner_piece_S_24	35	835		PartnerStone	1	835	Mảnh Đồng Hành	20000	1	6	1000	4	1	0	99999	44									
+836	Mảnh-Trương Phong	Partner_piece_S_25	35	836		PartnerStone	1	836	Mảnh Đồng Hành	20000	1	6	1000	4	1	0	99999	45									
+837	Mảnh-Vô Hư Đại Sư	Partner_piece_S_26	35	837		PartnerStone	1	837	Mảnh Đồng Hành	20000	1	6	1000	4	1	0	99999	46									
+1018	Mảnh-Nam Cung Diệt	Partner_piece_S_27	35	2217		PartnerStone	1	2217	Mảnh Đồng Hành	20000	1	6	1000	4	1	0	99999	47									
+1019	Mảnh-Phương Miễn	Partner_piece_S_28	35	2219		PartnerStone	1	2219	Mảnh Đồng Hành	20000	1	6	1000	4	1	0	99999	48									
+1434	Mảnh-Thu Y Thủy	Partner_piece_S_29	35	1434		PartnerStone	1	1434	Mảnh Đồng Hành	20000	1	6	1000	4	1	0	99999	135									
+1439	Mảnh-Yên Nhược Tuyết	Partner_piece_S_34	35	1439		PartnerStone	1	1439	Mảnh Đồng Hành	20000	1	6	1000	4	1	0	99999	131									
+1440	Mảnh-Dương Tái Hưng	Partner_piece_S_35	35	1440		PartnerStone	1	1440	Mảnh Đồng Hành	20000	1	6	1000	4	1	0	99999	132									
+1441	Mảnh-Hàn Thế Trung	Partner_piece_S_36	35	1441		PartnerStone	1	1441	Mảnh Đồng Hành	20000	1	6	1000	4	1	0	99999	133									
+1447	Mảnh-Nhiếp Tiểu Sảnh	Partner_piece_A_31	35	1447		PartnerStone	1	1447	Mảnh Đồng Hành	15000	1	6	1000	3	1	0	99999	134									
+838	Mảnh-Nạp Lan Chân	Partner_piece_A_1	35	838		PartnerStone	1	838	Mảnh Đồng Hành	15000	1	6	1000	3	1	0	99999	49									
+1385	Mảnh Tiểu Ảnh Phong	Partner_piece_A_30	35	1385		PartnerStone	1	1385	Mảnh Đồng Hành	15000	1	6	1000	3	1	0	99999	126									
+839	Mảnh-Dương Thiết Tâm	Partner_piece_A_2	35	839		PartnerStone	1	839	Mảnh Đồng Hành	15000	1	6	1000	3	1	0	99999	50									
+840	Mảnh-Liễu Tiêu Đình	Partner_piece_A_3	35	840		PartnerStone	1	840	Mảnh Đồng Hành	15000	1	6	1000	3	1	0	99999	51									
+841	Mảnh-Vô Tưởng	Partner_piece_A_4	35	841		PartnerStone	1	841	Mảnh Đồng Hành	15000	1	6	1000	3	1	0	99999	52									
+842	Mảnh-Lý Điềm Nhi	Partner_piece_A_5	35	842		PartnerStone	1	842	Mảnh Đồng Hành	15000	1	6	1000	3	1	0	99999	53									
+843	Mảnh-Thiên Mục	Partner_piece_A_6	35	843		PartnerStone	1	843	Mảnh Đồng Hành	15000	1	6	1000	3	1	0	99999	54									
+844	Mảnh-Hoàn Nhan Tương	Partner_piece_A_7	35	844		PartnerStone	1	844	Mảnh Đồng Hành	15000	1	6	1000	3	1	0	99999	55									
+845	Mảnh-Huyền Từ	Partner_piece_A_8	35	845		PartnerStone	1	845	Mảnh Đồng Hành	15000	1	6	1000	3	1	0	99999	56									
+846	Mảnh-Doãn Tiêu Vũ	Partner_piece_A_9	35	846		PartnerStone	1	846	Mảnh Đồng Hành	15000	1	6	1000	3	1	0	99999	57									
+1443	Mảnh-Thạch Hiên Viên	Partner_piece_A_33	35	1443		PartnerStone	1	1443	Mảnh Đồng Hành	15000	1	6	1000	3	1	0	99999	136									
+1444	Mảnh-Thu Thạch	Partner_piece_A_34	35	1444		PartnerStone	1	1444	Mảnh Đồng Hành	15000	1	6	1000	3	1	0	99999	137									
+1445	Mảnh-Cổ Yên Nhiên	Partner_piece_A_35	35	1445		PartnerStone	1	1445	Mảnh Đồng Hành	15000	1	6	1000	3	1	0	99999	138									
+1446	Mảnh-Đường Hiểu	Partner_piece_A_36	35	1446		PartnerStone	1	1446	Mảnh Đồng Hành	15000	1	6	1000	3	1	0	99999	139									
+847	Mảnh-Hàn Ngọc Lộc Vương	Partner_piece_A_10	35	847		PartnerStone	1	847	Mảnh Đồng Hành	15000	1	6	1000	3	1	0	99999	58									
+848	Mảnh-Đại Địa Lang Vương	Partner_piece_A_11	35	848		PartnerStone	1	848	Mảnh Đồng Hành	15000	1	6	1000	3	1	0	99999	59									
+849	Mảnh-Bôn Diệm Báo Vương	Partner_piece_A_12	35	849		PartnerStone	1	849	Mảnh Đồng Hành	15000	1	6	1000	3	1	0	99999	60									
+850	Mảnh-Cửu Vĩ Hồ Vương	Partner_piece_A_13	35	850		PartnerStone	1	850	Mảnh Đồng Hành	15000	1	6	1000	3	1	0	99999	61									
+851	Mảnh-Nam Cung Thái Hồng	Partner_piece_A_14	35	851		PartnerStone	1	851	Mảnh Đồng Hành	15000	1	6	1000	3	1	0	99999	62									
+852	Mảnh-Trương Lâm Tâm	Partner_piece_A_15	35	852		PartnerStone	1	852	Mảnh Đồng Hành	15000	1	6	1000	3	1	0	99999	63									
+853	Mảnh-Tường Vi	Partner_piece_A_16	35	853		PartnerStone	1	853	Mảnh Đồng Hành	15000	1	6	1000	3	1	0	99999	64									
+854	Mảnh-Gia Luật Tị Li	Partner_piece_A_17	35	854		PartnerStone	1	854	Mảnh Đồng Hành	15000	1	6	1000	3	1	0	99999	65									
+855	Mảnh-Tô Mặc Vân	Partner_piece_A_18	35	855		PartnerStone	1	855	Mảnh Đồng Hành	15000	1	6	1000	3	1	0	99999	66									
+856	Mảnh-Trác Phi Phàm	Partner_piece_A_19	35	856		PartnerStone	1	856	Mảnh Đồng Hành	15000	1	6	1000	3	1	0	99999	67									
+857	Mảnh-Tử Hiên	Partner_piece_A_20	35	857		PartnerStone	1	857	Mảnh Đồng Hành	15000	1	6	1000	3	1	0	99999	68									
+858	Mảnh-Trương Như Mộng	Partner_piece_A_21	35	858		PartnerStone	1	858	Mảnh Đồng Hành	15000	1	6	1000	3	1	0	99999	69									
+859	Mảnh-Lâm Hải	Partner_piece_A_22	35	859		PartnerStone	1	859	Mảnh Đồng Hành	15000	1	6	1000	3	1	0	99999	70									
+860	Mảnh-Lục Văn Long	Partner_piece_A_23	35	860		PartnerStone	1	860	Mảnh Đồng Hành	15000	1	6	1000	3	1	0	99999	71									
+861	Mảnh-Vô Tướng	Partner_piece_A_24	35	861		PartnerStone	1	861	Mảnh Đồng Hành	15000	1	6	1000	3	1	0	99999	72									
+862	Mảnh-Triệu Thăng Quyền	Partner_piece_A_25	35	862		PartnerStone	1	862	Mảnh Đồng Hành	15000	1	6	1000	3	1	0	99999	73									
+863	Mảnh-Triệu Tiết	Partner_piece_A_26	35	863		PartnerStone	1	863	Mảnh Đồng Hành	15000	1	6	1000	3	1	0	99999	74									
+864	Mảnh-Thiệu Kỵ Phong	Partner_piece_A_27	35	864		PartnerStone	1	864	Mảnh Đồng Hành	15000	1	6	1000	3	1	0	99999	75									
+865	Mảnh-A28	Partner_piece_A_28	35	865		PartnerStone	1	865	Mảnh Đồng Hành	15000	1	6	1000	3	1	0	99999	76									
+866	Mảnh-A29	Partner_piece_A_29	35	866		PartnerStone	1	866	Mảnh Đồng Hành	15000	1	6	1000	3	1	0	99999	77									
+867	Mảnh-Kiếm Đồng	Partner_piece_B_1	35	867		PartnerStone	1	867	Mảnh Đồng Hành	10000	1	6	1000	2	1	0	99999	78									
+868	Mảnh-Tiêu Động Trần	Partner_piece_B_2	35	868		PartnerStone	1	868	Mảnh Đồng Hành	10000	1	6	1000	2	1	0	99999	79									
+869	Mảnh-Tâm Ma	Partner_piece_B_3	35	869		PartnerStone	1	869	Mảnh Đồng Hành	10000	1	6	1000	2	1	0	99999	80									
+870	Mảnh-Hồ Thần Y	Partner_piece_B_4	35	870		PartnerStone	1	870	Mảnh Đồng Hành	10000	1	6	1000	2	1	0	99999	81									
+871	Mảnh-Tần Mộc Bạch	Partner_piece_B_5	35	871		PartnerStone	1	871	Mảnh Đồng Hành	10000	1	6	1000	2	1	0	99999	82									
+872	Mảnh-Trương Trọng Thiên	Partner_piece_B_6	35	872		PartnerStone	1	872	Mảnh Đồng Hành	10000	1	6	1000	2	1	0	99999	83									
+873	Mảnh-Lộ Đạt	Partner_piece_B_7	35	873		PartnerStone	1	873	Mảnh Đồng Hành	10000	1	6	1000	2	1	0	99999	84									
+874	Mảnh-Lý Tam	Partner_piece_B_8	35	874		PartnerStone	1	874	Mảnh Đồng Hành	10000	1	6	1000	2	1	0	99999	85									
+875	Mảnh-Lư Thanh	Partner_piece_B_9	35	875		PartnerStone	1	875	Mảnh Đồng Hành	10000	1	6	1000	2	1	0	99999	86									
+876	Mảnh-Oanh Nhi	Partner_piece_B_10	35	876		PartnerStone	1	876	Mảnh Đồng Hành	10000	1	6	1000	2	1	0	99999	87									
+877	Mảnh-Cố Võ	Partner_piece_B_11	35	877		PartnerStone	1	877	Mảnh Đồng Hành	10000	1	6	1000	2	1	0	99999	88									
+878	Mảnh-B12	Partner_piece_B_12	35	878		PartnerStone	1	878	Mảnh Đồng Hành	10000	1	6	1000	2	1	0	99999	89									
+879	Mảnh-B13	Partner_piece_B_13	35	879		PartnerStone	1	879	Mảnh Đồng Hành	10000	1	6	1000	2	1	0	99999	90									
+880	Mảnh-B14	Partner_piece_B_14	35	880		PartnerStone	1	880	Mảnh Đồng Hành	10000	1	6	1000	2	1	0	99999	91									
+881	Mảnh-B15	Partner_piece_B_15	35	881		PartnerStone	1	881	Mảnh Đồng Hành	10000	1	6	1000	2	1	0	99999	92									
+882	Mảnh-B16	Partner_piece_B_16	35	882		PartnerStone	1	882	Mảnh Đồng Hành	10000	1	6	1000	2	1	0	99999	93									
+883	Mảnh-B17	Partner_piece_B_17	35	883		PartnerStone	1	883	Mảnh Đồng Hành	10000	1	6	1000	2	1	0	99999	94									
+884	Mảnh-B18	Partner_piece_B_18	35	884		PartnerStone	1	884	Mảnh Đồng Hành	10000	1	6	1000	2	1	0	99999	95									
+885	Mảnh-Kim Tiền Báo	Partner_piece_C_1	35	885		PartnerStone	1	885	Mảnh Đồng Hành	5000	1	6	1000	1	1	0	99999	96									
+886	Mảnh-Hắc Dực Liệp Ưng	Partner_piece_C_2	35	886		PartnerStone	1	886	Mảnh Đồng Hành	5000	1	6	1000	1	1	0	99999	97									
+887	Mảnh-Võ Lâm Ác Đồ	Partner_piece_C_3	35	887		PartnerStone	1	887	Mảnh Đồng Hành	5000	1	6	1000	1	1	0	99999	98									
+888	Mảnh-Mãnh Hổ	Partner_piece_C_4	35	888		PartnerStone	1	888	Mảnh Đồng Hành	5000	1	6	1000	1	1	0	99999	99									
+889	Mảnh-Phong Lâm Vệ	Partner_piece_C_5	35	889		PartnerStone	1	889	Mảnh Đồng Hành	5000	1	6	1000	1	1	0	99999	100									
+890	Mảnh-Viên Hầu	Partner_piece_C_6	35	890		PartnerStone	1	890	Mảnh Đồng Hành	5000	1	6	1000	1	1	0	99999	101									
+891	Mảnh-Thiết Diện Bổ Đầu	Partner_piece_C_7	35	891		PartnerStone	1	891	Mảnh Đồng Hành	5000	1	6	1000	1	1	0	99999	102									
+892	Mảnh-Hồng Y Nữ Đồng	Partner_piece_C_8	35	892		PartnerStone	1	892	Mảnh Đồng Hành	5000	1	6	1000	1	1	0	99999	103									
+893	Mảnh-Thầy Đúc Kiếm	Partner_piece_C_9	35	893		PartnerStone	1	893	Mảnh Đồng Hành	5000	1	6	1000	1	1	0	99999	104									
+894	Mảnh-Thợ Săn	Partner_piece_C_10	35	894		PartnerStone	1	894	Mảnh Đồng Hành	5000	1	6	1000	1	1	0	99999	105									
+895	Mảnh-Hồng Anh Thị	Partner_piece_C_11	35	895		PartnerStone	1	895	Mảnh Đồng Hành	5000	1	6	1000	1	1	0	99999	106									
+896	Mảnh-Cường Đạo	Partner_piece_C_12	35	896		PartnerStone	1	896	Mảnh Đồng Hành	5000	1	6	1000	1	1	0	99999	107									
+897	Mảnh-Đệ Tử Dược Vương	Partner_piece_C_13	35	897		PartnerStone	1	897	Mảnh Đồng Hành	5000	1	6	1000	1	1	0	99999	108									
+898	Mảnh-Sói Xám	Partner_piece_C_14	35	898		PartnerStone	1	898	Mảnh Đồng Hành	5000	1	6	1000	1	1	0	99999	109									
+899	Mảnh-Đông Doanh Nhẫn Giả	Partner_piece_C_15	35	899		PartnerStone	1	899	Mảnh Đồng Hành	5000	1	6	1000	1	1	0	99999	110									
+900	Mảnh-Sinh Sứ	Partner_piece_C_16	35	900		PartnerStone	1	900	Mảnh Đồng Hành	5000	1	6	1000	1	1	0	99999	111									
+901	Mảnh-Tử Thị	Partner_piece_C_17	35	901		PartnerStone	1	901	Mảnh Đồng Hành	5000	1	6	1000	1	1	0	99999	112									
+902	Mảnh-Hỏa Hồ	Partner_piece_C_18	35	902		PartnerStone	1	902	Mảnh Đồng Hành	5000	1	6	1000	1	1	0	99999	113									
+903	Mảnh-Đệ Tử Cửu U	Partner_piece_C_19	35	903		PartnerStone	1	903	Mảnh Đồng Hành	5000	1	6	1000	1	1	0	99999	114									
+904	Mảnh-Gấu Đen	Partner_piece_C_20	35	904		PartnerStone	1	904	Mảnh Đồng Hành	5000	1	6	1000	1	1	0	99999	115									
+905	Mảnh-Đệ Tử Vô Ưu Giáo	Partner_piece_C_21	35	905		PartnerStone	1	905	Mảnh Đồng Hành	5000	1	6	1000	1	1	0	99999	116									
+906	Mảnh-Thiên Công Tượng Giả	Partner_piece_C_22	35	906		PartnerStone	1	906	Mảnh Đồng Hành	5000	1	6	1000	1	1	0	99999	117									
+907	Mảnh-Khôi Lỗi Sĩ Binh	Partner_piece_C_23	35	907		PartnerStone	1	907	Mảnh Đồng Hành	5000	1	6	1000	1	1	0	99999	118									
+908	Mảnh-Cơ Quan Nhân	Partner_piece_C_24	35	908		PartnerStone	1	908	Mảnh Đồng Hành	5000	1	6	1000	1	1	0	99999	119									
+909	Mảnh-C25	Partner_piece_C_25	35	909		PartnerStone	1	909	Mảnh Đồng Hành	5000	1	6	1000	1	1	0	99999	120									
+910	Mảnh-C26	Partner_piece_C_26	35	910		PartnerStone	1	910	Mảnh Đồng Hành	5000	1	6	1000	1	1	0	99999	121									
+911	Mảnh-C27	Partner_piece_C_27	35	911		PartnerStone	1	911	Mảnh Đồng Hành	5000	1	6	1000	1	1	0	99999	122									
+912	Mảnh-C28	Partner_piece_C_28	35	912		PartnerStone	1	912	Mảnh Đồng Hành	5000	1	6	1000	1	1	0	99999	123									
+913	Mảnh-C29	Partner_piece_C_29	35	913		PartnerStone	1	913	Mảnh Đồng Hành	5000	1	6	1000	1	1	0	99999	124									
+914	Mảnh-C30	Partner_piece_C_30	35	914		PartnerStone	1	914	Mảnh Đồng Hành	5000	1	6	1000	1	1	0	99999	125									
+970	Mảnh Bùa Thao Thiết-Cao	RuneScoll_piece_12_Lv3	35	693		PartnerScroll	4	693	Mảnh	8000	1	6	1000	3	1	0	99999										
+971	Mảnh Bùa Đế Giang-Cao	RuneScoll_piece_13_Lv3	35	694		PartnerScroll	4	694	Mảnh	8000	1	6	1000	3	1	0	99999										
+972	Mảnh Bùa Chúc Long-Cao	RuneScoll_piece_14_Lv3	35	695		PartnerScroll	4	695	Mảnh	8000	1	6	1000	3	1	0	99999										
+973	Mảnh Bùa Quỳ Ngưu-Cao	RuneScoll_piece_15_Lv3	35	696		PartnerScroll	4	696	Mảnh	8000	1	6	1000	3	1	0	99999										
+974	Mảnh Bùa Cùng Kỳ-Cao	RuneScoll_piece_16_Lv3	35	697		PartnerScroll	4	697	Mảnh	8000	1	6	1000	3	1	0	99999										
+975	Mảnh Bùa Côn Bằng-Cao	RuneScoll_piece_17_Lv3	35	698		PartnerScroll	4	698	Mảnh	8000	1	6	1000	3	1	0	99999										
+976	Mảnh Bùa Đằng Xà-Cao	RuneScoll_piece_18_Lv3	35	699		PartnerScroll	4	699	Mảnh	8000	1	6	1000	3	1	0	99999										
+977	Mảnh Bùa Tì Hưu-Cao	RuneScoll_piece_19_Lv3	35	700		PartnerScroll	4	700	Mảnh	8000	1	6	1000	3	1	0	99999										
+978	Mảnh Bùa Kháng Tất Cả-Cường Hiệu	RuneScoll_piece_3_Lv4	35	701		PartnerScroll	4	701	Mảnh	8000	1	6	1000	4	1	0	99999										
+979	Mảnh Bùa Chính Xác-Cường Hiệu	RuneScoll_piece_4_Lv4	35	702		PartnerScroll	4	702	Mảnh	8000	1	6	1000	4	1	0	99999										
+980	Mảnh Bùa Né Tránh-Cường Hiệu	RuneScoll_piece_5_Lv4	35	703		PartnerScroll	4	703	Mảnh	8000	1	6	1000	4	1	0	99999										
+981	Mảnh Bùa Bạo Kích-Cường Hiệu	RuneScoll_piece_6_Lv4	35	704		PartnerScroll	4	704	Mảnh	8000	1	6	1000	4	1	0	99999										
+982	Mảnh Bùa Bỏ Qua Né Tránh-Cường Hiệu	RuneScoll_piece_7_Lv4	35	705		PartnerScroll	4	705	Mảnh	8000	1	6	1000	4	1	0	99999										
+983	Mảnh Bùa Giảm Bạo Kích-Cường Hiệu	RuneScoll_piece_8_Lv4	35	706		PartnerScroll	4	706	Mảnh	8000	1	6	1000	4	1	0	99999										
+984	Mảnh Bùa Hiệu Quả-Cường Hiệu	RuneScoll_piece_9_Lv4	35	707		PartnerScroll	4	707	Mảnh	8000	1	6	1000	4	1	0	99999										
+985	Mảnh Bùa Giảm Hiệu Quả-Cường Hiệu	RuneScoll_piece_10_Lv4	35	708		PartnerScroll	4	708	Mảnh	8000	1	6	1000	4	1	0	99999										
+986	Mảnh Bùa Hồi Phục-Cường Hiệu	RuneScoll_piece_11_Lv4	35	709		PartnerScroll	4	709	Mảnh	8000	1	6	1000	4	1	0	99999										
+987	Mảnh Bùa Huyền Vũ-Đặc Hiệu	RuneScroll_piece_20_Lv5	35	710		PartnerScroll	4	710	Mảnh	12000	1	6	1000	5	1	0	99999										
+988	Mảnh Bùa Thanh Long-Đặc Hiệu	RuneScroll_piece_21_Lv5	35	711		PartnerScroll	4	711	Mảnh	12000	1	6	1000	5	1	0	99999										
+989	Mảnh Bùa Phượng Hoàng-Đặc Hiệu	RuneScroll_piece_22_Lv5	35	712		PartnerScroll	4	712	Mảnh	12000	1	6	1000	5	1	0	99999										
+990	Mảnh Bùa Bạch Hổ-Đặc Hiệu	RuneScroll_piece_23_Lv5	35	713		PartnerScroll	4	713	Mảnh	12000	1	6	1000	5	1	0	99999										
+991	Mảnh Bùa Chu Tước-Đặc Hiệu	RuneScroll_piece_24_Lv5	35	714		PartnerScroll	4	714	Mảnh	12000	1	6	1000	5	1	0	99999										
+992	Mảnh Bùa Ứng Long-Đặc Hiệu	RuneScroll_piece_25_Lv5	35	715		PartnerScroll	4	715	Mảnh	12000	1	6	1000	5	1	0	99999										
+993	Mảnh Bùa Bạch Trạch-Đặc Hiệu	RuneScroll_piece_26_Lv5	35	716		PartnerScroll	4	716	Mảnh	12000	1	6	1000	5	1	0	99999										
+994	Mảnh Bùa Kỳ Lân-Đặc Hiệu	RuneScroll_piece_27_Lv5	35	717		PartnerScroll	4	717	Mảnh	12000	1	6	1000	5	1	0	99999										
+995	Mảnh Bùa Kháng Tất Cả-Hoàn Mỹ	RuneScoll_piece_3_Lv6	35	718		PartnerScroll	4	718	Mảnh	15000	1	6	1000	6	1	0	99999										
+996	Mảnh Bùa Chính Xác-Hoàn Mỹ	RuneScoll_piece_4_Lv6	35	719		PartnerScroll	4	719	Mảnh	15000	1	6	1000	6	1	0	99999										
+997	Mảnh Bùa Né Tránh-Hoàn Mỹ	RuneScoll_piece_5_Lv6	35	720		PartnerScroll	4	720	Mảnh	15000	1	6	1000	6	1	0	99999										
+998	Mảnh Bùa Bạo Kích-Hoàn Mỹ	RuneScoll_piece_6_Lv6	35	721		PartnerScroll	4	721	Mảnh	15000	1	6	1000	6	1	0	99999										
+999	Mảnh Bùa Bỏ Qua Né Tránh-Hoàn Mỹ	RuneScoll_piece_7_Lv6	35	722		PartnerScroll	4	722	Mảnh	15000	1	6	1000	6	1	0	99999										
+1000	Mảnh Bùa Giảm Bạo Kích-Hoàn Mỹ	RuneScoll_piece_8_Lv6	35	723		PartnerScroll	4	723	Mảnh	15000	1	6	1000	6	1	0	99999										
+1001	Mảnh Bùa Hiệu Quả-Hoàn Mỹ	RuneScoll_piece_9_Lv6	35	724		PartnerScroll	4	724	Mảnh	15000	1	6	1000	6	1	0	99999										
+1002	Mảnh Bùa Giảm Hiệu Quả-Hoàn Mỹ	RuneScoll_piece_10_Lv6	35	725		PartnerScroll	4	725	Mảnh	15000	1	6	1000	6	1	0	99999										
+1003	Mảnh Bùa Hồi Phục-Hoàn Mỹ	RuneScoll_piece_11_Lv6	35	726		PartnerScroll	4	726	Mảnh	15000	1	6	1000	6	1	0	99999										

@@ -1,0 +1,11 @@
+Index	TemplateID	Name	Kind	Camp	ClassName	ScriptParam	NpcResID	FaceID	BigFaceID	ReviveFrame	NpcAttribID	NormalSkill1	NormalSkillLevel1	NormalSkill2	NormalSkillLevel2	NormalSkill3	NormalSkillLevel3	VisionRadius	ActiveRadius	AiFile	Treasure	DropFile	FightMode	RunSpeed	BloodStyle	ForbitMove	TitleID	AuraSkillId	AuraSkillLevel	StartActEvent	Tag	DropType	DefaultDialog	WalkSpeed	NameColor	Experience	FixExperience	GouHuoRate	IsNotBYStealLife	IsNotShowShadow	SyncFirst	TransBossNpcTID	TransBossRate	Sex
+Show_Guard	677	Vệ Binh	0	1			150	200	300		901	22	1					1500	1500	Setting/Npc/Ai/KeepMoving.ini				18	3									12										
+House_Spokesperson_Lgx	2328	Lâm Triều Hoa	2	0	ProlocutorNpcInHouse		1179	200	300		901	22	1	1696	1			1500	1500					18	3								Ta có rượu, ngươi muốn kể chuyện không?	12										
+House_Spokesperson_Zly	2329	Triệu Ân Đồng	2	0	ProlocutorNpcInHouse		1178	200	300		901	22	1	1697	1			1500	1500					18	3								Hạt cát theo thời gian cũng có thể trở thành trân châu!	12										
+DrinkHouse_fuzi	3432	Chữ Phúc	5	0			3432	200	300		901							1500	1500					18	3								Hạt cát theo thời gian cũng có thể trở thành trân châu!	12										
+DrinkHouse_fuzi1	3433	Chữ Phúc	5	0			3433	200	300		901							1500	1500					18	3								Hạt cát theo thời gian cũng có thể trở thành trân châu!	12										
+DrinkHouse_bianpao1	3434	Pháo	5	0			3434	200	300		901							1500	1500					18	3								Hạt cát theo thời gian cũng có thể trở thành trân châu!	12										
+DrinkHouse_bianpao2	3435	Pháo	5	0			3435	200	300		901							1500	1500					18	3								Hạt cát theo thời gian cũng có thể trở thành trân châu!	12										
+DrinkHouse_denglong	3436	Lồng Đèn	5	0			3436	200	300		901							1500	1500					18	3								Hạt cát theo thời gian cũng có thể trở thành trân châu!	12										
+DrinkHouse_nianyefan	3437	Bàn	5	0			3437	200	300		901							1500	1500					18	3								Hạt cát theo thời gian cũng có thể trở thành trân châu!	12										
+DrinkHouse_yuanbao	3438	Nguyên Bảo	5	0			3438	200	300		901							1500	1500					18	3								Hạt cát theo thời gian cũng có thể trở thành trân châu!	12										

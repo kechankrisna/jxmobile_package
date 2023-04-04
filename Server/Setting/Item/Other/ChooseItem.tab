@@ -1,0 +1,784 @@
+TemplateId	Faction	ChooseItem	Num	TimeFrame	Level	CheckLimit	ThisNeedCount	Desc	NotVersion_vn	NotVersion_hk	NotVersion_xm	NotVersion_en	NotVersion_kor	NotVersion_th
+2153		1134	1					Dây Chuyền Hiếm T3						
+2153		1144	1					Nhẫn Hiếm T3						
+2153		1154	1					Ngọc Bội Hiếm T3						
+2153		1164	1					Hộ Thân Phù Hiếm T3						
+3521		1135	1					Dây Chuyền Hiếm T4						
+3521		1145	1					Nhẫn Hiếm T4						
+3521		1155	1					Ngọc Bội Hiếm T4						
+3521		1165	1					Hộ Thân Phù Hiếm T4						
+3522		1136	1					Dây Chuyền Hiếm T5						
+3522		1146	1					Nhẫn Hiếm T5						
+3522		1156	1					Ngọc Bội Hiếm T5						
+3522		1166	1					Hộ Thân Phù Hiếm T5						
+3523		1137	1					Dây Chuyền Hiếm T6						
+3523		1147	1					Nhẫn Hiếm T6						
+3523		1157	1					Ngọc Bội Hiếm T6						
+3523		1167	1					Hộ Thân Phù Hiếm T6						
+2306		1135	1											
+2306		1145	1											
+2306		1155	1											
+2306		1165	1											
+2307		1175	1											
+2307		1195	1											
+2307		1205	1											
+2307		1215	1											
+2424	1	2398	1											
+2424	1	2401	1											
+2424	1	2719	1											
+2424	1	2402	1											
+2424	2	2720	1											
+2424	2	2403	1											
+2424	2	2404	1											
+2424	2	2405	1											
+2424	4	2721	1											
+2424	4	2406	1											
+2424	4	2407	1											
+2424	4	2408	1											
+2424	3	2409	1											
+2424	3	2722	1											
+2424	3	2410	1											
+2424	3	2411	1											
+2424	5	2412	1											
+2424	5	2414	1											
+2424	5	2413	1											
+2424	5	2723	1											
+2424	6	2724	1											
+2424	6	2415	1											
+2424	6	2416	1											
+2424	6	2417	1											
+2424	7	2713	1											
+2424	7	2714	1											
+2424	7	2715	1											
+2424	7	2749	1											
+2424	8	2716	1											
+2424	8	2717	1											
+2424	8	2718	1											
+2424	8	2750	1											
+2424	9	3267	1											
+2424	9	3268	1											
+2424	9	3269	1											
+2424	9	3270	1											
+2424	10	3271	1											
+2424	10	3272	1											
+2424	10	3273	1											
+2424	10	3274	1											
+2424	11	4021	1											
+2424	11	4022	1											
+2424	11	4023	1											
+2424	11	4024	1											
+2424	12	4025	1											
+2424	12	4026	1											
+2424	12	4027	1											
+2424	12	4028	1											
+2424	13	5201	1											
+2424	13	5202	1											
+2424	13	5203	1											
+2424	13	5204	1											
+2424	14	5205	1											
+2424	14	5206	1											
+2424	14	5207	1											
+2424	14	5208	1											
+2424	15	6675	1											
+2424	15	6674	1											
+2424	15	6676	1											
+2424	15	6677	1											
+2424	16	7520	1											
+2424	16	7521	1											
+2424	16	7522	1											
+2424	16	7523	1											
+2424	17	8445	1											
+2424	17	8446	1											
+2424	17	8447	1											
+2424	17	8448	1											
+2424	18	9879	1											
+2424	18	9880	1											
+2424	18	9881	1											
+2424	18	9882	1											
+2424	19	10537	1											
+2424	19	10538	1											
+2424	19	10539	1											
+2424	19	10540	1											
+2424	20	11273	1											
+2424	20	11274	1											
+2424	20	11275	1											
+2424	20	11276	1											
+2424	1	7991	1				150	Tuyệt Học-Kim Chung Tráo						
+2424	2	8001	1				150	Tuyệt Học-Từ Hàng Phổ Độ 						
+2424	3	8011	1				150	Tuyệt Học-Hỏa Phượng Liêu Nguyên						
+2424	4	8021	1				150	Tuyệt Học-Bạch Hồng Quán Nhật						
+2424	5	8031	1				150	Tuyệt Học-Vô Ngã Vô Kiếm						
+2424	6	8041	1				150	Tuyệt Học-Tử Vong Hồi Toàn						
+2424	7	8051	1				150	Tuyệt Học-Đại Lực Kim Cang Chỉ						
+2424	8	8061	1				150	Tuyệt Học-Triệu Hồi Bảo Bảo						
+2424	9	8071	1				150	Tuyệt Học-Bạo Vũ Lê Hoa						
+2424	10	8081	1				150	Tuyệt Học-Hỗn Độn Kiếm Trận						
+2424	11	8091	1				150	Tuyệt Học-Hàng Long Hữu Hối						
+2424	12	8101	1				150	Tuyệt Học-Ngũ Độc Địch Pháp						
+2424	13	8111	1				150	Tuyệt Học-Ngọc Tuyền Ngư Dược						
+2424	14	8121	1				150	Tuyệt Học-Dư Âm Nhiễu Lương						
+2424	15	8131	1				150	Tuyệt Học-Mai Hoa Tam Lộng						
+2424	16	8141	1				150	Tuyệt Học-Dục Huyết Đạo Phong						
+2424	17	8151	1				150	Tuyệt Học-Phong Tống Tử Hà						
+2424	18	9988	1				150	Tuyệt Học-Hỏa Quang Tàn Ảnh						
+2424	19	10557	1				150	Tuyệt Học-Nhất Dương Chỉ						
+2424	20	11285	1				150	Tuyệt Học-Vạn Hoa Bút Pháp						
+2424	1	7992	1				150	Tuyệt Học-Huyết Chiến Bát Phương						
+2424	2	8002	1				150	Tuyệt Học-Bạch Lộ Ngưng Sương						
+2424	3	8012	1				150	Tuyệt Học-Đào Hoa Tiễn Thuật						
+2424	4	8022	1				150	Tuyệt Học-Thất Thám Xà Bàn						
+2424	5	8032	1				150	Tuyệt Học-Tọa Vọng Vô Ngã						
+2424	6	8042	1				150	Tuyệt Học-Huyết Nguyệt Chi Ảnh 						
+2424	7	8052	1				150	Tuyệt Học-La Hán Trận						
+2424	8	8062	1				150	Tuyệt Học-Băng Tâm Tuyết Liên						
+2424	9	8072	1				150	Tuyệt Học-Cửu Cung Phi Tinh						
+2424	10	8082	1				150	Tuyệt Học-Tiếu Phong Tam Liên Kích						
+2424	11	8092	1				150	Tuyệt Học-Long Chiến Vu Dã						
+2424	12	8102	1				150	Tuyệt Học-Ngự Cổ Tâm Kinh						
+2424	13	8112	1				150	Tuyệt Học-Ánh Ba Tỏa Lan						
+2424	14	8122	1				150	Tuyệt Học-Vân Sinh Kết Hải						
+2424	15	8132	1				150	Tuyệt Học-Mai Hoa Tam Lộng						
+2424	16	8142	1				150	Tuyệt Học-Hiệp Sơn Siêu Hải						
+2424	17	8152	1				150	Tuyệt Học-Tiêu Sử Thừa Long						
+2424	18	9989	1				150	Tuyệt Học-Bất Diệt Quang						
+2424	19	10558	1				150	Tuyệt Học-Thủy Long Ngục						
+2424	20	11286	1				150	Tuyệt Học-Mặc Thủ Thành Quy						
+2699		2528	1			1		【Đá Hồn Lv4 Tự Chọn】Đá Hồn Dương Anh-Sơ						
+2699		2529	1					Đá Hồn Thanh Hiểu Sư Thái-Sơ						
+2699		2530	1					Đá Hồn Chúc Tử Hư-Sơ						
+2699		2531	1					Đá Hồn Hoàng Mộ Vân-Sơ						
+2699		2532	1					Đá Hồn Đạo Nhất Chân Nhân-Sơ						
+2699		2533	1					Đá Hồn Đoan Mộc Duệ-Sơ						
+2699		1754	1					Đá Hồn Xích Tinh Hổ Hoàng-Sơ						
+2699		1755	1					Đá Hồn Hám Thiên Hùng Hoàng-Sơ						
+2699		1756	1					Đá Hồn Tử Bối Ngạc Hoàng-Sơ						
+2699		1757	1					Đá Hồn Định Hải Kim Cang-Sơ						
+2699		1758	1					Đá Hồn Kim Sí Bằng Hoàng-Sơ						
+2699		1759	1					Đá Hồn Ngân Giác Tê Hoàng-Sơ						
+2699		2534	1					Đá Hồn Mạnh Tri Thu-Sơ						
+2699		2535	1					Đá Hồn Lý Hiển Trung-Sơ						
+2699		2536	1					Đá Hồn Đồ Đơn Khắc Ninh-Sơ						
+2699		2696	1					Đá Hồn Hoàn Nhan Hồng Liệt-Sơ						
+2699		2824	1					Đá Hồn Huyền Thiên Võ Cơ-Sơ						
+2699		2825	1					Đá Hồn Bạch Khởi-Sơ						
+2699		2826	1					Đá Hồn Lý Tư-Sơ						
+2699		2848	1					Đá Hồn Huyền Nhân-Sơ						
+2699		3022	1					Đá Hồn Lôi-Sơ						
+2699		3215	1					Đá Hồn Lý Nguyên Bá-Sơ						
+2699		3216	1					Đá Hồn Triệu Vân-Sơ						
+2699		3217	1					Đá Hồn Lý Quảng-Sơ						
+2699		2672	1					Đá Hồn Kinh Kha-Sơ						
+2699		2673	1					Đá Hồn Ngu Cơ-Sơ						
+2699		2674	1					Đá Hồn Nhạc Phi-Sơ						
+2699		2668	1			1		Đá Hồn Độc Cô Kiếm-Sơ						
+2699		2880	1			1		Đá Hồn Nam Cung Phi-Sơ						
+2699		2881	1			1		Đá Hồn Dương Ảnh Phong-Sơ						
+2699		3371	1					Đá Hồn Doãn Hàm Yên-Sơ						
+2699		3372	1			1		Đá Hồn Tuyền Cơ Tử-Sơ						
+2699		3373	1			1		Đá Hồn Huyền Thiên Đạo Nhân-Sơ						
+2699		3709	1					Đá Hồn Niên Thú-Sơ						
+2699		3856	1			1		Đá Hồn Đường Cừu-Sơ						
+2699		3854	1			1		Đá Hồn Hắc Diện Lang Quân-Sơ						
+2699		3855	1			1		Đá Hồn Hà Nhân Ngã-Sơ						
+2699		4540	1					Đá Hồn Băng Lân Tích Hoàng-Sơ						
+2699		4541	1					Đá Hồn Ngân Câu Hạt Hoàng-Sơ						
+2699		4542	1					Đá Hồn Cuồng Tông Ngao Hoàng-Sơ						
+2699		4873	1			1		Đá Hồn Tống Thu Thạch-Sơ						
+2699		4874	1			1		Đá Hồn Cổ Yên Nhiên-Sơ						
+2699		5433	1			1		Đá Hồn Thạch Hiên Viên-Sơ						
+2699		6067	1			1		Đá Hồn Diệp Thanh Dương-Sơ						
+2699		6068	1			1		Đá Hồn Băng Nghi-Sơ						
+2699		6069	1			1		Đá Hồn Dương Tái Hưng-Sơ						
+2699		6070	1			1		Đá Hồn Hoàn Nhan Lâu Thất-Sơ						
+2699		6100	1			1		Đá Hồn Tiêu Ngọc Trúc-Sơ						
+2699		6285	1			1		Đá Hồn Hàn Mông-Sơ						
+2699		5432	1			1		Đá Hồn Doãn Tiêu Vũ-Sơ						
+2699		6128	1			1		Đá Hồn Địch Nhân Kiệt-Sơ						
+2699		6129	1			1		Đá Hồn Lý Nguyên Phương-Sơ						
+2699		6130	1			1		Đá Hồn Vô Tự Bi-Sơ						
+2699		6101	1			1		Đá Hồn Kim Ngột Thuật-Sơ						
+2699		7374	1			1		Đá Hồn Hà Linh Phiêu-Sơ						
+2699		7429	1			1		Đá Hồn Long Văn Sư Vương-Sơ						
+2699		7432	1			1		Đá Hồn Cự Ngao Phong Hậu-Sơ						
+2699		7649	1			1		Đá Hồn Vương Vân Tiêu-Sơ						
+2699		7650	1			1		Đá Hồn Kinh Tuyết-Sơ						
+2699		7741	1			1		Đá Hồn Không Tướng-Sơ						
+2699		9398	1			1		Đá Hồn Lâm Thanh Vũ-Sơ						
+2699		9971	1			1		Đá Hồn Phong Hành Chu-Sơ						
+100070		9398	1					Đá Hồn Lâm Thanh Vũ-Sơ
+100070		9971	1					Đá Hồn Phong Hành Chu-Sơ
+7716		2528	1			1		【Đá Hồn Binh Giáp Lv4-Tùy Chọn】Đá Hồn Dương Anh-Sơ						
+7716		2529	1					Đá Hồn Thanh Hiểu Sư Thái-Sơ						
+7716		2825	1					Đá Hồn Bạch Khởi-Sơ						
+7716		2848	1					Đá Hồn Huyền Nhân-Sơ						
+7716		3022	1					Đá Hồn Lôi-Sơ						
+7716		3373	1			1		Đá Hồn Huyền Thiên Đạo Nhân-Sơ						
+7716		3854	1			1		Đá Hồn Hắc Diện Lang Quân-Sơ						
+7716		4874	1			1		Đá Hồn Cổ Yên Nhiên-Sơ						
+7716		6128	1			1		Đá Hồn Địch Nhân Kiệt-Sơ						
+7716		6130	1			1		Đá Hồn Vô Tự Bi-Sơ						
+7716		7741	1			1		Đá Hồn Không Tướng-Sơ						
+7717		2530	1					【Đá Hồn Trang Sức Lv4-Tùy Chọn】Đá Hồn Chúc Tử Hư-Sơ						
+7717		2531	1					Đá Hồn Hoàng Mộ Vân-Sơ						
+7717		1756	1					Đá Hồn Tử Bối Ngạc Hoàng-Sơ						
+7717		2534	1					Đá Hồn Mạnh Tri Thu-Sơ						
+7717		2536	1					Đá Hồn Đồ Đơn Khắc Ninh-Sơ						
+7717		2696	1					Đá Hồn Hoàn Nhan Hồng Liệt-Sơ						
+7717		2824	1					Đá Hồn Huyền Thiên Võ Cơ-Sơ						
+7717		2826	1					Đá Hồn Lý Tư-Sơ						
+7717		3216	1					Đá Hồn Triệu Vân-Sơ						
+7717		2673	1					Đá Hồn Ngu Cơ-Sơ						
+7717		2674	1					Đá Hồn Nhạc Phi-Sơ						
+7717		2880	1			1		Đá Hồn Nam Cung Phi-Sơ						
+7717		3856	1			1		Đá Hồn Đường Cừu-Sơ						
+7717		3855	1			1		Đá Hồn Hà Nhân Ngã-Sơ						
+7717		4540	1					Đá Hồn Băng Lân Tích Hoàng-Sơ						
+7717		4541	1					Đá Hồn Ngân Câu Hạt Hoàng-Sơ						
+7717		4542	1					Đá Hồn Cuồng Tông Ngao Hoàng-Sơ						
+7717		4873	1			1		Đá Hồn Tống Thu Thạch-Sơ						
+7717		6067	1			1		Đá Hồn Diệp Thanh Dương-Sơ						
+7717		6069	1			1		Đá Hồn Dương Tái Hưng-Sơ						
+7717		6070	1			1		Đá Hồn Hoàn Nhan Lâu Thất-Sơ						
+7717		7429	1			1		Đá Hồn Long Văn Sư Vương-Sơ						
+7717		7432	1			1		Đá Hồn Cự Ngao Phong Hậu-Sơ						
+7717		7650	1			1		Đá Hồn Kinh Tuyết-Sơ						
+7718		2532	1					【Đá Hồn Phòng Cụ Lv4-Tùy Chọn】Đá Hồn Đạo Nhất Chân Nhân-Sơ						
+7718		2533	1					Đá Hồn Đoan Mộc Duệ-Sơ						
+7718		1754	1					Đá Hồn Xích Tinh Hổ Hoàng-Sơ						
+7718		1755	1					Đá Hồn Hám Thiên Hùng Hoàng-Sơ						
+7718		1757	1					Đá Hồn Định Hải Kim Cang-Sơ						
+7718		1758	1					Đá Hồn Kim Sí Bằng Hoàng-Sơ						
+7718		1759	1					Đá Hồn Ngân Giác Tê Hoàng-Sơ						
+7718		2535	1					Đá Hồn Lý Hiển Trung-Sơ						
+7718		3215	1					Đá Hồn Lý Nguyên Bá-Sơ						
+7718		3217	1					Đá Hồn Lý Quảng-Sơ						
+7718		2672	1					Đá Hồn Kinh Kha-Sơ						
+7718		2668	1			1		Đá Hồn Độc Cô Kiếm-Sơ						
+7718		2881	1			1		Đá Hồn Dương Ảnh Phong-Sơ						
+7718		3371	1					Đá Hồn Doãn Hàm Yên-Sơ						
+7718		3372	1			1		Đá Hồn Tuyền Cơ Tử-Sơ						
+7718		3709	1					Đá Hồn Niên Thú-Sơ						
+7718		5433	1			1		Đá Hồn Thạch Hiên Viên-Sơ						
+7718		6068	1			1		Đá Hồn Băng Nghi-Sơ						
+7718		6100	1			1		Đá Hồn Tiêu Ngọc Trúc-Sơ						
+7718		6285	1			1		Đá Hồn Hàn Mông-Sơ						
+7718		5432	1			1		Đá Hồn Doãn Tiêu Vũ-Sơ						
+7718		6129	1			1		Đá Hồn Lý Nguyên Phương-Sơ						
+7718		6101	1			1		Đá Hồn Kim Ngột Thuật-Sơ						
+7718		7374	1			1		Đá Hồn Hà Linh Phiêu-Sơ						
+7718		7649	1			1		Đá Hồn Vương Vân Tiêu-Sơ						
+7670		6126	1					Đá Hồn Võ Tắc Thiên-Sơ (Âm)						
+7670		6127	1					Đá Hồn Võ Tắc Thiên-Sơ (Dương)						
+7670		6112	1					Đá Hồn Ngu Cơ Tuyệt Thế-Sơ						
+7670		4849	1					Đá Hồn Đường Hiểu-Sơ						
+7670		4595	1					Đá Hồn Hạng Vũ-Sơ						
+7670		4053	1					Đá Hồn Hoàn Nhan Hồng Liệt-Sơ (Chân)						
+7670		2827	1					Đá Hồn Tần Thủy Hoàng-Sơ (Âm)						
+7670		2828	1					Đá Hồn Tần Thủy Hoàng-Sơ (Dương)						
+7670		3897	1					Đá Hồn Đường Giản-Sơ						
+7670		7377	1					Đá Hồn Ngu Doãn Văn-Sơ						
+7670		7648	1					Đá Hồn Vương Đằng-Sơ						
+7670		9401	1					Đá Hồn Mạnh Thương Lam-Sơ						
+100060		9977	1					Đá Hồn Quỷ Cốc Tử-Sơ (Âm)
+100060		9980	1					Đá Hồn Quỷ Cốc Tử-Sơ (Âm)
+100060		9974	1					Đá Hồn Phương Công Vọng-Sơ
+100060		10126	1					Đá Hồn Huyền Băng Điêu Hoàng-Sơ
+100060		10127	1					Đá Hồn Vạn Độc Cúc Hoàng-Sơ
+100060		10128	1					Đá Hồn Hoàn Nhan Tông Hàn-Sơ
+100060		10149	1					Đá Hồn Diệp Vô Tâm-Sơ
+3179		1378	1					Đồng Hành-Độc Cô Kiếm						
+3179		2253	1					Đồng Hành-Nam Cung Phi						
+3179		2254	1					Đồng Hành-Dương Ảnh Phong						
+3179		1398	1					Đồng Hành-Kinh Kha						
+3179		2258	1					Đồng Hành-Ngu Cơ						
+3179		2259	1					Đồng Hành-Nhạc Phi						
+3179		1399	1					Đồng Hành-Lý Quảng 						
+3179		1400	1					Đồng Hành-Triệu Vân						
+3179		1401	1					Đồng Hành-Lý Nguyên Bá						
+3179		2255	1					Đồng Hành-Đường Giản						
+3495		1175	1					Nón Bậc 4 Hiếm						
+3495		1195	1					Hộ Uyển Bậc 4 Hiếm						
+3495		1205	1					Đai Bậc 4 Hiếm						
+3495		1215	1					Giày Bậc 4 Hiếm						
+3520		1174	1					Nón Hiếm T3						
+3520		1194	1					Hộ Uyển Hiếm T3						
+3520		1204	1					Đai Hiếm T3						
+3520		1214	1					Giày Hiếm T3						
+3519		1175	1					Nón Hiếm T4						
+3519		1195	1					Hộ Uyển Hiếm T4						
+3519		1205	1					Đai Hiếm T4						
+3519		1215	1					Giày Hiếm T4						
+3511		1176	1					Nón Hiếm T5						
+3511		1196	1					Hộ Uyển Hiếm T5						
+3511		1206	1					Đai Hiếm T5						
+3511		1216	1					Giày Hiếm T5						
+3512		1177	1					Nón Hiếm T6						
+3512		1197	1					Hộ Uyển Hiếm T6						
+3512		1207	1					Đai Hiếm T6						
+3512		1217	1					Giày Hiếm T6						
+3513		1178	1					Nón Hiếm T7						
+3513		1198	1					Hộ Uyển Hiếm T7						
+3513		1208	1					Đai Hiếm T7						
+3513		1218	1					Giày Hiếm T7						
+3514		1179	1					Nón Hiếm T8						
+3514		1199	1					Hộ Uyển Hiếm T8						
+3514		1209	1					Đai Hiếm T8						
+3514		1219	1					Giày Hiếm T8						
+3517		1697	1					Đá Hồn Ân Phương-Sơ						
+3517		1709	1					Đá Hồn Trác Phi Phàm-Sơ						
+3517		1710	1					Đá Hồn Nguyệt Minh Dao-Sơ						
+3517		1711	1					Đá Hồn Long Ngạo Thiên-Sơ						
+3517		1712	1					Đá Hồn Mạt Thiên Nhiên-Sơ						
+3517		1719	1					Đá Hồn Đường Tiêu-Sơ						
+3517		1721	1					Đá Hồn Trương Lâm Tâm-Sơ						
+3517		1722	1					Đá Hồn Phong Ngọc Thư-Sơ						
+3517		1725	1					Đá Hồn Hà Mộ Tuyết-Sơ						
+3517		1726	1					Đá Hồn Triệu Thăng Quyền-Sơ						
+3517		1727	1					Đá Hồn Nạp Lan Chân-Sơ						
+3517		1728	1					Đá Hồn Sài Tung-Sơ						
+3517		1737	1					Đá Hồn Thiệu Hồng Uyên-Sơ						
+3517		1738	1					Đá Hồn Bạch Ngạn Kính-Sơ						
+3517		1740	1					Đá Hồn Lôi Phong-Sơ						
+3517		1741	1					Đá Hồn Lôi Đồng-Sơ						
+3517		1742	1					Đá Hồn Đường Quyên Quyên-Sơ						
+3517		1744	1					Đá Hồn Đoạt Bảo Tặc-Sơ						
+3517		1760	1					Đá Hồn Trương Phong-Sơ						
+3517		1761	1					Đá Hồn Nguyệt My Nhi-Sơ						
+3517		1704	1					Đá Hồn Bạch Mi Hầu Vương-Sơ						
+3517		1705	1					Đá Hồn Đại Địa Lang Vương-Sơ						
+3517		1706	1					Đá Hồn Hàn Ngọc Lộc Vương-Sơ						
+3517		1745	1					Đá Hồn Song Dị Thú-Sơ						
+3517		1746	1					Đá Hồn Bôn Diệm Báo Vương-Sơ						
+3517		1747	1					Đá Hồn Cửu Vĩ Hồ Vương-Sơ						
+3518		1713	1					Đá Hồn Tiểu Ảnh Phong-Sơ						
+3518		1729	1					Đá Hồn Khúc Hà-Sơ						
+3518		1730	1					Đá Hồn Gia Luật Tị Li-Sơ						
+3518		1731	1					Đá Hồn Dương Thiết Tâm-Sơ						
+3518		1732	1					Đá Hồn Vô Tưởng-Sơ						
+3518		1733	1					Đá Hồn Liễu Tiêu Đình-Sơ						
+3518		1734	1					Đá Hồn Lý Điềm Nhi-Sơ						
+3518		1735	1					Đá Hồn Lý Thiên Mục-Sơ						
+3518		1736	1					Đá Hồn Hoàn Nhan Tương-Sơ						
+3518		1739	1					Đá Hồn Gia Luật Sở Tài-Sơ						
+3518		1743	1					Đá Hồn Lôi Chấn Thiên-Sơ						
+3518		1762	1					Đá Hồn Thiên Tinh Đạo Trưởng-Sơ						
+3518		1763	1					Đá Hồn Yên Nhược Tuyết-Sơ						
+3518		1764	1					Đá Hồn Dương Hi Liệt-Sơ						
+3518		1765	1					Đá Hồn Thượng Quan Phi Long-Sơ						
+3518		1766	1					Đá Hồn Nạp Lan Tiềm Lẫm-Sơ						
+3518		1767	1					Đá Hồn Phương Miễn-Sơ						
+3518		1768	1					Đá Hồn Nam Cung Diệt-Sơ						
+3518		1769	1					Đá Hồn Đường Ảnh-Sơ						
+3518		1770	1					Đá Hồn Thu Y Thủy-Sơ						
+3518		2847	1					Đá Hồn Huyền Từ-Sơ						
+3693		1471	1					Độc Cô Kiếm-Cự Khuyết Kiếm						
+3693		1472	1					Nam Cung Phi-Kiếm Trung Chi Kiếm						
+3693		1473	1					Dương Ảnh Phong-Bi Ma Chi Nhẫn						
+3693		1480	1					Kinh Kha-Kỳ Lân Chủy						
+3693		1481	1					Ngu Cơ-Nhiễu Lương Cầm						
+3693		1482	1					Nhạc Phi-Lịch Tuyền Thần Mâu						
+3693		1479	1					Lý Quảng-Xạ Hổ Cung						
+3693		1478	1					Triệu Vân-Long Ngân Thương						
+3693		1477	1					Lý Nguyên Bá-Ung Kim Chùy						
+3693		1474	1					Đường Giản-Huyền Vũ Song Tinh						
+3700		2212	1					Đồng Hành-Nguyệt My Nhi						
+3700		3764	1					Đồng Hành-Dương Anh						
+3700		2665	1					Đồng Hành-Thanh Hiểu Sư Thái						
+3700		3765	1					Đồng Hành-Chúc Tử Hư						
+3700		2666	1					Đồng Hành-Hoàng Mộ Vân						
+3700		3389	1					Đồng Hành-Đạo Nhất Chân Nhân						
+3700		3766	1					Đồng Hành-Đoan Mộc Duệ						
+3700		2264	1					Đồng Hành-Mạnh Tri Thu						
+3700		2213	1					Đồng Hành-Trương Phong						
+3700		2217	1					Đồng Hành-Nam Cung Diệt						
+3700		2219	1					Đồng Hành-Phương Miễn						
+3700		2262	1					Đồng Hành-Đường Ảnh						
+3700		2263	1					Đồng Hành-Thu Y Thủy						
+3700		2215	1					Đồng Hành-Thiên Tinh Đạo Trưởng						
+3700		2214	1					Đồng Hành-Yên Nhược Tuyết						
+3700		2216	1					Đồng Hành-Dương Hi Liệt						
+3700		2218	1					Đồng Hành-Thượng Quan Phi Long						
+3700		2220	1					Đồng Hành-Nạp Lan Tiềm Lẫm						
+3700		1374	1					Đồng Hành-Cao Trường Cung						
+3700		1375	1					Đồng Hành-Triết Biệt						
+3700		2236	1					Đồng Hành-Tần Lương Ngọc						
+3700		1376	1					Đồng Hành-Viên Thừa Chí						
+3700		1377	1					Đồng Hành-Ngao Bái						
+3700		2235	1					Đồng Hành-Hàn Thế Trung						
+3700		1405	1					Đồng Hành-Xích Tinh Hổ Hoàng						
+3700		1404	1					Đồng Hành-Hám Thiên Hùng Hoàng						
+3700		2260	1					Đồng Hành-Tử Bối Ngạc Hoàng						
+3700		1403	1					Đồng Hành-Định Hải Kim Cang						
+3700		1402	1					Đồng Hành-Kim Sí Bằng Hoàng						
+3700		2511	1					Đồng Hành-Ngân Giác Tê Hoàng						
+3700		4576	1					Đồng Hành-Băng Lân Tích Hoàng						
+3700		4577	1					Đồng Hành-Ngân Câu Hạt Hoàng						
+3700		4578	1					Đồng Hành-Cuồng Tông Ngao Hoàng						
+3701		1486	1					Nguyệt My Nhi-Băng Tâm Tiên Tử						
+3701		1487	1					Dương Anh-Triều Dương Thương						
+3701		1488	1					Thanh Hiểu Sư Thái-Địch Trần Kiếm						
+3701		1489	1					Chúc Tử Hư-Thái Tiêu Thần Thương						
+3701		1490	1					Hoàng Mộ Vân-Triều Sinh Cung						
+3701		1491	1					Đạo Nhất Chân Nhân-Tuyền Cơ Kiếm						
+3701		1492	1					Đoan Mộc Duệ-Đoạt Hồn Nhẫn						
+3701		1499	1					Mạnh Tri Thu-Thương Hải Kiếm						
+3701		1512	1					Trương Phong-Thừa Phong Kiếm						
+3701		1513	1					Nam Cung Diệt-Bách Luyện Thủ						
+3701		1514	1					Phương Miễn-Toái Tinh Kiếm						
+3701		1515	1					Đường Ảnh-Thiên Cơ Phiến						
+3701		1516	1					Thu Y Thủy-Vân Yên Hà						
+3701		1517	1					Thiên Tinh Đạo Trưởng-Trích Tinh Thủ						
+3701		1518	1					Yên Nhược Tuyết-Phiêu Tuyết Vân Tụ						
+3701		1519	1					Dương Hi Liệt-Lăng Tuyệt Kiếm						
+3701		1520	1					Thượng Quan Phi Long-Vãn Nguyệt Kiếm						
+3701		1521	1					Nạp Lan Tiềm Lẫm-Thiên Ma Kiếm						
+3701		1500	1					Cao Trường Cung-Bạch Lang Nhẫn						
+3701		1501	1					Triết Biệt-Thiên Ưng Nỏ						
+3701		1502	1					Tần Lương Ngọc-Lê Hoa Thương						
+3701		1503	1					Viên Thừa Chí-Bích Huyết Kiếm						
+3701		1504	1					Ngao Bái-Trảm Sa Đao						
+3701		1505	1					Hàn Thế Trung-Bá Hổ Đao						
+3701		1506	1					Xích Tinh Hổ Hoàng-Bạch Hổ Trảo						
+3701		1507	1					Hám Thiên Hùng Hoàng-Bạo Quân Nha						
+3701		1508	1					Tử Bối Ngạc Hoàng-Tử Kim Lân						
+3701		1509	1					Định Hải Kim Cang-Kim Cang Trạc						
+3701		1510	1					Kim Sí Bằng Hoàng-Ca Lâu La Vũ						
+3701		1511	1					Ngân Giác Tê Hoàng-Vọng Nguyệt Giác						
+3729		3554	1					Đồng Hành SSS Tần Thủy Hoàng						
+3729		3748	1					15000 Nguyên Bảo						
+3752		2782	1					Áo Hoàng Kim Bậc 6						
+3752		3743	1					50000 Nguyên Bảo						
+3753		2783	1					Áo Hoàng Kim Bậc 7						
+3753		3744	1					60000 Nguyên Bảo						
+3754		2784	1					Áo Hoàng Kim Bậc 8						
+3754		3746	1					9000 Nguyên Bảo						
+3755		3631	1					Áo Hoàng Kim Bậc 9						
+3755		3747	1					120000 Nguyên Bảo						
+7444		3632	1					Áo Hoàng Kim Bậc 10						
+7444		3747	1					120000 Nguyên Bảo						
+7445		5390	1					Áo Hoàng Kim Bậc 11						
+7445		3747	1					120000 Nguyên Bảo						
+7446		5391	1					Áo Hoàng Kim Bậc 12						
+7446		3747	1					120000 Nguyên Bảo						
+10263		10051	1					Dây Chuyền Bạch Kim Bậc 12						
+10263		3747	1					120000 Nguyên Bảo						
+10264		10052	1					Dây Chuyền Bạch Kim Bậc 13						
+10264		3747	1					120000 Nguyên Bảo						
+10265		10053	1					Dây Chuyền Bạch Kim Bậc 14						
+10265		3747	1					120000 Nguyên Bảo						
+3756		2767	1					Dây Chuyền Hoàng Kim Bậc 6						
+3756		3741	1					30000 Nguyên Bảo						
+3757		2768	1					Dây Chuyền Hoàng Kim Bậc 7						
+3757		2774	1					Ngọc Bội Hoàng Kim Bậc 7						
+3757		3742	1					40000 Nguyên Bảo						
+3758		2769	1					Dây Chuyền Hoàng Kim Bậc 8						
+3758		2775	1					Hoàng Kim Ngọc Bội Bậc 8						
+3758		3744	1					60000 Nguyên Bảo						
+3759		3621	1					Dây Chuyền Hoàng Kim Bậc 9						
+3759		3625	1					Hoàng Kim Ngọc Bội Bậc 9						
+3759		3745	1					80000 Nguyên Bảo						
+7447		3622	1					Dây Chuyền Hoàng Kim Bậc 10						
+7447		3626	1					Ngọc Bội Hoàng Kim Bậc 10						
+7447		3745	1					80000 Nguyên Bảo						
+7448		5365	1					Dây Chuyền Hoàng Kim Bậc 11						
+7448		5375	1					Ngọc Bội Hoàng Kim Bậc 11						
+7448		3745	1					80000 Nguyên Bảo						
+7449		5366	1					Dây Chuyền Hoàng Kim Bậc 12						
+7449		5376	1					Ngọc Bội Hoàng Kim Bậc 12						
+7449		3745	1					80000 Nguyên Bảo						
+10266		5371	1					Nhẫn Hoàng Kim Bậc 12						
+10266		3745	1					80000 Nguyên Bảo						
+10267		5372	1					Nhẫn Hoàng Kim Bậc 13						
+10267		5382	1					Hộ Thân Phù Hoàng Kim Bậc 13						
+10267		3745	1					80000 Nguyên Bảo						
+10268		5373	1					Nhẫn Hoàng Kim Bậc 14						
+10268		5383	1					Hộ Thân Phù Hoàng Kim Bậc 14						
+10268		3745	1					80000 Nguyên Bảo						
+3760		2779	1					Nón Hoàng Kim Bậc 6						
+3760		2788	1					Đai Hoàng Kim Bậc 6						
+3760		3739	1					15000 Nguyên Bảo						
+3761		2780	1					Nón Hoàng Kim Bậc 7						
+3761		2789	1					Đai Hoàng Kim Bậc 7						
+3761		3740	1					20000 Nguyên Bảo						
+3762		2781	1					Nón Hoàng Kim Bậc 8						
+3762		2790	1					Đai Hoàng Kim Bậc 8						
+3762		3741	1					30000 Nguyên Bảo						
+3763		3629	1					Nón Hoàng Kim Bậc 9						
+3763		3635	1					Đai Hoàng Kim Bậc 9						
+3763		3742	1					40000 Nguyên Bảo						
+7450		3630	1					Nón Hoàng Kim Bậc 10						
+7450		3636	1					Đai Hoàng Kim Bậc 10						
+7450		3742	1					40000 Nguyên Bảo						
+7451		5385	1					Nón Hoàng Kim Bậc 11						
+7451		5400	1					Đai Hoàng Kim Bậc 11						
+7451		3742	1					40000 Nguyên Bảo						
+7452		5386	1					Nón Hoàng Kim Bậc 12						
+7452		5401	1					Đai Hoàng Kim Bậc 12						
+7452		3742	1					40000 Nguyên Bảo						
+10269		5396	1					Bao Tay Hoàng Kim Bậc 12						
+10269		3742	1					40000 Nguyên Bảo						
+10270		5397	1					Bao Tay Hoàng Kim Bậc 13						
+10270		5407	1					Giày Hoàng Kim Bậc 13						
+10270		3742	1					40000 Nguyên Bảo						
+10271		5398	1					Bao Tay Hoàng Kim Bậc 14						
+10271		5408	1					Giày Hoàng Kim Bậc 14						
+10271		3742	1					40000 Nguyên Bảo						
+4617		4607	1					Bản đồ manh mối hoạt động 520						
+4617		4608	1					Bản đồ manh mối hoạt động 520						
+4617		4609	1					Bản đồ manh mối hoạt động 520						
+4617		4610	1					Bản đồ manh mối hoạt động 520						
+4617		4611	1					Bản đồ manh mối hoạt động 520						
+4617		4612	1					Bản đồ manh mối hoạt động 520						
+4617		4613	1					Bản đồ manh mối hoạt động 520						
+4731		4302	24					Tơ Lụa						
+4731		4307	24					Thỏi Đồng						
+4731		4322	24					Đá Hoa Cương						
+4731		4312	24					Lưu Ly						
+4731		4317	24					Da Dê						
+4731		4297	24					Gỗ Bạch Dương						
+4732		4303	12					Tố Nhuyễn Đoạn						
+4732		4308	12					Bách Luyện Cang						
+4732		4323	12					Đá Cẩm Thạch						
+4732		4313	12					Trân Châu						
+4732		4318	12					Da Chồn						
+4732		4298	12					Gỗ Hạch Đào						
+4733		4304	6					Gấm						
+4733		4309	6					Thỏi Bạc						
+4733		4324	6					Đá Vũ Hoa						
+4733		4314	6					Tụ Nham Ngọc						
+4733		4319	6					Da Hổ						
+4733		4299	6					Gỗ Hương Chương						
+4734		4305	3					Chức Kim Cẩm						
+4734		4310	3					Thỏi Vàng						
+4734		4325	3					Đá Thiên Hà						
+4734		4315	3					Phỉ Thúy						
+4734		4320	3					Da Gấu						
+4734		4300	3					Gỗ Tử Đàn						
+4799		1173	1					Nón Hiếm T2						
+4799		1193	1					Hộ Uyển Hiếm T2						
+4799		1203	1					Đai Hiếm T2						
+4799		1213	1					Giày Hiếm T2						
+4798		1133	1					Dây Chuyền Hiếm T2						
+4798		1143	1					Nhẫn Hiếm T2						
+4798		1153	1					Ngọc Bội Hiếm T2						
+4798		1163	1					Hộ Thân Phù Hiếm T2						
+4797		1134	1					Dây Chuyền Hiếm T3						
+4797		1144	1					Nhẫn Hiếm T3						
+4797		1154	1					Ngọc Bội Hiếm T3						
+4797		1164	1					Hộ Thân Phù Hiếm T3						
+4825		4303	64					Tố Nhuyễn Đoạn (Nguyên Liệu Gia Cụ Lv3)						
+4825		4308	64					Bách Luyện Cang						
+4825		4323	64					Đá Cẩm Thạch						
+4825		4313	64					Trân Châu						
+4825		4318	64					Da Chồn						
+4825		4298	64					Gỗ Hạch Đào						
+4826		4304	32					Gấm (Nguyên Liệu Gia Cụ Lv4)						
+4826		4309	32					Thỏi Bạc						
+4826		4324	32					Đá Vũ Hoa						
+4826		4314	32					Tụ Nham Ngọc						
+4826		4319	32					Da Hổ						
+4826		4299	32					Gỗ Hương Chương						
+4827		4305	16					Chức Kim Cẩm (Nguyên Liệu Gia Cụ Lv5)						
+4827		4310	16					Thỏi Vàng						
+4827		4325	16					Đá Thiên Hà						
+4827		4315	16					Phỉ Thúy						
+4827		4320	16					Da Gấu						
+4827		4300	16					Gỗ Tử Đàn						
+5414		5416	1					3000 Cống Hiến						
+5414		5419	1					3000 Nguyên Khí						
+5415		5417	1					10000 Cống Hiến						
+5415		5418	1					10000 Nguyên Khí						
+6120		6122	1					2500 Cống hiến						
+6120		6124	1					2500 Nguyên Khí						
+6121		6123	1					8000 Cống Hiến						
+6121		6125	1					8000 Nguyên Khí						
+6813		6814	1					50000 Cống Hiến						
+6813		6815	1					50000 Nguyên Khí						
+6091		1378	1					Đồng Hành-Độc Cô Kiếm						
+6091		2253	1					Đồng Hành-Nam Cung Phi						
+6091		2254	1					Đồng Hành-Dương Ảnh Phong						
+6148		3554	1					Đồng Hành-Tần Thủy Hoàng						
+6148		3553	1					Đồng Hành-Hạng Vũ						
+6148		4056	1					Đồng Hành-Hoàn Nhan Hồng Liệt						
+6148		3555	1					Đồng Hành-Võ Tắc Thiên						
+6388		6389	1					Vong Ưu Đảo Phân Quyển						
+6388		6390	1					Tương Dương Phân Quyển						
+6388		6391	1					Tỏa Vân Uyên Phân Quyển						
+6388		6392	1					Võ Di Sơn Phân Quyển						
+6388		6393	1					Nhạn Đãng Sơn Phân Quyển						
+6388		6394	1					Điểm Thương Sơn Phân Quyển						
+6388		6395	1					Miêu Lĩnh Phân Quyển						
+6388		6396	1					Động Đình Hồ Phân Quyển						
+6388		6397	1					Phế Tích Dạ Lang Phân Quyển						
+6388		6398	1					Hưởng Thủy Động Phân Quyển						
+6388		6399	1					Kiến Tính Phong Phân Quyển						
+6388		6400	1					Kiếm Môn Quan Phân Quyển						
+6388		6401	1					Phong Lăng Độ Phân Quyển						
+6388		6402	1					Tiến Cúc Động Phân Quyển						
+6388		6403	1					Phục Ngưu Sơn Phân Quyển						
+6388		6404	1					Chiến Trường Cổ Phân Quyển						
+6388		6405	1					Thái Hành Cổ Kính Phân Quyển						
+6388		6406	1					Kỳ Liên Sơn Phân Quyển						
+6388		6407	1					Di Tích Sa Mạc Phân Quyển						
+6388		6408	1					Đôn Hoàng Cổ Thành Phân Quyển						
+6388		6409	1					Côn Hư Mạch Tàng Phân Quyển						
+6388		6410	1					Dược Vương Cốc Phân Quyển						
+6388		6411	1					Mạc Bắc Thảo Nguyên Phân Quyển						
+6388		6412	1					Trường Bạch Sơn Phân Quyển						
+6388		6413	1					Tàn Hoàn Thiết Thành Phân Quyển						
+6414		6415	1					Mảnh Vong Ưu Đảo Phân Quyển						
+6414		6416	1					Mảnh Tương Dương Phân Quyển						
+6414		6417	1					Mảnh Tỏa Vân Uyên Phân Quyển						
+6414		6418	1					Mảnh Võ Di Sơn Phân Quyển						
+6414		6419	1					Mảnh Nhạn Đãng Sơn Phân Quyển						
+6414		6420	1					Mảnh Điểm Thương Sơn Phân Quyển						
+6414		6421	1					Mảnh Miêu Lĩnh Phân Quyển						
+6414		6422	1					Mảnh Động Đình Hồ Phân Quyển						
+6414		6423	1					Mảnh Phế Tích Dạ Lang Phân Quyển						
+6414		6424	1					Mảnh Hưởng Thủy Động Phân Quyển						
+6414		6425	1					Mảnh Kiến Tính Phong Phân Quyển						
+6414		6426	1					Mảnh Kiếm Môn Quan Phân Quyển						
+6414		6427	1					Mảnh Phong Lăng Độ Phân Quyển						
+6414		6428	1					Mảnh Tiến Cúc Động Phân Quyển						
+6414		6429	1					Mảnh Phục Ngưu Sơn Phân Quyển						
+6414		6430	1					Mảnh Chiến Trường Cổ Phân Quyển						
+6414		6431	1					Mảnh Thái Hành Cổ Kính Phân Quyển						
+6414		6432	1					Mảnh Kỳ Liên Sơn Phân Quyển						
+6414		6433	1					Mảnh Di Tích Sa Mạc Phân Quyển						
+6414		6434	1					Mảnh Đôn Hoàng Cổ Thành Phân Quyển						
+6414		6435	1					Mảnh Côn Hư Mạch Tàng Phân Quyển						
+6414		6436	1					Mảnh Dược Vương Cốc Phân Quyển						
+6414		6437	1					Mảnh Mạc Bắc Thảo Nguyên Phân Quyển						
+6414		6438	1					Mảnh Trường Bạch Sơn Phân Quyển						
+6414		6439	1					Mảnh Tàn Hoàn Thiết Thành Phân Quyển						
+6443		1471	1					Độc Cô Kiếm-Cự Khuyết Kiếm						
+6443		1472	1					Nam Cung Phi-Kiếm Trung Chi Kiếm						
+6443		1473	1					Dương Ảnh Phong-Bi Ma Chi Nhẫn						
+6443		1480	1					Kinh Kha-Kỳ Lân Chủy						
+6443		1481	1					Ngu Cơ-Nhiễu Lương Cầm						
+6443		1482	1					Nhạc Phi-Lịch Tuyền Thần Mâu						
+6443		1479	1					Lý Quảng-Xạ Hổ Cung						
+6443		1478	1					Triệu Vân-Long Ngân Thương						
+6443		1477	1					Lý Nguyên Bá-Ung Kim Chùy						
+6443		1474	1					Đường Giản-Huyền Vũ Song Tinh						
+6537		6149	1					Bí Quyển Huyệt Nhâm Mạch-Khúc Cốt						
+6537		6150	1					Bí Quyển Huyệt Đốc Mạch-Trường Cường						
+6537		6276	1					Bí Quyển Huyệt Xung Mạch-U Môn						
+6533		6188	1					20000 Chân Khí						
+6533		6536	1					20000 Nguyên khí						
+6533		7070	1					20000 cống hiến						
+6534		6187	1					10000 Chân Khí						
+6534		5418	1					10000 Nguyên Khí						
+6534		5417	1					10000 Cống Hiến						
+6535		6467	1					5000 Chân Khí						
+6535		6538	1					5000 Nguyên Khí						
+6535		7071	1					5000 cống hiến						
+7936		6186	1					3000 Chân Khí						
+7936		5419	1					3000 Nguyên Khí						
+7936		5416	1					3000 Cống Hiến						
+2799		2796	1					Hoàng Kim Đồ Phổ (Nón)						
+2799		2797	1					Hoàng Kim Đồ Phổ (Đai)						
+6740		6757	1					【Thiên Vương】Thủy Quả Chùy-30 ngày
+6740		6758	1					【Nga Mi】Tường Vi Kiếm-30 ngày
+6740		6759	1					【Đào Hoa】Lạc Hoa Cung-30 ngày
+6740		6760	1					【Tiêu Dao】Lưu Tuệ Thương-30 ngày
+6740		6761	1					【Võ Đang】Kim Kết Kiếm-30 ngày
+6740		6762	1					【Thiên Nhẫn】Phá Nguyệt Thích-30 ngày
+6740		6763	1					【Thiếu Lâm】Phá Mộng Trượng-30 ngày
+6740		6764	1					【Thúy Yên】Phù Cừ Kỹ-30 ngày
+6740		6765	1					【Đường Môn】Mộc Hoa Nỏ-30 ngày
+6740		6766	1					【Côn Lôn】Tiếu Xuân Phong-30 ngày
+6740		6767	1					【Cái Bang】Thanh Trúc Trượng-30 ngày
+6740		6768	1					【Ngũ Độc】Triều Nhan Địch-30 ngày
+6740		6769	1					【Tàng Kiếm】Thúy Nhã Chi-30 ngày
+6740		6770	1					【Trường Ca】Bách Hợp-30 ngày
+6740		6988	1					【Thiên Sơn】Ngọc Âm Chi-30 ngày
+6740		7680	1					【Bá Đao】Hoàng Liễu Thúc-30 Ngày
+6740		8528	1					【Hoa Sơn】Quang Minh Thảo-30 Ngày
+6740		10138	1					【Minh Giáo】Mai Thịnh Hoàn-30 Ngày
+7073		6795	1					Đồng Hành-Lâm Triều Hoa						
+7073		6796	1					Đồng Hành-Triệu Ân Đồng						
+7129		6149	1					Bí Quyển Huyệt Nhâm Mạch-Khúc Cốt						
+7129		6150	1					Bí Quyển Huyệt Đốc Mạch-Trường Cường						
+7420		3714	1					Tẩy Tủy Kinh (Thượng)						
+7420		3715	1					Tẩy Tủy Kinh (Trung)						
+7420		3716	1					Tẩy Tủy Kinh (Hạ)						
+7966		3462	1					Mảnh Ngự Thiên Cương						
+7966		3469	1					Mảnh Ngự Thiên Yên						
+7966		3476	1					Mảnh Ngự Thiên Đăng						
+8499		8322	1					Kinh Kha Ca						
+8499		8325	1					Điền Gia Nguyên Nhật						
+8499		8329	1					Phong Vũ						
+8499		8331	1					Binh Xa Hành (Mảnh)						
+8499		8334	1					Thu Sơn Vãn Thúy Đồ						
+8499		8338	1					Tích Lịch Lôi Đình Trảm						
+8499		8343	1					Độc Cô Vô Ý Kiếm						
+8499		8344	1					Trọng Đao Bát Thức						
+8499		8351	1					Nhạc Gia Quyền						
+8499		8497	1					Hán Cung Thu Nguyệt						
+8500		8326	1					Nguyên Nhật						
+8500		8327	1					Tương Tư						
+8500		8328	1					Dã Vọng						
+8500		8335	1					Tinh Loan Tiêu Tự Đồ						
+8500		8337	1					Lung Tụ Kiêu Dân Đồ						
+8500		8339	1					Việt Nữ Kiếm Pháp						
+8500		8340	1					Hắc Thiết Kiếm Pháp						
+8500		8345	1					Phản Bát Quái Đao Pháp						
+8500		8346	1					Vô Hư Đao Pháp						
+8500		8352	1					Kính Sơn Quyền						
+8500		8353	1					Mỹ Nữ Quyền						
+8500		8354	1					Thất Đoạn Thất Tuyệt Chưởng						
+8500		8355	1					Ma Sát Chưởng						
+8500		8356	1					Thiên Ti Vạn Độc Chưởng						
+8500		8479	1					Quan Thư						
+8500		8480	1					Mộc Qua						
+8500		8481	1					Tịch Dương Tiêu Cổ						
+8500		8482	1					Thanh Minh						
+8500		8483	1					Thanh Minh Dạ						
+8500		8484	1					Vấn Lưu Thập Cửu						
+8500		8491	1					Quảng Lăng Tán	1	1	1	1	1	1
+8500		8492	1					Mai Hoa Tam Lộng	1	1	1	1	1	1
+8500		8493	1					Bình Sa Lạc Nhạn						
+8500		8494	1					Thập Diện Mai Phục						
+8500		8495	1					Ngư Tiều Vấn Đáp						
+9473		7294	1					Nhung Tuyết Hoa Quán						
+9473		7295	1					Vân Mộng Cơ						
+9473		7311	1					Phúc Vận Hưng Vượng						
+9473		7954	1					Ngọc Ti Thiên Lũ						
+9703		6149	1					Bí Quyển Huyệt Nhâm Mạch-Khúc Cốt						
+9703		6150	1					Bí Quyển Huyệt Đốc Mạch-Trường Cường						
+9703		6276	1					Bí Quyển Huyệt Xung Mạch-U Môn						
+9703		6277	1					Bí Quyển Huyệt Dương Khiêu-Tinh Minh						
+9705		9430	1					【Môn Khách】Độc Cô Kiếm						
+9705		9431	1					【Môn Khách】Nam Cung Phi						
+9705		9432	1					【Môn Khách】Dương Ảnh Phong						
+9705		9433	1					【Môn Khách】Đường Giản						
+9705		9434	1					【Môn Khách】Lý Nguyên Bá						
+9705		9435	1					【Môn Khách】Triệu Vân						
+9705		9436	1					【Môn Khách】Lý Quảng						
+9705		9437	1					【Môn Khách】Kinh Kha						
+9705		9438	1					【Môn Khách】Ngu Cơ						
+9705		9439	1					【Môn Khách】Nhạc Phi						
+9856		2796	1					Hoàng Kim Đồ Phổ (Nón)						
+9856		2797	1					Hoàng Kim Đồ Phổ (Đai)						
+9856		2798	1					Hoàng Kim Đồ Phổ (Hộ Uyển)						
+9856		2799	1					Hoàng Kim Đồ Phổ (Giày)						
+10439		6149	1					Bí Quyển Huyệt Nhâm Mạch-Khúc Cốt						
+10439		6150	1					Bí Quyển Huyệt Đốc Mạch-Trường Cường						
+10439		6276	1					Bí Quyển Huyệt Xung Mạch-U Môn						
+10439		6277	1					Bí Quyển Huyệt Dương Khiêu-Tinh Minh						
+10439		6278	1					Bí Quyển Huyệt Âm Khiêu-Tinh Minh						
+10489		10170	1				1	Mảnh Đá Hồn Diệp Vô Tâm-Sơ						
+10489		10478	1				1	Mảnh Đá Hồn Vân Hạo Nhiên-Sơ						
+10589		10586	1					【Trác Việt】Mảnh Tuyệt Học-Đạp Tuyết Tầm Mai						
+10589		10587	1					【Trác Việt】Mảnh Tuyệt Học-Vân Vụ Liễm						
+10589		10588	1					【Trác Việt】Mảnh Tuyệt Học-Kinh Đào Phách Ngạn						
+10635		3544	1					Tần Thủy Hoàng-Thái A Kiếm						
+10635		4057	1					Hoàn Nhan Hồng Liệt-Ngự Ưng Thủ						
+10635		3543	1					Hạng Vũ-Bá Vương Kích						
+10635		3545	1					Võ Tắc Thiên-Minh Không Chỉ						
+10635		3542	1					Quỷ Cốc Tử-Thiết Lực Trượng						
+100047		3544	1					Tần Thủy Hoàng-Thái A Kiếm
+100047		3543	1					Hạng Vũ-Bá Vương Kích
+100047		4057	1					Hoàn Nhan Hồng Liệt-Ngự Ưng Thủ
+100047		3545	1					Võ Tắc Thiên-Minh Không Chỉ

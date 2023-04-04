@@ -1,0 +1,30 @@
+KeyId	HotKey	Action	Desc
+1	W		Trên
+2	S		Dưới
+3	A		Trái
+4	D		Phải
+5	J	Operation.OnGamesirStickClick("A")	Kỹ năng 1
+6	Space	Operation.OnGamesirStickClick("R1")	Khinh Công
+7	U	Operation.OnGamesirStickClick("X")	Kỹ năng 2
+8	I	Operation.OnGamesirStickClick("Y")	Kỹ năng 3
+9	K	Operation.OnGamesirStickClick("R2")	Công thường
+10	Z	Operation.OnGamesirStickClick("L1")	Ngồi thiền
+11	O	Operation.OnGamesirStickClick("B")	Kỹ năng 4
+12	F1	Ui:SwitchWindow("ItemBox")	Hành trang chính
+13	F5	Ui:SwitchWindow("MarketStallPanel")	Bày bán
+14	F2	Ui:SwitchWindow("SkillPanel")	Kỹ năng
+15	F6	Ui:SwitchWindow("KinDetailPanel")	Bang Hội
+16	F10	Ui:SwitchWindow("CalendarPanel")	Hoạt động 
+17	F12	Ui:SwitchWindow("AuctionPanel")	Đấu Giá
+18	F7	Ui:SwitchWindow("HonorLevelPanel")	Quân Hàm
+19	F11	Ui:SwitchWindow("Partner")	Đồng Hành
+20	F4	Ui:SwitchWindow("WelfareActivity")	Phúc lợi
+21	F8	Ui:SwitchWindow("CommonShop")	Kỳ Trân Các
+22	F3	Ui:SwitchWindow("SocialPanel")	Cộng Đồng
+23	`	Ui:SwitchWindow("NewInformationPanel")	Tin mới
+24	F9	Ui:SwitchWindow("RankBoardPanel")	Xếp Hạng
+25	Q	Operation:OnHorseClick()	Lên xuống ngựa
+26	Tab	Ui:SwitchWindow("MiniMap")	Bản đồ
+27	F	AutoFight:SwitchState()	Tự chiến đấu
+28	Return	Ui.Hotkey:OnReternKeyInput()	Nhập vào đối thoại
+29	Enter	Ui.Hotkey:OnReternKeyInput()	Nhập vào đối thoại

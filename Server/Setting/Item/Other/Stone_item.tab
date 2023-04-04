@@ -1,0 +1,592 @@
+TemplateId	Name	Kind	ItemType	BigIcon	CDType	ClassName	DetailType	Icon	Intro	ItemValue	Level	ObjID	Price	Quality	RequireLevel	Sellable	Stack	ExtParam1	ExtParam2	ExtParam3	ExtParam4	ExtParam5	ExtParam6	ExtParam7	ExtParam8	ExtParam9	ExtParam10
+3577	Đá Khắc Chữ【Chiến Trường】	RecordStone_N1	34	27001		RecordStone	3	27001	Bảo thạch thần kỳ khắc lên vũ khí. Khắc xong có thể ghi lại [FFFE0D]số tích lũy diệt địch trong Chiến Trường Tống Kim[-]\n\nChỉ khắc lên vũ khí Hoàng Kim và Hiếm bậc 6 trở lên	1000000	1	2	1000	4	20	1	99999										
+3578	Đá Khắc Chữ【Công Thành Chiến】	RecordStone_N2	34	27002		RecordStone	3	27002	Bảo thạch thần kỳ khắc lên vũ khí. Khắc xong có thể ghi lại [FFFE0D]số tích lũy diệt địch trong Công Thành Chiến[-]\n\nChỉ khắc lên vũ khí Hoàng Kim và Hiếm bậc 6 trở lên	1000000	1	2	1000	4	20	1	99999										
+3579	Đá Khắc Chữ【Bạch Hổ Đường】	RecordStone_N3	34	27003		RecordStone	3	27003	Bảo thạch thần kỳ khắc lên vũ khí. Khắc xong có thể ghi lại [FFFE0D]số tích lũy diệt địch trong Bạch Hổ Đường[-]\n\nChỉ khắc lên vũ khí Hoàng Kim và Hiếm bậc 6 trở lên	1000000	1	2	1000	4	20	1	99999										
+3580	Đá Khắc Chữ【Thi Đấu Môn Phái】	RecordStone_N4	34	27004		RecordStone	3	27004	Bảo thạch thần kỳ khắc lên vũ khí. Khắc xong có thể ghi lại [FFFE0D]số lần giành Tân Vương trong Thi Đấu Môn Phái[-]\n\nChỉ khắc lên vũ khí Hoàng Kim và Hiếm bậc 6 trở lên	1000000	1	2	1000	4	20	1	99999										
+3581	Đá Khắc Chữ【Minh Chủ Võ Lâm】	RecordStone_N5	34	27005		RecordStone	3	27005	Bảo thạch thần kỳ khắc lên vũ khí. Khắc xong có thể ghi lại [FFFE0D]số lần giành điểm tích lũy trong Minh Chủ Võ Lâm[-]\n\nChỉ khắc lên vũ khí Hoàng Kim và Hiếm bậc 6 trở lên	1000000	1	2	1000	4	20	1	99999										
+3582	Đá Khắc Chữ【Danh Tướng】	RecordStone_N6	34	27006		RecordStone	3	27006	Bảo thạch thần kỳ khắc lên vũ khí. Khắc xong có thể ghi lại [FFFE0D]số tích lũy diệt địch trong Danh Tướng[-]\n\nChỉ khắc lên vũ khí Hoàng Kim và Hiếm bậc 6 trở lên	1000000	1	2	1000	4	20	1	99999										
+3583	Đá Khắc Chữ【Hoa Sơn Luận Kiếm】	RecordStone_N7	34	27007		RecordStone	3	27007	Bảo thạch thần kỳ khắc lên vũ khí. Khắc xong có thể ghi lại [FFFE0D]số lần giành chiến thắng tích lũy trong Hoa Sơn Luận Kiếm[-]\n\nChỉ khắc lên vũ khí Hoàng Kim và Hiếm bậc 6 trở lên	1000000	1	2	1000	4	20	1	99999										
+3584	Đá Khắc Chữ【Thông Thiên Tháp】	RecordStone_N8	34	27008		RecordStone	3	27008	Bảo thạch thần kỳ khắc lên vũ khí. Khắc xong có thể ghi lại số [FFFE0D]lần giành chiến thắng tích lũy trong Thông Thiên Tháp[-]\n\nChỉ khắc lên vũ khí Hoàng Kim và Hiếm bậc 6 trở lên	1000000	1	2	1000	4	20	1	99999										
+230	Đá Sinh Lực Lv1	life_stone_1	34	230		Stone	3	230	4 bảo thạch cùng cấp ghép được 1 bảo thạch cấp cao	20000	1	2	1000	1	27	1	99999										
+231	Đá Sinh Lực Lv2	life_stone_2	34	231		Stone	3	231	4 bảo thạch cùng cấp ghép được 1 bảo thạch cấp cao	60000	2	2	1000	2	27	1	99999										
+232	Đá Sinh Lực Lv3	life_stone_3	34	232		Stone	3	232	4 bảo thạch cùng cấp ghép được 1 bảo thạch cấp cao	180000	3	2	1000	3	27	1	99999										
+233	Đá Sinh Lực Lv4	life_stone_4	34	233		Stone	3	233	4 bảo thạch cùng cấp ghép được 1 bảo thạch cấp cao	540000	4	2	1000	4	40	1	99999										
+234	Đá Sinh Lực Lv5	life_stone_5	34	234		Stone	3	234	4 bảo thạch cùng cấp ghép được 1 bảo thạch cấp cao	1650000	5	2	1000	5	50	1	99999										
+235	Đá Sinh Lực Lv6	life_stone_6	34	235		Stone	3	235	4 bảo thạch cùng cấp ghép được 1 bảo thạch cấp cao	5000000	6	2	1000	6	60	1	99999										
+236	Đá Sinh Lực Lv7	life_stone_7	34	236		Stone	3	236	4 bảo thạch cùng cấp ghép được 1 bảo thạch cấp cao	15000000	7	2	1000	7	70	1	99999										
+237	Đá Sinh Lực Lv8	life_stone_8	34	237		Stone	3	237	4 bảo thạch cùng cấp ghép được 1 bảo thạch cấp cao	45000000	7	2	1000	7	80	1	99999										
+238	Đá Sinh Lực Lv9	life_stone_9	34	238		Stone	3	238	4 bảo thạch cùng cấp ghép được 1 bảo thạch cấp cao	45000000	7	2	1000	7	90	1	99999										
+239	Đá Sinh Lực Lv10	life_stone_10	34	239		Stone	3	239	Đá Sinh Lực Lv10	45000000	7	2	1000	7	100	1	99999										
+240	Đá Tấn Công Lv1	physcical_damage_stone_1	34	240		Stone	3	240	4 bảo thạch cùng cấp ghép được 1 bảo thạch cấp cao	20000	1	2	1000	1	27	1	99999										
+241	Đá Tấn Công Lv2	physcical_damage_stone_2	34	241		Stone	3	241	4 bảo thạch cùng cấp ghép được 1 bảo thạch cấp cao	60000	2	2	1000	2	27	1	99999										
+242	Đá Tấn Công Lv3	physcical_damage_stone_3	34	242		Stone	3	242	4 bảo thạch cùng cấp ghép được 1 bảo thạch cấp cao	180000	3	2	1000	3	27	1	99999										
+243	Đá Tấn Công Lv4	physcical_damage_stone_4	34	243		Stone	3	243	4 bảo thạch cùng cấp ghép được 1 bảo thạch cấp cao	540000	4	2	1000	4	40	1	99999										
+244	Đá Tấn Công Lv5	physcical_damage_stone_5	34	244		Stone	3	244	4 bảo thạch cùng cấp ghép được 1 bảo thạch cấp cao	1650000	5	2	1000	5	50	1	99999										
+245	Đá Tấn Công Lv6	physcical_damage_stone_6	34	245		Stone	3	245	4 bảo thạch cùng cấp ghép được 1 bảo thạch cấp cao	5000000	6	2	1000	6	60	1	99999										
+246	Đá Tấn Công Lv7	physcical_damage_stone_7	34	246		Stone	3	246	4 bảo thạch cùng cấp ghép được 1 bảo thạch cấp cao	15000000	7	2	1000	7	70	1	99999										
+247	Đá Tấn Công Lv8	physcical_damage_stone_8	34	247		Stone	3	247	4 bảo thạch cùng cấp ghép được 1 bảo thạch cấp cao	45000000	7	2	1000	7	80	1	99999										
+248	Đá Tấn Công Lv9	physcical_damage_stone_9	34	248		Stone	3	248	4 bảo thạch cùng cấp ghép được 1 bảo thạch cấp cao	45000000	7	2	1000	7	90	1	99999										
+249	Đá Tấn Công Lv10	physcical_damage_stone_10	34	249		Stone	3	249	Đá Tấn Công Lv10	45000000	7	2	1000	7	100	1	99999										
+250	Đá Kháng Tính Lv1	all_resist_stone_1	34	250		Stone	3	250	4 bảo thạch cùng cấp ghép được 1 bảo thạch cấp cao	20000	1	2	1000	1	27	1	99999										
+251	Đá Kháng Tính Lv2	all_resist_stone_2	34	251		Stone	3	251	4 bảo thạch cùng cấp ghép được 1 bảo thạch cấp cao	60000	2	2	1000	2	27	1	99999										
+252	Đá Kháng Tính Lv3	all_resist_stone_3	34	252		Stone	3	252	4 bảo thạch cùng cấp ghép được 1 bảo thạch cấp cao	180000	3	2	1000	3	27	1	99999										
+253	Đá Kháng Tính Lv4	all_resist_stone_4	34	253		Stone	3	253	4 bảo thạch cùng cấp ghép được 1 bảo thạch cấp cao	540000	4	2	1000	4	40	1	99999										
+254	Đá Kháng Tính Lv5	all_resist_stone_5	34	254		Stone	3	254	4 bảo thạch cùng cấp ghép được 1 bảo thạch cấp cao	1650000	5	2	1000	5	50	1	99999										
+255	Đá Kháng Tính Lv6	all_resist_stone_6	34	255		Stone	3	255	4 bảo thạch cùng cấp ghép được 1 bảo thạch cấp cao	5000000	6	2	1000	6	60	1	99999										
+256	Đá Kháng Tính Lv7	all_resist_stone_7	34	256		Stone	3	256	4 bảo thạch cùng cấp ghép được 1 bảo thạch cấp cao	15000000	7	2	1000	7	70	1	99999										
+257	Đá Kháng Tính Lv8	all_resist_stone_8	34	257		Stone	3	257	4 bảo thạch cùng cấp ghép được 1 bảo thạch cấp cao	45000000	7	2	1000	7	80	1	99999										
+258	Đá Kháng Tính Lv9	all_resist_stone_9	34	258		Stone	3	258	4 bảo thạch cùng cấp ghép được 1 bảo thạch cấp cao	45000000	7	2	1000	7	90	1	99999										
+259	Đá Kháng Tính Lv10	all_resist_stone_10	34	259		Stone	3	259	Đá Kháng Tính Lv10	45000000	7	2	1000	7	100	1	99999										
+260	Đá Bỏ Qua Kháng Lv1	ignore_all_resist_stone_1	34	260		Stone	3	260	4 bảo thạch cùng cấp ghép được 1 bảo thạch cấp cao	20000	1	2	1000	1	27	1	99999										
+261	Đá Bỏ Qua Kháng Lv2	ignore_all_resist_stone_2	34	261		Stone	3	261	4 bảo thạch cùng cấp ghép được 1 bảo thạch cấp cao	60000	2	2	1000	2	27	1	99999										
+262	Đá Bỏ Qua Kháng Lv3	ignore_all_resist_stone_3	34	262		Stone	3	262	4 bảo thạch cùng cấp ghép được 1 bảo thạch cấp cao	180000	3	2	1000	3	27	1	99999										
+263	Đá Bỏ Qua Kháng Lv4	ignore_all_resist_stone_4	34	263		Stone	3	263	4 bảo thạch cùng cấp ghép được 1 bảo thạch cấp cao	540000	4	2	1000	4	40	1	99999										
+264	Đá Bỏ Qua Kháng Lv5	ignore_all_resist_stone_5	34	264		Stone	3	264	4 bảo thạch cùng cấp ghép được 1 bảo thạch cấp cao	1650000	5	2	1000	5	50	1	99999										
+265	Đá Bỏ Qua Kháng Lv6	ignore_all_resist_stone_6	34	265		Stone	3	265	4 bảo thạch cùng cấp ghép được 1 bảo thạch cấp cao	5000000	6	2	1000	6	60	1	99999										
+266	Đá Bỏ Qua Kháng Lv7	ignore_all_resist_stone_7	34	266		Stone	3	266	4 bảo thạch cùng cấp ghép được 1 bảo thạch cấp cao	15000000	7	2	1000	7	70	1	99999										
+267	Đá Bỏ Qua Kháng Lv8	ignore_all_resist_stone_8	34	267		Stone	3	267	4 bảo thạch cùng cấp ghép được 1 bảo thạch cấp cao	45000000	7	2	1000	7	80	1	99999										
+268	Đá Bỏ Qua Kháng Lv9	ignore_all_resist_stone_9	34	268		Stone	3	268	4 bảo thạch cùng cấp ghép được 1 bảo thạch cấp cao	45000000	7	2	1000	7	90	1	99999										
+269	Đá Bỏ Qua Kháng Lv10	ignore_all_resist_stone_10	34	269		Stone	3	269	Đá Bỏ Qua Kháng Lv10	45000000	7	2	1000	7	100	1	99999										
+270	Đá Né Tránh Lv1	defense_stone_1	34	270		Stone	3	270	4 bảo thạch cùng cấp ghép được 1 bảo thạch cấp cao	20000	1	2	1000	1	27	1	99999										
+271	Đá Né Tránh Lv2	defense_stone_2	34	271		Stone	3	271	4 bảo thạch cùng cấp ghép được 1 bảo thạch cấp cao	60000	2	2	1000	2	27	1	99999										
+272	Đá Né Tránh Lv3	defense_stone_3	34	272		Stone	3	272	4 bảo thạch cùng cấp ghép được 1 bảo thạch cấp cao	180000	3	2	1000	3	27	1	99999										
+273	Đá Né Tránh Lv4	defense_stone_4	34	273		Stone	3	273	4 bảo thạch cùng cấp ghép được 1 bảo thạch cấp cao	540000	4	2	1000	4	40	1	99999										
+274	Đá Né Tránh Lv5	defense_stone_5	34	274		Stone	3	274	4 bảo thạch cùng cấp ghép được 1 bảo thạch cấp cao	1650000	5	2	1000	5	50	1	99999										
+275	Đá Né Tránh Lv6	defense_stone_6	34	275		Stone	3	275	4 bảo thạch cùng cấp ghép được 1 bảo thạch cấp cao	5000000	6	2	1000	6	60	1	99999										
+276	Đá Né Tránh Lv7	defense_stone_7	34	276		Stone	3	276	4 bảo thạch cùng cấp ghép được 1 bảo thạch cấp cao	15000000	7	2	1000	7	70	1	99999										
+277	Đá Né Tránh Lv8	defense_stone_8	34	277		Stone	3	277	4 bảo thạch cùng cấp ghép được 1 bảo thạch cấp cao	45000000	7	2	1000	7	80	1	99999										
+278	Đá Né Tránh Lv9	defense_stone_9	34	278		Stone	3	278	4 bảo thạch cùng cấp ghép được 1 bảo thạch cấp cao	45000000	7	2	1000	7	90	1	99999										
+279	Đá Né Tránh Lv10	defense_stone_10	34	279		Stone	3	279	Đá Né Tránh Lv10	45000000	7	2	1000	7	100	1	99999										
+280	Đá Bỏ Qua Né Tránh Lv1	ignore_defense_stone_1	34	280		Stone	3	280	4 bảo thạch cùng cấp ghép được 1 bảo thạch cấp cao	20000	1	2	1000	1	27	1	99999										
+281	Đá Bỏ Qua Né Tránh Lv2	ignore_defense_stone_2	34	281		Stone	3	281	4 bảo thạch cùng cấp ghép được 1 bảo thạch cấp cao	60000	2	2	1000	2	27	1	99999										
+282	Đá Bỏ Qua Né Tránh Lv3	ignore_defense_stone_3	34	282		Stone	3	282	4 bảo thạch cùng cấp ghép được 1 bảo thạch cấp cao	180000	3	2	1000	3	27	1	99999										
+283	Đá Bỏ Qua Né Tránh Lv4	ignore_defense_stone_4	34	283		Stone	3	283	4 bảo thạch cùng cấp ghép được 1 bảo thạch cấp cao	540000	4	2	1000	4	40	1	99999										
+284	Đá Bỏ Qua Né Tránh Lv5	ignore_defense_stone_5	34	284		Stone	3	284	4 bảo thạch cùng cấp ghép được 1 bảo thạch cấp cao	1650000	5	2	1000	5	50	1	99999										
+285	Đá Bỏ Qua Né Tránh Lv6	ignore_defense_stone_6	34	285		Stone	3	285	4 bảo thạch cùng cấp ghép được 1 bảo thạch cấp cao	5000000	6	2	1000	6	60	1	99999										
+286	Đá Bỏ Qua Né Tránh Lv7	ignore_defense_stone_7	34	286		Stone	3	286	4 bảo thạch cùng cấp ghép được 1 bảo thạch cấp cao	15000000	7	2	1000	7	70	1	99999										
+287	Đá Bỏ Qua Né Tránh Lv8	ignore_defense_stone_8	34	287		Stone	3	287	4 bảo thạch cùng cấp ghép được 1 bảo thạch cấp cao	45000000	7	2	1000	7	80	1	99999										
+288	Đá Bỏ Qua Né Tránh Lv9	ignore_defense_stone_9	34	288		Stone	3	288	4 bảo thạch cùng cấp ghép được 1 bảo thạch cấp cao	45000000	7	2	1000	7	90	1	99999										
+289	Đá Bỏ Qua Né Tránh Lv10	ignore_defense_stone_10	34	289		Stone	3	289	Đá Bỏ Qua Né Tránh Lv10	45000000	7	2	1000	7	100	1	99999										
+290	Đá Bạo Kích Lv1	deadlystrike_stone_1	34	290		Stone	3	290	4 bảo thạch cùng cấp ghép được 1 bảo thạch cấp cao	20000	1	2	1000	1	27	1	99999										
+291	Đá Bạo Kích Lv2	deadlystrike_stone_2	34	291		Stone	3	291	4 bảo thạch cùng cấp ghép được 1 bảo thạch cấp cao	60000	2	2	1000	2	27	1	99999										
+292	Đá Bạo Kích Lv3	deadlystrike_stone_3	34	292		Stone	3	292	4 bảo thạch cùng cấp ghép được 1 bảo thạch cấp cao	180000	3	2	1000	3	27	1	99999										
+293	Đá Bạo Kích Lv4	deadlystrike_stone_4	34	293		Stone	3	293	4 bảo thạch cùng cấp ghép được 1 bảo thạch cấp cao	540000	4	2	1000	4	40	1	99999										
+294	Đá Bạo Kích Lv5	deadlystrike_stone_5	34	294		Stone	3	294	4 bảo thạch cùng cấp ghép được 1 bảo thạch cấp cao	1650000	5	2	1000	5	50	1	99999										
+295	Đá Bạo Kích Lv6	deadlystrike_stone_6	34	295		Stone	3	295	4 bảo thạch cùng cấp ghép được 1 bảo thạch cấp cao	5000000	6	2	1000	6	60	1	99999										
+296	Đá Bạo Kích Lv7	deadlystrike_stone_7	34	296		Stone	3	296	4 bảo thạch cùng cấp ghép được 1 bảo thạch cấp cao	15000000	7	2	1000	7	70	1	99999										
+297	Đá Bạo Kích Lv8	deadlystrike_stone_8	34	297		Stone	3	297	4 bảo thạch cùng cấp ghép được 1 bảo thạch cấp cao	45000000	7	2	1000	7	80	1	99999										
+298	Đá Bạo Kích Lv9	deadlystrike_stone_9	34	298		Stone	3	298	4 bảo thạch cùng cấp ghép được 1 bảo thạch cấp cao	45000000	7	2	1000	7	90	1	99999										
+299	Đá Bạo Kích Lv10	deadlystrike_stone_10	34	299		Stone	3	299	Đá Bạo Kích Lv10	45000000	7	2	1000	7	100	1	99999										
+300	Đá Giảm Bạo Kích Lv1	weaken_deadlystrike_stone_1	34	300		Stone	3	300	4 bảo thạch cùng cấp ghép được 1 bảo thạch cấp cao	20000	1	2	1000	1	27	1	99999										
+301	Đá Giảm Bạo Kích Lv2	weaken_deadlystrike_stone_2	34	301		Stone	3	301	4 bảo thạch cùng cấp ghép được 1 bảo thạch cấp cao	60000	2	2	1000	2	27	1	99999										
+302	Đá Giảm Bạo Kích Lv3	weaken_deadlystrike_stone_3	34	302		Stone	3	302	4 bảo thạch cùng cấp ghép được 1 bảo thạch cấp cao	180000	3	2	1000	3	27	1	99999										
+303	Đá Giảm Bạo Kích Lv4	weaken_deadlystrike_stone_4	34	303		Stone	3	303	4 bảo thạch cùng cấp ghép được 1 bảo thạch cấp cao	540000	4	2	1000	4	40	1	99999										
+304	Đá Giảm Bạo Kích Lv5	weaken_deadlystrike_stone_5	34	304		Stone	3	304	4 bảo thạch cùng cấp ghép được 1 bảo thạch cấp cao	1650000	5	2	1000	5	50	1	99999										
+305	Đá Giảm Bạo Kích Lv6	weaken_deadlystrike_stone_6	34	305		Stone	3	305	4 bảo thạch cùng cấp ghép được 1 bảo thạch cấp cao	5000000	6	2	1000	6	60	1	99999										
+306	Đá Giảm Bạo Kích Lv7	weaken_deadlystrike_stone_7	34	306		Stone	3	306	4 bảo thạch cùng cấp ghép được 1 bảo thạch cấp cao	15000000	7	2	1000	7	70	1	99999										
+307	Đá Giảm Bạo Kích Lv8	weaken_deadlystrike_stone_8	34	307		Stone	3	307	4 bảo thạch cùng cấp ghép được 1 bảo thạch cấp cao	45000000	7	2	1000	7	80	1	99999										
+308	Đá Giảm Bạo Kích Lv9	weaken_deadlystrike_stone_9	34	308		Stone	3	308	4 bảo thạch cùng cấp ghép được 1 bảo thạch cấp cao	45000000	7	2	1000	7	90	1	99999										
+309	Đá Giảm Bạo Kích Lv10	weaken_deadlystrike_stone_10	34	309		Stone	3	309	Đá Giảm Bạo Kích Lv10	45000000	7	2	1000	7	100	1	99999										
+310	Đá Hiệu Quả Lv1	add_seriesstate_stone_1	34	310		Stone	3	310	4 bảo thạch cùng cấp ghép được 1 bảo thạch cấp cao	20000	1	2	1000	1	27	1	99999										
+311	Đá Hiệu Quả Lv2	add_seriesstate_stone_2	34	311		Stone	3	311	4 bảo thạch cùng cấp ghép được 1 bảo thạch cấp cao	60000	2	2	1000	2	27	1	99999										
+312	Đá Hiệu Quả Lv3	add_seriesstate_stone_3	34	312		Stone	3	312	4 bảo thạch cùng cấp ghép được 1 bảo thạch cấp cao	180000	3	2	1000	3	27	1	99999										
+313	Đá Hiệu Quả Lv4	add_seriesstate_stone_4	34	313		Stone	3	313	4 bảo thạch cùng cấp ghép được 1 bảo thạch cấp cao	540000	4	2	1000	4	40	1	99999										
+314	Đá Hiệu Quả Lv5	add_seriesstate_stone_5	34	314		Stone	3	314	4 bảo thạch cùng cấp ghép được 1 bảo thạch cấp cao	1650000	5	2	1000	5	50	1	99999										
+315	Đá Hiệu Quả Lv6	add_seriesstate_stone_6	34	315		Stone	3	315	4 bảo thạch cùng cấp ghép được 1 bảo thạch cấp cao	5000000	6	2	1000	6	60	1	99999										
+316	Đá Hiệu Quả Lv7	add_seriesstate_stone_7	34	316		Stone	3	316	4 bảo thạch cùng cấp ghép được 1 bảo thạch cấp cao	15000000	7	2	1000	7	70	1	99999										
+317	Đá Hiệu Quả Lv8	add_seriesstate_stone_8	34	317		Stone	3	317	4 bảo thạch cùng cấp ghép được 1 bảo thạch cấp cao	45000000	7	2	1000	7	80	1	99999										
+318	Đá Hiệu Quả Lv9	add_seriesstate_stone_9	34	318		Stone	3	318	4 bảo thạch cùng cấp ghép được 1 bảo thạch cấp cao	45000000	7	2	1000	7	90	1	99999										
+319	Đá Hiệu Quả Lv10	add_seriesstate_stone_10	34	319		Stone	3	319	Đá Hiệu Quả Lv10	45000000	7	2	1000	7	100	1	99999										
+320	Đá Giảm Hiệu Quả Lv1	resist_allseriesstate_stone_1	34	320		Stone	3	320	4 bảo thạch cùng cấp ghép được 1 bảo thạch cấp cao	20000	1	2	1000	1	27	1	99999										
+321	Đá Giảm Hiệu Quả Lv2	resist_allseriesstate_stone_2	34	321		Stone	3	321	4 bảo thạch cùng cấp ghép được 1 bảo thạch cấp cao	60000	2	2	1000	2	27	1	99999										
+322	Đá Giảm Hiệu Quả Lv3	resist_allseriesstate_stone_3	34	322		Stone	3	322	4 bảo thạch cùng cấp ghép được 1 bảo thạch cấp cao	180000	3	2	1000	3	27	1	99999										
+323	Đá Giảm Hiệu Quả Lv4	resist_allseriesstate_stone_4	34	323		Stone	3	323	4 bảo thạch cùng cấp ghép được 1 bảo thạch cấp cao	540000	4	2	1000	4	40	1	99999										
+324	Đá Giảm Hiệu Quả Lv5	resist_allseriesstate_stone_5	34	324		Stone	3	324	4 bảo thạch cùng cấp ghép được 1 bảo thạch cấp cao	1650000	5	2	1000	5	50	1	99999										
+325	Đá Giảm Hiệu Quả Lv6	resist_allseriesstate_stone_6	34	325		Stone	3	325	4 bảo thạch cùng cấp ghép được 1 bảo thạch cấp cao	5000000	6	2	1000	6	60	1	99999										
+326	Đá Giảm Hiệu Quả Lv7	resist_allseriesstate_stone_7	34	326		Stone	3	326	4 bảo thạch cùng cấp ghép được 1 bảo thạch cấp cao	15000000	7	2	1000	7	70	1	99999										
+327	Đá Giảm Hiệu Quả Lv8	resist_allseriesstate_stone_8	34	327		Stone	3	327	4 bảo thạch cùng cấp ghép được 1 bảo thạch cấp cao	45000000	7	2	1000	7	80	1	99999										
+328	Đá Giảm Hiệu Quả Lv9	resist_allseriesstate_stone_9	34	328		Stone	3	328	4 bảo thạch cùng cấp ghép được 1 bảo thạch cấp cao	45000000	7	2	1000	7	90	1	99999										
+329	Đá Giảm Hiệu Quả Lv10	resist_allseriesstate_stone_10	34	329		Stone	3	329	Đá Giảm Hiệu Quả Lv10	45000000	7	2	1000	7	100	1	99999										
+1693	Đá Hồn Lý Tam-Sơ	stone_lisan	34	21001		Stone	3	21001	3 Đá Hồn-Sơ ghép được 1 Đá Hồn-Trung	50000	1	2	1000	1		1	99999										
+1694	Đá Hồn Lư Thanh-Sơ	stone_luqing	34	21002		Stone	3	21002	3 Đá Hồn-Sơ ghép được 1 Đá Hồn-Trung	50000	1	2	1000	1		1	99999										
+1695	Đá Hồn Oanh Nhi-Sơ	stone_yinger	34	21003		Stone	3	21003	3 Đá Hồn-Sơ ghép được 1 Đá Hồn-Trung	50000	1	2	1000	1		1	99999										
+1696	Đá Hồn Cố Võ-Sơ	stone_guwu	34	21004		Stone	3	21004	3 Đá Hồn-Sơ ghép được 1 Đá Hồn-Trung	50000	1	2	1000	1		1	99999										
+1697	Đá Hồn Ân Phương-Sơ	stone_xiaowu	34	21005		Stone	3	21005	3 Đá Hồn-Sơ ghép được 1 Đá Hồn-Trung	150000	2	2	1000	2		1	99999										
+1698	Đá Hồn Tô Mặc Vân-Sơ	stone_sumoyun	34	21006		Stone	3	21006	3 Đá Hồn-Sơ ghép được 1 Đá Hồn-Trung	50000	1	2	1000	1		1	99999										
+1699	Đá Hồn Tiêu Động Trần-Sơ	stone_xiaodongcheng	34	21007		Stone	3	21007	3 Đá Hồn-Sơ ghép được 1 Đá Hồn-Trung	50000	1	2	1000	1		1	99999										
+1700	Đá Hồn Hồ Thần Y-Sơ	stone_hushenyi	34	21008		Stone	3	21008	3 Đá Hồn-Sơ ghép được 1 Đá Hồn-Trung	50000	1	2	1000	1		1	99999										
+1701	Đá Hồn Tần Mộc Bạch-Sơ	stone_qinmubai	34	21009		Stone	3	21009	3 Đá Hồn-Sơ ghép được 1 Đá Hồn-Trung	50000	1	2	1000	1		1	99999										
+1702	Đá Hồn Trương Trọng Thiên-Sơ	stone_zhangzhongtian	34	21010		Stone	3	21010	3 Đá Hồn-Sơ ghép được 1 Đá Hồn-Trung	50000	1	2	1000	1		1	99999										
+1703	Đá Hồn Lộ Đạt-Sơ	stone_luda	34	21011		Stone	3	21011	3 Đá Hồn-Sơ ghép được 1 Đá Hồn-Trung	50000	1	2	1000	1		1	99999										
+1704	Đá Hồn Bạch Mi Hầu Vương-Sơ	stone_houwang	34	21012		Stone	3	21012	3 Đá Hồn-Sơ ghép được 1 Đá Hồn-Trung	150000	2	2	1000	2		1	99999										
+1705	Đá Hồn Đại Địa Lang Vương-Sơ	stone_langwang	34	21013		Stone	3	21013	3 Đá Hồn-Sơ ghép được 1 Đá Hồn-Trung	150000	2	2	1000	2		1	99999										
+1706	Đá Hồn Hàn Ngọc Lộc Vương-Sơ	stone_luwang	34	21014		Stone	3	21014	3 Đá Hồn-Sơ ghép được 1 Đá Hồn-Trung	150000	2	2	1000	2		1	99999										
+1707	Đá Hồn Tường Vi-Sơ	stone_qiangwei	34	21015		Stone	3	21015	3 Đá Hồn-Sơ ghép được 1 Đá Hồn-Trung	50000	1	2	1000	1		1	99999										
+1708	Đá Hồn Tử Hiên-Sơ	stone_zixuan	34	21016		Stone	3	21016	3 Đá Hồn-Sơ ghép được 1 Đá Hồn-Trung	50000	1	2	1000	1		1	99999										
+1709	Đá Hồn Trác Phi Phàm-Sơ	stone_zhuofeifan	34	21017		Stone	3	21017	3 Đá Hồn-Sơ ghép được 1 Đá Hồn-Trung	150000	2	2	1000	2		1	99999										
+1710	Đá Hồn Nguyệt Minh Dao-Sơ	stone_yumingyao	34	21018		Stone	3	21018	3 Đá Hồn-Sơ ghép được 1 Đá Hồn-Trung	150000	2	2	1000	2		1	99999										
+1711	Đá Hồn Long Ngạo Thiên-Sơ	stone_longyaotian	34	21019		Stone	3	21019	3 Đá Hồn-Sơ ghép được 1 Đá Hồn-Trung	150000	2	2	1000	2		1	99999										
+1712	Đá Hồn Mạt Thiên Nhiên-Sơ	stone_motianran	34	21020		Stone	3	21020	3 Đá Hồn-Sơ ghép được 1 Đá Hồn-Trung	150000	2	2	1000	2		1	99999										
+1713	Đá Hồn Tiểu Ảnh Phong-Sơ	stone_syangyingfeng	34	21021		Stone	3	21021	3 Đá Hồn-Sơ ghép được 1 Đá Hồn-Trung	450000	3	2	1000	3		1	99999										
+1714	Đá Hồn Nam Cung Thái Hồng-Sơ	stone_nangongcaihong	34	21022		Stone	3	21022	3 Đá Hồn-Sơ ghép được 1 Đá Hồn-Trung	50000	1	2	1000	1		1	99999										
+1715	Đá Hồn Lâm Hải-Sơ	stone_linhai	34	21023		Stone	3	21023	3 Đá Hồn-Sơ ghép được 1 Đá Hồn-Trung	50000	1	2	1000	1		1	99999										
+1716	Đá Hồn Lục Văn Long-Sơ	stone_luwenlong	34	21024		Stone	3	21024	3 Đá Hồn-Sơ ghép được 1 Đá Hồn-Trung	50000	1	2	1000	1		1	99999										
+1717	Đá Hồn Triệu Vô Song-Sơ	stone_zhaowushuang	34	21025		Stone	3	21025	3 Đá Hồn-Sơ ghép được 1 Đá Hồn-Trung	50000	1	2	1000	1		1	99999										
+1718	Đá Hồn Vô Tướng-Sơ	stone_wuxiang	34	21026		Stone	3	21026	3 Đá Hồn-Sơ ghép được 1 Đá Hồn-Trung	50000	1	2	1000	1		1	99999										
+1719	Đá Hồn Đường Tiêu-Sơ	stone_tangxiao	34	21027		Stone	3	21027	3 Đá Hồn-Sơ ghép được 1 Đá Hồn-Trung	150000	2	2	1000	2		1	99999										
+1720	Đá Hồn Trương Như Mộng-Sơ	stone_zhangrumeng	34	21028		Stone	3	21028	3 Đá Hồn-Sơ ghép được 1 Đá Hồn-Trung	50000	1	2	1000	1		1	99999										
+1721	Đá Hồn Trương Lâm Tâm-Sơ	stone_zhanglinxin	34	21029		Stone	3	21029	3 Đá Hồn-Sơ ghép được 1 Đá Hồn-Trung	150000	2	2	1000	2		1	99999										
+1722	Đá Hồn Phong Ngọc Thư-Sơ	stone_fengyushu	34	21030		Stone	3	21030	3 Đá Hồn-Sơ ghép được 1 Đá Hồn-Trung	150000	2	2	1000	2		1	99999										
+1723	Đá Hồn Triệu Tiết-Sơ	stone_zhaojie	34	21031		Stone	3	21031	3 Đá Hồn-Sơ ghép được 1 Đá Hồn-Trung	50000	1	2	1000	1		1	99999										
+1724	Đá Hồn Thiệu Kỵ Phong-Sơ	stone_shaoqifeng	34	21032		Stone	3	21032	3 Đá Hồn-Sơ ghép được 1 Đá Hồn-Trung	50000	1	2	1000	1		1	99999										
+1725	Đá Hồn Hà Mộ Tuyết-Sơ	stone_hemuxue	34	21033		Stone	3	21033	3 Đá Hồn-Sơ ghép được 1 Đá Hồn-Trung	150000	2	2	1000	2		1	99999										
+1726	Đá Hồn Triệu Thăng Quyền-Sơ	stone_zhaoshengquan	34	21034		Stone	3	21034	3 Đá Hồn-Sơ ghép được 1 Đá Hồn-Trung	150000	2	2	1000	2		1	99999										
+1727	Đá Hồn Nạp Lan Chân-Sơ	stone_nalanzhen	34	21035		Stone	3	21035	3 Đá Hồn-Sơ ghép được 1 Đá Hồn-Trung	150000	2	2	1000	2		1	99999										
+1728	Đá Hồn Sài Tung-Sơ	stone_chaisong	34	21036		Stone	3	21036	3 Đá Hồn-Sơ ghép được 1 Đá Hồn-Trung	150000	2	2	1000	2		1	99999										
+1729	Đá Hồn Khúc Hà-Sơ	stone_quxia	34	21037		Stone	3	21037	3 Đá Hồn-Sơ ghép được 1 Đá Hồn-Trung	450000	3	2	1000	3		1	99999										
+1730	Đá Hồn Gia Luật Tị Li-Sơ 	stone_yelvpili	34	21038		Stone	3	21038	3 Đá Hồn-Sơ ghép được 1 Đá Hồn-Trung	450000	3	2	1000	3		1	99999										
+1731	Đá Hồn Dương Thiết Tâm-Sơ	stone_yangtiexin	34	21039		Stone	3	21039	3 Đá Hồn-Sơ ghép được 1 Đá Hồn-Trung	450000	3	2	1000	3		1	99999										
+1732	Đá Hồn Vô Tưởng-Sơ	stone_wuxiangg	34	21040		Stone	3	21040	3 Đá Hồn-Sơ ghép được 1 Đá Hồn-Trung	450000	3	2	1000	3		1	99999										
+1733	Đá Hồn Liễu Tiêu Đình-Sơ	stone_liuxiaoting	34	21041		Stone	3	21041	3 Đá Hồn-Sơ ghép được 1 Đá Hồn-Trung	450000	3	2	1000	3		1	99999										
+1734	Đá Hồn Lý Điềm Nhi-Sơ	stone_litianer	34	21042		Stone	3	21042	3 Đá Hồn-Sơ ghép được 1 Đá Hồn-Trung	450000	3	2	1000	3		1	99999										
+1735	Đá Hồn Lý Thiên Mục-Sơ	stone_litianmu	34	21043		Stone	3	21043	3 Đá Hồn-Sơ ghép được 1 Đá Hồn-Trung	450000	3	2	1000	3		1	99999										
+1736	Đá Hồn Hoàn Nhan Tương-Sơ	stone_wanyanxiang	34	21044		Stone	3	21044	3 Đá Hồn-Sơ ghép được 1 Đá Hồn-Trung	450000	3	2	1000	3		1	99999										
+2847	Đá Hồn Huyền Từ-Sơ 	stone_xuanci	34	21098		Stone	3	21098	3 Đá Hồn-Sơ ghép được 1 Đá Hồn-Trung	450000	3	2	1000	3		1	99999										
+1737	Đá Hồn Thiệu Hồng Uyên-Sơ	stone_shaohongyuan	34	21045		Stone	3	21045	3 Đá Hồn-Sơ ghép được 1 Đá Hồn-Trung	150000	2	2	1000	2		1	99999										
+1738	Đá Hồn Bạch Ngạn Kính-Sơ	stone_baiyanjing	34	21046		Stone	3	21046	3 Đá Hồn-Sơ ghép được 1 Đá Hồn-Trung	150000	2	2	1000	2		1	99999										
+1739	Đá Hồn Gia Luật Sở Tài-Sơ	stone_yelvchucai	34	21047		Stone	3	21047	3 Đá Hồn-Sơ ghép được 1 Đá Hồn-Trung	450000	3	2	1000	3		1	99999										
+1740	Đá Hồn Lôi Phong-Sơ	stone_leifeng	34	21048		Stone	3	21048	3 Đá Hồn-Sơ ghép được 1 Đá Hồn-Trung	150000	2	2	1000	2		1	99999										
+1741	Đá Hồn Lôi Đồng-Sơ	stone_leitong	34	21049		Stone	3	21049	3 Đá Hồn-Sơ ghép được 1 Đá Hồn-Trung	150000	2	2	1000	2		1	99999										
+1742	Đá Hồn Đường Quyên Quyên-Sơ	stone_tangjuanjuan	34	21050		Stone	3	21050	3 Đá Hồn-Sơ ghép được 1 Đá Hồn-Trung	150000	2	2	1000	2		1	99999										
+1743	Đá Hồn Lôi Chấn Thiên-Sơ	stone_leizhengtian	34	21051		Stone	3	21051	3 Đá Hồn-Sơ ghép được 1 Đá Hồn-Trung	450000	3	2	1000	3		1	99999										
+1744	Đá Hồn Đoạt Bảo Tặc-Sơ	stone_duobaozei	34	21052		Stone	3	21052	3 Đá Hồn-Sơ ghép được 1 Đá Hồn-Trung	150000	2	2	1000	2		1	99999										
+1745	Đá Hồn Song Thủ Dị Thú-Sơ	stone_yishou	34	21053		Stone	3	21053	3 Đá Hồn-Sơ ghép được 1 Đá Hồn-Trung	150000	2	2	1000	2		1	99999										
+1746	Đá Hồn Bôn Diệm Báo Vương-Sơ	stone_baowang	34	21054		Stone	3	21054	3 Đá Hồn-Sơ ghép được 1 Đá Hồn-Trung	150000	2	2	1000	2		1	99999										
+1747	Đá Hồn Cửu Vĩ Hồ Vương-Sơ	stone_huwang	34	21055		Stone	3	21055	3 Đá Hồn-Sơ ghép được 1 Đá Hồn-Trung	150000	2	2	1000	2		1	99999										
+2528	Đá Hồn Dương Anh-Sơ	stone_yangyin	34	21079		Stone	3	21079	3 Đá Hồn-Sơ ghép được 1 Đá Hồn-Trung	1350000	4	2	1000	4		1	99999										
+2529	Đá Hồn Thanh Hiểu Sư Thái-Sơ	stone_qingxiao	34	21080		Stone	3	21080	3 Đá Hồn-Sơ ghép được 1 Đá Hồn-Trung	1350000	4	2	1000	4		1	99999										
+2530	Đá Hồn Chúc Tử Hư-Sơ	stone_zhuzixu	34	21081		Stone	3	21081	3 Đá Hồn-Sơ ghép được 1 Đá Hồn-Trung	1350000	4	2	1000	4		1	99999										
+2531	Đá Hồn Hoàng Ngọc Anh-Sơ	stone_huangyuying	34	21082		Stone	3	21082	3 Đá Hồn-Sơ ghép được 1 Đá Hồn-Trung	1350000	4	2	1000	4		1	99999										
+2532	Đá Hồn Đạo Nhất Chân Nhân-Sơ	stone_daoyi	34	21083		Stone	3	21083	3 Đá Hồn-Sơ ghép được 1 Đá Hồn-Trung	1350000	4	2	1000	4		1	99999										
+2533	Đá Hồn Đoan Mộc Duệ-Sơ	stone_duanmurui	34	21084		Stone	3	21084	3 Đá Hồn-Sơ ghép được 1 Đá Hồn-Trung	1350000	4	2	1000	4		1	99999										
+2848	Đá Hồn Huyền Nhân-Sơ 	stone_xuanyin	34	21099		Stone	3	21099	3 Đá Hồn-Sơ ghép được 1 Đá Hồn-Trung	1350000	4	2	1000	4		1	99999										
+1748	Đá Hồn Cao Trường Cung-Sơ	stone_gaochanggong	34	21056		Stone	3	21056	3 Đá Hồn-Sơ ghép được 1 Đá Hồn-Trung	450000	3	2	1000	3		1	99999										
+1749	Đá Hồn Triết Biệt-Sơ	stone_zhebie	34	21057		Stone	3	21057	3 Đá Hồn-Sơ ghép được 1 Đá Hồn-Trung	450000	3	2	1000	3		1	99999										
+1750	Đá Hồn Tần Lương Ngọc-Sơ	stone_qinliangyu	34	21058		Stone	3	21058	3 Đá Hồn-Sơ ghép được 1 Đá Hồn-Trung	450000	3	2	1000	3		1	99999										
+1751	Đá Hồn Viên Thừa Chí-Sơ	stone_yuanchengzhi	34	21059		Stone	3	21059	3 Đá Hồn-Sơ ghép được 1 Đá Hồn-Trung	450000	3	2	1000	3		1	99999										
+1752	Đá Hồn Ngao Bái-Sơ	stone_aobai	34	21060		Stone	3	21060	3 Đá Hồn-Sơ ghép được 1 Đá Hồn-Trung	450000	3	2	1000	3		1	99999										
+1753	Đá Hồn Hàn Thế Trung-Sơ	stone_hanshizhong	34	21061		Stone	3	21061	3 Đá Hồn-Sơ ghép được 1 Đá Hồn-Trung	450000	3	2	1000	3		1	99999										
+1754	Đá Hồn Xích Tinh Hổ Hoàng-Sơ	stone_huhuang	34	21062		Stone	3	21062	3 Đá Hồn-Sơ ghép được 1 Đá Hồn-Trung	1350000	4	2	1000	4		1	99999										
+1755	Đá Hồn Hám Thiên Hùng Hoàng-Sơ	stone_xionghuang	34	21063		Stone	3	21063	3 Đá Hồn-Sơ ghép được 1 Đá Hồn-Trung	1350000	4	2	1000	4		1	99999										
+1756	Đá Hồn Tử Bối Ngạc Hoàng-Sơ	stone_ehuang	34	21064		Stone	3	21064	3 Đá Hồn-Sơ ghép được 1 Đá Hồn-Trung	1350000	4	2	1000	4		1	99999										
+1757	Đá Hồn Định Hải Kim Cang-Sơ	stone_jingang	34	21065		Stone	3	21065	3 Đá Hồn-Sơ ghép được 1 Đá Hồn-Trung	1350000	4	2	1000	4		1	99999										
+1758	Đá Hồn Kim Sí Bằng Hoàng-Sơ	stone_penghuang	34	21066		Stone	3	21066	3 Đá Hồn-Sơ ghép được 1 Đá Hồn-Trung	1350000	4	2	1000	4		1	99999										
+1759	Đá Hồn Ngân Giác Tê Hoàng-Sơ	stone_xihuang	34	21067		Stone	3	21067	3 Đá Hồn-Sơ ghép được 1 Đá Hồn-Trung	1350000	4	2	1000	4		1	99999										
+2534	Đá Hồn Mạnh Tri Thu-Sơ	stone_mengzhiqiu	34	21085		Stone	3	21085	3 Đá Hồn-Sơ ghép được 1 Đá Hồn-Trung	1350000	4	2	1000	4		1	99999										
+2535	Đá Hồn Lý Hiển Trung-Sơ	stone_lixianzhong	34	21086		Stone	3	21086	3 Đá Hồn-Sơ ghép được 1 Đá Hồn-Trung	1350000	4	2	1000	4		1	99999										
+2536	Đá Hồn Đồ Đơn Khắc Ninh-Sơ	stone_tudankening	34	21087		Stone	3	21087	3 Đá Hồn-Sơ ghép được 1 Đá Hồn-Trung	1350000	4	2	1000	4		1	99999										
+2668	Đá Hồn Độc Cô Kiếm-Sơ	stone_dugujian	34	21088		Stone	3	21088	3 Đá Hồn-Sơ ghép được 1 Đá Hồn-Trung	1350000	4	2	1000	4		1	99999										
+2880	Đá Hồn Nam Cung Phi-Sơ 	stone_nangongfeiyun	34	21100		Stone	3	21100	3 Đá Hồn-Sơ ghép được 1 Đá Hồn-Trung	1350000	4	2	1000	4		1	99999										
+2881	Đá Hồn Dương Ảnh Phong-Sơ 	stone_yangyingfeng	34	21101		Stone	3	21101	3 Đá Hồn-Sơ ghép được 1 Đá Hồn-Trung	1350000	4	2	1000	4		1	99999										
+2672	Đá Hồn Kinh Kha-Sơ	stone_jingke	34	21089		Stone	3	21089	3 Đá Hồn-Sơ ghép được 1 Đá Hồn-Trung	1350000	4	2	1000	4		1	99999										
+2673	Đá Hồn Ngu Cơ-Sơ	stone_yuji	34	21090		Stone	3	21090	3 Đá Hồn-Sơ ghép được 1 Đá Hồn-Trung	1350000	4	2	1000	4		1	99999										
+2674	Đá Hồn Nhạc Phi-Sơ	stone_yuefei	34	21091		Stone	3	21091	3 Đá Hồn-Sơ ghép được 1 Đá Hồn-Trung	1350000	4	2	1000	4		1	99999										
+2696	Đá Hồn Hoàn Nhan Hồng Liệt-Sơ	stone_wanyanhonglie	34	21092		Stone	3	21092	3 Đá Hồn-Sơ ghép được 1 Đá Hồn-Trung	1350000	4	2	1000	4		1	99999										
+2824	Đá Hồn Huyền Thiên Võ Cơ-Sơ 	stone_xuantianwuji	34	21093		Stone	3	21093	3 Đá Hồn-Sơ ghép được 1 Đá Hồn-Trung	1350000	4	2	1000	4		1	99999										
+2825	Đá Hồn Bạch Khởi-Sơ 	stone_baiqi	34	21094		Stone	3	21094	3 Đá Hồn-Sơ ghép được 1 Đá Hồn-Trung	1350000	4	2	1000	4		1	99999										
+2826	Đá Hồn Lý Tư-Sơ 	stone_lisi	34	21095		Stone	3	21095	3 Đá Hồn-Sơ ghép được 1 Đá Hồn-Trung	1350000	4	2	1000	4		1	99999										
+3022	Đá Hồn Lôi-Sơ 	stone_lei	34	21102		Stone	3	21102	3 Đá Hồn-Sơ ghép được 1 Đá Hồn-Trung	1350000	4	2	1000	4		1	99999										
+2827	Đá Hồn Tần Thủy Hoàng-Sơ (Âm) 	stone_qshyin	34	21096		Stone	3	21096	3 Đá Hồn-Sơ ghép được 1 Đá Hồn-Trung	4000000	5	2	1000	5		1	99999										
+2828	Đá Hồn Tần Thủy Hoàng-Sơ (Dương) 	stone_qshyang	34	21097		Stone	3	21097	3 Đá Hồn-Sơ ghép được 1 Đá Hồn-Trung	4000000	5	2	1000	5		1	99999										
+1760	Đá Hồn Trương Phong-Sơ	stone_zhangfeng	34	21068		Stone	3	21068	3 Đá Hồn-Sơ ghép được 1 Đá Hồn-Trung	150000	2	2	1000	2		1	99999										
+1761	Đá Hồn Nguyệt My Nhi-Sơ	stone_yuemeier	34	21069		Stone	3	21069	3 Đá Hồn-Sơ ghép được 1 Đá Hồn-Trung	150000	2	2	1000	2		1	99999										
+1762	Đá Hồn Thiên Tinh Đạo Trưởng-Sơ	stone_tianxingdaozhang	34	21070		Stone	3	21070	3 Đá Hồn-Sơ ghép được 1 Đá Hồn-Trung	450000	3	2	1000	3		1	99999										
+1763	Đá Hồn Yên Nhược Tuyết-Sơ	stone_yanruoxue	34	21071		Stone	3	21071	3 Đá Hồn-Sơ ghép được 1 Đá Hồn-Trung	450000	3	2	1000	3		1	99999										
+1764	Đá Hồn Dương Hi Liệt-Sơ	stone_yangxilie	34	21072		Stone	3	21072	3 Đá Hồn-Sơ ghép được 1 Đá Hồn-Trung	450000	3	2	1000	3		1	99999										
+1765	Đá Hồn Thượng Quan Phi Long-Sơ	stone_shangguanfeilong	34	21073		Stone	3	21073	3 Đá Hồn-Sơ ghép được 1 Đá Hồn-Trung	450000	3	2	1000	3		1	99999										
+1766	Đá Hồn Nạp Lan Tiềm Lẫm-Sơ	stone_nalanqianlin	34	21074		Stone	3	21074	3 Đá Hồn-Sơ ghép được 1 Đá Hồn-Trung	450000	3	2	1000	3		1	99999										
+1767	Đá Hồn Phương Miễn-Sơ	stone_fangmian	34	21075		Stone	3	21075	3 Đá Hồn-Sơ ghép được 1 Đá Hồn-Trung	450000	3	2	1000	3		1	99999										
+1768	Đá Hồn Nam Cung Diệt-Sơ	stone_nangongmie	34	21076		Stone	3	21076	3 Đá Hồn-Sơ ghép được 1 Đá Hồn-Trung	450000	3	2	1000	3		1	99999										
+1769	Đá Hồn Đường Ảnh-Sơ	stone_tangying	34	21077		Stone	3	21077	3 Đá Hồn-Sơ ghép được 1 Đá Hồn-Trung	450000	3	2	1000	3		1	99999										
+1770	Đá Hồn Thu Y Thủy-Sơ	stone_qiuyishui	34	21078		Stone	3	21078	3 Đá Hồn-Sơ ghép được 1 Đá Hồn-Trung	450000	3	2	1000	3		1	99999										
+3215	Đá Hồn Lý Nguyên Bá-Sơ 	stone_liyuanba	34	21103		Stone	3	21103	3 Đá Hồn-Sơ ghép được 1 Đá Hồn-Trung	1350000	4	2	1000	4		1	99999										
+3216	Đá Hồn Triệu Vân-Sơ 	stone_zhaoyun	34	21104		Stone	3	21104	3 Đá Hồn-Sơ ghép được 1 Đá Hồn-Trung	1350000	4	2	1000	4		1	99999										
+3217	Đá Hồn Lý Quảng-Sơ  	stone_liguang	34	21105		Stone	3	21105	3 Đá Hồn-Sơ ghép được 1 Đá Hồn-Trung	1350000	4	2	1000	4		1	99999										
+3371	Đá Hồn Doãn Hàm Yên-Sơ 	stone_yinhanyan	34	21106		Stone	3	21106	3 Đá Hồn-Sơ ghép được 1 Đá Hồn-Trung	1350000	4	2	1000	4		1	99999										
+3372	Đá Hồn Tuyền Cơ Tử-Sơ 	stone_xuanjizi	34	21107		Stone	3	21107	3 Đá Hồn-Sơ ghép được 1 Đá Hồn-Trung	1350000	4	2	1000	4		1	99999										
+3373	Đá Hồn Huyền Thiên Đạo Nhân-Sơ 	stone_xuantiandaoren	34	21108		Stone	3	21108	3 Đá Hồn-Sơ ghép được 1 Đá Hồn-Trung	1350000	4	2	1000	4		1	99999										
+3709	Đá Hồn Niên Thú-Sơ	stone_nianshou	34	21109		Stone	3	21109	3 Đá Hồn-Sơ ghép được 1 Đá Hồn-Trung	1350000	4	2	1000	4		1	99999										
+3854	Đá Hồn Hắc Diện Lang Quân-Sơ	stone_heimianlangjun	34	21110		Stone	3	21110	3 Đá Hồn-Sơ ghép được 1 Đá Hồn-Trung	1350000	4	2	1000	4		1	99999										
+3855	Đá Hồn Hà Nhân Ngã-Sơ	stone_herenwo	34	21111		Stone	3	21111	3 Đá Hồn-Sơ ghép được 1 Đá Hồn-Trung	1350000	4	2	1000	4		1	99999										
+3856	Đá Hồn Đường Cừu-Sơ	stone_tangchou	34	21112		Stone	3	21112	3 Đá Hồn-Sơ ghép được 1 Đá Hồn-Trung	1350000	4	2	1000	4		1	99999										
+3897	Đá Hồn Đường Giản-Sơ	stone_tangjian	34	21113		Stone	3	21113	3 Đá Hồn-Sơ ghép được 1 Đá Hồn-Trung	4050000	5	2	1000	5		1	99999										
+4053	Đá Hồn Hoàn Nhan Hồng Liệt-Sơ (Chân)	stone_wanyanhongliezhen	34	21114		Stone	3	21114	3 Đá Hồn-Sơ ghép được 1 Đá Hồn-Trung	4000000	5	2	1000	5		1	99999										
+4540	Đá Hồn Băng Lân Tích Hoàng-Sơ	stone_xiwang	34	21115		Stone	3	21115	3 Đá Hồn-Sơ ghép được 1 Đá Hồn-Trung	1350000	4	2	1000	4		1	99999										
+4541	Đá Hồn Ngân Câu Hạt Hoàng-Sơ	stone_xiewang	34	21116		Stone	3	21116	3 Đá Hồn-Sơ ghép được 1 Đá Hồn-Trung	1350000	4	2	1000	4		1	99999										
+4542	Đá Hồn Cuồng Tông Ngao Hoàng-Sơ	stone_aowang	34	21117		Stone	3	21117	3 Đá Hồn-Sơ ghép được 1 Đá Hồn-Trung	1350000	4	2	1000	4		1	99999										
+4595	Đá Hồn Hạng Vũ-Sơ	stone_xiangyu	34	21118		Stone	3	21118	3 Đá Hồn-Sơ ghép được 1 Đá Hồn-Trung	4050000	5	2	1000	5		1	99999										
+4849	Đá Hồn Đường Hiểu-Sơ	stone_tangxiao2_1	34	21119		Stone	3	21119	3 Đá Hồn-Sơ ghép được 1 Đá Hồn-Trung	4000000	5	2	1000	5		1	99999										
+4873	Đá Hồn Tống Thu Thạch-Sơ	stone_songqiushi	34	21120		Stone	3	21120	3 Đá Hồn-Sơ ghép được 1 Đá Hồn-Trung	1350000	4	2	1000	4		1	99999										
+4874	Đá Hồn Cổ Yên Nhiên-Sơ	stone_guyanran	34	21121		Stone	3	21121	3 Đá Hồn-Sơ ghép được 1 Đá Hồn-Trung	1350000	4	2	1000	4		1	99999										
+5432	Đá Hồn Doãn Tiêu Vũ-Sơ	stone_yinxiaoyu	34	21122		Stone	3	21122	3 Đá Hồn-Sơ ghép được 1 Đá Hồn-Trung	1350000	4	2	1000	4		1	99999										
+5433	Đá Hồn Thạch Hiên Viên-Sơ	stone_shixuanyuan	34	21123		Stone	3	21123	3 Đá Hồn-Sơ ghép được 1 Đá Hồn-Trung	1350000	4	2	1000	4		1	99999										
+6067	Đá Hồn Diệp Thanh Dương-Sơ	stone_yeqingyang	34	21124		Stone	3	21124	3 Đá Hồn-Sơ ghép được 1 Đá Hồn-Trung	1350000	4	2	1000	4		1	99999										
+6068	Đá Hồn Băng Nghi-Sơ	stone_bingyi	34	21125		Stone	3	21125	3 Đá Hồn-Sơ ghép được 1 Đá Hồn-Trung	1350000	4	2	1000	4		1	99999										
+6069	Đá Hồn Dương Tái Hưng-Sơ	stone_yangzaixing	34	21126		Stone	3	21126	3 Đá Hồn-Sơ ghép được 1 Đá Hồn-Trung	1350000	4	2	1000	4		1	99999										
+6070	Đá Hồn Hoàn Nhan Lâu Thất-Sơ	stone_wanyanloushi	34	21127		Stone	3	21127	3 Đá Hồn-Sơ ghép được 1 Đá Hồn-Trung	1350000	4	2	1000	4		1	99999										
+6100	Đá Hồn Tiêu Ngọc Trúc-Sơ	stone_xiaoyuzhu	34	21128		Stone	3	21128	3 Đá Hồn-Sơ ghép được 1 Đá Hồn-Trung	1350000	4	2	1000	4		1	99999										
+6101	Đá Hồn Kim Ngột Thuật-Sơ	stone_jinwuzhu	34	21129		Stone	3	21129	3 Đá Hồn-Sơ ghép được 1 Đá Hồn-Trung	1350000	4	2	1000	4		1	99999										
+6112	Đá Hồn Ngu Cơ Tuyệt Thế-Sơ	stone_jueshiyuji	34	21130		Stone	3	21130	3 Đá Hồn-Sơ ghép được 1 Đá Hồn-Trung	4050000	5	2	1000	5		1	99999										
+6126	Đá Hồn Võ Tắc Thiên-Sơ (Âm)	stone_wuzetianyin	34	21131		Stone	3	21131	3 Đá Hồn-Sơ ghép được 1 Đá Hồn-Trung	4050000	5	2	1000	5		1	99999										
+6127	Đá Hồn Võ Tắc Thiên-Sơ (Dương)	stone_wuzetianyang	34	21132		Stone	3	21132	3 Đá Hồn-Sơ ghép được 1 Đá Hồn-Trung	4050000	5	2	1000	5		1	99999										
+6128	Đá Hồn Địch Nhân Kiệt-Sơ 	stone_direnjie	34	21133		Stone	3	21133	3 Đá Hồn-Sơ ghép được 1 Đá Hồn-Trung	1350000	4	2	1000	4		1	99999										
+6129	Đá Hồn Nguyên Phương-Sơ	stone_liyuanfang	34	21134		Stone	3	21134	3 Đá Hồn-Sơ ghép được 1 Đá Hồn-Trung	1350000	4	2	1000	4		1	99999										
+6130	Đá Hồn Vô Tự Bi-Sơ 	stone_wuzibei	34	21135		Stone	3	21135	3 Đá Hồn-Sơ ghép được 1 Đá Hồn-Trung	1350000	4	2	1000	4		1	99999										
+6285	Đá Hồn Hàn Mông-Sơ 	stone_hanmeng	34	21136		Stone	3	21136	3 Đá Hồn-Sơ ghép được 1 Đá Hồn-Trung	1350000	4	2	1000	4		1	99999										
+7374	Đá Hồn Hà Linh Phiêu-Sơ	stone_helianpiao	34	21137		Stone	3	21137	3 Đá Hồn-Sơ ghép được 1 Đá Hồn-Trung	1350000	4	2	1000	4		1	99999										
+7377	Đá Hồn Ngu Doãn Văn-Sơ	stone_yuyunwen	34	21138		Stone	3	21138	3 Đá Hồn-Sơ ghép được 1 Đá Hồn-Trung	4050000	5	2	1000	5		1	99999										
+7429	Đá Hồn Long Văn Sư Vương-Sơ	stone_longwenshiwang	34	21139		Stone	3	21139	3 Đá Hồn-Sơ ghép được 1 Đá Hồn-Trung	1350000	4	2	1000	4		1	99999										
+7432	Đá Hồn Cự Ngao Phong Hậu-Sơ	stone_juaofenghou	34	21140		Stone	3	21140	3 Đá Hồn-Sơ ghép được 1 Đá Hồn-Trung	1350000	4	2	1000	4		1	99999										
+7648	Đá Hồn Vương Đằng-Sơ	stone_wangteng	34	21141		Stone	3	21141	3 Đá Hồn-Sơ ghép được 1 Đá Hồn-Trung	4050000	5	2	1000	5		1	99999										
+7649	Đá Hồn Vương Vân Tiêu-Sơ	stone_wangyunxiao	34	21142		Stone	3	21142	3 Đá Hồn-Sơ ghép được 1 Đá Hồn-Trung	1350000	4	2	1000	4		1	99999										
+7650	Đá Hồn Kinh Tuyết-Sơ	stone_tianyin	34	21143		Stone	3	21143	3 Đá Hồn-Sơ ghép được 1 Đá Hồn-Trung	1350000	4	2	1000	4		1	99999										
+7741	Đá Hồn Không Tướng-Sơ	stone_kongxiang	34	21145		Stone	3	21145	3 Đá Hồn-Sơ ghép được 1 Đá Hồn-Trung	1350000	4	2	1000	4		1	99999										
+9398	Đá Hồn Lâm Thanh Vũ-Sơ	stone_noname1	34	21146		Stone	3	21146	3 Đá Hồn-Sơ ghép được 1 Đá Hồn-Trung	1350000	4	2	1000	4		1	99999										
+9401	Đá Hồn Mạnh Thương Lam-Sơ	stone_noname2	34	21147		Stone	3	21147	3 Đá Hồn-Sơ ghép được 1 Đá Hồn-Trung	4050000	5	2	1000	5		1	99999										
+9971	Đá Hồn Phong Hành Chu-Sơ	stone_fengxingzhou	34	21148		Stone	3	21148	3 Đá Hồn-Sơ ghép được 1 Đá Hồn-Trung	1350000	4	2	1000	4		1	99999										
+9974	Đá Hồn Phương Công Vọng-Sơ	stone_fanggongwang	34	21149		Stone	3	21149	3 Đá Hồn-Sơ ghép được 1 Đá Hồn-Trung	4050000	5	2	1000	5		1	99999										
+9977	Đá Hồn Quỷ Cốc Tử-Sơ (Âm)	stone_guiguziyin	34	21150		Stone	3	21150	3 Đá Hồn-Sơ ghép được 1 Đá Hồn-Trung	4050000	5	2	1000	5		1	99999										
+9980	Đá Hồn Quỷ Cốc Tử-Sơ (Dương)	stone_guiguziyang	34	21151		Stone	3	21151	3 Đá Hồn-Sơ ghép được 1 Đá Hồn-Trung	4050000	5	2	1000	5		1	99999										
+10126	Đá Hồn Huyền Băng Điêu Hoàng-Sơ	stone_xuanbingdiaohuang	34	21152		Stone	3	21152	3 Đá Hồn-Sơ ghép được 1 Đá Hồn-Trung	4050000	5	2	1000	5		1	99999										
+10127	Đá Hồn Vạn Độc Cúc Hoàng-Sơ	stone_wandujihuang	34	21153		Stone	3	21153	3 Đá Hồn-Sơ ghép được 1 Đá Hồn-Trung	4050000	5	2	1000	5		1	99999										
+10128	Đá Hồn Hoàn Nhan Tông Hàn-Sơ	stone_wanyanzonghan	34	21154		Stone	3	21154	3 Đá Hồn-Sơ ghép được 1 Đá Hồn-Trung	4050000	5	2	1000	5		1	99999										
+10149	Đá Hồn Diệp Vô Tâm-Sơ	stone_yewuxin	34	21155		Stone	3	21155	3 Đá Hồn-Sơ ghép được 1 Đá Hồn-Trung	4050000	5	2	1000	5		1	99999										
+10449	Đá Hồn Thiên Âm-Sơ	stone_jingxue	34	21156		Stone	3	21156	3 Đá Hồn-Sơ ghép được 1 Đá Hồn-Trung	4050000	5	2	1000	5		1	99999										
+10475	Đá Hồn Vân Hạo Nhiên-Sơ	stone_yunhaoran	34	21157		Stone	3	21157	3 Đá Hồn-Sơ ghép được 1 Đá Hồn-Trung	4050000	5	2	1000	5		1	99999										
+10626	Đá Hồn Bản Trần-Sơ	stone_duanzhengxing	34	21158		Stone	3	21158	3 Đá Hồn-Sơ ghép được 1 Đá Hồn-Trung	4050000	5	2	1000	5		1	99999										
+10627	Đá Hồn Đoàn Trí Hưng-Sơ	stone_duanzhixing	34	21159		Stone	3	21159	3 Đá Hồn-Sơ ghép được 1 Đá Hồn-Trung	4050000	5	2	1000	5		1	99999										
+10912	Đá Hồn Bản Nhân-Sơ	stone_libaoyong	34	21160		Stone	3	21160	Đá Hồn-Sơ ghép được 1 Đá Hồn-Trung	4050000	5	2	1000	5		1	99999										
+10946	Đá Hồn Bản Quan-Sơ	stone_benguan	34	21161		Stone	3	21161	Đá Hồn-Sơ ghép được 1 Đá Hồn-Trung	4050000	5	2	1000	5		1	99999										
+11061	Đá Hồn Bản Tướng-Sơ	stone_benxiang	34	21162		Stone	3	21162	Đá Hồn-Sơ ghép được 1 Đá Hồn-Trung	4050000	5	2	1000	5		1	99999										
+1772	Đá Hồn Lý Tam-Trung	stone_lisan_2	34	22001		Stone	3	22001	3 Đá Hồn-Trung ghép được 1 Đá Hồn-Cao	150000	2	2	1000	2		1	99999										
+1771	Đá Hồn Lư Thanh-Trung	stone_luqing_2	34	22002		Stone	3	22002	3 Đá Hồn-Trung ghép được 1 Đá Hồn-Cao	150000	2	2	1000	2		1	99999										
+1773	Đá Hồn Oanh Nhi-Trung	stone_yinger_2	34	22003		Stone	3	22003	3 Đá Hồn-Trung ghép được 1 Đá Hồn-Cao	150000	2	2	1000	2		1	99999										
+1774	Đá Hồn Cố Võ-Trung	stone_guwu_2	34	22004		Stone	3	22004	3 Đá Hồn-Trung ghép được 1 Đá Hồn-Cao	150000	2	2	1000	2		1	99999										
+1775	Đá Hồn Ân Phương-Trung	stone_xiaowu_2	34	22005		Stone	3	22005	3 Đá Hồn-Trung ghép được 1 Đá Hồn-Cao	450000	3	2	1000	3		1	99999										
+1776	Đá Hồn Tô Mặc Vân-Trung	stone_sumoyun_2	34	22006		Stone	3	22006	3 Đá Hồn-Trung ghép được 1 Đá Hồn-Cao	150000	2	2	1000	2		1	99999										
+1777	Đá Hồn Tiêu Động Trần-Trung	stone_xiaodongcheng_2	34	22007		Stone	3	22007	3 Đá Hồn-Trung ghép được 1 Đá Hồn-Cao	150000	2	2	1000	2		1	99999										
+1778	Đá Hồn Hồ Thần Y-Trung	stone_hushenyi_2	34	22008		Stone	3	22008	3 Đá Hồn-Trung ghép được 1 Đá Hồn-Cao	150000	2	2	1000	2		1	99999										
+1779	Đá Hồn Tần Mộc Bạch-Trung	stone_qinmubai_2	34	22009		Stone	3	22009	3 Đá Hồn-Trung ghép được 1 Đá Hồn-Cao	150000	2	2	1000	2		1	99999										
+1780	Đá Hồn Trương Trọng Thiên-Trung	stone_zhangzhongtian_2	34	22010		Stone	3	22010	3 Đá Hồn-Trung ghép được 1 Đá Hồn-Cao	150000	2	2	1000	2		1	99999										
+1781	Đá Hồn Lộ Đạt-Trung	stone_luda_2	34	22011		Stone	3	22011	3 Đá Hồn-Trung ghép được 1 Đá Hồn-Cao	150000	2	2	1000	2		1	99999										
+1782	Đá Hồn Bạch Mi Hầu Vương-Trung	stone_houwang_2	34	22012		Stone	3	22012	3 Đá Hồn-Trung ghép được 1 Đá Hồn-Cao	450000	3	2	1000	3		1	99999										
+1783	Đá Hồn Đại Địa Lang Vương-Trung	stone_langwang_2	34	22013		Stone	3	22013	3 Đá Hồn-Trung ghép được 1 Đá Hồn-Cao	450000	3	2	1000	3		1	99999										
+1784	Đá Hồn Hàn Ngọc Lộc Vương-Trung	stone_luwang_2	34	22014		Stone	3	22014	3 Đá Hồn-Trung ghép được 1 Đá Hồn-Cao	450000	3	2	1000	3		1	99999										
+1785	Đá Hồn Tường Vi-Trung	stone_qiangwei_2	34	22015		Stone	3	22015	3 Đá Hồn-Trung ghép được 1 Đá Hồn-Cao	150000	2	2	1000	2		1	99999										
+1786	Đá Hồn Tử Hiên-Trung	stone_zixuan_2	34	22016		Stone	3	22016	3 Đá Hồn-Trung ghép được 1 Đá Hồn-Cao	150000	2	2	1000	2		1	99999										
+1787	Đá Hồn Trác Phi Phàm-Trung	stone_zhuofeifan_2	34	22017		Stone	3	22017	3 Đá Hồn-Trung ghép được 1 Đá Hồn-Cao	450000	3	2	1000	3		1	99999										
+1788	Đá Hồn Nguyệt Minh Dao-Trung	stone_yumingyao_2	34	22018		Stone	3	22018	3 Đá Hồn-Trung ghép được 1 Đá Hồn-Cao	450000	3	2	1000	3		1	99999										
+1789	Đá Hồn Long Ngạo Thiên-Trung	stone_longyaotian_2	34	22019		Stone	3	22019	3 Đá Hồn-Trung ghép được 1 Đá Hồn-Cao	450000	3	2	1000	3		1	99999										
+1790	Đá Hồn Mạt Thiên Nhiên-Trung	stone_motianran_2	34	22020		Stone	3	22020	3 Đá Hồn-Trung ghép được 1 Đá Hồn-Cao	450000	3	2	1000	3		1	99999										
+1791	Đá Hồn Tiểu Ảnh Phong-Trung	stone_syangyingfeng_2	34	22021		Stone	3	22021	3 Đá Hồn-Trung ghép được 1 Đá Hồn-Cao	1350000	4	2	1000	4		1	99999										
+1792	Đá Hồn Nam Cung Thái Hồng-Trung	stone_nangongcaihong_2	34	22022		Stone	3	22022	3 Đá Hồn-Trung ghép được 1 Đá Hồn-Cao	150000	2	2	1000	2		1	99999										
+1793	Đá Hồn Lâm Hải-Trung	stone_linhai_2	34	22023		Stone	3	22023	3 Đá Hồn-Trung ghép được 1 Đá Hồn-Cao	150000	2	2	1000	2		1	99999										
+1794	Đá Hồn Lục Văn Long-Trung	stone_luwenlong_2	34	22024		Stone	3	22024	3 Đá Hồn-Trung ghép được 1 Đá Hồn-Cao	150000	2	2	1000	2		1	99999										
+1795	Đá Hồn Triệu Vô Song-Trung	stone_zhaowushuang_2	34	22025		Stone	3	22025	3 Đá Hồn-Trung ghép được 1 Đá Hồn-Cao	150000	2	2	1000	2		1	99999										
+1796	Đá Hồn Vô Tướng-Trung	stone_wuxiang_2	34	22026		Stone	3	22026	3 Đá Hồn-Trung ghép được 1 Đá Hồn-Cao	150000	2	2	1000	2		1	99999										
+1797	Đá Hồn Đường Tiêu-Trung	stone_tangxiao_2	34	22027		Stone	3	22027	3 Đá Hồn-Trung ghép được 1 Đá Hồn-Cao	450000	3	2	1000	3		1	99999										
+1798	Đá Hồn Trương Như Mộng-Trung	stone_zhangrumeng_2	34	22028		Stone	3	22028	3 Đá Hồn-Trung ghép được 1 Đá Hồn-Cao	150000	2	2	1000	2		1	99999										
+1799	Đá Hồn Trương Lâm Tâm-Trung	stone_zhanglinxin_2	34	22029		Stone	3	22029	3 Đá Hồn-Trung ghép được 1 Đá Hồn-Cao	450000	3	2	1000	3		1	99999										
+1800	Đá Hồn Phong Ngọc Thư-Trung	stone_fengyushu_2	34	22030		Stone	3	22030	3 Đá Hồn-Trung ghép được 1 Đá Hồn-Cao	450000	3	2	1000	3		1	99999										
+1801	Đá Hồn Triệu Tiết-Trung	stone_zhaojie_2	34	22031		Stone	3	22031	3 Đá Hồn-Trung ghép được 1 Đá Hồn-Cao	150000	2	2	1000	2		1	99999										
+1802	Đá Hồn Thiệu Kỵ Phong-Trung	stone_shaoqifeng_2	34	22032		Stone	3	22032	3 Đá Hồn-Trung ghép được 1 Đá Hồn-Cao	150000	2	2	1000	2		1	99999										
+1803	Đá Hồn Hà Mộ Tuyết-Trung	stone_hemuxue_2	34	22033		Stone	3	22033	3 Đá Hồn-Trung ghép được 1 Đá Hồn-Cao	450000	3	2	1000	3		1	99999										
+1804	Đá Hồn Triệu Thăng Quyền-Trung	stone_zhaoshengquan_2	34	22034		Stone	3	22034	3 Đá Hồn-Trung ghép được 1 Đá Hồn-Cao	450000	3	2	1000	3		1	99999										
+1805	Đá Hồn Nạp Lan Chân-Trung	stone_nalanzhen_2	34	22035		Stone	3	22035	3 Đá Hồn-Trung ghép được 1 Đá Hồn-Cao	450000	3	2	1000	3		1	99999										
+1806	Đá Hồn Sài Tung-Trung	stone_chaisong_2	34	22036		Stone	3	22036	3 Đá Hồn-Trung ghép được 1 Đá Hồn-Cao	450000	3	2	1000	3		1	99999										
+1807	Đá Hồn Khúc Hà-Trung	stone_quxia_2	34	22037		Stone	3	22037	3 Đá Hồn-Trung ghép được 1 Đá Hồn-Cao	1350000	4	2	1000	4		1	99999										
+1808	Đá Hồn Gia Luật Tị Li-Trung 	stone_yelvpili_2	34	22038		Stone	3	22038	3 Đá Hồn-Trung ghép được 1 Đá Hồn-Cao	1350000	4	2	1000	4		1	99999										
+1809	Đá Hồn Dương Thiết Tâm-Trung	stone_yangtiexin_2	34	22039		Stone	3	22039	3 Đá Hồn-Trung ghép được 1 Đá Hồn-Cao	1350000	4	2	1000	4		1	99999										
+1810	Đá Hồn Vô Tưởng-Trung	stone_wuxiangg_2	34	22040		Stone	3	22040	3 Đá Hồn-Trung ghép được 1 Đá Hồn-Cao	1350000	4	2	1000	4		1	99999										
+1811	Đá Hồn Liễu Tiêu Đình-Trung	stone_liuxiaoting_2	34	22041		Stone	3	22041	3 Đá Hồn-Trung ghép được 1 Đá Hồn-Cao	1350000	4	2	1000	4		1	99999										
+1812	Đá Hồn Lý Điềm Nhi-Trung	stone_litianer_2	34	22042		Stone	3	22042	3 Đá Hồn-Trung ghép được 1 Đá Hồn-Cao	1350000	4	2	1000	4		1	99999										
+1813	Đá Hồn Lý Thiên Mục-Trung	stone_litianmu_2	34	22043		Stone	3	22043	3 Đá Hồn-Trung ghép được 1 Đá Hồn-Cao	1350000	4	2	1000	4		1	99999										
+1814	Đá Hồn Hoàn Nhan Tương-Trung	stone_wanyanxiang_2	34	22044		Stone	3	22044	3 Đá Hồn-Trung ghép được 1 Đá Hồn-Cao	1350000	4	2	1000	4		1	99999										
+2849	Đá Hồn Huyền Từ-Trung 	stone_xuanci_2	34	22098		Stone	3	22098	3 Đá Hồn-Trung ghép được 1 Đá Hồn-Cao	1350000	4	2	1000	4		1	99999										
+1815	Đá Hồn Thiệu Hồng Uyên-Trung	stone_shaohongyuan_2	34	22045		Stone	3	22045	3 Đá Hồn-Trung ghép được 1 Đá Hồn-Cao	450000	3	2	1000	3		1	99999										
+1816	Đá Hồn Bạch Ngạn Kính-Trung	stone_baiyanjing_2	34	22046		Stone	3	22046	3 Đá Hồn-Trung ghép được 1 Đá Hồn-Cao	450000	3	2	1000	3		1	99999										
+1817	Đá Hồn Gia Luật Sở Tài-Trung	stone_yelvchucai_2	34	22047		Stone	3	22047	3 Đá Hồn-Trung ghép được 1 Đá Hồn-Cao	1350000	4	2	1000	4		1	99999										
+1818	Đá Hồn Lôi Phong-Trung	stone_leifeng_2	34	22048		Stone	3	22048	3 Đá Hồn-Trung ghép được 1 Đá Hồn-Cao	450000	3	2	1000	3		1	99999										
+1819	Đá Hồn Lôi Đồng-Trung	stone_leitong_2	34	22049		Stone	3	22049	3 Đá Hồn-Trung ghép được 1 Đá Hồn-Cao	450000	3	2	1000	3		1	99999										
+1820	Đá Hồn Đường Quyên Quyên-Trung	stone_tangjuanjuan_2	34	22050		Stone	3	22050	3 Đá Hồn-Trung ghép được 1 Đá Hồn-Cao	450000	3	2	1000	3		1	99999										
+1821	Đá Hồn Lôi Chấn Thiên-Trung	stone_leizhengtian_2	34	22051		Stone	3	22051	3 Đá Hồn-Trung ghép được 1 Đá Hồn-Cao	1350000	4	2	1000	4		1	99999										
+1822	Đá Hồn Đoạt Bảo Tặc-Trung	stone_duobaozei_2	34	22052		Stone	3	22052	3 Đá Hồn-Trung ghép được 1 Đá Hồn-Cao	450000	3	2	1000	3		1	99999										
+1823	Đá Hồn Song Thủ Dị Thú-Trung	stone_yishou_2	34	22053		Stone	3	22053	3 Đá Hồn-Trung ghép được 1 Đá Hồn-Cao	450000	3	2	1000	3		1	99999										
+1824	Đá Hồn Bôn Diệm Báo Vương-Trung	stone_baowang_2	34	22054		Stone	3	22054	3 Đá Hồn-Trung ghép được 1 Đá Hồn-Cao	450000	3	2	1000	3		1	99999										
+1825	Đá Hồn Cửu Vĩ Hồ Vương-Trung	stone_huwang_2	34	22055		Stone	3	22055	3 Đá Hồn-Trung ghép được 1 Đá Hồn-Cao	450000	3	2	1000	3		1	99999										
+2537	Đá Hồn Dương Anh-Trung	stone_yangyin_2	34	22079		Stone	3	22079	3 Đá Hồn-Trung ghép được 1 Đá Hồn-Cao	4000000	5	2	1000	5		1	99999										
+2538	Đá Hồn Thanh Hiểu Sư Thái-Trung	stone_qingxiao_2	34	22080		Stone	3	22080	3 Đá Hồn-Trung ghép được 1 Đá Hồn-Cao	4000000	5	2	1000	5		1	99999										
+2539	Đá Hồn Chúc Tử Hư-Trung	stone_zhuzixu_2	34	22081		Stone	3	22081	3 Đá Hồn-Trung ghép được 1 Đá Hồn-Cao	4000000	5	2	1000	5		1	99999										
+2540	Đá Hồn Hoàng Ngọc Anh-Trung	stone_huangyuying_2	34	22082		Stone	3	22082	3 Đá Hồn-Trung ghép được 1 Đá Hồn-Cao	4000000	5	2	1000	5		1	99999										
+2541	Đá Hồn Đạo Nhất Chân Nhân-Trung	stone_daoyi_2	34	22083		Stone	3	22083	3 Đá Hồn-Trung ghép được 1 Đá Hồn-Cao	4000000	5	2	1000	5		1	99999										
+2542	Đá Hồn Đoan Mộc Duệ-Trung	stone_duanmurui_2	34	22084		Stone	3	22084	3 Đá Hồn-Trung ghép được 1 Đá Hồn-Cao	4000000	5	2	1000	5		1	99999										
+2850	Đá Hồn Huyền Nhân-Trung 	stone_xuanyin_2	34	22099		Stone	3	22099	3 Đá Hồn-Trung ghép được 1 Đá Hồn-Cao	4000000	5	2	1000	5		1	99999										
+1826	Đá Hồn Cao Trường Cung-Trung	stone_gaochanggong_2	34	22056		Stone	3	22056	3 Đá Hồn-Trung ghép được 1 Đá Hồn-Cao	1350000	4	2	1000	4		1	99999										
+1827	Đá Hồn Triết Biệt-Trung	stone_zhebie_2	34	22057		Stone	3	22057	3 Đá Hồn-Trung ghép được 1 Đá Hồn-Cao	1350000	4	2	1000	4		1	99999										
+1828	Đá Hồn Tần Lương Ngọc-Trung	stone_qinliangyu_2	34	22058		Stone	3	22058	3 Đá Hồn-Trung ghép được 1 Đá Hồn-Cao	1350000	4	2	1000	4		1	99999										
+1829	Đá Hồn Viên Thừa Chí-Trung	stone_yuanchengzhi_2	34	22059		Stone	3	22059	3 Đá Hồn-Trung ghép được 1 Đá Hồn-Cao	1350000	4	2	1000	4		1	99999										
+1830	Đá Hồn Ngao Bái-Trung	stone_aobai_2	34	22060		Stone	3	22060	3 Đá Hồn-Trung ghép được 1 Đá Hồn-Cao	1350000	4	2	1000	4		1	99999										
+1831	Đá Hồn Hàn Thế Trung-Trung	stone_hanshizhong_2	34	22061		Stone	3	22061	3 Đá Hồn-Trung ghép được 1 Đá Hồn-Cao	1350000	4	2	1000	4		1	99999										
+1832	Đá Hồn Xích Tinh Hổ Hoàng-Trung	stone_huhuang_2	34	22062		Stone	3	22062	3 Đá Hồn-Trung ghép được 1 Đá Hồn-Cao	4000000	5	2	1000	5		1	99999										
+1833	Đá Hồn Hám Thiên Hùng Hoàng-Trung	stone_xionghuang_2	34	22063		Stone	3	22063	3 Đá Hồn-Trung ghép được 1 Đá Hồn-Cao	4000000	5	2	1000	5		1	99999										
+1834	Đá Hồn Tử Bối Ngạc Hoàng-Trung	stone_ehuang_2	34	22064		Stone	3	22064	3 Đá Hồn-Trung ghép được 1 Đá Hồn-Cao	4000000	5	2	1000	5		1	99999										
+1835	Đá Hồn Định Hải Kim Cang-Trung	stone_jingang_2	34	22065		Stone	3	22065	3 Đá Hồn-Trung ghép được 1 Đá Hồn-Cao	4000000	5	2	1000	5		1	99999										
+1836	Đá Hồn Kim Sí Bằng Hoàng-Trung	stone_penghuang_2	34	22066		Stone	3	22066	3 Đá Hồn-Trung ghép được 1 Đá Hồn-Cao	4000000	5	2	1000	5		1	99999										
+1837	Đá Hồn Ngân Giác Tê Hoàng-Trung	stone_xihuang_2	34	22067		Stone	3	22067	3 Đá Hồn-Trung ghép được 1 Đá Hồn-Cao	4000000	5	2	1000	5		1	99999										
+2543	Đá Hồn Mạnh Tri Thu-Trung	stone_mengzhiqiu_2	34	22085		Stone	3	22085	3 Đá Hồn-Trung ghép được 1 Đá Hồn-Cao	4000000	5	2	1000	5		1	99999										
+2544	Đá Hồn Lý Hiển Trung-Trung	stone_lixianzhong_2	34	22086		Stone	3	22086	3 Đá Hồn-Trung ghép được 1 Đá Hồn-Cao	4000000	5	2	1000	5		1	99999										
+2545	Đá Hồn Đồ Đơn Khắc Ninh-Trung	stone_tudankening_2	34	22087		Stone	3	22087	3 Đá Hồn-Trung ghép được 1 Đá Hồn-Cao	4000000	5	2	1000	5		1	99999										
+2669	Đá Hồn Độc Cô Kiếm-Trung	stone_dugujian_2	34	22088		Stone	3	22088	3 Đá Hồn-Trung ghép được 1 Đá Hồn-Cao	4000000	5	2	1000	5		1	99999										
+2882	Đá Hồn Nam Cung Phi-Trung 	stone_nangongfeiyun_2	34	22100		Stone	3	22100	3 Đá Hồn-Sơ ghép được 1 Đá Hồn-Trung	4000000	5	2	1000	5		1	99999										
+2883	Đá Hồn Dương Ảnh Phong-Trung 	stone_yangyingfeng_2	34	22101		Stone	3	22101	3 Đá Hồn-Sơ ghép được 1 Đá Hồn-Trung	4000000	5	2	1000	5		1	99999										
+2675	Đá Hồn Kinh Kha-Trung	stone_jingke_2	34	22089		Stone	3	22089	3 Đá Hồn-Trung ghép được 1 Đá Hồn-Cao	4000000	5	2	1000	5		1	99999										
+2676	Đá Hồn Ngu Cơ-Trung	stone_yuji_2	34	22090		Stone	3	22090	3 Đá Hồn-Trung ghép được 1 Đá Hồn-Cao	4000000	5	2	1000	5		1	99999										
+2677	Đá Hồn Nhạc Phi-Trung	stone_yuefei_2	34	22091		Stone	3	22091	3 Đá Hồn-Trung ghép được 1 Đá Hồn-Cao	4000000	5	2	1000	5		1	99999										
+2697	Đá Hồn Hoàn Nhan Hồng Liệt-Trung	stone_wanyanhonglie_2	34	22092		Stone	3	22092	3 Đá Hồn-Trung ghép được 1 Đá Hồn-Cao	4000000	5	2	1000	5		1	99999										
+2829	Đá Hồn Huyền Thiên Võ Cơ-Trung 	stone_xuantianwuji_2	34	22093		Stone	3	22093	3 Đá Hồn-Trung ghép được 1 Đá Hồn-Cao	4000000	5	2	1000	5		1	99999										
+2830	Đá Hồn Bạch Khởi-Trung 	stone_baiqi_2	34	22094		Stone	3	22094	3 Đá Hồn-Trung ghép được 1 Đá Hồn-Cao	4000000	5	2	1000	5		1	99999										
+2831	Đá Hồn Lý Tư-Trung 	stone_lisi_2	34	22095		Stone	3	22095	3 Đá Hồn-Trung ghép được 1 Đá Hồn-Cao	4000000	5	2	1000	5		1	99999										
+3023	Đá Hồn Lôi-Trung 	stone_lei_2	34	22102		Stone	3	22102	3 Đá Hồn-Trung ghép được 1 Đá Hồn-Cao	4000000	5	2	1000	5		1	99999										
+2832	Đá Hồn Tần Thủy Hoàng-Trung (Âm) 	stone_qshyin_2	34	22096		Stone	3	22096	3 Đá Hồn-Trung ghép được 1 Đá Hồn-Cao	12000000	6	2	1000	6		1	99999										
+2833	Đá Hồn Tần Thủy Hoàng-Trung (Dương) 	stone_qshyang_2	34	22097		Stone	3	22097	3 Đá Hồn-Trung ghép được 1 Đá Hồn-Cao	12000000	6	2	1000	6		1	99999										
+1838	Đá Hồn Trương Phong-Trung	stone_zhangfeng_2	34	22068		Stone	3	22068	3 Đá Hồn-Trung ghép được 1 Đá Hồn-Cao	450000	3	2	1000	3		1	99999										
+1839	Đá Hồn Nguyệt My Nhi-Trung	stone_yuemeier_2	34	22069		Stone	3	22069	3 Đá Hồn-Trung ghép được 1 Đá Hồn-Cao	450000	3	2	1000	3		1	99999										
+1840	Đá Hồn Thiên Tinh Đạo Trưởng-Trung	stone_tianxingdaozhang_2	34	22070		Stone	3	22070	3 Đá Hồn-Trung ghép được 1 Đá Hồn-Cao	1350000	4	2	1000	4		1	99999										
+1841	Đá Hồn Yên Nhược Tuyết-Trung	stone_yanruoxue_2	34	22071		Stone	3	22071	3 Đá Hồn-Trung ghép được 1 Đá Hồn-Cao	1350000	4	2	1000	4		1	99999										
+1842	Đá Hồn Dương Hi Liệt-Trung	stone_yangxilie_2	34	22072		Stone	3	22072	3 Đá Hồn-Trung ghép được 1 Đá Hồn-Cao	1350000	4	2	1000	4		1	99999										
+1843	Đá Hồn Thượng Quan Phi Long-Trung	stone_shangguanfeilong_2	34	22073		Stone	3	22073	3 Đá Hồn-Trung ghép được 1 Đá Hồn-Cao	1350000	4	2	1000	4		1	99999										
+1844	Đá Hồn Nạp Lan Tiềm Lẫm-Trung	stone_nalanqianlin_2	34	22074		Stone	3	22074	3 Đá Hồn-Trung ghép được 1 Đá Hồn-Cao	1350000	4	2	1000	4		1	99999										
+1845	Đá Hồn Phương Miễn-Trung	stone_fangmian_2	34	22075		Stone	3	22075	3 Đá Hồn-Trung ghép được 1 Đá Hồn-Cao	1350000	4	2	1000	4		1	99999										
+1846	Đá Hồn Nam Cung Diệt-Trung	stone_nangongmie_2	34	22076		Stone	3	22076	3 Đá Hồn-Trung ghép được 1 Đá Hồn-Cao	1350000	4	2	1000	4		1	99999										
+1848	Đá Hồn Đường Ảnh-Trung	stone_tangying_2	34	22077		Stone	3	22077	3 Đá Hồn-Trung ghép được 1 Đá Hồn-Cao	1350000	4	2	1000	4		1	99999										
+1847	Đá Hồn Thu Y Thủy-Trung	stone_qiuyishui_2	34	22078		Stone	3	22078	3 Đá Hồn-Trung ghép được 1 Đá Hồn-Cao	1350000	4	2	1000	4		1	99999										
+3218	Đá Hồn Lý Nguyên Bá-Trung 	stone_liyuanba_2	34	22103		Stone	3	22103	3 Đá Hồn-Trung ghép được 1 Đá Hồn-Cao	4000000	5	2	1000	5		1	99999										
+3219	Đá Hồn Triệu Vân-Trung 	stone_zhaoyun_2	34	22104		Stone	3	22104	3 Đá Hồn-Trung ghép được 1 Đá Hồn-Cao	4000000	5	2	1000	5		1	99999										
+3220	Đá Hồn Lý Quảng-Trung 	stone_liguang_2	34	22105		Stone	3	22105	3 Đá Hồn-Trung ghép được 1 Đá Hồn-Cao	4000000	5	2	1000	5		1	99999										
+3374	Đá Hồn Doãn Hàm Yên-Trung 	stone_yinhanyan_2	34	22106		Stone	3	22106	3 Đá Hồn-Trung ghép được 1 Đá Hồn-Cao	4000000	5	2	1000	5		1	99999										
+3375	Đá Hồn Tuyền Cơ Tử-Trung 	stone_xuanjizi_2	34	22107		Stone	3	22107	3 Đá Hồn-Trung ghép được 1 Đá Hồn-Cao	4000000	5	2	1000	5		1	99999										
+3376	Đá Hồn Huyền Thiên Đạo Nhân-Trung 	stone_xuantiandaoren_2	34	22108		Stone	3	22108	3 Đá Hồn-Trung ghép được 1 Đá Hồn-Cao	4000000	5	2	1000	5		1	99999										
+3710	Đá Hồn Niên Thú-Trung	stone_nianshou_2	34	22109		Stone	3	22109	3 Đá Hồn-Trung ghép được 1 Đá Hồn-Cao	4000000	5	2	1000	5		1	99999										
+3857	Đá Hồn Hắc Diện Lang Quân-Trung	stone_heimianlangjun_2	34	22110		Stone	3	22110	3 Đá Hồn-Trung ghép được 1 Đá Hồn-Cao	4000000	5	2	1000	5		1	99999										
+3858	Đá Hồn Hà Nhân Ngã-Trung	stone_herenwo_2	34	22111		Stone	3	22111	3 Đá Hồn-Trung ghép được 1 Đá Hồn-Cao	4000000	5	2	1000	5		1	99999										
+3859	Đá Hồn Đường Cừu-Trung	stone_tangchou_2	34	22112		Stone	3	22112	3 Đá Hồn-Trung ghép được 1 Đá Hồn-Cao	4000000	5	2	1000	5		1	99999										
+3898	Đá Hồn Đường Giản-Trung	stone_tangjian_2	34	22113		Stone	3	22113	3 Đá Hồn-Trung ghép được 1 Đá Hồn-Cao	12000000	6	2	1000	6		1	99999										
+4054	Đá Hồn Hoàn Nhan Hồng Liệt-Trung (Chân)	stone_wanyanhongliezhen_2	34	22114		Stone	3	22114	3 Đá Hồn-Trung ghép được 1 Đá Hồn-Cao	12000000	6	2	1000	6		1	99999										
+4543	Đá Hồn Băng Lân Tích Hoàng-Trung	stone_xiwang_2	34	22115		Stone	3	22115	3 Đá Hồn-Trung ghép được 1 Đá Hồn-Cao	4000000	5	2	1000	5		1	99999										
+4544	Đá Hồn Ngân Câu Hạt Hoàng-Trung	stone_xiewang_2	34	22116		Stone	3	22116	3 Đá Hồn-Trung ghép được 1 Đá Hồn-Cao	4000000	5	2	1000	5		1	99999										
+4545	Đá Hồn Cuồng Tông Ngao Hoàng-Trung	stone_aowang_2	34	22117		Stone	3	22117	3 Đá Hồn-Trung ghép được 1 Đá Hồn-Cao	4000000	5	2	1000	5		1	99999										
+4596	Đá Hồn Hạng Vũ-Trung	stone_xiangyu_2	34	22118		Stone	3	22118	3 Đá Hồn-Trung ghép được 1 Đá Hồn-Cao	12000000	6	2	1000	6		1	99999										
+4850	Đá Hồn Đường Hiểu-Trung	stone_tangxiao2_2	34	22119		Stone	3	22119	3 Đá Hồn-Trung ghép được 1 Đá Hồn-Cao	12000000	6	2	1000	6		1	99999										
+4875	Đá Hồn Tống Thu Thạch-Trung	stone_songqiushi_2	34	22120		Stone	3	22120	3 Đá Hồn-Trung ghép được 1 Đá Hồn-Cao	4000000	5	2	1000	5		1	99999										
+4876	Đá Hồn Cổ Yên Nhiên-Trung	stone_guyanran_2	34	22121		Stone	3	22121	3 Đá Hồn-Trung ghép được 1 Đá Hồn-Cao	4000000	5	2	1000	5		1	99999										
+5434	Đá Hồn Doãn Tiêu Vũ-Trung	stone_yinxiaoyu_2	34	22122		Stone	3	22122	3 Đá Hồn-Trung ghép được 1 Đá Hồn-Cao	4000000	5	2	1000	5		1	99999										
+5435	Đá Hồn Thạch Hiên Viên-Trung	stone_shixuanyuan_2	34	22123		Stone	3	22123	3 Đá Hồn-Trung ghép được 1 Đá Hồn-Cao	4000000	5	2	1000	5		1	99999										
+6071	Đá Hồn Diệp Thanh Dương-Trung	stone_yeqingyang_2	34	22124		Stone	3	22124	3 Đá Hồn-Trung ghép được 1 Đá Hồn-Cao	4000000	5	2	1000	5		1	99999										
+6072	Đá Hồn Băng Nghi-Trung	stone_bingyi_2	34	22125		Stone	3	22125	3 Đá Hồn-Trung ghép được 1 Đá Hồn-Cao	4000000	5	2	1000	5		1	99999										
+6073	Đá Hồn Dương Tái Hưng-Trung	stone_yangzaixing_2	34	22126		Stone	3	22126	3 Đá Hồn-Trung ghép được 1 Đá Hồn-Cao	4000000	5	2	1000	5		1	99999										
+6074	Đá Hồn Hoàn Nhan Lâu Thất-Trung	stone_wanyanloushi_2	34	22127		Stone	3	22127	3 Đá Hồn-Trung ghép được 1 Đá Hồn-Cao	4000000	5	2	1000	5		1	99999										
+6102	Đá Hồn Tiêu Ngọc Trúc-Trung	stone_xiaoyuzhu_2	34	22128		Stone	3	22128	3 Đá Hồn-Trung ghép được 1 Đá Hồn-Cao	4000000	5	2	1000	5		1	99999										
+6103	Đá Hồn Kim Ngột Thuật-Trung	stone_jinwuzhu_2	34	22129		Stone	3	22129	3 Đá Hồn-Trung ghép được 1 Đá Hồn-Cao	4000000	5	2	1000	5		1	99999										
+6113	Đá Hồn Ngu Cơ Tuyệt Thế-Trung	stone_jueshiyuji_2	34	22130		Stone	3	22130	3 Đá Hồn-Trung ghép được 1 Đá Hồn-Cao	12000000	6	2	1000	6		1	99999										
+6131	Đá Hồn Võ Tắc Thiên-Trung (Âm)	stone_wuzetianyin_2	34	22131		Stone	3	22131	3 Đá Hồn-Trung ghép được 1 Đá Hồn-Cao	12000000	6	2	1000	6		1	99999										
+6132	Đá Hồn Võ Tắc Thiên-Trung (Dương)	stone_wuzetianyang_2	34	22132		Stone	3	22132	3 Đá Hồn-Trung ghép được 1 Đá Hồn-Cao	12000000	6	2	1000	6		1	99999										
+6133	Đá Hồn Địch Nhân Kiệt-Trung 	stone_direnjie_2	34	22133		Stone	3	22133	3 Đá Hồn-Trung ghép được 1 Đá Hồn-Cao	4000000	5	2	1000	5		1	99999										
+6134	Đá Hồn Nguyên Phương-Trung	stone_liyuanfang_2	34	22134		Stone	3	22134	3 Đá Hồn-Trung ghép được 1 Đá Hồn-Cao	4000000	5	2	1000	5		1	99999										
+6135	Đá Hồn Vô Tự Bi-Trung 	stone_wuzibei_2	34	22135		Stone	3	22135	3 Đá Hồn-Trung ghép được 1 Đá Hồn-Cao	4000000	5	2	1000	5		1	99999										
+6286	Đá Hồn Hàn Mông-Trung 	stone_hanmeng_2	34	22136		Stone	3	22136	3 Đá Hồn-Trung ghép được 1 Đá Hồn-Cao	4000000	5	2	1000	5		1	99999										
+7375	Đá Hồn Hà Linh Phiêu-Trung	stone_helianpiao_2	34	22137		Stone	3	22137	3 Đá Hồn-Trung ghép được 1 Đá Hồn-Cao	4000000	5	2	1000	5		1	99999										
+7378	Đá Hồn Ngu Doãn Văn-Trung	stone_yuyunwen_2	34	22138		Stone	3	22138	3 Đá Hồn-Trung ghép được 1 Đá Hồn-Cao	12000000	6	2	1000	6		1	99999										
+7430	Đá Hồn Long Văn Sư Vương-Trung	stone_longwenshiwang_2	34	22139		Stone	3	22139	3 Đá Hồn-Trung ghép được 1 Đá Hồn-Cao	4000000	5	2	1000	5		1	99999										
+7433	Đá Hồn Cự Ngao Phong Hậu-Trung	stone_juaofenghou_2	34	22140		Stone	3	22140	3 Đá Hồn-Trung ghép được 1 Đá Hồn-Cao	4000000	5	2	1000	5		1	99999										
+7651	Đá Hồn Vương Đằng-Trung	stone_wangteng_2	34	22141		Stone	3	22141	3 Đá Hồn-Trung ghép được 1 Đá Hồn-Cao	12000000	6	2	1000	6		1	99999										
+7652	Đá Hồn Vương Vân Tiêu-Trung	stone_wangyunxiao_2	34	22142		Stone	3	22142	3 Đá Hồn-Trung ghép được 1 Đá Hồn-Cao	4000000	5	2	1000	5		1	99999										
+7653	Đá Hồn Kinh Tuyết-Trung	stone_tianyin_2	34	22143		Stone	3	22143	3 Đá Hồn-Trung ghép được 1 Đá Hồn-Cao	4000000	5	2	1000	5		1	99999										
+7742	Đá Hồn Không Tướng-Trung	stone_kongxiang_2	34	22145		Stone	3	22145	3 Đá Hồn-Trung ghép được 1 Đá Hồn-Cao	4000000	5	2	1000	5		1	99999										
+9399	Đá Hồn Lâm Thanh Vũ-Trung	stone_noname1_2	34	22146		Stone	3	22146	3 Đá Hồn-Trung ghép được 1 Đá Hồn-Cao	4000000	5	2	1000	5		1	99999										
+9402	Đá Hồn Mạnh Thương Lam-Trung	stone_noname2_2	34	22147		Stone	3	22147	3 Đá Hồn-Trung ghép được 1 Đá Hồn-Cao	12000000	6	2	1000	6		1	99999										
+9972	Đá Hồn Phong Hành Chu-Trung	stone_fengxingzhou_2	34	22148		Stone	3	22148	3 Đá Hồn-Trung ghép được 1 Đá Hồn-Cao	4000000	5	2	1000	5		1	99999										
+9975	Đá Hồn Phương Công Vọng-Trung	stone_fanggongwang_2	34	22149		Stone	3	22149	3 Đá Hồn-Trung ghép được 1 Đá Hồn-Cao	12000000	6	2	1000	6		1	99999										
+9978	Đá Hồn Quỷ Cốc Tử-Trung (Âm)	stone_guiguziyin_2	34	22150		Stone	3	22150	3 Đá Hồn-Trung ghép được 1 Đá Hồn-Cao	12000000	6	2	1000	6		1	99999										
+9981	Đá Hồn Quỷ Cốc Tử-Trung (Dương)	stone_guiguziyang_2	34	22151		Stone	3	22151	3 Đá Hồn-Trung ghép được 1 Đá Hồn-Cao	12000000	6	2	1000	6		1	99999										
+10129	Đá Hồn Huyền Băng Điêu Hoàng-Trung	stone_xuanbingdiaohuang_2	34	22152		Stone	3	22152	3 Đá Hồn-Trung ghép được 1 Đá Hồn-Cao	12000000	6	2	1000	6		1	99999										
+10130	Đá Hồn Vạn Độc Cúc Hoàng-Trung	stone_wandujihuang_2	34	22153		Stone	3	22153	3 Đá Hồn-Trung ghép được 1 Đá Hồn-Cao	12000000	6	2	1000	6		1	99999										
+10131	Đá Hồn Hoàn Nhan Tông Hàn-Trung	stone_wanyanzonghan_2	34	22154		Stone	3	22154	3 Đá Hồn-Trung ghép được 1 Đá Hồn-Cao	12000000	6	2	1000	6		1	99999										
+10150	Đá Hồn Diệp Vô Tâm-Trung	stone_yewuxin_2	34	22155		Stone	3	22155	3 Đá Hồn-Trung ghép được 1 Đá Hồn-Cao	12000000	6	2	1000	6		1	99999										
+10450	Đá Hồn Thiên Âm-Trung	stone_jingxue_2	34	22156		Stone	3	22156	3 Đá Hồn-Trung ghép được 1 Đá Hồn-Cao	12000000	6	2	1000	6		1	99999										
+10476	Đá Hồn Vân Hạo Nhiên-Trung	stone_yunhaoran_2	34	22157		Stone	3	22157	3 Đá Hồn-Trung ghép được 1 Đá Hồn-Cao	12000000	6	2	1000	6		1	99999										
+10628	Đá Hồn Bản Trần-Trung	stone_duanzhengxing_2	34	22158		Stone	3	22158	3 Đá Hồn-Trung ghép được 1 Đá Hồn-Cao	12000000	6	2	1000	6		1	99999										
+10629	Đá Hồn Đoàn Trí Hưng-Trung	stone_duanzhixing_2	34	22159		Stone	3	22159	3 Đá Hồn-Trung ghép được 1 Đá Hồn-Cao	12000000	6	2	1000	6		1	99999										
+10913	Đá Hồn Bản Nhân-Trung	stone_libaoyong_2	34	22160		Stone	3	22160	Đá Hồn-Trung ghép được 1 Đá Hồn-Cao	12000000	6	2	1000	6		1	99999										
+10947	Đá Hồn Bản Quan-Trung	stone_benguan_2	34	22161		Stone	3	22161	Đá Hồn-Trung ghép được 1 Đá Hồn-Cao	12000000	6	2	1000	6		1	99999										
+11062	Đá Hồn Bản Tướng-Trung	stone_benxiang_2	34	22162		Stone	3	22162	Đá Hồn-Trung ghép được 1 Đá Hồn-Cao	12000000	6	2	1000	6		1	99999										
+1849	Đá Hồn Lý Tam-Cao	stone_lisan_3	34	23001		Stone	3	23001	Đã ghép đến cấp cao nhất, không thể ghép tiếp	450000	3	2	1000	3		1	99999										
+1850	Đá Hồn Lư Thanh-Cao	stone_luqing_3	34	23002		Stone	3	23002	Đã ghép đến cấp cao nhất, không thể ghép tiếp	450000	3	2	1000	3		1	99999										
+1851	Đá Hồn Oanh Nhi-Cao	stone_yinger_3	34	23003		Stone	3	23003	Đã ghép đến cấp cao nhất, không thể ghép tiếp	450000	3	2	1000	3		1	99999										
+1852	Đá Hồn Cố Võ-Cao	stone_guwu_3	34	23004		Stone	3	23004	Đã ghép đến cấp cao nhất, không thể ghép tiếp	450000	3	2	1000	3		1	99999										
+1853	Đá Hồn Ân Phương-Cao	stone_xiaowu_3	34	23005		Stone	3	23005	Đã ghép đến cấp cao nhất, không thể ghép tiếp	1350000	4	2	1000	4		1	99999										
+1854	Đá Hồn Tô Mặc Vân-Cao	stone_sumoyun_3	34	23006		Stone	3	23006	Đã ghép đến cấp cao nhất, không thể ghép tiếp	450000	3	2	1000	3		1	99999										
+1855	Đá Hồn Tiêu Động Trần-Cao	stone_xiaodongcheng_3	34	23007		Stone	3	23007	Đã ghép đến cấp cao nhất, không thể ghép tiếp	450000	3	2	1000	3		1	99999										
+1856	Đá Hồn Hồ Thần Y-Cao	stone_hushenyi_3	34	23008		Stone	3	23008	Đã ghép đến cấp cao nhất, không thể ghép tiếp	450000	3	2	1000	3		1	99999										
+1857	Đá Hồn Tần Mộc Bạch-Cao	stone_qinmubai_3	34	23009		Stone	3	23009	Đã ghép đến cấp cao nhất, không thể ghép tiếp	450000	3	2	1000	3		1	99999										
+1858	Đá Hồn Trương Trọng Thiên-Cao	stone_zhangzhongtian_3	34	23010		Stone	3	23010	Đã ghép đến cấp cao nhất, không thể ghép tiếp	450000	3	2	1000	3		1	99999										
+1859	Đá Hồn Lộ Đạt-Cao	stone_luda_3	34	23011		Stone	3	23011	Đã ghép đến cấp cao nhất, không thể ghép tiếp	450000	3	2	1000	3		1	99999										
+1860	Đá Hồn Bạch Mi Hầu Vương-Cao	stone_houwang_3	34	23012		Stone	3	23012	Đã ghép đến cấp cao nhất, không thể ghép tiếp	1350000	4	2	1000	4		1	99999										
+1861	Đá Hồn Đại Địa Lang Vương-Cao	stone_langwang_3	34	23013		Stone	3	23013	Đã ghép đến cấp cao nhất, không thể ghép tiếp	1350000	4	2	1000	4		1	99999										
+1862	Đá Hồn Hàn Ngọc Lộc Vương-Cao	stone_luwang_3	34	23014		Stone	3	23014	Đã ghép đến cấp cao nhất, không thể ghép tiếp	1350000	4	2	1000	4		1	99999										
+1863	Đá Hồn Tường Vi-Cao	stone_qiangwei_3	34	23015		Stone	3	23015	Đã ghép đến cấp cao nhất, không thể ghép tiếp	450000	3	2	1000	3		1	99999										
+1864	Đá Hồn Tử Hiên-Cao	stone_zixuan_3	34	23016		Stone	3	23016	Đã ghép đến cấp cao nhất, không thể ghép tiếp	450000	3	2	1000	3		1	99999										
+1865	Đá Hồn Trác Phi Phàm-Cao	stone_zhuofeifan_3	34	23017		Stone	3	23017	Đã ghép đến cấp cao nhất, không thể ghép tiếp	1350000	4	2	1000	4		1	99999										
+1866	Đá Hồn Nguyệt Minh Dao-Cao	stone_yumingyao_3	34	23018		Stone	3	23018	Đã ghép đến cấp cao nhất, không thể ghép tiếp	1350000	4	2	1000	4		1	99999										
+1867	Đá Hồn Long Ngạo Thiên-Cao	stone_longyaotian_3	34	23019		Stone	3	23019	Đã ghép đến cấp cao nhất, không thể ghép tiếp	1350000	4	2	1000	4		1	99999										
+1868	Đá Hồn Mạt Thiên Nhiên-Cao	stone_motianran_3	34	23020		Stone	3	23020	Đã ghép đến cấp cao nhất, không thể ghép tiếp	1350000	4	2	1000	4		1	99999										
+1869	Đá Hồn Tiểu Ảnh Phong-Cao	stone_syangyingfeng_3	34	23021		Stone	3	23021	Đã ghép đến cấp cao nhất, không thể ghép tiếp	4000000	5	2	1000	5		1	99999										
+1870	Đá Hồn Nam Cung Thái Hồng-Cao	stone_nangongcaihong_3	34	23022		Stone	3	23022	Đã ghép đến cấp cao nhất, không thể ghép tiếp	450000	3	2	1000	3		1	99999										
+1871	Đá Hồn Lâm Hải-Cao	stone_linhai_3	34	23023		Stone	3	23023	Đã ghép đến cấp cao nhất, không thể ghép tiếp	450000	3	2	1000	3		1	99999										
+1873	Đá Hồn Lục Văn Long-Cao	stone_luwenlong_3	34	23024		Stone	3	23024	Đã ghép đến cấp cao nhất, không thể ghép tiếp	450000	3	2	1000	3		1	99999										
+1872	Đá Hồn Triệu Vô Song-Cao	stone_zhaowushuang_3	34	23025		Stone	3	23025	Đã ghép đến cấp cao nhất, không thể ghép tiếp	450000	3	2	1000	3		1	99999										
+1874	Đá Hồn Vô Tướng-Cao	stone_wuxiang_3	34	23026		Stone	3	23026	Đã ghép đến cấp cao nhất, không thể ghép tiếp	450000	3	2	1000	3		1	99999										
+1875	Đá Hồn Đường Tiêu-Cao	stone_tangxiao_3	34	23027		Stone	3	23027	Đã ghép đến cấp cao nhất, không thể ghép tiếp	1350000	4	2	1000	4		1	99999										
+1876	Đá Hồn Trương Như Mộng-Cao	stone_zhangrumeng_3	34	23028		Stone	3	23028	Đã ghép đến cấp cao nhất, không thể ghép tiếp	450000	3	2	1000	3		1	99999										
+1877	Đá Hồn Trương Lâm Tâm-Cao	stone_zhanglinxin_3	34	23029		Stone	3	23029	Đã ghép đến cấp cao nhất, không thể ghép tiếp	1350000	4	2	1000	4		1	99999										
+1878	Đá Hồn Phong Ngọc Thư-Cao	stone_fengyushu_3	34	23030		Stone	3	23030	Đã ghép đến cấp cao nhất, không thể ghép tiếp	1350000	4	2	1000	4		1	99999										
+1879	Đá Hồn Triệu Tiết-Cao	stone_zhaojie_3	34	23031		Stone	3	23031	Đã ghép đến cấp cao nhất, không thể ghép tiếp	450000	3	2	1000	3		1	99999										
+1880	Đá Hồn Thiệu Kỵ Phong-Cao	stone_shaoqifeng_3	34	23032		Stone	3	23032	Đã ghép đến cấp cao nhất, không thể ghép tiếp	450000	3	2	1000	3		1	99999										
+1881	Đá Hồn Hà Mộ Tuyết-Cao	stone_hemuxue_3	34	23033		Stone	3	23033	Đã ghép đến cấp cao nhất, không thể ghép tiếp	1350000	4	2	1000	4		1	99999										
+1882	Đá Hồn Triệu Thăng Quyền-Cao	stone_zhaoshengquan_3	34	23034		Stone	3	23034	Đã ghép đến cấp cao nhất, không thể ghép tiếp	1350000	4	2	1000	4		1	99999										
+1883	Đá Hồn Nạp Lan Chân-Cao	stone_nalanzhen_3	34	23035		Stone	3	23035	Đã ghép đến cấp cao nhất, không thể ghép tiếp	1350000	4	2	1000	4		1	99999										
+1884	Đá Hồn Sài Tung-Cao	stone_chaisong_3	34	23036		Stone	3	23036	Đã ghép đến cấp cao nhất, không thể ghép tiếp	1350000	4	2	1000	4		1	99999										
+1885	Đá Hồn Khúc Hà-Cao	stone_quxia_3	34	23037		Stone	3	23037	Đã ghép đến cấp cao nhất, không thể ghép tiếp	4000000	5	2	1000	5		1	99999										
+1886	Đá Hồn Gia Luật Tị Li-Cao 	stone_yelvpili_3	34	23038		Stone	3	23038	Đã ghép đến cấp cao nhất, không thể ghép tiếp	4000000	5	2	1000	5		1	99999										
+1887	Đá Hồn Dương Thiết Tâm-Cao	stone_yangtiexin_3	34	23039		Stone	3	23039	Đã ghép đến cấp cao nhất, không thể ghép tiếp	4000000	5	2	1000	5		1	99999										
+1888	Đá Hồn Vô Tưởng-Cao	stone_wuxiangg_3	34	23040		Stone	3	23040	Đã ghép đến cấp cao nhất, không thể ghép tiếp	4000000	5	2	1000	5		1	99999										
+1889	Đá Hồn Liễu Tiêu Đình-Cao	stone_liuxiaoting_3	34	23041		Stone	3	23041	Đã ghép đến cấp cao nhất, không thể ghép tiếp	4000000	5	2	1000	5		1	99999										
+1890	Đá Hồn Lý Điềm Nhi-Cao	stone_litianer_3	34	23042		Stone	3	23042	Đã ghép đến cấp cao nhất, không thể ghép tiếp	4000000	5	2	1000	5		1	99999										
+1891	Đá Hồn Lý Thiên Mục-Cao	stone_litianmu_3	34	23043		Stone	3	23043	Đã ghép đến cấp cao nhất, không thể ghép tiếp	4000000	5	2	1000	5		1	99999										
+1892	Đá Hồn Hoàn Nhan Tương-Cao	stone_wanyanxiang_3	34	23044		Stone	3	23044	Đã ghép đến cấp cao nhất, không thể ghép tiếp	4000000	5	2	1000	5		1	99999										
+2851	Đá Hồn Huyền Từ-Cao 	stone_xuanci_3	34	23098		Stone	3	23098	Đã ghép đến cấp cao nhất, không thể ghép tiếp	4000000	5	2	1000	5		1	99999										
+1893	Đá Hồn Thiệu Hồng Uyên-Cao	stone_shaohongyuan_3	34	23045		Stone	3	23045	Đã ghép đến cấp cao nhất, không thể ghép tiếp	1350000	4	2	1000	4		1	99999										
+1894	Đá Hồn Bạch Ngạn Kính-Cao	stone_baiyanjing_3	34	23046		Stone	3	23046	Đã ghép đến cấp cao nhất, không thể ghép tiếp	1350000	4	2	1000	4		1	99999										
+1895	Đá Hồn Gia Luật Sở Tài-Cao	stone_yelvchucai_3	34	23047		Stone	3	23047	Đã ghép đến cấp cao nhất, không thể ghép tiếp	4000000	5	2	1000	5		1	99999										
+1896	Đá Hồn Lôi Phong-Cao	stone_leifeng_3	34	23048		Stone	3	23048	Đã ghép đến cấp cao nhất, không thể ghép tiếp	1350000	4	2	1000	4		1	99999										
+1897	Đá Hồn Lôi Đồng-Cao	stone_leitong_3	34	23049		Stone	3	23049	Đã ghép đến cấp cao nhất, không thể ghép tiếp	1350000	4	2	1000	4		1	99999										
+1898	Đá Hồn Đường Quyên Quyên-Cao	stone_tangjuanjuan_3	34	23050		Stone	3	23050	Đã ghép đến cấp cao nhất, không thể ghép tiếp	1350000	4	2	1000	4		1	99999										
+1899	Đá Hồn Lôi Chấn Thiên-Cao	stone_leizhengtian_3	34	23051		Stone	3	23051	Đã ghép đến cấp cao nhất, không thể ghép tiếp	4000000	5	2	1000	5		1	99999										
+1900	Đá Hồn Đoạt Bảo Tặc-Cao	stone_duobaozei_3	34	23052		Stone	3	23052	Đã ghép đến cấp cao nhất, không thể ghép tiếp	1350000	4	2	1000	4		1	99999										
+1901	Đá Hồn Song Thủ Dị Thú-Cao	stone_yishou_3	34	23053		Stone	3	23053	Đã ghép đến cấp cao nhất, không thể ghép tiếp	1350000	4	2	1000	4		1	99999										
+1902	Đá Hồn Bôn Diệm Báo Vương-Cao	stone_baowang_3	34	23054		Stone	3	23054	Đã ghép đến cấp cao nhất, không thể ghép tiếp	1350000	4	2	1000	4		1	99999										
+1903	Đá Hồn Cửu Vĩ Hồ Vương-Cao	stone_huwang_3	34	23055		Stone	3	23055	Đã ghép đến cấp cao nhất, không thể ghép tiếp	1350000	4	2	1000	4		1	99999										
+2546	Đá Hồn Dương Anh-Cao	stone_yangyin_3	34	23079		Stone	3	23079	Đã ghép đến cấp cao nhất, không thể ghép tiếp	12000000	6	2	1000	6		1	99999										
+2547	Đá Hồn Thanh Hiểu Sư Thái-Cao	stone_qingxiao_3	34	23080		Stone	3	23080	Đã ghép đến cấp cao nhất, không thể ghép tiếp	12000000	6	2	1000	6		1	99999										
+2548	Đá Hồn Chúc Tử Hư-Cao	stone_zhuzixu_3	34	23081		Stone	3	23081	Đã ghép đến cấp cao nhất, không thể ghép tiếp	12000000	6	2	1000	6		1	99999										
+2549	Đá Hồn Hoàng Ngọc Anh-Cao	stone_huangyuying_3	34	23082		Stone	3	23082	Đã ghép đến cấp cao nhất, không thể ghép tiếp	12000000	6	2	1000	6		1	99999										
+2550	Đá Hồn Đạo Nhất Chân Nhân-Cao	stone_daoyi_3	34	23083		Stone	3	23083	Đã ghép đến cấp cao nhất, không thể ghép tiếp	12000000	6	2	1000	6		1	99999										
+2551	Đá Hồn Đoan Mộc Duệ-Cao	stone_duanmurui_3	34	23084		Stone	3	23084	Đã ghép đến cấp cao nhất, không thể ghép tiếp	12000000	6	2	1000	6		1	99999										
+2852	Đá Hồn Huyền Nhân-Cao 	stone_xuanyin_3	34	23099		Stone	3	23099	Đã ghép đến cấp cao nhất, không thể ghép tiếp	12000000	6	2	1000	6		1	99999										
+1904	Đá Hồn Cao Trường Cung-Cao	stone_gaochanggong_3	34	23056		Stone	3	23056	Đã ghép đến cấp cao nhất, không thể ghép tiếp	4000000	5	2	1000	5		1	99999										
+1905	Đá Hồn Triết Biệt-Cao	stone_zhebie_3	34	23057		Stone	3	23057	Đã ghép đến cấp cao nhất, không thể ghép tiếp	4000000	5	2	1000	5		1	99999										
+1906	Đá Hồn Tần Lương Ngọc-Cao	stone_qinliangyu_3	34	23058		Stone	3	23058	Đã ghép đến cấp cao nhất, không thể ghép tiếp	4000000	5	2	1000	5		1	99999										
+1907	Đá Hồn Viên Thừa Chí-Cao	stone_yuanchengzhi_3	34	23059		Stone	3	23059	Đã ghép đến cấp cao nhất, không thể ghép tiếp	4000000	5	2	1000	5		1	99999										
+1908	Đá Hồn Ngao Bái-Cao	stone_aobai_3	34	23060		Stone	3	23060	Đã ghép đến cấp cao nhất, không thể ghép tiếp	4000000	5	2	1000	5		1	99999										
+1909	Đá Hồn Hàn Thế Trung-Cao	stone_hanshizhong_3	34	23061		Stone	3	23061	Đã ghép đến cấp cao nhất, không thể ghép tiếp	4000000	5	2	1000	5		1	99999										
+1910	Đá Hồn Xích Tinh Hổ Hoàng-Cao	stone_huhuang_3	34	23062		Stone	3	23062	Đã ghép đến cấp cao nhất, không thể ghép tiếp	12000000	6	2	1000	6		1	99999										
+1911	Đá Hồn Hám Thiên Hùng Hoàng-Cao	stone_xionghuang_3	34	23063		Stone	3	23063	Đã ghép đến cấp cao nhất, không thể ghép tiếp	12000000	6	2	1000	6		1	99999										
+1912	Đá Hồn Tử Bối Ngạc Hoàng-Cao	stone_ehuang_3	34	23064		Stone	3	23064	Đã ghép đến cấp cao nhất, không thể ghép tiếp	12000000	6	2	1000	6		1	99999										
+1913	Đá Hồn Định Hải Kim Cang-Cao	stone_jingang_3	34	23065		Stone	3	23065	Đã ghép đến cấp cao nhất, không thể ghép tiếp	12000000	6	2	1000	6		1	99999										
+1914	Đá Hồn Kim Sí Bằng Hoàng-Cao	stone_penghuang_3	34	23066		Stone	3	23066	Đã ghép đến cấp cao nhất, không thể ghép tiếp	12000000	6	2	1000	6		1	99999										
+1915	Đá Hồn Ngân Giác Tê Hoàng-Cao	stone_xihuang_3	34	23067		Stone	3	23067	Đã ghép đến cấp cao nhất, không thể ghép tiếp	12000000	6	2	1000	6		1	99999										
+2552	Đá Hồn Mạnh Tri Thu-Cao	stone_mengzhiqiu_3	34	23085		Stone	3	23085	Đã ghép đến cấp cao nhất, không thể ghép tiếp	12000000	6	2	1000	6		1	99999										
+2553	Đá Hồn Lý Hiển Trung-Cao	stone_lixianzhong_3	34	23086		Stone	3	23086	Đã ghép đến cấp cao nhất, không thể ghép tiếp	12000000	6	2	1000	6		1	99999										
+2554	Đá Hồn Đồ Đơn Khắc Ninh-Cao	stone_tudankening_3	34	23087		Stone	3	23087	Đã ghép đến cấp cao nhất, không thể ghép tiếp	12000000	6	2	1000	6		1	99999										
+2670	Đá Hồn Độc Cô Kiếm-Cao	stone_dugujian_3	34	23088		Stone	3	23088	Đã ghép đến cấp cao nhất, không thể ghép tiếp	12000000	6	2	1000	6		1	99999										
+2884	Đá Hồn Nam Cung Phi-Cao 	stone_nangongfeiyun_3	34	23100		Stone	3	23100	Đã ghép đến cấp cao nhất, không thể ghép tiếp	12000000	6	2	1000	6		1	99999										
+2885	Đá Hồn Dương Ảnh Phong-Cao 	stone_yangyingfeng_3	34	23101		Stone	3	23101	Đã ghép đến cấp cao nhất, không thể ghép tiếp	12000000	6	2	1000	6		1	99999										
+2678	Đá Hồn Kinh Kha-Cao	stone_jingke_3	34	23089		Stone	3	23089	Đã ghép đến cấp cao nhất, không thể ghép tiếp	12000000	6	2	1000	6		1	99999										
+2679	Đá Hồn Ngu Cơ-Cao	stone_yuji_3	34	23090		Stone	3	23090	Đã ghép đến cấp cao nhất, không thể ghép tiếp	12000000	6	2	1000	6		1	99999										
+2680	Đá Hồn Nhạc Phi-Cao	stone_yuefei_3	34	23091		Stone	3	23091	Đã ghép đến cấp cao nhất, không thể ghép tiếp	12000000	6	2	1000	6		1	99999										
+2698	Đá Hồn Hoàn Nhan Hồng Liệt-Cao	stone_wanyanhonglie_3	34	23092		Stone	3	23092	Đã ghép đến cấp cao nhất, không thể ghép tiếp	12000000	6	2	1000	6		1	99999										
+2834	Đá Hồn Huyền Thiên Võ Cơ-Cao 	stone_xuantianwuji_3	34	23093		Stone	3	23093	Đã ghép đến cấp cao nhất, không thể ghép tiếp	12000000	6	2	1000	6		1	99999										
+2835	Đá Hồn Bạch Khởi-Cao 	stone_baiqi_3	34	23094		Stone	3	23094	Đã ghép đến cấp cao nhất, không thể ghép tiếp	12000000	6	2	1000	6		1	99999										
+2836	Đá Hồn Lý Tư-Cao 	stone_lisi_3	34	23095		Stone	3	23095	Đã ghép đến cấp cao nhất, không thể ghép tiếp	12000000	6	2	1000	6		1	99999										
+3024	Đá Hồn Lôi-Cao 	stone_lei_3	34	23102		Stone	3	23102	Đã ghép đến cấp cao nhất, không thể ghép tiếp	12000000	6	2	1000	6		1	99999										
+2837	Đá Hồn Tần Thủy Hoàng-Cao (Âm) 	stone_qshyin_3	34	23096		Stone	3	23096	Đã ghép đến cấp cao nhất, không thể ghép tiếp	36000000	7	2	1000	7		1	99999										
+2838	Đá Hồn Tần Thủy Hoàng-Cao (Dương) 	stone_qshyang_3	34	23097		Stone	3	23097	Đã ghép đến cấp cao nhất, không thể ghép tiếp	36000000	7	2	1000	7		1	99999										
+1916	Đá Hồn Trương Phong-Cao	stone_zhangfeng_3	34	23068		Stone	3	23068	Đã ghép đến cấp cao nhất, không thể ghép tiếp	1350000	4	2	1000	4		1	99999										
+1917	Đá Hồn Nguyệt My Nhi-Cao	stone_yuemeier_3	34	23069		Stone	3	23069	Đã ghép đến cấp cao nhất, không thể ghép tiếp	1350000	4	2	1000	4		1	99999										
+1918	Đá Hồn Thiên Tinh Đạo Trưởng-Cao	stone_tianxingdaozhang_3	34	23070		Stone	3	23070	Đã ghép đến cấp cao nhất, không thể ghép tiếp	4000000	5	2	1000	5		1	99999										
+1919	Đá Hồn Yên Nhược Tuyết-Cao	stone_yanruoxue_3	34	23071		Stone	3	23071	Đã ghép đến cấp cao nhất, không thể ghép tiếp	4000000	5	2	1000	5		1	99999										
+1920	Đá Hồn Dương Hi Liệt-Cao	stone_yangxilie_3	34	23072		Stone	3	23072	Đã ghép đến cấp cao nhất, không thể ghép tiếp	4000000	5	2	1000	5		1	99999										
+1921	Đá Hồn Thượng Quan Phi Long-Cao	stone_shangguanfeilong_3	34	23073		Stone	3	23073	Đã ghép đến cấp cao nhất, không thể ghép tiếp	4000000	5	2	1000	5		1	99999										
+1922	Đá Hồn Nạp Lan Tiềm Lẫm-Cao	stone_nalanqianlin_3	34	23074		Stone	3	23074	Đã ghép đến cấp cao nhất, không thể ghép tiếp	4000000	5	2	1000	5		1	99999										
+1923	Đá Hồn Phương Miễn-Cao	stone_fangmian_3	34	23075		Stone	3	23075	Đã ghép đến cấp cao nhất, không thể ghép tiếp	4000000	5	2	1000	5		1	99999										
+1924	Đá Hồn Nam Cung Diệt-Cao	stone_nangongmie_3	34	23076		Stone	3	23076	Đã ghép đến cấp cao nhất, không thể ghép tiếp	4000000	5	2	1000	5		1	99999										
+1925	Đá Hồn Đường Ảnh-Cao	stone_tangying_3	34	23077		Stone	3	23077	Đã ghép đến cấp cao nhất, không thể ghép tiếp	4000000	5	2	1000	5		1	99999										
+1926	Đá Hồn Thu Y Thủy-Cao	stone_qiuyishui_3	34	23078		Stone	3	23078	Đã ghép đến cấp cao nhất, không thể ghép tiếp	4000000	5	2	1000	5		1	99999										
+3221	Đá Hồn Lý Nguyên Bá-Cao 	stone_liyuanba_3	34	23103		Stone	3	23103	Đã ghép đến cấp cao nhất, không thể ghép tiếp	12000000	6	2	1000	6		1	99999										
+3222	Đá Hồn Triệu Vân-Cao 	stone_zhaoyun_3	34	23104		Stone	3	23104	Đã ghép đến cấp cao nhất, không thể ghép tiếp	12000000	6	2	1000	6		1	99999										
+3223	Đá Hồn Lý Quảng-Cao 	stone_liguang_3	34	23105		Stone	3	23105	Đã ghép đến cấp cao nhất, không thể ghép tiếp	12000000	6	2	1000	6		1	99999										
+3377	Đá Hồn Doãn Hàm Yên-Cao 	stone_yinhanyan_3	34	23106		Stone	3	23106	Đã ghép đến cấp cao nhất, không thể ghép tiếp	12000000	6	2	1000	6		1	99999										
+3378	Đá Hồn Tuyền Cơ Tử-Cao 	stone_xuanjizi_3	34	23107		Stone	3	23107	Đã ghép đến cấp cao nhất, không thể ghép tiếp	12000000	6	2	1000	6		1	99999										
+3379	Đá Hồn Huyền Thiên Đạo Nhân-Cao 	stone_xuantiandaoren_3	34	23108		Stone	3	23108	Đã ghép đến cấp cao nhất, không thể ghép tiếp	12000000	6	2	1000	6		1	99999										
+3711	Đá Hồn Niên Thú-Cao	stone_nianshou_3	34	23109		Stone	3	23109	Đã ghép đến cấp cao nhất, không thể ghép tiếp	12000000	6	2	1000	6		1	99999										
+3860	Đá Hồn Hắc Diện Lang Quân-Cao	stone_heimianlangjun_3	34	23110		Stone	3	23110	Đã ghép đến cấp cao nhất, không thể ghép tiếp	12000000	6	2	1000	6		1	99999										
+3861	Đá Hồn Hà Nhân Ngã-Cao	stone_herenwo_3	34	23111		Stone	3	23111	Đã ghép đến cấp cao nhất, không thể ghép tiếp	12000000	6	2	1000	6		1	99999										
+3862	Đá Hồn Đường Cừu-Cao	stone_tangchou_3	34	23112		Stone	3	23112	Đã ghép đến cấp cao nhất, không thể ghép tiếp	12000000	6	2	1000	6		1	99999										
+3899	Đá Hồn Đường Giản-Cao	stone_tangjian_3	34	23113		Stone	3	23113	Đã ghép đến cấp cao nhất, không thể ghép tiếp	36000000	7	2	1000	7		1	99999										
+4055	Đá Hồn Hoàn Nhan Hồng Liệt-Cao (Chân)	stone_wanyanhongliezhen_3	34	23114		Stone	3	23114	Đã ghép đến cấp cao nhất, không thể ghép tiếp	36000000	7	2	1000	7		1	99999										
+4546	Đá Hồn Băng Lân Tích Hoàng-Cao	stone_xiwang_3	34	23115		Stone	3	23115	Đã ghép đến cấp cao nhất, không thể ghép tiếp	12000000	6	2	1000	6		1	99999										
+4547	Đá Hồn Ngân Câu Hạt Hoàng-Cao	stone_xiewang_3	34	23116		Stone	3	23116	Đã ghép đến cấp cao nhất, không thể ghép tiếp	12000000	6	2	1000	6		1	99999										
+4548	Đá Hồn Cuồng Tông Ngao Hoàng-Cao	stone_aowang_3	34	23117		Stone	3	23117	Đã ghép đến cấp cao nhất, không thể ghép tiếp	12000000	6	2	1000	6		1	99999										
+4597	Đá Hồn Hạng Vũ-Cao	stone_xiangyu_3	34	23118		Stone	3	23118	Đã ghép đến cấp cao nhất, không thể ghép tiếp	36000000	7	2	1000	7		1	99999										
+4851	Đá Hồn Đường Hiểu-Cao	stone_tangxiao2_3	34	23119		Stone	3	23119	Đã ghép đến cấp cao nhất, không thể ghép tiếp	36000000	7	2	1000	7		1	99999										
+4877	Đá Hồn Tống Thu Thạch-Cao	stone_songqiushi_3	34	23120		Stone	3	23120	Đã ghép đến cấp cao nhất, không thể ghép tiếp	12000000	6	2	1000	6		1	99999										
+4878	Đá Hồn Cổ Yên Nhiên-Cao	stone_guyanran_3	34	23121		Stone	3	23121	Đã ghép đến cấp cao nhất, không thể ghép tiếp	12000000	6	2	1000	6		1	99999										
+5436	Đá Hồn Doãn Tiêu Vũ-Cao	stone_yinxiaoyu_3	34	23122		Stone	3	23122	Đã ghép đến cấp cao nhất, không thể ghép tiếp	12000000	6	2	1000	6		1	99999										
+5437	Đá Hồn Thạch Hiên Viên-Cao	stone_shixuanyuan_3	34	23123		Stone	3	23123	Đã ghép đến cấp cao nhất, không thể ghép tiếp	12000000	6	2	1000	6		1	99999										
+6075	Đá Hồn Diệp Thanh Dương-Cao	stone_yeqingyang_3	34	23124		Stone	3	23124	Đã ghép đến cấp cao nhất, không thể ghép tiếp	12000000	6	2	1000	6		1	99999										
+6076	Đá Hồn Băng Nghi-Cao	stone_bingyi_3	34	23125		Stone	3	23125	Đã ghép đến cấp cao nhất, không thể ghép tiếp	12000000	6	2	1000	6		1	99999										
+6077	Đá Hồn Dương Tái Hưng-Cao	stone_yangzaixing_3	34	23126		Stone	3	23126	Đã ghép đến cấp cao nhất, không thể ghép tiếp	12000000	6	2	1000	6		1	99999										
+6078	Đá Hồn Hoàn Nhan Lâu Thất-Cao	stone_wanyanloushi_3	34	23127		Stone	3	23127	Đã ghép đến cấp cao nhất, không thể ghép tiếp	12000000	6	2	1000	6		1	99999										
+6104	Đá Hồn Tiêu Ngọc Trúc-Cao	stone_xiaoyuzhu_3	34	23128		Stone	3	23128	Đã ghép đến cấp cao nhất, không thể ghép tiếp	12000000	6	2	1000	6		1	99999										
+6105	Đá Hồn Kim Ngột Thuật-Cao	stone_jinwuzhu_3	34	23129		Stone	3	23129	Đã ghép đến cấp cao nhất, không thể ghép tiếp	12000000	6	2	1000	6		1	99999										
+6114	Đá Hồn Ngu Cơ Tuyệt Thế-Cao	stone_jueshiyuji_3	34	23130		Stone	3	23130	Đã ghép đến cấp cao nhất, không thể ghép tiếp	36000000	7	2	1000	7		1	99999										
+6136	Đá Hồn Võ Tắc Thiên-Cao (Âm)	stone_wuzetianyin_3	34	23131		Stone	3	23131	Đã ghép đến cấp cao nhất, không thể ghép tiếp	36000000	7	2	1000	7		1	99999										
+6137	Đá Hồn Võ Tắc Thiên-Cao (Dương)	stone_wuzetianyang_3	34	23132		Stone	3	23132	Đã ghép đến cấp cao nhất, không thể ghép tiếp	36000000	7	2	1000	7		1	99999										
+6138	Đá Hồn Địch Nhân Kiệt-Cao 	stone_direnjie_3	34	23133		Stone	3	23133	Đã ghép đến cấp cao nhất, không thể ghép tiếp	12000000	6	2	1000	6		1	99999										
+6139	Đá Hồn Nguyên Phương-Cao	stone_liyuanfang_3	34	23134		Stone	3	23134	Đã ghép đến cấp cao nhất, không thể ghép tiếp	12000000	6	2	1000	6		1	99999										
+6140	Đá Hồn Vô Tự Bi-Cao 	stone_wuzibei_3	34	23135		Stone	3	23135	Đã ghép đến cấp cao nhất, không thể ghép tiếp	12000000	6	2	1000	6		1	99999										
+6287	Đá Hồn Hàn Mông-Cao	stone_hanmeng_3	34	23136		Stone	3	23136	Đã ghép đến cấp cao nhất, không thể ghép tiếp	12000000	6	2	1000	6		1	99999										
+7376	Đá Hồn Hà Linh Phiêu-Cao	stone_helianpiao_3	34	23137		Stone	3	23137	Đã ghép đến cấp cao nhất, không thể ghép tiếp	12000000	6	2	1000	6		1	99999										
+7379	Đá Hồn Ngu Doãn Văn-Cao	stone_yuyunwen_3	34	23138		Stone	3	23138	Đã ghép đến cấp cao nhất, không thể ghép tiếp	36000000	7	2	1000	7		1	99999										
+7431	Đá Hồn Long Văn Sư Vương-Cao	stone_longwenshiwang_3	34	23139		Stone	3	23139	Đã ghép đến cấp cao nhất, không thể ghép tiếp	12000000	6	2	1000	6		1	99999										
+7434	Đá Hồn Cự Ngao Phong Hậu-Cao	stone_juaofenghou_3	34	23140		Stone	3	23140	Đã ghép đến cấp cao nhất, không thể ghép tiếp	12000000	6	2	1000	6		1	99999										
+7654	Đá Hồn Vương Đằng-Cao	stone_wangteng_3	34	23141		Stone	3	23141	Đã ghép đến cấp cao nhất, không thể ghép tiếp	36000000	7	2	1000	7		1	99999										
+7655	Đá Hồn Vương Vân Tiêu-Cao	stone_wangyunxiao_3	34	23142		Stone	3	23142	Đã ghép đến cấp cao nhất, không thể ghép tiếp	12000000	6	2	1000	6		1	99999										
+7656	Đá Hồn Kinh Tuyết-Cao	stone_tianyin_3	34	23143		Stone	3	23143	Đã ghép đến cấp cao nhất, không thể ghép tiếp	12000000	6	2	1000	6		1	99999										
+7743	Đá Hồn Không Tướng-Cao	stone_kongxiang_3	34	23145		Stone	3	23145	Đã ghép đến cấp cao nhất, không thể ghép tiếp	12000000	6	2	1000	6		1	99999										
+9400	Đá Hồn Lâm Thanh Vũ-Cao	stone_noname1_3	34	23146		Stone	3	23146	Đã ghép đến cấp cao nhất, không thể ghép tiếp	12000000	6	2	1000	6		1	99999										
+9403	Đá Hồn Mạnh Thương Lam-Cao	stone_noname2_3	34	23147		Stone	3	23147	Đã ghép đến cấp cao nhất, không thể ghép tiếp	36000000	7	2	1000	7		1	99999										
+9973	Đá Hồn Phong Hành Chu-Cao	stone_fengxingzhou_3	34	23148		Stone	3	23148	Đã ghép đến cấp cao nhất, không thể ghép tiếp	12000000	6	2	1000	6		1	99999										
+9976	Đá Hồn Phương Công Vọng-Cao	stone_fanggongwang_3	34	23149		Stone	3	23149	Đã ghép đến cấp cao nhất, không thể ghép tiếp	36000000	7	2	1000	7		1	99999										
+9979	Đá Hồn Quỷ Cốc Tử-Cao (Âm)	stone_guiguziyin_3	34	23150		Stone	3	23150	Đã ghép đến cấp cao nhất, không thể ghép tiếp	36000000	7	2	1000	7		1	99999										
+9982	Đá Hồn Quỷ Cốc Tử-Cao (Dương)	stone_guiguziyang_3	34	23151		Stone	3	23151	Đã ghép đến cấp cao nhất, không thể ghép tiếp	36000000	7	2	1000	7		1	99999										
+10132	Đá Hồn Huyền Băng Điêu Hoàng-Cao	stone_xuanbingdiaohuang_3	34	23152		Stone	3	23152	Đã ghép đến cấp cao nhất, không thể ghép tiếp	36000000	7	2	1000	7		1	99999										
+10133	Đá Hồn Vạn Độc Cúc Hoàng-Cao	stone_wandujihuang_3	34	23153		Stone	3	23153	Đã ghép đến cấp cao nhất, không thể ghép tiếp	36000000	7	2	1000	7		1	99999										
+10134	Đá Hồn Hoàn Nhan Tông Hàn-Cao	stone_wanyanzonghan_3	34	23154		Stone	3	23154	Đã ghép đến cấp cao nhất, không thể ghép tiếp	36000000	7	2	1000	7		1	99999										
+10151	Đá Hồn Diệp Vô Tâm-Cao	stone_yewuxin_3	34	23155		Stone	3	23155	Đã ghép đến cấp cao nhất, không thể ghép tiếp	36000000	7	2	1000	7		1	99999										
+10451	Đá Hồn Thiên Âm-Cao	stone_jingxue_3	34	23156		Stone	3	23156	Đã ghép đến cấp cao nhất, không thể ghép tiếp	36000000	7	2	1000	7		1	99999										
+10477	Đá Hồn Vân Hạo Nhiên-Cao	stone_yunhaoran_3	34	23157		Stone	3	23157	Đã ghép đến cấp cao nhất, không thể ghép tiếp	36000000	7	2	1000	7		1	99999										
+10630	Đá Hồn Bản Trần-Cao	stone_duanzhengxing_3	34	23158		Stone	3	23158	Đã ghép đến cấp cao nhất, không thể ghép tiếp	36000000	7	2	1000	7		1	99999										
+10631	Đá Hồn Đoàn Trí Hưng-Cao	stone_duanzhixing_3	34	23159		Stone	3	23159	Đã ghép đến cấp cao nhất, không thể ghép tiếp	36000000	7	2	1000	7		1	99999										
+10914	Đá Hồn Bản Nhân-Cao	stone_libaoyong_3	34	23160		Stone	3	23160	Đã ghép đến cấp cao nhất, không thể ghép tiếp	36000000	7	2	1000	7		1	99999										
+10948	Đá Hồn Bản Quan-Cao	stone_benguan_3	34	23161		Stone	3	23161	Đã ghép đến cấp cao nhất, không thể ghép tiếp	36000000	7	2	1000	7		1	99999										
+11063	Đá Hồn Bản Tướng-Cao	stone_benxiang_3	34	23162		Stone	3	23162	Đã ghép đến cấp cao nhất, không thể ghép tiếp	36000000	7	2	1000	7		1	99999										

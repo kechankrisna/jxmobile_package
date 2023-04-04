@@ -1,0 +1,232 @@
+Bang Hội Đạo Tặc	2282	3437
+Bang Hội Đạo Tặc	8136	4849
+Bang Hội Đạo Tặc	7306	4715
+Bang Hội Đạo Tặc	7311	5843
+Bang Hội Đạo Tặc	7956	5764
+Bang Hội Đạo Tặc	2321	4621
+Bang Hội Đạo Tặc	1434	4253
+Bang Hội Đạo Tặc	4655	7370
+Bang Hội Đạo Tặc	5061	7854
+Bang Hội Đạo Tặc	6194	7844
+Bang Hội Đạo Tặc	7484	7661
+Bang Hội Đạo Tặc	6347	7109
+Bang Hội Đạo Tặc	5413	7089
+Bang Hội Đạo Tặc	7992	6618
+Bang Hội Đạo Tặc	3816	7687
+Bang Hội Đạo Tặc	1539	5181
+Bang Hội Đạo Tặc	2350	5478
+Bang Hội Đạo Tặc	1895	7038
+Bang Hội Đạo Tặc	3284	7200
+Bang Hội Đạo Tặc	3987	6970
+Bang Hội Đạo Tặc	1633	3517
+Bang Hội Đạo Tặc	1586	6650
+Bang Hội Đạo Tặc	5602	7528
+Bang Hội Đạo Tặc	7802	7241
+Bang Hội Đạo Tặc	7678	6158
+Bang Hội Đạo Tặc	7648	5152
+Bang Hội Đạo Tặc	4363	7775
+Bang Hội Đạo Tặc	5706	7838
+Bang Hội Đạo Tặc	6688	7740
+Bang Hội Đạo Tặc	6150	7442
+Bang Hội Đạo Tặc	4035	7394
+Bang Hội Đạo Tặc	2189	6631
+Bang Hội Đạo Tặc	2404	6162
+Bang Hội Đạo Tặc	2081	5039
+Bang Hội Đạo Tặc	1505	4707
+Bang Hội Đạo Tặc	1417	3852
+Bang Hội Đạo Tặc	1954	3109
+Bang Hội Đạo Tặc	2477	3065
+Bang Hội Đạo Tặc	1891	3994
+Bang Hội Đạo Tặc	1900	4487
+Bang Hội Đạo Tặc	6688	6705
+Bang Hội Đạo Tặc	7377	6915
+Bang Hội Đạo Tặc	7206	6480
+Bang Hội Đạo Tặc	1456	5703
+Bang Hội Đạo Tặc	1930	5694
+Bang Hội Đạo Tặc	1837	6206
+Bang Hội Đạo Tặc	2155	7770
+Bang Hội Đạo Tặc	2135	7398
+Bang Hội Đạo Tặc	3151	7604
+Bang Hội Đạo Tặc	2648	7799
+Bang Hội Đạo Tặc	2667	6573
+Bang Hội Đạo Tặc	3132	6749
+Bang Hội Đạo Tặc	2365	7008
+Bang Hội Đạo Tặc	2829	7164
+Bang Hội Đạo Tặc	2565	7472
+Bang Hội Đạo Tặc	5090	7394
+Bang Hội Đạo Tặc	6688	7335
+Bang Hội Đạo Tặc	7167	7296
+Lửa Trại Bang Hội	5066	4252
+Tổng Quản Bang Hội	5055	3442
+Tiểu Hòa Thượng	8071	6807
+Điểm Truyền Công 1	4493	5081
+Điểm Truyền Công 1	4660	5080
+Điểm Truyền Công 2	4326	3734
+Điểm Truyền Công 2	4495	3738
+Điểm Truyền Công 3	5641	4356
+Điểm Truyền Công 3	5813	4353
+Điểm Truyền Công 4	5165	3685
+Điểm Truyền Công 4	5332	3681
+Điểm Truyền Công 5	5246	5109
+Điểm Truyền Công 5	5417	5109
+Điểm Truyền Công 6	5666	4044
+Điểm Truyền Công 6	5839	4045
+Điểm Truyền Công 7	4238	4186
+Điểm Truyền Công 7	4411	4187
+Điểm Truyền Công 8	3991	3961
+Điểm Truyền Công 8	4155	3963
+Điểm Truyền Công 9	5361	4773
+Điểm Truyền Công 9	5528	4771
+Điểm Truyền Công 10	4634	3344
+Điểm Truyền Công 10	4799	3346
+Điểm Truyền Công 11	4772	4857
+Điểm Truyền Công 11	4940	4857
+Điểm Truyền Công 12	5247	3344
+Điểm Truyền Công 12	5415	3345
+Điểm Truyền Công 13	4383	4688
+Điểm Truyền Công 13	4553	4687
+Điểm Truyền Công 14	5695	3740
+Điểm Truyền Công 14	5864	3737
+Điểm Truyền Công 15	6174	3905
+Điểm Truyền Công 15	6343	3906
+Điểm Truyền Công 16	5640	5389
+Điểm Truyền Công 16	5806	5387
+Điểm Truyền Công 16	5279	6006
+Điểm Truyền Công 16	5136	6005
+Rương Lễ Bang Hội	4657	3766
+Rương Lễ Bang Hội	4922	5011
+Rương Lễ Bang Hội	5311	3529
+Rương Lễ Bang Hội	5740	3611
+Rương Lễ Bang Hội	4246	4752
+Rương Lễ Bang Hội	4300	4310
+Rương Lễ Bang Hội	4205	3548
+Rương Lễ Bang Hội	5955	4796
+Rương Lễ Bang Hội	6132	4278
+Rương Lễ Bang Hội	6034	3946
+Rương Lễ Bang Hội	4325	5428
+Rương Lễ Bang Hội	4025	5077
+Rương Lễ Bang Hội	5074	5450
+Rương Lễ Bang Hội	5456	5437
+Rương Lễ Bang Hội	5800	5279
+Rương Lễ Bang Hội	3892	4537
+Rương Lễ Bang Hội	3911	4205
+Rương Lễ Bang Hội	4600	4038
+Rương Lễ Bang Hội	4764	4632
+Rương Lễ Bang Hội	5140	3823
+Rương Lễ Bang Hội	3943	3744
+Rương Lễ Bang Hội	4306	3924
+Rương Lễ Bang Hội	5545	3867
+Rương Lễ Bang Hội	5627	4231
+Rương Lễ Bang Hội	4600	5254
+Rương Lễ Bang Hội	4663	5602
+Rương Lễ Bang Hội	5263	5728
+Rương Lễ Bang Hội	4158	5794
+Rương Lễ Bang Hội	3934	5542
+Rương Lễ Bang Hội	5775	5750
+Rương Lễ Bang Hội	3665	3915
+Rương Lễ Bang Hội	3580	4335
+Rương Lễ Bang Hội	3513	4689
+Rương Lễ Bang Hội	3637	3567
+Rương Lễ Bang Hội	4913	3425
+Rương Lễ Bang Hội	6217	3738
+Rương Lễ Bang Hội	6448	4158
+Rương Lễ Bang Hội	5898	4509
+Rương Lễ Bang Hội	5510	4597
+Rương Lễ Bang Hội	5475	4979
+Rương Lễ Bang Hội	4818	5940
+Rương Lễ Bang Hội	6454	4572
+Ngồi thiền	5191	4924
+Ngồi thiền	5761	4881
+Ngồi thiền	5937	4204
+Ngồi thiền	4924	3644
+Ngồi thiền	4444	3981
+Ngồi thiền	4404	4511
+Ngồi thiền	4452	4924
+Ngồi thiền	5564	5229
+Ngồi thiền	6245	4090
+Ngồi thiền	4981	5267
+Người Tuyết	5057	2841
+Đống Tuyết	4530	2846
+Đống Tuyết	5595	2852
+Đống Tuyết	4522	3411
+Đống Tuyết	5565	3411
+Đống Tuyết	4179	3663
+Đống Tuyết	6033	3796
+Cây Thông Noel	4549	3132
+Cây Thông Noel	5547	3124
+Cây Thông Noel	6639	3644
+Cây Thông Noel	4656	6120
+Cây Thông Noel	5403	6120
+Cây Thông Noel	6683	4366
+Cây Thông Noel	4698	3906
+Cây Thông Noel	5412	4613
+Cây Thông Noel	4698	4627
+Cây Thông Noel	3210	4351
+Cây Thông Noel	3207	3703
+Cây Thông Noel	5402	3924
+Thưởng Thiện Phạt Ác Sứ	4978	4666
+Thưởng Thiện Phạt Ác Sứ	5160	4663
+Rương Tết	2376	7467
+Rương Tết	2941	6743
+Rương Tết	3061	7470
+Rương Tết	2267	6741
+Rương Tết	2297	7260
+Rương Tết	2914	7475
+Rương Tết	2880	6879
+Rương Tết	3111	7265
+Rương Tết	2414	6626
+Rương Tết	2565	6589
+Rương Tết	2358	6855
+Rương Tết	2185	6985
+Rương Tết	2299	7121
+Rương Tết	2528	6810
+Rương Tết	2555	7366
+Rương Tết	2504	7571
+Rương Tết	2424	7193
+Rương Tết	2568	7020
+Rương Tết	2688	6804
+Rương Tết	2794	6621
+Rương Tết	3026	7020
+Rương Tết	3170	6940
+Rương Tết	2810	7041
+Rương Tết	2784	7257
+Rương Tết	2786	7436
+Rương Tết	2757	7563
+Rương Tết	2986	7364
+Rương Tết	3127	6834
+Rương Tết	3250	7084
+Rương Tết	3210	7300
+Niên Thú	2597	7243
+Pháo Hoa	3072	7598
+Pháo Hoa	3057	6701
+Pháo Hoa	2157	6766
+Pháo Hoa	3280	6861
+Pháo Hoa	2377	6493
+Pháo Hoa	2089	7259
+Pháo Hoa	2006	7022
+Pháo Hoa	2454	6935
+Pháo Hoa	2920	7022
+Pháo Hoa	2897	6526
+Pháo Hoa	2879	7319
+Pháo Hoa	2478	7310
+Pháo Hoa	2262	7365
+Pháo Hoa	2581	7583
+Pháo Hoa	2215	7069
+Pháo Hoa	2847	7560
+Pháo Hoa	3128	7374
+Pháo Hoa	2815	6726
+Pháo Hoa	2445	6699
+Pháo Hoa	3155	7102
+Pháo Hoa	2898	7731
+Pháo Hoa	2667	6971
+Pháo Hoa	2643	6708
+Pháo Hoa	2661	6475
+Pháo Hoa	2256	6617
+Pháo Hoa	2726	7681
+Pháo Hoa	2250	6892
+Pháo Hoa	2782	6874
+Pháo Hoa	2499	7119
+Pháo Hoa	2670	7374
+Pháo Hoa	3037	6880
+Pháo Hoa	3001	7223
+Pháo Hoa	2714	7167

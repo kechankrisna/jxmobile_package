@@ -1,0 +1,447 @@
+FaceId	Atlas	Sprite	Desc
+1	UI/Atlas/Head/Partner/Partner_Others.prefab	Head_npc_076	Tử Y Muội Muội
+2	UI/Atlas/Head/Partner/Partner_Others.prefab	Head_npc_064	Cô Gái Choàng Khăn
+3	UI/Atlas/Head/Partner/Partner_Others.prefab	Head_npc_005b	Thiếu Nữ Áo Trắng
+4	UI/Atlas/Head/Partner/Partner_Female_01.prefab	Head_npc_027	Triệu Vô Song
+5	UI/Atlas/Head/Partner/Partner_Female_01.prefab	Head_npc_018	Nguyệt Minh Dao
+6	UI/Atlas/Head/Partner/Partner_Female_01.prefab	Head_pet_007	Vô Tưởng
+7	UI/Atlas/Head/Partner/Partner_Others.prefab	Head_nil_002	Dương Anh Tóc Bạc
+8	UI/Atlas/Head/Partner/Partner_Female_01.prefab	Head_pet_002	Lý Điềm Nhi
+9	UI/Atlas/Head/Partner/Partner_Others.prefab	Head_npc_092	Đào Hoa-Lam
+10	UI/Atlas/Head/Partner/Partner_Female_01.prefab	Head_boss111	Tần Mộc Bạch
+11	UI/Atlas/Head/Partner/Partner_Others.prefab	Head_nil_003	Quản Lý Bang Hội
+12	UI/Atlas/Head/Partner/Partner_Others.prefab	Head_npc_002	Khúc Hà
+13	UI/Atlas/Head/Partner/Partner_Female_01.prefab	Head_npc_077	Nạp Lan Chân
+14	UI/Atlas/Head/Partner/Partner_Others.prefab	Head_pet_008	Nga Mi Đại Sư Tỷ
+15	UI/Atlas/Head/Partner/Partner_Female_01.prefab	Head_npc_005a	Hà Mộ Tuyết
+16	UI/Atlas/Head/Partner/Partner_Female_01.prefab	Head_pet_001	Hoàng Mộ Vân
+17	UI/Atlas/Head/Partner/Partner_Female_01.prefab	Head_npc_041	Dương Anh
+18	UI/Atlas/Head/Partner/Partner_Female_01.prefab	Head_npc_003	Tường Vi
+19	UI/Atlas/Head/Partner/Partner_Female_01.prefab	Head_npc_033	Tô Mặc Vân
+20	UI/Atlas/Head/Partner/Partner_Female_01.prefab	Head_npc_031	Tử Hiên
+21	UI/Atlas/Head/Partner/Partner_Female_01.prefab	Head_npc_058	Thu Y Thủy
+22	UI/Atlas/Head/Partner/Partner_Female_01.prefab	Head_npc_102	Nguyệt My Nhi
+23	UI/Atlas/Head/Partner/Partner_Female_02.prefab	FemaleHead23	Tân Nga Mi
+24	UI/Atlas/Head/Partner/Partner_Female_02.prefab	FemaleHead24	Tân Thúy Yên
+25	UI/Atlas/Head/Partner/Partner_Female_02.prefab	FemaleHead25	Tân Côn Lôn
+26	UI/Atlas/Head/Partner/Partner_Female_02.prefab	FemaleHead26	Tân Đào Hoa
+27	UI/Atlas/Head/Partner/Partner_Female_02.prefab	FemaleHead27	Tân Thiên Nhẫn
+28	UI/Atlas/Head/Partner/Partner_Female_02.prefab	FemaleHead28	Triệu Ân Đồng
+29	UI/Atlas/Head/Partner/Partner_Female_02.prefab	Head_npc_210	Triệu Ân Đồng-Thiên Sơn
+30	UI/Atlas/Head/Partner/Partner_Female_02.prefab	Head_npc_211	Hình Đại Diện OB-Nữ
+31	UI/Atlas/Head/Partner/Partner_Female_02.prefab	Head_npc_213	Hình Đại Diện Ngôi Sao Triệu Ân Đồng
+32	UI/Atlas/Head/Partner/Partner_Female_02.prefab	Head_Act_FeMale_1	Hình đại diện Tết Nguyên Tiêu-Nữ
+33	UI/Atlas/Head/Partner/Partner_Female_02.prefab	Head_Act_FeMale_2	Hình đại diện Lễ 8/3-Nữ
+34	UI/Atlas/Head/Partner/Partner_Female_02.prefab	Head_Act_FeMale_3	The Voice Dịu Dàng Êm Ái
+35	UI/Atlas/Head/Partner/Partner_Female_02.prefab	Head_Act_FeMale_4	Top 10 Hảo Thanh Toàn Máy Chủ
+36	UI/Atlas/Head/Partner/Partner_Female_02.prefab	Head_Act_FeMale_5	Top 3 Vòng Chung Kết The Voice
+37	UI/Atlas/Head/Partner/Partner_Female_03.prefab	Head_Act_FeMale_6	The Voice Top 10 Toàn Máy Chủ
+38	UI/Atlas/Head/Partner/Partner_Female_03.prefab	Head_Act_FeMale_7	The Voice Quán Quân Toàn Máy Chủ
+39	UI/Atlas/Head/Partner/Partner_Female_03.prefab	FemaleHead29	Hồn Tây Bắc
+40	UI/Atlas/Head/Partner/Partner_Female_03.prefab	FemaleHead30	Hồn Quốc Hoa
+41	UI/Atlas/Head/Partner/Partner_Female_03.prefab	FemaleHead31	Hình Đại Diện Bánh Trôi 2019-Nữ
+42	UI/Atlas/Head/Partner/Partner_Female_03.prefab	FemaleHead32	Lễ Tình Nhân 2019-Nữ
+43	UI/Atlas/Head/Partner/Partner_Female_03.prefab	HunShaHead2	Hôn Lễ-Nữ
+44	UI/Atlas/Head/Partner/Partner_Female_03.prefab	JunZhuangHead2	Quân Trang-Nữ
+45	UI/Atlas/Head/Partner/Partner_Female_03.prefab	YanZiHead2	Yến Tử-Nữ
+101	UI/Atlas/NPC/Female_01/Female_01.prefab	FemaleBust01	-
+102	UI/Atlas/NPC/Female_01/Female_01.prefab	FemaleBust02	-
+103	UI/Atlas/NPC/Female_01/Female_01.prefab	FemaleBust03	-
+104	UI/Atlas/NPC/Female_01/Female_01.prefab	FemaleBust04	Triệu Vô Song
+105	UI/Atlas/NPC/Female_01/Female_01.prefab	FemaleBust05	Công Tôn Tích Hoa
+106	UI/Atlas/NPC/Female_01/Female_01.prefab	FemaleBust06	Vô Tưởng
+107	UI/Atlas/NPC/Female_01/Female_01.prefab	FemaleBust07	-
+108	UI/Atlas/NPC/Female_02/Female_02.prefab	FemaleBust08	Lý Điềm Nhi
+109	UI/Atlas/NPC/Female_02/Female_02.prefab	FemaleBust09	-
+110	UI/Atlas/NPC/Female_02/Female_02.prefab	FemaleBust10	Tần Mộc Bạch
+111	UI/Atlas/NPC/Female_02/Female_02.prefab	FemaleBust11	Quản Lý Gia Viên
+112	UI/Atlas/NPC/Female_02/Female_02.prefab	FemaleBust12	Khúc Hà
+113	UI/Atlas/NPC/Female_02/Female_02.prefab	FemaleBust13	Nạp Lan Chân
+114	UI/Atlas/NPC/Female_02/Female_02.prefab	FemaleBust14	Nga Mi Đại Sư Tỷ
+115	UI/Atlas/NPC/Female_02/Female_02.prefab	FemaleBust15	-
+116	UI/Atlas/NPC/Female_03/Female_03.prefab	FemaleBust16	Hoàng Mộ Vân
+117	UI/Atlas/NPC/Female_03/Female_03.prefab	FemaleBust17	Dương Anh
+118	UI/Atlas/NPC/Female_03/Female_03.prefab	FemaleBust18	Tường Vi
+119	UI/Atlas/NPC/Female_03/Female_03.prefab	FemaleBust19	Tô Mặc Vân
+120	UI/Atlas/NPC/Female_03/Female_03.prefab	FemaleBust20	Tử Hiên
+121	UI/Atlas/NPC/Female_03/Female_03.prefab	FemaleBust21	Thu Y Thủy
+122	UI/Atlas/NPC/Female_03/Female_03.prefab	FemaleBust22	Nguyệt My Nhi
+123	UI/Atlas/NPC/Female_04/Female_04.prefab	FemaleBust23	Tân Nga Mi
+124	UI/Atlas/NPC/Female_04/Female_04.prefab	FemaleBust24	Tân Thúy Yên
+125	UI/Atlas/NPC/Female_04/Female_04.prefab	FemaleBust25	Tân Côn Lôn
+126	UI/Atlas/NPC/Female_04/Female_04.prefab	FemaleBust26	Tân Đào Hoa
+127	UI/Atlas/NPC/Female_04/Female_04.prefab	FemaleBust27	Tân Thiên Nhẫn
+128	UI/Atlas/NPC/Female_04/Female_04.prefab	FemaleBust28	Triệu Ân Đồng
+129	UI/Atlas/NPC/Female_05/Female_05.prefab	FemaleBust30	Triệu Ân Đồng-Thiên Sơn
+130	UI/Atlas/NPC/Female_05/Female_05.prefab	FemaleBust29	Hoạt động OB-Nữ
+131	UI/Atlas/NPC/Female_05/Female_05.prefab	FemaleBust31	Hoạt động Tết Nguyên Tiêu-Nữ
+132	UI/Atlas/NPC/Female_05/Female_05.prefab	FemaleBust32	Hình đại diện Lễ 8/3-Nữ
+133	UI/Atlas/NPC/Female_05/Female_05.prefab	FemaleBust33	The Voice Dịu Dàng Êm Ái
+134	UI/Atlas/NPC/Female_05/Female_05.prefab	FemaleBust34	Top 10 Hảo Thanh Toàn Máy Chủ
+135	UI/Atlas/NPC/Female_06/Female_06.prefab	FemaleBust35	Top 3 Vòng Chung Kết The Voice
+136	UI/Atlas/NPC/Female_06/Female_06.prefab	FemaleBust36	The Voice Top 10 Toàn Máy Chủ
+137	UI/Atlas/NPC/Female_06/Female_06.prefab	FemaleBust37	The Voice Quán Quân Toàn Máy Chủ
+138	UI/Atlas/NPC/Female_06/Female_06.prefab	FemaleBust38	Hồn Tây Bắc
+139	UI/Atlas/NPC/Female_06/Female_06.prefab	FemaleBust39	Hồn Quốc Hoa
+140	UI/Atlas/NPC/Female_06/Female_06.prefab	FemaleBust40	Hình Đại Diện Bánh Trôi 2019-Nữ
+141	UI/Atlas/NPC/Female_07/Female_07.prefab	FemaleBust41	Lễ Tình Nhân 2019-Nữ
+200	UI/Atlas/Head/Partner/Partner_Others.prefab	Head_normal_001	Thường-Nam
+201	UI/Atlas/Head/Partner/Partner_Male_01.prefab	Head_npc_019	Đường Ảnh
+202	UI/Atlas/Head/Partner/Partner_Male_02.prefab	Head_pet_005	Dương Thiết Tâm
+203	UI/Atlas/Head/Partner/Partner_Male_01.prefab	Head_npc_056	Mạnh Tri Thu
+204	UI/Atlas/Head/Partner/Partner_Others.prefab	Head_nil_001	Độc Cô Kiếm-Thiếu Niên
+205	UI/Atlas/Head/Partner/Partner_Male_01.prefab	Head_npc_040	Bổ Đầu
+206	UI/Atlas/Head/Partner/Partner_Male_03.prefab	Head_npc_046	Chủ Thương Hội
+207	UI/Atlas/Head/Partner/Partner_Male_01.prefab	Head_boss017	Nam Cung Phi
+208	UI/Atlas/Head/Partner/Partner_Male_01.prefab	Head_npc_025	Ân Phương
+209	UI/Atlas/Head/Partner/Partner_Male_02.prefab	Head_npc_113	Triệu Vân
+210	UI/Atlas/Head/Partner/Partner_Male_01.prefab	Head_boss011	Thượng Quan Phi Long
+211	UI/Atlas/Head/Partner/Partner_Male_03.prefab	Head_boss002	Cửu Vĩ Hồ
+212	UI/Atlas/Head/Partner/Partner_Male_02.prefab	Head_npc_087	Nạp Lan Tiềm Lẫm
+213	UI/Atlas/Head/Partner/Partner_Male_03.prefab	Head_npc_007	Quan Viên
+214	UI/Atlas/Head/Partner/Partner_Male_02.prefab	Head_npc_093	Trương Như Mộng
+215	UI/Atlas/Head/Partner/Partner_Male_01.prefab	Head_boss003	Thiên Tinh Đạo Trưởng
+216	UI/Atlas/Head/Partner/Partner_Male_02.prefab	Head_pet_003	Chúc Tử Hư
+217	UI/Atlas/Head/Partner/Partner_Male_02.prefab	Head_pet_004	Liễu Tiêu Đình
+218	UI/Atlas/Head/Partner/Partner_Male_02.prefab	Head_npc_094	Trác Phi Phàm
+219	UI/Atlas/Head/Partner/Partner_Male_01.prefab	Head_npc_049	Cao Trường Cung
+220	UI/Atlas/Head/Partner/Partner_Male_01.prefab	Head_boss005	Triết Biệt
+221	UI/Atlas/Head/Partner/Partner_Male_01.prefab	Head_boss009	Viên Thừa Chí
+222	UI/Atlas/Head/Partner/Partner_Male_01.prefab	Head_boss015	Ngao Bái
+223	UI/Atlas/Head/Partner/Partner_Male_01.prefab	Head_boss012	Hồ Thần Y
+224	UI/Atlas/Head/Partner/Partner_Male_02.prefab	Head_pet_006	Phong Ngọc Thư
+225	UI/Atlas/Head/Partner/Partner_Male_02.prefab	Head_npc_101	Dương Ảnh Phong
+226	UI/Atlas/Head/Partner/Partner_Male_01.prefab	Head_boss006	Huyền Thiên Đạo Nhân
+227	UI/Atlas/Head/Partner/Partner_Male_01.prefab	Head_npc_022	Gia Luật Tị Li
+228	UI/Atlas/Head/Partner/Partner_Male_01.prefab	Head_npc_044	Lục Văn Long
+229	UI/Atlas/Head/Partner/Partner_Male_01.prefab	Head_boss004	Tiêu Động Trần
+230	UI/Atlas/Head/Partner/Partner_Male_03.prefab	MaleHead30	Tân Thiếu Lâm
+231	UI/Atlas/Head/Partner/Partner_Male_03.prefab	MaleHead31	Tân Đường Môn
+232	UI/Atlas/Head/Partner/Partner_Male_03.prefab	MaleHead32	Tân Thiên Vương
+233	UI/Atlas/Head/Partner/Partner_Male_03.prefab	MaleHead33	Tân Võ Đang
+234	UI/Atlas/Head/Partner/Partner_Male_03.prefab	MaleHead34	Tân Tiêu Dao
+235	UI/Atlas/Head/Partner/Partner_Male_04.prefab	MaleHead35	Lâm Triều Hoa
+236	UI/Atlas/Head/Partner/Partner_Male_04.prefab	Head_npc_209	Lâm Triều Hoa-Thiên Sơn
+237	UI/Atlas/Head/Partner/Partner_Male_04.prefab	Head_npc_208	Hình Đại Diện OB-Nam
+238	UI/Atlas/Head/Partner/Partner_Male_04.prefab	Head_npc_212	Lâm Triều Hoa-Hình Đại Diện Ngôi Sao
+239	UI/Atlas/Head/Partner/Partner_Male_04.prefab	Head_Act_Male_1	Hình đại diện Tết Nguyên Tiêu-Nam
+240	UI/Atlas/Head/Partner/Partner_Male_04.prefab	Head_Act_Male_2	Vạn Kim Tài-Bản Mới
+241	UI/Atlas/Head/Partner/Partner_Male_04.prefab	Head_Act_Male_3	Top 3 Vòng Chung Kết The Voice
+242	UI/Atlas/Head/Partner/Partner_Male_04.prefab	Head_Act_Male_4	Thiên Tinh Đạo Trưởng-Bản Mới
+243	UI/Atlas/Head/Partner/Partner_Male_04.prefab	Head_Act_Male_5	Hồ Thần Y-Bản Mới
+244	UI/Atlas/Head/Partner/Partner_Male_04.prefab	Head_Act_Male_6	Top 10 Hảo Thanh Toàn Máy Chủ
+245	UI/Atlas/Head/Partner/Partner_Male_04.prefab	Head_Act_Male_7	The Voice Dư Âm Vẫn Còn
+246	UI/Atlas/Head/Partner/Partner_Male_04.prefab	Head_Act_Male_8	The Voice Top 10 Toàn Máy Chủ
+247	UI/Atlas/Head/Partner/Partner_Male_04.prefab	Head_Act_Male_9	The Voice Quán Quân Toàn Máy Chủ
+248	UI/Atlas/Head/Partner/Partner_Male_04.prefab	MaleHead36	Hồn Âu Lạc
+249	UI/Atlas/Head/Partner/Partner_Male_04.prefab	MaleHead37	Hồn Thiên Sử
+250	UI/Atlas/Head/Partner/Partner_Male_04.prefab	MaleHead38	Hình Đại Diện Bánh Trôi 2019-Nam
+251	UI/Atlas/Head/Partner/Partner_Male_05.prefab	MaleHead39	Lễ Tình Nhân 2019-Nam
+252	UI/Atlas/Head/Partner/Partner_Male_05.prefab	MaleHead41	Hình đại diện Thủy Long Ngâm-Nam
+253	UI/Atlas/Head/Partner/Partner_Female_03.prefab	FemaleHead33	Hình đại diện Thủy Long Ngâm-Nữ
+254	UI/Atlas/Head/Partner/Partner_Male_05.prefab	HunShaHead1	Hôn Lễ-Nam
+255	UI/Atlas/Head/Partner/Partner_Male_05.prefab	JunZhuangHead1	Quân Trang-Nam
+256	UI/Atlas/Head/Partner/Partner_Male_05.prefab	YanZiHead1	Yến Tử-Nam
+301	UI/Atlas/NPC/Male_01/Male_01.prefab	MaleBust01	Đường Ảnh
+302	UI/Atlas/NPC/Male_01/Male_01.prefab	MaleBust02	Dương Thiết Tâm
+303	UI/Atlas/NPC/Male_01/Male_01.prefab	MaleBust03	Mạnh Tri Thu
+304	UI/Atlas/NPC/Male_01/Male_01.prefab	MaleBust04	Độc Cô Kiếm-Thiếu Niên
+305	UI/Atlas/NPC/Male_01/Male_01.prefab	MaleBust05	-
+306	UI/Atlas/NPC/Male_01/Male_01.prefab	MaleBust06	Chủ Thương Hội
+307	UI/Atlas/NPC/Male_01/Male_01.prefab	MaleBust07	Nam Cung Phi
+308	UI/Atlas/NPC/Male_01/Male_01.prefab	MaleBust08	Kiếm Đồng
+309	UI/Atlas/NPC/Male_02/Male_02.prefab	MaleBust09	Triệu Vân
+310	UI/Atlas/NPC/Male_02/Male_02.prefab	MaleBust10	Thượng Quan Phi Long
+311	UI/Atlas/NPC/Male_02/Male_02.prefab	MaleBust11	Diệp Vô Tâm
+312	UI/Atlas/NPC/Male_02/Male_02.prefab	MaleBust12	Nạp Lan Tiềm Lẫm
+313	UI/Atlas/NPC/Male_02/Male_02.prefab	MaleBust13	Lưu Vân Tướng Quân
+314	UI/Atlas/NPC/Male_02/Male_02.prefab	MaleBust14	Trương Như Mộng
+315	UI/Atlas/NPC/Male_02/Male_02.prefab	MaleBust15	Thiên Tinh Đạo Trưởng
+316	UI/Atlas/NPC/Male_02/Male_02.prefab	MaleBust16	Chúc Tử Hư
+317	UI/Atlas/NPC/Male_02/Male_02.prefab	MaleBust17	Liễu Tiêu Đình
+318	UI/Atlas/NPC/Male_03/Male_03.prefab	MaleBust18	Trác Phi Phàm
+319	UI/Atlas/NPC/Male_03/Male_03.prefab	MaleBust19	Cao Trường Cung
+320	UI/Atlas/NPC/Male_03/Male_03.prefab	MaleBust20	Triết Biệt
+321	UI/Atlas/NPC/Male_03/Male_03.prefab	MaleBust21	Viên Thừa Chí
+322	UI/Atlas/NPC/Male_03/Male_03.prefab	MaleBust22	Ngao Bái
+323	UI/Atlas/NPC/Male_03/Male_03.prefab	MaleBust23	Hồ Thần Y
+324	UI/Atlas/NPC/Male_03/Male_03.prefab	MaleBust24	Phong Ngọc Thư
+325	UI/Atlas/NPC/Male_04/Male_04.prefab	MaleBust25	Dương Ảnh Phong
+326	UI/Atlas/NPC/Male_04/Male_04.prefab	MaleBust26	Huyền Thiên Đạo Nhân
+327	UI/Atlas/NPC/Male_04/Male_04.prefab	MaleBust27	Gia Luật Tị Li
+328	UI/Atlas/NPC/Male_04/Male_04.prefab	MaleBust28	Lục Văn Long
+329	UI/Atlas/NPC/Male_04/Male_04.prefab	MaleBust29	Tiêu Động Trần
+330	UI/Atlas/NPC/Male_05/Male_05.prefab	MaleBust30	Tân Thiếu Lâm
+331	UI/Atlas/NPC/Male_05/Male_05.prefab	MaleBust31	Tân Đường Môn
+332	UI/Atlas/NPC/Male_05/Male_05.prefab	MaleBust32	Tân Thiên Vương
+333	UI/Atlas/NPC/Male_05/Male_05.prefab	MaleBust33	Tân Võ Đang
+334	UI/Atlas/NPC/Male_05/Male_05.prefab	MaleBust34	Tân Tiêu Dao
+335	UI/Atlas/NPC/Male_05/Male_05.prefab	MaleBust35	Lâm Triều Hoa
+336	UI/Atlas/NPC/Male_06/Male_06.prefab	MaleBust37	Lâm Triều Hoa-Thiên Sơn
+337	UI/Atlas/NPC/Male_06/Male_06.prefab	MaleBust36	Tượng Bán Thân OB-Nam
+338	UI/Atlas/NPC/Male_06/Male_06.prefab	MaleBust38	Hoạt động Tết Nguyên Tiêu-Nam
+339	UI/Atlas/NPC/Male_06/Male_06.prefab	MaleBust39	Vạn Kim Tài-Bản Mới
+340	UI/Atlas/NPC/Male_06/Male_06.prefab	MaleBust40	Top 3 Vòng Chung Kết The Voice
+341	UI/Atlas/NPC/Male_06/Male_06.prefab	MaleBust41	Thiên Tinh Đạo Trưởng-Bản Mới
+342	UI/Atlas/NPC/Male_06/Male_06.prefab	MaleBust42	Hồ Thần Y-Bản Mới
+343	UI/Atlas/NPC/Male_06/Male_06.prefab	MaleBust43	Top 10 Hảo Thanh Toàn Máy Chủ
+344	UI/Atlas/NPC/Male_06/Male_06.prefab	MaleBust44	The Voice Dư Âm Vẫn Còn
+345	UI/Atlas/NPC/Male_07/Male_07.prefab	MaleBust45	The Voice Top 10 Toàn Máy Chủ
+346	UI/Atlas/NPC/Male_07/Male_07.prefab	MaleBust46	The Voice Quán Quân Toàn Máy Chủ
+347	UI/Atlas/NPC/Male_07/Male_07.prefab	MaleBust47	Hồn Âu Lạc
+348	UI/Atlas/NPC/Male_07/Male_07.prefab	MaleBust48	Hồn Thiên Sử
+349	UI/Atlas/NPC/Male_07/Male_07.prefab	MaleBust49	Hình Đại Diện Bánh Trôi 2019-Nam
+350	UI/Atlas/NPC/Male_08/Male_08.prefab	MaleBust50	Lễ Tình Nhân 2019-Nam
+601	UI/Atlas/Head/Partner/Partner_Male_01.prefab	Head_boss003	Thiên Tinh Đạo Trưởng
+602	UI/Atlas/Head/Partner/Partner_Male_01.prefab	Head_boss004	Tiêu Động Trần
+603	UI/Atlas/Head/Partner/Partner_Male_01.prefab	Head_boss005	Triết Biệt
+604	UI/Atlas/Head/Partner/Partner_Male_01.prefab	Head_boss006	Huyền Thiên Đạo Nhân
+605	UI/Atlas/Head/Partner/Partner_Male_01.prefab	Head_boss007	Hắc Diện Lang Quân
+606	UI/Atlas/Head/Partner/Partner_Male_01.prefab	Head_boss009	Viên Thừa Chí
+607	UI/Atlas/Head/Partner/Partner_Male_01.prefab	Head_boss011	Thượng Quan Phi Long
+608	UI/Atlas/Head/Partner/Partner_Male_01.prefab	Head_boss012	Hồ Thần Y
+609	UI/Atlas/Head/Partner/Partner_Male_01.prefab	Head_boss015	Ngao Bái
+610	UI/Atlas/Head/Partner/Partner_Male_01.prefab	Head_boss017	Nam Cung Phi
+611	UI/Atlas/Head/Partner/Partner_Male_01.prefab	Head_npc_019	Đường Ảnh
+612	UI/Atlas/Head/Partner/Partner_Male_01.prefab	Head_npc_022	Gia Luật Tị Li
+613	UI/Atlas/Head/Partner/Partner_Male_01.prefab	Head_npc_025	Ân Phương
+614	UI/Atlas/Head/Partner/Partner_Male_01.prefab	Head_npc_029	Nam Cung Diệt
+615	UI/Atlas/Head/Partner/Partner_Male_01.prefab	Head_npc_030	Hàn Thế Trung
+616	UI/Atlas/Head/Partner/Partner_Male_01.prefab	Head_npc_038	Lộ Đạt
+617	UI/Atlas/Head/Partner/Partner_Male_01.prefab	Head_npc_040	??
+618	UI/Atlas/Head/Partner/Partner_Male_01.prefab	Head_npc_043	Cố Võ
+619	UI/Atlas/Head/Partner/Partner_Male_01.prefab	Head_npc_044	Lục Văn Long
+620	UI/Atlas/Head/Partner/Partner_Male_01.prefab	Head_npc_049	Cao Trường Cung
+621	UI/Atlas/Head/Partner/Partner_Male_01.prefab	Head_npc_053	Triệu Tiết
+622	UI/Atlas/Head/Partner/Partner_Male_01.prefab	Head_npc_056	Mạnh Tri Thu
+623	UI/Atlas/Head/Partner/Partner_Male_01.prefab	Head_npc_059	Lý Tam
+624	UI/Atlas/Head/Partner/Partner_Male_01.prefab	Head_npc_060	Trương Trọng Thiên
+625	UI/Atlas/Head/Partner/Partner_Male_01.prefab	Head_npc_086	Nhạc Phi (Cũ)
+626	UI/Atlas/Head/Partner/Partner_Male_02.prefab	Head_npc_087	Nạp Lan Tiềm Lẫm
+627	UI/Atlas/Head/Partner/Partner_Male_02.prefab	Head_npc_093	Trương Như Mộng
+628	UI/Atlas/Head/Partner/Partner_Male_02.prefab	Head_npc_094	Trác Phi Phàm
+629	UI/Atlas/Head/Partner/Partner_Male_02.prefab	Head_npc_098	Tiểu Ảnh Phong
+630	UI/Atlas/Head/Partner/Partner_Male_02.prefab	Head_npc_101	Dương Ảnh Phong
+631	UI/Atlas/Head/Partner/Partner_Male_02.prefab	Head_npc_107	Lý Nguyên Bá
+632	UI/Atlas/Head/Partner/Partner_Male_02.prefab	Head_npc_109	Triệu Thăng Quyền
+633	UI/Atlas/Head/Partner/Partner_Male_02.prefab	Head_npc_110	Dương Hi Liệt
+634	UI/Atlas/Head/Partner/Partner_Male_02.prefab	Head_npc_111	Lý Thiên Mục
+635	UI/Atlas/Head/Partner/Partner_Male_02.prefab	Head_npc_113	Triệu Vân
+636	UI/Atlas/Head/Partner/Partner_Male_02.prefab	Head_npc_116	Đạo Nhất Chân Nhân
+637	UI/Atlas/Head/Partner/Partner_Male_02.prefab	Head_npc_117	Phương Miễn
+638	UI/Atlas/Head/Partner/Partner_Male_02.prefab	Head_npc_118	Vô Tướng
+639	UI/Atlas/Head/Partner/Partner_Male_02.prefab	Head_npc_119	Trương Phong
+640	UI/Atlas/Head/Partner/Partner_Male_02.prefab	Head_npc_120	Lâm Hải
+641	UI/Atlas/Head/Partner/Partner_Male_02.prefab	Head_npc_121	Lư Thanh
+642	UI/Atlas/Head/Partner/Partner_Male_02.prefab	Head_pet_003	Chúc Tử Hư
+643	UI/Atlas/Head/Partner/Partner_Male_02.prefab	Head_pet_004	Liễu Tiêu Đình
+644	UI/Atlas/Head/Partner/Partner_Male_02.prefab	Head_pet_005	Dương Thiết Tâm
+645	UI/Atlas/Head/Partner/Partner_Male_02.prefab	Head_pet_006	Phong Ngọc Thư
+646	UI/Atlas/Head/Partner/Partner_Male_03.prefab	Head_boss001	Tâm Ma
+647	UI/Atlas/Head/Partner/Partner_Male_03.prefab	Head_boss002	Cửu Vĩ Hồ
+648	UI/Atlas/Head/Partner/Partner_Male_03.prefab	Head_npc_007	Quan Viên
+649	UI/Atlas/Head/Partner/Partner_Male_03.prefab	Head_npc_046	Chủ Thương Hội
+650	UI/Atlas/Head/Partner/Partner_Male_02.prefab	Head_boss013	Đường Tiêu
+651	UI/Atlas/Head/Partner/Partner_Male_02.prefab	Head_npc_032	Sài Tung
+652	UI/Atlas/Head/Partner/Partner_Male_02.prefab	Head_npc_099	Thiệu Kỵ Phong
+653	UI/Atlas/Head/Partner/Partner_Male_03.prefab	Head_boss021	Hoàn Nhan Hồng Liệt
+654	UI/Atlas/Head/Partner/Partner_Male_03.prefab	Head_boss022	Độc Cô Kiếm
+655	UI/Atlas/Head/Partner/Partner_Male_03.prefab	Head_npc_108	Kinh Kha
+656	UI/Atlas/Head/Partner/Partner_Male_02.prefab	Head_npc_122	Đoan Mộc Duệ
+657	UI/Atlas/Head/Partner/Partner_Male_02.prefab	Head_npc_130	Nhạc Phi
+658	UI/Atlas/Head/Partner/Partner_Male_03.prefab	Head_npc_131	Hoàn Nhan Tương
+659	UI/Atlas/Head/Partner/Partner_Male_03.prefab	Head_npc_135	Lý Quảng
+660	UI/Atlas/Head/Partner/Partner_Male_03.prefab	Head_npc_136	Tần Thủy Hoàng
+661	UI/Atlas/Head/Partner/Partner_Male_03.prefab	Head_npc_190	Đường Giản
+662	UI/Atlas/Head/Partner/Partner_Male_03.prefab	Head_npc_167	Hắc Diện Lang Quân
+663	UI/Atlas/Head/Partner/Partner_Male_03.prefab	Head_npc_170	Hà Nhân Ngã
+664	UI/Atlas/Head/Partner/Partner_Male_03.prefab	Head_npc_175	Đường Cừu
+665	UI/Atlas/Head/Partner/Partner_Male_04.prefab	Head_npc_173	Hạng Vũ
+666	UI/Atlas/Head/Partner/Partner_Male_04.prefab	Head_npc_213	Quỷ Cốc Tử
+701	UI/Atlas/Head/Partner/Partner_Male_03.prefab	Head_npc_135	Vị trí
+702	UI/Atlas/Head/Partner/Partner_Female_01.prefab	Head_boss111	Tần Mộc Bạch
+703	UI/Atlas/Head/Partner/Partner_Female_01.prefab	Head_npc_003	Tường Vi
+704	UI/Atlas/Head/Partner/Partner_Female_01.prefab	Head_npc_005	??
+705	UI/Atlas/Head/Partner/Partner_Female_01.prefab	Head_npc_018	Nguyệt Minh Dao
+706	UI/Atlas/Head/Partner/Partner_Female_01.prefab	Head_npc_026	Nam Cung Thái Hồng
+707	UI/Atlas/Head/Partner/Partner_Female_01.prefab	Head_npc_027	Triệu Vô Song
+708	UI/Atlas/Head/Partner/Partner_Female_01.prefab	Head_npc_031	Tử Hiên
+709	UI/Atlas/Head/Partner/Partner_Female_01.prefab	Head_npc_033	Tô Mặc Vân
+710	UI/Atlas/Head/Partner/Partner_Female_01.prefab	Head_npc_041	Dương Anh
+711	UI/Atlas/Head/Partner/Partner_Female_01.prefab	Head_npc_058	Thu Y Thủy
+712	UI/Atlas/Head/Partner/Partner_Female_01.prefab	Head_npc_077	Nạp Lan Chân
+713	UI/Atlas/Head/Partner/Partner_Female_01.prefab	Head_npc_085	Thanh Hiểu Sư Thái
+714	UI/Atlas/Head/Partner/Partner_Female_01.prefab	Head_npc_096	Oanh Nhi
+715	UI/Atlas/Head/Partner/Partner_Female_01.prefab	Head_npc_100	Trương Lâm Tâm
+716	UI/Atlas/Head/Partner/Partner_Female_01.prefab	Head_npc_102	Nguyệt My Nhi
+717	UI/Atlas/Head/Partner/Partner_Female_01.prefab	Head_npc_112	Ngu Cơ
+718	UI/Atlas/Head/Partner/Partner_Female_01.prefab	Head_pet_001	Hoàng Mộ Vân
+719	UI/Atlas/Head/Partner/Partner_Female_01.prefab	Head_pet_002	Lý Điềm Nhi
+720	UI/Atlas/Head/Partner/Partner_Female_01.prefab	Head_pet_007	Vô Tưởng
+721	UI/Atlas/Head/Partner/Partner_Female_02.prefab	Head_npc_214	Hoàng Chân Y
+722	UI/Atlas/Head/Partner/Partner_Female_02.prefab	Head_npc_205	Võ Tắc Thiên
+723	UI/Atlas/Head/Partner/Partner_Female_01.prefab	Head_pet_007	Vị trí
+724	UI/Atlas/Head/Partner/Partner_Female_01.prefab	Head_pet_007	Vị trí
+725	UI/Atlas/Head/Partner/Partner_Female_01.prefab	Head_pet_007	Vị trí
+726	UI/Atlas/Head/Partner/Partner_Female_01.prefab	Head_npc_125	Tần Lương Ngọc
+727	UI/Atlas/Head/Partner/Partner_Female_01.prefab	Head_npc_129	Yên Nhược Tuyết
+728	UI/Atlas/Head/Partner/Partner_Female_01.prefab	Head_npc_106	-
+729	UI/Atlas/Head/Partner/Partner_Male_05.prefab	MaleHead40	Trương Tam Phong
+801	UI/Atlas/Head/Partner/Partner_Others.prefab	Head_normal_001	Thường-Nam
+802	UI/Atlas/Head/Partner/Partner_Others.prefab	Head_normal_002	Thường-Nữ
+803	UI/Atlas/Head/Partner/Partner_Others.prefab	Head_normal_003	Thường-Thú
+804	UI/Atlas/Head/Partner/Partner_Others.prefab	Head_boss016	Hồ Vương
+805	UI/Atlas/Head/Partner/Partner_Others.prefab	Head_boss018	Lộc Vương
+806	UI/Atlas/Head/Partner/Partner_Others.prefab	Head_boss019	Lang Vương
+807	UI/Atlas/Head/Partner/Partner_Others.prefab	Head_boss020	Báo Vương
+808	UI/Atlas/Head/Partner/Partner_Others.prefab	Head_boss025	Bạch Mi Hầu Vương
+809	UI/Atlas/Head/Partner/Partner_Others.prefab	Head_boss024	Song Thủ Dị Thú
+810	UI/Atlas/Head/Partner/Partner_Others.prefab	Head_boss030	Định Hải Kim Cang
+811	UI/Atlas/Head/Partner/Partner_Others.prefab	Head_boss026	Kim Sí Bằng Hoàng
+812	UI/Atlas/Head/Partner/Partner_Others.prefab	Head_boss028	Ngân Giác Tê Hoàng
+813	UI/Atlas/Head/Partner/Partner_Others.prefab	Head_npc_064	Cô Gái Choàng Khăn
+814	UI/Atlas/Head/Partner/Partner_Others.prefab	Head_npc_076	Tử Y Muội Muội
+815	UI/Atlas/Head/Partner/Partner_Others.prefab	Head_npc_092	Đào Hoa-Lam
+816	UI/Atlas/Head/Partner/Partner_Others.prefab	Head_pet_008	Nga Mi Đại Sư Tỷ
+817	UI/Atlas/Head/Partner/Partner_Others.prefab	Head_npc_002	Khúc Hà
+818	UI/Atlas/Head/Partner/Partner_Others.prefab	Head_nil_001	Dương Ảnh Phong-Cũ
+819	UI/Atlas/Head/Partner/Partner_Others.prefab	Head_nil_002	Dương Anh Tóc Bạc
+820	UI/Atlas/Head/Partner/Partner_Others.prefab	Head_nil_003	Quản Lý Bang Hội
+821	UI/Atlas/Head/Partner/Partner_Others.prefab	Head_npc_005b	Thiếu Nữ Áo Trắng
+822	UI/Atlas/Head/Partner/Partner_Others_02.prefab	Head_boss027	Gấu Chúa
+823	UI/Atlas/Head/Partner/Partner_Others.prefab	Head_boss029	Hổ Chúa
+824	UI/Atlas/Head/Partner/Partner_Others.prefab	Head_boss031	Cá Sấu Chúa
+825	UI/Atlas/Head/Partner/Partner_Others_02.prefab	Head_boss032	Tích Vương
+826	UI/Atlas/Head/Partner/Partner_Others_02.prefab	Head_boss033	Hạt Vương
+827	UI/Atlas/Head/Partner/Partner_Others_02.prefab	Head_boss034	Ngao Vương
+851	UI/Atlas/Head/Partner/Partner_Female_01.prefab	Head_npc_005a	Hà Mộ Tuyết
+992	UI/Atlas/Home/HomeScreenAtlas.prefab 	Collection	Thu thập hình đại diện
+993	UI/Atlas/NPC/Female_01/Female_01.prefab	TransparentRole	Dùng cho lời bày tỏ riêng
+994	UI/Atlas/NPC/Male_04/Male_04.prefab	MaleBust99	Người Bí Ẩn
+995	UI/Atlas/Home/HomeScreenAtlas.prefab	OpenIcon	Mở cơ quan
+996	UI/Atlas/Head/HeadAtlas.prefab	FemaleHead	Hình đại diện nữ
+997	UI/Atlas/NPC/Female_01/Female_01.prefab	Female	Hình nhân vật nữ
+998	UI/Atlas/Head/HeadAtlas_02.prefab	MaleHead	Hình đại diện nữ
+999	UI/Atlas/NPC/Male_01/Male_01.prefab	Male	Hình nhân vật nam
+1000	UI/Atlas/Head/HeadAtlas_03.prefab	CompanionHead	Hình đại diện Thú nhỏ
+1001	UI/Atlas/Head/Partner/Partner_Male_03.prefab	TianWangHead	Hình đại diện Thiên Vương
+1002	UI/Atlas/Head/Partner/Partner_Female_01.prefab	EmeiHead	Hình đại diện Nga Mi
+1003	UI/Atlas/Head/Partner/Partner_Female_01.prefab	TaoHuaHead	Hình đại diện Đào Hoa
+1004	UI/Atlas/Head/Partner/Partner_Male_03.prefab	XiaoYaoHead	Hình đại diện Tiêu Dao 
+1005	UI/Atlas/Head/Partner/Partner_Male_03.prefab	WuDangHead	Hình Đại Diện Võ Đang (Nam)
+1006	UI/Atlas/Head/Partner/Partner_Female_01.prefab	TianRenHead	Hình đại diện Thiên Nhẫn
+1007	UI/Atlas/Head/Partner/Partner_Male_03.prefab	ShaoLinHead	Hình đại diện Thiếu Lâm
+1008	UI/Atlas/Head/Partner/Partner_Female_02.prefab	CuiYanHead	Hình đại diện Thúy Yên
+1009	UI/Atlas/Head/Partner/Partner_Male_03.prefab	TangMenHead	Hình đại diện Đường Môn
+1010	UI/Atlas/Head/Partner/Partner_Female_02.prefab	KunLunHead	Hình đại diện Côn Lôn
+1011	UI/Atlas/Head/Partner/Partner_Male_03.prefab	GaiBangHead	Hình đại diện Cái Bang
+1012	UI/Atlas/Head/Partner/Partner_Female_02.prefab	WuDuHead	Hình đại diện Ngũ Độc
+1013	UI/Atlas/Head/Partner/Partner_Male_04.prefab	CangJianHead	Hình đại diện Tàng Kiếm
+1014	UI/Atlas/Head/Partner/Partner_Female_02.prefab	ChangGeHead	Hình đại diện Trường Ca
+1015	UI/Atlas/Head/Partner/Partner_Male_04.prefab	TianShanHead1	Hình Đại Diện Thiên Sơn (Nam)
+1016	UI/Atlas/Head/Partner/Partner_Female_02.prefab	TianShanHead2	Hình Đại Diện Thiên Sơn (Nữ)
+1017	UI/Atlas/Head/Partner/Partner_Male_04.prefab	BaDaoHead1	Hình Đại Diện Bá Đao (Nam)
+1018	UI/Atlas/Head/Partner/Partner_Female_02.prefab	BaDao2Head	Hình Đại Diện Bá Đao (Nữ)
+1019	UI/Atlas/Head/Partner/Partner_Female_02.prefab	WuDang2Head	Hình Đại Diện Võ Đang (Nữ)
+1020	UI/Atlas/Head/Partner/Partner_Male_04.prefab	HuaShan1Head	Hình Đại Diện Hoa Sơn (Nam)
+1021	UI/Atlas/Head/Partner/Partner_Female_03.prefab	HuaShan2Head	Hình Đại Diện Hoa Sơn (Nữ)
+1022	UI/Atlas/Head/Partner/Partner_Male_04.prefab	KunLun1Head	Hình Đại Diện Côn Lôn (Nam)
+1023	UI/Atlas/Head/Partner/Partner_Male_04.prefab	MingJiaoHead1	Hình Đại Diện Minh Giáo (Nam)
+1024	UI/Atlas/Head/Partner/Partner_Female_03.prefab	MingJiaoHead2	Hình Đại Diện Minh Giáo (Nữ)
+1025	UI/Atlas/Head/Partner/Partner_Female_03.prefab	TianWangHead2	Hình đại diện Thiên Vương (Nữ) 
+1026	UI/Atlas/Head/Partner/Partner_Male_05.prefab	DuanShiHead1	Hình Đại Diện Đoàn Thị (Nam)
+1027	UI/Atlas/Head/Partner/Partner_Female_03.prefab	DuanShiHead2	Hình Đại Diện Đoàn Thị (Nữ)
+1028	UI/Atlas/Head/Partner/Partner_Female_03.prefab	XiaoYaoHead2	Hình Đại Diện Tiêu Dao (Nữ)
+1029	UI/Atlas/Head/Partner/Partner_Male_05.prefab	WanHuaHead1	Hình Đại Diện Vạn Hoa (Nam)
+1030	UI/Atlas/Head/Partner/Partner_Female_03.prefab	WanHuaHead2	Hình Đại Diện Vạn Hoa (Nữ)
+1031	UI/Atlas/Head/Partner/Partner_Female_03.prefab	GaiBangHead2	Hình Đại Diện Cái Bang (Nữ)
+1121	UI/Atlas/NPC/Male_03/Male_03.prefab	TianWangBust	Tượng Thiên Vương
+1122	UI/Atlas/NPC/Female_01/Female_01.prefab	EmeiBust	Tượng Nga Mi
+1123	UI/Atlas/NPC/Female_02/Female_02.prefab	TaoHuaBust	Tượng Đào Hoa
+1124	UI/Atlas/NPC/Male_03/Male_03.prefab	XiaoYaoBust	Tượng Tiêu Dao
+1125	UI/Atlas/NPC/Male_04/Male_04.prefab	WuDangBust	Tượng Võ Đang (Nam)
+1126	UI/Atlas/NPC/Female_03/Female_03.prefab	TianRenBust	Tượng Thiên Nhẫn
+1127	UI/Atlas/NPC/Male_04/Male_04.prefab	ShaoLinBust	Tượng Thiếu Lâm
+1128	UI/Atlas/NPC/Female_03/Female_03.prefab	CuiYanBust	Tượng Thúy Yên
+1129	UI/Atlas/NPC/Male_04/Male_04.prefab	TangMenBust	Tượng Đường Môn
+1130	UI/Atlas/NPC/Female_04/Female_04.prefab	KunLunBust	Tượng Côn Lôn
+1131	UI/Atlas/NPC/Male_05/Male_05.prefab	GaiBangBust	Tượng Cái Bang
+1132	UI/Atlas/NPC/Female_04/Female_04.prefab	WuDuBust	Tượng Ngũ Độc
+1133	UI/Atlas/NPC/Male_05/Male_05.prefab	CangJianBust	Tượng Tàng Kiếm
+1134	UI/Atlas/NPC/Female_04/Female_04.prefab	ChangGeBust	Tượng Trường Ca
+1135	UI/Atlas/NPC/Male_05/Male_05.prefab	TianShanBust1	Tượng Thiên Sơn (Nam)
+1136	UI/Atlas/NPC/Female_05/Female_05.prefab	TianShanBust2	Tượng Thiên Sơn (Nữ)
+1137	UI/Atlas/NPC/Male_07/Male_07.prefab	BaDaoBust1	Tượng Bá Đao (Nam)
+1138	UI/Atlas/NPC/Female_05/Female_05.prefab	BaDaoBust2	Tượng Bá Đao (Nữ)
+1139	UI/Atlas/NPC/Female_05/Female_05.prefab	WuDangBust2	Tượng Võ Đang (Nữ)
+1140	UI/Atlas/NPC/Male_07/Male_07.prefab	HuaShanBust1	Tượng Hoa Sơn (Nam)
+1141	UI/Atlas/NPC/Female_06/Female_06.prefab	HuaShanBust2	Tượng Hoa Sơn (Nữ)
+1142	UI/Atlas/NPC/Male_07/Male_07.prefab	KunLunBust1	Tượng Côn Lôn (Nam)
+1143	UI/Atlas/NPC/Male_07/Male_07.prefab	MingJiaoBust1	Tượng Minh Giáo (Nam)
+1144	UI/Atlas/NPC/Female_06/Female_06.prefab	MingJiaoBust2	Tượng Minh Giáo (Nữ)
+1145	UI/Atlas/NPC/Female_06/Female_06.prefab	TianWangBust2	Tượng Thiên Vương (Nữ) 
+1146	UI/Atlas/NPC/Male_08/Male_08.prefab	DuanShiBust1	Tượng Đoàn Thị (Nam)
+1147	UI/Atlas/NPC/Female_07/Female_07.prefab	DuanShiBust2	Tượng Đoàn Thị (Nữ)
+1148	UI/Atlas/NPC/Female_07/Female_07.prefab	XiaoYaoBust1	Tượng Tiêu Dao (Nữ)
+1149	UI/Atlas/NPC/Male_08/Male_08.prefab	WanHuaBust1	Tượng Vạn Hoa (Nam)
+1150	UI/Atlas/NPC/Female_07/Female_07.prefab	WanHuaBust2	Tượng Vạn Hoa (Nữ)
+1151	UI/Atlas/NPC/Female_07/Female_07.prefab	GaiBangBust2	Tượng Cái Bang (Nữ)
+8000	UI/Atlas/Head/HomeScreenHeadAtlas.prefab	MaleHead37	Tần Thủy Hoàng
+8001	UI/Atlas/Head/HomeScreenHeadAtlas.prefab	MaleHead38	Huyền Thiên Võ Cơ
+8002	UI/Atlas/Head/HomeScreenHeadAtlas.prefab	MaleHead36	Bạch Khởi
+8003	UI/Atlas/Head/HomeScreenHeadAtlas.prefab	MaleHead39	Lý Tư
+9001	UI/Atlas/Head/HomeScreenHeadAtlas.prefab	MaleHead19	(Triều Hữu) Cao Trường Cung
+9002	UI/Atlas/Head/HomeScreenHeadAtlas.prefab	MaleHead20	(Triều Hữu) Triết Biệt
+9003	UI/Atlas/Head/HomeScreenHeadAtlas.prefab	MaleHead21	(Triều Hữu) Viên Thừa Chí
+9004	UI/Atlas/Head/HomeScreenHeadAtlas.prefab	MaleHead22	(Triều Hữu) Ngao Bái
+9005	UI/Atlas/Head/HomeScreenHeadAtlas.prefab	CompanionHead	(Triều Hữu) Thủ lĩnh
+9006	UI/Atlas/Head/HomeScreenHeadAtlas.prefab	MaleHead30	(Triều Hữu) Hàn Thế Trung
+9007	UI/Atlas/Head/HomeScreenHeadAtlas.prefab	FemaleHead14	(Triều Hữu) Tần Lương Ngọc
+9008	UI/Atlas/Head/HomeScreenHeadAtlas.prefab	Animal01	(Triều Hữu) Hồ Vương
+9009	UI/Atlas/Head/HomeScreenHeadAtlas.prefab	Animal02	(Triều Hữu) Lộc Vương
+9010	UI/Atlas/Head/HomeScreenHeadAtlas.prefab	Animal03	(Triều Hữu) Lang Vương
+9011	UI/Atlas/Head/HomeScreenHeadAtlas.prefab	Animal04	(Triều Hữu) Báo Vương
+9012	UI/Atlas/Head/HomeScreenHeadAtlas.prefab	Animal08	(Triều Hữu) Hầu Vương
+9013	UI/Atlas/Head/HomeScreenHeadAtlas.prefab	Animal07	(Triều Hữu) Song Thủ Dị Thú
+9014	UI/Atlas/Head/HomeScreenHeadAtlas.prefab	MaleHead31	Kinh Kha
+9015	UI/Atlas/Head/HomeScreenHeadAtlas.prefab	FemaleHead24	Ngu Cơ
+9016	UI/Atlas/Head/HomeScreenHeadAtlas.prefab	MaleHead33	Nhạc Phi
+9017	UI/Atlas/Head/HomeScreenHeadAtlas.prefab	MaleHead35	Lý Quảng
+9018	UI/Atlas/Head/HomeScreenHeadAtlas.prefab	MaleHead34	Triệu Vân
+9019	UI/Atlas/Head/HomeScreenHeadAtlas.prefab	MaleHead32	Lý Nguyên Bá
+9020	UI/Atlas/Head/HomeScreenHeadAtlas.prefab	Animal11	Định Hải Kim Cang
+9021	UI/Atlas/Head/HomeScreenHeadAtlas.prefab	Animal09	Kim Sí Bằng Hoàng
+9022	UI/Atlas/Head/HomeScreenHeadAtlas.prefab	Animal10	Ngân Giác Tê Hoàng
+9023	UI/Atlas/Head/HomeScreenHeadAtlas.prefab	Animal12	(Phải) Gấu Chúa
+9024	UI/Atlas/Head/HomeScreenHeadAtlas.prefab	Animal13	(Phải) Hổ Chúa
+9025	UI/Atlas/Head/HomeScreenHeadAtlas.prefab	Animal14	(Phải) Cá Sấu Chúa
+9026	UI/Atlas/Head/HomeScreenHeadAtlas02.prefab	Animals15	(Triều Hữu) Tích Vương
+9027	UI/Atlas/Head/HomeScreenHeadAtlas02.prefab	Animals16	(Triều Hữu) Hạt Vương
+9028	UI/Atlas/Head/HomeScreenHeadAtlas02.prefab	Animals17	(Triều Hữu) Ngao Vương
+9029	UI/Atlas/Head/HomeScreenHeadAtlas02.prefab	MaleHead45	Hạng Vũ
+9030	UI/Atlas/Head/HomeScreenHeadAtlas02.prefab	MaleHead47	Vô Tự Bi
+9031	UI/Atlas/Head/HomeScreenHeadAtlas02.prefab	MaleHead48	Địch Nhân Kiệt
+9032	UI/Atlas/Head/HomeScreenHeadAtlas02.prefab	MaleHead49	Lý Nguyên Phương
+9033	UI/Atlas/Head/HomeScreenHeadAtlas02.prefab	FemaleHead31	Võ Tắc Thiên
+9034	UI/Atlas/Home/HomeScreenAtlas2.prefab	Head_jh_zhuozi01	Kết hôn 1-Đầy Bàn
+9035	UI/Atlas/Home/HomeScreenAtlas2.prefab	Head_jh_zhuozi02	Kết hôn 2-Đầy Bàn
+9036	UI/Atlas/Home/HomeScreenAtlas2.prefab	Head_jh_zhuozi03	Kết hôn 3-Đầy Bàn
+9037	UI/Atlas/Home/HomeScreenAtlas2.prefab	Head_jh_tongxinguo01	Kết Hôn-Quả Đồng Tâm
+9038	UI/Atlas/Home/HomeScreenAtlas2.prefab	Head_jh_lihe01	Kết hôn-Hộp Quà Kẹo Hỉ
+9039	UI/Atlas/Head/Partner/Partner_Female_02.prefab	Head_npc_206	Kết hôn-Hồng Nương
+9040	UI/Atlas/Head/Partner/Partner_Female_02.prefab	Head_npc_181	Kết hôn-Phụng Hỉ
+9041	UI/Atlas/Head/Partner/Partner_Male_04.prefab	Head_npc_207	Kết hôn-Nguyệt Lão
+9042	UI/Atlas/Head/HomeScreenHeadAtlas02.prefab	Animals18	(Phải) Sư Vương
+9043	UI/Atlas/Head/HomeScreenHeadAtlas02.prefab	Animals19	(Phải) Phong Hậu
+9045	UI/Atlas/Home/HomeScreenAtlas2.prefab	Throne	Vương Tọa
+9046	UI/Atlas/Home/HomeScreenAtlas2.prefab 	Flower	Cánh Hoa Đào
+10001	UI/Atlas/Head/Pet/Pet.prefab	Full_npc_a001	Tượng-Chó
+10002	UI/Atlas/Head/Pet/Pet.prefab	Full_npc_a002	Tượng-Mèo
+10003	UI/Atlas/Head/Pet/Pet.prefab	Full_npc_a003	Ảnh Toàn Thân-Ba Tư Nhỏ
+10004	UI/Atlas/Head/Pet/Pet.prefab	Full_npc_a004	Tượng-Heo
+10005	UI/Atlas/Head/Pet/Pet.prefab	Full_npc_a005	Ảnh Toàn Thân- Tiểu Bạch Thố
+9047	UI/Atlas/Home/HomeScreenAtlas2.prefab 	Meal	Dùng Bữa
+9048	UI/Atlas/Head/HomeScreenHeadAtlas02.prefab	Animals21	(Phải) Cúc Hoàng
+9049	UI/Atlas/Head/HomeScreenHeadAtlas02.prefab	Animals20	(Phải) Điêu Hoàng
+9050	UI/Atlas/Head/HomeScreenHeadAtlas02.prefab	Animals23	(Phải) Ngưu Vương
+9051	UI/Atlas/Head/HomeScreenHeadAtlas02.prefab	Animals22	(Phải) Ngưu Hậu

@@ -1,0 +1,118 @@
+TemplateId	Name	Kind	ShowType	ItemType	DetailType	Level	RequireLevel	RealLevel	Icon	BigIcon	ObjID	Intro	Price	Quality	ItemValue	Sellable	ClassName	ResEffect	FightPower	Attrib1Type	Attrib1Value1	Attrib1Value2	Attrib1Value3	Attrib2Type	Attrib2Value1	Attrib2Value2	Attrib2Value3	Attrib3Type	Attrib3Value1	Attrib3Value2	Attrib3Value3	Attrib4Type	Attrib4Value1	Attrib4Value2	Attrib4Value3	Attrib5Type	Attrib5Value1	Attrib5Value2	Attrib5Value3	Attrib6Type	Attrib6Value1	Attrib6Value2	Attrib6Value3	Attrib7Type	Attrib7Value1	Attrib7Value2	Attrib7Value3	Attrib8Type	Attrib8Value1	Attrib8Value2	Attrib8Value3	Attrib9Type	Attrib9Value1	Attrib9Value2	Attrib9Value3	Attrib10Type	Attrib10Value1	Attrib10Value2	Attrib10Value3	HoleCount	InsetLevel
+1	Vũ Khí T1	T1_Weapon_Q1	1101	1	1	1	1	1					25000	1	25000	1	equip		0	basic_damage_v	60		60	add_seriesstate_time_v	15																																				
+2	Vũ Khí T2	T2_Weapon_Q1	1102	1	1	2	20	3					50000	2	50000	1	equip		0	basic_damage_v	80		80	add_seriesstate_time_v	20																																			1	2
+3	Vũ Khí T3	T3_Weapon_Q1	1103	1	1	3	40	6					100000	3	100000	1	equip		0	basic_damage_v	100		100	add_seriesstate_time_v	25																																			2	3
+4	Vũ Khí T4	T4_Weapon_Q1	1104	1	1	4	50	9					200000	4	200000	1	equip		0	basic_damage_v	150		150	add_seriesstate_time_v	30																																			3	4
+5	Vũ Khí T5	T5_Weapon_Q1	1105	1	1	5	60	12					400000	5	400000	1	equip		0	basic_damage_v	200		200	add_seriesstate_time_v	40																																			4	4
+6	Vũ Khí T6	T6_Weapon_Q1	1106	1	1	6	70	15					800000	6	800000	1	equip		0	basic_damage_v	250		250	add_seriesstate_time_v	50																																			4	5
+7	Vũ Khí T7	T7_Weapon_Q1	1107	1	1	7	80	18					1600000	7	1600000	1	equip		0	basic_damage_v	300		300	add_seriesstate_time_v	60																																			4	5
+8	Vũ Khí T8	T8_Weapon_Q1	1108	1	1	8	90	21					2250000	8	2250000	1	equip		0	basic_damage_v	350		350	add_seriesstate_time_v	80																																			5	5
+9	Vũ Khí T9	T9_Weapon_Q1	1109	1	1	9	100	24					3000000	8	3000000	1	equip		0	basic_damage_v	400		400	add_seriesstate_time_v	100																																			6	6
+10	Vũ Khí T10	T10_Weapon_Q1	1110	1	1	10	110	27					4000000	8	4000000	1	equip		0	basic_damage_v	450		450	add_seriesstate_time_v	120																																			7	6
+4901	Vũ Khí T11	T11_Weapon_Q1	1311	1	1	11	120	30					5000000	8	5000000	1	equip		0	basic_damage_v	500		500	add_seriesstate_time_v	130																																			7	7
+4902	Vũ Khí T12	T12_Weapon_Q1	1312	1	1	12	130	33					6000000	8	6000000	1	equip		0	basic_damage_v	550		550	add_seriesstate_time_v	140																																			7	7
+4903	Vũ Khí T13	T13_Weapon_Q1	1313	1	1	13	140	36					6750000	8	6750000	1	equip		0	basic_damage_v	605		605	add_seriesstate_time_v	150																																			7	7
+4904	Vũ Khí T14	T14_Weapon_Q1	1314	1	1	14	150	39					7400000	8	7400000	1	equip		0	basic_damage_v	666		666	add_seriesstate_time_v	165																																			7	7
+4905	Vũ Khí T15	T15_Weapon_Q1	1315	1	1	15	160	42					8180000	8	8180000	1	equip		0	basic_damage_v	732		732	add_seriesstate_time_v	182																																			7	7
+4906	Vũ Khí T16	T16_Weapon_Q1	1316	1	1	16	170	45					9000000	8	9000000	1	equip		0	basic_damage_v	805		805	add_seriesstate_time_v	200																																			7	7
+4907	Vũ Khí T17	T17_Weapon_Q1	1317	1	1	17	180	48					9900000	8	9900000	1	equip		0	basic_damage_v	886		886	add_seriesstate_time_v	220																																			7	7
+4908	Vũ Khí T18	T18_Weapon_Q1	1318	1	1	18	190	51					4000000	8	4000000	1	equip		0	basic_damage_v	974		974	add_seriesstate_time_v	242																																			7	7
+4909	Vũ Khí T19	T19_Weapon_Q1	1319	1	1	19	200	54					4000000	8	4000000	1	equip		0	basic_damage_v	1072		1072	add_seriesstate_time_v	266																																			7	7
+4910	Vũ Khí T20	T20_Weapon_Q1	1320	1	1	20	210	57					4000000	8	4000000	1	equip		0	basic_damage_v	1179		1179	add_seriesstate_time_v	292																																			7	7
+1530	【Kế Thừa】Vũ Khí Bậc 1	T1_Weapon_Q3	1501	1	3	1	1	2					100000	1	100000	1	equip		0	basic_damage_v	70		70	add_seriesstate_time_v	17																																				
+1531	【Kế Thừa】Vũ Khí Bậc 2	T2_Weapon_Q3	1502	1	3	2	20	5					200000	2	200000	1	equip		0	basic_damage_v	90		90	add_seriesstate_time_v	22																																			2	2
+1532	【Kế Thừa】Vũ Khí Bậc 3	T3_Weapon_Q3	1503	1	3	3	40	8					400000	3	400000	1	equip		0	basic_damage_v	125		125	add_seriesstate_time_v	27																																			3	3
+1533	【Kế Thừa】Vũ Khí Bậc 4	T4_Weapon_Q3	1504	1	3	4	50	11					1000000	4	1000000	1	equip		0	basic_damage_v	175		175	add_seriesstate_time_v	35																																			3	4
+1534	【Kế Thừa】Vũ Khí Bậc 5	T5_Weapon_Q3	1505	1	3	5	60	14					2250000	5	2250000	1	equip		0	basic_damage_v	225		225	add_seriesstate_time_v	45																																			4	4
+1535	【Kế Thừa】Vũ Khí Bậc 6	T6_Weapon_Q3	1506	1	3	6	70	17					3000000	6	3000000	1	equip		0	basic_damage_v	275		275	add_seriesstate_time_v	55																																			4	5
+1536	【Kế Thừa】Vũ Khí Bậc 7	T7_Weapon_Q3	1507	1	3	7	80	20					4000000	7	4000000	1	equip		0	basic_damage_v	325		325	add_seriesstate_time_v	70																																			5	5
+1537	【Kế Thừa】Vũ Khí Bậc 8	T8_Weapon_Q3	1508	1	3	8	90	23					6000000	8	6000000	1	equip		0	basic_damage_v	404		404	add_seriesstate_time_v	92																																			5	6
+3599	【Kế Thừa】Vũ Khí Bậc 9	T9_Weapon_Q3	1509	1	3	9	100	26					8100000	8	9000000	1	equip		0	basic_damage_v	450		450	add_seriesstate_time_v	115																																			6	6
+3600	【Kế Thừa】Vũ Khí Bậc 10	T10_Weapon_Q3	1510	1	3	10	110	29					10800000	8	12000000	1	equip		0	basic_damage_v	500		500	add_seriesstate_time_v	125																																			7	6
+5101	【Kế Thừa】Vũ Khí Bậc 11	T11_Weapon_Q3	1511	1	3	11	120	32					14400000	8	16000000	1	equip		0	basic_damage_v	550		550	add_seriesstate_time_v	135																																			7	7
+5102	【Kế Thừa】Vũ Khí Bậc 12	T12_Weapon_Q3	1512	1	3	12	130	35					17250000	8	19200000	1	equip		0	basic_damage_v	600		600	add_seriesstate_time_v	145																																			7	7
+5103	【Kế Thừa】Vũ Khí Bậc 13	T13_Weapon_Q3	1513	1	3	13	140	38					19800000	8	23040000	1	equip		0	basic_damage_v	660		660	add_seriesstate_time_v	155																																			7	7
+5104	【Kế Thừa】Vũ Khí Bậc 14	T14_Weapon_Q3	1514	1	3	14	150	41					21780000	8	21750000	1	equip		0	basic_damage_v	726		726	add_seriesstate_time_v	180																																			7	7
+5105	【Kế Thừa】Vũ Khí Bậc 15	T15_Weapon_Q3	1515	1	3	15	160	44					24000000	8	24045000	1	equip		0	basic_damage_v	799		799	add_seriesstate_time_v	198																																			7	7
+5106	【Kế Thừa】Vũ Khí Bậc 16	T16_Weapon_Q3	1516	1	3	16	170	47					26500000	8	26500000	1	equip		0	basic_damage_v	878		878	add_seriesstate_time_v	218																																			7	7
+5107	【Kế Thừa】Vũ Khí Bậc 17	T17_Weapon_Q3	1517	1	3	17	180	50					29000000	8	29000000	1	equip		0	basic_damage_v	966		966	add_seriesstate_time_v	240																																			7	7
+5108	【Kế Thừa】Vũ Khí Bậc 18	T18_Weapon_Q3	1518	1	3	18	190	53					12000000	8	12000000	1	equip		0	basic_damage_v	1063		1063	add_seriesstate_time_v	264																																			7	7
+5109	【Kế Thừa】Vũ Khí Bậc 19	T19_Weapon_Q3	1519	1	3	19	200	56					12000000	8	12000000	1	equip		0	basic_damage_v	1169		1169	add_seriesstate_time_v	290																																			7	7
+5110	【Kế Thừa】Vũ Khí Bậc 20	T20_Weapon_Q3	1520	1	3	20	210	59					12000000	8	12000000	1	equip		0	basic_damage_v	1286		1286	add_seriesstate_time_v	319																																			7	7
+101	【Hiếm】Vũ Khí Bậc 1	T1_Weapon_Q2	1201	1	2	1	1	4					250000	1	250000	1	equip		0	basic_damage_v	86		86	add_seriesstate_time_v	21																																				
+102	【Hiếm】Vũ Khí Bậc 2	T2_Weapon_Q2	1202	1	2	2	20	7					500000	2	500000	1	equip		0	basic_damage_v	115		115	add_seriesstate_time_v	26																																			3	3
+103	【Hiếm】Vũ Khí Bậc 3	T3_Weapon_Q2	1203	1	2	3	40	10					1250000	3	1250000	1	equip		0	basic_damage_v	165		165	add_seriesstate_time_v	33																																			3	4
+104	【Hiếm】Vũ Khí Bậc 4	T4_Weapon_Q2	1204	1	2	4	50	13					3000000	4	3000000	1	equip		0	basic_damage_v	215		215	add_seriesstate_time_v	43																																			4	4
+105	【Hiếm】Vũ Khí Bậc 5	T5_Weapon_Q2	1205	1	2	5	60	16					6250000	5	6250000	1	equip		0	basic_damage_v	265		265	add_seriesstate_time_v	53																																			4	5
+106	【Hiếm】Vũ Khí Bậc 6	T6_Weapon_Q2	1206	1	2	6	70	19					7500000	6	7500000	1	equip		0	basic_damage_v	315		315	add_seriesstate_time_v	66																																			5	5
+107	【Hiếm】Vũ Khí Bậc 7	T7_Weapon_Q2	1207	1	2	7	80	22					10000000	7	10000000	1	equip		0	basic_damage_v	385		385	add_seriesstate_time_v	88																																			5	6
+108	【Hiếm】Vũ Khí Bậc 8	T8_Weapon_Q2	1208	1	2	8	90	25					13500000	8	13500000	1	equip		0	basic_damage_v	424		424	add_seriesstate_time_v	96																																			6	6
+109	【Hiếm】Vũ Khí Bậc 9	T9_Weapon_Q2	1209	1	2	9	100	28					18000000	8	20000000	1	equip		0	basic_damage_v	500		500	add_seriesstate_time_v	125																																			7	6
+110	【Hiếm】Vũ Khí Bậc 10	T10_Weapon_Q2	1210	1	2	10	110	31					22500000	8	25000000	1	equip		0	basic_damage_v	551		551	add_seriesstate_time_v	135																																			7	7
+5001	【Hiếm】Vũ Khí Bậc 11	T11_Weapon_Q2	1211	1	2	11	120	34					28500000	8	31250000	1	equip		0	basic_damage_v	600		600	add_seriesstate_time_v	145																																			7	7
+5002	【Hiếm】Vũ Khí Bậc 12	T12_Weapon_Q2	1212	1	2	12	130	37					34200000	8	37500000	1	equip		0	basic_damage_v	660		660	add_seriesstate_time_v	155																																			7	7
+5003	【Hiếm】Vũ Khí Bậc 13	T13_Weapon_Q2	1213	1	2	13	140	40					35600000	8	45000000	1	equip		0	basic_damage_v	726		726	add_seriesstate_time_v	165																																			7	7
+5004	【Hiếm】Vũ Khí Bậc 14	T14_Weapon_Q2	1214	1	2	14	150	43					39160000	8	39150000	1	equip		0	basic_damage_v	799		799	add_seriesstate_time_v	198																																			7	7
+5005	【Hiếm】Vũ Khí Bậc 15	T15_Weapon_Q2	1215	1	2	15	160	46					43150000	8	43140000	1	equip		0	basic_damage_v	878		878	add_seriesstate_time_v	218																																			7	7
+5006	【Hiếm】Vũ Khí Bậc 16	T16_Weapon_Q2	1216	1	2	16	170	49					47500000	8	47500000	1	equip		0	basic_damage_v	966		966	add_seriesstate_time_v	240																																			7	7
+5007	【Hiếm】Vũ Khí Bậc 17	T17_Weapon_Q2	1217	1	2	17	180	52					52250000	8	52250000	1	equip		0	basic_damage_v	1063		1063	add_seriesstate_time_v	264																																			7	7
+5008	【Hiếm】Vũ Khí Bậc 18	T18_Weapon_Q2	1218	1	2	18	190	55					25000000	8	25000000	1	equip		0	basic_damage_v	1169		1169	add_seriesstate_time_v	290																																			7	7
+5009	【Hiếm】Vũ Khí Bậc 19	T19_Weapon_Q2	1219	1	2	19	200	58					25000000	8	25000000	1	equip		0	basic_damage_v	1286		1286	add_seriesstate_time_v	319																																			7	7
+5010	【Hiếm】Vũ Khí Bậc 20	T20_Weapon_Q2	1220	1	2	20	210	61					25000000	8	25000000	1	equip		0	basic_damage_v	1415		1415	add_seriesstate_time_v	351																																			7	7
+2764	【Hoàng Kim】Vũ Khí Bậc 6	T6_Weapon_Q4	1306	1	4	6	70	101					97500000	7	97500000	1	equip		90000	basic_damage_v	410		410	add_seriesstate_time_v	85																																			5	6
+2765	【Hoàng Kim】Vũ Khí Bậc 7	T7_Weapon_Q4	1307	1	4	7	80	102					154000000	7	154000000	1	equip		144000	basic_damage_v	500		500	add_seriesstate_time_v	114																																			6	6
+2766	【Hoàng Kim】Vũ Khí Bậc 8	T8_Weapon_Q4	1308	1	4	8	90	103					229500000	7	229500000	1	equip		216000	basic_damage_v	550		550	add_seriesstate_time_v	124																																			7	6
+3619	【Hoàng Kim】Vũ Khí Bậc 9	T9_Weapon_Q4	1309	1	4	9	100	104					308000000	7	308000000	1	equip		288000	basic_damage_v	600		600	add_seriesstate_time_v	135																																			7	7
+3620	【Hoàng Kim】Vũ Khí Bậc 10	T10_Weapon_Q4	1310	1	4	10	110	105					385000000	7	385000000	1	equip		360000	basic_damage_v	700		700	add_seriesstate_time_v	150																																			7	7
+5360	【Hoàng Kim】Vũ Khí Bậc 11	T11_Weapon_Q4	1411	1	4	11	120	106					463250000	7	463250000	1	equip		432000	basic_damage_v	800		800	add_seriesstate_time_v	160																																			7	7
+5361	【Hoàng Kim】Vũ Khí Bậc 12	T12_Weapon_Q4	1412	1	4	12	130	107					541500000	7	541500000	1	equip		541500	basic_damage_v	900		900	add_seriesstate_time_v	170																																			7	7
+5362	【Hoàng Kim】Vũ Khí Bậc 13	T13_Weapon_Q4	1413	1	4	13	140	108					613500000	7	613500000	1	equip		613500	basic_damage_v	990		990	add_seriesstate_time_v	180																																			7	7
+5363	【Hoàng Kim】Vũ Khí Bậc 14	T14_Weapon_Q4	1414	1	4	14	150	109					685500000	7	685500000	1	equip		685500	basic_damage_v	1089		1089	add_seriesstate_time_v	270																																			7	7
+5364	【Hoàng Kim】Vũ Khí Bậc 15	T15_Weapon_Q4	1415	1	4	15	160	110					757500000	7	757500000	1	equip		757500	basic_damage_v	1198		1198	add_seriesstate_time_v	297																																			7	7
+9729	【Hoàng Kim】Vũ Khí Bậc 16	T16_Weapon_Q4	1416	1	4	16	170	111					829500000	7	829500000	1	equip		829500	basic_damage_v	1318		1198	add_seriesstate_time_v	327																																			7	7
+9730	【Hoàng Kim】Vũ Khí Bậc 17	T17_Weapon_Q4	1417	1	4	17	180	112					901500000	7	901500000	1	equip		901500	basic_damage_v	1449		1198	add_seriesstate_time_v	359																																			7	7
+9731	【Hoàng Kim】Vũ Khí Bậc 18	T18_Weapon_Q4	1418	1	4	18	190	113					757500000	7	757500000	1	equip		757500	basic_damage_v	1594		1198	add_seriesstate_time_v	395																																			7	7
+9732	【Hoàng Kim】Vũ Khí Bậc 19	T19_Weapon_Q4	1419	1	4	19	200	114					757500000	7	757500000	1	equip		757500	basic_damage_v	1754		1198	add_seriesstate_time_v	435																																			7	7
+9733	【Hoàng Kim】Vũ Khí Bậc 20	T20_Weapon_Q4	1420	1	4	20	210	115					757500000	7	757500000	1	equip		757500	basic_damage_v	1929		1198	add_seriesstate_time_v	478																																			7	7
+10016	【Bạch Kim】Vũ Khí Bậc 10	T10_Weapon_Q5	1910	1	5	10	110	105					392200000	7	392200000	1	equip		396000	basic_damage_v	800		800	add_seriesstate_time_v	170																																			7	7
+10017	【Bạch Kim】Vũ Khí Bậc 11	T11_Weapon_Q5	1911	1	5	11	120	106					474050000	7	474050000	1	equip		486000	basic_damage_v	900		900	add_seriesstate_time_v	180																																			7	7
+10018	【Bạch Kim】Vũ Khí Bậc 12	T12_Weapon_Q5	1912	1	5	12	130	107					555900000	7	555900000	1	equip		613500	basic_damage_v	1000		1000	add_seriesstate_time_v	190																																			7	7
+10019	【Bạch Kim】Vũ Khí Bậc 13	T13_Weapon_Q5	1913	1	5	13	140	108					631500000	7	631500000	1	equip		703500	basic_damage_v	1100		1100	add_seriesstate_time_v	200																																			7	7
+10020	【Bạch Kim】Vũ Khí Bậc 14	T14_Weapon_Q5	1914	1	5	14	150	109					707100000	7	707100000	1	equip		793500	basic_damage_v	1200		1200	add_seriesstate_time_v	290																																			7	7
+10021	【Bạch Kim】Vũ Khí Bậc 15	T15_Weapon_Q5	1915	1	5	15	160	110					782700000	7	782700000	1	equip		883500	basic_damage_v	1350		1350	add_seriesstate_time_v	315																																			7	7
+10022	【Bạch Kim】Vũ Khí Bậc 16	T16_Weapon_Q5	1916	1	5	16	170	111					858300000	7	858300000	1	equip		973500	basic_damage_v	1464		1450	add_seriesstate_time_v	351																																			7	7
+10023	【Bạch Kim】Vũ Khí Bậc 17	T17_Weapon_Q5	1917	1	5	17	180	112					933900000	7	933900000	1	equip		1063500	basic_damage_v	1611		1600	add_seriesstate_time_v	386																																			7	7
+10024	【Bạch Kim】Vũ Khí Bậc 18	T18_Weapon_Q5	1918	1	5	18	190	113					782700000	7	782700000	1	equip		846000	basic_damage_v	1772		1750	add_seriesstate_time_v	425																																			7	7
+10025	【Bạch Kim】Vũ Khí Bậc 19	T19_Weapon_Q5	1919	1	5	19	200	114					782700000	7	782700000	1	equip		846000	basic_damage_v	1949		2000	add_seriesstate_time_v	467																																			7	7
+10026	【Bạch Kim】Vũ Khí Bậc 20	T20_Weapon_Q5	1920	1	5	20	210	115					782700000	7	782700000	1	equip		846000	basic_damage_v	2144		2150	add_seriesstate_time_v	514																																			7	7
+555	Vũ Khí T1 (Thấp)	T1_Weapon_Test_Q1	1101	1	1	1	1	1					20000	1	3000	1	equip		0	basic_damage_v	60		60	add_seriesstate_time_v	15																																				
+556	Vũ Khí T2 (Thấp)	T2_Weapon_Test_Q1	1102	1	1	2	2	3					40000	2	3000	1	equip		0	basic_damage_v	80		80	add_seriesstate_time_v	20																																			3	1
+557	Vũ Khí T3 (Thấp)	T3_Weapon_Test_Q1	1103	1	1	3	3	6					80000	3	3000	1	equip		0	basic_damage_v	100		100	add_seriesstate_time_v	25																																			3	2
+558	Vũ Khí T4 (Thấp)	T4_Weapon_Test_Q1	1104	1	1	4	4	9					200000	4	3000	1	equip		0	basic_damage_v	120		120	add_seriesstate_time_v	30																																			3	3
+559	Vũ Khí T5 (Thấp)	T5_Weapon_Test_Q1	1105	1	1	5	5	12					500000	5	3000	1	equip		0	basic_damage_v	150		150	add_seriesstate_time_v	38																																			3	3
+560	Vũ Khí T6 (Thấp)	T6_Weapon_Test_Q1	1106	1	1	6	70	15					1200000	6	3000	1	equip		0	basic_damage_v	250		250	add_seriesstate_time_v	50																																			4	5
+561	Vũ Khí T7 (Thấp)	T7_Weapon_Test_Q1	1107	1	1	7	80	18					3200000	7	3000	1	equip		0	basic_damage_v	300		300	add_seriesstate_time_v	60																																			4	5
+562	Vũ Khí T8 (Thấp)	T8_Weapon_Test_Q1	1108	1	1	8	90	21					7000000	8	3000	1	equip		0	basic_damage_v	350		350	add_seriesstate_time_v	80																																			5	5
+3794	Vũ Khí T9 (Thấp)	T9_Weapon_Test_Q1	1109	1	1	9	100	24					7000000	8	3000	1	equip		0	basic_damage_v	400		400	add_seriesstate_time_v	100																																			6	6
+3795	Vũ Khí T10 (Thấp)	T10_Weapon_Test_Q1	1110	1	1	10	110	27					7000000	8	3000	1	equip		0	basic_damage_v	450		450	add_seriesstate_time_v	120																																			7	6
+563	Vũ Khí T1 (Trung)	T1_Weapon_Test_Q2	1101	1	2	1	1	1					20000	1	3000	1	equip		0	basic_damage_v	60		60	add_seriesstate_time_v	15																																				
+564	Vũ Khí T2 (Trung)	T2_Weapon_Test_Q2	1102	1	2	2	20	3					40000	2	3000	1	equip		0	basic_damage_v	80		80	add_seriesstate_time_v	20																																			3	1
+565	Vũ Khí T3 (Trung)	T3_Weapon_Test_Q2	1103	1	2	3	49	6					80000	3	3000	1	equip		0	basic_damage_v	100		100	add_seriesstate_time_v	25																																			3	2
+566	Vũ Khí T4 (Trung)	T4_Weapon_Test_Q2	1104	1	2	4	59	9					200000	4	3000	1	equip		0	basic_damage_v	120		120	add_seriesstate_time_v	30																																			3	3
+567	Vũ Khí T5 (Trung)	T5_Weapon_Test_Q2	1105	1	2	5	69	12					500000	5	3000	1	equip		0	basic_damage_v	150		150	add_seriesstate_time_v	38																																			3	3
+568	【Kế Thừa】Vũ Khí Bậc 6	T6_Weapon_Test_Q2	1106	1	2	6	70	15					3000000	6	3000000	1	equip		0	basic_damage_v	275		275	add_seriesstate_time_v	55																																			4	5
+569	Vũ Khí T7 (Trung)	T7_Weapon_Test_Q2	1107	1	2	7	80	18					3200000	7	3000	1	equip		0	basic_damage_v	325		325	add_seriesstate_time_v	70																																			5	5
+570	Vũ Khí T8 (Trung)	T8_Weapon_Test_Q2	1108	1	2	8	90	21					7000000	8	3000	1	equip		0	basic_damage_v	404		404	add_seriesstate_time_v	92																																			5	6
+3796	Vũ Khí T9 (Trung)	T9_Weapon_Test_Q2	1109	1	2	9	100	24					7000000	8	3000	1	equip		0	basic_damage_v	450		450	add_seriesstate_time_v	115																																			6	6
+3797	Vũ Khí T10 (Trung)	T10_Weapon_Test_Q2	1110	1	2	10	110	27					7000000	8	3000	1	equip		0	basic_damage_v	500		500	add_seriesstate_time_v	125																																			7	6
+571	Vũ Khí T1 (Cao)	T1_Weapon_Test_Q3	1201	1	3	1	1	1					20000	1	3000	1	equip		0	basic_damage_v	60		60	add_seriesstate_time_v	15																																				
+572	Vũ Khí T2 (Cao)	T2_Weapon_Test_Q3	1202	1	3	2	20	3					40000	2	3000	1	equip		0	basic_damage_v	80		80	add_seriesstate_time_v	20																																			3	3
+573	Vũ Khí T3 (Cao)	T3_Weapon_Test_Q3	1203	1	3	3	40	6					80000	3	3000	1	equip		0	basic_damage_v	100		100	add_seriesstate_time_v	25																																			3	4
+574	Vũ Khí T4 (Cao)	T4_Weapon_Test_Q3	1204	1	3	4	50	9					200000	4	3000	1	equip		0	basic_damage_v	120		120	add_seriesstate_time_v	30																																			4	4
+575	Vũ Khí T5 (Cao)	T5_Weapon_Test_Q3	1205	1	3	5	60	12					500000	5	3000	1	equip		0	basic_damage_v	150		150	add_seriesstate_time_v	38																																			4	5
+576	Vũ Khí T6 (Cao)	T6_Weapon_Test_Q3	1206	1	3	6	70	15					1200000	6	3000	1	equip		0	basic_damage_v	315		315	add_seriesstate_time_v	66																																			5	5
+577	Vũ Khí T7 (Cao)	T7_Weapon_Test_Q3	1207	1	3	7	80	18					3200000	7	3000	1	equip		0	basic_damage_v	210		210	add_seriesstate_time_v	53																																			5	6
+578	Vũ Khí T8 (Cao)	T8_Weapon_Test_Q3	1208	1	3	8	90	21					7000000	8	3000	1	equip		0	basic_damage_v	240		240	add_seriesstate_time_v	60																																			6	6
+3798	Vũ Khí T9 (Cao)	T9_Weapon_Test_Q3	1209	1	3	9	100	24					7000000	8	3000	1	equip		0	basic_damage_v	500		500	add_seriesstate_time_v	125																																			7	6
+3799	Vũ Khí T10 (Cao)	T10_Weapon_Test_Q3	1210	1	3	10	110	27					7000000	8	3000	1	equip		0	basic_damage_v	551		551	add_seriesstate_time_v	135																																			7	7
+1246	Vũ Khí T1 (Đặc chế)	Cus_T1_Weapon_Q1	1101	1	1	1	1	1					25000	1	25000	1	equip		0	basic_damage_v	60		60	add_seriesstate_time_v	15																																				

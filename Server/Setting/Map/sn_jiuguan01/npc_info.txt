@@ -1,0 +1,8 @@
+Index	NpcName	TitleID	NpcTemplateId	WalkNearLength	CanAutoPath	NpcLevel	XPos	YPos	StandDir	Quantity	NpcType	NpcCamp	NpcDroprate	NpcSeriesAuto	NpcSeriesMetal	NpcSeriesWood	NpcSeriesWater	NpcSeriesFire	NpcSeriesEarth	Removewhendeath	ChangeColorScheme	HideTaskId
+laoban	Bà Chủ	117	3198	200	1	99	3689	6769	32	-1	0	0		0	0	0	0	0	0	0	0	
+shenmiren	Người Bí Ẩn		3197	200	1	99	4936	8155	48	-1	0	0		0	0	0	0	0	0	0	0	
+jinshinei	Trong phòng		73	200		99	5696	17629	0	-1	0	0		0	0	0	0	0	0	0	0	
+qushiwai	Đình Viện		73	200		99	3096	6525	0	-1	0	0		0	0	0	0	0	0	0	0	
+lingengxin	Lâm Triều Hoa		3244	200		99	6518	8997	40	-1	0	0		0	0	0	0	0	0	0	0	
+zhaoliying	Triệu Ân Đồng		3243	200		99	6483	7790	48	-1	0	0		0	0	0	0	0	0	0	0	
+linqingyu	Lâm Thanh Vũ	66	3245	200		99	5227	5364	48	-1	0	0		0	0	0	0	0	0	0	0	

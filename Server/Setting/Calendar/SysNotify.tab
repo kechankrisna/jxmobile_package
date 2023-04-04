@@ -1,0 +1,15 @@
+StringKey	LevelMin	LimitFunc	Name	Message	BeforSec	DefaultSel
+Boss	20		Minh Chủ Võ Lâm	Hoạt động Minh Chủ Võ Lâm đã mở, mau đến khiêu chiến nào!	300	1
+Battle	24		Chiến Trường Tống Kim	Chiến Trường Tống Kim đã khai chiến!	0	0
+FieldBoss	30		Danh Tướng	Hoạt động Danh Tướng đã mở, mau đến khiêu chiến!	300	1
+KinGather	11	NeedKin	Lửa Trại Bang Hội	Thời gian Lửa Trại Bang Hội đã đến, mau đến tham gia!	300	1
+DomainBattle	20	NeedKin	Công Thành Chiến	Công Thành Chiến đã mở, mau tham chiến nào!	300	1
+FactionBattle	30		Thi Đấu Môn Phái	Thi Đấu Môn Phái sắp mở, đại hiệp hãy đến khiêu chiến!	300	1
+TeamBattle	30		Thông Thiên Tháp	Thông Thiên Tháp sắp mở, đại hiệp hãy đến khiêu chiến!	300	1
+KinFuben	30	NeedKin	Thí Luyện Bang Hội	Thí Luyện Bang Hội đã bắt đầu, hãy mau cùng hảo hữu tham gia!	300	1
+ImperialTombEmperor	60	NeedKin	Thủy Hoàng Giáng Thế	Tần Thủy Hoàng sắp hiện thế, cùng Bang Hội đến khiêu chiến mau!	300	1
+InDifferBattle	50		Tâm Ma Ảo Cảnh	Tâm Ma Ảo Cảnh sắp mở! Thi đấu không cách biệt, mau trải nghiệm nào!	300	0
+ImperialTombFemaleEmperor	60	NeedKin	Nữ Đế Hồi Sinh	Võ Tắc Thiên sắp hồi sinh, hãy chiến đấu cùng bang hội!	300	1
+KinSecretFuben	70	NeedKin	Bí Cảnh Bang Hội	Thời gian Bí Cảnh Bang Hội đã đến, mau cùng hảo hữu Bang Hội đến khiêu chiến!	300	1
+KeyQuestFuben	50		Di Tích Tầm Bảo	Đã đến thời gian Di Tích Tầm Bảo, mau cùng hảo hữu đến tìm báu vật!	300	1
+KinDefendFuben	70	NeedKin	Bảo Vệ Bang Hội	Thời gian chiến đấu Bảo Vệ Bang Hội đã đến, mau cùng hảo hữu Bang Hội đi chống lại kẻ địch!	300	1

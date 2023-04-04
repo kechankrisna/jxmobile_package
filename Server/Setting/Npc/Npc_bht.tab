@@ -1,0 +1,24 @@
+Index	TemplateID	Name	Kind	Camp	ClassName	ScriptParam	NpcResID	FaceID	BigFaceID	ReviveFrame	NpcAttribID	NormalSkill1	NormalSkillLevel1	NormalSkill2	NormalSkillLevel2	NormalSkill3	NormalSkillLevel3	VisionRadius	ActiveRadius	AiFile	Treasure	DropFile	FightMode	RunSpeed	BloodStyle	ForbitMove	TitleID	AuraSkillId	AuraSkillLevel	StartActEvent	Tag	DropType	DefaultDialog	WalkSpeed	NameColor	Experience	GouHuoRate	TransBossNpcTID	TransBossRate	IsNotShowShadow	FixExperience	IsNotBYStealLife	SyncFirst
+BHT_Enemy_1	709	Sấm Đường Tặc	0	1	RewardDropNpc		173	801	300	60	921	22	1					1500	1500	Setting/Npc/Ai/CommonPassive.ini			1	18	1																		
+BHT_Enemy_2	710	Thiết Đồ Tặc	0	1	RewardDropNpc		173	801	300	60	922	22	1					1500	1500	Setting/Npc/Ai/CommonPassive.ini			1	18	1																		
+BHT_Enemy_3	711	Ẩn Cư Cao Thủ	0	1	RewardDropNpc		124	801	300	60	923	22	1					1500	1500	Setting/Npc/Ai/CommonPassive.ini			1	18	1																		
+BHT_Enemy_4	931	Sấm Đường Tặc	0	1	RewardDropNpc		170	801	300	60	924	22	1					1500	1500	Setting/Npc/Ai/CommonPassive.ini			1	18	1																		
+BHT_Boss_1	712	Lôi Đồng	0	1	RewardDropNpc		174	801	300		926	2365	1	91	1			1500	1500	Setting/Npc/Ai/whitetigerfuben/floor_2_boss.ini			1	18	2		28	197	1						3								
+BHT_Boss_2	713	Đường Quyên Quyên	0	1	RewardDropNpc		164	801	300		927	39	1	91	1			1500	1500	Setting/Npc/Ai/whitetigerfuben/floor_3_boss.ini			1	18	2		29	197	1						3								
+BHT_Boss_3	714	Lôi Chấn Thiên	0	1	RewardDropNpc		367	801	300		928	2363	1	91	1			1500	1500	Setting/Npc/Ai/whitetigerfuben/floor_4_boss.ini			1	18	2		30	197	1						4								
+BHT_Boss_4	932	Lôi Phong	0	1	RewardDropNpc		155	801	300		925	2363	1	91	1			1500	1500	Setting/Npc/Ai/whitetigerfuben/floor_1_boss.ini			1	18	2		27	197	1						3								
+BHT_Boss_5	1953	Thần Bí Nhân Lôi	0	1	FubenDeath		24	801	300		929	2363	1	91	1	1065	2	1500	1500	Setting/Npc/Ai/whitetigerfuben/floor_1_boss.ini			1	18	2			197	1						5								
+BHT_Boss_5_2	1954	Lôi (Phân Thân)	0	1	FubenDeath		24	801	300		928	2363	1	91	1			1500	1500	Setting/Npc/Ai/whitetigerfuben/floor_1_boss.ini			1	18	2			197	1						5								
+BHT_Enter_North	715	Báo danh-Bắc	2	1			132	651	326		1	21	1							Setting/Npc/Ai/CommonActive.ini			0	15	1																		
+BHT_Enter_South	716	Báo danh-Nam	2	1			132	651	326		1	21	1							Setting/Npc/Ai/CommonActive.ini			0	15	1																		
+BHT_Enter_West	717	Báo danh-Tây	2	1			132	651	326		1	21	1							Setting/Npc/Ai/CommonActive.ini			0	15	1																		
+BHT_Enter_East	718	Báo danh-Đông	2	1			132	651	326		1	21	1							Setting/Npc/Ai/CommonActive.ini			0	15	1																		
+BHT_Enter_1	933	Báo danh-1	2	1	WhiteTiger	1	132	651	305		1	21	1							Setting/Npc/Ai/CommonActive.ini			0	15	1																		
+BHT_Enter_2	934	Báo danh-2	2	1	WhiteTiger	2	132	651	305		1	21	1							Setting/Npc/Ai/CommonActive.ini			0	15	1																		
+BHT_Enter_3	935	Báo danh-3	2	1	WhiteTiger	3	132	651	305		1	21	1							Setting/Npc/Ai/CommonActive.ini			0	15	1																		
+BHT_Enter_4	936	Báo danh-4	2	1	WhiteTiger	4	132	651	305		1	21	1							Setting/Npc/Ai/CommonActive.ini			0	15	1																		
+BHT_Enter_5	937	Báo danh-5	2	1	WhiteTiger	5	132	651	305		1	21	1							Setting/Npc/Ai/CommonActive.ini			0	15	1																		
+BHT_Enter_6	938	Báo danh-6	2	1	WhiteTiger	6	132	651	305		1	21	1							Setting/Npc/Ai/CommonActive.ini			0	15	1																		
+BHT_Enter_7	939	Báo danh-7	2	1	WhiteTiger	7	132	651	305		1	21	1							Setting/Npc/Ai/CommonActive.ini			0	15	1																		
+BHT_Enter_8	940	Báo danh-8	2	1	WhiteTiger	8	132	651	305		1	21	1							Setting/Npc/Ai/CommonActive.ini			0	15	1																		
+BHT_Gouhuo	1304	Lửa Trại	4	0	GouHuoNpc	all|10000|6|5|0|100	380																								NoTurn												

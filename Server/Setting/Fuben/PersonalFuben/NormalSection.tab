@@ -1,0 +1,58 @@
+nSectionIdx	nSubSectionIdx	nFubenIndex	szTitle		szUiTypeName	szUiAtlas	nNeedTaskId	nType	bFFHideUi	ExtPosition
+1	1	1	Tuyết Sơn Cổ Đạo	Nghỉ ngơi vài tháng, cơ thể đã hồi phục rồi, không biết hôm đó là ai đã hạ độc thủ. Có thể hiện trường vẫn còn chút manh mối ...	Fuben6_1	UI/Atlas/Fuben/FubenMap_03.prefab	1	1	1	
+1	2	2	Ly Ưu Sơn	Cùng Nạp Lan Chân đến Ly Ưu Sơn tìm Ngân Ti Thảo, đánh bại Ong Chúa để Nạp Lan Chân hái Ngân Ti Thảo.	Fuben3_1	UI/Atlas/Fuben/FubenMap_01.prefab	1	1	1	
+1	3	3	Vô Ưu Cấm Địa	Phi Chiến: Đến cửa động Vô Ưu Cấm Địa nghe lén Nạp Lan Tiềm Lẫm nói chuyện với đệ tử.	Fuben4_3	UI/Atlas/Fuben/FubenMap_01.prefab	1	1	1	400|14050|2900|500|38
+1	4	4	Ly Ưu Sơn Động	3 người cùng vượt ải	Fuben1_3	UI/Atlas/Fuben/FubenMap_01.prefab	1	1	1	
+2	1	5	Hô Khiếu Sơn Đạo	Dương Ảnh Phong ra tay giúp đánh bại đám người bao vây cô gái. Bọn họ như muốn đoạt vật gì đó.	Fuben5_2	UI/Atlas/Fuben/FubenMap_01.prefab	1	1	1	
+2	2	6	Tàng Kiếm Sơn Trang	Thông qua đám Trang Đinh tuần tra, đến cuối phó bản nghe lén được đối thoại của Trác Phi Phàm và Tử Hiên	Fuben2_4	UI/Atlas/Fuben/FubenMap_01.prefab	1	1	1	
+2	3	7	Vong Ưu Lữ Đạo	Nghe được Phản Đồ Phi Long thúc ép Nguyệt My Nhi, sau khi hiểu rõ mọi chuyện Nguyệt My Nhi vì quá kích động đã ngất xỉu.	Fuben5_3	UI/Atlas/Fuben/FubenMap_03.prefab	1	1	1	
+2	4	8	Tâm Ma Trận	Vượt Tâm Ma Trận ở Vô Ưu Giáo. Diệt ảo ảnh của Trác Phi Phàm, Tử Hiên, Nạp Lan Tiềm Lẫm và Nạp Lan Chân, cuối cùng đánh bại Tâm Ma.	Fuben1_1	UI/Atlas/Fuben/FubenMap_01.prefab	1	1	1	
+2	5	9	Tàng Kiếm U Cốc	Đánh bại kẻ địch đến Phi Long Bảo quấy nhiễu	Fuben8_3	UI/Atlas/Fuben/FubenMap_03.prefab	1	1	1	402|10850|3560|500|102
+2	6	10	Kiếm Khí Phong	Lật tẩy âm mưu của Trác Phi Phàm và đánh bại hắn, khi đánh lén Dương Ảnh Phong đã bị trở tay tiêu diệt.	Fuben1_4	UI/Atlas/Fuben/FubenMap_01.prefab	1	1	1	402|3000|2800|500|108
+3	1	11	Thiên Sơn Cổ Đạo	Chiến đấu với cô nương áo tím và Thương Ưng, đánh bại nàng sau đó được nhờ đưa cô ta về nhà.	Fuben4_4	UI/Atlas/Fuben/FubenMap_01.prefab	1	1	1	403|8200|5180|500|119
+3	2	33	Tu Võ Mật Địa	Dương Ảnh Phong đến Lạc Diệp Cốc tìm Mạnh Tri Thu tỉ võ, ta đến đó xem thử...	Fuben2_4	UI/Atlas/Fuben/FubenMap_01.prefab	1	1	1	
+3	3	12	Hồng Diệp Cốc	Trên đường rời khỏi Phi Long Bảo vào phó bản cứu cô gái bị bắt cóc.	Fuben5_1	UI/Atlas/Fuben/FubenMap_01.prefab	1	1	1	403|15500|11140|500|136
+3	4	13	Lăng Tuyệt Phong	Quyết chiến với Nguyệt My Nhi ở Lăng Tuyệt Phong, cô ta không thừa nhận đã bắt Chân Nhi. Sau cuộc chiến, Chân Nhi xuất hiện để ngăn cô ta làm hại đến Nguyệt My Nhi.	Fuben3_4	UI/Atlas/Fuben/FubenMap_01.prefab	1	1	1	403|14100|3800|500|141
+3	5	14	Vô Ưu Cấm Địa	Cùng Tường Vi cứu Nạp Lan Chân và Nguyệt My Nhi ở cấm địa Vô Ưu Giáo nhưng ba người lại bị bắt lại ở cổng, nghe nói là đến Trích Tinh Lâu có việc cần bàn.	Fuben6_4	UI/Atlas/Fuben/FubenMap_03.prefab	1	1	1	495|10000|5400|500|161
+3	6	15	Trích Tinh Địa Lao	Từ chối gia nhập Vô Ưu Giáo, cứu Tử Hiên bị nhốt	Fuben3_2	UI/Atlas/Fuben/FubenMap_01.prefab	1	1	1	496|9000|10600|500|170
+3	7	16	Thông Thiên Tháp	Cứu Tường Vi trong Thông Thiên Tháp	Fuben6_2	UI/Atlas/Fuben/FubenMap_03.prefab	1	1	1	497|8100|6900|500|176
+3	8	17	Bi Ma Sơn Trang	Nạp Lan Tiềm Lẫm bị đánh bại ở Bi Ma Sơn Trang, trước khi mất nhờ Dương Ảnh Phong chăm sóc con gái của y.	Fuben7_3	UI/Atlas/Fuben/FubenMap_03.prefab	1	1	1	404|15600|9400|500|187
+4	1	18	Chân núi Hành Sơn	Sau khi nghe Lư Thanh nói, đại hiệp như nhớ lại nhiều năm về trước, Độc Cô Kiếm tìm Huyết Thư để báo thù cho sư phụ trong đêm mưa...	Fuben5_4	UI/Atlas/Fuben/FubenMap_03.prefab	1	1	1	
+4	2	19	Cửu Hầu Động	Muốn lên Hoa Sơn phải vượt Cửu Hầu, xưa kia là nơi đệ tử Hoa Sơn rèn luyện!	Fuben7_2	UI/Atlas/Fuben/FubenMap_03.prefab	1	1	1	487|2100|5600|500|198
+4	3	20	Phúc Duyên Trang	Cùng Trương Như Mộng, Độc Cô Kiếm đánh bại Lộ Đạt và thủ hạ	Fuben7_1	UI/Atlas/Fuben/FubenMap_03.prefab	1	1	1	
+4	4	21	Bích Hà Đảo	Diệt Sát Thủ và Hoa Tặc Đầu Mục ở Bích Hà Đảo để cứu Trương Lâm Tâm và Hà Mai	Fuben8_3	UI/Atlas/Fuben/FubenMap_03.prefab	1	1	1	405|6100|10500|500|225
+4	5	22	Lâm An Thành Đông	Chiến đấu với Trương Như Mộng, khi Trương Như Mộng còn lại 30% sinh lực sẽ bắt đầu cốt truyện cô gái che mặt cứu Trương Như Mộng	Fuben4_1	UI/Atlas/Fuben/FubenMap_01.prefab	1	1	1	405|14550|14020|500|233
+5	1	23	Võ Di Phái	Đánh bại Đệ Tử Ngũ Sắc trong Võ Di Kiếm Phái, gặp được Trương Lâm.	Fuben5_1	UI/Atlas/Fuben/FubenMap_01.prefab	1	1	1	488|3000|6300|500|246
+5	2	24	Võ Di Cấm Địa	Diệt Sát Thủ Ngũ Sắc Giáo và Đầu Mục ở Võ Di Cấm Địa để cứu Liễu Trung Nguyên.	Fuben8_2	UI/Atlas/Fuben/FubenMap_03.prefab	1	1	1	489|3600|5550|500|253
+5	3	25	Lâm An Dịch Đạo	Đẩy lui Nam Cung Diệt trọng thương.	Fuben1_2	UI/Atlas/Fuben/FubenMap_01.prefab	1	1	1	490|7400|5500|500|264
+5	4	26	Ám Ảnh Trúc Lâm	Đánh bại Diêu Công Tử và thuộc hạ, bắt Diêu Công Tử, khi sinh lực của hắn dưới 30% sẽ tự đầu hàng	Fuben2_1	UI/Atlas/Fuben/FubenMap_01.prefab	1	1	1	493|5500|6400|500|280
+5	5	27	U Ám Địa Lao	Diệt kẻ địch trong ngục, cứu Lý Tam và Thiên Vương Hữu Sứ Dương Hồ.	Fuben5_3	UI/Atlas/Fuben/FubenMap_03.prefab	1	1	1	493|5500|6400|500|287
+6	1	28	Ngoài Trường An	Bắt lấy Đệ Tử Hoa Sơn Lâm Đối Nhi, nếu sinh lực của y thấp hơn 30% sẽ tự đầu hàng.	Fuben2_4	UI/Atlas/Fuben/FubenMap_01.prefab	1	1	1	491|2200|3750|500|296
+6	2	29	Hoa Sơn Phái	Diệt bọn Lâm Hải ở phái Hoa Sơn	Fuben1_1	UI/Atlas/Fuben/FubenMap_01.prefab	1	1	1	491|8050|7520|500|305
+6	3	30	Thiếu Lâm U Cốc	Chiến đấu với Vô Tướng, sinh lực thấp hơn 30% hắn sẽ bỏ chạy.	Fuben4_2	UI/Atlas/Fuben/FubenMap_01.prefab	1	1	1	406|9350|10850|500|317
+6	4	31	Chiến Trường Cổ	Ngụy trang lẻn vào đại doanh quân Kim, mở cốt truyện khuyên Lục Văn Long.	Fuben7_1	UI/Atlas/Fuben/FubenMap_03.prefab	1	1	1	479|2510|1040|500|334
+6	5	32	Tiêu Sắt Chiến Trường	Cùng Nam Cung Diệt chiến đấu, sinh lực thấp hơn 25% Độc Cô Kiếm sẽ thi triển Thiên Ma Giải Thể đại pháp tiêu diệt Nam Cung Diệt.	Fuben2_1	UI/Atlas/Fuben/FubenMap_01.prefab	1	1	1	
+7	1	34	Thiên Sơn Thê Đạo	Trương Lâm Tâm vì cứu Độc Cô Kiếm đã đến Thiên Sơn tìm Tuyết Liên Vương	Fuben2_1	UI/Atlas/Fuben/FubenMap_03.prefab	1	1	1	
+7	2	35	Mê Cung Động Đình	Độc Cô Kiếm băng qua Mê Cung Động Đình	Fuben5_3	UI/Atlas/Fuben/FubenMap_01.prefab	1	1	1	411|4050|14300|500|372
+7	3	36	Đấu Trường Thiên Vương	Độc Cô Kiếm và Dương Anh phát hiện chuyện Phong Ngọc Thư phản bội Thiên Vương Bang	Fuben2_4	UI/Atlas/Fuben/FubenMap_01.prefab	1	1	1	411|7660|9240|500|378
+7	4	37	Hang Ngũ Sắc	Đại chiến với Ngũ Sắc Giáo tại sơn trang của Phương Viên Ngoại	Fuben1_1	UI/Atlas/Fuben/FubenMap_01.prefab	1	1	1	411|5310|4820|500|387
+7	5	38	Tam Ma Tuyệt Địa	Độc Cô Kiếm xông vào 3 ma trận	Fuben4_2	UI/Atlas/Fuben/FubenMap_03.prefab	1	1	1	411|14000|8770|500|392
+7	6	39	Bi Khấp Hoang Cốc	Trương Như Mộng và Nam Cung Thái Hồng đại chiến Kiếm Môn Quan	Fuben7_1	UI/Atlas/Fuben/FubenMap_01.prefab	1	1	1	411|14180|6970|500|399
+7	7	40	Phượng Hoàng Sơn	Diệt Phương Miễn	Fuben2_1	UI/Atlas/Fuben/FubenMap_01.prefab	1	1	1	411|13150|3550|500|408
+8	1	41	Cuồng Phong Cốc	Từ phế tích dưới đất đến Cuồng Sa Trấn.	Fuben2_4	UI/Atlas/Fuben/FubenMap_01.prefab	1	1	1	415|11300|2550|500|420
+8	2	42	Táng Mã Cương	Điều tra chuyện Thiết Môn Trại lần đầu gặp Yên Nhược Tuyết, cùng diệt Táng Mã Cương Sơn Tặc.	Fuben1_1	UI/Atlas/Fuben/FubenMap_01.prefab	1	1	1	477|1850|5400|500|423
+8	3	43	Phủ Nha Mật Thất	Đi Phủ Nha đoạt về quan ấn để nhận Ngọc Khuê từ Thượng Quan Báo	Fuben4_2	UI/Atlas/Fuben/FubenMap_03.prefab	1	1	1	
+8	4	44	Phong Tuyết Sơn Trang	Ở đây đại chiến với Triệu Thăng Quyền, thất bại.	Fuben7_1	UI/Atlas/Fuben/FubenMap_01.prefab	1	1	1	474|2660|1830|500|457
+8	5	45	Đường Môn U Kính	Tuyên chiến ở Đường Môn, diệt Đường Tiêu, nhưng bị Đường Ly chế phục.	Fuben2_1	UI/Atlas/Fuben/FubenMap_01.prefab	1	1	1	
+9	1	46	Mê Cung Giữa Hồ	Đến Trung Đô tìm Yên Nhược Tuyết, cốt truyện diễn tiến tại Thiên Vương Bang. Tu luyện tại Mê Cung Giữa Hồ.	Fuben7_1	UI/Atlas/Fuben/FubenMap_03.prefab	1	1	1	
+9	2	47	Tích Lịch Đường	Đến Phụng Trì Sơn Trang nhận nhiệm vụ diệt Tích Lịch Đường, đánh bại Lôi Đồng.	Fuben2_1	UI/Atlas/Fuben/FubenMap_03.prefab	1	1	1	
+9	3	48	Phượng Trì Hắc Lao	Diệt Thiệu Kỵ Phong trong đại lao, cứu 4 hảo hữu	Fuben2_4	UI/Atlas/Fuben/FubenMap_03.prefab	1	1	1	
+9	4	49	Âm Ám Mật Thất	Tìm và diệt Triệu Tiết trong Mê Cung Ngầm, biết được Độc Cô Kiếm là Thiên Nhẫn Giáo Chủ Hoàn Nhan Hồng Liệt.	Fuben1_1	UI/Atlas/Fuben/FubenMap_03.prefab	1	1	1	
+9	5	50	Thiên Nhẫn Mê Cung	Tìm và diệt Gia Luật Tị Li trong Mê Cung Thiên Nhẫn.	Fuben4_2	UI/Atlas/Fuben/FubenMap_03.prefab	1	1	1	
+9	6	51	Thiên Nhẫn Chủ Điện	Trong Thiên Nhẫn Chính Điện tìm và diệt Hoàn Nhan Hồng Liệt. Hiện cốt truyện, cốt truyện hoàn tất.	Fuben7_1	UI/Atlas/Fuben/FubenMap_03.prefab	1	1	1	
+500	1	500	Bao Vây Bạch Thủy	Giúp Nam Cung Phi một tay trong Bạch Thủy Tự	Fuben500_1	UI/Atlas/Fuben/FubenMap_01.prefab	1	1	1	
+500	2	501	Hồn Trung Nghĩa	Đã hộ tống quan tài Ngu Doãn Văn đến ngoại ô Lâm An Thành	Fuben500_2	UI/Atlas/Fuben/FubenMap_01.prefab	1	1	1	472|2600|5700|500|2033
+600	1	600	Thủ Tương Dương	Xâm nhập hậu doanh quân địch, diệt chủ tướng quân địch	Fuben600_1	UI/Atlas/Fuben/FubenMap_01.prefab	1	1	1	6101|5660|10000|500|2627
+900	1	900	Luyện Công Ngoài Thành	Vào Dã Ngoại, mở Tu luyện	Fuben900_1	UI/Atlas/Fuben/FubenMap_01.prefab	1	1	1	
+1000	1	1000	Mật Động Động Thiên	Vào mở kinh mạch	Fuben1000_1	UI/Atlas/Fuben/FubenMap_01.prefab	1	1	1	406|13500|6650|500|3202
+1000	2	1001	Mật Động Động Thiên	Vào mở kinh mạch	Fuben1000_1	UI/Atlas/Fuben/FubenMap_01.prefab	1	1	1	406|13500|6650|500|3205

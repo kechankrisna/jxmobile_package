@@ -1,0 +1,36 @@
+Index	TemplateID	Name	Kind	Camp	ClassName	ScriptParam	NpcResID	FaceID	BigFaceID	DefaultDialog	ReviveFrame	NpcAttribID	NormalSkill1	NormalSkillLevel1	NormalSkill2	NormalSkillLevel2	NormalSkill3	NormalSkillLevel3	VisionRadius	ActiveRadius	AiFile	Treasure	DropFile	FightMode	RunSpeed	BloodStyle	ForbitMove	TitleID	AuraSkillId	AuraSkillLevel	StartActEvent	Tag	DropType	WalkSpeed	NameColor	Experience	GouHuoRate	TransBossNpcTID	TransBossRate	IsNotShowShadow	FixExperience	SyncFirst	IsNotBYStealLife	Sex
+wlds_gate	2788	Cổng Thành	0	0	FieldMapNpc		504	200	994			1001			91	1	105	1	1500	1500	Setting/Npc/Ai/Stay.ini			0	20	2	1															1	1	
+wlds_longzhu_sun	2789	Long Trụ Càn Thanh	0	0	FieldMapNpc		499	200	994			1008			91	1	105	1	1500	1500	Setting/Npc/Ai/Stay.ini			1	20	2	1															1	1	
+wlds_longzhu_moon	2790	Long Trụ Khôn Ninh	0	0	FieldMapNpc		498	200	994			1008			91	1	105	1	1500	1500	Setting/Npc/Ai/Stay.ini			1	20	2	1															1	1	
+wlds_jinbing	2791	Kim Binh Tiên Phong	0	1	FieldMapNpc		1127	200	300		50	611	23	1	200	1			1500	1500	Setting/Npc/Ai/wulindashi/soldier.ini			1	18	1																		
+wlds_songbing	2792	Tống Binh	0	0	FieldMapNpc		1126	200	300		50	611	166	1	200	1			1500	1500	Setting/Npc/Ai/wulindashi/soldier.ini			1	18	1																		
+wlds_gongjiang	2793	Thợ Rèn	2	1			142	200	300			611									Setting/Npc/Ai/Stay.ini			1	18	3																		
+wlds_mucai	2794	Gỗ	2	1	TaskNpc	2605|3|Đang thu thập...	445	992	300			1001							560	980	Setting/Npc/Ai/Stay.ini			1	17	3	1					NoTurn										1		
+wlds_jinbing2	2796	Công Thành Kim Binh	0	1	FieldMapNpc		1127	200	300		50	611	23	1	200	1			1500	1500	Setting/Npc/Ai/wulindashi/soldier.ini			1	18	1																		
+wlds_songbing2	2795	Tống Binh	0	0	FieldMapNpc		1126	200	300		50	611	166	1	200	1			1500	1500	Setting/Npc/Ai/wulindashi/soldier.ini			1	18	1																		
+wlds_longzhu_sun2	2797	Long Trụ Càn Thanh	0	0	FieldMapNpc		499	200	994			1008			91	1	105	1	1500	1500	Setting/Npc/Ai/Stay.ini			1	20	2	1															1	1	
+wlds_longzhu_moon2	2798	Long Trụ Khôn Ninh	0	0	FieldMapNpc		498	200	994			1009			91	1	105	1	1500	1500	Setting/Npc/Ai/Stay.ini			1	20	2	1															1	1	
+wlds_boss_n	2799	Bắc Viện Đại Vương	0	1	FieldMapNpc		180	200	300			216	23	1	91	1	3967	8	1500	1500	Setting/Npc/Ai/fuben/xinshouboss.ini			1	20	2									4									
+wlds_boss_s	2800	Nam Viện Vương	0	1	FubenDeath		180	200	300			216	23	1	91	1	3967	8	1500	1500	Setting/Npc/Ai/fuben/xinshouboss.ini			1	20	2									4									
+wlds_zhanche	2801	Công Thành	0	1	FieldMapNpc		506	200	300		300	611			91	1	105	1	1500	1500	Setting/Npc/Ai/Stay.ini			0	20	1	1																	
+wlds_muxiang	2802	Vật Tư	2	1	TaskNpc	2600|3|Đang thu thập...	446	992	300			1001							560	980	Setting/Npc/Ai/Stay.ini			1	17	3	1					NoTurn										1		
+wlds_jinbing3	2803	Kim Binh 3	0	1	FieldMapNpc		1127	200	300		300	611	23	1	200	1			1500	1500	Setting/Npc/Ai/wulindashi/soldier.ini			1	18	1																		
+wlds_jinbing4	2804	Nam Viện Vệ Binh	0	1	FieldMapNpc		1127	200	300			212	23	1	200	1			1500	1500	Setting/Npc/Ai/wulindashi/soldier.ini			1	18	1																		
+wlds_baifuzhang	2807	Bách Phu Trưởng	0	1	FieldMapNpc		181	200	300		300	612	23	1	200	1			1500	1500	Setting/Npc/Ai/wulindashi/soldier.ini			1	18	2									3									
+wlds_baifuzhang1	2820	Bách Phu Trưởng	0	1	FieldMapNpc		181	200	300		300	612	23	1	200	1			1500	1500	Setting/Npc/Ai/wulindashi/soldier.ini			1	18	2									3									
+wlds_baifuzhang2	2817	Bách Phu Trưởng	0	1	FieldMapNpc		181	200	300		300	612	23	1	200	1			1500	1500	Setting/Npc/Ai/wulindashi/soldier.ini			1	18	2									3									
+wlds_fujiang	2818	Tống Phó Tướng	0	0	FieldMapNpc		151	200	300		300	612	23	1	200	1			1500	1500	Setting/Npc/Ai/wulindashi/soldier.ini			1	18	2									3									
+wlds_fujiang2	2819	Tống Phó Tướng	0	0	FieldMapNpc		151	200	300		300	612	23	1	200	1			1500	1500	Setting/Npc/Ai/wulindashi/soldier.ini			1	18	2									3									
+wlds_cao	2808	Cỏ Cầm Máu	2	1	TaskNpc	2601|3|Đang thu thập...	329	992	300			1001							560	980	Setting/Npc/Ai/Stay.ini			1	17	3	1					NoTurn										1		
+wlds_guo	2809	Quả Mọng	2	1	TaskNpc	2602|3|Đang thu thập...	328	992	300			1001							560	980	Setting/Npc/Ai/Stay.ini			1	17	3	1					NoTurn										1		
+wlds_yao	2810	Hỏa Hoa Quả	2	1	TaskNpc	2603|3|Đang thu thập...	334	992	300			1001							560	980	Setting/Npc/Ai/Stay.ini			1	17	3	1					NoTurn										1		
+wlds_jiangjun1	2811	Hàn Thế Trung	2	0			130	200	994			1001							560	980	Setting/Npc/Ai/Stay.ini			0	17	3	1					NoTurn			2							1		
+wlds_jiangjun2	2812	Lưu Vân	2	1			107	200	994			1001							560	980	Setting/Npc/Ai/Stay.ini			0	17	3	1					NoTurn			2							1		
+wlds_jiangjun3	2813	Lục Văn Long	2	1			144	200	994			1001							560	980	Setting/Npc/Ai/Stay.ini			0	17	3	1					NoTurn			2							1		
+wlds_wuqijia	2814	Giá Vũ Khí	2	1	TaskNpc	2604|3|Đang sửa...	953	995	300			1001							560	980	Setting/Npc/Ai/Stay.ini			0	17	3	1					NoTurn										1		
+wlds_shouwei	2815	Cận Vệ	4	0	TaskNpc		120	200	994			1001							560	980	Setting/Npc/Ai/Stay.ini			0	17	3	1					NoTurn			2							1		
+wlds_weibing	2816	Vệ Binh	4	0	TaskNpc		150	200	994			1001							560	980	Setting/Npc/Ai/Stay.ini			0	17	3	1					NoTurn			2							1		
+Fuben_1_boss1	2821	Hoàn Nhan Hồng Liệt	0	1	FubenDeath		31	200	300			405			91	1			1500	1500	Setting/Npc/Ai/Stay.ini			0	18	2									6									
+Fuben_1_boss2	2822	Kim Sí	0	1	FubenDeath		36	200	300			344	160	1	3735	1	195	1	1500	1500	Setting/Npc/Ai/fieldboss/20leader_huwang.ini			0	18	2									5								1	
+Fuben_1_guaiwu	2823	Hoàn Nhan Thân Binh	0	1	FubenDeath		1127	200	300			403	23	1	91	1			1500	1500	Setting/Npc/Ai/wulindashi/soldier.ini			0	18	1									1									
+Fuben_1_jingying	2824	Thiên Nhẫn Giáo Tinh Anh	0	1	FubenDeath		121	200	300			404	1342	1	91	1			1500	1500	Setting/Npc/Ai/fuben/Boss5.ini			0	18	1									3									
